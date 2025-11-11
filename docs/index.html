@@ -3,29 +3,55 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="LazyLearn — a lazy-but-steady physics and chemistry learning log" />
+    <meta name="description" content="LazyLearn — multilingual log for slow physics and chemistry" />
     <title>LazyLearn · learn.lazying.art</title>
     <link rel="stylesheet" href="styles.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;600&display=swap"
       rel="stylesheet"
     />
   </head>
   <body>
+    <div class="background-glow" aria-hidden="true"></div>
     <header class="hero">
-      <p class="eyebrow">LazyPhysics and Chemistry</p>
-      <h1>LazyLearn</h1>
-      <p class="tagline">
-        Physics + chemistry, unrushed. Slow notebooks, reproducible scripts,
-        and honest progress logs — all routed through learn.lazying.art.
+      <div class="top-bar">
+        <p class="eyebrow" data-i18n="heroEyebrow">LazyPhysics and Chemistry</p>
+        <div class="language-select">
+          <label for="language-picker" data-i18n="languageLabel">Language</label>
+          <select id="language-picker" aria-label="Language selector">
+            <option value="en">English</option>
+            <option value="zh-Hans">中文 (简体)</option>
+            <option value="zh-Hant">中文（繁體）</option>
+            <option value="ja">日本語</option>
+            <option value="ko">한국어</option>
+            <option value="vi">Tiếng Việt</option>
+            <option value="ar">العربية</option>
+            <option value="fr">Français</option>
+            <option value="es">Español</option>
+          </select>
+        </div>
+      </div>
+      <h1 data-i18n="heroTitle">LazyLearn</h1>
+      <p class="tagline" data-i18n="heroTagline">
+        Physics + chemistry, unrushed. Slow notebooks, reproducible scripts, and honest progress logs — all routed through learn.lazying.art.
       </p>
       <div class="hero-actions">
-        <a class="primary" href="https://learn.lazying.art">Visit the live site</a>
+        <a
+          class="primary"
+          href="https://learn.lazying.art"
+          target="_blank"
+          rel="noopener"
+          data-i18n="heroPrimary"
+          >Visit the live site</a
+        >
         <a
           class="secondary"
           href="https://github.com/lachlanchen/LazyPhysicsAndChemistry#readme"
+          target="_blank"
+          rel="noopener"
+          data-i18n="heroSecondary"
           >Read the repo guide</a
         >
       </div>
@@ -33,27 +59,24 @@
 
     <main>
       <section class="pillars">
-        <h2>Pillars of Lazy Learning</h2>
+        <h2 data-i18n="pillarsTitle">Pillars of Lazy Learning</h2>
         <div class="card-grid">
           <article class="card">
-            <h3>Pace</h3>
-            <p>
-              Deep dives beat hot takes. Each week focuses on one primitive:
-              scattering theory, variational methods, or Gaussian workflows.
+            <h3 data-i18n="pillar1Title">Pace</h3>
+            <p data-i18n="pillar1Body">
+              Weekly focus on one primitive—scattering, variational tricks, or Gaussian automation.
             </p>
           </article>
           <article class="card">
-            <h3>Evidence</h3>
-            <p>
-              Every chart originates from code inside this repo — notebooks in
-              <code>comp_physics/</code> and scripts in <code>examples/</code>.
+            <h3 data-i18n="pillar2Title">Evidence</h3>
+            <p data-i18n="pillar2Body" data-i18n-html="true">
+              Every plot ships with matching notebooks inside <code>comp_physics/</code> and scripts inside <code>examples/</code>.
             </p>
           </article>
           <article class="card">
-            <h3>Shareability</h3>
-            <p>
-              GitHub Pages serves <code>docs/</code> directly so anyone can peek
-              at the backlog or clone the calculations on demand.
+            <h3 data-i18n="pillar3Title">Shareability</h3>
+            <p data-i18n="pillar3Body" data-i18n-html="true">
+              GitHub Pages serves <code>docs/</code> directly so anyone can peek at the backlog or clone the calculations on demand.
             </p>
           </article>
         </div>
@@ -61,115 +84,689 @@
 
       <section class="tracks">
         <div class="section-header">
-          <h2>Active Tracks</h2>
-          <p>Quick links into the workbench.</p>
+          <h2 data-i18n="tracksTitle">Active Tracks</h2>
+          <p data-i18n="tracksSubtitle">Quick links into the workbench.</p>
         </div>
         <div class="card-grid">
           <article class="card">
-            <h3>Comp Physics Lab</h3>
-            <p>
-              Numerical experiments, from Numerov solvers to Lennard-Jones
-              sweeps, live in the <code>comp_physics/</code> tree.
+            <h3 data-i18n="track1Title">Comp Physics Lab</h3>
+            <p data-i18n="track1Body" data-i18n-html="true">
+              Numerical experiments, from Numerov solvers to Lennard-Jones sweeps, live in the <code>comp_physics/</code> tree.
             </p>
             <a
               href="https://github.com/lachlanchen/LazyPhysicsAndChemistry/tree/main/comp_physics"
               target="_blank"
               rel="noopener"
+              data-i18n="track1Link"
               >Browse notebooks →</a
             >
           </article>
           <article class="card">
-            <h3>Quantum Scripts</h3>
-            <p>
-              Minimal QAOA and VQE pilots under <code>examples/</code> keep the
-              tooling sharp without heavyweight dependencies.
+            <h3 data-i18n="track2Title">Quantum Scripts</h3>
+            <p data-i18n="track2Body" data-i18n-html="true">
+              Minimal QAOA and VQE pilots under <code>examples/</code> keep the tooling sharp without heavyweight dependencies.
             </p>
             <a
               href="https://github.com/lachlanchen/LazyPhysicsAndChemistry/tree/main/examples"
               target="_blank"
               rel="noopener"
+              data-i18n="track2Link"
               >Run a demo →</a
             >
           </article>
           <article class="card">
-            <h3>Multiwfn Bench</h3>
-            <p>
-              The <code>multiwfn/</code> drop mirrors the upstream 3.8 dev kit
-              for quick wavefunction analysis alongside Gaussian outputs.
+            <h3 data-i18n="track3Title">Multiwfn Bench</h3>
+            <p data-i18n="track3Body" data-i18n-html="true">
+              The <code>multiwfn/</code> drop mirrors the upstream 3.8 dev kit for quick wavefunction analysis alongside Gaussian outputs.
             </p>
             <a
               href="https://github.com/lachlanchen/LazyPhysicsAndChemistry/tree/main/multiwfn"
               target="_blank"
               rel="noopener"
+              data-i18n="track3Link"
               >Open toolkit →</a
             >
           </article>
           <article class="card">
-            <h3>Figure Locker</h3>
-              <p>
-                Static PNGs in <code>figures/</code> capture convergence plots,
-                QAOA heatmaps, and anything worth reusing in talks.
-              </p>
-              <a
-                href="https://github.com/lachlanchen/LazyPhysicsAndChemistry/tree/main/figures"
-                target="_blank"
-                rel="noopener"
-                >View gallery →</a
-              >
+            <h3 data-i18n="track4Title">Figure Locker</h3>
+            <p data-i18n="track4Body" data-i18n-html="true">
+              Static PNGs in <code>figures/</code> capture convergence plots, QAOA heatmaps, and anything worth reusing in talks.
+            </p>
+            <a
+              href="https://github.com/lachlanchen/LazyPhysicsAndChemistry/tree/main/figures"
+              target="_blank"
+              rel="noopener"
+              data-i18n="track4Link"
+              >View gallery →</a
+            >
           </article>
         </div>
       </section>
 
       <section class="timeline">
-        <h2>Latest Highlights</h2>
+        <h2 data-i18n="timelineTitle">Latest Highlights</h2>
         <div class="timeline-grid">
           <article>
-            <p class="timestamp">Notebook</p>
-            <h3>Rebuilding Numerov</h3>
-            <p>
-              Tuned <code>comp_physics/numerov.py</code> + associated notebook to
-              sweep boundary conditions for radial wells; figures updated in
-              <code>figures/</code>.
+            <p class="timestamp" data-i18n="timeline1Tag">Notebook</p>
+            <h3 data-i18n="timeline1Title">Rebuilding Numerov</h3>
+            <p data-i18n="timeline1Body" data-i18n-html="true">
+              Tuned <code>comp_physics/numerov.py</code> plus its notebook to sweep boundary conditions; refreshed <code>figures/</code> in the process.
             </p>
           </article>
           <article>
-            <p class="timestamp">Script</p>
-            <h3>VQE for Lazy Molecules</h3>
-            <p>
-              `examples/pennylane_chemistry_h2_vqe.py` now logs intermediate
-              energies so the LazyLearn site can embed convergence GIFs.
+            <p class="timestamp" data-i18n="timeline2Tag">Script</p>
+            <h3 data-i18n="timeline2Title">VQE for Lazy Molecules</h3>
+            <p data-i18n="timeline2Body" data-i18n-html="true">
+              <code>examples/pennylane_chemistry_h2_vqe.py</code> now logs intermediate energies so the LazyLearn site can embed convergence GIFs.
             </p>
           </article>
           <article>
-            <p class="timestamp">Reading</p>
-            <h3>Leonard Susskind Stack</h3>
-            <p>
-              External references live via a local symlink to the
-              <code>leonardsusskind/</code> clone — ignored in git, but always
-              nearby when cross-checking derivations.
+            <p class="timestamp" data-i18n="timeline3Tag">Reading</p>
+            <h3 data-i18n="timeline3Title">Distilled Notes</h3>
+            <p data-i18n="timeline3Body">
+              The reading queue condenses advanced texts into quick public briefings tucked inside the notebooks.
             </p>
           </article>
         </div>
       </section>
 
       <section class="cta">
-        <h2>Stay Lazy, Stay Consistent</h2>
-        <p>
-          Clone the repo, run a script, tweak a notebook, then send yourself a
-          note so LazyLearn can celebrate the win. Custom domain setup:
-          <strong>learn.lazying.art → GitHub Pages (docs/)</strong>.
+        <h2 data-i18n="ctaTitle">Stay Lazy, Stay Consistent</h2>
+        <p data-i18n="ctaBody" data-i18n-html="true">
+          Clone the repo, run a script, tweak a notebook, then log the win so LazyLearn can celebrate. Custom domain setup: learn.lazying.art → GitHub Pages (<code>docs/</code>).
         </p>
         <div class="hero-actions">
-          <a class="primary" href="https://github.com/lachlanchen/LazyPhysicsAndChemistry"
+          <a
+            class="primary"
+            href="https://github.com/lachlanchen/LazyPhysicsAndChemistry"
+            target="_blank"
+            rel="noopener"
+            data-i18n="ctaPrimary"
             >Clone the repo</a
           >
-          <a class="secondary" href="https://learn.lazying.art">See the log</a>
+          <a
+            class="secondary"
+            href="https://learn.lazying.art"
+            target="_blank"
+            rel="noopener"
+            data-i18n="ctaSecondary"
+            >See the log</a
+          >
         </div>
       </section>
     </main>
 
-    <footer>
-      <p>© LazyLearn · Powered by LazyPhysics and Chemistry · learn.lazying.art</p>
+    <footer data-i18n="footerText">
+      © LazyLearn · Powered by LazyPhysics and Chemistry · learn.lazying.art
     </footer>
+
+    <script>
+      (function () {
+        const translations = {
+          en: {
+            languageLabel: 'Language',
+            heroEyebrow: 'LazyPhysics and Chemistry',
+            heroTitle: 'LazyLearn',
+            heroTagline:
+              'Physics + chemistry, unrushed. Slow notebooks, reproducible scripts, and honest progress logs — all routed through learn.lazying.art.',
+            heroPrimary: 'Visit the live site',
+            heroSecondary: 'Read the repo guide',
+            pillarsTitle: 'Pillars of Lazy Learning',
+            pillar1Title: 'Pace',
+            pillar1Body: 'Weekly focus on one primitive—scattering, variational tricks, or Gaussian automation.',
+            pillar2Title: 'Evidence',
+            pillar2Body:
+              'Every plot ships with matching notebooks inside <code>comp_physics/</code> and scripts inside <code>examples/</code>.',
+            pillar3Title: 'Shareability',
+            pillar3Body:
+              'GitHub Pages serves <code>docs/</code> directly so anyone can peek at the backlog or clone the calculations on demand.',
+            tracksTitle: 'Active Tracks',
+            tracksSubtitle: 'Quick links into the workbench.',
+            track1Title: 'Comp Physics Lab',
+            track1Body:
+              'Numerical experiments, from Numerov solvers to Lennard-Jones sweeps, live in the <code>comp_physics/</code> tree.',
+            track1Link: 'Browse notebooks →',
+            track2Title: 'Quantum Scripts',
+            track2Body:
+              'Minimal QAOA and VQE pilots under <code>examples/</code> keep the tooling sharp without heavyweight dependencies.',
+            track2Link: 'Run a demo →',
+            track3Title: 'Multiwfn Bench',
+            track3Body:
+              'The <code>multiwfn/</code> drop mirrors the upstream 3.8 dev kit for quick wavefunction analysis alongside Gaussian outputs.',
+            track3Link: 'Open toolkit →',
+            track4Title: 'Figure Locker',
+            track4Body:
+              'Static PNGs in <code>figures/</code> capture convergence plots, QAOA heatmaps, and anything worth reusing in talks.',
+            track4Link: 'View gallery →',
+            timelineTitle: 'Latest Highlights',
+            timeline1Tag: 'Notebook',
+            timeline1Title: 'Rebuilding Numerov',
+            timeline1Body:
+              'Tuned <code>comp_physics/numerov.py</code> plus its notebook to sweep boundary conditions; refreshed <code>figures/</code> in the process.',
+            timeline2Tag: 'Script',
+            timeline2Title: 'VQE for Lazy Molecules',
+            timeline2Body:
+              '<code>examples/pennylane_chemistry_h2_vqe.py</code> now logs intermediate energies so the LazyLearn site can embed convergence GIFs.',
+            timeline3Tag: 'Reading',
+            timeline3Title: 'Distilled Notes',
+            timeline3Body:
+              'The reading queue condenses advanced texts into quick public briefings tucked inside the notebooks.',
+            ctaTitle: 'Stay Lazy, Stay Consistent',
+            ctaBody:
+              'Clone the repo, run a script, tweak a notebook, then log the win so LazyLearn can celebrate. Custom domain setup: learn.lazying.art → GitHub Pages (<code>docs/</code>).',
+            ctaPrimary: 'Clone the repo',
+            ctaSecondary: 'See the log',
+            footerText: '© LazyLearn · Powered by LazyPhysics and Chemistry · learn.lazying.art',
+          },
+          'zh-Hans': {
+            languageLabel: '语言',
+            heroEyebrow: 'LazyPhysics and Chemistry',
+            heroTitle: 'LazyLearn',
+            heroTagline:
+              '物理加化学，不紧不慢。慢节奏笔记、可复现脚本和真实进度日志都汇聚在 learn.lazying.art。',
+            heroPrimary: '访问线上站点',
+            heroSecondary: '阅读仓库指南',
+            pillarsTitle: '懒惰学习的支柱',
+            pillar1Title: '节奏',
+            pillar1Body: '每周聚焦一个核心：散射、变分技巧或 Gaussian 自动化。',
+            pillar2Title: '证据',
+            pillar2Body:
+              '每一张图都来自仓库里的 <code>comp_physics/</code> 笔记本和 <code>examples/</code> 脚本。',
+            pillar3Title: '可共享',
+            pillar3Body:
+              'GitHub Pages 直接发布 <code>docs/</code>，随时查看待办或按需复刻计算。',
+            tracksTitle: '进行中的轨道',
+            tracksSubtitle: '快速进入工作台。',
+            track1Title: '计算物理实验室',
+            track1Body:
+              '从 Numerov 求解器到 Lennard-Jones 扫描，全都在 <code>comp_physics/</code> 目录。',
+            track1Link: '浏览笔记本 →',
+            track2Title: '量子脚本',
+            track2Body:
+              '<code>examples/</code> 中的精简 QAOA/VQE 保持工具锋利且无重量级依赖。',
+            track2Link: '运行示例 →',
+            track3Title: 'Multiwfn 工作台',
+            track3Body:
+              '<code>multiwfn/</code> 同步上游 3.8 dev 套件，快速分析 Gaussian 波函数。',
+            track3Link: '打开工具包 →',
+            track4Title: '图像陈列柜',
+            track4Body: '<code>figures/</code> 中的 PNG 记录收敛曲线、QAOA 热图与展示用图。',
+            track4Link: '查看图库 →',
+            timelineTitle: '最新速记',
+            timeline1Tag: '笔记本',
+            timeline1Title: '重建 Numerov',
+            timeline1Body:
+              '调优 <code>comp_physics/numerov.py</code> 与配套笔记本扫描边界条件，并刷新 <code>figures/</code> 图像。',
+            timeline2Tag: '脚本',
+            timeline2Title: '懒人分子的 VQE',
+            timeline2Body:
+              '<code>examples/pennylane_chemistry_h2_vqe.py</code> 现在记录中间能量，方便在网站嵌入收敛 GIF。',
+            timeline3Tag: '阅读',
+            timeline3Title: '精读笔记',
+            timeline3Body: '阅读队列把高阶教材提炼成公开笔记里的精简 briefing。',
+            ctaTitle: '懒而稳',
+            ctaBody:
+              '克隆仓库、跑个脚本、改动笔记本，然后记录成果让 LazyLearn 庆祝。自定义域名：learn.lazying.art → GitHub Pages（<code>docs/</code>）。',
+            ctaPrimary: '克隆仓库',
+            ctaSecondary: '查看日志',
+            footerText: '© LazyLearn · 基于 LazyPhysics and Chemistry · learn.lazying.art',
+          },
+          'zh-Hant': {
+            languageLabel: '語言',
+            heroEyebrow: 'LazyPhysics and Chemistry',
+            heroTitle: 'LazyLearn',
+            heroTagline:
+              '物理加化學，從容深入。慢速筆記、可重現腳本與真實進度都集中在 learn.lazying.art。',
+            heroPrimary: '造訪線上站點',
+            heroSecondary: '閱讀倉庫指南',
+            pillarsTitle: '懶學的支柱',
+            pillar1Title: '節奏',
+            pillar1Body: '每週聚焦一個核心：散射、變分技巧或 Gaussian 自動化。',
+            pillar2Title: '證據',
+            pillar2Body:
+              '每張圖都來自倉庫裡的 <code>comp_physics/</code> 筆記本與 <code>examples/</code> 腳本。',
+            pillar3Title: '可共享',
+            pillar3Body:
+              'GitHub Pages 直接部署 <code>docs/</code>，隨時檢視待辦或複製計算。',
+            tracksTitle: '進行中的軌道',
+            tracksSubtitle: '快速通往工作檯。',
+            track1Title: '計算物理實驗室',
+            track1Body:
+              '從 Numerov 解算器到 Lennard-Jones 掃描，全都在 <code>comp_physics/</code>。',
+            track1Link: '瀏覽筆記本 →',
+            track2Title: '量子腳本',
+            track2Body:
+              '<code>examples/</code> 中的精簡 QAOA/VQE 讓工具保持鋒利且無沉重依賴。',
+            track2Link: '執行示例 →',
+            track3Title: 'Multiwfn 工作台',
+            track3Body:
+              '<code>multiwfn/</code> 對應上游 3.8 dev 套件，快速剖析 Gaussian 波函數。',
+            track3Link: '開啟工具組 →',
+            track4Title: '圖像陳列櫃',
+            track4Body: '<code>figures/</code> 的 PNG 保存收斂曲線、QAOA 熱圖與簡報素材。',
+            track4Link: '查看圖庫 →',
+            timelineTitle: '最新亮點',
+            timeline1Tag: '筆記本',
+            timeline1Title: '重整 Numerov',
+            timeline1Body:
+              '調整 <code>comp_physics/numerov.py</code> 與搭配筆記本掃描邊界條件，並更新 <code>figures/</code>。',
+            timeline2Tag: '腳本',
+            timeline2Title: '懶人分子的 VQE',
+            timeline2Body:
+              '<code>examples/pennylane_chemistry_h2_vqe.py</code> 現在記錄中途能量，方便網站嵌入收斂 GIF。',
+            timeline3Tag: '閱讀',
+            timeline3Title: '精讀摘要',
+            timeline3Body: '閱讀清單把進階教材濃縮成公開筆記裡的速記摘要。',
+            ctaTitle: '懶得穩、穩得懶',
+            ctaBody:
+              '克隆倉庫、跑腳本、微調筆記本，再記錄成果讓 LazyLearn 一起慶祝。自訂網域：learn.lazying.art → GitHub Pages（<code>docs/</code>）。',
+            ctaPrimary: '克隆倉庫',
+            ctaSecondary: '查看日誌',
+            footerText: '© LazyLearn · 以 LazyPhysics and Chemistry 為動力 · learn.lazying.art',
+          },
+          ja: {
+            languageLabel: '言語',
+            heroEyebrow: 'LazyPhysics and Chemistry',
+            heroTitle: 'LazyLearn',
+            heroTagline:
+              '物理と化学をゆっくり味わう。遅くても再現性のあるノートとスクリプト、正直な進捗ログを learn.lazying.art に集約。',
+            heroPrimary: 'サイトを見る',
+            heroSecondary: 'リポジトリガイド',
+            pillarsTitle: 'Lazy 学習の柱',
+            pillar1Title: 'ペース',
+            pillar1Body: '毎週ひとつの基礎—散乱、変分手法、Gaussian 自動化—に集中。',
+            pillar2Title: 'エビデンス',
+            pillar2Body:
+              'すべてのグラフは <code>comp_physics/</code> のノートと <code>examples/</code> のスクリプトから生成。',
+            pillar3Title: '共有性',
+            pillar3Body:
+              'GitHub Pages が <code>docs/</code> を配信し、誰でもバックログや計算をすぐ確認。',
+            tracksTitle: '進行中のトラック',
+            tracksSubtitle: 'ワークベンチへのショートカット。',
+            track1Title: '計算物理ラボ',
+            track1Body:
+              'Numerov ソルバーから Lennard-Jones 掃引まで、<code>comp_physics/</code> に格納。',
+            track1Link: 'ノートを見る →',
+            track2Title: '量子スクリプト',
+            track2Body:
+              '<code>examples/</code> の軽量 QAOA/VQE でツールチェーンを鋭く保つ。',
+            track2Link: 'デモを実行 →',
+            track3Title: 'Multiwfn ベンチ',
+            track3Body:
+              '<code>multiwfn/</code> は上流 3.8 dev をミラーし、Gaussian 出力をすぐ解析。',
+            track3Link: 'ツールを開く →',
+            track4Title: 'フィギュア庫',
+            track4Body: '<code>figures/</code> の PNG が収束曲線や QAOA ヒートマップを保存。',
+            track4Link: 'ギャラリー →',
+            timelineTitle: '最近のハイライト',
+            timeline1Tag: 'ノート',
+            timeline1Title: 'Numerov の再構築',
+            timeline1Body:
+              '<code>comp_physics/numerov.py</code> とノートで境界条件掃引を調整し、<code>figures/</code> を更新。',
+            timeline2Tag: 'スクリプト',
+            timeline2Title: 'Lazy 分子の VQE',
+            timeline2Body:
+              '<code>examples/pennylane_chemistry_h2_vqe.py</code> が中間エネルギーを記録し、収束 GIF を埋め込みやすく。',
+            timeline3Tag: 'リーディング',
+            timeline3Title: '要約メモ',
+            timeline3Body: 'リーディングキューが高度なテキストを公開ノートの短いブリーフに凝縮。',
+            ctaTitle: 'ゆっくり、でも継続',
+            ctaBody:
+              'リポジトリをクローンし、スクリプトを走らせ、ノートを調整して成果をログ化。独自ドメイン: learn.lazying.art → GitHub Pages（<code>docs/</code>）。',
+            ctaPrimary: 'リポジトリをクローン',
+            ctaSecondary: 'ログを見る',
+            footerText: '© LazyLearn · LazyPhysics and Chemistry 提供 · learn.lazying.art',
+          },
+          ko: {
+            languageLabel: '언어',
+            heroEyebrow: 'LazyPhysics and Chemistry',
+            heroTitle: 'LazyLearn',
+            heroTagline:
+              '물리와 화학을 느긋하게. 느린 노트와 재현 가능한 스크립트, 솔직한 로그가 learn.lazying.art 에 모입니다.',
+            heroPrimary: '라이브 사이트 방문',
+            heroSecondary: '저장소 가이드',
+            pillarsTitle: 'Lazy 학습의 기둥',
+            pillar1Title: '속도',
+            pillar1Body: '매주 하나의 기본 주제—산란, 변분 기법, Gaussian 자동화—에 집중합니다.',
+            pillar2Title: '증거',
+            pillar2Body:
+              '모든 그래프는 <code>comp_physics/</code> 노트와 <code>examples/</code> 스크립트에서 직접 생성됩니다.',
+            pillar3Title: '공유성',
+            pillar3Body:
+              'GitHub Pages 가 <code>docs/</code> 를 바로 제공하니 언제든 백로그와 계산을 확인할 수 있습니다.',
+            tracksTitle: '진행 중 트랙',
+            tracksSubtitle: '워크벤치로 바로 가기.',
+            track1Title: '계산물리 랩',
+            track1Body:
+              'Numerov 해석기와 Lennard-Jones 스윕이 모두 <code>comp_physics/</code> 에 있습니다.',
+            track1Link: '노트북 보기 →',
+            track2Title: '양자 스크립트',
+            track2Body:
+              '<code>examples/</code> 의 경량 QAOA/VQE 가 도구 모음을 가볍게 유지합니다.',
+            track2Link: '데모 실행 →',
+            track3Title: 'Multiwfn 벤치',
+            track3Body:
+              '<code>multiwfn/</code> 이 업스트림 3.8 dev 킷을 미러해 Gaussian 출력 분석을 빠르게 합니다.',
+            track3Link: '툴킷 열기 →',
+            track4Title: '피겨 보관함',
+            track4Body: '<code>figures/</code> PNG 가 수렴 그래프와 QAOA 히트맵을 담습니다.',
+            track4Link: '갤러리 보기 →',
+            timelineTitle: '최신 하이라이트',
+            timeline1Tag: '노트북',
+            timeline1Title: 'Numerov 재구성',
+            timeline1Body:
+              '<code>comp_physics/numerov.py</code> 와 노트북을 조정해 경계 조건을 스윕하고 <code>figures/</code> 를 새로 고쳤습니다.',
+            timeline2Tag: '스크립트',
+            timeline2Title: '게으른 분자의 VQE',
+            timeline2Body:
+              '<code>examples/pennylane_chemistry_h2_vqe.py</code> 가 중간 에너지를 기록해 사이트에서 수렴 GIF 를 넣을 수 있습니다.',
+            timeline3Tag: '리딩',
+            timeline3Title: '요약 메모',
+            timeline3Body: '리딩 큐가 심화 텍스트를 공개 노트의 간단한 브리핑으로 압축합니다.',
+            ctaTitle: '느긋하지만 꾸준히',
+            ctaBody:
+              '저장소를 클론하고 스크립트를 실행한 뒤 노트를 조정하고 기록하세요. 커스텀 도메인: learn.lazying.art → GitHub Pages (<code>docs/</code>).',
+            ctaPrimary: '저장소 클론',
+            ctaSecondary: '로그 보기',
+            footerText: '© LazyLearn · LazyPhysics and Chemistry 구동 · learn.lazying.art',
+          },
+          vi: {
+            languageLabel: 'Ngôn ngữ',
+            heroEyebrow: 'LazyPhysics and Chemistry',
+            heroTitle: 'LazyLearn',
+            heroTagline:
+              'Vật lý + hóa học theo nhịp chậm. Notebook thong thả, script tái lập và nhật ký trung thực đều tập trung ở learn.lazying.art.',
+            heroPrimary: 'Xem trang trực tiếp',
+            heroSecondary: 'Đọc hướng dẫn repo',
+            pillarsTitle: 'Trụ cột LazyLearn',
+            pillar1Title: 'Nhịp độ',
+            pillar1Body: 'Mỗi tuần tập trung một chủ điểm—tán xạ, thủ thuật biến phân hoặc tự động hóa Gaussian.',
+            pillar2Title: 'Bằng chứng',
+            pillar2Body:
+              'Mọi biểu đồ đều sinh từ notebook trong <code>comp_physics/</code> và script trong <code>examples/</code>.',
+            pillar3Title: 'Chia sẻ',
+            pillar3Body:
+              'GitHub Pages phục vụ trực tiếp <code>docs/</code>, ai cũng xem backlog hay sao chép phép tính được.',
+            tracksTitle: 'Đường chạy đang mở',
+            tracksSubtitle: 'Lối tắt vào bàn làm việc.',
+            track1Title: 'Phòng lab vật lý tính toán',
+            track1Body:
+              'Từ bộ giải Numerov đến quét Lennard-Jones đều nằm ở <code>comp_physics/</code>.',
+            track1Link: 'Xem notebook →',
+            track2Title: 'Script lượng tử',
+            track2Body:
+              'QAOA/VQE gọn nhẹ trong <code>examples/</code> giữ bộ công cụ sắc bén mà không phụ thuộc nặng nề.',
+            track2Link: 'Chạy demo →',
+            track3Title: 'Multiwfn Bench',
+            track3Body:
+              '<code>multiwfn/</code> phản chiếu bộ 3.8 dev để phân tích hàm sóng Gaussian nhanh chóng.',
+            track3Link: 'Mở toolkit →',
+            track4Title: 'Kho hình',
+            track4Body:
+              'Các PNG trong <code>figures/</code> lưu đồ thị hội tụ, heatmap QAOA và hình dùng cho thuyết trình.',
+            track4Link: 'Xem thư viện →',
+            timelineTitle: 'Điểm nhấn mới',
+            timeline1Tag: 'Notebook',
+            timeline1Title: 'Xây lại Numerov',
+            timeline1Body:
+              'Tinh chỉnh <code>comp_physics/numerov.py</code> và notebook đi kèm để quét điều kiện biên; cập nhật hình trong <code>figures/</code>.',
+            timeline2Tag: 'Script',
+            timeline2Title: 'VQE cho phân tử lười',
+            timeline2Body:
+              '<code>examples/pennylane_chemistry_h2_vqe.py</code> giờ ghi lại năng lượng trung gian để nhúng GIF hội tụ.',
+            timeline3Tag: 'Đọc',
+            timeline3Title: 'Tóm tắt nhanh',
+            timeline3Body: 'Danh sách đọc chưng cất sách nâng cao thành bản tóm tắt gọn trong notebook công khai.',
+            ctaTitle: 'Lười nhưng đều',
+            ctaBody:
+              'Clone repo, chạy script, chỉnh notebook rồi ghi chú để LazyLearn ăn mừng. Tên miền riêng: learn.lazying.art → GitHub Pages (<code>docs/</code>).',
+            ctaPrimary: 'Clone repo',
+            ctaSecondary: 'Xem log',
+            footerText: '© LazyLearn · Vận hành bởi LazyPhysics and Chemistry · learn.lazying.art',
+          },
+          ar: {
+            languageLabel: 'اللغة',
+            heroEyebrow: 'LazyPhysics and Chemistry',
+            heroTitle: 'LazyLearn',
+            heroTagline:
+              'فيزياء وكيمياء بلا استعجال. دفاتر بطيئة، سكربتات قابلة لإعادة الإنتاج، وسجل تقدم صادق على learn.lazying.art.',
+            heroPrimary: 'زيارة الموقع المباشر',
+            heroSecondary: 'قراءة دليل المستودع',
+            pillarsTitle: 'ركائز التعلم الكسول',
+            pillar1Title: 'الإيقاع',
+            pillar1Body: 'كل أسبوع يركز على أساس واحد: التشتت، حيل التغاير، أو أتمتة Gaussian.',
+            pillar2Title: 'الدليل',
+            pillar2Body:
+              'كل مخطط يولد من دفاتر <code>comp_physics/</code> وسكربتات <code>examples/</code> داخل المستودع.',
+            pillar3Title: 'المشاركة',
+            pillar3Body:
+              'GitHub Pages تنشر <code>docs/</code> مباشرة ليطّلع الجميع على قائمة المهام أو يكرروا الحسابات.',
+            tracksTitle: 'المسارات النشطة',
+            tracksSubtitle: 'اختصارات إلى طاولة العمل.',
+            track1Title: 'مختبر الفيزياء الحسابية',
+            track1Body: 'محللات Numerov ومسح Lennard-Jones موجودة داخل <code>comp_physics/</code>.',
+            track1Link: 'عرض الدفاتر →',
+            track2Title: 'سكربتات كمية',
+            track2Body:
+              'عمليات QAOA/VQE خفيفة في <code>examples/</code> تبقي الأدوات حادة بلا تبعيات ثقيلة.',
+            track2Link: 'تشغيل عرض توضيحي →',
+            track3Title: 'منصة Multiwfn',
+            track3Body:
+              '<code>multiwfn/</code> يعكس حزمة التطوير 3.8 لتحليل دالات Gaussian بسرعة.',
+            track3Link: 'فتح الأدوات →',
+            track4Title: 'خزانة الرسوم',
+            track4Body:
+              'ملفات PNG داخل <code>figures/</code> تحفظ منحنيات التقارب وخرائط QAOA الحرارية.',
+            track4Link: 'عرض المعرض →',
+            timelineTitle: 'أحدث اللمحات',
+            timeline1Tag: 'دفتر',
+            timeline1Title: 'إعادة بناء Numerov',
+            timeline1Body:
+              'تم ضبط <code>comp_physics/numerov.py</code> والدفتر المرافق لمسح شروط الحدود وتحديث <code>figures/</code>.',
+            timeline2Tag: 'سكربت',
+            timeline2Title: 'VQE لجزيئات كسولة',
+            timeline2Body:
+              '<code>examples/pennylane_chemistry_h2_vqe.py</code> يسجل الآن الطاقات المتوسطة لدمج صور GIF للتقارب.',
+            timeline3Tag: 'قراءة',
+            timeline3Title: 'ملخصات مركزة',
+            timeline3Body: 'قائمة القراءة تكثف الكتب المتقدمة إلى موجزات قصيرة داخل الدفاتر العامة.',
+            ctaTitle: 'ابقَ كسولاً وثابتاً',
+            ctaBody:
+              'استنسخ المستودع، شغّل سكربتاً، عدّل دفترك ثم دوّن النتيجة ليحتفل LazyLearn. نطاق مخصص: learn.lazying.art ← GitHub Pages (<code>docs/</code>).',
+            ctaPrimary: 'استنساخ المستودع',
+            ctaSecondary: 'عرض السجل',
+            footerText: '© LazyLearn · مدعوم من LazyPhysics and Chemistry · learn.lazying.art',
+          },
+          fr: {
+            languageLabel: 'Langue',
+            heroEyebrow: 'LazyPhysics and Chemistry',
+            heroTitle: 'LazyLearn',
+            heroTagline:
+              'Physique + chimie sans se presser. Carnets lents, scripts reproductibles et journal de bord honnête, tout converge vers learn.lazying.art.',
+            heroPrimary: 'Voir le site en ligne',
+            heroSecondary: 'Lire le guide du dépôt',
+            pillarsTitle: 'Les piliers du Lazy Learning',
+            pillar1Title: 'Rythme',
+            pillar1Body:
+              'Chaque semaine concentre un seul thème : diffusion, méthodes variationnelles ou automatisation Gaussian.',
+            pillar2Title: 'Preuves',
+            pillar2Body:
+              'Chaque graphique provient des notebooks <code>comp_physics/</code> et des scripts <code>examples/</code>.',
+            pillar3Title: 'Partage',
+            pillar3Body:
+              'GitHub Pages publie directement <code>docs/</code> pour consulter le backlog ou rejouer les calculs.',
+            tracksTitle: 'Pistes actives',
+            tracksSubtitle: "Accès rapide à l'établi.",
+            track1Title: 'Lab de physique numérique',
+            track1Body:
+              'Des solveurs Numerov aux balayages Lennard-Jones, tout vit dans <code>comp_physics/</code>.',
+            track1Link: 'Voir les notebooks →',
+            track2Title: 'Scripts quantiques',
+            track2Body:
+              "Les QAOA/VQE minimalistes d'<code>examples/</code> gardent l'outillage affûté sans lourdes dépendances.",
+            track2Link: 'Lancer une démo →',
+            track3Title: 'Banc Multiwfn',
+            track3Body:
+              '<code>multiwfn/</code> reflète le kit 3.8 dev pour analyser rapidement les fonctions d\'onde Gaussian.',
+            track3Link: 'Ouvrir la boîte à outils →',
+            track4Title: 'Galerie de figures',
+            track4Body:
+              'Les PNG de <code>figures/</code> conservent courbes de convergence, heatmaps QAOA et visuels de présentation.',
+            track4Link: 'Voir la galerie →',
+            timelineTitle: 'Derniers faits marquants',
+            timeline1Tag: 'Notebook',
+            timeline1Title: 'Reconstruire Numerov',
+            timeline1Body:
+              'Ajustement de <code>comp_physics/numerov.py</code> et du notebook associé pour balayer les conditions aux limites; mise à jour de <code>figures/</code>.',
+            timeline2Tag: 'Script',
+            timeline2Title: 'VQE pour molécules paresseuses',
+            timeline2Body:
+              '<code>examples/pennylane_chemistry_h2_vqe.py</code> journalise désormais les énergies intermédiaires afin d\'intégrer des GIF de convergence.',
+            timeline3Tag: 'Lecture',
+            timeline3Title: 'Notes condensées',
+            timeline3Body:
+              'La pile de lecture condense les textes avancés en résumés publics dans les notebooks.',
+            ctaTitle: 'Rester paresseux, rester régulier',
+            ctaBody:
+              'Clonez le dépôt, exécutez un script, retouchez un notebook puis notez vos progrès pour que LazyLearn fête la victoire. Domaine personnalisé : learn.lazying.art → GitHub Pages (<code>docs/</code>).',
+            ctaPrimary: 'Cloner le dépôt',
+            ctaSecondary: 'Voir le journal',
+            footerText: '© LazyLearn · Propulsé par LazyPhysics and Chemistry · learn.lazying.art',
+          },
+          es: {
+            languageLabel: 'Idioma',
+            heroEyebrow: 'LazyPhysics and Chemistry',
+            heroTitle: 'LazyLearn',
+            heroTagline:
+              'Física y química sin prisas. Cuadernos pausados, scripts reproducibles y registros honestos se reúnen en learn.lazying.art.',
+            heroPrimary: 'Visitar el sitio',
+            heroSecondary: 'Leer la guía del repo',
+            pillarsTitle: 'Pilares de Lazy Learning',
+            pillar1Title: 'Ritmo',
+            pillar1Body:
+              'Cada semana se centra en un principio: dispersión, métodos variacionales o automatización de Gaussian.',
+            pillar2Title: 'Evidencia',
+            pillar2Body:
+              'Cada gráfica nace de notebooks en <code>comp_physics/</code> y scripts en <code>examples/</code>.',
+            pillar3Title: 'Compartir',
+            pillar3Body:
+              'GitHub Pages sirve <code>docs/</code> directamente para revisar tareas o replicar cálculos.',
+            tracksTitle: 'Rutas activas',
+            tracksSubtitle: 'Atajos al banco de trabajo.',
+            track1Title: 'Laboratorio de física computacional',
+            track1Body:
+              'Los experimentos Numerov y barridos Lennard-Jones viven en <code>comp_physics/</code>.',
+            track1Link: 'Ver notebooks →',
+            track2Title: 'Scripts cuánticos',
+            track2Body:
+              'Los QAOA/VQE ligeros de <code>examples/</code> mantienen las herramientas afiladas sin dependencias pesadas.',
+            track2Link: 'Ejecutar demo →',
+            track3Title: 'Banco Multiwfn',
+            track3Body:
+              '<code>multiwfn/</code> refleja el kit dev 3.8 para analizar rápidamente funciones de onda Gaussian.',
+            track3Link: 'Abrir toolkit →',
+            track4Title: 'Archivo de figuras',
+            track4Body:
+              'Los PNG en <code>figures/</code> guardan curvas de convergencia, mapas de calor QAOA y gráficos para charlas.',
+            track4Link: 'Ver galería →',
+            timelineTitle: 'Últimos destacados',
+            timeline1Tag: 'Notebook',
+            timeline1Title: 'Reconstruyendo Numerov',
+            timeline1Body:
+              'Se afinó <code>comp_physics/numerov.py</code> y su notebook para barrer condiciones de frontera; se actualizaron las figuras en <code>figures/</code>.',
+            timeline2Tag: 'Script',
+            timeline2Title: 'VQE para moléculas vagas',
+            timeline2Body:
+              '<code>examples/pennylane_chemistry_h2_vqe.py</code> ahora registra energías intermedias para incrustar GIFs de convergencia.',
+            timeline3Tag: 'Lectura',
+            timeline3Title: 'Notas destiladas',
+            timeline3Body:
+              'La cola de lectura destila textos avanzados en resúmenes breves dentro de los notebooks públicos.',
+            ctaTitle: 'Permanece perezoso, permanece constante',
+            ctaBody:
+              'Clona el repo, ejecuta un script, ajusta un notebook y anota el logro para que LazyLearn lo celebre. Dominio personalizado: learn.lazying.art → GitHub Pages (<code>docs/</code>).',
+            ctaPrimary: 'Clonar repo',
+            ctaSecondary: 'Ver registro',
+            footerText: '© LazyLearn · Impulsado por LazyPhysics and Chemistry · learn.lazying.art',
+          },
+        };
+
+        const rtlLanguages = new Set(['ar']);
+        const storageKey = 'lazy-learn-lang';
+        const languagePicker = document.getElementById('language-picker');
+        const translatableNodes = Array.from(document.querySelectorAll('[data-i18n]'));
+
+        function normalize(code) {
+          if (!code) return null;
+          const lower = code.toLowerCase();
+          if (translations[lower]) return lower;
+          if (lower.startsWith('en')) return 'en';
+          if (lower.startsWith('zh')) {
+            if (lower.includes('hant') || lower.includes('tw') || lower.includes('hk') || lower.includes('mo')) {
+              return 'zh-Hant';
+            }
+            return 'zh-Hans';
+          }
+          if (lower.startsWith('ja')) return 'ja';
+          if (lower.startsWith('ko')) return 'ko';
+          if (lower.startsWith('vi')) return 'vi';
+          if (lower.startsWith('ar')) return 'ar';
+          if (lower.startsWith('fr')) return 'fr';
+          if (lower.startsWith('es')) return 'es';
+          return null;
+        }
+
+        function getStoredLanguage() {
+          try {
+            const stored = localStorage.getItem(storageKey);
+            if (stored && translations[stored]) return stored;
+          } catch (err) {
+            // ignore storage errors
+          }
+          return null;
+        }
+
+        function detectLanguage() {
+          const stored = getStoredLanguage();
+          if (stored) return stored;
+          const prefs = navigator.languages || [navigator.language || 'en'];
+          for (const pref of prefs) {
+            const match = normalize(pref);
+            if (match && translations[match]) {
+              return match;
+            }
+          }
+          return 'en';
+        }
+
+        function applyLanguage(lang) {
+          const dict = translations[lang] || translations.en;
+          translatableNodes.forEach((node) => {
+            const key = node.dataset.i18n;
+            if (!key || !dict[key]) return;
+            if (node.dataset.i18nHtml === 'true') {
+              node.innerHTML = dict[key];
+            } else {
+              node.textContent = dict[key];
+            }
+          });
+          document.documentElement.lang = lang;
+          document.documentElement.dir = rtlLanguages.has(lang) ? 'rtl' : 'ltr';
+          try {
+            localStorage.setItem(storageKey, lang);
+          } catch (err) {
+            // ignore storage errors
+          }
+        }
+
+        const defaultLang = detectLanguage();
+        languagePicker.value = defaultLang;
+        applyLanguage(defaultLang);
+
+        languagePicker.addEventListener('change', (event) => {
+          applyLanguage(event.target.value);
+        });
+      })();
+    </script>
   </body>
 </html>
