@@ -1,0 +1,196 @@
+:root {
+  --bg: #050816;
+  --surface: rgba(255, 255, 255, 0.04);
+  --surface-strong: rgba(255, 255, 255, 0.08);
+  --accent: #ff8a05;
+  --accent-soft: rgba(255, 138, 5, 0.18);
+  --text: #f8f9fe;
+  --muted: rgba(248, 249, 254, 0.65);
+  --border: rgba(255, 255, 255, 0.12);
+  font-family: 'Space Grotesk', system-ui, -apple-system, BlinkMacSystemFont,
+    'Segoe UI', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: radial-gradient(circle at top, #111b2e, var(--bg));
+  color: var(--text);
+  line-height: 1.6;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+main,
+.hero,
+footer {
+  width: min(1100px, 90vw);
+  margin: 0 auto;
+}
+
+.hero {
+  padding: 5rem 0 2rem;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: clamp(2.5rem, 7vw, 4rem);
+  margin: 0.5rem 0 1rem;
+  letter-spacing: -1px;
+}
+
+.hero .tagline {
+  max-width: 620px;
+  margin: 0 auto 2rem;
+  color: var(--muted);
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.25rem;
+  font-size: 0.85rem;
+  color: var(--accent);
+}
+
+.hero-actions {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.hero-actions a {
+  padding: 0.9rem 1.8rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  font-weight: 600;
+  transition: transform 200ms ease, box-shadow 200ms ease;
+}
+
+.hero-actions .primary {
+  background: var(--accent);
+  color: #120805;
+  border-color: transparent;
+  box-shadow: 0 15px 35px rgba(255, 138, 5, 0.3);
+}
+
+.hero-actions .secondary {
+  color: var(--text);
+  background: var(--surface-strong);
+}
+
+.hero-actions a:hover {
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+section {
+  padding: 3rem 0;
+}
+
+h2 {
+  font-size: clamp(1.8rem, 4vw, 2.4rem);
+  margin-bottom: 1.2rem;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 1.6rem;
+  backdrop-filter: blur(8px);
+  min-height: 180px;
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+.card p {
+  color: var(--muted);
+}
+
+.tracks .card a {
+  display: inline-flex;
+  margin-top: 1rem;
+  font-weight: 600;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.timeline {
+  background: linear-gradient(135deg, rgba(255, 138, 5, 0.12), transparent);
+  border-radius: 24px;
+  padding: 3rem;
+  border: 1px solid var(--border);
+}
+
+.timeline h2 {
+  margin-top: 0;
+}
+
+.timeline-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+
+.timeline article {
+  background: rgba(5, 8, 22, 0.55);
+  border-radius: 16px;
+  padding: 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.timestamp {
+  font-size: 0.85rem;
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+}
+
+.cta {
+  text-align: center;
+}
+
+.cta p {
+  max-width: 720px;
+  margin: 0 auto 1.5rem;
+  color: var(--muted);
+}
+
+footer {
+  text-align: center;
+  padding: 2rem 0 3rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+@media (max-width: 640px) {
+  .timeline {
+    padding: 2rem;
+  }
+}

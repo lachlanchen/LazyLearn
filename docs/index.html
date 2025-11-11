@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="LazyLearn — a lazy-but-steady physics and chemistry learning log" />
+    <title>LazyLearn · learn.lazying.art</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="hero">
+      <p class="eyebrow">LazyPhysicsAndChemistry</p>
+      <h1>LazyLearn</h1>
+      <p class="tagline">
+        Physics + chemistry, unrushed. Slow notebooks, reproducible scripts,
+        and honest progress logs — all routed through learn.lazying.art.
+      </p>
+      <div class="hero-actions">
+        <a class="primary" href="https://learn.lazying.art">Visit the live site</a>
+        <a
+          class="secondary"
+          href="https://github.com/lachlanchen/LazyPhysicsAndChemistry#readme"
+          >Read the repo guide</a
+        >
+      </div>
+    </header>
+
+    <main>
+      <section class="pillars">
+        <h2>Pillars of Lazy Learning</h2>
+        <div class="card-grid">
+          <article class="card">
+            <h3>Pace</h3>
+            <p>
+              Deep dives beat hot takes. Each week focuses on one primitive:
+              scattering theory, variational methods, or Gaussian workflows.
+            </p>
+          </article>
+          <article class="card">
+            <h3>Evidence</h3>
+            <p>
+              Every chart originates from code inside this repo — notebooks in
+              <code>comp_physics/</code> and scripts in <code>examples/</code>.
+            </p>
+          </article>
+          <article class="card">
+            <h3>Shareability</h3>
+            <p>
+              GitHub Pages serves <code>docs/</code> directly so anyone can peek
+              at the backlog or clone the calculations on demand.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="tracks">
+        <div class="section-header">
+          <h2>Active Tracks</h2>
+          <p>Quick links into the workbench.</p>
+        </div>
+        <div class="card-grid">
+          <article class="card">
+            <h3>Comp Physics Lab</h3>
+            <p>
+              Numerical experiments, from Numerov solvers to Lennard-Jones
+              sweeps, live in the <code>comp_physics/</code> tree.
+            </p>
+            <a
+              href="https://github.com/lachlanchen/LazyPhysicsAndChemistry/tree/main/comp_physics"
+              target="_blank"
+              rel="noopener"
+              >Browse notebooks →</a
+            >
+          </article>
+          <article class="card">
+            <h3>Quantum Scripts</h3>
+            <p>
+              Minimal QAOA and VQE pilots under <code>examples/</code> keep the
+              tooling sharp without heavyweight dependencies.
+            </p>
+            <a
+              href="https://github.com/lachlanchen/LazyPhysicsAndChemistry/tree/main/examples"
+              target="_blank"
+              rel="noopener"
+              >Run a demo →</a
+            >
+          </article>
+          <article class="card">
+            <h3>Multiwfn Bench</h3>
+            <p>
+              The <code>multiwfn/</code> drop mirrors the upstream 3.8 dev kit
+              for quick wavefunction analysis alongside Gaussian outputs.
+            </p>
+            <a
+              href="https://github.com/lachlanchen/LazyPhysicsAndChemistry/tree/main/multiwfn"
+              target="_blank"
+              rel="noopener"
+              >Open toolkit →</a
+            >
+          </article>
+          <article class="card">
+            <h3>Figure Locker</h3>
+              <p>
+                Static PNGs in <code>figures/</code> capture convergence plots,
+                QAOA heatmaps, and anything worth reusing in talks.
+              </p>
+              <a
+                href="https://github.com/lachlanchen/LazyPhysicsAndChemistry/tree/main/figures"
+                target="_blank"
+                rel="noopener"
+                >View gallery →</a
+              >
+          </article>
+        </div>
+      </section>
+
+      <section class="timeline">
+        <h2>Latest Highlights</h2>
+        <div class="timeline-grid">
+          <article>
+            <p class="timestamp">Notebook</p>
+            <h3>Rebuilding Numerov</h3>
+            <p>
+              Tuned <code>comp_physics/numerov.py</code> + associated notebook to
+              sweep boundary conditions for radial wells; figures updated in
+              <code>figures/</code>.
+            </p>
+          </article>
+          <article>
+            <p class="timestamp">Script</p>
+            <h3>VQE for Lazy Molecules</h3>
+            <p>
+              `examples/pennylane_chemistry_h2_vqe.py` now logs intermediate
+              energies so the LazyLearn site can embed convergence GIFs.
+            </p>
+          </article>
+          <article>
+            <p class="timestamp">Reading</p>
+            <h3>Leonard Susskind Stack</h3>
+            <p>
+              External references live via a local symlink to the
+              <code>leonardsusskind/</code> clone — ignored in git, but always
+              nearby when cross-checking derivations.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="cta">
+        <h2>Stay Lazy, Stay Consistent</h2>
+        <p>
+          Clone the repo, run a script, tweak a notebook, then send yourself a
+          note so LazyLearn can celebrate the win. Custom domain setup:
+          <strong>learn.lazying.art → GitHub Pages (docs/)</strong>.
+        </p>
+        <div class="hero-actions">
+          <a class="primary" href="https://github.com/lachlanchen/LazyPhysicsAndChemistry"
+            >Clone the repo</a
+          >
+          <a class="secondary" href="https://learn.lazying.art">See the log</a>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>© LazyLearn · Powered by LazyPhysicsAndChemistry · learn.lazying.art</p>
+    </footer>
+  </body>
+</html>

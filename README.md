@@ -1,6 +1,12 @@
 # LazyPhysicsAndChemistry
 
-A lightweight sandbox for physics and chemistry explorations. The goal of LazyPhysicsAndChemistry is to keep a single place for numerical experiments (Jupyter notebooks, small python scripts) alongside documentation that supports Gaussian and Multiwfn workflows—without checking in heavyweight book scans or external symlinks.
+LazyPhysicsAndChemistry is the code + notebook half of **LazyLearn**—my intentionally slow learning log for physics and chemistry. The living notes, wins, and TODOs surface at [learn.lazying.art](https://learn.lazying.art) (served directly from `docs/` in this repo), while the runnable artifacts stay here so experiments always have a home.
+
+## LazyLearn
+
+- **Home base:** [learn.lazying.art](https://learn.lazying.art) — the public-facing site with weekly focuses, backlog, and highlights.
+- **Source of truth:** everything the site links to lives in `examples/`, `comp_physics/`, `multiwfn/`, or `figures/`.
+- **Update flow:** ship code/notebooks first, regenerate plots if needed, and then add an entry to `docs/` so the site reflects the latest work.
 
 ## What lives here
 
@@ -8,6 +14,7 @@ A lightweight sandbox for physics and chemistry explorations. The goal of LazyPh
 - `comp_physics/` – computational physics notebooks, helper scripts like `numerov.py`, and supporting data/figures that back the notebook chapters.
 - `multiwfn/` – upstream Multiwfn 3.8 developer source drop plus the reference PDFs for quick lookup.
 - `figures/` – static PNGs used by the scripts/notebooks for reports or slides.
+- `docs/` – the LazyLearn microsite that GitHub Pages (or your own host) serves at `learn.lazying.art`.
 
 Everything else (book scans, Gaussian symlinks, checkpoints, etc.) stays ignored so the repo stays small when cloned.
 
@@ -52,3 +59,4 @@ All generated PNGs live under `figures/`. If you regenerate or add plots from no
 
 - Heavy directories such as `books/`, Gaussian symlinks, checkpoint files, and local scratch artifacts remain ignored via `.gitignore`.
 - Keep contributions focused on the tracked folders above to preserve the "lazy" cloning experience.
+- When updating the website, edit `docs/` locally, test via `python -m http.server --directory docs`, and push—GitHub Pages (or another host) can point the custom domain `learn.lazying.art` at this repo automatically.

@@ -2,6 +2,8 @@
 books/
 ComputationalPhysics
 Gaussian
+leonardsusskind/
+leonardsusskind
 
 # Local artifacts / datasets
 *.chk
