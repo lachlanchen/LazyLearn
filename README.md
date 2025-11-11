@@ -55,6 +55,56 @@ Open any notebook after activating the Python environment. If you need extra dep
 
 All generated PNGs live under `figures/`. If you regenerate or add plots from notebooks/scripts, drop them here so they stay versioned alongside the code that produced them.
 
+## Support LazyLearn
+
+Helping LazyLearn keeps the experiments, documentation, and open tooling flowing:
+
+- Cover hosting/inference/storage for the public demos and notebooks.
+- Fund focused hack-weeks on EchoMind, LazyEdit, and the quantum/physics utilities here.
+- Prototype optics + wearables (IdeasGlass, LightMind) that feed future chapters.
+- Sponsor free deployments for students, community labs, and creators.
+
+### Donate
+
+<div align="center">
+<table style="margin:0 auto; text-align:center; border-collapse:collapse;">
+  <tr>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
+      <a href="https://chat.lazying.art/donate">https://chat.lazying.art/donate</a>
+    </td>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
+      <a href="https://chat.lazying.art/donate"><img src="figures/donate_button.svg" alt="Donate" height="44"></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
+      <a href="https://paypal.me/RongzhouChen">
+        <img src="https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white" alt="Donate with PayPal">
+      </a>
+    </td>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
+      <a href="https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400">
+        <img src="https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white" alt="Donate with Stripe">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>WeChat</strong></td>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>Alipay</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="WeChat QR" src="figures/donate_wechat.png" width="240"/></td>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="Alipay QR" src="figures/donate_alipay.png" width="240"/></td>
+  </tr>
+</table>
+</div>
+
+**支援 / Donate**
+
+- ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。  
+- 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。  
+- Your support sustains my research, development, and ops so I can keep sharing more open projects and improvements.
+
 ## Reference stacks & related repos
 
 LazyLearn leans on a couple of large companion repos that stay **outside** of version control here but are symlinked in for quick lookups:
