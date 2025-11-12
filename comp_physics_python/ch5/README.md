@@ -17,9 +17,9 @@ implementations with the same physical content:
 For a uniform grid `r_i = i h`, the radial Schrödinger equation for the reduced
 wavefunction `u(r) = r R(r)` with `ℓ=0` reads
 
-\[
+$$
 \frac{\mathrm{d}^2 u}{\mathrm{d} r^2} = 2 (V(r) - E) u(r).
-\]
+$$
 
 `numerov_forward` integrates this ODE with the sixth‑order Numerov formula
 starting from the regular boundary conditions `u(0)=0`, `u(h)=h`. The helper
@@ -29,9 +29,9 @@ it via bisection, and normalises `u(r)` with the grid integral
 
 The particle density for one electron is then
 
-\[
+$$
 \rho_1(r) = \frac{|u(r)|^2}{4\pi r^2}, \qquad \rho(r) = N_e \rho_1(r).
-\]
+$$
 
 ## Hydrogen example (hydrogen_radial.py)
 
@@ -54,9 +54,9 @@ plotting.
 
 The general KS-like potential for helium is constructed as
 
-\[
+$$
 V(r) = -\frac{Z}{r} + V_H[\rho_1](r) - V_x(r) - V_c(r),
-\]
+$$
 
 where:
 
@@ -72,9 +72,9 @@ The self-consistent loop iterates `V`, computes the updated eigenvalue and
 wavefunction via Numerov, refreshes densities and potentials, and stops when the
 change in total energy
 
-\[
+$$
 E = N_e E_0 - E_H + E_x + E_c
-\]
+$$
 
 drops below the requested tolerance.  The script prints the converged orbital
 energy and the total Hartree/DFT energy, and stores the radial potentials in an

@@ -11,11 +11,11 @@ same densities and temperatures.
 Equations of motion: Newton’s second law with the pairwise Lennard–Jones (12–6)
 potential truncated at `r_cut`:
 
-\[
-V(r) = 4ε \Big[ (σ/r)^{12} - (σ/r)^6 \Big],\qquad
-\mathbf{F}_{ij} = 24ε \frac{\mathbf{r}_{ij}}{r^2}
- \Big[ 2(σ/r)^{12} - (σ/r)^6 \Big].
-\]
+$$
+V(r) = 4\varepsilon \Big[ (\sigma/r)^{12} - (\sigma/r)^6 \Big],\qquad
+\mathbf{F}_{ij} = 24\varepsilon \frac{\mathbf{r}_{ij}}{r^2}
+ \Big[ 2(\sigma/r)^{12} - (\sigma/r)^6 \Big].
+$$
 
 The code uses:
 

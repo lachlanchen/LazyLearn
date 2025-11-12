@@ -11,26 +11,26 @@ what each formula does.
 The FORTRAN program `deepwell.f` spans the 1D infinite well on the interval
 `x ∈ [-1, 1]` with basis functions
 
-\[
-\phi_k(x) = (x^2 - 1) x^k, \qquad k = 0, …, N-1.
-\]
+$$
+\phi_k(x) = (x^2 - 1) x^k, \qquad k = 0, \ldots, N-1.
+$$
 
 Because the Hamiltonian and overlap integrals are analytic, the matrix elements
-can be written explicitly (and vanish when \(k + k'\) is odd):
+can be written explicitly (and vanish when $k + k'$ is odd):
 
-\[
+$$
 S_{kk'} = \int_{-1}^{1} \phi_k \phi_{k'}\,\mathrm{d}x
          = \frac{2}{k+k'+5} - \frac{4}{k+k'+3} + \frac{2}{k+k'+1},
-\]
+$$
 
-\[
-H_{kk'} = \int_{-1}^{1} \phi_k (-\tfrac{1}{2}\nabla^2)\phi_{k'}\,\mathrm{d}x
+$$
+H_{kk'} = \int_{-1}^{1} \phi_k \left(-\tfrac{1}{2}\nabla^2\right)\phi_{k'}\,\mathrm{d}x
          = \frac{8\,(k+k' + 2kk' - 1)}{(k+k'+3)(k+k'+1)(k+k'-1)}.
-\]
+$$
 
 The generalised eigenvalue problem `H c = E S c` is solved through an explicit
 Cholesky reduction (mirroring the LAPACK call hidden inside `geneig.f`).  The
-returned eigenvalues approach the exact \(E_n = \frac{\pi^2}{4}(n+1)^2\) as `n_basis`
+returned eigenvalues approach the exact $E_n = \frac{\pi^2}{4}(n+1)^2$ as `n_basis`
  grows, and `eigenfunctions_on_grid` reconstructs the spatial wavefunctions just
 like the FORTRAN loop that wrote `EigVecs`.
 
@@ -54,17 +54,17 @@ evals, evecs = solve_deep_well(cfg)
 computes the Hamiltonian/overlap matrices analytically as well:
 
 - overlap
-  \(S_{rs} = \pi / (\alpha_r + \alpha_s) \sqrt{\pi/(\alpha_r + \alpha_s)}\),
+  $S_{rs} = \pi / (\alpha_r + \alpha_s) \sqrt{\pi/(\alpha_r + \alpha_s)}$,
 - kinetic
-  \(T_{rs} = 3 S_{rs} \alpha_r \alpha_s / (\alpha_r + \alpha_s)\),
+  $T_{rs} = 3 S_{rs} \alpha_r \alpha_s / (\alpha_r + \alpha_s)$,
 - Coulomb
-  \(V_{rs} = -2 Z \pi / (\alpha_r + \alpha_s)\).
+  $V_{rs} = -2 Z \pi / (\alpha_r + \alpha_s)$.
 
-The exponents \(\alpha_r\) are scaled by \(Z^2\) so that different hydrogenic
+The exponents $\alpha_r$ are scaled by $Z^2$ so that different hydrogenic
 ions can be handled without changing the primitive set.  The same Cholesky based
 solver provides the variational eigenvalues and eigenvectors.  The ground-state
 wave function is sampled on `r ∈ [0, 4/Z]` via
-\(\psi(r) = \sum_r c_r e^{-\alpha_r r^2}\) and written to `WaveFunc_py`, matching
+$\psi(r) = \sum_r c_r e^{-\alpha_r r^2}$ and written to `WaveFunc_py`, matching
 Thijssen’s output format.
 
 Usage:

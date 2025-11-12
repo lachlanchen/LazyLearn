@@ -13,54 +13,54 @@ clean API.
 We study a single channel scattering problem with an effective Lennard‑Jones
 interaction
 
-\[
+$$
 V(r) = \varepsilon \left[\left(\frac{R_m}{r}\right)^{12} - 2\left(\frac{R_m}{r}\right)^6\right],
-\]
+$$
 
-expressed in Thijssen’s scaled units where the reduced mass and \(\hbar\) factors
+expressed in Thijssen’s scaled units where the reduced mass and $\hbar$ factors
 collapse into a single prefactor `RydConst = R_m^2 · 0.48`.  Writing the radial
-wave function as \(u(r) = r R(r)\), the Schrödinger equation becomes
+wave function as $u(r) = r R(r)$, the Schrödinger equation becomes
 
-\[
+$$
 \frac{\mathrm{d}^2 u}{\mathrm{d} r^2} = \Bigg[\frac{\ell (\ell + 1)}{r^2}
-+ \texttt{RydConst}·\varepsilon\Big(\frac{1}{r^{12}} - \frac{2}{r^{6}}\Big)
-- \texttt{RydConst}·E \Bigg] u(r) 
++ \texttt{RydConst}\cdot\varepsilon\Big(\frac{1}{r^{12}} - \frac{2}{r^{6}}\Big)
+- \texttt{RydConst}\cdot E \Bigg] u(r) 
 \equiv F(r;\ell,E) u(r).
-\]
+$$
 
 The Numerov method integrates this second‑order ODE with local error
-\(\mathcal{O}(h^6)\).  Following the book we start the integration at
+$\mathcal{O}(h^6)$.  Following the book we start the integration at
 `start_radius` with the same analytic Taylor expansion that appears in
-`scatter.f`, so that the first two points \(u(r_0)\) and \(u(r_1)\) are
+`scatter.f`, so that the first two points $u(r_0)$ and $u(r_1)$ are
 consistent with the rapidly varying repulsive core.  Two integrations are
 performed:
 
 1. from `start_radius` up to `max_radius` (continuous version of the user’s
-   `MaxDist`) so we can read \(u(r_{\text{max}})\);
+   `MaxDist`) so we can read $u(r_{\text{max}})$;
 2. from the same starting point to a second radius
-   \(r_\mathrm{sec} = r_{\text{max}} + \lambda/4\) where \(\lambda = 2\pi/k\).
+   $r_\mathrm{sec} = r_{\text{max}} + \lambda/4$ where $\lambda = 2\pi/k$.
 
 The ratio of the two end‑points eliminates the unknown normalization and gives
 Thijssen’s
 
-\[
-G = \frac{u(r_\mathrm{sec}) · r_{\text{max}}}{u(r_{\text{max}}) · r_\mathrm{sec}}.
-\]
+$$
+G = \frac{u(r_\mathrm{sec}) \cdot r_{\text{max}}}{u(r_{\text{max}}) \cdot r_\mathrm{sec}}.
+$$
 
 Matching this numerical solution to the known spherical Bessel functions outside
 the potential then yields the phase shift
 
-\[
+$$
 \tan\delta_\ell = \frac{G j_\ell(kr_{\text{max}}) - j_\ell(kr_\mathrm{sec})}
 {G n_\ell(kr_{\text{max}}) - n_\ell(kr_\mathrm{sec})}.
-\]
+$$
 
 Finally the elastic cross section follows from the standard partial‑wave sum
 
-\[
+$$
 \sigma(E) = \frac{4\pi}{k^2} \sum_{\ell=0}^{\ell_{\max}}
-(2\ell+1) \sin^2 \delta_\ell(E), \qquad k = \sqrt{\texttt{RydConst} · E}.
-\]
+(2\ell+1) \sin^2 \delta_\ell(E), \qquad k = \sqrt{\texttt{RydConst} \cdot E}.
+$$
 
 ## Files
 
