@@ -1,7 +1,26 @@
 :root {
+  color-scheme: light;
   font-size: 18px;
   --font-base: 'Space Grotesk', 'Noto Sans Arabic', 'Noto Sans', system-ui,
     -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --bg: #f7f8ff;
+  --bg-alt: #eef2ff;
+  --surface: rgba(255, 255, 255, 0.75);
+  --surface-strong: rgba(255, 255, 255, 0.9);
+  --accent: #bcff5e;
+  --accent-strong: #7b5dff;
+  --text: #0f172a;
+  --muted: rgba(15, 23, 42, 0.68);
+  --border: rgba(15, 23, 42, 0.18);
+  --code-bg: rgba(15, 23, 42, 0.08);
+  --bg-gradient: radial-gradient(circle at 20% 20%, #e7e5ff 0%, transparent 45%),
+    radial-gradient(circle at 80% 0%, #dff5ff 0%, transparent 35%), var(--bg);
+  --glow-gradient: radial-gradient(circle, rgba(124, 93, 255, 0.25), transparent 65%);
+  --select-arrow: url("data:image/svg+xml,%3Csvg viewBox='0 0 12 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%230f172a' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
   --bg: #01030f;
   --bg-alt: #070a1f;
   --surface: rgba(255, 255, 255, 0.08);
@@ -11,6 +30,11 @@
   --text: #f9fbff;
   --muted: rgba(249, 251, 255, 0.76);
   --border: rgba(255, 255, 255, 0.18);
+  --code-bg: rgba(255, 255, 255, 0.08);
+  --bg-gradient: radial-gradient(circle at 20% 20%, #1f1541 0%, transparent 45%),
+    radial-gradient(circle at 80% 0%, #0b4964 0%, transparent 35%), var(--bg);
+  --glow-gradient: radial-gradient(circle, rgba(124, 93, 255, 0.45), transparent 65%);
+  --select-arrow: url("data:image/svg+xml,%3Csvg viewBox='0 0 12 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23ffffff' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
 }
 
 * {
@@ -21,8 +45,7 @@ body {
   margin: 0;
   min-height: 100vh;
   font-family: var(--font-base);
-  background: radial-gradient(circle at 20% 20%, #1f1541 0%, transparent 45%),
-    radial-gradient(circle at 80% 0%, #0b4964 0%, transparent 35%), var(--bg);
+  background: var(--bg-gradient);
   color: var(--text);
   line-height: 1.7;
   padding-bottom: 4rem;
@@ -31,7 +54,7 @@ body {
 code {
   font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace;
   font-size: 0.95em;
-  background: rgba(255, 255, 255, 0.08);
+  background: var(--code-bg);
   padding: 0.15rem 0.45rem;
   border-radius: 999px;
 }
@@ -42,7 +65,7 @@ code {
   width: 1400px;
   height: 1400px;
   transform: translateX(-50%);
-  background: radial-gradient(circle, rgba(124, 93, 255, 0.45), transparent 65%);
+  background: var(--glow-gradient);
   filter: blur(160px);
   opacity: 0.7;
   z-index: 0;
@@ -71,6 +94,14 @@ footer {
   margin-bottom: 1.5rem;
 }
 
+.top-controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
 .eyebrow {
   text-transform: uppercase;
   letter-spacing: 0.3rem;
@@ -95,7 +126,7 @@ footer {
 #language-picker {
   appearance: none;
   -webkit-appearance: none;
-  background: rgba(255, 255, 255, 0.08);
+  background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 999px;
   color: var(--text);
@@ -103,9 +134,29 @@ footer {
   font-size: 0.95rem;
   cursor: pointer;
   backdrop-filter: blur(8px);
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 12 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23ffffff' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-image: var(--select-arrow);
   background-repeat: no-repeat;
   background-position: right 0.9rem center;
+}
+
+.theme-toggle {
+  appearance: none;
+  border: 1px solid var(--border);
+  background: var(--surface-strong);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 0.5rem 1rem;
+  font-size: 0.95rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(123, 93, 255, 0.25);
 }
 
 .hero-title {
