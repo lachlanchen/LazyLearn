@@ -108,10 +108,26 @@ footer {
   background-position: right 0.9rem center;
 }
 
+.hero-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin: 0 0 1rem;
+  flex-wrap: wrap;
+}
+
+.hero-logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  object-fit: contain;
+}
+
 .hero h1 {
   font-size: clamp(3rem, 8vw, 4.6rem);
   letter-spacing: -1.5px;
-  margin: 0 0 1rem;
+  margin: 0;
 }
 
 .hero .tagline {
