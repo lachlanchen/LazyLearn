@@ -118,9 +118,9 @@ footer {
 }
 
 .hero-logo {
-  width: clamp(96px, 14vw, 120px);
-  height: clamp(96px, 14vw, 120px);
-  border-radius: 16px;
+  width: clamp(72px, 10vw, 84px);
+  height: clamp(72px, 10vw, 84px);
+  border-radius: 12px;
   object-fit: contain;
   background: #fff;
   padding: 6px;
