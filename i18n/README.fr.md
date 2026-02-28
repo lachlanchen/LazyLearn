@@ -1,56 +1,65 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/logos/banner.png" alt="LazyingArt banner" />
-</p>
+[![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-# LazyPhysics et Chemistry
 
-[![Site](https://img.shields.io/badge/site-learn.lazying.art-0a7ea4)](https://learn.lazying.art)
-![Python](https://img.shields.io/badge/python-3.x-3776AB?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/status-active%20learning-22c55e)
-![Repo Type](https://img.shields.io/badge/repo-mixed--format-6b7280)
-![Docs](https://img.shields.io/badge/docs-static%20microsite-0ea5e9)
+# LazyPhysics et chimie
 
-LazyPhysics and Chemistry est la moitié code + notebooks de **LazyLearn** : un journal d'apprentissage volontairement lent et pratique pour la physique et la chimie. Les notes vivantes, progrès et TODO sont publiés sur [learn.lazying.art](https://learn.lazying.art) (servi depuis `docs/` dans ce dépôt), tandis que les artefacts exécutables restent ici pour que les expériences aient toujours un foyer reproductible.
+[![Site](https://img.shields.io/badge/website-learn.lazying.art-0a7ea4?style=for-the-badge&logo=githubpages&logoColor=white)](https://learn.lazying.art)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active%20Learning-16a34a?style=for-the-badge&logo=target&logoColor=white)
+![Repo Type](https://img.shields.io/badge/Repo-Type-Mixed%20Format-6b7280?style=for-the-badge)
+![Docs](https://img.shields.io/badge/Docs-Static%20Microsite-0ea5e9?style=for-the-badge&logo=markdown&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-11-0f766e?style=for-the-badge&logo=googletranslate&logoColor=white)
 
-## Vue d'ensemble 🧭
+## 📌 En bref
+
+| Axe | Ce que fait ce dépôt |
+| --- | --- |
+| Type de flux de travail | Espace d'apprentissage reproductible en physique + chimie |
+| Livrables | Scripts, notebooks, figures générées et docs statiques |
+| Modèle de collaboration | Expérimentations de base + publication du site public |
+| Couverture de traduction | Fichiers miroir du README dans `i18n/` |
+
+LazyPhysics et Chimie représente la partie code + notebook de **LazyLearn** : un carnet d'apprentissage pratique, volontairement progressif, pour la physique et la chimie. Les notes vivantes, les réussites et les TODO sont publiés sur [learn.lazying.art](https://learn.lazying.art) (gérés depuis `docs/` dans ce dépôt), tandis que les éléments exécutables restent ici pour que les expériences aient toujours un point de départ reproductible.
+
+## Aperçu 🧭
 
 ### LazyLearn
 
-- **Base principale :** [learn.lazying.art](https://learn.lazying.art) - le site public avec les axes hebdomadaires, le backlog et les points forts.
-- **Source de vérité :** tout ce que le site référence se trouve dans `examples/`, `comp_physics/`, `comp_physics_python/`, `multiwfn/` ou `figures/`.
-- **Flux de mise à jour :** livrer d'abord le code/les notebooks, régénérer les figures si nécessaire, puis ajouter une entrée dans `docs/` pour que le site reflète le travail le plus récent.
+- **Base principale :** [learn.lazying.art](https://learn.lazying.art) - le site public avec les focales hebdomadaires, le carnet de backlog et les points forts.
+- **Source unique de vérité :** tout ce que le site référence se trouve dans `examples/`, `comp_physics/`, `comp_physics_python/`, `multiwfn/`, ou `figures/`.
+- **Flux de mise à jour :** publier d'abord le code/les notebooks, régénérer les figures si nécessaire, puis ajouter une entrée dans `docs/` pour que le site reflète le travail le plus récent.
 
-Ce dépôt est volontairement en format mixte, pas une application packagée unique. Il combine scripts exécutables, notebooks, références et site statique de documentation dans un même espace versionné.
+Ce dépôt est volontairement de format mixte, pas une application empaquetée unique. Il combine scripts exécutables, notebooks, références et un site statique sous un même espace de travail versionné.
 
 ## Fonctionnalités ✨
 
-- Scripts d'exemple quantiques (QAOA + VQE) exécutables sur des ordinateurs portables standards.
-- Notebooks de physique computationnelle et solveurs auxiliaires (par ex. workflows basés sur Numerov).
-- Portages Python chapitre par chapitre de programmes de physique computationnelle issus de manuels.
-- Bundle source/manuels Multiwfn pour référence locale en post-traitement de chimie quantique.
-- Figures générées versionnées pour rapports/slides (`figures/`).
-- Ensemble README multilingue intégré dans `i18n/`.
+- Scripts d'exemples quantiques (QAOA + VQE) qui s'exécutent sur des ordinateurs portables grand public.
+- Notebooks de physique computationnelle et solveurs d'assistance (par ex. des flux basés sur Numerov).
+- Portages Python chapitre par chapitre des programmes de physique computationnelle des manuels.
+- Bundle de source/manuels Multiwfn pour la post-traitement local de chimie quantique.
+- Figures générées versionnées pour rapports/présentations (`figures/`).
+- Jeux de README multilingues natifs dans `i18n/`.
 - Microsite statique dans `docs/` (domaine personnalisé : `learn.lazying.art`).
 
 ## Structure du projet 🗂️
 
-### Ce qui se trouve ici
+### Ce que contient ce dépôt
 
-| Path | Purpose |
+| Chemin | Rôle |
 | --- | --- |
-| `examples/` | Scripts Python ciblés (QAOA + VQE) exécutables avec Qiskit ou PennyLane. |
-| `comp_physics/` | Notebooks de physique computationnelle, scripts utilitaires comme `numerov.py`, et données/figures de support. |
+| `examples/` | Scripts Python ciblés (QAOA + VQE) qui s'exécutent avec Qiskit ou PennyLane. |
+| `comp_physics/` | Notebooks de physique computationnelle, scripts d'assistance comme `numerov.py`, et données/figures associées. |
 | `comp_physics_python/` | Portages Python de *Computational Physics* de Jos Thijssen, organisés par chapitre (voir [comp_physics_python/README.md](comp_physics_python/README.md)). |
-| `multiwfn/` | Bundle source développeur Multiwfn 3.8 avec manuels pour référence locale. |
-| `figures/` | Sorties PNG/SVG statiques utilisées dans les rapports/slides et le README. |
-| `figs/` | Ressources logo et bannière. |
-| `docs/` | Contenu du microsite LazyLearn (servi par GitHub Pages ou tout hébergeur statique). |
+| `multiwfn/` | Paquet source développeur de Multiwfn 3.8 avec manuels pour référence locale. |
+| `figures/` | Sorties PNG/SVG statiques utilisées dans les rapports/présentations et le README. |
+| `figs/` | Actifs de logo et bannière. |
+| `docs/` | Contenu du microsite LazyLearn (servi via GitHub Pages ou tout hôte statique). |
 | `i18n/` | Fichiers README localisés. |
 
-Arborescence représentative :
+Disposition représentative :
 
 ```text
 LazyLearn/
@@ -70,20 +79,20 @@ LazyLearn/
 ```
 
 > [!IMPORTANT]
-> Plusieurs entrées de premier niveau sont des symlinks vers des répertoires hors de ce dépôt. Toute modification sous ces chemins affecte des cibles externes.
+> Plusieurs entrées de niveau supérieur sont des liens symboliques vers des répertoires extérieurs à ce dépôt. Modifier ces chemins affecte les cibles externes.
 
 ## Prérequis 🧰
 
-| Requirement | Notes |
+| Exigence | Remarques |
 | --- | --- |
-| Python 3.x | Requis pour les scripts à la racine et la plupart des notebooks. |
-| `pip` (ou Conda) | Gestion des paquets/environnements. |
-| Jupyter Lab/Notebook (optionnel) | Nécessaire pour les workflows notebooks. |
-| Gaussian 16 + GaussView (optionnel) | Nécessaire pour les workflows Gaussian. |
+| Python 3.x | Requis pour les scripts racine et la plupart des notebooks. |
+| `pip` (ou Conda) | Gestionnaire de paquets/environnements. |
+| Jupyter Lab/Notebook (optionnel) | Nécessaire pour les flux notebook. |
+| Gaussian 16 + GaussView (optionnel) | Nécessaire pour les flux Gaussian. |
 
 ## Installation ⚙️
 
-### Configuration Python minimale (exemples à la racine)
+### Configuration Python minimale (exemples racine)
 
 ```bash
 python -m venv .venv
@@ -92,24 +101,34 @@ pip install --upgrade pip
 pip install qiskit pennylane numpy matplotlib
 ```
 
+### ✅ Liste de vérification rapide
+
+| Étape | Commande | Objectif |
+| --- | --- | --- |
+| 1 | `python -m venv .venv` | Créer un environnement isolé |
+| 2 | `source .venv/bin/activate` (ou équivalent selon l'OS) | Éviter les conflits de dépendances |
+| 3 | `pip install --upgrade pip` | Assurer des outils de paquets à jour |
+| 4 | `pip install qiskit pennylane numpy matplotlib` | Installer la pile expérimentale de base |
+| 5 | Exécuter un script dans `examples/` | Valider l'installation de bout en bout |
+
 Les notebooks Jupyter dans `comp_physics/` utilisent le même environnement. Lancez avec :
 
 ```bash
 jupyter lab
-# or
+# ou
 jupyter notebook
 ```
 
-### Dépendances optionnelles des portages de chapitres (`comp_physics_python/`)
+### Dépendances optionnelles par chapitre (`comp_physics_python/`)
 
 ```bash
-# conda activate quantum  # common local env name in subproject docs
+# conda activate quantum  # nom d'environnement local courant dans les sous-docs
 pip install numpy scipy matplotlib
 ```
 
 ## Utilisation 🚀
 
-### Workflows d'exemple
+### Exemples de flux de travail
 
 - **QAOA avec Qiskit**
 
@@ -117,7 +136,7 @@ pip install numpy scipy matplotlib
 python examples/qaoa_qiskit_maxcut.py
 ```
 
-Aucune dépendance Aer ; utilise un backend statevector pur.
+Aucune dépendance à Aer ; utilise un backend statevector pur.
 
 - **QAOA avec PennyLane**
 
@@ -135,21 +154,21 @@ python examples/pennylane_chemistry_h2_vqe.py
 
 Reproduit `figures/pennylane_h2_vqe_convergence.png`.
 
-Tous les scripts journalisent des métriques intermédiaires afin de réutiliser les figures ou d'étendre à de nouvelles molécules/graphes.
+Tous les scripts enregistrent des métriques intermédiaires afin que vous puissiez réutiliser les courbes ou étendre vers de nouvelles molécules/graphes.
 
 ## Notebooks de physique computationnelle 📓
 
-Le répertoire `comp_physics/` reflète les notes de travail :
+Le répertoire `comp_physics/` reflète des notes de travail :
 
 - `comp_physics_textbook_code/` - routines réutilisables extraites des notebooks.
-- Notebooks autonomes comme `chapter1.ipynb`, `chapter2.ipynb`, `numerov.ipynb` et `numpy_1ddft.ipynb`.
-- Dossiers thématiques (`bosonscattering/`, `lensless/`, `lightscattering/`, etc.) avec données et utilitaires par expérience.
+- Notebooks indépendants comme `chapter1.ipynb`, `chapter2.ipynb`, `numerov.ipynb` et `numpy_1ddft.ipynb`.
+- Dossiers thématiques (`bosonscattering/`, `lensless/`, `lightscattering/`, etc.) avec données et scripts d'assistance par expérience.
 
-Si des dépendances supplémentaires sont nécessaires, enregistrez-les dans `comp_physics/environments.yaml`.
+Si des dépendances supplémentaires sont nécessaires, consignez-les dans `comp_physics/environments.yaml`.
 
-## Traductions de code de manuel 📚
+## Traductions de programmes de manuels 📚
 
-`comp_physics_python/` est une traduction Python croissante des programmes Fortran classiques de *Computational Physics*. Exemple de correspondance par chapitre :
+`comp_physics_python/` est une traduction Python progressive des programmes Fortran classiques de *Computational Physics*. Exemple de correspondance par chapitre :
 
 - `ch4/` : exemples Hartree-Fock.
 - `ch8/` : solveurs de dynamique moléculaire.
@@ -159,20 +178,20 @@ Consultez [comp_physics_python/README.md](comp_physics_python/README.md) pour la
 
 ## Références Multiwfn 🔬
 
-`multiwfn/` conserve `Multiwfn_3.8_dev_src_Linux` ainsi que le manuel PDF et le guide de démarrage rapide. Aucun binaire compilé n'est versionné.
+`multiwfn/` conserve `Multiwfn_3.8_dev_src_Linux` avec le manuel PDF et le guide de démarrage rapide. Aucun binaire compilé n'est versionné.
 
 ## Figures 🖼️
 
-Les ressources PNG/SVG générées vivent dans `figures/` afin que les sorties soient versionnées avec les scripts/notebooks qui les produisent.
+Les ressources PNG/SVG générées résident dans `figures/`, de sorte que les sorties sont versionnées en même temps que les scripts/notebooks qui les produisent.
 
 ## Configuration 🛠️
 
 ### Python et notebooks
 
-- Les scripts à la racine supposent le venv indiqué ci-dessus.
-- Les détails d'environnement notebooks sont répartis dans la documentation du projet ; aucun lockfile unique n'existe actuellement à la racine du dépôt.
+- Les scripts racine supposent l'environnement virtuel présenté ci-dessus.
+- Les détails d'environnement des notebooks sont documentés dans les sous-projets ; aucun fichier lockfile unique n'existe actuellement à la racine.
 
-### Runner Gaussian (chemin symlinké)
+### Runner Gaussian (chemin en symlink)
 
 `Gaussian/run_gaussian.sh` prend en charge :
 
@@ -182,8 +201,8 @@ Gaussian/run_gaussian.sh [--no-view] [--g16 <path_to_g16>] [--gview <path_to_gvi
 
 Comportement :
 
-- Écrit `<basename>.log` à côté de l'entrée.
-- Utilise `GAUSS_SCRDIR` s'il est défini, sinon utilise `~/gaussian/scr`.
+- Génère `<basename>.log` à côté de l'entrée.
+- Utilise `GAUSS_SCRDIR` si défini, sinon `~/gaussian/scr` par défaut.
 - Détecte `%chk=...` dans l'entrée ; si le checkpoint existe, GaussView ouvre `.chk`, sinon `.log`.
 - Si disponible, préfère `~/gaussian/gv/gview_safe.sh`, puis `gview.sh`.
 
@@ -201,13 +220,26 @@ exec "$GV_SH" "$@"
 
 ## Notes de développement 🧪
 
+### 🎬 Carte de navigation
+
+Utilisez ceci comme point de départ pour le travail quotidien :
+
+| Domaine | Commencer ici |
+| --- | --- |
+| Démonstrations quantiques | `examples/` |
+| Notebooks de physique | `comp_physics/` |
+| Traductions de manuels | `comp_physics_python/` |
+| Outils de chimie quantique | `multiwfn/` |
+| Sorties publiées | `docs/` |
+| Illustrations et visuels | `figures/`, `figs/` |
+
 ### Notes de contrôle de version
 
-- Les chemins lourds sont ignorés via `.gitignore`, y compris `books/`, les cibles de symlink externes (`Gaussian`, `ComputationalPhysics`, `leonardsusskind`, `the_theoretical_minimum`) et les artefacts locaux tels que `*.chk`.
-- Gardez les contributions concentrées sur les dossiers suivis pour conserver des workflows de clone/mise à jour légers.
+- Les gros chemins sont ignorés via `.gitignore`, notamment `books/`, les cibles symlink externes (`Gaussian`, `ComputationalPhysics`, `leonardsusskind`, `the_theoretical_minimum`) et les artefacts locaux tels que `*.chk`.
+- Gardez les contributions concentrées sur les dossiers suivis pour des flux clone/mise à jour légers.
 - Pour les mises à jour du site web : modifiez `docs/`, prévisualisez localement, puis poussez.
 
-Prévisualisation locale de la doc :
+Prévisualisation locale des docs :
 
 ```bash
 python -m http.server --directory docs
@@ -215,82 +247,36 @@ python -m http.server --directory docs
 
 `docs/CNAME` est configuré pour `learn.lazying.art`.
 
-## Dépannage 🩺
+## Résolution de problèmes 🩺
 
-- Critère de réussite Gaussian : `Normal termination of Gaussian` près de la fin du `.log`.
-- Si GaussView échoue sous Wayland/session distante, utilisez `gview_safe.sh` et passez `--gview` explicitement.
-- En cas d'erreur d'espace scratch Gaussian, vérifiez l'espace disque libre et les permissions dans `GAUSS_SCRDIR`.
-- Si les dépendances notebooks dérivent, considérez les README des sous-projets comme source de vérité et consignez les paquets manquants dans les fichiers d'environnement avant partage.
-- `comp_physics/environments.yaml` semble être un placeholder dans l'état actuel du dépôt ; fiez-vous aux commandes d'installation explicites jusqu'à correction.
+- Critère de succès Gaussian : `Normal termination of Gaussian` près de la fin du `.log`.
+- Si GaussView échoue sous Wayland/séances à distance, utilisez `gview_safe.sh` et passez `--gview` explicitement.
+- Si des erreurs apparaissent au niveau du scratch Gaussian, vérifiez l'espace disque et les permissions dans `GAUSS_SCRDIR`.
+- Si les dépendances des notebooks dérivent, traitez les README de sous-projets comme source de vérité et capturez les packages manquants dans des fichiers d'environnement avant de partager.
+- `comp_physics/environments.yaml` semble être un placeholder dans l'état actuel du dépôt ; basez-vous sur les commandes d'installation explicites tant qu'il n'est pas corrigé.
 
 ## Feuille de route 🛣️
 
-- Continuer à étendre la couverture des chapitres de `comp_physics_python/` (matrices de transfert, DMC/PIMC, FEM, etc.).
-- Harmoniser les conventions de sortie/figures entre scripts et notebooks.
-- Ajouter des vérifications de validation légères et répétables pour les exemples clés.
-- Maintenir `docs/` et les README multilingues alignés sur les nouvelles expériences.
+- Continuer l'expansion de la couverture des chapitres de `comp_physics_python/` (matrices de transfert, DMC/PIMC, FEM, et au-delà).
+- Harmoniser les conventions de sortie/graphique entre scripts et notebooks.
 
 ## Contribution 🤝
 
-Les issues et pull requests sont bienvenues, en particulier pour :
+Les issues et pull requests sont les bienvenus, notamment pour :
 
-- Les vérifications de justesse numérique et les améliorations de reproductibilité.
-- De meilleures spécifications d'environnement pour notebooks/scripts.
-- Des portages supplémentaires de chapitres de manuels et des raffinements CLI.
-- La clarté de la documentation entre langues dans `i18n/`.
+- Contrôles de précision numérique et améliorations de reproductibilité.
+- De meilleures spécifications d'environnement pour les notebooks/scripts.
+- Des ports de chapitres de manuels supplémentaires et des raffinements CLI.
+- La clarté de la documentation entre les langues dans `i18n/`.
 
-Avant de soumettre des mises à jour majeures de contenu, conservez les figures générées dans `figures/` et assurez-vous que les commandes sont exécutables depuis la racine du dépôt, sauf mention contraire documentée.
+Avant de soumettre des mises à jour de contenu majeures, conservez les figures générées dans `figures/` et assurez-vous que les commandes sont exécutables depuis la racine du dépôt sauf documentation contraire.
 
-## Soutenir LazyLearn ❤️
+## ❤️ Support
 
-Aider LazyLearn permet de faire avancer les expériences, la documentation et l'outillage ouvert :
+| Donate | PayPal | Stripe |
+| --- | --- | --- |
+| [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
 
-- Couvrir l'hébergement/l'inférence/le stockage pour les démos et notebooks publics.
-- Financer des hack-weeks ciblées sur EchoMind, LazyEdit et les utilitaires quantique/physique ici.
-- Prototyper l'optique + wearables (IdeasGlass, LightMind) qui alimentent les futurs chapitres.
-- Sponsoriser des déploiements gratuits pour les étudiants, laboratoires communautaires et créateurs.
+## License 📄
 
-### Faire un don
-
-<div align="center">
-<table style="margin:0 auto; text-align:center; border-collapse:collapse;">
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate">https://chat.lazying.art/donate</a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate"><img src="figures/donate_button.svg" alt="Donate" height="44"></a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://paypal.me/RongzhouChen">
-        <img src="https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white" alt="Donate with PayPal">
-      </a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400">
-        <img src="https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white" alt="Donate with Stripe">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>WeChat</strong></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>Alipay</strong></td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="WeChat QR" src="figures/donate_wechat.png" width="240"/></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="Alipay QR" src="figures/donate_alipay.png" width="240"/></td>
-  </tr>
-</table>
-</div>
-
-**支援 / Donate**
-
-- ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。
-- 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。
-- Votre soutien soutient mes activités de recherche, de développement et d'exploitation afin que je puisse continuer à partager davantage de projets ouverts et d'améliorations.
-
-## Licence 📄
-
-Aucun fichier `LICENSE` à la racine n'est actuellement présent dans ce dépôt. Tant qu'une licence n'est pas ajoutée, considérez les droits d'usage/redistribution comme non spécifiés et demandez une clarification au mainteneur avant de réutiliser un contenu substantiel.
+Aucun fichier `LICENSE` racine n'est actuellement présent dans ce dépôt. Jusqu'à l'ajout d'une licence, considérez les droits d'usage et de redistribution comme non précisés et demandez clarification au mainteneur avant de réutiliser un contenu substantiel.

@@ -1,56 +1,64 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/logos/banner.png" alt="LazyingArt banner" />
-</p>
+[![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-# LazyPhysics and Chemistry
+# LazyPhysics والكيمياء
 
-[![Site](https://img.shields.io/badge/site-learn.lazying.art-0a7ea4)](https://learn.lazying.art)
-![Python](https://img.shields.io/badge/python-3.x-3776AB?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/status-active%20learning-22c55e)
-![Repo Type](https://img.shields.io/badge/repo-mixed--format-6b7280)
-![Docs](https://img.shields.io/badge/docs-static%20microsite-0ea5e9)
+[![Site](https://img.shields.io/badge/website-learn.lazying.art-0a7ea4?style=for-the-badge&logo=githubpages&logoColor=white)](https://learn.lazying.art)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active%20Learning-16a34a?style=for-the-badge&logo=target&logoColor=white)
+![Repo Type](https://img.shields.io/badge/Repo-Type-Mixed%20Format-6b7280?style=for-the-badge)
+![Docs](https://img.shields.io/badge/Docs-Static%20Microsite-0ea5e9?style=for-the-badge&logo=markdown&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-11-0f766e?style=for-the-badge&logo=googletranslate&logoColor=white)
 
-يمثّل LazyPhysics and Chemistry الجانب البرمجي + الدفاتر من **LazyLearn**: سجل تعلم عملي ومتعمد البطء في الفيزياء والكيمياء. تُنشر الملاحظات الحية والإنجازات وقائمة المهام على [learn.lazying.art](https://learn.lazying.art) (وتُخدَّم من `docs/` في هذا المستودع)، بينما تبقى المخرجات القابلة للتشغيل هنا لضمان وجود بيئة قابلة لإعادة الإنتاج للتجارب دائمًا.
+## 📌 لمحة سريعة
+
+| البعد | ما يقوم به هذا المستودع |
+| --- | --- |
+| نوع سير العمل | بيئة تعلم فيزياء وكيمياء قابلة لإعادة التنفيذ |
+| المخرجات | سكربتات، دفاتر ملاحظات، رسوم بيانية مولدة، ومواد توثيق ثابتة |
+| نموذج التعاون | تجارب الجذر + نشر الموقع العام |
+| تغطية الترجمة | ملفات README مرآوية داخل `i18n/` |
+
+LazyPhysics and Chemistry هو الجزء البرمجي/دفاتر ملاحظات من مشروع **LazyLearn**: سجل تعلم عملي وبطيء فيزيائيًا وكيميائيًا عن قصد. تُنشر الملاحظات الحية والإنجازات وقوائم الأعمال القادمة على [learn.lazying.art](https://learn.lazying.art) (يُخدم الموقع من `docs/` في هذا المستودع)، بينما تبقى القطع القابلة للتشغيل هنا حتى يكون لكل تجربة موطن قابل لإعادة التنفيذ دائمًا.
 
 ## نظرة عامة 🧭
 
 ### LazyLearn
 
-- **المنصة الأساسية:** [learn.lazying.art](https://learn.lazying.art) - الموقع العام الذي يضم تركيزات أسبوعية، قائمة الأعمال، وأبرز المستجدات.
-- **المصدر المرجعي:** كل ما يشير إليه الموقع موجود في `examples/` أو `comp_physics/` أو `comp_physics_python/` أو `multiwfn/` أو `figures/`.
-- **تدفق التحديث:** انشر الشيفرة/الدفاتر أولًا، أعد توليد الرسوم عند الحاجة، ثم أضف إدخالًا في `docs/` ليعكس الموقع أحدث عمل.
+- **قاعدة العمل:** [learn.lazying.art](https://learn.lazying.art) - الموقع العام مع محاور أسبوعية وسجل عودة وخلاصات.
+- **المصدر الأساسي للحقائق:** كل ما يرتبط به الموقع موجود في `examples/` و`comp_physics/` و`comp_physics_python/` و`multiwfn/` أو `figures/`.
+- **تدفق التحديث:** نشر الشيفرة/دفاتر الملاحظات أولًا، وإعادة توليد الرسوم البيانية عند الحاجة، ثم إضافة إدخال إلى `docs/` بحيث يعكس الموقع أحدث عمل.
 
-هذا المستودع متعمد أن يكون متعدد الصيغ وليس تطبيقًا مُعبّأً واحدًا. فهو يجمع سكربتات قابلة للتنفيذ، دفاتر، مراجع، وموقع توثيقي ثابت ضمن مساحة عمل واحدة مُدارة بالإصدارات.
+هذا المستودع مختلط الصيغة بشكل مقصود، وليس تطبيقًا واحدًا معبأً. يجمع بين سكربتات قابلة للتنفيذ، ودفاتر ملاحظات، ومراجع، وموقع وثائق ثابت ضمن مساحة عمل واحدة ذات إصدار.
 
-## الميزات ✨
+## المزايا ✨
 
-- سكربتات أمثلة كمية (QAOA + VQE) تعمل على حواسيب محمولة عادية.
-- دفاتر فيزياء حاسوبية ومحللات مساعدة (مثل سير العمل المبني على Numerov).
-- تحويلات Python برنامجًا ببرنامج من كتاب الفيزياء الحاسوبية بحسب الفصول.
-- حزمة مصدر/دليل Multiwfn كمرجع محلي للمعالجة اللاحقة في الكيمياء الكمّية.
-- رسوم مولدة ومُدارة بالإصدارات للتقارير/العروض (`figures/`).
-- مجموعة README متعددة اللغات مدمجة تحت `i18n/`.
-- موقع مصغر ثابت في `docs/` (نطاق مخصص: `learn.lazying.art`).
+- أمثلة كمومية (QAOA + VQE) تعمل على حواسيب محمولة عادية.
+- دفاتر ملاحظات فيزياء حسابية وحلول مساعدة (مثل تدفقات عمل تعتمد على Numerov).
+- تحويلات بايثون فصلًا بعد فصل من برامج الفيزياء الحسابية المدرسية.
+- حزمة مصدر ودليل Multiwfn لمعالجات ما بعد الكيمياء الكمية محليًا.
+- رسوم توضيحية مولدة ومُدرجة بالإصدارات للتقارير/الشرائح (`figures/`).
+- مجموعة README متعددة اللغات مدمجة ضمن `i18n/`.
+- موقع microsite ثابت ضمن `docs/` (نطاق مخصص: `learn.lazying.art`).
 
 ## بنية المشروع 🗂️
 
-### ماذا يوجد هنا
+### ما يحتويه هذا المكان
 
-| Path | Purpose |
+| المسار | الهدف |
 | --- | --- |
-| `examples/` | سكربتات Python مركزة (QAOA + VQE) تعمل مع Qiskit أو PennyLane. |
-| `comp_physics/` | دفاتر الفيزياء الحاسوبية، سكربتات مساعدة مثل `numerov.py`، وبيانات/رسوم داعمة. |
-| `comp_physics_python/` | تحويلات Python لكتاب *Computational Physics* لـ Jos Thijssen، منظمة حسب الفصول (انظر [comp_physics_python/README.md](comp_physics_python/README.md)). |
-| `multiwfn/` | حزمة المصدر التطويرية Multiwfn 3.8 بالإضافة إلى الأدلة للاستخدام المرجعي المحلي. |
-| `figures/` | مخرجات PNG/SVG ثابتة مستخدمة في التقارير/العروض وREADME. |
-| `figs/` | أصول الشعار والبانر. |
-| `docs/` | محتوى الموقع المصغر لـ LazyLearn (يُخدَّم عبر GitHub Pages أو أي مستضيف ثابت). |
+| `examples/` | سكربتات بايثون مركزة (QAOA + VQE) تعمل مع Qiskit أو PennyLane. |
+| `comp_physics/` | دفاتر ملاحظات فيزياء حسابية، سكربتات مساعدة مثل `numerov.py`، وبيانات/رسوم داعمة. |
+| `comp_physics_python/` | تحويلات بايثون لكتاب *Computational Physics* ليوز ثيسن، مرتبة حسب الفصل (انظر [comp_physics_python/README.md](comp_physics_python/README.md)). |
+| `multiwfn/` | حزمة مصدر Multiwfn 3.8 مع الكتيبات للاستخدام المرجعي المحلي. |
+| `figures/` | مخرجات PNG/SVG ثابتة تُستخدم في التقارير/الشرائح وREADME. |
+| `figs/` | شعارات ومواد بانر. |
+| `docs/` | محتوى موقع LazyLearn الثابت (يُستضاف عبر GitHub Pages أو أي مضيف ثابت). |
 | `i18n/` | ملفات README المترجمة. |
 
-تخطيط تمثيلي:
+التخطيط التمثيلي:
 
 ```text
 LazyLearn/
@@ -70,20 +78,20 @@ LazyLearn/
 ```
 
 > [!IMPORTANT]
-> عدة مدخلات في المستوى الأعلى هي روابط رمزية إلى مجلدات خارج هذا المستودع. التعديل تحت تلك المسارات يؤثر على أهداف خارجية.
+> عدّة إدخالات في المستوى الأعلى هي روابط رمزية إلى أدلة خارج هذا المستودع. تعديل أي ملف تحت تلك المسارات يؤثر على الأهداف الخارجية.
 
 ## المتطلبات المسبقة 🧰
 
-| Requirement | Notes |
+| المتطلب | ملاحظات |
 | --- | --- |
-| Python 3.x | مطلوب لسكربتات الجذر ومعظم أعمال الدفاتر. |
-| `pip` (or Conda) | إدارة الحزم/البيئات. |
-| Jupyter Lab/Notebook (optional) | مطلوب لسير عمل الدفاتر. |
-| Gaussian 16 + GaussView (optional) | مطلوب لمسارات عمل Gaussian. |
+| Python 3.x | مطلوب لسكربتات المستوى الجذري ومعظم أعمال الدفاتر. |
+| `pip` (أو Conda) | لإدارة الحزم/البيئة. |
+| Jupyter Lab/Notebook (اختياري) | مطلوب لسير عمل الدفاتر. |
+| Gaussian 16 + GaussView (اختياري) | مطلوب لسير عمل Gaussian. |
 
 ## التثبيت ⚙️
 
-### إعداد Python الأدنى (أمثلة الجذر)
+### إعداد بايثون أدنى حد (أمثلة الجذر)
 
 ```bash
 python -m venv .venv
@@ -92,24 +100,34 @@ pip install --upgrade pip
 pip install qiskit pennylane numpy matplotlib
 ```
 
-تستخدم دفاتر Jupyter داخل `comp_physics/` نفس البيئة. شغّلها عبر:
+### ✅ قائمة مراجعة الإعداد السريعة
+
+| الخطوة | الأمر | الهدف |
+| --- | --- | --- |
+| 1 | `python -m venv .venv` | إنشاء بيئة معزولة |
+| 2 | `source .venv/bin/activate` (أو ما يعادل ذلك حسب النظام) | تجنب تعارضات الحزم |
+| 3 | `pip install --upgrade pip` | التأكد من تحديث أدوات الحزم |
+| 4 | `pip install qiskit pennylane numpy matplotlib` | تثبيت المكدّس التجريبي الأساسي |
+| 5 | تشغيل أحد السكربتات في `examples/` | التحقق من التثبيت من البداية للنهاية |
+
+دفاتر Jupyter داخل `comp_physics/` تستخدم نفس البيئة. شغّل باستخدام:
 
 ```bash
 jupyter lab
-# or
+# أو
 jupyter notebook
 ```
 
-### تبعيات اختيارية لتحويلات الفصول (`comp_physics_python/`)
+### متطلبات إضافية لفصول `comp_physics_python/` (اختيارية)
 
 ```bash
-# conda activate quantum  # common local env name in subproject docs
+# conda activate quantum  # اسم بيئة شائع محليًا في وثائق المشروع الفرعي
 pip install numpy scipy matplotlib
 ```
 
 ## الاستخدام 🚀
 
-### مسارات عمل أمثلة
+### مثال على سير العمل
 
 - **QAOA مع Qiskit**
 
@@ -117,7 +135,7 @@ pip install numpy scipy matplotlib
 python examples/qaoa_qiskit_maxcut.py
 ```
 
-لا توجد تبعية Aer؛ يستخدم واجهة pure statevector.
+لا توجد اعتماديات `Aer`؛ يستخدم محرك statevector نقي.
 
 - **QAOA مع PennyLane**
 
@@ -135,44 +153,44 @@ python examples/pennylane_chemistry_h2_vqe.py
 
 يعيد إنتاج `figures/pennylane_h2_vqe_convergence.png`.
 
-تسجّل كل السكربتات المقاييس الوسيطة بحيث يمكنك إعادة استخدام الرسوم أو التوسّع إلى جزيئات/رسوم بيانية جديدة.
+جميع السكربتات تسجل مؤشرات وسيطة بحيث يمكنك إعادة استخدام الرسوم أو التوسع إلى جزيئات/رسوم جديدة.
 
-## دفاتر الفيزياء الحاسوبية 📓
+## دفاتر ملاحظات الفيزياء الحسابية 📓
 
-يعكس مجلد `comp_physics/` ملاحظات العمل الفعلية:
+دليل `comp_physics/` يعكس الملاحظات التشغيلية:
 
-- `comp_physics_textbook_code/` - روتينات قابلة لإعادة الاستخدام مُستخرجة من الدفاتر.
-- دفاتر مستقلة مثل `chapter1.ipynb` و`chapter2.ipynb` و`numerov.ipynb` و`numpy_1ddft.ipynb`.
-- مجلدات موضوعية (`bosonscattering/` و`lensless/` و`lightscattering/` وغيرها) مع البيانات والمساعدات لكل تجربة.
+- `comp_physics_textbook_code/` - روتينات قابلة لإعادة الاستخدام مستخلصة من الدفاتر.
+- دفاتر مستقلة مثل `chapter1.ipynb`, `chapter2.ipynb`, `numerov.ipynb`, و`numpy_1ddft.ipynb`.
+- مجلدات مواضيعية (`bosonscattering/`, `lensless/`, `lightscattering/`, وغيرها) مع بيانات ومساعدات لكل تجربة.
 
-إذا لزمَت تبعيات إضافية، سجّلها في `comp_physics/environments.yaml`.
+إذا كانت هناك تبعيات إضافية مطلوبة، سجّلها في `comp_physics/environments.yaml`.
 
-## ترجمات شيفرة الكتاب 📚
+## ترجمات كود المقرر 📚
 
-`comp_physics_python/` مشروع متنامٍ لتحويل برامج فورتران الكلاسيكية من *Computational Physics* إلى Python. مثال على توزيع الفصول:
+`comp_physics_python/` هو ترجمة بايثون متنامية لبرامج Fortran الكلاسيكية من *Computational Physics*. مثال على توزيع الفصول:
 
 - `ch4/`: أمثلة Hartree-Fock.
-- `ch8/`: محللات الديناميكا الجزيئية.
-- `ch10/`: عينات Monte Carlo.
+- `ch8/`: حلول ديناميكا الجزيئات.
+- `ch10/`: مولدات عيّنة Monte Carlo.
 
-ارجع إلى [comp_physics_python/README.md](comp_physics_python/README.md) لتغطية الفصول كاملة وأوامر CLI.
+راجع [comp_physics_python/README.md](comp_physics_python/README.md) لتغطية الفصول الكاملة وأوامر CLI.
 
 ## مراجع Multiwfn 🔬
 
-يحفظ `multiwfn/` مجلد `Multiwfn_3.8_dev_src_Linux` بالإضافة إلى دليل PDF ودليل البدء السريع. لا يتم تضمين أي ملفات تنفيذية مترجمة ضمن المستودع.
+`multiwfn/` يحتفظ بـ `Multiwfn_3.8_dev_src_Linux` بالإضافة إلى دليل PDF ودليل البدء السريع. لا توجد ملفات تنفيذية مجمعة في المستودع.
 
 ## الرسوم 🖼️
 
-توجد أصول PNG/SVG المولدة في `figures/` بحيث تُدار المخرجات بالإصدارات جنبًا إلى جنب مع السكربتات/الدفاتر التي أنشأتها.
+الملفات المولدة PNG/SVG موجودة في `figures/` بحيث تكون المخرجات مُدرجة بالإصدار جنب السكربتات/الدفاتر المنتجة.
 
-## الإعدادات 🛠️
+## الإعداد 🛠️
 
-### Python والدفاتر
+### بايثون والدفاتر
 
-- تفترض سكربتات الجذر بيئة venv الموضحة أعلاه.
-- تفاصيل بيئة الدفاتر موزعة على وثائق المشاريع الفرعية؛ لا يوجد حاليًا ملف lockfile واحد على جذر المستودع.
+- سكربتات الجذر تفترض وجود البيئة الافتراضية المذكورة أعلاه.
+- تفاصيل بيئة الدفاتر موزعة عبر وثائق المشروع؛ لا يوجد حاليًا ملف قفل واحد في جذر المستودع.
 
-### مشغّل Gaussian (مسار مرتبط رمزيًا)
+### مشغّل Gaussian (المسار المرتبط)
 
 `Gaussian/run_gaussian.sh` يدعم:
 
@@ -182,12 +200,12 @@ Gaussian/run_gaussian.sh [--no-view] [--g16 <path_to_g16>] [--gview <path_to_gvi
 
 السلوك:
 
-- يكتب `<basename>.log` بجانب ملف الإدخال.
-- يستخدم `GAUSS_SCRDIR` إذا كان مضبوطًا، وإلا تكون القيمة الافتراضية `~/gaussian/scr`.
-- يكتشف `%chk=...` في الإدخال؛ إذا كان ملف checkpoint موجودًا يفتح GaussView ملف `.chk`، وإلا يفتح `.log`.
-- إذا كان متاحًا، يفضّل `~/gaussian/gv/gview_safe.sh` ثم `gview.sh`.
+- يكتب `<basename>.log` بجوار الملف المدخل.
+- يستخدم `GAUSS_SCRDIR` إذا وُجد، وإلا يستخدم `~/gaussian/scr` افتراضيًا.
+- يكتشف `%chk=...` في الإدخال؛ إذا كانت نقطة تفتيش موجودة، يفتح GaussView ملف `.chk`، وإلا فتح ملف `.log`.
+- إذا كان متاحًا، يفضّل `~/gaussian/gv/gview_safe.sh`، ثم `gview.sh`.
 
-مغلّف GaussView الموصى به:
+المغلف الموصى به لـ GaussView:
 
 ```bash
 #!/usr/bin/env bash
@@ -201,96 +219,66 @@ exec "$GV_SH" "$@"
 
 ## ملاحظات التطوير 🧪
 
-### ملاحظات التحكم بالإصدارات
+### 🎬 خريطة التنقل
 
-- المسارات الكبيرة يتم تجاهلها عبر `.gitignore`، بما يشمل `books/`، أهداف الروابط الرمزية الخارجية (`Gaussian` و`ComputationalPhysics` و`leonardsusskind` و`the_theoretical_minimum`) وملفات محلية مثل `*.chk`.
-- اجعل المساهمات مركزة على المجلدات المتتبَّعة للحفاظ على سير استنساخ/تحديث خفيف.
-- لتحديثات الموقع: عدّل `docs/`، عاين محليًا، ثم ادفع التغييرات.
+استخدم هذا كمنصة انطلاق للعمل اليومي:
 
-معاينة التوثيق محليًا:
+| المجال | ابدأ من |
+| --- | --- |
+| عروض كمومية | `examples/` |
+| دفاتر الفيزياء | `comp_physics/` |
+| ترجمات الكتاب | `comp_physics_python/` |
+| أدوات الكيمياء الكمومية | `multiwfn/` |
+| النتائج المنشورة | `docs/` |
+| الرسوم والتوضيحات | `figures/`, `figs/` |
+
+### ملاحظات التحكم بالإصدار
+
+- المسارات الثقيلة تُهمل عبر `.gitignore`، بما فيها `books/`، ومسارات الروابط الخارجية (`Gaussian`, `ComputationalPhysics`, `leonardsusskind`, `the_theoretical_minimum`)، والمواد المحلية المؤقتة مثل `*.chk`.
+- احرص أن تظل المساهمات مركزة على المجلدات المتتبعة للحفاظ على تحديث/استنساخ خفيف للمستودع.
+- لتحديثات الموقع: عدّل `docs/`، ثم عاين محليًا، ثم ادفع.
+
+معاينة مستندات محلية:
 
 ```bash
 python -m http.server --directory docs
 ```
 
-تم إعداد `docs/CNAME` للنطاق `learn.lazying.art`.
+`docs/CNAME` مضبوط على `learn.lazying.art`.
 
 ## استكشاف الأخطاء وإصلاحها 🩺
 
-- معيار نجاح Gaussian: ظهور `Normal termination of Gaussian` قرب نهاية ملف `.log`.
-- إذا فشل GaussView تحت Wayland/جلسات بعيدة، استخدم `gview_safe.sh` ومرر `--gview` بشكل صريح.
-- إذا ظهرت أخطاء scratch في Gaussian، تحقق من المساحة الحرة وصلاحيات `GAUSS_SCRDIR`.
-- إذا انجرفت تبعيات الدفاتر، اعتبر ملفات README الخاصة بالمشاريع الفرعية هي المرجع الأساسي وسجّل الحزم الناقصة في ملفات البيئة قبل المشاركة.
-- يبدو أن `comp_physics/environments.yaml` عنصر placeholder في حالة المستودع الحالية؛ اعتمد أوامر التثبيت الصريحة حتى يتم تصحيحه.
+- معيار نجاح Gaussian: `Normal termination of Gaussian` قرب نهاية ملف `.log`.
+- إذا فشل GaussView في Wayland/جلسات عن بُعد، استخدم `gview_safe.sh` ومرر `--gview` بشكل صريح.
+- إذا ظهرت أخطاء في scratch الخاصة بـ Gaussian، تحقّق من المساحة المتاحة والأذونات في `GAUSS_SCRDIR`.
+- إذا انزلقت تبعيات دفاتر الملاحظات، عُد إلى READMEs المشاريع الفرعية كمصدر للحقيقة وسجّل الحزم الناقصة في ملفات البيئة قبل المشاركة.
+- ملف `comp_physics/environments.yaml` يبدو أنه عنصر نائب في حالة المستودع الحالية؛ اعتمد على أوامر التثبيت الصريحة حتى تُصحّح.
 
 ## خارطة الطريق 🛣️
 
-- متابعة توسيع تغطية فصول `comp_physics_python/` (transfer matrices وDMC/PIMC وFEM وما بعد ذلك).
-- توحيد معايير المخرجات/الرسوم بين السكربتات والدفاتر.
-- إضافة فحوص تحقق خفيفة وقابلة للتكرار للأمثلة الأساسية.
-- إبقاء `docs/` وملفات README متعددة اللغات متزامنة مع التجارب الجديدة.
+- مواصلة توسيع تغطية `comp_physics_python/` للفصول (مصفوفات الانتقال، DMC/PIMC، FEM، وما بعد).
+- توحيد اتفاقيات المخرجات/الرسوم بين السكربتات والدفاتر.
+- إضافة فحوص تحقق خفيفة وقابلة للتكرار للأمثلة المفتاحية.
+- إبقاء `docs/` وملفات README متعددة اللغات متوافقة مع التجارب الجديدة.
 
 ## المساهمة 🤝
 
-الـ Issues والـ Pull Requests مرحّب بها، خصوصًا في:
+الـ Issues وطلبات السحب مرحب بها، خصوصًا في:
 
-- فحوص الدقة العددية وتحسينات قابلية إعادة الإنتاج.
-- مواصفات بيئة أفضل للدفاتر/السكربتات.
-- تحويلات فصول إضافية من الكتاب وتحسينات CLI.
+- فحوص الدقة العددية وتحسينات قابلية إعادة التنفيذ.
+- تحسين مواصفات البيئة لدفاتر الملاحظات/السكربتات.
+- مزيد من نقل فصول الكتاب وآليات CLI.
 - وضوح التوثيق عبر اللغات داخل `i18n/`.
 
-قبل إرسال تحديثات محتوى كبيرة، احتفظ بالرسوم المولدة داخل `figures/` وتأكد من قابلية تشغيل الأوامر من جذر المستودع ما لم يتم توثيق خلاف ذلك.
-
-## ادعم LazyLearn ❤️
-
-مساندة LazyLearn تساعد على استمرار التجارب والتوثيق والأدوات المفتوحة:
-
-- تغطية الاستضافة/الاستدلال/التخزين للعروض العامة والدفاتر.
-- تمويل أسابيع تطوير مركزة على EchoMind وLazyEdit وأدوات الكم/الفيزياء هنا.
-- بناء نماذج أولية للبصريات + الأجهزة القابلة للارتداء (IdeasGlass وLightMind) التي تغذي الفصول المستقبلية.
-- رعاية نشر مجاني للطلاب ومختبرات المجتمع وصنّاع المحتوى.
-
-### التبرع
-
-<div align="center">
-<table style="margin:0 auto; text-align:center; border-collapse:collapse;">
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate">https://chat.lazying.art/donate</a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate"><img src="figures/donate_button.svg" alt="Donate" height="44"></a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://paypal.me/RongzhouChen">
-        <img src="https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white" alt="Donate with PayPal">
-      </a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400">
-        <img src="https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white" alt="Donate with Stripe">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>WeChat</strong></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>Alipay</strong></td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="WeChat QR" src="figures/donate_wechat.png" width="240"/></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="Alipay QR" src="figures/donate_alipay.png" width="240"/></td>
-  </tr>
-</table>
-</div>
-
-**الدعم / Donate**
-
-- ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。
-- 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。
-- دعمك يضمن استمرار البحث والتطوير والتشغيل حتى أتمكن من مشاركة مزيد من المشاريع والتحسينات المفتوحة.
+قبل إرسال تحديثات محتوى كبيرة، احتفظ بالرسوم المولدة في `figures/` وتأكد من أن الأوامر قابلة للتنفيذ من جذر المستودع ما لم يوثّق خلاف ذلك.
 
 ## الترخيص 📄
 
-لا يوجد ملف `LICENSE` في جذر هذا المستودع حاليًا. إلى أن تتم إضافة ترخيص، اعتبر حقوق الاستخدام/إعادة التوزيع غير محددة واطلب توضيحًا من المشرف قبل إعادة استخدام محتوى جوهري.
+لا يوجد ملف `LICENSE` جذري حاليًا في هذا المستودع. حتى تتم إضافة الترخيص، تعامل مع حقوق الاستخدام/إعادة التوزيع على أنها غير محددة واطلب توضيحًا من المشرف قبل إعادة استخدام محتوى جوهري.
+
+
+## ❤️ Support
+
+| Donate | PayPal | Stripe |
+| --- | --- | --- |
+| [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |

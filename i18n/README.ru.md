@@ -1,54 +1,63 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/logos/banner.png" alt="LazyingArt banner" />
-</p>
+[![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-# LazyPhysics and Chemistry
 
-[![Site](https://img.shields.io/badge/site-learn.lazying.art-0a7ea4)](https://learn.lazying.art)
-![Python](https://img.shields.io/badge/python-3.x-3776AB?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/status-active%20learning-22c55e)
-![Repo Type](https://img.shields.io/badge/repo-mixed--format-6b7280)
-![Docs](https://img.shields.io/badge/docs-static%20microsite-0ea5e9)
+# LazyPhysics и химия
 
-LazyPhysics and Chemistry — это кодовая и notebook-часть **LazyLearn**: намеренно медленный и практичный журнал изучения физики и химии. Живые заметки, достижения и TODO публикуются на [learn.lazying.art](https://learn.lazying.art) (сайт обслуживается из `docs/` в этом репозитории), а исполняемые артефакты хранятся здесь, чтобы у экспериментов всегда был воспроизводимый дом.
+[![Сайт](https://img.shields.io/badge/website-learn.lazying.art-0a7ea4?style=for-the-badge&logo=githubpages&logoColor=white)](https://learn.lazying.art)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Состояние](https://img.shields.io/badge/Status-Active%20Learning-16a34a?style=for-the-badge&logo=target&logoColor=white)
+![Тип репозитория](https://img.shields.io/badge/Repo-Type-Mixed%20Format-6b7280?style=for-the-badge)
+![Документация](https://img.shields.io/badge/Docs-Static%20Microsite-0ea5e9?style=for-the-badge&logo=markdown&logoColor=white)
+![Языки](https://img.shields.io/badge/Languages-11-0f766e?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+## 📌 Вкратце
+
+| Фокус | Что делает репозиторий |
+| --- | --- |
+| Тип рабочего процесса | Воспроизводимая учебная среда по физике и химии |
+| Результаты | Скрипты, ноутбуки, сгенерированные фигуры и статичная документация |
+| Модель сотрудничества | Локальные эксперименты + публикация материалов на публичном сайте |
+| Покрытие переводов | Зеркала README в `i18n/` |
+
+LazyPhysics и Chemistry — это кодово-блокнотная часть **LazyLearn**: намеренно размеренный, практичный журнал обучения физике и химии. Живые заметки, результаты и TODO публикуются на [learn.lazying.art](https://learn.lazying.art) (сайт генерируется из `docs/` этого репозитория), а исполняемые артефакты остаются здесь, чтобы у экспериментов всегда было воспроизводимое место.
 
 ## Обзор 🧭
 
 ### LazyLearn
 
-- **Главная площадка:** [learn.lazying.art](https://learn.lazying.art) - публичный сайт с недельными фокусами, бэклогом и ключевыми результатами.
-- **Единый источник правды:** все, на что ссылается сайт, находится в `examples/`, `comp_physics/`, `comp_physics_python/`, `multiwfn/` или `figures/`.
-- **Поток обновлений:** сначала публикуйте код/notebook, при необходимости пересобирайте графики, затем добавляйте запись в `docs/`, чтобы сайт отражал последнюю работу.
+- **Базовый сайт:** [learn.lazying.art](https://learn.lazying.art) — публичный сайт с недельными фокусами, бэклогом и важными итогами.
+- **Источник истины:** всё, на что ссылается сайт, находится в `examples/`, `comp_physics/`, `comp_physics_python/`, `multiwfn/` или `figures/`.
+- **Цикл обновления:** сначала выкладываются код/ноутбуки, затем при необходимости перегенерируются графики, после чего добавляется запись в `docs/`, чтобы сайт всегда отражал актуальную работу.
 
-Этот репозиторий намеренно смешанного формата, а не одно упакованное приложение. Он объединяет исполняемые скрипты, notebook, справочные материалы и статический сайт документации в одном версионируемом рабочем пространстве.
+Этот репозиторий сознательно является смешанным форматом, а не одним упакованным приложением. Он объединяет исполняемые скрипты, ноутбуки, справочные материалы и статический сайт в одном версионируемом пространстве.
 
-## Возможности ✨
+## Функции ✨
 
-- Квантовые скрипты-примеры (QAOA + VQE), которые запускаются на обычных ноутбуках.
-- Notebook по вычислительной физике и вспомогательные решатели (например, рабочие процессы на основе Numerov).
-- Построчные Python-переносы программ по вычислительной физике из учебника, глава за главой.
-- Пакет исходников/руководств Multiwfn для локальной справочной постобработки в квантовой химии.
-- Версионируемые сгенерированные фигуры для отчетов/слайдов (`figures/`).
-- Встроенный набор многоязычных README в `i18n/`.
-- Статический микросайт в `docs/` (кастомный домен: `learn.lazying.art`).
+- Квантовые примеры скриптов (QAOA + VQE), которые запускаются на обычных ноутбуках.
+- Ноутбуки по вычислительной физике и вспомогательные решатели (например, пайплайны на основе Numerov).
+- Поэтапная портировка учебных программ по вычислительной физике на Python.
+- Комплект исходников и руководства Multiwfn для локальной постобработки в квантовой химии.
+- Версионируемые сгенерированные фигуры для отчётов/презентаций (`figures/`).
+- Встроенный мультиязычный набор README в `i18n/`.
+- Статический микро-сайт в `docs/` (кастомный домен: `learn.lazying.art`).
 
 ## Структура проекта 🗂️
 
-### Что находится здесь
+### Что здесь находится
 
 | Путь | Назначение |
 | --- | --- |
-| `examples/` | Целевые Python-скрипты (QAOA + VQE), запускаемые с Qiskit или PennyLane. |
-| `comp_physics/` | Notebook по вычислительной физике, вспомогательные скрипты вроде `numerov.py` и сопутствующие данные/фигуры. |
-| `comp_physics_python/` | Python-переносы *Computational Physics* Jos Thijssen, организованные по главам (см. [comp_physics_python/README.md](comp_physics_python/README.md)). |
-| `multiwfn/` | Пакет исходников разработчика Multiwfn 3.8 плюс руководства для локальной справки. |
-| `figures/` | Статические PNG/SVG-выходы для отчетов/слайдов и README. |
-| `figs/` | Ассеты логотипа и баннера. |
-| `docs/` | Контент микросайта LazyLearn (обслуживается GitHub Pages или любым статическим хостингом). |
-| `i18n/` | Локализованные файлы README. |
+| `examples/` | Фокусированные Python-скрипты (QAOA + VQE), запускаемые через Qiskit или PennyLane. |
+| `comp_physics/` | Ноутбуки по вычислительной физике, вспомогательные скрипты вроде `numerov.py` и сопутствующие данные/фигуры. |
+| `comp_physics_python/` | Порты программ из *Computational Physics* Jos Thijssen на Python, структурированные по главам (см. [comp_physics_python/README.md](comp_physics_python/README.md)). |
+| `multiwfn/` | Пакет исходников Multiwfn 3.8 для разработки и справочные материалы для локального использования. |
+| `figures/` | Статические PNG/SVG-артефакты для отчётов, слайдов и README. |
+| `figs/` | Логотип и баннеры. |
+| `docs/` | Контент микро-сайта LazyLearn (публикация через GitHub Pages или любой статический хостинг). |
+| `i18n/` | Локализованные версии README. |
 
 Представительная структура:
 
@@ -70,16 +79,16 @@ LazyLearn/
 ```
 
 > [!IMPORTANT]
-> Несколько записей верхнего уровня — это symlink на каталоги вне этого репозитория. Редактирование по этим путям изменяет внешние целевые директории.
+> Несколько элементов верхнего уровня — это символические ссылки на каталоги вне этого репозитория. Изменения внутри таких путей затрагивают внешние цели.
 
 ## Предварительные требования 🧰
 
-| Требование | Примечания |
+| Требование | Примечание |
 | --- | --- |
-| Python 3.x | Нужен для корневых скриптов и большей части работы с notebook. |
-| `pip` (or Conda) | Управление пакетами/окружениями. |
-| Jupyter Lab/Notebook (optional) | Нужно для workflow с notebook. |
-| Gaussian 16 + GaussView (optional) | Нужно для workflow с Gaussian. |
+| Python 3.x | Требуется для корневых скриптов и большинства ноутбуков. |
+| `pip` (или Conda) | Управление пакетами и окружениями. |
+| Jupyter Lab/Notebook (необязательно) | Нужен для работы с ноутбуками. |
+| Gaussian 16 + GaussView (необязательно) | Нужны для рабочих процессов Gaussian. |
 
 ## Установка ⚙️
 
@@ -92,24 +101,34 @@ pip install --upgrade pip
 pip install qiskit pennylane numpy matplotlib
 ```
 
-Jupyter notebook внутри `comp_physics/` используют то же окружение. Запуск:
+### ✅ Краткий чеклист быстрого запуска
+
+| Шаг | Команда | Цель |
+| --- | --- | --- |
+| 1 | `python -m venv .venv` | Создать изолированное окружение |
+| 2 | `source .venv/bin/activate` (или аналог для вашей ОС) | Избежать конфликтов зависимостей |
+| 3 | `pip install --upgrade pip` | Обновить инструменты управления пакетами |
+| 4 | `pip install qiskit pennylane numpy matplotlib` | Установить базовый экспериментальный стек |
+| 5 | Запустить один скрипт из `examples/` | Проверить установку end-to-end |
+
+Jupyter-ноутбуки в `comp_physics/` используют то же окружение. Запуск:
 
 ```bash
 jupyter lab
-# or
+# или
 jupyter notebook
 ```
 
-### Необязательные зависимости переносов по главам (`comp_physics_python/`)
+### Дополнительные зависимости для главных портов (`comp_physics_python/`)
 
 ```bash
-# conda activate quantum  # common local env name in subproject docs
+# conda activate quantum  # распространённое локальное имя env в документации подпроекта
 pip install numpy scipy matplotlib
 ```
 
 ## Использование 🚀
 
-### Примеры workflow
+### Примеры рабочих процессов
 
 - **QAOA с Qiskit**
 
@@ -117,7 +136,7 @@ pip install numpy scipy matplotlib
 python examples/qaoa_qiskit_maxcut.py
 ```
 
-Без зависимости от Aer; используется чистый statevector backend.
+Без зависимости Aer; используется чистый statevector backend.
 
 - **QAOA с PennyLane**
 
@@ -125,7 +144,7 @@ python examples/qaoa_qiskit_maxcut.py
 python examples/qaoa_pennylane_maxcut.py
 ```
 
-Используется `default.qubit`.
+Использует `default.qubit`.
 
 - **VQE для H2**
 
@@ -133,46 +152,46 @@ python examples/qaoa_pennylane_maxcut.py
 python examples/pennylane_chemistry_h2_vqe.py
 ```
 
-Воспроизводит `figures/pennylane_h2_vqe_convergence.png`.
+Воссоздаёт `figures/pennylane_h2_vqe_convergence.png`.
 
-Все скрипты логируют промежуточные метрики, чтобы вы могли переиспользовать графики или расширять примеры на новые молекулы/графы.
+Все скрипты ведут промежуточные метрики, чтобы вы могли повторно использовать графики или расширить их на новые молекулы/графы.
 
-## Notebook по вычислительной физике 📓
+## Ноутбуки по вычислительной физике 📓
 
 Каталог `comp_physics/` отражает рабочие заметки:
 
-- `comp_physics_textbook_code/` - переиспользуемые процедуры, извлеченные из notebook.
-- Отдельные notebook, такие как `chapter1.ipynb`, `chapter2.ipynb`, `numerov.ipynb` и `numpy_1ddft.ipynb`.
-- Тематические папки (`bosonscattering/`, `lensless/`, `lightscattering/` и т. д.) с данными и вспомогательными файлами для каждого эксперимента.
+- `comp_physics_textbook_code/` — повторно используемые процедуры, вынесенные из ноутбуков.
+- Отдельные ноутбуки вроде `chapter1.ipynb`, `chapter2.ipynb`, `numerov.ipynb` и `numpy_1ddft.ipynb`.
+- Тематические папки (`bosonscattering/`, `lensless/`, `lightscattering/` и др.) с данными и вспомогательными файлами для каждого эксперимента.
 
-Если нужны дополнительные зависимости, зафиксируйте их в `comp_physics/environments.yaml`.
+Если нужны дополнительные зависимости, указывайте их в `comp_physics/environments.yaml`.
 
-## Переводы учебникового кода 📚
+## Переводы учебного кода 📚
 
-`comp_physics_python/` — это растущий Python-перенос классических программ на Fortran из *Computational Physics*. Пример соответствия глав:
+`comp_physics_python/` — растущий перевод классических Fortran-программ из *Computational Physics* на Python. Пример соответствия глав:
 
-- `ch4/`: примеры Hartree-Fock.
+- `ch4/`: примеры Hartree–Fock.
 - `ch8/`: решатели молекулярной динамики.
 - `ch10/`: сэмплеры Monte Carlo.
 
-Полное покрытие глав и CLI-команды см. в [comp_physics_python/README.md](comp_physics_python/README.md).
+Смотрите [comp_physics_python/README.md](comp_physics_python/README.md) для полного перечня глав и CLI-команд.
 
 ## Справочные материалы Multiwfn 🔬
 
-`multiwfn/` хранит `Multiwfn_3.8_dev_src_Linux` вместе с PDF-руководством и quick-start guide. Скомпилированные бинарные файлы не коммитятся.
+`multiwfn/` содержит `Multiwfn_3.8_dev_src_Linux`, PDF-справочник и краткий гайд по быстрому старту. Скомпилированные бинарные файлы не включены.
 
 ## Фигуры 🖼️
 
-Сгенерированные PNG/SVG-ассеты находятся в `figures/`, поэтому результаты версионируются вместе со скриптами/notebook, которые их создают.
+Сгенерированные PNG/SVG-ресурсы находятся в `figures/`, поэтому все результаты версионируются вместе со скриптами и ноутбуками, их породившими.
 
 ## Конфигурация 🛠️
 
-### Python и notebook
+### Python и ноутбуки
 
-- Корневые скрипты предполагают использование venv, показанного выше.
-- Детали окружения для notebook распределены по документации проекта; единого lockfile в корне репозитория сейчас нет.
+- Корневые скрипты предполагают использование вышеупомянутого `venv`.
+- Детали окружения ноутбуков описаны в документации подпроектов; на уровне корня пока нет единого lock-файла.
 
-### Gaussian runner (путь через symlink)
+### Gaussian runner (symlink path)
 
 `Gaussian/run_gaussian.sh` поддерживает:
 
@@ -182,12 +201,12 @@ Gaussian/run_gaussian.sh [--no-view] [--g16 <path_to_g16>] [--gview <path_to_gvi
 
 Поведение:
 
-- Записывает `<basename>.log` рядом с входным файлом.
-- Использует `GAUSS_SCRDIR`, если он задан, иначе по умолчанию `~/gaussian/scr`.
-- Определяет `%chk=...` во входном файле; если checkpoint существует, GaussView открывает `.chk`, иначе `.log`.
-- Если доступно, сначала выбирает `~/gaussian/gv/gview_safe.sh`, затем `gview.sh`.
+- Создаёт `<basename>.log` рядом с входным файлом.
+- Использует `GAUSS_SCRDIR`, если задан, иначе использует `~/gaussian/scr`.
+- Определяет `%chk=...` во входнике; если существует checkpoint, GaussView откроет `.chk`, иначе `.log`.
+- Если доступен, сначала пытается использовать `~/gaussian/gv/gview_safe.sh`, затем `gview.sh`.
 
-Рекомендуемый обертчик GaussView:
+Рекомендуемый wrapper для GaussView:
 
 ```bash
 #!/usr/bin/env bash
@@ -201,13 +220,26 @@ exec "$GV_SH" "$@"
 
 ## Заметки по разработке 🧪
 
+### 🎬 Карта навигации
+
+Используйте как отправную точку для ежедневной работы:
+
+| Область | Начать с |
+| --- | --- |
+| Квантовые демо | `examples/` |
+| Физические ноутбуки | `comp_physics/` |
+| Переводы учебника | `comp_physics_python/` |
+| Инструменты квантовой химии | `multiwfn/` |
+| Опубликованные результаты | `docs/` |
+| Фигуры и иллюстрации | `figures/`, `figs/` |
+
 ### Заметки по контролю версий
 
-- Тяжелые пути игнорируются через `.gitignore`, включая `books/`, внешние symlink-цели (`Gaussian`, `ComputationalPhysics`, `leonardsusskind`, `the_theoretical_minimum`) и локальные артефакты вроде `*.chk`.
-- Держите вклад сфокусированным на отслеживаемых папках, чтобы сохранить легкие workflows клонирования/обновления.
-- Для обновлений сайта: редактируйте `docs/`, просматривайте локально, затем пушьте.
+- Крупные пути исключены через `.gitignore`, включая `books/`, внешние symlink-цели (`Gaussian`, `ComputationalPhysics`, `leonardsusskind`, `the_theoretical_minimum`) и локальные артефакты вроде `*.chk`.
+- Не выходите за пределы отслеживаемых директорий, чтобы облегчить клонирование и обновление репозитория.
+- Для обновлений сайта редактируйте `docs/`, сначала локально проверьте просмотр, затем публикуйте изменения.
 
-Локальный предпросмотр docs:
+Локальный предпросмотр документации:
 
 ```bash
 python -m http.server --directory docs
@@ -217,80 +249,37 @@ python -m http.server --directory docs
 
 ## Устранение неполадок 🩺
 
-- Критерий успешного Gaussian: `Normal termination of Gaussian` рядом с концом `.log`.
-- Если GaussView не запускается в Wayland/удаленных сессиях, используйте `gview_safe.sh` и передайте `--gview` явно.
-- Если возникают ошибки scratch в Gaussian, проверьте свободное место и права в `GAUSS_SCRDIR`.
-- Если зависимости notebook расходятся, считайте README подпроектов источником правды и фиксируйте недостающие пакеты в файлах окружения перед передачей другим.
-- `comp_physics/environments.yaml` в текущем состоянии репозитория выглядит как заглушка; полагайтесь на явные команды установки, пока файл не исправлен.
+- Критерий успешного запуска Gaussian: строка `Normal termination of Gaussian` около конца `.log`.
+- Если GaussView не стартует в Wayland/удалённой сессии, используйте `gview_safe.sh` и явно передавайте `--gview`.
+- Если появляются ошибки scratch-диска Gaussian, проверьте свободное место и права в `GAUSS_SCRDIR`.
+- Если зависимости ноутбуков расходятся, считайте README подпроектов главным источником правды и фиксируйте недостающие пакеты в файлах окружения перед публикацией.
+- В текущем состоянии репозитория `comp_physics/environments.yaml` выглядит как заготовка; до исправления опирайтесь на явные команды установки.
 
 ## Дорожная карта 🛣️
 
-- Продолжать расширять покрытие глав `comp_physics_python/` (transfer matrices, DMC/PIMC, FEM и далее).
-- Гармонизировать соглашения по output/графикам между скриптами и notebook.
-- Добавить легковесные повторяемые проверки для ключевых примеров.
-- Поддерживать синхронизацию `docs/` и многоязычных README с новыми экспериментами.
+- Продолжать расширение покрытия глав в `comp_physics_python/` (матрицы переноса, DMC/PIMC, FEM и дальше).
+- Унифицировать соглашения по выводам/построению графиков между скриптами и ноутбуками.
+- Добавить лёгкие воспроизводимые проверки для ключевых примеров.
+- Поддерживать синхронность `docs/` и мультиязычных README с новыми экспериментами.
 
-## Вклад 🤝
+## Contribution 🤝
 
-Issues и pull requests приветствуются, особенно для:
+Pull requests и Issue приветствуются, особенно для:
 
-- Проверок численной корректности и улучшений воспроизводимости.
-- Более точных спецификаций окружения для notebook/скриптов.
-- Дополнительных переносов глав учебника и улучшений CLI.
-- Повышения ясности документации на разных языках в `i18n/`.
+- Проверок численной корректности и улучшения воспроизводимости.
+- Лучшего описания окружений для ноутбуков и скриптов.
+- Дополнения переводов глав из учебника и улучшений CLI.
+- Повышения качества документации на разных языках в `i18n/`.
 
-Перед отправкой крупных обновлений контента держите сгенерированные фигуры в `figures/` и убедитесь, что команды запускаются из корня репозитория, если не документировано иное.
-
-## Поддержите LazyLearn ❤️
-
-Помощь LazyLearn поддерживает эксперименты, документацию и развитие открытых инструментов:
-
-- Покрывает хостинг/инференс/хранилище для публичных демо и notebook.
-- Финансирует сфокусированные hack-week по EchoMind, LazyEdit и квантовым/физическим утилитам здесь.
-- Позволяет прототипировать оптику + wearables (IdeasGlass, LightMind), которые питают будущие главы.
-- Спонсирует бесплатные развёртывания для студентов, общественных лабораторий и создателей.
-
-### Пожертвовать
-
-<div align="center">
-<table style="margin:0 auto; text-align:center; border-collapse:collapse;">
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate">https://chat.lazying.art/donate</a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate"><img src="figures/donate_button.svg" alt="Donate" height="44"></a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://paypal.me/RongzhouChen">
-        <img src="https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white" alt="Donate with PayPal">
-      </a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400">
-        <img src="https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white" alt="Donate with Stripe">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>WeChat</strong></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>Alipay</strong></td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="WeChat QR" src="figures/donate_wechat.png" width="240"/></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="Alipay QR" src="figures/donate_alipay.png" width="240"/></td>
-  </tr>
-</table>
-</div>
-
-**支援 / Donate**
-
-- ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。
-- 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。
-- Ваша поддержка помогает мне поддерживать исследования, разработку и операционную работу, чтобы я мог продолжать делиться открытыми проектами и улучшениями.
+Перед крупными обновлениями контента держите сгенерированные фигуры в `figures/` и убедитесь, что команды запускаются из корня репозитория, если иное не указано в документации.
 
 ## Лицензия 📄
 
-В корне этого репозитория сейчас отсутствует файл `LICENSE`. Пока лицензия не добавлена, считайте права на использование/распространение неуточненными и запрашивайте разъяснение у мейнтейнера перед повторным использованием существенного контента.
+В корне репозитория пока нет файла `LICENSE`. Пока лицензия не добавлена, права на использование и распространение считаются неуточнёнными; перед повторным использованием существенного контента запросите уточнение у автора.
+
+
+## ❤️ Support
+
+| Donate | PayPal | Stripe |
+| --- | --- | --- |
+| [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |

@@ -1,17 +1,26 @@
 [English](README.md) · [العربية](i18n/README.ar.md) · [Español](i18n/README.es.md) · [Français](i18n/README.fr.md) · [日本語](i18n/README.ja.md) · [한국어](i18n/README.ko.md) · [Tiếng Việt](i18n/README.vi.md) · [中文 (简体)](i18n/README.zh-Hans.md) · [中文（繁體）](i18n/README.zh-Hant.md) · [Deutsch](i18n/README.de.md) · [Русский](i18n/README.ru.md)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/logos/banner.png" alt="LazyingArt banner" />
-</p>
+
+[![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
 
 # LazyPhysics and Chemistry
 
-[![Site](https://img.shields.io/badge/site-learn.lazying.art-0a7ea4)](https://learn.lazying.art)
-![Python](https://img.shields.io/badge/python-3.x-3776AB?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/status-active%20learning-22c55e)
-![Repo Type](https://img.shields.io/badge/repo-mixed--format-6b7280)
-![Docs](https://img.shields.io/badge/docs-static%20microsite-0ea5e9)
+[![Site](https://img.shields.io/badge/website-learn.lazying.art-0a7ea4?style=for-the-badge&logo=githubpages&logoColor=white)](https://learn.lazying.art)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active%20Learning-16a34a?style=for-the-badge&logo=target&logoColor=white)
+![Repo Type](https://img.shields.io/badge/Repo-Type-Mixed%20Format-6b7280?style=for-the-badge)
+![Docs](https://img.shields.io/badge/Docs-Static%20Microsite-0ea5e9?style=for-the-badge&logo=markdown&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-11-0f766e?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+## 📌 At a glance
+
+| Focus | What this repo does |
+| --- | --- |
+| Workflow type | Reproducible physics + chemistry learning workspace |
+| Deliverables | Scripts, notebooks, generated figures, and static docs |
+| Collaboration model | Root experiments + public site publishing |
+| Translation coverage | README mirror files in `i18n/` |
 
 LazyPhysics and Chemistry is the code + notebook half of **LazyLearn**: an intentionally slow, practical learning log for physics and chemistry. The living notes, wins, and TODOs are published at [learn.lazying.art](https://learn.lazying.art) (served from `docs/` in this repo), while runnable artifacts stay here so experiments always have a reproducible home.
 
@@ -91,6 +100,16 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install qiskit pennylane numpy matplotlib
 ```
+
+### ✅ Quick setup checklist
+
+| Step | Command | Goal |
+| --- | --- | --- |
+| 1 | `python -m venv .venv` | Create an isolated environment |
+| 2 | `source .venv/bin/activate` (or OS-equivalent) | Avoid dependency conflicts |
+| 3 | `pip install --upgrade pip` | Ensure current package tooling |
+| 4 | `pip install qiskit pennylane numpy matplotlib` | Install the core experimental stack |
+| 5 | Run one script in `examples/` | Validate installation end-to-end |
 
 Jupyter notebooks inside `comp_physics/` use the same environment. Launch with:
 
@@ -201,6 +220,19 @@ exec "$GV_SH" "$@"
 
 ## Development notes 🧪
 
+### 🎬 Navigation map
+
+Use this as a launchpad for daily work:
+
+| Area | Start here |
+| --- | --- |
+| Quantum demos | `examples/` |
+| Physics notebooks | `comp_physics/` |
+| Textbook translations | `comp_physics_python/` |
+| Quantum chemistry tools | `multiwfn/` |
+| Published outputs | `docs/` |
+| Figures and illustrations | `figures/`, `figs/` |
+
 ### Version control notes
 
 - Heavy paths are ignored via `.gitignore`, including `books/`, external symlink targets (`Gaussian`, `ComputationalPhysics`, `leonardsusskind`, `the_theoretical_minimum`), and local artifacts such as `*.chk`.
@@ -241,55 +273,11 @@ Issues and pull requests are welcome, especially for:
 
 Before submitting major content updates, keep generated figures in `figures/` and ensure commands are runnable from repository root unless otherwise documented.
 
-## Support LazyLearn ❤️
+## ❤️ Support
 
-Helping LazyLearn keeps experiments, documentation, and open tooling flowing:
-
-- Cover hosting/inference/storage for public demos and notebooks.
-- Fund focused hack-weeks on EchoMind, LazyEdit, and quantum/physics utilities here.
-- Prototype optics + wearables (IdeasGlass, LightMind) that feed future chapters.
-- Sponsor free deployments for students, community labs, and creators.
-
-### Donate
-
-<div align="center">
-<table style="margin:0 auto; text-align:center; border-collapse:collapse;">
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate">https://chat.lazying.art/donate</a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate"><img src="figures/donate_button.svg" alt="Donate" height="44"></a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://paypal.me/RongzhouChen">
-        <img src="https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white" alt="Donate with PayPal">
-      </a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400">
-        <img src="https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white" alt="Donate with Stripe">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>WeChat</strong></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>Alipay</strong></td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="WeChat QR" src="figures/donate_wechat.png" width="240"/></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="Alipay QR" src="figures/donate_alipay.png" width="240"/></td>
-  </tr>
-</table>
-</div>
-
-**支援 / Donate**
-
-- ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。
-- 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。
-- Your support sustains my research, development, and ops so I can keep sharing more open projects and improvements.
+| Donate | PayPal | Stripe |
+| --- | --- | --- |
+| [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
 
 ## License 📄
 

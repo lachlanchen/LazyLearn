@@ -1,56 +1,64 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/logos/banner.png" alt="LazyingArt banner" />
-</p>
+[![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
 # LazyPhysics and Chemistry
 
-[![Site](https://img.shields.io/badge/site-learn.lazying.art-0a7ea4)](https://learn.lazying.art)
-![Python](https://img.shields.io/badge/python-3.x-3776AB?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/status-active%20learning-22c55e)
-![Repo Type](https://img.shields.io/badge/repo-mixed--format-6b7280)
-![Docs](https://img.shields.io/badge/docs-static%20microsite-0ea5e9)
+[![Site](https://img.shields.io/badge/website-learn.lazying.art-0a7ea4?style=for-the-badge&logo=githubpages&logoColor=white)](https://learn.lazying.art)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active%20Learning-16a34a?style=for-the-badge&logo=target&logoColor=white)
+![Repo Type](https://img.shields.io/badge/Repo-Type-Mixed%20Format-6b7280?style=for-the-badge)
+![Docs](https://img.shields.io/badge/Docs-Static%20Microsite-0ea5e9?style=for-the-badge&logo=markdown&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-11-0f766e?style=for-the-badge&logo=googletranslate&logoColor=white)
 
-LazyPhysics and Chemistry là phần mã nguồn + notebook của **LazyLearn**: một nhật ký học vật lý và hóa học thực hành, theo nhịp độ có chủ ý chậm rãi. Ghi chú sống, các mốc tiến triển và TODO được xuất bản tại [learn.lazying.art](https://learn.lazying.art) (được phục vụ từ `docs/` trong repo này), trong khi các artifact có thể chạy được nằm ở đây để mọi thử nghiệm luôn có nơi tái lập rõ ràng.
+## 📌 Tóm tắt nhanh
+
+| Tiêu chí | Nội dung repository | 
+| --- | --- |
+| Kiểu luồng công việc | Không gian học vật lý + hóa học tái lập được |
+| Kết quả đầu ra | Script, notebook, hình ảnh đã tạo và tài liệu tĩnh |
+| Mô hình hợp tác | Thử nghiệm tại gốc + xuất bản website công khai |
+| Phạm vi bản dịch | Các file README mirror trong `i18n/` |
+
+LazyPhysics and Chemistry là phần mã và notebook của **LazyLearn**: một nhật ký học vật lý và hóa học thực hành, học chậm có chủ đích. Các ghi chú sống động, thành quả và TODO được xuất bản tại [learn.lazying.art](https://learn.lazying.art) (phục vụ từ `docs/` trong repository này), trong khi các sản phẩm có thể chạy được được giữ lại ở đây để thí nghiệm luôn có nơi lưu trữ có thể tái tạo.
 
 ## Tổng quan 🧭
 
 ### LazyLearn
 
-- **Căn cứ chính:** [learn.lazying.art](https://learn.lazying.art) - trang public với trọng tâm theo tuần, backlog và các điểm nổi bật.
-- **Nguồn chuẩn:** mọi thứ mà trang web liên kết đều nằm trong `examples/`, `comp_physics/`, `comp_physics_python/`, `multiwfn/`, hoặc `figures/`.
-- **Luồng cập nhật:** đưa code/notebook lên trước, tái tạo biểu đồ nếu cần, rồi thêm mục vào `docs/` để trang web phản ánh công việc mới nhất.
+- **Nền tảng chính:** [learn.lazying.art](https://learn.lazying.art) — trang công khai với nội dung theo tuần, danh sách backlog và các điểm nổi bật.
+- **Nguồn thật:** mọi thứ mà trang web tham chiếu đều nằm trong `examples/`, `comp_physics/`, `comp_physics_python/`, `multiwfn/`, hoặc `figures/`.
+- **Luồng cập nhật:** đưa code/notebook lên trước, tạo lại biểu đồ khi cần, rồi thêm mục vào `docs/` để website phản ánh đúng công việc mới nhất.
 
-Repository này được thiết kế dạng mixed-format có chủ ý, không phải một ứng dụng đóng gói đơn lẻ. Nó kết hợp script có thể thực thi, notebook, tài liệu tham khảo và một static docs site trong cùng một workspace có quản lý phiên bản.
+Kho mã này được thiết kế dạng mixed-format có chủ đích, không phải một ứng dụng đóng gói đơn lẻ. Nó kết hợp script thực thi được, notebook, tài liệu tham chiếu và một microsite tĩnh trong một workspace có phiên bản.
 
 ## Tính năng ✨
 
-- Script ví dụ lượng tử (QAOA + VQE) chạy được trên laptop phổ thông.
-- Notebook vật lý tính toán và các bộ giải hỗ trợ (ví dụ workflow dựa trên Numerov).
-- Bản chuyển Python theo từng chương của các chương trình vật lý tính toán trong giáo trình.
-- Gói mã nguồn/tài liệu Multiwfn để tham khảo hậu xử lý hóa lượng tử cục bộ.
-- Hình đã tạo có version cho báo cáo/slide (`figures/`).
-- Bộ README đa ngôn ngữ tích hợp sẵn trong `i18n/`.
-- Microsite tĩnh trong `docs/` (custom domain: `learn.lazying.art`).
+- Script ví dụ lượng tử (QAOA + VQE) chạy được trên máy cá nhân phổ thông.
+- Notebook vật lý tính toán và các solver hỗ trợ (ví dụ quy trình dựa trên Numerov).
+- Dịch mã Python của giáo trình vật lý tính toán theo từng chương.
+- Bộ mã nguồn/tài liệu Multiwfn dùng để tham khảo hậu xử lý hóa lượng tử cục bộ.
+- Hình ảnh đã tạo có phiên bản cho báo cáo/slides (`figures/`).
+- Bộ README đa ngôn ngữ có sẵn trong `i18n/`.
+- Microsite tĩnh trong `docs/` (domain riêng: `learn.lazying.art`).
 
 ## Cấu trúc dự án 🗂️
 
-### Nội dung trong repo
+### Nội dung chính
 
-| Path | Mục đích |
+| Đường dẫn | Mục đích |
 | --- | --- |
-| `examples/` | Các script Python tập trung (QAOA + VQE) chạy với Qiskit hoặc PennyLane. |
-| `comp_physics/` | Notebook vật lý tính toán, script hỗ trợ như `numerov.py`, cùng dữ liệu/hình đi kèm. |
-| `comp_physics_python/` | Bản chuyển Python của *Computational Physics* (Jos Thijssen), tổ chức theo chương (xem [comp_physics_python/README.md](comp_physics_python/README.md)). |
-| `multiwfn/` | Gói mã nguồn Multiwfn 3.8 dành cho developer cùng manuals để tham khảo cục bộ. |
-| `figures/` | Các output PNG/SVG tĩnh dùng trong báo cáo/slide và README. |
-| `figs/` | Tài nguyên logo và banner. |
-| `docs/` | Nội dung microsite LazyLearn (phục vụ bằng GitHub Pages hoặc bất kỳ static host nào). |
+| `examples/` | Script Python trọng tâm (QAOA + VQE) chạy với Qiskit hoặc PennyLane. |
+| `comp_physics/` | Notebook vật lý tính toán, script hỗ trợ như `numerov.py`, cùng dữ liệu/hình ảnh đi kèm. |
+| `comp_physics_python/` | Bản port Python của *Computational Physics* của Jos Thijssen, tổ chức theo chương (xem [comp_physics_python/README.md](comp_physics_python/README.md)). |
+| `multiwfn/` | Bộ nguồn và manual Multiwfn 3.8 cho người phát triển, kèm tài liệu tham khảo cục bộ. |
+| `figures/` | Kết quả PNG/SVG tĩnh dùng trong báo cáo/slides và README. |
+| `figs/` | Asset logo và banner. |
+| `docs/` | Nội dung microsite LazyLearn (được phục vụ bởi GitHub Pages hoặc máy chủ tĩnh khác). |
 | `i18n/` | Các file README bản địa hóa. |
 
-Bố cục tiêu biểu:
+Bố cục đại diện:
 
 ```text
 LazyLearn/
@@ -70,20 +78,20 @@ LazyLearn/
 ```
 
 > [!IMPORTANT]
-> Một số mục ở cấp cao nhất là symlink tới thư mục bên ngoài repository này. Chỉnh sửa dưới các path đó sẽ tác động tới mục tiêu bên ngoài.
+> Một số mục cấp cao nhất là symlink đến thư mục bên ngoài repository. Việc chỉnh sửa trong các đường dẫn này sẽ ảnh hưởng đến target bên ngoài.
 
 ## Yêu cầu trước khi chạy 🧰
 
-| Requirement | Ghi chú |
+| Yêu cầu | Ghi chú |
 | --- | --- |
-| Python 3.x | Bắt buộc cho script ở root và phần lớn workflow notebook. |
-| `pip` (hoặc Conda) | Quản lý package/môi trường. |
-| Jupyter Lab/Notebook (tùy chọn) | Cần cho workflow notebook. |
+| Python 3.x | Bắt buộc cho script ở root và hầu hết công việc notebook. |
+| `pip` (hoặc Conda) | Dùng cho quản lý package/môi trường. |
+| Jupyter Lab/Notebook (tùy chọn) | Cần cho luồng làm việc với notebook. |
 | Gaussian 16 + GaussView (tùy chọn) | Cần cho workflow Gaussian. |
 
 ## Cài đặt ⚙️
 
-### Thiết lập Python tối thiểu (ví dụ ở root)
+### Thiết lập Python tối thiểu (root examples)
 
 ```bash
 python -m venv .venv
@@ -92,7 +100,17 @@ pip install --upgrade pip
 pip install qiskit pennylane numpy matplotlib
 ```
 
-Notebook Jupyter trong `comp_physics/` dùng cùng môi trường. Chạy bằng:
+### ✅ Checklist thiết lập nhanh
+
+| Bước | Lệnh | Mục tiêu |
+| --- | --- | --- |
+| 1 | `python -m venv .venv` | Tạo môi trường cô lập |
+| 2 | `source .venv/bin/activate` (hoặc tương đương theo OS) | Tránh xung đột dependency |
+| 3 | `pip install --upgrade pip` | Đảm bảo công cụ package luôn cập nhật |
+| 4 | `pip install qiskit pennylane numpy matplotlib` | Cài stack thử nghiệm nền tảng |
+| 5 | Chạy một script trong `examples/` | Kiểm tra cài đặt end-to-end |
+
+Jupyter notebook trong `comp_physics/` sử dụng cùng môi trường này. Khởi chạy bằng:
 
 ```bash
 jupyter lab
@@ -100,16 +118,16 @@ jupyter lab
 jupyter notebook
 ```
 
-### Phụ thuộc tùy chọn cho bản chuyển theo chương (`comp_physics_python/`)
+### Dependency tuỳ chọn theo chương (`comp_physics_python/`)
 
 ```bash
-# conda activate quantum  # common local env name in subproject docs
+# conda activate quantum  # tên env local phổ biến trong tài liệu subproject
 pip install numpy scipy matplotlib
 ```
 
 ## Cách dùng 🚀
 
-### Workflow ví dụ
+### Các ví dụ luồng làm việc
 
 - **QAOA với Qiskit**
 
@@ -117,7 +135,7 @@ pip install numpy scipy matplotlib
 python examples/qaoa_qiskit_maxcut.py
 ```
 
-Không phụ thuộc Aer; dùng backend statevector thuần.
+Không cần Aer; dùng backend statevector thuần.
 
 - **QAOA với PennyLane**
 
@@ -135,42 +153,42 @@ python examples/pennylane_chemistry_h2_vqe.py
 
 Tái tạo `figures/pennylane_h2_vqe_convergence.png`.
 
-Tất cả script đều ghi log metric trung gian để bạn tái sử dụng biểu đồ hoặc mở rộng sang phân tử/đồ thị mới.
+Tất cả script đều ghi lại chỉ số trung gian để bạn có thể tái sử dụng biểu đồ hoặc mở rộng cho phân tử/đồ thị mới.
 
 ## Notebook vật lý tính toán 📓
 
-Thư mục `comp_physics/` phản chiếu ghi chú làm việc:
+Thư mục `comp_physics/` phản ánh các ghi chú đang làm việc:
 
-- `comp_physics_textbook_code/` - các routine tái sử dụng được tách ra từ notebook.
-- Các notebook độc lập như `chapter1.ipynb`, `chapter2.ipynb`, `numerov.ipynb`, và `numpy_1ddft.ipynb`.
-- Các thư mục theo chủ đề (`bosonscattering/`, `lensless/`, `lightscattering/`, v.v.) với dữ liệu và helper cho từng thử nghiệm.
+- `comp_physics_textbook_code/` — các routine tái sử dụng trích xuất từ notebook.
+- Notebook độc lập như `chapter1.ipynb`, `chapter2.ipynb`, `numerov.ipynb` và `numpy_1ddft.ipynb`.
+- Các thư mục chủ đề (`bosonscattering/`, `lensless/`, `lightscattering/`, ... ) chứa dữ liệu và helper theo từng thí nghiệm.
 
-Nếu cần thêm phụ thuộc, hãy ghi lại trong `comp_physics/environments.yaml`.
+Nếu cần thêm dependency, hãy ghi lại vào `comp_physics/environments.yaml`.
 
-## Bản chuyển mã giáo trình 📚
+## Dịch mã giáo trình 📚
 
-`comp_physics_python/` là bản dịch Python đang mở rộng của các chương trình Fortran kinh điển từ *Computational Physics*. Ví dụ mapping theo chương:
+`comp_physics_python/` là bản dịch Python đang mở rộng từ các chương trình Fortran kinh điển của *Computational Physics*. Ví dụ ánh xạ theo chương:
 
 - `ch4/`: ví dụ Hartree-Fock.
-- `ch8/`: bộ giải molecular dynamics.
+- `ch8/`: solver molecular dynamics.
 - `ch10/`: bộ lấy mẫu Monte Carlo.
 
-Xem [comp_physics_python/README.md](comp_physics_python/README.md) để biết đầy đủ phạm vi chương và các lệnh CLI.
+Xem [comp_physics_python/README.md](comp_physics_python/README.md) để biết đầy đủ phạm vi chương và lệnh CLI.
 
 ## Tài liệu tham chiếu Multiwfn 🔬
 
-`multiwfn/` lưu `Multiwfn_3.8_dev_src_Linux` cùng PDF manual và hướng dẫn quick-start. Không có binary đã biên dịch nào được commit.
+`multiwfn/` lưu `Multiwfn_3.8_dev_src_Linux` cùng PDF manual và hướng dẫn khởi động nhanh. Không commit file binary đã biên dịch.
 
 ## Hình ảnh 🖼️
 
-Tài nguyên PNG/SVG đã tạo nằm trong `figures/` để output được quản lý phiên bản cùng script/notebook tạo ra chúng.
+Các asset PNG/SVG đã tạo được lưu trong `figures/` để output có version cùng script/notebook sinh ra.
 
 ## Cấu hình 🛠️
 
 ### Python và notebook
 
-- Script ở root giả định dùng venv như ở trên.
-- Chi tiết môi trường notebook phân tán trong tài liệu các dự án con; hiện chưa có một lockfile duy nhất ở root repo.
+- Script root giả định dùng venv đã nêu ở trên.
+- Chi tiết môi trường notebook được phân tán trong tài liệu các dự án con; hiện chưa có một lockfile duy nhất ở root.
 
 ### Trình chạy Gaussian (đường dẫn symlink)
 
@@ -182,12 +200,12 @@ Gaussian/run_gaussian.sh [--no-view] [--g16 <path_to_g16>] [--gview <path_to_gvi
 
 Hành vi:
 
-- Ghi `<basename>.log` cạnh file input.
-- Dùng `GAUSS_SCRDIR` nếu đã đặt, nếu không mặc định `~/gaussian/scr`.
-- Phát hiện `%chk=...` trong input; nếu checkpoint tồn tại, GaussView mở `.chk`, nếu không mở `.log`.
-- Nếu có sẵn, ưu tiên `~/gaussian/gv/gview_safe.sh`, sau đó `gview.sh`.
+- Ghi `<basename>.log` cạnh input.
+- Dùng `GAUSS_SCRDIR` nếu đã đặt, nếu không mặc định là `~/gaussian/scr`.
+- Tự động nhận diện `%chk=...` trong input; nếu checkpoint tồn tại, GaussView sẽ mở `.chk`, ngược lại mở `.log`.
+- Nếu có, ưu tiên `~/gaussian/gv/gview_safe.sh`, rồi đến `gview.sh`.
 
-Wrapper GaussView được khuyến nghị:
+Bộ wrapper GaussView được khuyến nghị:
 
 ```bash
 #!/usr/bin/env bash
@@ -201,97 +219,65 @@ exec "$GV_SH" "$@"
 
 ## Ghi chú phát triển 🧪
 
-### Ghi chú về version control
+### 🎬 Bản đồ điều hướng
 
-- Các path nặng được bỏ qua qua `.gitignore`, gồm `books/`, các symlink target bên ngoài (`Gaussian`, `ComputationalPhysics`, `leonardsusskind`, `the_theoretical_minimum`), và artifact cục bộ như `*.chk`.
-- Giữ đóng góp tập trung vào các thư mục được theo dõi để việc clone/update luôn nhẹ.
-- Khi cập nhật website: sửa `docs/`, xem trước cục bộ, rồi push.
+Dùng mục này như điểm khởi động cho công việc hằng ngày:
 
-Xem trước docs cục bộ:
+| Khu vực | Bắt đầu từ |
+| --- | --- |
+| Demo lượng tử | `examples/` |
+| Notebook vật lý | `comp_physics/` |
+| Dịch bản textbook | `comp_physics_python/` |
+| Công cụ hóa lượng tử | `multiwfn/` |
+| Kết quả đã xuất bản | `docs/` |
+| Hình ảnh minh họa | `figures/`, `figs/` |
+
+### Ghi chú quản lý phiên bản
+
+- Các path lớn bị bỏ qua qua `.gitignore`, gồm `books/`, các symlink target bên ngoài (`Gaussian`, `ComputationalPhysics`, `leonardsusskind`, `the_theoretical_minimum`) và artifact cục bộ như `*.chk`.
+- Giữ đóng góp tập trung vào các thư mục được theo dõi để quy trình clone/pull nhẹ hơn.
+- Khi cập nhật website: chỉnh `docs/`, xem trước local, rồi push.
+
+Xem trước tài liệu local:
 
 ```bash
 python -m http.server --directory docs
 ```
 
-`docs/CNAME` được cấu hình cho `learn.lazying.art`.
+`docs/CNAME` đã được cấu hình cho `learn.lazying.art`.
 
-## Khắc phục sự cố 🩺
+## Xử lý sự cố 🩺
 
-- Tiêu chí thành công của Gaussian: `Normal termination of Gaussian` ở gần cuối file `.log`.
-- Nếu GaussView lỗi dưới Wayland/phiên remote, dùng `gview_safe.sh` và truyền `--gview` tường minh.
-- Nếu có lỗi scratch của Gaussian, kiểm tra dung lượng trống và quyền trong `GAUSS_SCRDIR`.
-- Nếu phụ thuộc notebook bị lệch, coi README các dự án con là nguồn chuẩn và ghi lại package còn thiếu trong file môi trường trước khi chia sẻ.
-- `comp_physics/environments.yaml` có vẻ đang là placeholder trong trạng thái repo hiện tại; hãy dựa vào các lệnh cài đặt tường minh cho tới khi file này được chỉnh đúng.
+- Tiêu chí thành công của Gaussian: `Normal termination of Gaussian` gần cuối file `.log`.
+- Nếu GaussView lỗi trong phiên Wayland/remote, dùng `gview_safe.sh` và truyền `--gview` một cách rõ ràng.
+- Nếu lỗi về scratch Gaussian, kiểm tra dung lượng ổ trống và quyền truy cập tại `GAUSS_SCRDIR`.
+- Nếu dependencies của notebook bị lệch, coi các README của subproject là nguồn chân lý và ghi nhận package thiếu trong file môi trường trước khi chia sẻ.
+- `comp_physics/environments.yaml` hiện có vẻ là file placeholder trong trạng thái repo hiện tại; hãy dựa vào các lệnh cài đặt rõ ràng cho tới khi được chỉnh sửa.
 
 ## Lộ trình 🛣️
 
-- Tiếp tục mở rộng độ phủ chương của `comp_physics_python/` (transfer matrices, DMC/PIMC, FEM, và xa hơn).
-- Hài hòa quy ước output/plot giữa scripts và notebooks.
-- Thêm các kiểm tra xác thực nhẹ, lặp lại được cho các ví dụ quan trọng.
-- Giữ `docs/` và README đa ngôn ngữ đồng bộ với các thử nghiệm mới.
+- Tiếp tục mở rộng phạm vi chương của `comp_physics_python/` (transfer matrices, DMC/PIMC, FEM, và hơn nữa).
+- Đồng bộ quy ước đầu ra/plot giữa các script và notebook.
+- Thêm các kiểm tra kiểm chứng nhẹ, có thể lặp lại cho các ví dụ trọng điểm.
+- Giữ `docs/` và README đa ngôn ngữ đồng bộ khi có thí nghiệm mới.
 
 ## Đóng góp 🤝
 
-Issue và pull request đều được chào đón, đặc biệt cho:
+Issues và pull request luôn được hoan nghênh, đặc biệt cho:
 
-- Kiểm tra độ đúng số học và cải thiện khả năng tái lập.
-- Đặc tả môi trường tốt hơn cho notebook/scripts.
-- Bổ sung bản chuyển chương giáo trình và tinh chỉnh CLI.
-- Làm rõ tài liệu qua nhiều ngôn ngữ trong `i18n/`.
+- Kiểm tra độ đúng đắn số học và cải thiện khả năng tái lập.
+- Đặc tả môi trường tốt hơn cho notebook/script.
+- Mở rộng thêm các bản dịch chapter trong giáo trình và tinh chỉnh CLI.
+- Làm rõ tài liệu trên nhiều ngôn ngữ trong `i18n/`.
 
-Trước khi gửi cập nhật nội dung lớn, hãy giữ các hình đã tạo trong `figures/` và đảm bảo lệnh chạy được từ root repository trừ khi có ghi chú khác.
+Trước khi nộp cập nhật nội dung lớn, giữ file hình đã tạo trong `figures/` và đảm bảo các lệnh có thể chạy từ root repository trừ khi có tài liệu khác.
 
-## Hỗ trợ LazyLearn ❤️
+## ❤️ Support
 
-Việc hỗ trợ LazyLearn giúp các thử nghiệm, tài liệu và công cụ mở tiếp tục phát triển:
+| Donate | PayPal | Stripe |
+| --- | --- | --- |
+| [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
 
-- Chi trả chi phí hosting/inference/storage cho demo công khai và notebook.
-- Tài trợ các đợt hack-week tập trung cho EchoMind, LazyEdit, và các utility quantum/physics ở đây.
-- Prototype optics + wearables (IdeasGlass, LightMind) làm đầu vào cho các chương tương lai.
-- Tài trợ triển khai miễn phí cho sinh viên, community lab và nhà sáng tạo.
+## License 📄
 
-### Donate
-
-<div align="center">
-<table style="margin:0 auto; text-align:center; border-collapse:collapse;">
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate">https://chat.lazying.art/donate</a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate"><img src="figures/donate_button.svg" alt="Donate" height="44"></a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://paypal.me/RongzhouChen">
-        <img src="https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white" alt="Donate with PayPal">
-      </a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400">
-        <img src="https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white" alt="Donate with Stripe">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>WeChat</strong></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>Alipay</strong></td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="WeChat QR" src="figures/donate_wechat.png" width="240"/></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="Alipay QR" src="figures/donate_alipay.png" width="240"/></td>
-  </tr>
-</table>
-</div>
-
-**支援 / Donate**
-
-- Hỗ trợ của bạn duy trì nghiên cứu, phát triển và vận hành để tôi có thể tiếp tục chia sẻ nhiều dự án mở và cải tiến hơn.
-- ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。
-- 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。
-- Your support sustains my research, development, and ops so I can keep sharing more open projects and improvements.
-
-## Giấy phép 📄
-
-Hiện tại repository này chưa có file `LICENSE` ở root. Cho đến khi có license được thêm vào, hãy xem quyền sử dụng/phân phối lại là chưa được chỉ định và liên hệ maintainer để làm rõ trước khi tái sử dụng nội dung đáng kể.
+Hiện chưa có file `LICENSE` ở root của repository này. Cho đến khi có license được thêm vào, hãy xem quyền sử dụng/phân phối lại là chưa được xác định rõ và xin xác nhận từ maintainer trước khi tái sử dụng nội dung đáng kể.

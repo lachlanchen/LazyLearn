@@ -1,56 +1,65 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/logos/banner.png" alt="LazyingArt banner" />
-</p>
+[![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
+
 
 # LazyPhysics and Chemistry
 
-[![Site](https://img.shields.io/badge/site-learn.lazying.art-0a7ea4)](https://learn.lazying.art)
-![Python](https://img.shields.io/badge/python-3.x-3776AB?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/status-active%20learning-22c55e)
-![Repo Type](https://img.shields.io/badge/repo-mixed--format-6b7280)
-![Docs](https://img.shields.io/badge/docs-static%20microsite-0ea5e9)
+[![Site](https://img.shields.io/badge/website-learn.lazying.art-0a7ea4?style=for-the-badge&logo=githubpages&logoColor=white)](https://learn.lazying.art)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active%20Learning-16a34a?style=for-the-badge&logo=target&logoColor=white)
+![Repo Type](https://img.shields.io/badge/Repo-Type-Mixed%20Format-6b7280?style=for-the-badge)
+![Docs](https://img.shields.io/badge/Docs-Static%20Microsite-0ea5e9?style=for-the-badge&logo=markdown&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-11-0f766e?style=for-the-badge&logo=googletranslate&logoColor=white)
 
-LazyPhysics and Chemistry 是 **LazyLearn** 中程式碼與筆記的那一半：以刻意放慢節奏、重視實作的方式記錄物理與化學學習。持續更新的筆記、進展與 TODO 發布在 [learn.lazying.art](https://learn.lazying.art)（由本倉庫的 `docs/` 提供），可執行的產出則保留在此，讓每次實驗都能有可重現的落點。
+## 📌 概覽
+
+| 目標 | 本倉庫用途 |
+| --- | --- |
+| 工作流程類型 | 可重現的物理＋化學學習工作區 |
+| 交付內容 | 腳本、筆記本、產生圖表與靜態文件 |
+| 協作模式 | 根目錄實驗 + 公開站點發布 |
+| 翻譯覆蓋 | `i18n/` 內的 README 鏡像檔 |
+
+LazyPhysics and Chemistry 是 **LazyLearn** 的程式碼與筆記本部分：一份有意放慢節奏、著重實際應用的物理與化學學習誌。持續更新的筆記、成果與待辦會發布在 [learn.lazying.art](https://learn.lazying.art)（本倉庫 `docs/` 提供服務），而可執行成果則保留在此，讓每個實驗都有可重現的歸處。
 
 ## 概覽 🧭
 
 ### LazyLearn
 
-- **主要入口：** [learn.lazying.art](https://learn.lazying.art) - 對外網站，整理每週重點、待辦清單與精選內容。
-- **事實來源：** 網站所連結的內容皆位於 `examples/`、`comp_physics/`、`comp_physics_python/`、`multiwfn/` 或 `figures/`。
-- **更新流程：** 先提交程式碼/筆記，需要時重產圖表，再於 `docs/` 補上條目，讓網站反映最新進度。
+- **主站：** [learn.lazying.art](https://learn.lazying.art) - 提供每週焦點、待辦清單與重點整理的公開網站。
+- **可信來源：** 站上連結的內容都位於 `examples/`、`comp_physics/`、`comp_physics_python/`、`multiwfn/` 或 `figures/`。
+- **更新流程：** 先上傳程式碼與筆記本，必要時重新產圖，再將條目加入 `docs/`，讓網站即時反映最新工作。
 
-此倉庫刻意採用混合格式，而非單一封裝應用。它把可執行腳本、筆記本、參考資料與靜態文件網站放在同一個版本化工作區中。
+這個倉庫刻意採用混合格式，而非單一可打包應用。它將可執行腳本、筆記本、參考資料與靜態文件站放在同一個有版本管理的工作區中。
 
-## 功能特色 ✨
+## 功能 ✨
 
-- 可在一般筆電執行的量子範例腳本（QAOA + VQE）。
-- 計算物理筆記本與輔助求解器（例如基於 Numerov 的工作流程）。
-- 依章節整理的教科書計算物理程式 Python 移植版。
-- 供本地量子化學後處理參考的 Multiwfn 原始碼/手冊套件。
-- 用於報告與投影片的版本化圖檔輸出（`figures/`）。
-- 內建放在 `i18n/` 的多語 README。
-- `docs/` 內的靜態微型網站（自訂網域：`learn.lazying.art`）。
+- 可在一般筆電上執行的量子示範腳本（QAOA + VQE）。
+- 計算物理筆記本與輔助解題器（例如基於 Numerov 的流程）。
+- 教科書計算物理程式逐章節的 Python 移植版。
+- 為本機量子化學後處理參考提供的 Multiwfn 原始碼與手冊套件。
+- 報告／投影片用的版本化產生圖（`figures/`）。
+- 內建 `i18n/` 下的多語言 README。
+- `docs/` 中的靜態微型網站（自訂網域：`learn.lazying.art`）。
 
 ## 專案結構 🗂️
 
-### 這裡包含什麼
+### 目錄內容
 
-| Path | Purpose |
+| 路徑 | 用途 |
 | --- | --- |
-| `examples/` | 可用 Qiskit 或 PennyLane 執行的聚焦 Python 腳本（QAOA + VQE）。 |
-| `comp_physics/` | 計算物理筆記本、`numerov.py` 等輔助腳本，以及相關資料/圖檔。 |
-| `comp_physics_python/` | Jos Thijssen《Computational Physics》的 Python 移植，依章節整理（見 [comp_physics_python/README.md](comp_physics_python/README.md)）。 |
-| `multiwfn/` | Multiwfn 3.8 開發者原始碼包與手冊，供本地參考。 |
-| `figures/` | 報告、投影片與 README 使用的靜態 PNG/SVG 輸出。 |
-| `figs/` | Logo 與 banner 素材。 |
-| `docs/` | LazyLearn 微型網站內容（可由 GitHub Pages 或任一靜態主機提供）。 |
+| `examples/` | 使用 Qiskit 或 PennyLane 的精簡 Python 腳本（QAOA + VQE）。 |
+| `comp_physics/` | 計算物理筆記本、輔助腳本（如 `numerov.py`）以及配套資料與圖表。 |
+| `comp_physics_python/` | Jos Thijssen《Computational Physics》教材程式的 Python 版，按章節整理（見 [comp_physics_python/README.md](../comp_physics_python/README.md)）。 |
+| `multiwfn/` | Multiwfn 3.8 開發者原始碼套件與操作手冊，供本機參考。 |
+| `figures/` | 報告／投影片與 README 使用的靜態 PNG/SVG 輸出。 |
+| `figs/` | 標誌與橫幅素材。 |
+| `docs/` | LazyLearn 微網站內容（由 GitHub Pages 或任何靜態主機提供）。 |
 | `i18n/` | 本地化 README 檔案。 |
 
-代表性目錄：
+目錄範例：
 
 ```text
 LazyLearn/
@@ -70,16 +79,16 @@ LazyLearn/
 ```
 
 > [!IMPORTANT]
-> 多個頂層項目是指向倉庫外部目錄的 symlink。於這些路徑下編輯會影響外部目標。
+> 部分頂層目錄是指向倉庫外部的符號連結。編輯這些路徑下內容會同步影響外部目標。
 
-## 先決條件 🧰
+## 前置條件 🧰
 
-| Requirement | Notes |
+| 需求 | 說明 |
 | --- | --- |
-| Python 3.x | 根目錄腳本與大多數 notebook 工作必需。 |
+| Python 3.x | 根目錄腳本與大多數筆記本作業所需。 |
 | `pip`（或 Conda） | 套件/環境管理。 |
-| Jupyter Lab/Notebook（可選） | notebook 工作流程需要。 |
-| Gaussian 16 + GaussView（可選） | Gaussian 工作流程需要。 |
+| Jupyter Lab/Notebook（可選） | 筆記本工作流程所需。 |
+| Gaussian 16 + GaussView（可選） | Gaussian 工作流程所需。 |
 
 ## 安裝 ⚙️
 
@@ -92,7 +101,17 @@ pip install --upgrade pip
 pip install qiskit pennylane numpy matplotlib
 ```
 
-`comp_physics/` 內的 Jupyter notebook 使用同一套環境。啟動方式：
+### ✅ 快速設定清單
+
+| 步驟 | 指令 | 目的 |
+| --- | --- | --- |
+| 1 | `python -m venv .venv` | 建立獨立環境 |
+| 2 | `source .venv/bin/activate`（或作業系統等效指令） | 避免套件衝突 |
+| 3 | `pip install --upgrade pip` | 確保套件工具為最新 |
+| 4 | `pip install qiskit pennylane numpy matplotlib` | 安裝核心實驗套件 |
+| 5 | 執行 `examples/` 中任一腳本 | 驗證安裝流程是否通順 |
+
+`comp_physics/` 內的 Jupyter 筆記本與同一個環境共用。啟動方式：
 
 ```bash
 jupyter lab
@@ -100,26 +119,26 @@ jupyter lab
 jupyter notebook
 ```
 
-### 可選的章節移植相依套件（`comp_physics_python/`）
+### `comp_physics_python/` 的選配章節移植套件
 
 ```bash
 # conda activate quantum  # common local env name in subproject docs
 pip install numpy scipy matplotlib
 ```
 
-## 使用方式 🚀
+## 使用 🚀
 
 ### 範例工作流程
 
-- **使用 Qiskit 的 QAOA**
+- **QAOA with Qiskit**
 
 ```bash
 python examples/qaoa_qiskit_maxcut.py
 ```
 
-不依賴 Aer；使用純 statevector 後端。
+無需 Aer 依賴，使用純 statevector 後端。
 
-- **使用 PennyLane 的 QAOA**
+- **QAOA with PennyLane**
 
 ```bash
 python examples/qaoa_pennylane_maxcut.py
@@ -127,52 +146,52 @@ python examples/qaoa_pennylane_maxcut.py
 
 使用 `default.qubit`。
 
-- **H2 的 VQE**
+- **VQE for H2**
 
 ```bash
 python examples/pennylane_chemistry_h2_vqe.py
 ```
 
-會重現 `figures/pennylane_h2_vqe_convergence.png`。
+可重現 `figures/pennylane_h2_vqe_convergence.png`。
 
-所有腳本都會記錄中間指標，方便重用圖表或擴展到新分子/圖結構。
+所有腳本都會記錄中間指標，方便你重複使用圖表或擴展到新分子/新圖論問題。
 
-## 計算物理 notebook 📓
+## 計算物理筆記本 📓
 
-`comp_physics/` 目錄對應工作筆記：
+`comp_physics/` 目錄是工作筆記的鏡像：
 
-- `comp_physics_textbook_code/` - 從 notebook 抽出的可重用例程。
-- 獨立 notebook，例如 `chapter1.ipynb`、`chapter2.ipynb`、`numerov.ipynb` 與 `numpy_1ddft.ipynb`。
-- 主題資料夾（`bosonscattering/`、`lensless/`、`lightscattering/` 等），各自包含每項實驗的資料與輔助程式。
+- `comp_physics_textbook_code/` - 從筆記本提煉出的可重複使用程式流程。
+- 獨立筆記本，如 `chapter1.ipynb`、`chapter2.ipynb`、`numerov.ipynb` 與 `numpy_1ddft.ipynb`。
+- 主題資料夾（`bosonscattering/`、`lensless/`、`lightscattering/` 等）各自含有對應實驗的資料與輔助工具。
 
-若需額外相依套件，請記錄於 `comp_physics/environments.yaml`。
+若需額外套件，請記錄於 `comp_physics/environments.yaml`。
 
-## 教科書程式移植 📚
+## 教材程式移植 📚
 
-`comp_physics_python/` 正在持續擴充，將 *Computational Physics* 經典 Fortran 程式翻譯為 Python。章節對應範例：
+`comp_physics_python/` 是正在建立的經典 *Computational Physics* Fortran 程式 Python 譯本。章節對照示例：
 
-- `ch4/`：Hartree-Fock 範例。
+- `ch4/`：Hartree-Fock 示例。
 - `ch8/`：分子動力學求解器。
-- `ch10/`：Monte Carlo 取樣器。
+- `ch10/`：蒙地卡羅取樣器。
 
-完整章節涵蓋與 CLI 指令請參閱 [comp_physics_python/README.md](comp_physics_python/README.md)。
+完整章節涵蓋與 CLI 指令請參見 [comp_physics_python/README.md](../comp_physics_python/README.md)。
 
-## Multiwfn 參考資料 🔬
+## Multiwfn 參考 🔬
 
-`multiwfn/` 保存 `Multiwfn_3.8_dev_src_Linux`、PDF 手冊與快速入門指南。未提交已編譯二進位檔。
+`multiwfn/` 包含 `Multiwfn_3.8_dev_src_Linux`、PDF 手冊與快速入門指南。本倉庫未提交編譯後的二進位檔。
 
-## 圖檔輸出 🖼️
+## 圖表 🖼️
 
-產生的 PNG/SVG 素材位於 `figures/`，讓輸出可與對應腳本/notebook 一同版本化。
+產生出的 PNG/SVG 資產存放於 `figures/`，讓輸出與對應腳本／筆記本同步進行版本管理。
 
-## 設定 🛠️
+## 組態設定 🛠️
 
-### Python 與 notebook
+### Python 與筆記本
 
-- 根目錄腳本預設使用上方展示的 venv。
-- notebook 環境細節分散於各專案文件；目前倉庫根目錄沒有單一 lockfile。
+- 根目錄腳本預設使用上面展示的虛擬環境。
+- 筆記本環境細節散見於各子專案文件；目前 repo 根目錄沒有統一的 lockfile。
 
-### Gaussian runner（symlink 路徑）
+### Gaussian 執行器（符號連結路徑）
 
 `Gaussian/run_gaussian.sh` 支援：
 
@@ -182,12 +201,12 @@ Gaussian/run_gaussian.sh [--no-view] [--g16 <path_to_g16>] [--gview <path_to_gvi
 
 行為：
 
-- 在輸入檔旁寫入 `<basename>.log`。
-- 若已設定 `GAUSS_SCRDIR` 則使用該目錄，否則預設 `~/gaussian/scr`。
-- 偵測輸入中的 `%chk=...`；若 checkpoint 存在，GaussView 會開啟 `.chk`，否則開 `.log`。
+- 在輸入檔旁建立 `<basename>.log`。
+- 若有設定 `GAUSS_SCRDIR` 則使用該值，否則預設為 `~/gaussian/scr`。
+- 偵測輸入中的 `%chk=...`；若 checkpoint 存在，GaussView 會打開 `.chk`，否則打開 `.log`。
 - 若可用，優先使用 `~/gaussian/gv/gview_safe.sh`，其次 `gview.sh`。
 
-建議的 GaussView wrapper：
+建議的 GaussView 包裝腳本：
 
 ```bash
 #!/usr/bin/env bash
@@ -199,98 +218,52 @@ export __GLX_VENDOR_LIBRARY_NAME="${__GLX_VENDOR_LIBRARY_NAME:-mesa}"
 exec "$GV_SH" "$@"
 ```
 
-## 開發備註 🧪
+## 開發筆記 🧪
+
+### 🎬 導覽地圖
+
+可作為日常工作的啟動點：
+
+| 區域 | 從這裡開始 |
+| --- | --- |
+| 量子示範 | `examples/` |
+| 物理筆記本 | `comp_physics/` |
+| 教材移植 | `comp_physics_python/` |
+| 量子化學工具 | `multiwfn/` |
+| 已發布輸出 | `docs/` |
+| 圖示與插圖 | `figures/`、`figs/` |
 
 ### 版本控制備註
 
-- `.gitignore` 會忽略大型路徑，包括 `books/`、外部 symlink 目標（`Gaussian`、`ComputationalPhysics`、`leonardsusskind`、`the_theoretical_minimum`），以及 `*.chk` 等本地產物。
-- 請將貢獻集中在被追蹤的資料夾，以維持輕量化 clone/update 工作流程。
-- 若更新網站：編輯 `docs/`、本地預覽，再推送。
+- `.gitignore` 忽略大型路徑，包括 `books/`、外部符號連結目標（`Gaussian`、`ComputationalPhysics`、`leonardsusskind`、`the_theoretical_minimum`）以及本地產物（如 `*.chk`）。
+- 為了保持 clone / 更新流程輕量，請將貢獻聚焦在追蹤中的資料夾。
+- 網站更新流程：編輯 `docs/`、本機預覽，再推送。
 
-本地預覽 docs：
+本機文件預覽：
 
 ```bash
 python -m http.server --directory docs
 ```
 
-`docs/CNAME` 已設定為 `learn.lazying.art`。
+`docs/CNAME` 已設為 `learn.lazying.art`。
 
-## 疑難排解 🩺
+## 故障排除 🩺
 
-- Gaussian 成功標準：在 `.log` 結尾附近看到 `Normal termination of Gaussian`。
-- 若 GaussView 在 Wayland/遠端會話啟動失敗，請使用 `gview_safe.sh` 並明確傳入 `--gview`。
-- 若 Gaussian scratch 發生錯誤，請檢查 `GAUSS_SCRDIR` 的可用空間與權限。
-- 若 notebook 相依套件漂移，請以各子專案 README 為準，並在分享前把缺漏套件寫入環境檔。
-- 目前倉庫狀態中 `comp_physics/environments.yaml` 看起來是佔位內容；在修正前請以明確安裝指令為準。
+- Gaussian 成功標準：`Normal termination of Gaussian` 出現在 `.log` 檔尾端附近。
+- 若 GaussView 在 Wayland / 遠端工作階段下啟動失敗，請使用 `gview_safe.sh` 並明確傳入 `--gview`。
+- 遇到 Gaussian scratch 錯誤時，請檢查 `GAUSS_SCRDIR` 的磁碟空間與權限。
+- 若筆記本套件版本偏移，請以各子專案 README 為準，並在共享前先將缺失套件寫入環境檔。
+- `comp_physics/environments.yaml` 目前在此倉庫版本中似乎還是預留檔；在修正前請依賴明確安裝指令。
 
 ## 路線圖 🛣️
 
-- 持續擴充 `comp_physics_python/` 章節覆蓋（transfer matrices、DMC/PIMC、FEM 等）。
-- 統一腳本與 notebook 的輸出/作圖慣例。
-- 為關鍵範例加入輕量且可重複的驗證檢查。
-- 讓 `docs/` 與多語 README 持續與新實驗同步。
+- 持續擴充 `comp_physics_python/` 的章節覆蓋（轉移矩陣、DMC/PIMC、FEM 等）。
+- 統一腳本與筆記本輸出／繪圖規範。
 
-## 貢獻 🤝
 
-歡迎提出 issue 與 pull request，特別是：
 
-- 數值正確性檢查與可重現性改進。
-- notebook/腳本更完善的環境規格。
-- 更多教科書章節移植與 CLI 改進。
-- `i18n/` 各語言文件的可讀性與清晰度改善。
+## ❤️ Support
 
-提交大型內容更新前，請保留 `figures/` 中的產生圖檔，並確保除非另有文件說明，指令皆可由倉庫根目錄執行。
-
-## 支援 LazyLearn ❤️
-
-支持 LazyLearn 能讓實驗、文件與開放工具持續前進：
-
-- 支援公開 demo 與 notebook 所需的主機、推論與儲存成本。
-- 資助 EchoMind、LazyEdit 與此處量子/物理工具的專注開發週。
-- 原型化 optics + wearables（IdeasGlass、LightMind），回饋到後續章節內容。
-- 贊助學生、社群實驗室與創作者的免費部署。
-
-### Donate
-
-<div align="center">
-<table style="margin:0 auto; text-align:center; border-collapse:collapse;">
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate">https://chat.lazying.art/donate</a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate"><img src="figures/donate_button.svg" alt="Donate" height="44"></a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://paypal.me/RongzhouChen">
-        <img src="https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white" alt="Donate with PayPal">
-      </a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400">
-        <img src="https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white" alt="Donate with Stripe">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>WeChat</strong></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>Alipay</strong></td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="WeChat QR" src="figures/donate_wechat.png" width="240"/></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="Alipay QR" src="figures/donate_alipay.png" width="240"/></td>
-  </tr>
-</table>
-</div>
-
-**支援 / Donate**
-
-- ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。
-- 你的支持將用於研發與運維，幫助我持續公開分享更多專案與改進。
-- Your support sustains my research, development, and ops so I can keep sharing more open projects and improvements.
-
-## 授權 📄
-
-此倉庫根目錄目前沒有 `LICENSE` 檔。在新增授權條款前，請將使用/再散布權利視為未明確定義；重用大量內容前請先向維護者確認。
+| Donate | PayPal | Stripe |
+| --- | --- | --- |
+| [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
