@@ -3,6 +3,7 @@
 Summary: Evidence quality for this run is weak (4/5 book websearch artifacts are empty; the only non-empty artifact is mostly noisy SERP/forum content), so recommendations are conservative and anchored to the profile’s explicit gaps: focus, validation, measurement quality, narrative clarity, and dark-side risk control.
 
 ## Recommendations
+
 - Good Strategy/Bad Strategy — Richard Rumelt [high]
   - Theme: Flagship focus and coherent prioritization
   - Why fit: You have high execution breadth but fragmentation risk. This book’s strategy kernel (diagnosis, guiding policy, coherent actions) directly fits your 30-90 day need to choose 1-2 flagship initiatives and avoid spreading effort across too many threads.
