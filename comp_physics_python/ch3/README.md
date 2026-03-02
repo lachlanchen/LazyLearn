@@ -1,7 +1,7 @@
 # Chapter 3 – Variational examples in Python
 
-This folder reimplements the Section 3 examples from Thijssen’s *Computational
-Physics* using modern Python/numpy tooling.  The goal is a line‑for‑line remake
+This folder reimplements the Section 3 examples from Thijssen’s _Computational
+Physics_ using modern Python/numpy tooling. The goal is a line‑for‑line remake
 of the original FORTRAN routines under
 `comp_physics/comp_physics_textbook_code/4557_ch3/ch3`, plus extensive notes on
 what each formula does.
@@ -29,9 +29,9 @@ H_{kk'} = \int_{-1}^{1} \phi_k \left(-\tfrac{1}{2}\nabla^2\right)\phi_{k'}\,\mat
 $$
 
 The generalised eigenvalue problem `H c = E S c` is solved through an explicit
-Cholesky reduction (mirroring the LAPACK call hidden inside `geneig.f`).  The
+Cholesky reduction (mirroring the LAPACK call hidden inside `geneig.f`). The
 returned eigenvalues approach the exact $E_n = \frac{\pi^2}{4}(n+1)^2$ as `n_basis`
- grows, and `eigenfunctions_on_grid` reconstructs the spatial wavefunctions just
+grows, and `eigenfunctions_on_grid` reconstructs the spatial wavefunctions just
 like the FORTRAN loop that wrote `EigVecs`.
 
 Usage:
@@ -61,8 +61,8 @@ computes the Hamiltonian/overlap matrices analytically as well:
   $V_{rs} = -2 Z \pi / (\alpha_r + \alpha_s)$.
 
 The exponents $\alpha_r$ are scaled by $Z^2$ so that different hydrogenic
-ions can be handled without changing the primitive set.  The same Cholesky based
-solver provides the variational eigenvalues and eigenvectors.  The ground-state
+ions can be handled without changing the primitive set. The same Cholesky based
+solver provides the variational eigenvalues and eigenvectors. The ground-state
 wave function is sampled on `r ∈ [0, 4/Z]` via
 $\psi(r) = \sum_r c_r e^{-\alpha_r r^2}$ and written to `WaveFunc_py`, matching
 Thijssen’s output format.
@@ -85,5 +85,5 @@ evals, evecs = solve_hydrogen(cfg)
 
 Both scripts call `generalized_eigh`, a tiny wrapper around `numpy.linalg` that
 performs a Cholesky factorisation of the overlap matrix and reduces the
-problem to a standard eigenvalue solve.  This mimics the LAPACK `dsygv` call in
+problem to a standard eigenvalue solve. This mimics the LAPACK `dsygv` call in
 `geneig.f` while keeping the code dependency‑free.

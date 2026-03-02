@@ -51,13 +51,13 @@ Pulay correction induced by the plane-wave cutoff.
 
 ### 1.2 Discretisation
 
-* **Plane-wave grid:** `InitParams` chooses a cubic FFT grid of size
+- **Plane-wave grid:** `InitParams` chooses a cubic FFT grid of size
   `GridSize = min(2^n, 3^n, 5^n)` so that all reciprocal lattice vectors with
   $\vert \mathbf{G} \vert \le G_\text{max} = \sqrt{2E_\text{cut}}$ fit exactly.
-* **Density:** reciprocal-space densities $\rho(\mathbf{G})$ are collected,
+- **Density:** reciprocal-space densities $\rho(\mathbf{G})$ are collected,
   inverse-transformed to $\rho(\mathbf{r})$, and used for Hartree and XC
   potentials.
-* **Pseudopotential:** `pseudo.f90` implements norm-conserving non-local Kleinman–Bylander
+- **Pseudopotential:** `pseudo.f90` implements norm-conserving non-local Kleinman–Bylander
   projectors $V_\text{NL} = \sum_{lm} \vert \beta_{lm} \rangle D_{lm} \langle \beta_{lm} \vert$.
 
 ### 1.3 RATTLE constraint (orthonormality)
@@ -80,8 +80,8 @@ linear algebra instead of the hand-written Gauss–Jordan eliminator.
 The main time stepper is velocity-Verlet for both ions and electronic
 coefficients, with two time-step parameters:
 
-* `TimeStepOrt` – short electronic step used during the orthogonalisation stage.
-* `TimeStepCP` – full CPMD step for coupled ion+electron propagation.
+- `TimeStepOrt` – short electronic step used during the orthogonalisation stage.
+- `TimeStepCP` – full CPMD step for coupled ion+electron propagation.
 
 In Python we will expose both and keep identical ordering:
 
@@ -155,9 +155,9 @@ curve, matching Fig. 9.6 in the book.
 
 The Python chapter will expose two modules:
 
-* `carpar.py` – wraps FFT grids (NumPy FFTs), ultrasoft pseudopotential parser,
+- `carpar.py` – wraps FFT grids (NumPy FFTs), ultrasoft pseudopotential parser,
   CPMD integrator, and Gauss–Legendre time stepping for ionic dynamics.
-* `hf_td.py` – reproduces the damped Verlet evolution of MO coefficients and
+- `hf_td.py` – reproduces the damped Verlet evolution of MO coefficients and
   couples it to a one-dimensional nuclear coordinate integrator.
 
 Both modules will share utility layers for Gaussian integral evaluation and

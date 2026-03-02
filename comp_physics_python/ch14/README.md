@@ -65,11 +65,11 @@ $L$ the cylinder diameter.
 
 The Python module will offer:
 
-* `lattice.py` – discretisation metadata (velocity set, weights, bounce-back map).
-* `lbm.py` – main collide-and-stream loop with optional forcing (Guo forcing)
+- `lattice.py` – discretisation metadata (velocity set, weights, bounce-back map).
+- `lbm.py` – main collide-and-stream loop with optional forcing (Guo forcing)
   and profile sampling.
-* `boundaries.py` – inlet/outlet and solid-wall enforcement.
-* `diagnostics.py` – lift/drag coefficient computation and vortex shedding FFTs.
+- `boundaries.py` – inlet/outlet and solid-wall enforcement.
+- `diagnostics.py` – lift/drag coefficient computation and vortex shedding FFTs.
 
 All steps retain the exact algebra used in `lb.F90`, enabling bitwise
 comparison of diagnostic curves between Fortran and Python for the canonical

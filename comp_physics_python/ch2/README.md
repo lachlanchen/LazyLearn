@@ -1,10 +1,10 @@
 # Chapter 2 – Lennard‑Jones Scattering in Python
 
 This folder mirrors the FORTRAN sources in
-`comp_physics/comp_physics_textbook_code/4556_ch2/ch2`.  The original
-implementation from Thijssen’s *Computational Physics* (Section 2) evaluates the
+`comp_physics/comp_physics_textbook_code/4556_ch2/ch2`. The original
+implementation from Thijssen’s _Computational Physics_ (Section 2) evaluates the
 H–Kr elastic cross section by shooting the radial Schrödinger equation with the
-Numerov method and extracting phase shifts from the asymptotic solution.  The
+Numerov method and extracting phase shifts from the asymptotic solution. The
 Python rewrite keeps the exact same physics while adding documentation and a
 clean API.
 
@@ -18,21 +18,21 @@ V(r) = \varepsilon \left[\left(\frac{R_m}{r}\right)^{12} - 2\left(\frac{R_m}{r}\
 $$
 
 expressed in Thijssen’s scaled units where the reduced mass and $\hbar$ factors
-collapse into a single prefactor `RydConst = R_m^2 · 0.48`.  Writing the radial
+collapse into a single prefactor `RydConst = R_m^2 · 0.48`. Writing the radial
 wave function as $u(r) = r R(r)$, the Schrödinger equation becomes
 
 $$
 \frac{\mathrm{d}^2 u}{\mathrm{d} r^2} = \Bigg[\frac{\ell (\ell + 1)}{r^2}
 + \texttt{RydConst}\cdot\varepsilon\Big(\frac{1}{r^{12}} - \frac{2}{r^{6}}\Big)
-- \texttt{RydConst}\cdot E \Bigg] u(r) 
+- \texttt{RydConst}\cdot E \Bigg] u(r)
 \equiv F(r;\ell,E) u(r).
 $$
 
 The Numerov method integrates this second‑order ODE with local error
-$\mathcal{O}(h^6)$.  Following the book we start the integration at
+$\mathcal{O}(h^6)$. Following the book we start the integration at
 `start_radius` with the same analytic Taylor expansion that appears in
 `scatter.f`, so that the first two points $u(r_0)$ and $u(r_1)$ are
-consistent with the rapidly varying repulsive core.  Two integrations are
+consistent with the rapidly varying repulsive core. Two integrations are
 performed:
 
 1. from `start_radius` up to `max_radius` (continuous version of the user’s
@@ -98,11 +98,11 @@ can analyse individual partial waves or verify Levinson’s theorem.
 
 ## Notes on numerical stability
 
-- The Numerov integration uses the same step size for both radii.  Make sure the
+- The Numerov integration uses the same step size for both radii. Make sure the
   requested `max_radius` keeps `sec_r` within `max_grid_size` = 60 000 grid
   points.
 - If the denominator inside the Numerov update or the phase‑shift expression
-  vanishes, decrease `step` or increase `l_max` gradually.  The code raises a
+  vanishes, decrease `step` or increase `l_max` gradually. The code raises a
   descriptive exception instead of failing silently.
 - The spherical Bessel functions follow the upward recursion from `special.f`
   so the Python and FORTRAN numbers agree to floating‑point precision for the

@@ -26,6 +26,7 @@ This repository contains helpers and inputs for running Gaussian jobs and relate
   - `Gaussian/run_gaussian.sh --g16 ~/gaussian/g16/g16 --gview ~/gaussian/gv/gview_safe.sh <input>`
 
 Behavior:
+
 - Writes `<basename>.log` next to the input.
 - Detects `%chk=…` in the input; if the checkpoint exists, GaussView opens the `.chk`, otherwise the `.log`.
 - Uses `GAUSS_SCRDIR` if set, else defaults to `~/gaussian/scr`.
@@ -55,4 +56,3 @@ Save as `~/gaussian/gv/gview_safe.sh` and make it executable.
 - Success criterion: `Normal termination of Gaussian` appears near the end of the `.log`.
 - If GaussView fails to launch in Wayland/remote sessions, use the safe wrapper above and pass `--gview ~/gaussian/gv/gview_safe.sh` to the runner.
 - If scratch space errors occur, verify free disk under `GAUSS_SCRDIR` and permissions.
-

@@ -1,8 +1,6 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
-
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
-
 
 # LazyPhysics et chimie
 
@@ -15,12 +13,12 @@
 
 ## 📌 En bref
 
-| Axe | Ce que fait ce dépôt |
-| --- | --- |
-| Type de flux de travail | Espace d'apprentissage reproductible en physique + chimie |
-| Livrables | Scripts, notebooks, figures générées et docs statiques |
-| Modèle de collaboration | Expérimentations de base + publication du site public |
-| Couverture de traduction | Fichiers miroir du README dans `i18n/` |
+| Axe                      | Ce que fait ce dépôt                                      |
+| ------------------------ | --------------------------------------------------------- |
+| Type de flux de travail  | Espace d'apprentissage reproductible en physique + chimie |
+| Livrables                | Scripts, notebooks, figures générées et docs statiques    |
+| Modèle de collaboration  | Expérimentations de base + publication du site public     |
+| Couverture de traduction | Fichiers miroir du README dans `i18n/`                    |
 
 LazyPhysics et Chimie représente la partie code + notebook de **LazyLearn** : un carnet d'apprentissage pratique, volontairement progressif, pour la physique et la chimie. Les notes vivantes, les réussites et les TODO sont publiés sur [learn.lazying.art](https://learn.lazying.art) (gérés depuis `docs/` dans ce dépôt), tandis que les éléments exécutables restent ici pour que les expériences aient toujours un point de départ reproductible.
 
@@ -48,16 +46,16 @@ Ce dépôt est volontairement de format mixte, pas une application empaquetée u
 
 ### Ce que contient ce dépôt
 
-| Chemin | Rôle |
-| --- | --- |
-| `examples/` | Scripts Python ciblés (QAOA + VQE) qui s'exécutent avec Qiskit ou PennyLane. |
-| `comp_physics/` | Notebooks de physique computationnelle, scripts d'assistance comme `numerov.py`, et données/figures associées. |
-| `comp_physics_python/` | Portages Python de *Computational Physics* de Jos Thijssen, organisés par chapitre (voir [comp_physics_python/README.md](comp_physics_python/README.md)). |
-| `multiwfn/` | Paquet source développeur de Multiwfn 3.8 avec manuels pour référence locale. |
-| `figures/` | Sorties PNG/SVG statiques utilisées dans les rapports/présentations et le README. |
-| `figs/` | Actifs de logo et bannière. |
-| `docs/` | Contenu du microsite LazyLearn (servi via GitHub Pages ou tout hôte statique). |
-| `i18n/` | Fichiers README localisés. |
+| Chemin                 | Rôle                                                                                                                                                      |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `examples/`            | Scripts Python ciblés (QAOA + VQE) qui s'exécutent avec Qiskit ou PennyLane.                                                                              |
+| `comp_physics/`        | Notebooks de physique computationnelle, scripts d'assistance comme `numerov.py`, et données/figures associées.                                            |
+| `comp_physics_python/` | Portages Python de _Computational Physics_ de Jos Thijssen, organisés par chapitre (voir [comp_physics_python/README.md](comp_physics_python/README.md)). |
+| `multiwfn/`            | Paquet source développeur de Multiwfn 3.8 avec manuels pour référence locale.                                                                             |
+| `figures/`             | Sorties PNG/SVG statiques utilisées dans les rapports/présentations et le README.                                                                         |
+| `figs/`                | Actifs de logo et bannière.                                                                                                                               |
+| `docs/`                | Contenu du microsite LazyLearn (servi via GitHub Pages ou tout hôte statique).                                                                            |
+| `i18n/`                | Fichiers README localisés.                                                                                                                                |
 
 Disposition représentative :
 
@@ -83,12 +81,12 @@ LazyLearn/
 
 ## Prérequis 🧰
 
-| Exigence | Remarques |
-| --- | --- |
-| Python 3.x | Requis pour les scripts racine et la plupart des notebooks. |
-| `pip` (ou Conda) | Gestionnaire de paquets/environnements. |
-| Jupyter Lab/Notebook (optionnel) | Nécessaire pour les flux notebook. |
-| Gaussian 16 + GaussView (optionnel) | Nécessaire pour les flux Gaussian. |
+| Exigence                            | Remarques                                                   |
+| ----------------------------------- | ----------------------------------------------------------- |
+| Python 3.x                          | Requis pour les scripts racine et la plupart des notebooks. |
+| `pip` (ou Conda)                    | Gestionnaire de paquets/environnements.                     |
+| Jupyter Lab/Notebook (optionnel)    | Nécessaire pour les flux notebook.                          |
+| Gaussian 16 + GaussView (optionnel) | Nécessaire pour les flux Gaussian.                          |
 
 ## Installation ⚙️
 
@@ -103,13 +101,13 @@ pip install qiskit pennylane numpy matplotlib
 
 ### ✅ Liste de vérification rapide
 
-| Étape | Commande | Objectif |
-| --- | --- | --- |
-| 1 | `python -m venv .venv` | Créer un environnement isolé |
-| 2 | `source .venv/bin/activate` (ou équivalent selon l'OS) | Éviter les conflits de dépendances |
-| 3 | `pip install --upgrade pip` | Assurer des outils de paquets à jour |
-| 4 | `pip install qiskit pennylane numpy matplotlib` | Installer la pile expérimentale de base |
-| 5 | Exécuter un script dans `examples/` | Valider l'installation de bout en bout |
+| Étape | Commande                                               | Objectif                                |
+| ----- | ------------------------------------------------------ | --------------------------------------- |
+| 1     | `python -m venv .venv`                                 | Créer un environnement isolé            |
+| 2     | `source .venv/bin/activate` (ou équivalent selon l'OS) | Éviter les conflits de dépendances      |
+| 3     | `pip install --upgrade pip`                            | Assurer des outils de paquets à jour    |
+| 4     | `pip install qiskit pennylane numpy matplotlib`        | Installer la pile expérimentale de base |
+| 5     | Exécuter un script dans `examples/`                    | Valider l'installation de bout en bout  |
 
 Les notebooks Jupyter dans `comp_physics/` utilisent le même environnement. Lancez avec :
 
@@ -168,7 +166,7 @@ Si des dépendances supplémentaires sont nécessaires, consignez-les dans `comp
 
 ## Traductions de programmes de manuels 📚
 
-`comp_physics_python/` est une traduction Python progressive des programmes Fortran classiques de *Computational Physics*. Exemple de correspondance par chapitre :
+`comp_physics_python/` est une traduction Python progressive des programmes Fortran classiques de _Computational Physics_. Exemple de correspondance par chapitre :
 
 - `ch4/` : exemples Hartree-Fock.
 - `ch8/` : solveurs de dynamique moléculaire.
@@ -224,14 +222,14 @@ exec "$GV_SH" "$@"
 
 Utilisez ceci comme point de départ pour le travail quotidien :
 
-| Domaine | Commencer ici |
-| --- | --- |
-| Démonstrations quantiques | `examples/` |
-| Notebooks de physique | `comp_physics/` |
-| Traductions de manuels | `comp_physics_python/` |
-| Outils de chimie quantique | `multiwfn/` |
-| Sorties publiées | `docs/` |
-| Illustrations et visuels | `figures/`, `figs/` |
+| Domaine                    | Commencer ici          |
+| -------------------------- | ---------------------- |
+| Démonstrations quantiques  | `examples/`            |
+| Notebooks de physique      | `comp_physics/`        |
+| Traductions de manuels     | `comp_physics_python/` |
+| Outils de chimie quantique | `multiwfn/`            |
+| Sorties publiées           | `docs/`                |
+| Illustrations et visuels   | `figures/`, `figs/`    |
 
 ### Notes de contrôle de version
 
@@ -273,8 +271,8 @@ Avant de soumettre des mises à jour de contenu majeures, conservez les figures 
 
 ## ❤️ Support
 
-| Donate | PayPal | Stripe |
-| --- | --- | --- |
+| Donate                                                                                                                                                                                                                                                                                                                                                     | PayPal                                                                                                                                                                                                                                                                                                                                                          | Stripe                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
 
 ## License 📄

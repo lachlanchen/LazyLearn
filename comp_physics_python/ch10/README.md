@@ -1,6 +1,6 @@
 # Chapter 10 – Monte Carlo Methods in Python
 
-This folder mirrors the Chapter 10 examples from Thijssen’s *Computational Physics*.
+This folder mirrors the Chapter 10 examples from Thijssen’s _Computational Physics_.
 Each script keeps the physics and algorithms of the original Fortran versions
 but wraps them in short, runnable Python programs.
 
@@ -8,14 +8,14 @@ but wraps them in short, runnable Python programs.
 
 We place `N = 4L³` atoms on an FCC lattice of box length
 $L = (N/\rho)^{1/3}$ and sample the canonical ensemble with the Metropolis
-algorithm.  The energy change for moving particle *i* is computed with the
+algorithm. The energy change for moving particle _i_ is computed with the
 minimum-image convention and the truncated LJ potential
 
 $$
 V(r) = 4\varepsilon\left[ \left(\frac{\sigma}{r}\right)^{12} - \left(\frac{\sigma}{r}\right)^6 \right], \quad r < r_c.
 $$
 
-Acceptance probability: `min(1, exp(-β ΔE))`.  Every 100 trial moves we adapt the
+Acceptance probability: `min(1, exp(-β ΔE))`. Every 100 trial moves we adapt the
 maximal displacement so the acceptance hovers around 40 %, reproducing the
 behaviour of `mc.F`.
 
@@ -31,9 +31,9 @@ Outputs mean energy per particle and heat capacity, plus the final configuration
 
 ## 2. 2D Ising Metropolis (`ising_mc.py`)
 
-Implements the lattice update used in `IsMC.F`.  For coupling
+Implements the lattice update used in `IsMC.F`. For coupling
 `J = K/kT` and field `H = B/kT`, the flip cost is
-$\Delta E = 2 s_i (J \sum_j s_j + H)$.  Metropolis sampling accumulates $E/N$, specific
+$\Delta E = 2 s_i (J \sum_j s_j + H)$. Metropolis sampling accumulates $E/N$, specific
 heat, and magnetisation after a burn-in of 2000 sweeps.
 
 ```
@@ -42,10 +42,10 @@ python comp_physics_python/ch10/ising_mc.py --size 32 --J 0.44 --H 0.0 --steps 6
 
 ## 3. Rosenbluth polymer growth (`rosenbluth_polymer.py`)
 
-Translates `rosenbluth.f90`.  A chain is grown segment by segment; for each
+Translates `rosenbluth.f90`. A chain is grown segment by segment; for each
 monomer we evaluate `θ` trial directions, weight them by
 $\exp(-\beta V_{\text{LJ}})$, pick one with probability proportional to the weight, and
-multiply the chain weight by the sum of the trial weights.  The script then
+multiply the chain weight by the sum of the trial weights. The script then
 estimates the average end-to-end distance squared:
 
 $$

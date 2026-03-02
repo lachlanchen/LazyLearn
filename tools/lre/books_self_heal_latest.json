@@ -1,0 +1,47 @@
+{
+  "diagnosis": [
+    "Current books retrieval is high-volume but low-signal: opened URLs skew to YouTube/Reddit/Facebook/Quora and weak listicles, so evidence quality is inconsistent for book selection.",
+    "`prompt_lre_book_finder.sh` treats screenshot presence as quality and can mark weak runs as strong; empty/invalid `query-*.json` files are not penalized enough.",
+    "Fallback artifacts (`search_batch_result.json`) are not fully incorporated into quality scoring, so routing/click strategy feedback is under-informed.",
+    "`prompt_lre_self_evolve.sh` validation expects `analysis` while schema requires `diagnosis`; this can break self-evolve validation/apply flow.",
+    "`lre_books_prompt.md` does not force structured 30-day execution plans (week-by-week + metric), so recommendations can remain generic.",
+    "Split decision: yes, but keep one orchestrator. Add 3 focused helper tools (source filter, fit scorer, action-plan writer) behind `prompt_lre_book_finder.sh`."
+  ],
+  "query_strategy_updates": [
+    "Upgrade query format from broad 'best books' to intent templates: `role + weakness + outcome + evidence phrase + anti-noise filters` (e.g., case study/framework/implementation).",
+    "Keep Google as default; only route to Scholar for evidence-heavy behavior change topics (cognitive bias, self-regulation, habit formation) and to News for recent releases/trend checks.",
+    "Add anti-noise operators for primary retrieval: `-youtube -reddit -quora -facebook -medium` unless explicitly running a community-signal pass.",
+    "Use two-pass retrieval per theme: pass A discover candidate books, pass B verify each candidate with summaries/reviews/author interviews from trusted domains.",
+    "Require query set balance each run: at least 1 founder decision query, 1 systems query, 1 discipline query, 1 weakness-repair query, and 1 verification query.",
+    "Add query dedupe/normalization in script (lowercase, trim punctuation variants) before execution to avoid repeated intent with minor wording changes."
+  ],
+  "prompt_patch": [
+    "`lab_prompt_tools/lre/lre_books_prompt.md`: add an `Evidence Quality Gate` section: if <3 high-signal sources across >=2 trusted domains, cap recommendations to 2-3 and state evidence gaps directly in `why_fit`.",
+    "`lab_prompt_tools/lre/lre_books_prompt.md`: require `action_30d` format `Week 1/2/3/4 + daily minimum + weekly review metric` so plans are executable, not descriptive.",
+    "`lab_prompt_tools/lre/lre_books_prompt.md`: add explicit low-signal exclusion rule: do not rely primarily on social/forum/listicle pages unless used only as secondary corroboration.",
+    "`lab_prompt_tools/lre/lre_self_evolve_books_prompt.md`: require explicit split decision output (keep monolith vs split helpers) and mandatory mention of which file(s) to patch/create.",
+    "Create `lab_prompt_tools/lre/lre_books_source_filter_prompt.md` to define trusted-domain scoring and low-signal penalties for opened URLs.",
+    "Create `lab_prompt_tools/lre/lre_books_fit_score_prompt.md` to score book-to-profile fit on strengths leverage, weakness repair, and dark-side risk reduction before final recommendation writing.",
+    "Create `lab_prompt_tools/lre/lre_books_action_plan_prompt.md` to transform chosen books into concrete 30-day execution plans with measurable behaviors."
+  ],
+  "script_patch": [
+    "`lab_prompt_tools/lre/prompt_lre_self_evolve.sh`: fix validation `required` list from `analysis` to `diagnosis` to match `lre_self_evolve_schema.json`.",
+    "`lab_prompt_tools/lre/prompt_lre_book_finder.sh`: add `validate_query_json()` that fails on empty/unparseable JSON; trigger fallback/retry when validation fails.",
+    "`lab_prompt_tools/lre/prompt_lre_book_finder.sh`: compute quality from both immersive `query-*.json` and fallback `search_batch_result.json`; do not use screenshot count as a proxy for quality.",
+    "`lab_prompt_tools/lre/prompt_lre_book_finder.sh`: add engine routing helper (`google` default, `google-scholar` for evidence/behavior-change queries, `google-news` for recent-release queries).",
+    "Create `lab_prompt_tools/lre/prompt_lre_books_source_filter.sh`: read search artifacts, score domains, emit `filtered_book_sources.json` with allow/deny reasons.",
+    "Create `lab_prompt_tools/lre/prompt_lre_books_fit_score.sh`: rank candidate books against profile weaknesses/strengths and output top candidates with rationale.",
+    "Create `lab_prompt_tools/lre/prompt_lre_books_action_plan.sh`: generate strict 30-day plan text per selected book (weekly milestones + metric).",
+    "`lab_prompt_tools/lre/prompt_lre_book_finder.sh`: call new helpers sequentially (retrieve -> source_filter -> fit_score -> action_plan) while keeping current CLI entrypoint unchanged.",
+    "`lab_prompt_tools/lre/prompt_lre_book_finder.sh`: add retry with fresh Chrome session (`--no-attach`) after `SessionNotCreatedException` to reduce empty runs."
+  ],
+  "recommended_queries": [
+    "founder decision making books under uncertainty case studies -youtube -reddit -quora -facebook",
+    "practical systems thinking books for operators feedback loops bottlenecks execution -youtube -reddit",
+    "books for founder emotional discipline stress reactivity cognitive reframing -youtube -reddit",
+    "books to stop overthinking and increase daily execution implementation intentions -youtube -reddit",
+    "evidence based books on self regulation and habit formation for leaders google scholar",
+    "best new leadership and founder discipline books 2025 2026 reviews google news"
+  ],
+  "next_experiment": "Run one A/B cycle on the same profile: A=current pipeline, B=patched routing+source filter+fit scorer with the 6 queries above. Success criteria: >=80% non-empty valid artifacts, >=60% opened sources from trusted domains, <=15% low-signal domains, and every recommendation includes Week1-4 actions plus one measurable weekly metric."
+}

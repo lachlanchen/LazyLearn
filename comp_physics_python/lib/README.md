@@ -1,13 +1,13 @@
-# Shared Library (4570\_lib)
+# Shared Library (4570_lib)
 
 `4570_lib/lib/src` hosts the reusable building blocks referenced throughout the
 textbook:
 
-| Folder | Purpose |
-| --- | --- |
-| `matrix/` | Dense/sparse linear algebra utilities (Gauss elimination, eigen-decompositions, Gram–Schmidt). |
-| `numerov/` | The general Numerov integrator used from Chapters 2, 5, and 6. |
-| `rangen/` | Combined linear-congruential + shift-register random-number generators. |
+| Folder           | Purpose                                                                                             |
+| ---------------- | --------------------------------------------------------------------------------------------------- |
+| `matrix/`        | Dense/sparse linear algebra utilities (Gauss elimination, eigen-decompositions, Gram–Schmidt).      |
+| `numerov/`       | The general Numerov integrator used from Chapters 2, 5, and 6.                                      |
+| `rangen/`        | Combined linear-congruential + shift-register random-number generators.                             |
 | `XPS/`, `XPS_1/` | Pseudopotential support (Angular integrals, Bessel transforms) for X-ray photoelectron simulations. |
 
 The Python port keeps these in `comp_physics_python.lib` so all chapter modules
@@ -17,11 +17,11 @@ can import the same tested routines.
 
 Key routines:
 
-* `gauss.f` – Gaussian elimination with partial pivoting, solving $A x = b$ and
+- `gauss.f` – Gaussian elimination with partial pivoting, solving $A x = b$ and
   returning the determinant (used in §6 and §11).
-* `jacobi.f` – Jacobi eigenvalue algorithm for symmetric matrices (used in the
+- `jacobi.f` – Jacobi eigenvalue algorithm for symmetric matrices (used in the
   transfer-matrix chapter).
-* `gramschmidt.f` – Modified Gram–Schmidt orthonormalisation, required by the
+- `gramschmidt.f` – Modified Gram–Schmidt orthonormalisation, required by the
   Car–Parrinello constraint solver.
 
 Python counterparts will live in `matrix_utils.py`, wrapping NumPy/SciPy while
@@ -45,10 +45,10 @@ implementation (`numerov.py`) already exists and matches the FORTRAN interface.
 
 `rangen` implements:
 
-* **L’Ecuyer combined LCG:** period ≈ $2^{61}$, used in Monte Carlo chapters.
-* **Shift-register generator:** XOR feedback on 32-bit words for decorrelated
+- **L’Ecuyer combined LCG:** period ≈ $2^{61}$, used in Monte Carlo chapters.
+- **Shift-register generator:** XOR feedback on 32-bit words for decorrelated
   streams.
-* **Normal deviates:** Box–Muller transform and the polar (Marsaglia) method.
+- **Normal deviates:** Box–Muller transform and the polar (Marsaglia) method.
 
 Python’s `numpy.random.Generator` will act as the default backend, but the port
 will also include a faithful reproduction of the LCG so regression tests can
@@ -58,9 +58,9 @@ match the original bit sequences.
 
 These directories supply:
 
-* Radial Bessel transforms $\int_0^\infty r^2 R_{nl}(r) j_l(kr) \, \mathrm{d}r$.
-* Angular coupling coefficients (Clebsch–Gordan tables).
-* Tabulated atomic form factors.
+- Radial Bessel transforms $\int_0^\infty r^2 R_{nl}(r) j_l(kr) \, \mathrm{d}r$.
+- Angular coupling coefficients (Clebsch–Gordan tables).
+- Tabulated atomic form factors.
 
 Even though the LazyPhysicsAndChemistry repo does not yet expose XPS examples,
 the shared data structures are useful for future spectroscopy notebooks. The

@@ -76,7 +76,7 @@ $$
 E = N_e E_0 - E_H + E_x + E_c
 $$
 
-drops below the requested tolerance.  The script prints the converged orbital
+drops below the requested tolerance. The script prints the converged orbital
 energy and the total Hartree/DFT energy, and stores the radial potentials in an
 `.npz` file for post-processing. Example:
 

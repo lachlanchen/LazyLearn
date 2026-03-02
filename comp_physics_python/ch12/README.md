@@ -55,10 +55,10 @@ $$
 whose Green’s function is approximated as the product of diffusion,
 drift, and branching:
 
-* **Diffusion:** $\mathbf{R}' = \mathbf{R} + \sqrt{\tau} \, \eta$.
-* **Drift:** $\mathbf{F} = 2 \nabla \ln \Psi_T$, as in VMC, but evaluated at the
+- **Diffusion:** $\mathbf{R}' = \mathbf{R} + \sqrt{\tau} \, \eta$.
+- **Drift:** $\mathbf{F} = 2 \nabla \ln \Psi_T$, as in VMC, but evaluated at the
   midpoint $\bar{\mathbf{R}} = (\mathbf{R}+\mathbf{R}')/2$.
-* **Branching weight:** $w = \exp[-\tau (E_L(\mathbf{R}') + E_L(\mathbf{R}) - 2E_T)/2]$.
+- **Branching weight:** $w = \exp[-\tau (E_L(\mathbf{R}') + E_L(\mathbf{R}) - 2E_T)/2]$.
 
 Walkers are replicated or removed according to $w$, keeping the population near
 the target size by adjusting $E_T$ via Eq. (12.28):
@@ -79,7 +79,7 @@ $\Delta \tau = \beta / M$. The $N$-boson partition function becomes a classical
 polymer integral with action
 
 $$
-S = \sum_{k=1}^{M} \sum_{i=1}^{N} 
+S = \sum_{k=1}^{M} \sum_{i=1}^{N}
 \frac{(\mathbf{r}_{i,k} - \mathbf{r}_{i,k+1})^2}{4 \lambda \Delta \tau}
 + \Delta \tau \, V(\mathbf{r}_{i,k}),
 $$
@@ -125,11 +125,11 @@ implicit (ADI) scheme to maintain stability.
 
 Each subfolder of `comp_physics_python/ch12` will target one algorithm:
 
-* `vmc.py` – reusable Metropolis + drift moves, local-energy estimators, and
+- `vmc.py` – reusable Metropolis + drift moves, local-energy estimators, and
   automatic differentiation of trial wavefunctions.
-* `dmc.py` – walker object with branching, population control, and mixed
+- `dmc.py` – walker object with branching, population control, and mixed
   estimators (energy, radius).
-* `pimc.py` – bosonic worldline sampler with permutation updates and energy
+- `pimc.py` – bosonic worldline sampler with permutation updates and energy
   estimators (kinetic via virial theorem, potential via slice averaging).
-* `fokker_planck.py` – Crank–Nicolson / ADI solvers for general drift/diffusion
+- `fokker_planck.py` – Crank–Nicolson / ADI solvers for general drift/diffusion
   coefficients, exposing diagnostics such as current conservation.

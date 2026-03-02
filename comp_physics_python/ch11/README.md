@@ -74,8 +74,8 @@ employing sparse basis states labelled by bit strings. The Hamiltonian matrix is
 built in the $S_z$-conserving basis and diagonalised with LAPACK (dense) for
 $L \lesssim 16$. Observables:
 
-* Ground-state energy density $e_0 = E_0/L$.
-* Spin–spin correlators $C(r) = \langle S_i^z S_{i+r}^z \rangle$ via exact
+- Ground-state energy density $e_0 = E_0/L$.
+- Spin–spin correlators $C(r) = \langle S_i^z S_{i+r}^z \rangle$ via exact
   state vectors.
 
 ### 2.2 Density Matrix Renormalisation Group (`dmrg/`)
@@ -103,10 +103,10 @@ $\epsilon = \sum_{\alpha>m} \lambda_\alpha^2$.
 
 The Python module will ship two entry points:
 
-* `transfer_matrix.py` – builds arbitrary $2 \times 2$ matrices, computes
+- `transfer_matrix.py` – builds arbitrary $2 \times 2$ matrices, computes
   $\lambda_{0,1}$, magnetisation, susceptibility, and correlation lengths as a
   function of $(J, h, T)$.
-* `spin_chain.py` – exposes both ED and DMRG solvers, sharing tensor-function
+- `spin_chain.py` – exposes both ED and DMRG solvers, sharing tensor-function
   helpers (Kronecker products, reduced density matrices, Lanczos iterations).
 
 Both will emit numerical data matching the book’s figures so the docs site can

@@ -1,6 +1,5 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
-
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
 # LazyPhysics and Chemistry
@@ -14,12 +13,12 @@
 
 ## 📌 Tóm tắt nhanh
 
-| Tiêu chí | Nội dung repository | 
-| --- | --- |
-| Kiểu luồng công việc | Không gian học vật lý + hóa học tái lập được |
-| Kết quả đầu ra | Script, notebook, hình ảnh đã tạo và tài liệu tĩnh |
-| Mô hình hợp tác | Thử nghiệm tại gốc + xuất bản website công khai |
-| Phạm vi bản dịch | Các file README mirror trong `i18n/` |
+| Tiêu chí             | Nội dung repository                                |
+| -------------------- | -------------------------------------------------- |
+| Kiểu luồng công việc | Không gian học vật lý + hóa học tái lập được       |
+| Kết quả đầu ra       | Script, notebook, hình ảnh đã tạo và tài liệu tĩnh |
+| Mô hình hợp tác      | Thử nghiệm tại gốc + xuất bản website công khai    |
+| Phạm vi bản dịch     | Các file README mirror trong `i18n/`               |
 
 LazyPhysics and Chemistry là phần mã và notebook của **LazyLearn**: một nhật ký học vật lý và hóa học thực hành, học chậm có chủ đích. Các ghi chú sống động, thành quả và TODO được xuất bản tại [learn.lazying.art](https://learn.lazying.art) (phục vụ từ `docs/` trong repository này), trong khi các sản phẩm có thể chạy được được giữ lại ở đây để thí nghiệm luôn có nơi lưu trữ có thể tái tạo.
 
@@ -47,16 +46,16 @@ Kho mã này được thiết kế dạng mixed-format có chủ đích, không 
 
 ### Nội dung chính
 
-| Đường dẫn | Mục đích |
-| --- | --- |
-| `examples/` | Script Python trọng tâm (QAOA + VQE) chạy với Qiskit hoặc PennyLane. |
-| `comp_physics/` | Notebook vật lý tính toán, script hỗ trợ như `numerov.py`, cùng dữ liệu/hình ảnh đi kèm. |
-| `comp_physics_python/` | Bản port Python của *Computational Physics* của Jos Thijssen, tổ chức theo chương (xem [comp_physics_python/README.md](comp_physics_python/README.md)). |
-| `multiwfn/` | Bộ nguồn và manual Multiwfn 3.8 cho người phát triển, kèm tài liệu tham khảo cục bộ. |
-| `figures/` | Kết quả PNG/SVG tĩnh dùng trong báo cáo/slides và README. |
-| `figs/` | Asset logo và banner. |
-| `docs/` | Nội dung microsite LazyLearn (được phục vụ bởi GitHub Pages hoặc máy chủ tĩnh khác). |
-| `i18n/` | Các file README bản địa hóa. |
+| Đường dẫn              | Mục đích                                                                                                                                                |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `examples/`            | Script Python trọng tâm (QAOA + VQE) chạy với Qiskit hoặc PennyLane.                                                                                    |
+| `comp_physics/`        | Notebook vật lý tính toán, script hỗ trợ như `numerov.py`, cùng dữ liệu/hình ảnh đi kèm.                                                                |
+| `comp_physics_python/` | Bản port Python của _Computational Physics_ của Jos Thijssen, tổ chức theo chương (xem [comp_physics_python/README.md](comp_physics_python/README.md)). |
+| `multiwfn/`            | Bộ nguồn và manual Multiwfn 3.8 cho người phát triển, kèm tài liệu tham khảo cục bộ.                                                                    |
+| `figures/`             | Kết quả PNG/SVG tĩnh dùng trong báo cáo/slides và README.                                                                                               |
+| `figs/`                | Asset logo và banner.                                                                                                                                   |
+| `docs/`                | Nội dung microsite LazyLearn (được phục vụ bởi GitHub Pages hoặc máy chủ tĩnh khác).                                                                    |
+| `i18n/`                | Các file README bản địa hóa.                                                                                                                            |
 
 Bố cục đại diện:
 
@@ -82,12 +81,12 @@ LazyLearn/
 
 ## Yêu cầu trước khi chạy 🧰
 
-| Yêu cầu | Ghi chú |
-| --- | --- |
-| Python 3.x | Bắt buộc cho script ở root và hầu hết công việc notebook. |
-| `pip` (hoặc Conda) | Dùng cho quản lý package/môi trường. |
-| Jupyter Lab/Notebook (tùy chọn) | Cần cho luồng làm việc với notebook. |
-| Gaussian 16 + GaussView (tùy chọn) | Cần cho workflow Gaussian. |
+| Yêu cầu                            | Ghi chú                                                   |
+| ---------------------------------- | --------------------------------------------------------- |
+| Python 3.x                         | Bắt buộc cho script ở root và hầu hết công việc notebook. |
+| `pip` (hoặc Conda)                 | Dùng cho quản lý package/môi trường.                      |
+| Jupyter Lab/Notebook (tùy chọn)    | Cần cho luồng làm việc với notebook.                      |
+| Gaussian 16 + GaussView (tùy chọn) | Cần cho workflow Gaussian.                                |
 
 ## Cài đặt ⚙️
 
@@ -102,13 +101,13 @@ pip install qiskit pennylane numpy matplotlib
 
 ### ✅ Checklist thiết lập nhanh
 
-| Bước | Lệnh | Mục tiêu |
-| --- | --- | --- |
-| 1 | `python -m venv .venv` | Tạo môi trường cô lập |
-| 2 | `source .venv/bin/activate` (hoặc tương đương theo OS) | Tránh xung đột dependency |
-| 3 | `pip install --upgrade pip` | Đảm bảo công cụ package luôn cập nhật |
-| 4 | `pip install qiskit pennylane numpy matplotlib` | Cài stack thử nghiệm nền tảng |
-| 5 | Chạy một script trong `examples/` | Kiểm tra cài đặt end-to-end |
+| Bước | Lệnh                                                   | Mục tiêu                              |
+| ---- | ------------------------------------------------------ | ------------------------------------- |
+| 1    | `python -m venv .venv`                                 | Tạo môi trường cô lập                 |
+| 2    | `source .venv/bin/activate` (hoặc tương đương theo OS) | Tránh xung đột dependency             |
+| 3    | `pip install --upgrade pip`                            | Đảm bảo công cụ package luôn cập nhật |
+| 4    | `pip install qiskit pennylane numpy matplotlib`        | Cài stack thử nghiệm nền tảng         |
+| 5    | Chạy một script trong `examples/`                      | Kiểm tra cài đặt end-to-end           |
 
 Jupyter notebook trong `comp_physics/` sử dụng cùng môi trường này. Khởi chạy bằng:
 
@@ -167,7 +166,7 @@ Nếu cần thêm dependency, hãy ghi lại vào `comp_physics/environments.yam
 
 ## Dịch mã giáo trình 📚
 
-`comp_physics_python/` là bản dịch Python đang mở rộng từ các chương trình Fortran kinh điển của *Computational Physics*. Ví dụ ánh xạ theo chương:
+`comp_physics_python/` là bản dịch Python đang mở rộng từ các chương trình Fortran kinh điển của _Computational Physics_. Ví dụ ánh xạ theo chương:
 
 - `ch4/`: ví dụ Hartree-Fock.
 - `ch8/`: solver molecular dynamics.
@@ -223,14 +222,14 @@ exec "$GV_SH" "$@"
 
 Dùng mục này như điểm khởi động cho công việc hằng ngày:
 
-| Khu vực | Bắt đầu từ |
-| --- | --- |
-| Demo lượng tử | `examples/` |
-| Notebook vật lý | `comp_physics/` |
-| Dịch bản textbook | `comp_physics_python/` |
-| Công cụ hóa lượng tử | `multiwfn/` |
-| Kết quả đã xuất bản | `docs/` |
-| Hình ảnh minh họa | `figures/`, `figs/` |
+| Khu vực              | Bắt đầu từ             |
+| -------------------- | ---------------------- |
+| Demo lượng tử        | `examples/`            |
+| Notebook vật lý      | `comp_physics/`        |
+| Dịch bản textbook    | `comp_physics_python/` |
+| Công cụ hóa lượng tử | `multiwfn/`            |
+| Kết quả đã xuất bản  | `docs/`                |
+| Hình ảnh minh họa    | `figures/`, `figs/`    |
 
 ### Ghi chú quản lý phiên bản
 
@@ -274,8 +273,8 @@ Trước khi nộp cập nhật nội dung lớn, giữ file hình đã tạo tr
 
 ## ❤️ Support
 
-| Donate | PayPal | Stripe |
-| --- | --- | --- |
+| Donate                                                                                                                                                                                                                                                                                                                                                     | PayPal                                                                                                                                                                                                                                                                                                                                                          | Stripe                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
 
 ## License 📄

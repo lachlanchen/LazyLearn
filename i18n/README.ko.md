@@ -1,8 +1,6 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
-
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
-
 
 # LazyPhysics와 화학
 
@@ -15,12 +13,12 @@
 
 ## 📌 한눈에 보기
 
-| 구분 | 이 저장소 역할 |
-| --- | --- |
+| 구분           | 이 저장소 역할                            |
+| -------------- | ----------------------------------------- |
 | 작업 흐름 유형 | 재현 가능한 물리 + 화학 학습 워크스페이스 |
-| 제공 항목 | 스크립트, 노트북, 생성된 도표, 정적 문서 |
-| 협업 모델 | 루트 실험 + 공개 사이트 배포 |
-| 번역 범위 | `i18n/`의 README 미러 파일 |
+| 제공 항목      | 스크립트, 노트북, 생성된 도표, 정적 문서  |
+| 협업 모델      | 루트 실험 + 공개 사이트 배포              |
+| 번역 범위      | `i18n/`의 README 미러 파일                |
 
 LazyPhysics와 화학은 **LazyLearn**의 코드+노트북 파트입니다. 물리 및 화학을 위한 의도적으로 느긋한 실전 학습 로그입니다. 진행 중인 노트, 성과, TODO는 [learn.lazying.art](https://learn.lazying.art)(이 저장소의 `docs/`에서 제공)에서 공개되며, 실행 가능한 산출물은 이곳에 남겨두어 모든 실험의 재현 가능한 보관소로 둡니다.
 
@@ -48,16 +46,16 @@ LazyPhysics와 화학은 **LazyLearn**의 코드+노트북 파트입니다. 물�
 
 ### 이곳에 있는 것
 
-| 경로 | 목적 |
-| --- | --- |
-| `examples/` | Qiskit 또는 PennyLane으로 실행되는 QAOA + VQE 집중형 Python 스크립트. |
-| `comp_physics/` | 전산 물리 노트북, `numerov.py` 같은 도우미 스크립트, 지원 데이터/도표. |
-| `comp_physics_python/` | Jos Thijssen의 *Computational Physics* 파이썬 포팅판, 장별 구성([comp_physics_python/README.md](comp_physics_python/README.md) 참조). |
-| `multiwfn/` | Multiwfn 3.8 개발자 소스 번들과 로컬 참조용 매뉴얼. |
-| `figures/` | 보고서/슬라이드 및 README에서 쓰는 정적 PNG/SVG 결과물. |
-| `figs/` | 로고와 배너 자산. |
-| `docs/` | LazyLearn 마이크로사이트 콘텐츠(GitHub Pages 또는 기타 정적 호스팅에서 제공). |
-| `i18n/` | 지역화된 README 파일. |
+| 경로                   | 목적                                                                                                                                  |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| `examples/`            | Qiskit 또는 PennyLane으로 실행되는 QAOA + VQE 집중형 Python 스크립트.                                                                 |
+| `comp_physics/`        | 전산 물리 노트북, `numerov.py` 같은 도우미 스크립트, 지원 데이터/도표.                                                                |
+| `comp_physics_python/` | Jos Thijssen의 _Computational Physics_ 파이썬 포팅판, 장별 구성([comp_physics_python/README.md](comp_physics_python/README.md) 참조). |
+| `multiwfn/`            | Multiwfn 3.8 개발자 소스 번들과 로컬 참조용 매뉴얼.                                                                                   |
+| `figures/`             | 보고서/슬라이드 및 README에서 쓰는 정적 PNG/SVG 결과물.                                                                               |
+| `figs/`                | 로고와 배너 자산.                                                                                                                     |
+| `docs/`                | LazyLearn 마이크로사이트 콘텐츠(GitHub Pages 또는 기타 정적 호스팅에서 제공).                                                         |
+| `i18n/`                | 지역화된 README 파일.                                                                                                                 |
 
 대표 레이아웃:
 
@@ -83,12 +81,12 @@ LazyLearn/
 
 ## 사전 요구사항 🧰
 
-| 요구사항 | 참고 |
-| --- | --- |
-| Python 3.x | 루트 스크립트와 대부분 노트북 작업에 필요. |
-| `pip` (또는 Conda) | 패키지/환경 관리. |
-| Jupyter Lab/Notebook (선택) | 노트북 워크플로우를 위해 필요. |
-| Gaussian 16 + GaussView (선택) | Gaussian 워크플로우에 필요. |
+| 요구사항                       | 참고                                       |
+| ------------------------------ | ------------------------------------------ |
+| Python 3.x                     | 루트 스크립트와 대부분 노트북 작업에 필요. |
+| `pip` (또는 Conda)             | 패키지/환경 관리.                          |
+| Jupyter Lab/Notebook (선택)    | 노트북 워크플로우를 위해 필요.             |
+| Gaussian 16 + GaussView (선택) | Gaussian 워크플로우에 필요.                |
 
 ## 설치 ⚙️
 
@@ -103,13 +101,13 @@ pip install qiskit pennylane numpy matplotlib
 
 ### ✅ 빠른 설정 체크리스트
 
-| 단계 | 명령 | 목적 |
-| --- | --- | --- |
-| 1 | `python -m venv .venv` | 격리된 환경 생성 |
-| 2 | `source .venv/bin/activate` (또는 OS 대응 명령) | 의존성 충돌 방지 |
-| 3 | `pip install --upgrade pip` | 최신 패키지 툴 사용 |
-| 4 | `pip install qiskit pennylane numpy matplotlib` | 핵심 실험 스택 설치 |
-| 5 | `examples/`의 스크립트 하나 실행 | 설치를 엔드투엔드로 검증 |
+| 단계 | 명령                                            | 목적                     |
+| ---- | ----------------------------------------------- | ------------------------ |
+| 1    | `python -m venv .venv`                          | 격리된 환경 생성         |
+| 2    | `source .venv/bin/activate` (또는 OS 대응 명령) | 의존성 충돌 방지         |
+| 3    | `pip install --upgrade pip`                     | 최신 패키지 툴 사용      |
+| 4    | `pip install qiskit pennylane numpy matplotlib` | 핵심 실험 스택 설치      |
+| 5    | `examples/`의 스크립트 하나 실행                | 설치를 엔드투엔드로 검증 |
 
 `comp_physics/` 내 Jupyter 노트북은 같은 환경을 사용합니다. 다음으로 실행합니다:
 
@@ -224,14 +222,14 @@ exec "$GV_SH" "$@"
 
 매일 작업할 때 출발점으로 사용하세요:
 
-| 영역 | 시작 위치 |
-| --- | --- |
-| 양자 데모 | `examples/` |
-| 물리 노트북 | `comp_physics/` |
-| 교재 번역 | `comp_physics_python/` |
-| 양자 화학 도구 | `multiwfn/` |
-| 공개 산출물 | `docs/` |
-| 도표 및 일러스트 | `figures/`, `figs/` |
+| 영역             | 시작 위치              |
+| ---------------- | ---------------------- |
+| 양자 데모        | `examples/`            |
+| 물리 노트북      | `comp_physics/`        |
+| 교재 번역        | `comp_physics_python/` |
+| 양자 화학 도구   | `multiwfn/`            |
+| 공개 산출물      | `docs/`                |
+| 도표 및 일러스트 | `figures/`, `figs/`    |
 
 ### 버전 관리 노트
 
@@ -260,9 +258,8 @@ python -m http.server --directory docs
 - `comp_physics_python/` 장 커버리지를 계속 확장(전이 행렬, DMC/PIMC, FEM 등).
 - 스크립트와 노트북 전반에서 출력/플롯 규약 통일.
 
-
 ## ❤️ Support
 
-| Donate | PayPal | Stripe |
-| --- | --- | --- |
+| Donate                                                                                                                                                                                                                                                                                                                                                     | PayPal                                                                                                                                                                                                                                                                                                                                                          | Stripe                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |

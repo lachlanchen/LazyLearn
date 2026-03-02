@@ -2,12 +2,12 @@
 
 `4568_ch15/ch15` contains the Monte Carlo algorithms discussed in §15:
 
-* `Wolff.F90`, `wolff_xy.F90` – single-cluster Wolff updates for Ising and XY
+- `Wolff.F90`, `wolff_xy.F90` – single-cluster Wolff updates for Ising and XY
   models.
-* `SW.F90` – Swendsen–Wang multi-cluster algorithm.
-* `BackTrack.F90` – backtracking cluster builder used to illustrate percolation.
-* `hosh_kop.f90` – Hoshen–Kopelman cluster labelling for analysing percolation.
-* `xy.F90` – Metropolis XY model for comparison.
+- `SW.F90` – Swendsen–Wang multi-cluster algorithm.
+- `BackTrack.F90` – backtracking cluster builder used to illustrate percolation.
+- `hosh_kop.f90` – Hoshen–Kopelman cluster labelling for analysing percolation.
+- `xy.F90` – Metropolis XY model for comparison.
 
 This README summarises the mathematics that will inform the Python rewrite.
 
@@ -78,20 +78,20 @@ $\theta_i \rightarrow \theta_i + \delta$, $\delta \in [-\Delta, \Delta]$.
 `BackTrack` demonstrates recursive cluster growth while
 `hosh_kop` implements Hoshen–Kopelman labelling:
 
-* Maintain equivalence classes via union–find.
-* As the lattice is scanned row by row, assign the smallest neighbour label and
+- Maintain equivalence classes via union–find.
+- As the lattice is scanned row by row, assign the smallest neighbour label and
   record equivalences.
-* After the pass, compress labels to obtain contiguous cluster IDs.
+- After the pass, compress labels to obtain contiguous cluster IDs.
 
 The Python port will reuse this union–find for SW and observables such as the
 percolation strength $P_\infty = \max_\mathcal{C} \lvert \mathcal{C} \rvert / N$.
 
 ## Python roadmap
 
-* `ising_cluster.py` – shared FK bond builder + Hoshen–Kopelman implementation.
-* `wolff.py` – Ising and XY single-cluster updates (random axis reflection).
-* `sw.py` – multi-cluster Swendsen–Wang sweeps with parallel labelling.
-* `observables.py` – magnetisation, susceptibility, Binder cumulant, vortex
+- `ising_cluster.py` – shared FK bond builder + Hoshen–Kopelman implementation.
+- `wolff.py` – Ising and XY single-cluster updates (random axis reflection).
+- `sw.py` – multi-cluster Swendsen–Wang sweeps with parallel labelling.
+- `observables.py` – magnetisation, susceptibility, Binder cumulant, vortex
   density (for XY).
 
 All modules will expose hooks to accumulate autocorrelation data so the LazyLearn

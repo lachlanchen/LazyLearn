@@ -1,8 +1,6 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
-
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
-
 
 # LazyPhysics and Chemistry
 
@@ -15,12 +13,12 @@
 
 ## 📌 概覽
 
-| 目標 | 本倉庫用途 |
-| --- | --- |
-| 工作流程類型 | 可重現的物理＋化學學習工作區 |
-| 交付內容 | 腳本、筆記本、產生圖表與靜態文件 |
-| 協作模式 | 根目錄實驗 + 公開站點發布 |
-| 翻譯覆蓋 | `i18n/` 內的 README 鏡像檔 |
+| 目標         | 本倉庫用途                       |
+| ------------ | -------------------------------- |
+| 工作流程類型 | 可重現的物理＋化學學習工作區     |
+| 交付內容     | 腳本、筆記本、產生圖表與靜態文件 |
+| 協作模式     | 根目錄實驗 + 公開站點發布        |
+| 翻譯覆蓋     | `i18n/` 內的 README 鏡像檔       |
 
 LazyPhysics and Chemistry 是 **LazyLearn** 的程式碼與筆記本部分：一份有意放慢節奏、著重實際應用的物理與化學學習誌。持續更新的筆記、成果與待辦會發布在 [learn.lazying.art](https://learn.lazying.art)（本倉庫 `docs/` 提供服務），而可執行成果則保留在此，讓每個實驗都有可重現的歸處。
 
@@ -48,16 +46,16 @@ LazyPhysics and Chemistry 是 **LazyLearn** 的程式碼與筆記本部分：一
 
 ### 目錄內容
 
-| 路徑 | 用途 |
-| --- | --- |
-| `examples/` | 使用 Qiskit 或 PennyLane 的精簡 Python 腳本（QAOA + VQE）。 |
-| `comp_physics/` | 計算物理筆記本、輔助腳本（如 `numerov.py`）以及配套資料與圖表。 |
+| 路徑                   | 用途                                                                                                                                            |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| `examples/`            | 使用 Qiskit 或 PennyLane 的精簡 Python 腳本（QAOA + VQE）。                                                                                     |
+| `comp_physics/`        | 計算物理筆記本、輔助腳本（如 `numerov.py`）以及配套資料與圖表。                                                                                 |
 | `comp_physics_python/` | Jos Thijssen《Computational Physics》教材程式的 Python 版，按章節整理（見 [comp_physics_python/README.md](../comp_physics_python/README.md)）。 |
-| `multiwfn/` | Multiwfn 3.8 開發者原始碼套件與操作手冊，供本機參考。 |
-| `figures/` | 報告／投影片與 README 使用的靜態 PNG/SVG 輸出。 |
-| `figs/` | 標誌與橫幅素材。 |
-| `docs/` | LazyLearn 微網站內容（由 GitHub Pages 或任何靜態主機提供）。 |
-| `i18n/` | 本地化 README 檔案。 |
+| `multiwfn/`            | Multiwfn 3.8 開發者原始碼套件與操作手冊，供本機參考。                                                                                           |
+| `figures/`             | 報告／投影片與 README 使用的靜態 PNG/SVG 輸出。                                                                                                 |
+| `figs/`                | 標誌與橫幅素材。                                                                                                                                |
+| `docs/`                | LazyLearn 微網站內容（由 GitHub Pages 或任何靜態主機提供）。                                                                                    |
+| `i18n/`                | 本地化 README 檔案。                                                                                                                            |
 
 目錄範例：
 
@@ -83,12 +81,12 @@ LazyLearn/
 
 ## 前置條件 🧰
 
-| 需求 | 說明 |
-| --- | --- |
-| Python 3.x | 根目錄腳本與大多數筆記本作業所需。 |
-| `pip`（或 Conda） | 套件/環境管理。 |
-| Jupyter Lab/Notebook（可選） | 筆記本工作流程所需。 |
-| Gaussian 16 + GaussView（可選） | Gaussian 工作流程所需。 |
+| 需求                            | 說明                               |
+| ------------------------------- | ---------------------------------- |
+| Python 3.x                      | 根目錄腳本與大多數筆記本作業所需。 |
+| `pip`（或 Conda）               | 套件/環境管理。                    |
+| Jupyter Lab/Notebook（可選）    | 筆記本工作流程所需。               |
+| Gaussian 16 + GaussView（可選） | Gaussian 工作流程所需。            |
 
 ## 安裝 ⚙️
 
@@ -103,13 +101,13 @@ pip install qiskit pennylane numpy matplotlib
 
 ### ✅ 快速設定清單
 
-| 步驟 | 指令 | 目的 |
-| --- | --- | --- |
-| 1 | `python -m venv .venv` | 建立獨立環境 |
-| 2 | `source .venv/bin/activate`（或作業系統等效指令） | 避免套件衝突 |
-| 3 | `pip install --upgrade pip` | 確保套件工具為最新 |
-| 4 | `pip install qiskit pennylane numpy matplotlib` | 安裝核心實驗套件 |
-| 5 | 執行 `examples/` 中任一腳本 | 驗證安裝流程是否通順 |
+| 步驟 | 指令                                              | 目的                 |
+| ---- | ------------------------------------------------- | -------------------- |
+| 1    | `python -m venv .venv`                            | 建立獨立環境         |
+| 2    | `source .venv/bin/activate`（或作業系統等效指令） | 避免套件衝突         |
+| 3    | `pip install --upgrade pip`                       | 確保套件工具為最新   |
+| 4    | `pip install qiskit pennylane numpy matplotlib`   | 安裝核心實驗套件     |
+| 5    | 執行 `examples/` 中任一腳本                       | 驗證安裝流程是否通順 |
 
 `comp_physics/` 內的 Jupyter 筆記本與同一個環境共用。啟動方式：
 
@@ -168,7 +166,7 @@ python examples/pennylane_chemistry_h2_vqe.py
 
 ## 教材程式移植 📚
 
-`comp_physics_python/` 是正在建立的經典 *Computational Physics* Fortran 程式 Python 譯本。章節對照示例：
+`comp_physics_python/` 是正在建立的經典 _Computational Physics_ Fortran 程式 Python 譯本。章節對照示例：
 
 - `ch4/`：Hartree-Fock 示例。
 - `ch8/`：分子動力學求解器。
@@ -224,14 +222,14 @@ exec "$GV_SH" "$@"
 
 可作為日常工作的啟動點：
 
-| 區域 | 從這裡開始 |
-| --- | --- |
-| 量子示範 | `examples/` |
-| 物理筆記本 | `comp_physics/` |
-| 教材移植 | `comp_physics_python/` |
-| 量子化學工具 | `multiwfn/` |
-| 已發布輸出 | `docs/` |
-| 圖示與插圖 | `figures/`、`figs/` |
+| 區域         | 從這裡開始             |
+| ------------ | ---------------------- |
+| 量子示範     | `examples/`            |
+| 物理筆記本   | `comp_physics/`        |
+| 教材移植     | `comp_physics_python/` |
+| 量子化學工具 | `multiwfn/`            |
+| 已發布輸出   | `docs/`                |
+| 圖示與插圖   | `figures/`、`figs/`    |
 
 ### 版本控制備註
 
@@ -260,10 +258,8 @@ python -m http.server --directory docs
 - 持續擴充 `comp_physics_python/` 的章節覆蓋（轉移矩陣、DMC/PIMC、FEM 等）。
 - 統一腳本與筆記本輸出／繪圖規範。
 
-
-
 ## ❤️ Support
 
-| Donate | PayPal | Stripe |
-| --- | --- | --- |
+| Donate                                                                                                                                                                                                                                                                                                                                                     | PayPal                                                                                                                                                                                                                                                                                                                                                          | Stripe                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |

@@ -69,8 +69,8 @@ largest-error elements (according to $\eta_e$) and performs red-green refinement
 
 Key maths to capture in Python:
 
-* Hierarchical basis functions that keep parent/child relations.
-* Energy-norm estimator $\eta = (\sum_e \eta_e^2)^{1/2}$ driving refinement.
+- Hierarchical basis functions that keep parent/child relations.
+- Energy-norm estimator $\eta = (\sum_e \eta_e^2)^{1/2}$ driving refinement.
 
 ## 3. Dynamic FEM (`femdyn/`)
 
@@ -115,12 +115,12 @@ energy difference between consecutive iterations falls below tolerance.
 
 ## Python implementation sketch
 
-* `meshes.py` – mesh loader + refinement utilities shared across submodules.
-* `poisson_fem.py` – reproduces `simplefem` (assembly, boundary conditions,
+- `meshes.py` – mesh loader + refinement utilities shared across submodules.
+- `poisson_fem.py` – reproduces `simplefem` (assembly, boundary conditions,
   error estimators).
-* `ritz_adaptive.py` – hierarchical basis, indicator-driven refinement loop.
-* `wave_fem.py` – lumped-mass explicit integrator with CFL checks.
-* `hmm.py` – orchestrates micro/macro problems with numpy/scipy linear solves.
+- `ritz_adaptive.py` – hierarchical basis, indicator-driven refinement loop.
+- `wave_fem.py` – lumped-mass explicit integrator with CFL checks.
+- `hmm.py` – orchestrates micro/macro problems with numpy/scipy linear solves.
 
 Each solver will emit intermediate diagnostics (energy, estimators) so the
 LazyLearn docs can trace convergence exactly as in chapter figures.

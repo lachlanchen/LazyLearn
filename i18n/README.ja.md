@@ -1,6 +1,5 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
-
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
 # LazyPhysics と Chemistry
@@ -14,12 +13,12 @@
 
 ## 📌 概要
 
-| フォーカス | このリポジトリの内容 |
-| --- | --- |
-| ワークフローの種類 | 再現可能な物理 + 化学の学習ワークスペース |
-| 提供物 | スクリプト、ノートブック、生成済み図、静的ドキュメント |
-| 協働モデル | ルート実験 + 公開サイトへの公開 |
-| 翻訳カバレッジ | `i18n/` の README ミラー |
+| フォーカス         | このリポジトリの内容                                   |
+| ------------------ | ------------------------------------------------------ |
+| ワークフローの種類 | 再現可能な物理 + 化学の学習ワークスペース              |
+| 提供物             | スクリプト、ノートブック、生成済み図、静的ドキュメント |
+| 協働モデル         | ルート実験 + 公開サイトへの公開                        |
+| 翻訳カバレッジ     | `i18n/` の README ミラー                               |
 
 LazyPhysics and Chemistry は **LazyLearn** の「コード + ノートブック」側です。これは物理・化学を「ゆっくり、実務的に」学ぶための意図的な学習ログです。
 `docs/` で公開されている [learn.lazying.art](https://learn.lazying.art) には日々のノートや結果、TODO を掲載し、再現性のある実験素材はこのリポジトリに残して実験の拠点にしています。
@@ -48,16 +47,16 @@ LazyPhysics and Chemistry は **LazyLearn** の「コード + ノートブック
 
 ### この場所にあるもの
 
-| パス | 用途 |
-| --- | --- |
-| `examples/` | QAOA + VQE の Python スクリプト（Qiskit または PennyLane で実行）。 |
-| `comp_physics/` | 計算物理のノートブック、`numerov.py` などの補助スクリプト、関連データ/図。 |
-| `comp_physics_python/` | Jos Thijssen の *Computational Physics* を章ごとに Python 化した実装（詳細は [comp_physics_python/README.md](comp_physics_python/README.md) を参照）。 |
-| `multiwfn/` | Multiwfn 3.8 開発者用ソース一式とローカル参照向けマニュアル。 |
-| `figures/` | レポートやスライド、README で使用する静的 PNG/SVG 出力。 |
-| `figs/` | ロゴやバナーのアセット。 |
-| `docs/` | GitHub Pages などで提供する LazyLearn ミニサイト。 |
-| `i18n/` | ローカライズされた README ファイル。 |
+| パス                   | 用途                                                                                                                                                   |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `examples/`            | QAOA + VQE の Python スクリプト（Qiskit または PennyLane で実行）。                                                                                    |
+| `comp_physics/`        | 計算物理のノートブック、`numerov.py` などの補助スクリプト、関連データ/図。                                                                             |
+| `comp_physics_python/` | Jos Thijssen の _Computational Physics_ を章ごとに Python 化した実装（詳細は [comp_physics_python/README.md](comp_physics_python/README.md) を参照）。 |
+| `multiwfn/`            | Multiwfn 3.8 開発者用ソース一式とローカル参照向けマニュアル。                                                                                          |
+| `figures/`             | レポートやスライド、README で使用する静的 PNG/SVG 出力。                                                                                               |
+| `figs/`                | ロゴやバナーのアセット。                                                                                                                               |
+| `docs/`                | GitHub Pages などで提供する LazyLearn ミニサイト。                                                                                                     |
+| `i18n/`                | ローカライズされた README ファイル。                                                                                                                   |
 
 代表的な構成:
 
@@ -83,12 +82,12 @@ LazyLearn/
 
 ## 前提条件 🧰
 
-| 要件 | 補足 |
-| --- | --- |
-| Python 3.x | ルートのスクリプトとほとんどのノートブック実行に必須。 |
-| `pip`（または Conda） | パッケージ/環境管理。 |
-| Jupyter Lab/Notebook（任意） | ノートブックワークフローの利用時に必要。 |
-| Gaussian 16 + GaussView（任意） | Gaussian ワークフロー時に必要。 |
+| 要件                            | 補足                                                   |
+| ------------------------------- | ------------------------------------------------------ |
+| Python 3.x                      | ルートのスクリプトとほとんどのノートブック実行に必須。 |
+| `pip`（または Conda）           | パッケージ/環境管理。                                  |
+| Jupyter Lab/Notebook（任意）    | ノートブックワークフローの利用時に必要。               |
+| Gaussian 16 + GaussView（任意） | Gaussian ワークフロー時に必要。                        |
 
 ## 導入 ⚙️
 
@@ -103,13 +102,13 @@ pip install qiskit pennylane numpy matplotlib
 
 ### ✅ クイックチェックリスト
 
-| ステップ | コマンド | 目的 |
-| --- | --- | --- |
-| 1 | `python -m venv .venv` | 独立した実行環境を作成 |
-| 2 | `source .venv/bin/activate`（OS に応じた方法） | 依存関係の衝突を防ぐ |
-| 3 | `pip install --upgrade pip` | 最新のパッケージ管理ツールを確保 |
-| 4 | `pip install qiskit pennylane numpy matplotlib` | コアとなる実験スタックを導入 |
-| 5 | `examples/` 内で1本スクリプトを実行 | インストール全体を検証 |
+| ステップ | コマンド                                        | 目的                             |
+| -------- | ----------------------------------------------- | -------------------------------- |
+| 1        | `python -m venv .venv`                          | 独立した実行環境を作成           |
+| 2        | `source .venv/bin/activate`（OS に応じた方法）  | 依存関係の衝突を防ぐ             |
+| 3        | `pip install --upgrade pip`                     | 最新のパッケージ管理ツールを確保 |
+| 4        | `pip install qiskit pennylane numpy matplotlib` | コアとなる実験スタックを導入     |
+| 5        | `examples/` 内で1本スクリプトを実行             | インストール全体を検証           |
 
 `comp_physics/` 内の Jupyter ノートブックは同じ環境を使用します。起動方法:
 
@@ -168,7 +167,7 @@ python examples/pennylane_chemistry_h2_vqe.py
 
 ## 教科書コードの移植 📚
 
-`comp_physics_python/` は *Computational Physics* の古典的 Fortran コードを Python に移植している進行中のリポジトリです。章対応例:
+`comp_physics_python/` は _Computational Physics_ の古典的 Fortran コードを Python に移植している進行中のリポジトリです。章対応例:
 
 - `ch4/`: ハートリー・フォック関連の例。
 - `ch8/`: 分子動力学ソルバー。
@@ -224,14 +223,14 @@ exec "$GV_SH" "$@"
 
 日々の作業開始ポイント:
 
-| エリア | 開始位置 |
-| --- | --- |
-| 量子デモ | `examples/` |
-| 物理ノートブック | `comp_physics/` |
-| 教科書翻訳 | `comp_physics_python/` |
-| 量子化学ツール | `multiwfn/` |
-| 公開成果物 | `docs/` |
-| 図表・イラスト | `figures/`、`figs/` |
+| エリア           | 開始位置               |
+| ---------------- | ---------------------- |
+| 量子デモ         | `examples/`            |
+| 物理ノートブック | `comp_physics/`        |
+| 教科書翻訳       | `comp_physics_python/` |
+| 量子化学ツール   | `multiwfn/`            |
+| 公開成果物       | `docs/`                |
+| 図表・イラスト   | `figures/`、`figs/`    |
 
 ### バージョン管理ノート
 
@@ -275,8 +274,8 @@ Issue と Pull Request は歓迎します。特に以下を重視します。
 
 ## ❤️ Support
 
-| Donate | PayPal | Stripe |
-| --- | --- | --- |
+| Donate                                                                                                                                                                                                                                                                                                                                                     | PayPal                                                                                                                                                                                                                                                                                                                                                          | Stripe                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Donate](https://camo.githubusercontent.com/24a4914f0b42c6f435f9e101621f1e52535b02c225764b2f6cc99416926004b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4c617a79696e674172742d3045413545393f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465)](https://chat.lazying.art/donate) | [![PayPal](https://camo.githubusercontent.com/d0f57e8b016517a4b06961b24d0ca87d62fdba16e18bbdb6aba28e978dc0ea21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d526f6e677a686f754368656e2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465)](https://paypal.me/RongzhouChen) | [![Stripe](https://camo.githubusercontent.com/1152dfe04b6943afe3a8d2953676749603fb9f95e24088c92c97a01a897b4942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d446f6e6174652d3633354246463f7374796c653d666f722d7468652d6261646765266c6f676f3d737472697065266c6f676f436f6c6f723d7768697465)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
 
 ## License 📄

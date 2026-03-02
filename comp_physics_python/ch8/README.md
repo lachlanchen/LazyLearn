@@ -1,8 +1,8 @@
 # Chapter 8 – Molecular Dynamics in Python
 
 These scripts reproduce the molecular-dynamics workflows from Thijssen’s
-*Computational Physics* (ch. 8), replacing the original Fortran codes under
-`comp_physics/comp_physics_textbook_code/4561_ch8`.  Everything runs in reduced
+_Computational Physics_ (ch. 8), replacing the original Fortran codes under
+`comp_physics/comp_physics_textbook_code/4561_ch8`. Everything runs in reduced
 Lennard–Jones units so the results match the book’s numbers when you pick the
 same densities and temperatures.
 
@@ -35,7 +35,7 @@ python comp_physics_python/ch8/ar_md.py --n 256 --density 0.8442 --temp 0.722 \
 
 ## 2. Nitrogen (rigid diatomic) – `n2_md.py`
 
-Problem 8.7 treats N₂ as rigid dumbbells of length `ℓ`.  The Python version keeps
+Problem 8.7 treats N₂ as rigid dumbbells of length `ℓ`. The Python version keeps
 all translational DOF explicit (two atoms per molecule) and enforces the bond
 length after every Verlet update.
 

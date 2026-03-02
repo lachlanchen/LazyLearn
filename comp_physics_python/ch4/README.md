@@ -8,7 +8,7 @@ implementations and a short recap of the underlying equations.
 
 Thijssen’s helium program builds a four-function Gaussian basis
 (Section 4.3.2) and solves the restricted Hartree–Fock equations
-self-consistently.  Each primitive is of the form
+self-consistently. Each primitive is of the form
 
 $$ \phi_r(\mathbf{r}) = N_r e^{-\alpha_r r^2}. $$
 
@@ -23,18 +23,18 @@ The key matrices are
 With the closed-shell density $D = 2 c c^\mathrm{T} / (c^\mathrm{T} S c)$, the Fock matrix is
 $F = H + G$ where
 $G_{rs} = \sum_{tu} D_{tu} g_{rstu}$ (the code keeps the FORTRAN convention
-with the 0.5 factors for $t=u$).  The script iterates until the total energy
+with the 0.5 factors for $t=u$). The script iterates until the total energy
 
-$$ E = \varepsilon_0 + \sum_{rs}' D_{rs} H_{rs} $$
+$$ E = \varepsilon*0 + \sum*{rs}' D*{rs} H*{rs} $$
 
-stabilises (`'` denotes the symmetric sum used in the original source).  The
+stabilises (`'` denotes the symmetric sum used in the original source). The
 CLI mimics `Hatom.f` and writes the radial ground-state wave function to
 `WaveFunc_he_py`.
 
 ## H₂ molecule (`h2_hartree_fock.py`)
 
 The H₂ code doubles the Gaussian set: four primitives on each proton separated
-by $R$.  Overlap, kinetic, and Coulomb integrals distinguish between same‑ and
+by $R$. Overlap, kinetic, and Coulomb integrals distinguish between same‑ and
 cross‑centre pairs, e.g.
 
 $$
@@ -42,7 +42,7 @@ S_{rs} = \left(\frac{\pi}{\alpha_r + \alpha_s}\right)^{3/2}
           \exp\!\left[-\frac{\alpha_r \alpha_s}{\alpha_r+\alpha_s} R^2\right]
 $$
 
-for functions located on different nuclei.  The kinetic and Coulomb elements
+for functions located on different nuclei. The kinetic and Coulomb elements
 use the same algebra as `h2.f`, relying on the Boys function
 $F(t) = \sqrt{\pi}\,\mathrm{erf}(\sqrt{t}) / (2\sqrt{t})$.
 

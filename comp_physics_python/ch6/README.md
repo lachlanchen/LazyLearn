@@ -1,6 +1,6 @@
 # Chapter 6 – APW band structure
 
-This folder ports `logapw.f` (Sec. 6.5.2 of *Computational Physics*) to
+This folder ports `logapw.f` (Sec. 6.5.2 of _Computational Physics_) to
 pure Python. The new solver lives under `apw/` and mirrors the FORTRAN logic:
 logarithmic radial grids, Numerov integration, structure-matrix assembly, and
 the determinant scan that locates copper’s energy bands along high-symmetry
@@ -36,16 +36,16 @@ interpolating sign changes (band crossings) and local minima (flat bands).
 
 ## Code layout
 
-| File | Purpose |
-| --- | --- |
-| `constants.py` | All lattice/muffin-tin metadata (`R_\text{MT}`, $a$, default k-paths, energy window). |
-| `kpoints.py` | Reads the `KVectors` table and interpolates IBZ lines. |
-| `special_functions.py` | Reimplements the `special.f` spherical Bessel and Legendre routines. |
-| `numerov.py` | One-to-one port of `numerov.f` (FORTRAN indexing preserved). |
-| `potential.py` | Loads the logarithmic potential and exposes `atom_integrals(E)` for all $\ell$. |
-| `matrices.py` | Builds the $A/B/C$ structure matrices and the Hamiltonian $H(E)$. |
-| `spectrum.py` | High-level driver that scans $\det H(E)$ along a k-path. |
-| `cli.py` | Command-line interface (`python -m comp_physics_python.ch6.apw.cli ...`). |
+| File                   | Purpose                                                                               |
+| ---------------------- | ------------------------------------------------------------------------------------- |
+| `constants.py`         | All lattice/muffin-tin metadata (`R_\text{MT}`, $a$, default k-paths, energy window). |
+| `kpoints.py`           | Reads the `KVectors` table and interpolates IBZ lines.                                |
+| `special_functions.py` | Reimplements the `special.f` spherical Bessel and Legendre routines.                  |
+| `numerov.py`           | One-to-one port of `numerov.f` (FORTRAN indexing preserved).                          |
+| `potential.py`         | Loads the logarithmic potential and exposes `atom_integrals(E)` for all $\ell$.       |
+| `matrices.py`          | Builds the $A/B/C$ structure matrices and the Hamiltonian $H(E)$.                     |
+| `spectrum.py`          | High-level driver that scans $\det H(E)$ along a k-path.                              |
+| `cli.py`               | Command-line interface (`python -m comp_physics_python.ch6.apw.cli ...`).             |
 
 All modules accept the original data files (`potential`, `KVectors`, etc.) out
 of `comp_physics/comp_physics_textbook_code/4560_ch6/ch6/apw`. You may point the
@@ -70,13 +70,13 @@ LazyLearn docs site.
 
 ## Notes on accuracy
 
-* The logarithmic radial grid, potential table, and muffin-tin radius are
+- The logarithmic radial grid, potential table, and muffin-tin radius are
   imported verbatim from the FORTRAN distribution, so the boundary ratios
   $\dot{\chi}_\ell / \chi_\ell$ match to machine precision.
-* Determinants are evaluated with `numpy.linalg.det`, mirroring the BLAS/LAPACK
+- Determinants are evaluated with `numpy.linalg.det`, mirroring the BLAS/LAPACK
   `DGETRF` flow. For stability we explicitly enforce Hermiticity on the
   Hamiltonian (`(H + H^\top)/2`).
-* The quadratic interpolation that adds near-zero minima follows the textbook
+- The quadratic interpolation that adds near-zero minima follows the textbook
   recipe but uses `numpy.polyfit` on three consecutive samples. This removes
   the occasional false positives seen in the original `logapw.f` when the
   determinant is nearly singular.
@@ -126,13 +126,13 @@ previous point’s eigenvalue.
 
 ### Code layout (`pseudo/`)
 
-| File | Purpose |
-| --- | --- |
-| `constants.py` | Silicon-specific metadata (reciprocal lattice constant, $V_3$, $V_8$, $V_{11}$, high-symmetry points). |
-| `hamiltonian.py` | Builds the plane-wave Hamiltonian block $H(\mathbf{k})$ and encodes the distance→potential lookup. |
-| `lowdin.py` | Löwdin partitioning helpers (`U(E)` assembly, eigenvalue selection per band). |
-| `spectrum.py` | Driver that walks high-symmetry lines, runs the initial full diagonalisation, then applies Löwdin updates point by point. |
-| `cli.py` | Command-line interface (`python -m comp_physics_python.ch6.pseudo.cli --line L-Gamma`). |
+| File             | Purpose                                                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| `constants.py`   | Silicon-specific metadata (reciprocal lattice constant, $V_3$, $V_8$, $V_{11}$, high-symmetry points).                    |
+| `hamiltonian.py` | Builds the plane-wave Hamiltonian block $H(\mathbf{k})$ and encodes the distance→potential lookup.                        |
+| `lowdin.py`      | Löwdin partitioning helpers (`U(E)` assembly, eigenvalue selection per band).                                             |
+| `spectrum.py`    | Driver that walks high-symmetry lines, runs the initial full diagonalisation, then applies Löwdin updates point by point. |
+| `cli.py`         | Command-line interface (`python -m comp_physics_python.ch6.pseudo.cli --line L-Gamma`).                                   |
 
 ### Usage
 
@@ -150,12 +150,12 @@ is set, the same data are written as tidy CSV rows for downstream plotting.
 
 ### Notes
 
-* `KVectors` are imported verbatim from the Fortran source, guaranteeing
+- `KVectors` are imported verbatim from the Fortran source, guaranteeing
   identical $\mathbf{K}$ orderings and symmetry.
-* The Löwdin correction uses vectorised NumPy algebra:
+- The Löwdin correction uses vectorised NumPy algebra:
   $H_{AB} (E - H_{BB})^{-1} H_{BA}$ is evaluated in a single matrix multiply,
   matching Eq. (6.55).
-* The level-by-level iteration (`Diag(Level)` in the FORTRAN) is preserved,
+- The level-by-level iteration (`Diag(Level)` in the FORTRAN) is preserved,
   ensuring the Python results trace the same energy sheets as the book figures.
 
 ### Future work
