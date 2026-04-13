@@ -8,6 +8,10 @@ the_theoretical_minimum/
 the_theoretical_minimum
 
 # Local artifacts / datasets
+downloads/
+.transcription_tmp/
+.lecture-notes-work/
+transcription_logs/
 *.chk
 fort.7
 water.chk
