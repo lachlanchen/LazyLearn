@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazylearn/how-you-speak-and-write",
+  "transcript_rel": "lazylearn/how-you-speak-and-write/05 - How to Write a Book\uff1a 13 Steps From a Bestselling Author [yHKKtxliYaY].md",
+  "video_rel": "lazylearn/how-you-speak-and-write/05 - How to Write a Book\uff1a 13 Steps From a Bestselling Author [yHKKtxliYaY].webm",
+  "lecture_number": 5,
+  "lecture_slug": "lecture_05",
+  "lecture_title": "How to Write a Book\uff1a 13 Steps From a Bestselling Author",
+  "assets": [
+    {
+      "name": "lecture_05_figure_03.png",
+      "timestamp_seconds": 253.281,
+      "timestamp_hhmmss": "00:04:13.281",
+      "source_candidate": "lecture_05_window_03_candidate_01_000413281.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame shows the most complete and legible view of the whiteboard at this moment, with the heading and all major bullet points visible and less right-edge cropping than the later candidates. It is the strongest visual record of the lecture's explicit outline structure.",
+      "subtitle_excerpt": "may need to see an entire synopsis of your",
+      "segment_start_seconds": 252.91,
+      "segment_start_hhmmss": "00:04:12.910",
+      "segment_end_seconds": 256.0,
+      "segment_end_hhmmss": "00:04:16.000",
+      "caption_hint": "Outline whiteboard with four key bullets"
+    }
+  ]
+}
