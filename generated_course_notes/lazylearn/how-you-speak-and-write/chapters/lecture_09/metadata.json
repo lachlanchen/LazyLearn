@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazylearn/how-you-speak-and-write",
+  "transcript_rel": "lazylearn/how-you-speak-and-write/09 - How to build a fictional world - Kate Messner [ZQTQSbjecLg].md",
+  "video_rel": "lazylearn/how-you-speak-and-write/09 - How to build a fictional world - Kate Messner [ZQTQSbjecLg].webm",
+  "lecture_number": 9,
+  "lecture_slug": "lecture_09",
+  "lecture_title": "How to build a fictional world - Kate Messner",
+  "assets": [
+    {
+      "name": "lecture_09_figure_03.png",
+      "timestamp_seconds": 129.56,
+      "timestamp_hhmmss": "00:02:09.560",
+      "source_candidate": "lecture_09_window_03_candidate_04_000209560.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the clearest and most complete diagrammatic frame in the set. It shows the reader with an open book, a small story-world figure emerging from the pages, and a contrasting background of people engaged with the outside world. That makes the lecture's point visually legible: a reader may understand the internal world of the book as well as, or better than, the world beyond it.",
+      "subtitle_excerpt": "and sometimes just as well or even better than the reader understands the world outside of the book.",
+      "segment_start_seconds": 124.18,
+      "segment_start_hhmmss": "00:02:04.180",
+      "segment_end_seconds": 130.16,
+      "segment_end_hhmmss": "00:02:10.160",
+      "caption_hint": "reader, book-world, and outside world"
+    }
+  ]
+}
