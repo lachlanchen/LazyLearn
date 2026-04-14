@@ -1,0 +1,52 @@
+{
+  "course_rel": "lazylearn/how-you-speak-and-write",
+  "transcript_rel": "lazylearn/how-you-speak-and-write/13 - The 3-2-1 Speaking Trick That Forces You To Stop Rambling! [5m-C5mwpmxU].md",
+  "video_rel": "lazylearn/how-you-speak-and-write/13 - The 3-2-1 Speaking Trick That Forces You To Stop Rambling! [5m-C5mwpmxU].webm",
+  "lecture_number": 13,
+  "lecture_slug": "lecture_13",
+  "lecture_title": "The 3-2-1 Speaking Trick That Forces You To Stop Rambling!",
+  "assets": [
+    {
+      "name": "lecture_13_figure_01.png",
+      "timestamp_seconds": 0.897,
+      "timestamp_hhmmss": "00:00:00.897",
+      "source_candidate": "lecture_13_window_01_candidate_02_000000897.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This is the clearest and most complete frame of the whiteboard content in this subtitle window. The handwritten '3,2,1' header and bracketed 'Framework' label are both fully visible, sharp, and unobstructed, unlike the tighter crop in candidate 01 and the later frames with the added brain overlay.",
+      "subtitle_excerpt": "How do you train your brain to be able",
+      "segment_start_seconds": 0.0,
+      "segment_start_hhmmss": "00:00:00.000",
+      "segment_end_seconds": 2.36,
+      "segment_end_hhmmss": "00:00:02.360",
+      "caption_hint": "opening 3-2-1 framework board"
+    },
+    {
+      "name": "lecture_13_figure_03.png",
+      "timestamp_seconds": 125.155,
+      "timestamp_hhmmss": "00:02:05.155",
+      "source_candidate": "lecture_13_window_03_candidate_04_000205155.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the clearest simultaneous view of both flipcharts. The left board cleanly shows the 3-2-1 scaffold and its three-line breakdown, while the right board shows the '#Framework' heading with the staged S1-S4 progression. Compared with the earlier candidates, the presenter blocks less of the writing here, so the structural layout is most useful for note reconstruction.",
+      "subtitle_excerpt": "So I immediately can give my brain something to lean on",
+      "segment_start_seconds": 123.36,
+      "segment_start_hhmmss": "00:02:03.360",
+      "segment_end_seconds": 125.4,
+      "segment_end_hhmmss": "00:02:05.400",
+      "caption_hint": "3-2-1 scaffold and stage framework"
+    },
+    {
+      "name": "lecture_13_figure_04.png",
+      "timestamp_seconds": 237.107,
+      "timestamp_hhmmss": "00:03:57.107",
+      "source_candidate": "lecture_13_window_04_candidate_04_000357107.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame is the most useful overview for the subtitle moment because it shows the 3-2-1 framework clearly while also preserving another framework heading on the same board. The board is centered, the writing is relatively sharp, and the layout is more informative for note-writing than the other candidates, which isolate only one framework or show more occluded content.",
+      "subtitle_excerpt": "into the 3-2-1 framework and two other powerful communication frameworks.",
+      "segment_start_seconds": 233.93,
+      "segment_start_hhmmss": "00:03:53.930",
+      "segment_end_seconds": 237.54,
+      "segment_end_hhmmss": "00:03:57.540",
+      "caption_hint": "3-2-1 framework with visibility heading"
+    }
+  ]
+}
