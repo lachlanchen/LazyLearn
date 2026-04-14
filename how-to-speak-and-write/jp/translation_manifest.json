@@ -36,9 +36,9 @@
       "part": "Speak First",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_12/content.tex",
       "target_rel": "how-to-speak-and-write/jp/chapters/lecture_12/content.tex",
-      "status": "pending",
-      "sha256": "",
-      "updated_at": ""
+      "status": "done",
+      "sha256": "9639dbefc5f038dae0da471fdb223ae46739452a3a688e63cf144ecaa37f91ab",
+      "updated_at": "2026-04-14T20:55:46+00:00"
     },
     {
       "key": "lecture_13",
@@ -229,5 +229,5 @@
     }
   ],
   "initialized_at": "2026-04-14T20:49:02+00:00",
-  "updated_at": "2026-04-14T20:53:11+00:00"
+  "updated_at": "2026-04-14T20:55:46+00:00"
 }
