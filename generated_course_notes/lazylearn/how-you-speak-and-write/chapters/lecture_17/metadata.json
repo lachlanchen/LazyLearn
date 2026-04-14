@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazylearn/how-you-speak-and-write",
+  "transcript_rel": "lazylearn/how-you-speak-and-write/17 - Cambridge Professor\uff1a Why All Writing Sounds the Same Now (Robert Macfarlane) [rdsE9XqB2bI].md",
+  "video_rel": "lazylearn/how-you-speak-and-write/17 - Cambridge Professor\uff1a Why All Writing Sounds the Same Now (Robert Macfarlane) [rdsE9XqB2bI].webm",
+  "lecture_number": 17,
+  "lecture_slug": "lecture_17",
+  "lecture_title": "Cambridge Professor\uff1a Why All Writing Sounds the Same Now (Robert Macfarlane)",
+  "assets": [
+    {
+      "name": "lecture_17_figure_02.png",
+      "timestamp_seconds": 891.179,
+      "timestamp_hhmmss": "00:14:51.179",
+      "source_candidate": "lecture_17_window_02_candidate_04_001451179.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame preserves the full on-screen prose example clearly and sharply, with the quote block fully visible and unobstructed. The visual is useful not for mathematics but as evidence of the lecture's on-screen textual example and rhetorical focus on vivid sensory writing.",
+      "subtitle_excerpt": "then I'm airborne and slammed into the hole headfirst and upside down.",
+      "segment_start_seconds": 888.979,
+      "segment_start_hhmmss": "00:14:48.979",
+      "segment_end_seconds": 891.479,
+      "segment_end_hhmmss": "00:14:51.479",
+      "caption_hint": "Quoted river passage on screen"
+    }
+  ]
+}
