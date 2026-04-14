@@ -1,0 +1,233 @@
+{
+  "book_root_rel": "how-to-speak-and-write",
+  "language": "jp",
+  "language_name": "Japanese",
+  "source_main_rel": "how-to-speak-and-write/how-to-speak-and-write.tex",
+  "language_dir_rel": "how-to-speak-and-write/jp",
+  "target_main_rel": "how-to-speak-and-write/jp/how-to-speak-and-write.tex",
+  "target_pdf_rel": "how-to-speak-and-write/jp/how-to-speak-and-write.pdf",
+  "units": [
+    {
+      "key": "book",
+      "kind": "book",
+      "title": "how-to-speak-and-write",
+      "part": "",
+      "source_rel": "how-to-speak-and-write/how-to-speak-and-write.tex",
+      "target_rel": "how-to-speak-and-write/jp/how-to-speak-and-write.tex",
+      "status": "done",
+      "sha256": "ffa8a76d26ad34a9d59e25cfd89fed61cdac1cb85743b0c0383aaa3cbba739b0",
+      "updated_at": "2026-04-14T20:46:40+00:00"
+    },
+    {
+      "key": "lecture_11",
+      "kind": "chapter",
+      "title": "How to Speak",
+      "part": "Speak First",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_11/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_11/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_12",
+      "kind": "chapter",
+      "title": "How to Speak So That People Want to Listen",
+      "part": "Speak First",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_12/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_12/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_13",
+      "kind": "chapter",
+      "title": "The 3-2-1 Speaking Trick That Forces You To Stop Rambling!",
+      "part": "Speak First",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_13/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_13/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "how_to_force_yourself_to_speak_coherently",
+      "kind": "chapter",
+      "title": "How to Force Yourself To Speak Coherently",
+      "part": "Speak First",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/how_to_force_yourself_to_speak_coherently/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/how_to_force_yourself_to_speak_coherently/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "how_to_speak_with_meaning",
+      "kind": "chapter",
+      "title": "How to Speak with Meaning",
+      "part": "Speak First",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/how_to_speak_with_meaning/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/how_to_speak_with_meaning/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_16",
+      "kind": "chapter",
+      "title": "Harvard Thinking: How to Tell a Story",
+      "part": "Speak First",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_16/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_16/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_01",
+      "kind": "chapter",
+      "title": "Harvard Professor Explains The Rules of Writing",
+      "part": "Why Writing Is Harder Than Speaking",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_01/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_01/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_17",
+      "kind": "chapter",
+      "title": "Why All Writing Sounds the Same Now",
+      "part": "Why Writing Is Harder Than Speaking",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_17/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_17/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_10",
+      "kind": "chapter",
+      "title": "How to Show, Not Tell",
+      "part": "Why Writing Is Harder Than Speaking",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_10/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_10/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_06",
+      "kind": "chapter",
+      "title": "How to Write Descriptively",
+      "part": "Why Writing Is Harder Than Speaking",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_06/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_06/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_09",
+      "kind": "chapter",
+      "title": "How to Build a Fictional World --- Kate Messner",
+      "part": "Why Writing Is Harder Than Speaking",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_09/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_09/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_04",
+      "kind": "chapter",
+      "title": "The Mindset Behind an Unforgettable Novel",
+      "part": "Why Writing Is Harder Than Speaking",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_04/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_04/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_08",
+      "kind": "chapter",
+      "title": "Pulitzer Prize-Winner Explains His Writing Process --- Richard Powers",
+      "part": "Why Writing Is Harder Than Speaking",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_08/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_08/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_07",
+      "kind": "chapter",
+      "title": "How to Write a Bestselling Novel",
+      "part": "Why Writing Is Harder Than Speaking",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_07/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_07/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_03",
+      "kind": "chapter",
+      "title": "Five Tips for Writing Your First Novel",
+      "part": "Why Writing Is Harder Than Speaking",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_03/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_03/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_02",
+      "kind": "chapter",
+      "title": "How to Write a Novel: My Proven 12-Step Process",
+      "part": "Why Writing Is Harder Than Speaking",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_02/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_02/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_05",
+      "kind": "chapter",
+      "title": "How to Write a Book: 13 Steps From a Bestselling Author",
+      "part": "Why Writing Is Harder Than Speaking",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_05/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_05/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_19",
+      "kind": "chapter",
+      "title": "Ocean Vuong Teaches the Art of Writing",
+      "part": "Why Writing Is Harder Than Speaking",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_19/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_19/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    },
+    {
+      "key": "lecture_18",
+      "kind": "chapter",
+      "title": "How to Write Strikingly Well",
+      "part": "Writing Can't Be Taught",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_18/content.tex",
+      "target_rel": "how-to-speak-and-write/jp/chapters/lecture_18/content.tex",
+      "status": "pending",
+      "sha256": "",
+      "updated_at": ""
+    }
+  ],
+  "initialized_at": "2026-04-14T20:45:52+00:00",
+  "updated_at": "2026-04-14T20:46:40+00:00"
+}

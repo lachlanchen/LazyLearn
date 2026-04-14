@@ -1,0 +1,77 @@
+\documentclass[11pt,oneside]{book}
+\input{translated_common_preamble.tex}
+\graphicspath{{assets/}{../../generated_course_notes/lazylearn/how-you-speak-and-write/figures/}{../../generated_course_notes/lazylearn/how-you-speak-and-write/assets/}}
+\begin{document}
+\frontmatter
+\hypersetup{pageanchor=false}
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+  \node[anchor=south west,inner sep=0] at (current page.south west) {%
+    \includegraphics[width=\paperwidth,height=\paperheight]{cover-art.png}%
+  };
+  \node[
+    anchor=north west,
+    align=left,
+    text width=0.72\paperwidth,
+    fill=white,
+    fill opacity=0.82,
+    text opacity=1,
+    rounded corners=6pt,
+    inner sep=14pt
+  ] at ([xshift=0.08\paperwidth,yshift=-0.09\paperheight]current page.north west) {%
+    {\fontsize{31}{34}\selectfont\bfseries\color{black!88} 話し方と\\書き方\par}
+    \vspace{0.9em}
+    {\large\color{black!72} まず話し、次に書き、最後に技巧を磨く。\par}
+  };
+  \node[
+    anchor=south west,
+    align=left,
+    text width=0.68\paperwidth,
+    fill=white,
+    fill opacity=0.82,
+    text opacity=1,
+    rounded corners=6pt,
+    inner sep=12pt
+  ] at ([xshift=0.08\paperwidth,yshift=0.08\paperheight]current page.south west) {%
+    {\normalsize\color{black!78} LazyLearn 再構成版\par}
+    \vspace{0.35em}
+    {\small\color{black!72} \href{https://lazying.art}{LazyingArt LLC} と \href{https://github.com/lachlanchen/Video2Book}{Video2Book} により整理・編成された講義ノート。\par}
+  };
+\end{tikzpicture}
+\mbox{}
+\end{titlepage}
+\hypersetup{pageanchor=true}
+\title{話し方と書き方}
+\author{さまざまな講演者}
+\date{LazyLearn 再構成版 \\ \href{https://lazying.art}{LazyingArt LLC} と \href{https://github.com/lachlanchen/Video2Book}{Video2Book} により整理・編成された講義ノート}
+\maketitle
+\begin{center}
+\small How You Speak and Write コレクションの再構成版として、How to Speak and Write の題で刊行。
+\end{center}
+\clearpage
+\tableofcontents
+\mainmatter
+\part{まず話す}
+\input{chapters/lecture_11/content.tex}
+\input{chapters/lecture_12/content.tex}
+\input{chapters/lecture_13/content.tex}
+\input{chapters/how_to_force_yourself_to_speak_coherently/content.tex}
+\input{chapters/how_to_speak_with_meaning/content.tex}
+\input{chapters/lecture_16/content.tex}
+\part{書くことが話すことより難しい理由}
+\input{chapters/lecture_01/content.tex}
+\input{chapters/lecture_17/content.tex}
+\input{chapters/lecture_10/content.tex}
+\input{chapters/lecture_06/content.tex}
+\input{chapters/lecture_09/content.tex}
+\input{chapters/lecture_04/content.tex}
+\input{chapters/lecture_08/content.tex}
+\input{chapters/lecture_07/content.tex}
+\input{chapters/lecture_03/content.tex}
+\input{chapters/lecture_02/content.tex}
+\input{chapters/lecture_05/content.tex}
+\input{chapters/lecture_19/content.tex}
+\part{書くことは教えられない}
+\input{chapters/lecture_18/content.tex}
+\end{document}
