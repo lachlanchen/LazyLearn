@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazylearn/how-you-speak-and-write",
+  "transcript_rel": "lazylearn/how-you-speak-and-write/How to Force Yourself To Speak Coherently [aUBPWT-D5_U].md",
+  "video_rel": "lazylearn/how-you-speak-and-write/How to Force Yourself To Speak Coherently [aUBPWT-D5_U].webm",
+  "lecture_number": 0,
+  "lecture_slug": "how_to_force_yourself_to_speak_coherently",
+  "lecture_title": "How to Force Yourself To Speak Coherently",
+  "assets": [
+    {
+      "name": "how_to_force_yourself_to_speak_coherently_figure_01.png",
+      "timestamp_seconds": 3.942,
+      "timestamp_hhmmss": "00:00:03.942",
+      "source_candidate": "how_to_force_yourself_to_speak_coherently_window_01_candidate_04_000003942.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This is the most useful frame because it is the most finished board state in the subtitle window: the handwritten left-to-right schema is already legible as 'Mind -> Mouth Con...' while the earlier candidates are blank or only partially started. It is sharp, unobstructed, and captures the exact rhetorical setup of the opening concept.",
+      "subtitle_excerpt": "There is such thing as a mind to mouth connection.",
+      "segment_start_seconds": 0.0,
+      "segment_start_hhmmss": "00:00:00.000",
+      "segment_end_seconds": 4.48,
+      "segment_end_hhmmss": "00:00:04.480",
+      "caption_hint": "mind-to-mouth connection sketch"
+    }
+  ]
+}
