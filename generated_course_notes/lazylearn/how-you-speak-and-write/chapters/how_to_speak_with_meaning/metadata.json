@@ -1,0 +1,66 @@
+{
+  "course_rel": "lazylearn/how-you-speak-and-write",
+  "transcript_rel": "lazylearn/how-you-speak-and-write/How to speak with meaning [PJKeLD-vMvo].md",
+  "video_rel": "lazylearn/how-you-speak-and-write/How to speak with meaning [PJKeLD-vMvo].webm",
+  "lecture_number": 0,
+  "lecture_slug": "how_to_speak_with_meaning",
+  "lecture_title": "How to speak with meaning",
+  "assets": [
+    {
+      "name": "how_to_speak_with_meaning_figure_02.png",
+      "timestamp_seconds": 34.884,
+      "timestamp_hhmmss": "00:00:34.884",
+      "source_candidate": "how_to_speak_with_meaning_window_02_candidate_02_000034884.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "Candidate 02 is the clearest and most informative frame in the sequence. Candidate 01 is still incomplete at the edges, while candidates 03 and 04 simplify or alter the diagram by removing the central '@' marker and changing the node colors. Candidate 02 preserves the full layout and the role distinction between the central speaker/message node and the surrounding audience nodes.",
+      "subtitle_excerpt": "to every potential member of the audience?",
+      "segment_start_seconds": 34.09,
+      "segment_start_hhmmss": "00:00:34.090",
+      "segment_end_seconds": 36.18,
+      "segment_end_hhmmss": "00:00:36.180",
+      "caption_hint": "speaker-to-audience node layout"
+    },
+    {
+      "name": "how_to_speak_with_meaning_figure_03.png",
+      "timestamp_seconds": 131.339,
+      "timestamp_hhmmss": "00:02:11.339",
+      "source_candidate": "how_to_speak_with_meaning_window_03_candidate_04_000211339.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "Candidate 04 is the only frame where the diagram is fully resolved: the top question node, central decision diamond, both downward branches, and the two contrasting outcome boxes are all visible. The earlier candidates show only partial stages of the animation and would lose the lecture\u2019s explicit two-way structure.",
+      "subtitle_excerpt": "There are two major things to consider",
+      "segment_start_seconds": 129.28,
+      "segment_start_hhmmss": "00:02:09.280",
+      "segment_end_seconds": 131.62,
+      "segment_end_hhmmss": "00:02:11.620",
+      "caption_hint": "two-factor decision diagram"
+    },
+    {
+      "name": "how_to_speak_with_meaning_figure_04.png",
+      "timestamp_seconds": 264.702,
+      "timestamp_hhmmss": "00:04:24.702",
+      "source_candidate": "how_to_speak_with_meaning_window_04_candidate_04_000424702.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "All four candidates show essentially the same abstract paragraph layout, but candidate 04 is the latest and most settled frame in the window, with the stylized text blocks and both red emphasis marks fully visible. It is the clearest finished version of the visual idea that each paragraph contains one emphasized word.",
+      "subtitle_excerpt": "Then look for the one word in each paragraph",
+      "segment_start_seconds": 261.64,
+      "segment_start_hhmmss": "00:04:21.640",
+      "segment_end_seconds": 265.12,
+      "segment_end_hhmmss": "00:04:25.120",
+      "caption_hint": "highlighted key words in paragraphs"
+    },
+    {
+      "name": "how_to_speak_with_meaning_figure_05.png",
+      "timestamp_seconds": 418.533,
+      "timestamp_hhmmss": "00:06:58.533",
+      "source_candidate": "how_to_speak_with_meaning_window_05_candidate_04_000658533.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 01 does not yet show the balancing notation, while candidates 02 through 04 add the blue equals sign between the figure\u2019s legs. Candidate 04 is the latest and most settled frame, so it best captures the intended visual idea of equal weight distribution across both feet.",
+      "subtitle_excerpt": "Put equal weight on both your feet,",
+      "segment_start_seconds": 416.28,
+      "segment_start_hhmmss": "00:06:56.280",
+      "segment_end_seconds": 418.84,
+      "segment_end_hhmmss": "00:06:58.840",
+      "caption_hint": "balanced stance with equal weight"
+    }
+  ]
+}
