@@ -1,0 +1,38 @@
+{
+  "course_rel": "lazylearn/how-you-speak-and-write",
+  "transcript_rel": "lazylearn/how-you-speak-and-write/11 - How to Speak [Unzc731iCUY].md",
+  "video_rel": "lazylearn/how-you-speak-and-write/11 - How to Speak [Unzc731iCUY].webm",
+  "lecture_number": 11,
+  "lecture_slug": "lecture_11",
+  "lecture_title": "How to Speak",
+  "assets": [
+    {
+      "name": "lecture_11_figure_03.png",
+      "timestamp_seconds": 858.75,
+      "timestamp_hhmmss": "00:14:18.750",
+      "source_candidate": "lecture_11_window_03_candidate_03_001418750.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame shows the board layout most completely at the moment when graphics are being discussed. The hand-drawn circular graphic appears finished, the 'SAMPLES' and 'TIME & PLACE' headings are both legible, and the lecturer has moved enough that the diagram and left-side list are less occluded than in the earlier and later candidates.",
+      "subtitle_excerpt": "that you can use graphics in your presentation.",
+      "segment_start_seconds": 855.5,
+      "segment_start_hhmmss": "00:14:15.500",
+      "segment_end_seconds": 860.5,
+      "segment_end_hhmmss": "00:14:20.500",
+      "caption_hint": "Samples and time-place board layout"
+    },
+    {
+      "name": "lecture_11_figure_04.png",
+      "timestamp_seconds": 1136.24,
+      "timestamp_hhmmss": "00:18:56.240",
+      "source_candidate": "lecture_11_window_04_candidate_02_001856240.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame is the clearest and most balanced view of the prop demonstration. The bicycle wheel is fully visible, both hands are on the hub, the rim and spokes are sharp, and the background chalkboard remains readable enough to preserve the classroom context.",
+      "subtitle_excerpt": "Take this bicycle wheel, and you start it spinning,",
+      "segment_start_seconds": 1135.062,
+      "segment_start_hhmmss": "00:18:55.062",
+      "segment_end_seconds": 1138.162,
+      "segment_end_hhmmss": "00:18:58.162",
+      "caption_hint": "Bicycle-wheel spinning demonstration"
+    }
+  ]
+}
