@@ -58,9 +58,9 @@
       "part": "Speak First",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/how_to_force_yourself_to_speak_coherently/content.tex",
       "target_rel": "how-to-speak-and-write/zh/chapters/how_to_force_yourself_to_speak_coherently/content.tex",
-      "status": "pending",
-      "sha256": "",
-      "updated_at": ""
+      "status": "done",
+      "sha256": "c2694fc1355de12bdddf87d7bf220526fd32f3b78673f00fb54c1873412d9619",
+      "updated_at": "2026-04-14T20:59:13+00:00"
     },
     {
       "key": "how_to_speak_with_meaning",
@@ -229,5 +229,5 @@
     }
   ],
   "initialized_at": "2026-04-14T20:49:02+00:00",
-  "updated_at": "2026-04-14T20:56:42+00:00"
+  "updated_at": "2026-04-14T20:59:13+00:00"
 }
