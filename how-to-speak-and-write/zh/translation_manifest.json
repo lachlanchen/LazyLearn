@@ -124,9 +124,9 @@
       "part": "Why Writing Is Harder Than Speaking",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_06/content.tex",
       "target_rel": "how-to-speak-and-write/zh/chapters/lecture_06/content.tex",
-      "status": "pending",
-      "sha256": "",
-      "updated_at": ""
+      "status": "done",
+      "sha256": "20408626cab3a916218435793b234f81e93ca7d2486a68ef0002b47c9b3b6ab3",
+      "updated_at": "2026-04-14T21:17:03+00:00"
     },
     {
       "key": "lecture_09",
@@ -229,5 +229,5 @@
     }
   ],
   "initialized_at": "2026-04-14T20:49:02+00:00",
-  "updated_at": "2026-04-14T21:15:04+00:00"
+  "updated_at": "2026-04-14T21:17:03+00:00"
 }
