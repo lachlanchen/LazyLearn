@@ -69,9 +69,9 @@
       "part": "Speak First",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/how_to_speak_with_meaning/content.tex",
       "target_rel": "how-to-speak-and-write/zh/chapters/how_to_speak_with_meaning/content.tex",
-      "status": "pending",
-      "sha256": "",
-      "updated_at": ""
+      "status": "done",
+      "sha256": "e144a29736b562910b5341f5e952674d32679870e579690ba7280d937e4b6eec",
+      "updated_at": "2026-04-14T21:01:48+00:00"
     },
     {
       "key": "lecture_16",
@@ -229,5 +229,5 @@
     }
   ],
   "initialized_at": "2026-04-14T20:49:02+00:00",
-  "updated_at": "2026-04-14T20:59:13+00:00"
+  "updated_at": "2026-04-14T21:01:48+00:00"
 }
