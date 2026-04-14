@@ -223,11 +223,11 @@
       "part": "Writing Can't Be Taught",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_18/content.tex",
       "target_rel": "how-to-speak-and-write/zh/chapters/lecture_18/content.tex",
-      "status": "pending",
-      "sha256": "",
-      "updated_at": ""
+      "status": "done",
+      "sha256": "1f09364309b6499785fa09f4064c24cf4ba5f416927024e962bc0834caf08e0d",
+      "updated_at": "2026-04-14T21:42:51+00:00"
     }
   ],
   "initialized_at": "2026-04-14T20:49:02+00:00",
-  "updated_at": "2026-04-14T21:39:14+00:00"
+  "updated_at": "2026-04-14T21:42:51+00:00"
 }
