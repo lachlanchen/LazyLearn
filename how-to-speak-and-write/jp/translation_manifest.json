@@ -47,9 +47,9 @@
       "part": "Speak First",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_13/content.tex",
       "target_rel": "how-to-speak-and-write/jp/chapters/lecture_13/content.tex",
-      "status": "pending",
-      "sha256": "",
-      "updated_at": ""
+      "status": "done",
+      "sha256": "e3075be54b5907dedbbd56e85398c34187733ad541387f1aa1b844785bc630fd",
+      "updated_at": "2026-04-14T20:58:37+00:00"
     },
     {
       "key": "how_to_force_yourself_to_speak_coherently",
@@ -229,5 +229,5 @@
     }
   ],
   "initialized_at": "2026-04-14T20:49:02+00:00",
-  "updated_at": "2026-04-14T20:55:46+00:00"
+  "updated_at": "2026-04-14T20:58:37+00:00"
 }
