@@ -1,0 +1,9 @@
+{
+  "model": "nano-banana-2",
+  "prompt": "Design a polished, bookstore-ready front-cover artwork for a nonfiction literary craft book titled \"How to Speak and Write\". This is image art only, with no text rendered inside the image.\n\nThe book's argument has three movements: first, speaking as a living craft of clarity and audience; second, writing as denser, harder, slower, and more exact than speech; third, writing as deep judgment and lived craft rather than a mechanical formula.\n\nCreate a refined editorial visual metaphor in portrait 2:3 format: spoken breath, sound, cadence, or vibration gradually transforming into lines, marks, paragraphs, pages, or structured writing. The image should feel intellectually serious, warm, modern, and elegant. Minimal but not empty. Abstract but readable. More literary than corporate.\n\nUse a restrained palette of cream, charcoal, muted teal, and a small brass accent. Strong central composition. Leave generous clean negative space in the upper and middle area for later typography overlay. No people. No stock-photo look. No microphones, no laptops, no literal classroom scene, no fake text, no watermark, no clutter.",
+  "urls": [],
+  "aspectRatio": "2:3",
+  "imageSize": "2K",
+  "webHook": "-1",
+  "shutProgress": false
+}

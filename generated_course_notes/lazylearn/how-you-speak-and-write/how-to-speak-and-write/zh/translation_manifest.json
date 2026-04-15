@@ -1,19 +1,19 @@
 {
-  "book_root_rel": "how-to-speak-and-write",
+  "book_root_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write",
   "language": "zh",
   "language_name": "Traditional Chinese",
-  "source_main_rel": "how-to-speak-and-write/how-to-speak-and-write.tex",
-  "language_dir_rel": "how-to-speak-and-write/zh",
-  "target_main_rel": "how-to-speak-and-write/zh/how-to-speak-and-write.tex",
-  "target_pdf_rel": "how-to-speak-and-write/zh/how-to-speak-and-write.pdf",
+  "source_main_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/how-to-speak-and-write.tex",
+  "language_dir_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh",
+  "target_main_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/how-to-speak-and-write.tex",
+  "target_pdf_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/how-to-speak-and-write.pdf",
   "units": [
     {
       "key": "book",
       "kind": "book",
       "title": "how-to-speak-and-write",
       "part": "",
-      "source_rel": "how-to-speak-and-write/how-to-speak-and-write.tex",
-      "target_rel": "how-to-speak-and-write/zh/how-to-speak-and-write.tex",
+      "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/how-to-speak-and-write.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/how-to-speak-and-write.tex",
       "status": "done",
       "sha256": "375452e390a55865f98ffa0e1ccddf8c59ffec0aa8cf904203604d8bf1d70fea",
       "updated_at": "2026-04-14T20:46:25+00:00"
@@ -24,7 +24,7 @@
       "title": "How to Speak",
       "part": "Speak First",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_11/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_11/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_11/content.tex",
       "status": "done",
       "sha256": "f6bcda7e542cb2340c57e8d9ae38d5924bb77b9db65f381df92b13bc770dcaa9",
       "updated_at": "2026-04-14T20:51:49+00:00"
@@ -35,7 +35,7 @@
       "title": "How to Speak So That People Want to Listen",
       "part": "Speak First",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_12/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_12/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_12/content.tex",
       "status": "done",
       "sha256": "6ea41bc683dc70fa72087d86bcd62b5c77bb0b389ae087a11aecfaff61292e28",
       "updated_at": "2026-04-14T20:54:10+00:00"
@@ -46,7 +46,7 @@
       "title": "The 3-2-1 Speaking Trick That Forces You To Stop Rambling!",
       "part": "Speak First",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_13/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_13/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_13/content.tex",
       "status": "done",
       "sha256": "e6e745e48c2d73aafd1b86391f4a3de567be300d3a7dc318711766e5a17acbb0",
       "updated_at": "2026-04-14T20:56:42+00:00"
@@ -57,7 +57,7 @@
       "title": "How to Force Yourself To Speak Coherently",
       "part": "Speak First",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/how_to_force_yourself_to_speak_coherently/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/how_to_force_yourself_to_speak_coherently/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/how_to_force_yourself_to_speak_coherently/content.tex",
       "status": "done",
       "sha256": "c2694fc1355de12bdddf87d7bf220526fd32f3b78673f00fb54c1873412d9619",
       "updated_at": "2026-04-14T20:59:13+00:00"
@@ -68,7 +68,7 @@
       "title": "How to Speak with Meaning",
       "part": "Speak First",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/how_to_speak_with_meaning/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/how_to_speak_with_meaning/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/how_to_speak_with_meaning/content.tex",
       "status": "done",
       "sha256": "e144a29736b562910b5341f5e952674d32679870e579690ba7280d937e4b6eec",
       "updated_at": "2026-04-14T21:01:48+00:00"
@@ -79,7 +79,7 @@
       "title": "Harvard Thinking: How to Tell a Story",
       "part": "Speak First",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_16/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_16/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_16/content.tex",
       "status": "done",
       "sha256": "99e66c723541c52bb0552069714004524b318962c84e72b0a5f4825836fb9721",
       "updated_at": "2026-04-14T21:04:31+00:00"
@@ -90,7 +90,7 @@
       "title": "Harvard Professor Explains The Rules of Writing",
       "part": "Why Writing Is Harder Than Speaking",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_01/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_01/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_01/content.tex",
       "status": "done",
       "sha256": "6b9114e545f79dc01b57f023d0968aca7ea497e8c33200c7566ec87128840919",
       "updated_at": "2026-04-14T21:08:09+00:00"
@@ -101,7 +101,7 @@
       "title": "Why All Writing Sounds the Same Now",
       "part": "Why Writing Is Harder Than Speaking",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_17/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_17/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_17/content.tex",
       "status": "done",
       "sha256": "d9f4da278d7719b29fa615e27550c13882e49e8c3ea938222e7b51dd6e910bd8",
       "updated_at": "2026-04-14T21:12:06+00:00"
@@ -112,7 +112,7 @@
       "title": "How to Show, Not Tell",
       "part": "Why Writing Is Harder Than Speaking",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_10/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_10/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_10/content.tex",
       "status": "done",
       "sha256": "f33cbe3320579bd950d33ab1053beb885337a9f151263f6fcec25a18415ef98d",
       "updated_at": "2026-04-14T21:15:04+00:00"
@@ -123,7 +123,7 @@
       "title": "How to Write Descriptively",
       "part": "Why Writing Is Harder Than Speaking",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_06/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_06/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_06/content.tex",
       "status": "done",
       "sha256": "20408626cab3a916218435793b234f81e93ca7d2486a68ef0002b47c9b3b6ab3",
       "updated_at": "2026-04-14T21:17:03+00:00"
@@ -134,7 +134,7 @@
       "title": "How to Build a Fictional World --- Kate Messner",
       "part": "Why Writing Is Harder Than Speaking",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_09/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_09/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_09/content.tex",
       "status": "done",
       "sha256": "0e9046346968b116dc81648f4a076636cb8754efe6252a3dfe95797327be266a",
       "updated_at": "2026-04-14T21:19:13+00:00"
@@ -145,7 +145,7 @@
       "title": "The Mindset Behind an Unforgettable Novel",
       "part": "Why Writing Is Harder Than Speaking",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_04/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_04/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_04/content.tex",
       "status": "done",
       "sha256": "1e8002ffe5c1bb4d4d7436d5a56afb51b2f097eeee69f20383b1db8fa36210f7",
       "updated_at": "2026-04-14T21:22:31+00:00"
@@ -156,7 +156,7 @@
       "title": "Pulitzer Prize-Winner Explains His Writing Process --- Richard Powers",
       "part": "Why Writing Is Harder Than Speaking",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_08/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_08/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_08/content.tex",
       "status": "done",
       "sha256": "2263ca94a90df00853176c487e85db4cf9c2947476e5bb4a553a870339bbaa9d",
       "updated_at": "2026-04-14T21:26:07+00:00"
@@ -167,7 +167,7 @@
       "title": "How to Write a Bestselling Novel",
       "part": "Why Writing Is Harder Than Speaking",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_07/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_07/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_07/content.tex",
       "status": "done",
       "sha256": "5df0c76e7c8ba5fd7a71b68b02a1019f35b40605d3e1eb1e9c63cfb944cf8cbb",
       "updated_at": "2026-04-14T21:28:02+00:00"
@@ -178,7 +178,7 @@
       "title": "Five Tips for Writing Your First Novel",
       "part": "Why Writing Is Harder Than Speaking",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_03/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_03/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_03/content.tex",
       "status": "done",
       "sha256": "2dd3d38140413bb71306825112087a5e7d04fbe38a24d049c18e071d5d30a6cb",
       "updated_at": "2026-04-14T21:30:22+00:00"
@@ -189,7 +189,7 @@
       "title": "How to Write a Novel: My Proven 12-Step Process",
       "part": "Why Writing Is Harder Than Speaking",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_02/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_02/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_02/content.tex",
       "status": "done",
       "sha256": "f6abf7cfe3b69660116a70d45013f6718efe1a37daec96c985c9a547545d84de",
       "updated_at": "2026-04-14T21:33:06+00:00"
@@ -200,7 +200,7 @@
       "title": "How to Write a Book: 13 Steps From a Bestselling Author",
       "part": "Why Writing Is Harder Than Speaking",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_05/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_05/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_05/content.tex",
       "status": "done",
       "sha256": "ca2e3525a6c3f3c81517d98273e1c7bad4228f6ac5220114eec7928683cb86bf",
       "updated_at": "2026-04-14T21:35:39+00:00"
@@ -211,7 +211,7 @@
       "title": "Ocean Vuong Teaches the Art of Writing",
       "part": "Why Writing Is Harder Than Speaking",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_19/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_19/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_19/content.tex",
       "status": "done",
       "sha256": "4da1be1a5b33d43e6fd0fc6d87f65569212383ab4358a9806b5b7e89e592efc0",
       "updated_at": "2026-04-14T21:39:14+00:00"
@@ -222,12 +222,12 @@
       "title": "How to Write Strikingly Well",
       "part": "Writing Can't Be Taught",
       "source_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/chapters/lecture_18/content.tex",
-      "target_rel": "how-to-speak-and-write/zh/chapters/lecture_18/content.tex",
+      "target_rel": "generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write/zh/chapters/lecture_18/content.tex",
       "status": "done",
       "sha256": "1f09364309b6499785fa09f4064c24cf4ba5f416927024e962bc0834caf08e0d",
       "updated_at": "2026-04-14T21:42:51+00:00"
     }
   ],
-  "initialized_at": "2026-04-14T20:49:02+00:00",
-  "updated_at": "2026-04-14T21:42:51+00:00"
+  "initialized_at": "2026-04-15T02:34:55+00:00",
+  "updated_at": "2026-04-15T02:34:55+00:00"
 }

@@ -11,6 +11,35 @@
 ![Docs](https://img.shields.io/badge/Docs-Static%20Microsite-0ea5e9?style=for-the-badge&logo=markdown&logoColor=white)
 ![Languages](https://img.shields.io/badge/Languages-11-0f766e?style=for-the-badge&logo=googletranslate&logoColor=white)
 
+## Featured Book
+
+**How to Speak and Write** is now the most prominent published book from this repo.
+
+- Read the English local edition: [how-to-speak-and-write/how-to-speak-and-write.pdf](how-to-speak-and-write/how-to-speak-and-write.pdf)
+- Read the Traditional Chinese local edition: [how-to-speak-and-write/how-to-speak-and-write-zh.pdf](how-to-speak-and-write/how-to-speak-and-write-zh.pdf)
+- Read the Japanese local edition: [how-to-speak-and-write/how-to-speak-and-write-jp.pdf](how-to-speak-and-write/how-to-speak-and-write-jp.pdf)
+- Read the website edition: [learn.lazying.art/how-to-speak-and-write.pdf](https://learn.lazying.art/how-to-speak-and-write.pdf)
+
+## Book Layout
+
+The book now has a strict split between source and publication:
+
+- canonical editable lecture-note source lives in [generated_course_notes/lazylearn/how-you-speak-and-write](/home/lachlan/ProjectsLFS/LazyLearn/generated_course_notes/lazylearn/how-you-speak-and-write)
+- the curated multilingual book source lives in [generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write](/home/lachlan/ProjectsLFS/LazyLearn/generated_course_notes/lazylearn/how-you-speak-and-write/how-to-speak-and-write)
+- the root-level publication shelf lives in [how-to-speak-and-write](/home/lachlan/ProjectsLFS/LazyLearn/how-to-speak-and-write)
+
+Current behavior:
+
+- `generated_course_notes/...` keeps the editable source, cover assets, chapter structure, and translation source trees
+- `how-to-speak-and-write/` keeps only the published PDFs:
+  - English
+  - Traditional Chinese
+  - Japanese
+
+Layout note:
+
+- [references/how-to-speak-and-write-layout-plan.md](references/how-to-speak-and-write-layout-plan.md)
+
 ## 📌 At a glance
 
 | Focus                | What this repo does                                    |
@@ -56,6 +85,8 @@ This repository is intentionally mixed-format, not a single packaged app. It com
 | `figs/`                | Logo and banner assets.                                                                                                                            |
 | `docs/`                | LazyLearn microsite content (served by GitHub Pages or any static host).                                                                           |
 | `i18n/`                | Localized README files.                                                                                                                            |
+| `generated_course_notes/` | Canonical generated lecture-note source trees, chapter TeX, figures, compiled course artifacts, and book-source wrappers.                      |
+| `how-to-speak-and-write/` | Publish-only shelf for the featured English, Traditional Chinese, and Japanese PDFs.                                                           |
 
 Representative layout:
 
