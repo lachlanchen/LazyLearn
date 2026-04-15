@@ -4,6 +4,48 @@
 \begin{document}
 \frontmatter
 
+\hypersetup{pageanchor=false}
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+  \fill[blue!12] (current page.south west) rectangle (current page.north east);
+  \fill[blue!35!white] ([xshift=0.12\paperwidth,yshift=0.12\paperheight]current page.south west) rectangle ([xshift=-0.12\paperwidth,yshift=-0.12\paperheight]current page.north east);
+  \fill[white,opacity=0.08] ([yshift=-0.1\paperheight]current page.north west) rectangle ([xshift=0.82\paperwidth,yshift=0.02\paperheight]current page.south east);
+  \node[
+    anchor=north west,
+    align=left,
+    text width=0.74\paperwidth,
+    fill=white,
+    fill opacity=0.86,
+    text opacity=1,
+    rounded corners=8pt,
+    inner sep=16pt
+  ] at ([xshift=0.08\paperwidth,yshift=-0.08\paperheight]current page.north west) {%
+    {\fontsize{40}{44}\selectfont\bfseries\color{blue!72} Justice\par}
+    \vspace{0.4em}
+    {\fontsize{20}{24}\selectfont\color{blue!52} What is the Right Thing to Do?\par}
+    \vspace{1.1em}
+    {\large\color{black!72} A complete lecture-book edition by Michael Sandel.\par}
+  };
+  \node[
+    anchor=south west,
+    align=left,
+    text width=0.64\paperwidth,
+    fill=white,
+    fill opacity=0.86,
+    text opacity=1,
+    rounded corners=8pt,
+    inner sep=12pt
+  ] at ([xshift=0.08\paperwidth,yshift=0.08\paperheight]current page.south west) {%
+    {\normalsize\color{black!78} Reordered course notes from 19 videos in the Sandel playlist.\par}
+    \vspace{0.35em}
+    {\small\color{black!72} Lecture notes organized by \href{https://lazying.art}{LazyingArt LLC} with \href{https://github.com/lachlanchen/Video2Book}{Video2Book}.\par}
+  };
+\end{tikzpicture}
+\mbox{}
+\end{titlepage}
+\hypersetup{pageanchor=true}
+
 \title{Justice}
 \author{Michael Sandel}
 \date{LazyLearn track, Michael Sandel moral and political philosophy lecture series \\ Lecture notes organized by \href{https://lazying.art}{LazyingArt LLC} with \href{https://github.com/lachlanchen/Video2Book}{Video2Book}}
