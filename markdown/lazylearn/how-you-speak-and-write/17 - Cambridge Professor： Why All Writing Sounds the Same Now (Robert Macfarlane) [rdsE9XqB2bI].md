@@ -1,0 +1,2512 @@
+# Transcript
+
+Source: lazylearn/how-you-speak-and-write/17 - Cambridge Professor： Why All Writing Sounds the Same Now (Robert Macfarlane) [rdsE9XqB2bI].webm
+
+- [00:00:00,400 - 00:00:03,600] Well, you write so beautifully about nature.
+- [00:00:03,600 - 00:00:05,640] You've been writing for 22 years,
+- [00:00:05,640 - 00:00:08,560] and you've written about all different kinds of nature.
+- [00:00:08,560 - 00:00:11,140] You've written about mountains and rivers,
+- [00:00:11,140 - 00:00:12,800] and you've written about time.
+- [00:00:12,800 - 00:00:15,120] And what I want to
+- [00:00:15,120 - 00:00:17,440] start off with is the sensitivity
+- [00:00:17,440 - 00:00:19,400] that you've developed over time,
+- [00:00:19,400 - 00:00:23,960] a sensitivity to be connected to this much larger world
+- [00:00:23,960 - 00:00:26,980] that we live in, both in space and in time.
+- [00:00:26,980 - 00:00:27,800] Where does that come from,
+- [00:00:27,800 - 00:00:29,880] and how have you cultivated that?
+- [00:00:29,880 - 00:00:32,439] Hard to reverse engineer an answer for that.
+- [00:00:34,660 - 00:00:36,040] I grew up in mountains.
+- [00:00:36,040 - 00:00:39,620] I think that's probably the first answer to that.
+- [00:00:39,620 - 00:00:43,400] And mountains sensitize you, right?
+- [00:00:43,400 - 00:00:47,260] They are intense spaces and places.
+- [00:00:47,260 - 00:00:50,320] The light feels brighter.
+- [00:00:50,320 - 00:00:52,379] The snow on the face feels sharper.
+- [00:00:52,379 - 00:00:53,949] The air you breathe, you feel
+- [00:00:53,949 - 00:00:55,519] it like a wire in your nose.
+- [00:00:55,519 - 00:00:58,000] It runs down into your lungs.
+- [00:00:58,000 - 00:00:59,840] And so everything,
+- [00:00:59,840 - 00:01:02,820] kind of crackles and tingles in the mountains.
+- [00:01:02,820 - 00:01:04,900] And also because they're dangerous places,
+- [00:01:04,900 - 00:01:08,120] you have to be alert.
+- [00:01:08,120 - 00:01:10,760] And being alert means risk assessment,
+- [00:01:10,760 - 00:01:13,280] but it also means being open
+- [00:01:13,280 - 00:01:16,600] as the kind of atoms of the world meet you.
+- [00:01:16,600 - 00:01:20,240] So I sometimes say my heart is made of mountains
+- [00:01:20,240 - 00:01:21,540] and always will be.
+- [00:01:21,540 - 00:01:24,440] They're the beginning and the end of all natural scenery
+- [00:01:24,440 - 00:01:26,220] as far as I'm concerned.
+- [00:01:26,220 - 00:01:28,620] So from that, I think at some level, I learned,
+- [00:01:28,620 - 00:01:29,540] and obsessed with it.
+- [00:01:29,840 - 00:01:32,040] I think I learned from it,
+- [00:01:32,040 - 00:01:35,360] that I have a very strong obsession
+- [00:01:35,360 - 00:01:38,040] with rock and ice and water and light
+- [00:01:38,040 - 00:01:39,660] and all the things that
+- [00:01:39,660 - 00:01:41,280] flow through and build my work.
+- [00:01:41,280 - 00:01:43,720] And also, I guess,
+- [00:01:43,720 - 00:01:45,080] they kind of,
+- [00:01:45,080 - 00:01:49,280] they war, they wore away the usual boundaries
+- [00:01:49,280 - 00:01:50,720] and shells of the self,
+- [00:01:50,720 - 00:01:52,720] and they continue to do that in me.
+- [00:01:52,720 - 00:01:54,580] Tell me about that obsession with light.
+- [00:01:54,580 - 00:01:56,000] So I was flying into New York the other night.
+- [00:01:56,000 - 00:01:56,840] Yeah.
+- [00:01:56,840 - 00:01:58,720] And it was sort of a dark,
+- [00:01:58,720 - 00:01:58,770] kind of like very cloudy evening,
+- [00:01:58,770 - 00:01:58,820] thick clouds. And we're kind of landing.
+- [00:01:58,820 - 00:01:59,640] We climb up to the top of the mountain,
+- [00:01:59,640 - 00:02:01,880] we go through the clouds yeah and we get
+- [00:02:01,880 - 00:02:04,120] to the bottom of sunset time and there was this
+- [00:02:04,120 - 00:02:07,600] blood orange light that was shining through the
+- [00:02:07,600 - 00:02:11,080] clouds and it was marvelous it was magnificent
+- [00:02:11,080 - 00:02:13,320] and i have my phone in my pocket to go take
+- [00:02:13,320 - 00:02:15,560] a photo and i go i'm never gonna be able to capture
+- [00:02:15,560 - 00:02:18,440] it good there's just no way yourself i stopped
+- [00:02:18,440 - 00:02:21,320] myself i didn't take the photo and then i just
+- [00:02:21,320 - 00:02:23,960] started grieving that i'm never gonna have the
+- [00:02:23,960 - 00:02:26,600] words to describe how beautiful this color light
+- [00:02:26,600 - 00:02:30,080] was and it's just gonna be in my memory fading
+- [00:02:30,080 - 00:02:33,560] away every single day and i was like i wish i
+- [00:02:33,560 - 00:02:36,039] could describe this but how did i do that has
+- [00:02:36,039 - 00:02:38,519] it faded i don't know i can feel like i can't
+- [00:02:38,519 - 00:02:41,599] explain it to you and it makes me sad it
+- [00:02:41,599 - 00:02:44,680] was so beautiful well there was a there was a slaughter
+- [00:02:44,680 - 00:02:48,960] in that sunset right it was sanguineous it was bloody
+- [00:02:48,960 - 00:02:53,240] it was it was it was wild um language will
+- [00:02:53,240 - 00:02:56,519] always be late for its subject when its subject is
+- [00:02:56,600 - 00:02:59,800] light it will be it stands no chance
+- [00:02:59,800 - 00:03:03,000] right nothing moves faster nothing is more allotropic nothing
+- [00:03:03,000 - 00:03:06,840] shifts its textures its granulations its forms more
+- [00:03:06,840 - 00:03:10,680] than light so i would say abandon the dream
+- [00:03:10,680 - 00:03:15,920] of correspondence so language will never ever meet light
+- [00:03:15,920 - 00:03:21,160] granite has no grammar so for me once you
+- [00:03:21,959 - 00:03:24,239] reach the point where you
+- [00:03:24,239 - 00:03:26,519] stop the futile questing after correspondence
+- [00:03:26,600 - 00:03:30,040] like oh how can my language possibly meet
+- [00:03:30,040 - 00:03:33,480] reproduce carry the thing i have just seen what
+- [00:03:33,480 - 00:03:37,200] can't cause dusting and zich the thing in itself
+- [00:03:37,200 - 00:03:40,920] you'll never do that so abandon it and then and
+- [00:03:40,920 - 00:03:43,160] then you're you're no longer irritably questing
+- [00:03:43,160 - 00:03:45,400] after that and feeling that you're falling short
+- [00:03:45,400 - 00:03:49,679] instead lean into artifice so for me metaphor
+- [00:03:49,679 - 00:03:53,959] which is fundamentally a distortion of the thing
+- [00:03:53,959 - 00:03:56,600] aristotle defines it metaphor is like unlike
+- [00:03:56,600 - 00:04:00,240] this so sort of matching one thing to another but
+- [00:04:00,240 - 00:04:03,880] across time and space is one of the most beautiful
+- [00:04:03,880 - 00:04:07,760] ways of evoking but not and this is a
+- [00:04:07,760 - 00:04:11,640] verb i hate capturing nature we shouldn't dream of capturing
+- [00:04:11,640 - 00:04:14,840] nature because then it becomes our captive
+- [00:04:14,840 - 00:04:18,040] and then it prowls restlessly backwards and forwards
+- [00:04:18,040 - 00:04:21,839] in its cage and it's not itself so is it
+- [00:04:21,839 - 00:04:25,640] like i'm thinking of an impressionist painting yeah right i
+- [00:04:25,640 - 00:04:26,110] think of a monet you know like you're like
+- [00:04:26,110 - 00:04:26,580] you're like you're like you're like you're like you're like
+- [00:04:26,600 - 00:04:29,480] he's not trying to capture the scene he's trying
+- [00:04:29,480 - 00:04:32,360] to paint his impressions exactly of the scene the
+- [00:04:32,360 - 00:04:34,960] representation of perception rather than the
+- [00:04:34,960 - 00:04:37,560] thing itself and perception is always
+- [00:04:37,560 - 00:04:40,400] multiply filtered it's highly
+- [00:04:40,400 - 00:04:43,240] dynamic it's psychologically textured so
+- [00:04:44,440 - 00:04:47,080] water i've spent a lot of time trying to think
+- [00:04:47,080 - 00:04:49,720] about how to write water recently as i spent four
+- [00:04:49,720 - 00:04:52,880] years writing this big river book and over and one
+- [00:04:52,880 - 00:04:56,040] thing i came to realize is there is no single
+- [00:04:56,040 - 00:04:56,310] grammar of the word water and i think that's
+- [00:04:56,310 - 00:04:56,580] a really important thing to think about and i think
+- [00:04:56,580 - 00:04:56,589] that's a really important thing to think about and i think
+- [00:04:56,589 - 00:04:56,599] that's a really important thing to think about and i think
+- [00:04:56,599 - 00:04:59,069] animacy right there is no one way to write water
+- [00:04:59,069 - 00:05:01,539] there is an there is an obvious way to write
+- [00:05:01,539 - 00:05:03,299] water there is an there is an obvious way to
+- [00:05:03,299 - 00:05:05,060] write water which is to let language flow as river does
+- [00:05:05,620 - 00:05:08,780] and and i i absolutely have enjoyed playing with
+- [00:05:08,780 - 00:05:11,940] that so there are sentences in is a river alive
+- [00:05:11,940 - 00:05:15,179] which go on for there's one that goes on for
+- [00:05:15,179 - 00:05:18,419] two pages um there's one that's 515 words long and
+- [00:05:20,580 - 00:05:23,540] i didn't catch that wow well and
+- [00:05:23,540 - 00:05:26,500] the dash i so i'm a preposition obsessive
+- [00:05:26,580 - 00:05:30,180] and a punctuation obsessive so the the dash the m
+- [00:05:30,180 - 00:05:33,780] dash that long dash not the hyphen but the one
+- [00:05:33,780 - 00:05:37,379] that that lives between words is to me is
+- [00:05:37,379 - 00:05:40,979] such a beautiful fluid piece of punctuation i think it's
+- [00:05:40,979 - 00:05:44,059] my favorite piece of punctuation where a full where
+- [00:05:44,059 - 00:05:47,140] a full stop bangs down the hard end the
+- [00:05:47,140 - 00:05:50,580] bookend to a sentence to a thought the dash is
+- [00:05:50,580 - 00:05:54,020] liquid it it flows two ways both ways meaning can
+- [00:05:54,020 - 00:05:55,020] move against the current eddie back up the line
+- [00:05:55,020 - 00:05:56,020] and then it's a very fluid piece of punctuation
+- [00:05:56,020 - 00:05:56,290] meaning can move against the current eddie back up the
+- [00:05:56,290 - 00:05:56,560] line and then it's a very fluid piece of punctuation
+- [00:05:56,580 - 00:06:00,820] sentence or flow down the sentence so looking
+- [00:06:00,820 - 00:06:05,060] at how we as it were traffic control meaning
+- [00:06:05,060 - 00:06:07,500] with it with with using the tiny
+- [00:06:07,500 - 00:06:09,940] stuff the punctuation and the prepositions which is
+- [00:06:09,940 - 00:06:12,579] something maybe we can come on to talk about
+- [00:06:12,579 - 00:06:15,219] the the buys the widths the next twos the
+- [00:06:15,219 - 00:06:18,179] aboves the belows all of those let's go into it
+- [00:06:18,179 - 00:06:21,140] yeah okay well i i love to speak for prepositions
+- [00:06:21,140 - 00:06:23,580] because they they they don't get listened to
+- [00:06:23,580 - 00:06:26,020] enough so to give an example um i sometimes
+- [00:06:26,020 - 00:06:29,820] um i sometimes talk about the ways in which i
+- [00:06:29,820 - 00:06:33,620] i write with nature so i write with rivers or with
+- [00:06:33,620 - 00:06:36,579] mountains like almost as a co-author exactly and
+- [00:06:36,579 - 00:06:39,539] there the preposition is what makes the difference
+- [00:06:39,539 - 00:06:44,099] because if i were to say to you oh i
+- [00:06:44,099 - 00:06:48,659] i write about rivers that's different that's me speaking about
+- [00:06:48,659 - 00:06:51,619] the river but writing with rivers preposition shifts
+- [00:06:51,619 - 00:06:54,580] is is a new thing that's where the rivers
+- [00:06:54,580 - 00:06:55,020] and i are co-thinking about the rivers and the
+- [00:06:55,020 - 00:06:55,460] rivers are the same thing so i'm not saying that's
+- [00:06:55,460 - 00:06:55,980] the same thing but i'm saying that's the way that
+- [00:06:55,980 - 00:06:56,500] we write about rivers and the rivers are the same
+- [00:06:56,500 - 00:06:57,019] thing so i'm not saying that's the way that we
+- [00:06:57,019 - 00:06:57,539] write about rivers and the rivers are the same thing
+- [00:06:57,539 - 00:07:01,459] and then there's a step beyond that which is
+- [00:07:01,459 - 00:07:05,380] being written by river and there we've we've gone so
+- [00:07:05,380 - 00:07:08,580] we've gone from about to buy and we've
+- [00:07:08,580 - 00:07:11,780] gone metaphysically we've gone a huge distance whoa
+- [00:07:11,780 - 00:07:16,219] and being i at the very end of these years
+- [00:07:16,219 - 00:07:20,659] of river journey i i think i came to know briefly
+- [00:07:21,299 - 00:07:23,139] and very consequentially what it meant to
+- [00:07:23,139 - 00:07:24,979] be written by rivers does the word a
+- [00:07:25,460 - 00:07:28,339] word a conduit feel right yes you become
+- [00:07:28,339 - 00:07:31,219] a channel exactly a conduit is a lovely word
+- [00:07:31,219 - 00:07:34,019] for it because it is a river word it's kind
+- [00:07:34,019 - 00:07:36,820] of what rivers rivers are i mean water seeks a body
+- [00:07:37,859 - 00:07:41,139] we're water bodies doesn't always it will always
+- [00:07:41,139 - 00:07:44,419] find a container sometimes that's the banks of the
+- [00:07:44,419 - 00:07:47,619] river sometimes it's a wetland sometimes it's a human
+- [00:07:47,619 - 00:07:50,820] body in this case i felt very strongly that
+- [00:07:50,820 - 00:07:53,130] that the river was was was almost creating language through
+- [00:07:53,130 - 00:07:55,440] me as a conduit and i think that's what i'm
+- [00:07:55,460 - 00:08:00,890] doing to use your excellent word hmm tell me more
+- [00:08:00,890 - 00:08:06,320] about how you weaved in the flow and the rhythm of
+- [00:08:06,320 - 00:08:09,280] rivers into your writing well so rhythm is
+- [00:08:09,280 - 00:08:12,240] something i'm is i'm obsessive about many things
+- [00:08:12,240 - 00:08:14,459] i'm an obsessive obsessive but so you've so far
+- [00:08:14,459 - 00:08:16,679] heard me on prepositions you should come on how i
+- [00:08:16,679 - 00:08:18,699] write sometimes i feel like it'd be a good show
+- [00:08:18,699 - 00:08:20,719] for you to come on that's a great idea we can
+- [00:08:20,719 - 00:08:22,819] wig out we can nerd out all right i'll set up
+- [00:08:22,819 - 00:08:24,919] a time about this day so you know i'll have a chat
+- [00:08:25,460 - 00:08:29,710] nice library background um yeah okay nerd to nerd
+- [00:08:29,710 - 00:08:33,960] um rhythm so we we recognize rhythm as a function
+- [00:08:33,960 - 00:08:36,879] of of of poetry you would that's something we
+- [00:08:36,879 - 00:08:39,799] actively listen for when we meet a poem when we
+- [00:08:39,799 - 00:08:43,859] read a poem we we hear it in our mind's
+- [00:08:43,859 - 00:08:47,920] ear a poem we sound it even fiction i mean james
+- [00:08:47,920 - 00:08:51,679] joyce's ulysses uh or uh finnegan's wake
+- [00:08:51,679 - 00:08:55,439] deeply rhythmically alert texts but in non-fiction
+- [00:08:55,460 - 00:08:58,410] i think partly because it has this weird name
+- [00:08:58,410 - 00:09:01,360] non-fiction the thing that it isn't um like it
+- [00:09:01,360 - 00:09:03,880] isn't fiction it isn't fiction that's that's the only
+- [00:09:03,880 - 00:09:06,400] way we define it it's like what's why what
+- [00:09:06,400 - 00:09:08,500] are the two kinds of books exactly there's fiction
+- [00:09:08,500 - 00:09:10,600] and then there's and the stuff that's not fiction
+- [00:09:10,600 - 00:09:14,040] not fiction right which i just find so
+- [00:09:14,040 - 00:09:17,480] strange and and i think that almost subordinate relationship
+- [00:09:17,480 - 00:09:20,300] with fiction that non-fiction has is one reason why
+- [00:09:20,300 - 00:09:23,120] we don't expect it to be rhythmic let's say
+- [00:09:23,640 - 00:09:25,300] or to or to be sound patterned
+- [00:09:25,460 - 00:09:27,620] and rhythm and sound pattern is something that
+- [00:09:27,620 - 00:09:29,780] i have been obsessed with from the very beginning
+- [00:09:29,780 - 00:09:32,900] because they they work upon the mind the reader's
+- [00:09:32,900 - 00:09:36,020] mind the reader's mind's ear in ways that are
+- [00:09:36,020 - 00:09:38,180] different to propositional language they're not telling
+- [00:09:38,180 - 00:09:40,340] you what to think they're not an argument
+- [00:09:40,340 - 00:09:43,940] they're not a set of facts they're not
+- [00:09:43,940 - 00:09:47,540] laying out propositions they're working on what heeney once
+- [00:09:47,540 - 00:09:51,220] called the backwards and the abism of the mind i
+- [00:09:51,220 - 00:09:54,900] think it means that they get they speak to deeper
+- [00:09:54,900 - 00:09:55,170] down from the bottom of the mind because they've
+- [00:09:55,170 - 00:09:55,440] been obsessed with the abism of the mind and they're
+- [00:09:55,440 - 00:09:57,720] forms of knowing, like in the same sense
+- [00:09:57,720 - 00:10:00,000] that rhythm, you know, when, if we're dancing,
+- [00:10:00,000 - 00:10:03,000] if we, we, our brains are not rational,
+- [00:10:03,000 - 00:10:06,000] rationally analyzing beat, our bodies are moving with
+- [00:10:06,000 - 00:10:08,600] it in ways that are surprising and
+- [00:10:08,600 - 00:10:11,200] pleasurable and, and, but are involved with knowledge
+- [00:10:11,200 - 00:10:12,200] as well.
+- [00:10:12,200 - 00:10:14,020] So, so rhythm, what does that
+- [00:10:14,020 - 00:10:15,840] mean in terms of like nonfiction?
+- [00:10:15,840 - 00:10:19,270] I've, so first lines, I probably spend longer
+- [00:10:19,270 - 00:10:22,700] on first lines than, than, than, than whole
+- [00:10:22,700 - 00:10:26,260] chapters and they get rewritten hundreds of times.
+- [00:10:26,260 - 00:10:27,820] So this is the first line,
+- [00:10:27,820 - 00:10:29,380] first line of a whole book.
+- [00:10:29,380 - 00:10:30,980] So much happens when you meet
+- [00:10:30,980 - 00:10:32,580] the first line of a whole book.
+- [00:10:32,580 - 00:10:34,240] So is a river alive?
+- [00:10:34,240 - 00:10:38,580] 12,000 years ago, a river is born.
+- [00:10:38,580 - 00:10:40,620] First line of the wild places.
+- [00:10:40,620 - 00:10:43,800] The wind was rising, so I went to the wood.
+- [00:10:43,800 - 00:10:45,980] So, or let's take that one.
+- [00:10:45,980 - 00:10:48,020] The wind was rising, so I went to the wood.
+- [00:10:48,020 - 00:10:49,020] Exactly.
+- [00:10:49,020 - 00:10:51,500] So there's a, exactly.
+- [00:10:51,500 - 00:10:52,500] We have, we have alliteration.
+- [00:10:52,500 - 00:10:56,140] The wind, the wood, the wind, we, but we
+- [00:10:56,140 - 00:10:59,780] also have, we have rhythm and there's also a puzzle.
+- [00:10:59,780 - 00:11:00,780] Hold on.
+- [00:11:00,780 - 00:11:02,450] The wind's rising, but why would you go
+- [00:11:02,450 - 00:11:04,120] to a wood when the wind is rising?
+- [00:11:04,120 - 00:11:05,580] Isn't that the last place you want to be?
+- [00:11:05,580 - 00:11:07,560] It becomes a dangerous place.
+- [00:11:07,560 - 00:11:10,920] And so I, you know how Hemingway sort of
+- [00:11:10,920 - 00:11:14,280] wrote these, um, he played with these sort of flash
+- [00:11:14,280 - 00:11:16,530] fictions long before flash fiction, because you
+- [00:11:16,530 - 00:11:18,780] know, how, how much suspense or puzzlement
+- [00:11:18,780 - 00:11:20,420] could you set up in
+- [00:11:20,420 - 00:11:22,060] a single, in a single sentence?
+- [00:11:22,060 - 00:11:24,749] Um, so very often I, I try
+- [00:11:24,749 - 00:11:27,439] to test a first line like that.
+- [00:11:27,439 - 00:11:29,339] 12,000 years ago, a river is born.
+- [00:11:29,339 - 00:11:30,339] A river is born.
+- [00:11:30,339 - 00:11:31,339] What does that mean?
+- [00:11:31,339 - 00:11:34,140] Is it born forever in time?
+- [00:11:34,140 - 00:11:36,319] And why 12,000 years ago?
+- [00:11:36,319 - 00:11:38,309] But also that one is less,
+- [00:11:38,309 - 00:11:40,300] uh, less rhythmic, shall we say.
+- [00:11:40,300 - 00:11:41,300] But it's more mysterious.
+- [00:11:41,300 - 00:11:42,300] It's mysterious.
+- [00:11:42,300 - 00:11:43,739] There's an ominousness about it.
+- [00:11:43,739 - 00:11:44,739] Yeah.
+- [00:11:44,739 - 00:11:46,060] Something, something happened 12,000 years ago.
+- [00:11:46,060 - 00:11:47,060] Okay.
+- [00:11:47,060 - 00:11:48,060] Wow.
+- [00:11:48,060 - 00:11:49,060] We're about to go way back in time.
+- [00:11:49,060 - 00:11:50,060] Way back in time.
+- [00:11:50,060 - 00:11:51,060] Exactly.
+- [00:11:51,060 - 00:11:54,420] And then, um, yeah, I think the next line is
+- [00:11:54,420 - 00:11:57,780] at the foot of a hill on which flints lie
+- [00:11:57,780 - 00:12:01,580] white as eyes, water rises for the first time
+- [00:12:01,580 - 00:12:05,380] from a crack in the chalk, rises and flows,
+- [00:12:05,380 - 00:12:08,839] rises and flows and on we, and on we go.
+- [00:12:08,839 - 00:12:12,140] So flint, flints lie white as eyes.
+- [00:12:12,140 - 00:12:14,520] We have the white and the eyes at the
+- [00:12:14,520 - 00:12:16,900] foot of a hill and then rises, rises and flows,
+- [00:12:16,900 - 00:12:20,099] rises and flows, picks up the sound of the eyes.
+- [00:12:20,100 - 00:12:22,170] So already the sound patterning
+- [00:12:22,170 - 00:12:24,240] starting to starting to happen.
+- [00:12:24,240 - 00:12:26,330] And the reader's mind's ear, as I
+- [00:12:26,330 - 00:12:28,420] keep referring to it, gets activated by that.
+- [00:12:28,420 - 00:12:31,070] I think whether they know it or not, they
+- [00:12:31,070 - 00:12:33,720] start to hear internal rhyme and it just makes
+- [00:12:33,720 - 00:12:34,860] you kind of sit up.
+- [00:12:34,860 - 00:12:35,860] Okay.
+- [00:12:35,860 - 00:12:37,240] This is, I'm not, I'm not dealing
+- [00:12:37,240 - 00:12:38,620] with a kind of fact book here.
+- [00:12:38,620 - 00:12:41,380] I'm dealing with a, with, with a text
+- [00:12:41,380 - 00:12:44,140] in which something other, other forms and forces are
+- [00:12:44,140 - 00:12:45,820] going to be active here.
+- [00:12:45,820 - 00:12:46,820] Mm-hmm.
+- [00:12:46,820 - 00:12:47,820] Yeah.
+- [00:12:47,820 - 00:12:49,820] Maybe you can help me ground this.
+- [00:12:49,820 - 00:12:52,180] But I'm thinking about the different flows of rivers, right?
+- [00:12:52,180 - 00:12:53,180] There's rapids.
+- [00:12:53,180 - 00:12:54,180] Yep.
+- [00:12:54,180 - 00:12:55,180] There's still waters.
+- [00:12:55,180 - 00:12:56,560] We say still waters run deep.
+- [00:12:56,560 - 00:12:58,280] And then there's rivers that,
+- [00:12:58,280 - 00:13:00,000] that, that, that kind of meander.
+- [00:13:00,000 - 00:13:01,000] There's straight rivers.
+- [00:13:01,000 - 00:13:02,000] Yes.
+- [00:13:02,000 - 00:13:04,080] Like there's every single flow
+- [00:13:04,080 - 00:13:06,160] that you could get in writing.
+- [00:13:06,160 - 00:13:07,770] I feel like you could
+- [00:13:07,770 - 00:13:09,380] find a river equivalent for that.
+- [00:13:09,380 - 00:13:10,380] Absolutely.
+- [00:13:10,380 - 00:13:14,040] And that's why I think the, the idea
+- [00:13:14,040 - 00:13:17,700] that river language is, is just fast language isn't,
+- [00:13:17,700 - 00:13:18,700] isn't right.
+- [00:13:18,700 - 00:13:19,700] So.
+- [00:13:19,700 - 00:13:20,700] Like, it's just too slow and slow.
+- [00:13:20,700 - 00:13:21,700] They pool.
+- [00:13:21,700 - 00:13:22,700] They, they pause.
+- [00:13:22,700 - 00:13:23,700] They, yeah, exactly.
+- [00:13:23,700 - 00:13:26,740] So there's a bit, I, I remember trying to
+- [00:13:26,740 - 00:13:29,780] work on, so I paddled this huge river, the
+- [00:13:29,780 - 00:13:31,660] Muteshikau Ship with the Magpie River up
+- [00:13:31,660 - 00:13:33,540] in Northeastern Quebec, and we were dropped in
+- [00:13:33,540 - 00:13:34,540] by float plane.
+- [00:13:34,540 - 00:13:36,590] And then we, we, we paddled out over,
+- [00:13:36,590 - 00:13:38,640] and there's nothing like you get dropped, we got
+- [00:13:38,640 - 00:13:40,760] dropped in at the head of this
+- [00:13:40,760 - 00:13:42,880] lake, Lac Magpie that's 75 kilometers long.
+- [00:13:42,880 - 00:13:45,150] That's like, is from my home to the
+- [00:13:45,150 - 00:13:47,420] center of London, Canadian scale boggles my tiny
+- [00:13:47,420 - 00:13:48,580] English mind.
+- [00:13:48,580 - 00:13:53,320] And then the river has you and you follow the river through some
+- [00:13:53,320 - 00:13:58,060] wild water all the way to the coast of the Gulf of St. Lawrence.
+- [00:13:58,600 - 00:14:02,590] So there are so many, as you say, like kind
+- [00:14:02,590 - 00:14:06,580] of forms and almost species of water in that 120 miles.
+- [00:14:06,740 - 00:14:11,580] And so when I came to write about it, I realized that the
+- [00:14:11,580 - 00:14:16,420] flat water, the lake water needed a different set of rhythms and tones.
+- [00:14:16,420 - 00:14:19,939] And then the river, where the river was fast, that's where
+- [00:14:19,939 - 00:14:23,459] the dashes came and the liquid language came and the speed came.
+- [00:14:23,540 - 00:14:26,200] And I wanted the reader to feel what
+- [00:14:26,200 - 00:14:28,860] I felt like when that river picked me up.
+- [00:14:29,199 - 00:14:31,009] So tell me, how do you write speed?
+- [00:14:31,009 - 00:14:32,819] Is it like short sentences? Is it fast sentences?
+- [00:14:32,979 - 00:14:34,809] Like how do you write that? Like, is
+- [00:14:34,809 - 00:14:36,640] that what it is? What do you do?
+- [00:14:36,839 - 00:14:39,629] So I can give you an example. So we're cutting
+- [00:14:39,629 - 00:14:42,420] into a sentence that is already half a page long.
+- [00:14:44,420 - 00:14:46,400] And I am staring straight.
+- [00:14:46,479 - 00:14:48,979] I look down into the hole at the wave's foot and
+- [00:14:48,979 - 00:14:51,479] then I'm airborne and slammed into the hole headfirst and upside down.
+- [00:14:51,579 - 00:14:54,109] I am exploded out of the boat on impact as
+- [00:14:54,109 - 00:14:56,640] if hurled from an ejector seat down into the white hole.
+- [00:14:56,740 - 00:14:59,330] And river is punching fingers up my nostrils and river
+- [00:14:59,330 - 00:15:01,920] is ramming fist into my mouth and down my throat.
+- [00:15:02,000 - 00:15:03,979] And I'm deep now, but the right way up.
+- [00:15:04,060 - 00:15:06,340] So I grab handfuls of water and haul for the surface on
+- [00:15:06,340 - 00:15:08,620] them as if they're holds on a cliff or rungs on a ladder.
+- [00:15:08,620 - 00:15:11,400] But they dissolve under each grasp and I'm kicking out
+- [00:15:11,400 - 00:15:14,180] and feel my feet bang against the rocks on the riverbed.
+- [00:15:14,540 - 00:15:15,780] And one of them catches briefly.
+- [00:15:15,980 - 00:15:16,000] And.
+- [00:15:16,420 - 00:15:17,579] And so on and so on and so on.
+- [00:15:17,920 - 00:15:19,540] So there's a couple of things there.
+- [00:15:19,719 - 00:15:21,640] And, and is your friend, right?
+- [00:15:21,800 - 00:15:24,920] And is the is the conjunction equivalent of the dash.
+- [00:15:24,959 - 00:15:27,760] It just it tumbles and it tumbles and it tumbles.
+- [00:15:27,760 - 00:15:30,669] It doesn't slow or stop or ask
+- [00:15:30,669 - 00:15:33,579] you to establish primacy or hierarchy between clauses.
+- [00:15:34,099 - 00:15:36,760] It just runs you on and, and, and, and.
+- [00:15:36,760 - 00:15:39,880] And the clauses between the ands get
+- [00:15:39,880 - 00:15:43,000] shorter and quicker and verbs become more active.
+- [00:15:43,420 - 00:15:45,180] River. And I dropped the article there.
+- [00:15:45,180 - 00:15:46,360] So it's not the river.
+- [00:15:46,420 - 00:15:50,020] It's river rams fingers up my nostrils
+- [00:15:50,020 - 00:15:53,620] and river rams fists down my throat.
+- [00:15:53,620 - 00:15:55,669] And I'm calling and, and, and,
+- [00:15:55,669 - 00:15:57,719] and, I mean, it's very simple, really.
+- [00:15:57,719 - 00:16:00,739] It's a syntax of panic, of speed,
+- [00:16:00,739 - 00:16:03,760] of rapidity in both senses of the word.
+- [00:16:03,760 - 00:16:05,620] So kind of, kind of easy.
+- [00:16:05,620 - 00:16:09,540] But when you read it, you yourself become breathless.
+- [00:16:09,540 - 00:16:10,920] You can't, you don't know when to breathe.
+- [00:16:10,920 - 00:16:12,379] And that's what it's like being
+- [00:16:12,379 - 00:16:13,839] buried in a rapid like that.
+- [00:16:14,300 - 00:16:14,880] Yeah.
+- [00:16:15,079 - 00:16:16,180] Tell me about.
+- [00:16:16,420 - 00:16:20,420] How, when you're out, the notes become, become books
+- [00:16:20,420 - 00:16:24,420] because you start off and you write these little scribbles.
+- [00:16:24,420 - 00:16:24,920] Yes.
+- [00:16:24,920 - 00:16:26,920] Just little scribbles here, little scribbles there.
+- [00:16:26,920 - 00:16:28,500] And you're not back to that word.
+- [00:16:28,500 - 00:16:30,219] You're not trying to capture the experience.
+- [00:16:30,219 - 00:16:31,579] It's just little script scribbles.
+- [00:16:31,800 - 00:16:32,759] And then you go from
+- [00:16:32,759 - 00:16:33,719] there and then there's another step.
+- [00:16:33,719 - 00:16:35,569] And then there's just the
+- [00:16:35,569 - 00:16:37,420] work of actually writing the book.
+- [00:16:37,420 - 00:16:38,180] How does that happen?
+- [00:16:38,719 - 00:16:39,120] Yeah.
+- [00:16:39,260 - 00:16:39,920] Thank you.
+- [00:16:39,920 - 00:16:41,180] It fascinates me.
+- [00:16:41,500 - 00:16:42,620] It is alchemical.
+- [00:16:42,620 - 00:16:43,880] It's quite mysterious.
+- [00:16:43,880 - 00:16:45,579] It's also very laborious.
+- [00:16:46,420 - 00:16:49,219] So just to break it down into stages then.
+- [00:16:49,219 - 00:16:53,129] So because of the nature of the big books
+- [00:16:53,129 - 00:16:57,040] I write, they often take between four and eight years.
+- [00:16:57,040 - 00:16:58,420] They take many journeys.
+- [00:16:58,420 - 00:17:01,459] There's a lot of field work where I'm meeting people.
+- [00:17:01,459 - 00:17:05,000] I'm thinking with other people, with rivers, with mountains.
+- [00:17:05,000 - 00:17:08,540] So on those, I have my phone.
+- [00:17:09,079 - 00:17:12,920] But I prefer to use just these little notebooks.
+- [00:17:12,920 - 00:17:15,579] And they're just about this size, about A6.
+- [00:17:15,579 - 00:17:16,379] So they, they.
+- [00:17:16,420 - 00:17:18,880] They bend, they stick in a pocket, whatever.
+- [00:17:19,920 - 00:17:23,880] And into those, I'm just always pouring
+- [00:17:23,880 - 00:17:27,839] what I sometimes call like qualia or qualia.
+- [00:17:27,839 - 00:17:30,440] Like in the philosophy of mind,
+- [00:17:30,440 - 00:17:33,040] those are just the phenomena of perception.
+- [00:17:33,040 - 00:17:36,540] Subjective perception is broken down into qualia.
+- [00:17:37,120 - 00:17:39,460] And by that, that's just
+- [00:17:39,460 - 00:17:41,800] a grandiose name for saying stuff.
+- [00:17:41,920 - 00:17:44,110] The bits, the bobs, the fluff, the
+- [00:17:44,110 - 00:17:46,300] pebbles, the feathers that stick in my mind.
+- [00:17:46,420 - 00:17:49,720] As it might be a fragment of conversation.
+- [00:17:49,720 - 00:17:52,040] It might, but most often it's an image.
+- [00:17:52,920 - 00:17:56,420] And there's a, there's a, yeah, there's a real line that I'll come
+- [00:17:56,420 - 00:17:59,920] back to, which is about what happens to image between notebook and page.
+- [00:17:59,920 - 00:18:01,260] But I'll cut, I'll come back to that.
+- [00:18:01,580 - 00:18:04,020] And so the notebooks there, and I'm
+- [00:18:04,020 - 00:18:06,460] just, they're so messy that it's fragments.
+- [00:18:06,460 - 00:18:07,920] There's no continuity.
+- [00:18:08,620 - 00:18:11,460] Sometimes I call them like mica, like shards of mica.
+- [00:18:11,460 - 00:18:14,220] They, the stuff that glitters that, that goes in there.
+- [00:18:14,760 - 00:18:14,920] Hmm.
+- [00:18:14,920 - 00:18:16,380] Because you don't have time.
+- [00:18:16,420 - 00:18:20,000] To sort of fully process this stuff when
+- [00:18:20,000 - 00:18:23,580] you're having encounter with river or people or mountain.
+- [00:18:23,580 - 00:18:24,500] Just got to get it down.
+- [00:18:24,500 - 00:18:25,420] Got to get it down.
+- [00:18:25,500 - 00:18:27,180] And then, and then not worry about it.
+- [00:18:27,180 - 00:18:36,180] But, but that would be quite, you know, at the end of each day, I'll often, even if I'm 4,000 meters on a mountain or a hundred miles down a
+- [00:18:36,180 - 00:18:45,180] river, I'll still tired, flick the head torch on in the tent and just lie there and just jot and jot and try and pull it out of the brain fresh.
+- [00:18:45,380 - 00:18:45,660] Yeah.
+- [00:18:45,660 - 00:18:45,840] Yeah.
+- [00:18:45,840 - 00:18:46,340] And then I'll just sit there
+- [00:18:46,340 - 00:18:46,840] and do a few hours open.
+- [00:18:46,840 - 00:18:47,720] You know what I've been doing recently?
+- [00:18:47,720 - 00:18:49,139] I just get a little piece of paper.
+- [00:18:49,139 - 00:18:51,069] It's like maybe four inches by two
+- [00:18:51,069 - 00:18:53,000] inches, like smaller than an index card.
+- [00:18:53,000 - 00:18:53,179] Huh?
+- [00:18:53,419 - 00:18:55,779] And I've just been writing down thoughts that I have during
+- [00:18:55,779 - 00:18:58,139] the day with the goal of filling up the index card.
+- [00:18:58,600 - 00:19:01,220] And I'm always amazed at how many thoughts I've
+- [00:19:01,220 - 00:19:03,840] had that I didn't even realize that I had.
+- [00:19:04,139 - 00:19:09,949] And if I kind of force myself to get that full index card on the
+- [00:19:09,949 - 00:19:15,760] page, I'm like, oh my goodness, the number of interesting things that are actually happening here.
+- [00:19:15,760 - 00:19:15,800] Yeah.
+- [00:19:15,840 - 00:19:16,800] Maybe not even interesting.
+- [00:19:16,800 - 00:19:22,320] The number of things, whatever, it could be junk is actually way more than I thought,
+- [00:19:22,320 - 00:19:27,840] but I need to just sit with it and let the thoughts kind of arise and arise.
+- [00:19:27,840 - 00:19:28,600] It needs space.
+- [00:19:28,600 - 00:19:30,080] It needs time, stillness.
+- [00:19:30,340 - 00:19:32,340] So the page in your
+- [00:19:32,340 - 00:19:34,340] description becomes like a condensation surface.
+- [00:19:34,340 - 00:19:38,590] So you have this sort of vapor that you've thought that
+- [00:19:38,590 - 00:19:42,840] you've been working in and with, but almost invisibly because it's evaporated.
+- [00:19:42,840 - 00:19:44,259] But then when the paper
+- [00:19:44,259 - 00:19:45,679] then becomes the thing that condenses.
+- [00:19:45,679 - 00:19:45,800] Yeah.
+- [00:19:45,840 - 00:19:48,899] And I, I speak for paper pen and
+- [00:19:48,899 - 00:19:51,959] paper do things that pixel and, and keyboard can't.
+- [00:19:51,959 - 00:19:52,760] I re I really believe that.
+- [00:19:52,760 - 00:19:54,139] What about more intimate?
+- [00:19:54,639 - 00:19:55,600] What is it?
+- [00:19:55,879 - 00:19:59,049] I think there's a, yeah, sometimes say they're kind of the
+- [00:19:59,049 - 00:20:02,220] notes are what you flip fresh from the fresh from the fire.
+- [00:20:02,220 - 00:20:06,910] Like they're hot and they're, they glow that ill th they're, they're
+- [00:20:06,910 - 00:20:11,600] unformed in terms of ways that could be communicable to the reader.
+- [00:20:11,600 - 00:20:13,179] I think that's what I would argue.
+- [00:20:13,179 - 00:20:14,159] I think that's a great point.
+- [00:20:14,159 - 00:20:14,600] I think that's, I think.
+- [00:20:14,600 - 00:20:14,899] Yeah.
+- [00:20:14,899 - 00:20:15,179] Yeah.
+- [00:20:15,179 - 00:20:15,260] Yeah.
+- [00:20:15,260 - 00:20:15,379] Yeah.
+- [00:20:15,379 - 00:20:15,540] Yeah.
+- [00:20:15,540 - 00:20:17,340] to other people.
+- [00:20:17,340 - 00:20:18,860] Like nobody could read my notebooks
+- [00:20:18,860 - 00:20:21,840] and follow a linear flow.
+- [00:20:21,840 - 00:20:24,180] I looked at them, they seemed completely messy
+- [00:20:24,180 - 00:20:25,500] and beyond comprehension.
+- [00:20:25,500 - 00:20:27,440] Exactly, except to me.
+- [00:20:27,440 - 00:20:29,500] So they're highly encrypted.
+- [00:20:29,500 - 00:20:31,600] There's only one person who could possibly-
+- [00:20:31,600 - 00:20:33,300] This is the original encryption.
+- [00:20:33,300 - 00:20:34,320] It's bad handwriting.
+- [00:20:34,320 - 00:20:35,220] Exactly.
+- [00:20:35,220 - 00:20:37,940] WhatsApp end-to-end has nothing on my,
+- [00:20:37,940 - 00:20:39,040] if anyone, yeah.
+- [00:20:39,040 - 00:20:41,540] So then how do you
+- [00:20:41,540 - 00:20:44,040] then turn a highly encrypted code,
+- [00:20:44,040 - 00:20:46,120] readable, legible to only one person,
+- [00:20:46,120 - 00:20:50,560] into a book that might be read by 100,000 people,
+- [00:20:50,560 - 00:20:52,159] if you're fortunate?
+- [00:20:52,159 - 00:20:54,139] And the answer is with a lot of work.
+- [00:20:54,139 - 00:20:56,879] But the next stage is when I come home
+- [00:20:56,879 - 00:20:59,089] from a big field trip,
+- [00:20:59,089 - 00:21:01,300] I will have five, six, seven,
+- [00:21:01,300 - 00:21:04,020] 10 notebooks all rammed and crammed.
+- [00:21:04,020 - 00:21:06,139] And sometimes I will literally pick up feathers
+- [00:21:06,139 - 00:21:09,360] and bits of earth and leaf and stuff
+- [00:21:09,360 - 00:21:11,320] and just stick them in the back of the notebook
+- [00:21:11,320 - 00:21:12,899] just as more mnemonics.
+- [00:21:12,899 - 00:21:13,740] Yeah.
+- [00:21:13,740 - 00:21:17,920] But then comes the, and what happens at this stage
+- [00:21:17,920 - 00:21:19,900] is I sit with the notebooks and I'll work through
+- [00:21:19,900 - 00:21:21,500] page after page, and now
+- [00:21:21,500 - 00:21:23,100] I am on screen and keyboard.
+- [00:21:23,100 - 00:21:26,700] And there, this kind of filling out happens
+- [00:21:26,700 - 00:21:29,460] because each of those little fragments to me
+- [00:21:29,460 - 00:21:32,860] becomes the end of a thread of memory.
+- [00:21:32,860 - 00:21:34,350] So that's the only bit you
+- [00:21:34,350 - 00:21:35,840] can see is the tiny fragment
+- [00:21:35,840 - 00:21:37,900] and you, but as you pull, pull, pull, pull.
+- [00:21:37,900 - 00:21:38,740] Pull, pull.
+- [00:21:38,740 - 00:21:39,580] Exactly.
+- [00:21:39,580 - 00:21:40,420] Pull.
+- [00:21:40,420 - 00:21:42,100] Exactly, and they just keep coming.
+- [00:21:42,100 - 00:21:43,520] And so there-
+- [00:21:43,520 - 00:21:44,449] My memory seems to be
+- [00:21:44,449 - 00:21:45,379] able to kind of go back
+- [00:21:45,379 - 00:21:47,500] into where the fragment was.
+- [00:21:47,500 - 00:21:49,760] And then the whole scene
+- [00:21:49,760 - 00:21:52,020] within which the fragment was jotted
+- [00:21:52,020 - 00:21:54,280] sort of opens around it.
+- [00:21:54,280 - 00:21:56,100] And I find that very exciting.
+- [00:21:56,100 - 00:21:57,750] And I then kind of summon
+- [00:21:57,750 - 00:21:59,400] that space as best I'm able
+- [00:21:59,400 - 00:22:01,740] in language or make a connection with,
+- [00:22:01,740 - 00:22:03,110] and now is when pattern
+- [00:22:03,110 - 00:22:04,480] recognition starts to happen as well.
+- [00:22:04,480 - 00:22:07,700] You start to see this interesting mycelium
+- [00:22:07,700 - 00:22:09,360] of connections open up.
+- [00:22:09,360 - 00:22:13,360] And, and this is where I'll just mention,
+- [00:22:13,360 - 00:22:14,520] I'll just mention this Rilke line
+- [00:22:14,520 - 00:22:16,219] and see what you think of it.
+- [00:22:16,219 - 00:22:18,020] So it's in his letters to a young poet,
+- [00:22:18,020 - 00:22:19,760] which I would say to any reader.
+- [00:22:19,760 - 00:22:20,600] Gotta read it.
+- [00:22:20,600 - 00:22:21,439] Any writer.
+- [00:22:21,439 - 00:22:23,179] That's actually at,
+- [00:22:23,179 - 00:22:25,639] it's on the main table at my house right now.
+- [00:22:25,639 - 00:22:26,479] No way.
+- [00:22:26,479 - 00:22:27,320] I've just been flipping through it.
+- [00:22:27,320 - 00:22:28,240] Yeah, I was reading it last week.
+- [00:22:28,240 - 00:22:30,040] Oh, that's beautiful.
+- [00:22:30,040 - 00:22:34,240] Slender, wise, distilled, just fabulous.
+- [00:22:34,240 - 00:22:37,300] Yeah, writer to writer as it were.
+- [00:22:38,439 - 00:22:41,360] And he says, I don't know whose translation this is.
+- [00:22:41,360 - 00:22:43,340] The images,
+- [00:22:43,360 - 00:22:46,360] of the eyes are now present,
+- [00:22:46,360 - 00:22:47,759] but now is the time to
+- [00:22:47,759 - 00:22:49,159] go and do the heart work
+- [00:22:49,159 - 00:22:51,300] on the images that lie inside you.
+- [00:22:51,300 - 00:22:52,139] Something like that.
+- [00:22:52,139 - 00:22:54,780] So I think what he's getting at there
+- [00:22:54,780 - 00:22:58,340] is the distinction between that kind of immediate,
+- [00:23:00,219 - 00:23:02,360] empirical sort of noticing.
+- [00:23:02,360 - 00:23:04,820] The notebook, the notebook work is at some level,
+- [00:23:04,820 - 00:23:07,419] the image of the eyes, but the heart work,
+- [00:23:07,419 - 00:23:08,860] that's the really hard work.
+- [00:23:08,860 - 00:23:10,399] The hard work is the hard work.
+- [00:23:10,399 - 00:23:13,360] And that's what comes when you return
+- [00:23:13,360 - 00:23:17,600] to these images and start to kind of understand
+- [00:23:17,600 - 00:23:19,199] their relation to other parts,
+- [00:23:19,199 - 00:23:21,020] to see how they've lodged in you,
+- [00:23:21,020 - 00:23:22,260] to see how they resonate.
+- [00:23:22,260 - 00:23:23,780] These, so that's the hard work.
+- [00:23:23,780 - 00:23:24,800] Make that concrete for me.
+- [00:23:24,800 - 00:23:25,959] What's an example?
+- [00:23:25,959 - 00:23:28,080] Yeah, really, really good question.
+- [00:23:28,080 - 00:23:30,300] So when I was writing a book called Underland,
+- [00:23:30,300 - 00:23:32,219] which took me eight years,
+- [00:23:33,760 - 00:23:35,560] I came to realize that
+- [00:23:35,560 - 00:23:37,360] there was a series of images
+- [00:23:37,360 - 00:23:39,780] that recurred across many of the journeys.
+- [00:23:40,679 - 00:23:41,179] And one of those images was,
+- [00:23:41,179 - 00:23:41,679] perhaps, the image of the eye.
+- [00:23:41,679 - 00:23:42,139] And one of those images was,
+- [00:23:42,139 - 00:23:42,600] perhaps, the image of the eye.
+- [00:23:42,600 - 00:23:42,980] And one of those images was,
+- [00:23:42,980 - 00:23:43,360] perhaps, the image of the eye.
+- [00:23:43,360 - 00:23:43,779] And one of those images was,
+- [00:23:43,779 - 00:23:44,199] perhaps, the image of the eye.
+- [00:23:44,199 - 00:23:45,020] Which is perhaps, unsurprisingly,
+- [00:23:45,020 - 00:23:46,979] the image of the open hand.
+- [00:23:46,979 - 00:23:51,979] I say unsurprisingly because the earliest cave art
+- [00:23:52,000 - 00:23:54,209] is exactly, I don't know if
+- [00:23:54,209 - 00:23:56,419] you know how those were made,
+- [00:23:56,419 - 00:23:57,540] but-
+- [00:23:57,540 - 00:23:58,379] I don't know anything about it.
+- [00:23:58,379 - 00:24:00,280] Okay, so what you'll know if you summon them
+- [00:24:00,280 - 00:24:04,860] into your mind's eye is that they're not hand prints.
+- [00:24:04,860 - 00:24:06,990] So it's not that you get
+- [00:24:06,990 - 00:24:09,120] a red print of the hand.
+- [00:24:09,120 - 00:24:11,560] You get the outline of the hand.
+- [00:24:11,560 - 00:24:12,399] And the way they,
+- [00:24:12,399 - 00:24:13,360] the way it seems that the red print
+- [00:24:13,360 - 00:24:16,639] that the early artists, cave artists did this,
+- [00:24:16,639 - 00:24:19,139] they would take a mouthful
+- [00:24:19,139 - 00:24:21,639] of red ochre dust, let's say,
+- [00:24:24,419 - 00:24:25,749] and then they would place
+- [00:24:25,749 - 00:24:27,080] the hand on the cave wall
+- [00:24:27,080 - 00:24:31,600] and then they would blow the dust around it.
+- [00:24:31,600 - 00:24:34,439] So in effect, they're creating a stencil.
+- [00:24:34,439 - 00:24:36,479] Some of the earliest art is stencil art
+- [00:24:36,479 - 00:24:38,719] with the human hand as the stencil.
+- [00:24:38,719 - 00:24:40,379] So then you take the hand away,
+- [00:24:40,379 - 00:24:42,100] you don't have the mark of the hand,
+- [00:24:42,100 - 00:24:44,820] you have the mark of the absence of the hand.
+- [00:24:44,820 - 00:24:47,399] And there's something very beautiful and ghostly about that,
+- [00:24:47,399 - 00:24:48,979] that what we see is
+- [00:24:48,979 - 00:24:50,560] not mark but absence of mark.
+- [00:24:50,560 - 00:24:54,219] And I became obsessed with that and realized,
+- [00:24:54,219 - 00:24:57,100] I'd see it in graffiti in the Paris catacombs,
+- [00:24:57,100 - 00:25:01,340] like made using spray can 20 years earlier
+- [00:25:01,340 - 00:25:04,679] rather than 36,000 years earlier,
+- [00:25:04,679 - 00:25:07,260] but there was a commonality between those.
+- [00:25:07,260 - 00:25:10,360] And I began to realize that the open hand
+- [00:25:10,360 - 00:25:12,100] was part of a repertoire
+- [00:25:12,100 - 00:25:15,500] of images that would become the heartwork of the book,
+- [00:25:15,500 - 00:25:16,879] to use Rilke's term.
+- [00:25:16,879 - 00:25:18,719] So what you're saying there is you see this image
+- [00:25:18,719 - 00:25:20,500] of the hand and the absence of the hand,
+- [00:25:20,500 - 00:25:21,660] you see it in Paris, you
+- [00:25:21,660 - 00:25:22,820] see it in the old cave art,
+- [00:25:22,820 - 00:25:25,340] and then you get to the keyboard, you say,
+- [00:25:25,340 - 00:25:27,280] okay, there's something deeper going on here.
+- [00:25:27,280 - 00:25:28,989] And then that is when you
+- [00:25:28,989 - 00:25:30,699] begin to pull on the thread
+- [00:25:30,699 - 00:25:32,280] to figure out what is that deeper thing.
+- [00:25:32,280 - 00:25:33,660] And then to even go
+- [00:25:33,660 - 00:25:35,040] back to earlier in our conversation,
+- [00:25:35,040 - 00:25:37,840] that's when the work of impressionism
+- [00:25:37,840 - 00:25:40,060] kind of comes into the writing or something.
+- [00:25:40,060 - 00:25:42,100] Yeah, so it's sort of about pattern recognition.
+- [00:25:42,100 - 00:25:44,139] Again, to use a phrase I used earlier,
+- [00:25:44,139 - 00:25:47,959] and I don't teach writing very much
+- [00:25:47,959 - 00:25:50,520] because I teach at Cambridge my whole time.
+- [00:25:50,520 - 00:25:53,699] But when I do teach writing,
+- [00:25:53,699 - 00:25:56,199] the first rule I give
+- [00:25:56,199 - 00:25:58,699] would-be writers is ass on chair.
+- [00:26:01,679 - 00:26:03,040] Turn up for work.
+- [00:26:03,040 - 00:26:04,300] It hurts.
+- [00:26:04,300 - 00:26:06,260] It's not much fun.
+- [00:26:06,260 - 00:26:09,399] You feel like you're banging your head against a blackboard.
+- [00:26:09,399 - 00:26:11,120] Don't run away from it.
+- [00:26:11,120 - 00:26:12,060] Don't fetishize it.
+- [00:26:12,100 - 00:26:14,000] Don't feel it's the working environment.
+- [00:26:14,000 - 00:26:15,899] Don't think you have to get the angle,
+- [00:26:15,899 - 00:26:17,639] the feng shui angle of your pencil
+- [00:26:17,639 - 00:26:19,219] exactly right on the writing desk
+- [00:26:19,219 - 00:26:22,139] before you can possibly begin to start writing.
+- [00:26:22,139 - 00:26:23,100] Ass on chair.
+- [00:26:23,100 - 00:26:24,269] Show up for work every
+- [00:26:24,269 - 00:26:25,439] day and put the time in.
+- [00:26:25,439 - 00:26:28,919] Second thing, look out for patterns.
+- [00:26:28,919 - 00:26:30,500] And so the open hand,
+- [00:26:30,500 - 00:26:32,020] I suddenly realized that the open hand
+- [00:26:32,020 - 00:26:33,980] was recurring throughout my notebooks.
+- [00:26:33,980 - 00:26:38,340] Include not just that kind of cave art hand placement,
+- [00:26:38,340 - 00:26:41,679] but also the open hand of greeting,
+- [00:26:41,680 - 00:26:44,080] of community, of welcome.
+- [00:26:44,080 - 00:26:49,040] And so I began to find ways of just highlighting
+- [00:26:49,040 - 00:26:51,140] the open hand wherever it occurred
+- [00:26:51,140 - 00:26:53,520] in my journeys, in my writing.
+- [00:26:53,520 - 00:26:55,100] And that then becomes a
+- [00:26:55,100 - 00:26:56,680] sort of pattern that lights up
+- [00:26:56,680 - 00:26:59,280] and for the reader and for the writer.
+- [00:26:59,280 - 00:27:03,200] And that lighting up is exciting when it happens.
+- [00:27:03,200 - 00:27:04,040] Yeah.
+- [00:27:04,040 - 00:27:06,400] So as reading is river alive,
+- [00:27:06,400 - 00:27:08,480] one of the things that
+- [00:27:08,480 - 00:27:10,560] occurred to me is that there,
+- [00:27:11,680 - 00:27:16,300] was a sense of awareness that you had a connection
+- [00:27:16,300 - 00:27:18,120] with nature and attunement that
+- [00:27:18,120 - 00:27:19,940] I think we lose as adults.
+- [00:27:19,940 - 00:27:21,260] And you're talking to your son
+- [00:27:21,260 - 00:27:24,380] and the conversation went something like,
+- [00:27:24,380 - 00:27:26,380] I'm writing this book about is a river alive?
+- [00:27:26,380 - 00:27:28,620] And your son said, duh, of course,
+- [00:27:28,620 - 00:27:30,580] like that book's not gonna be very long.
+- [00:27:30,580 - 00:27:32,380] And it made me realize like,
+- [00:27:32,380 - 00:27:36,640] there's these things that kids know
+- [00:27:36,640 - 00:27:37,860] that are facts about the world.
+- [00:27:37,860 - 00:27:39,100] Obviously it's like that.
+- [00:27:39,100 - 00:27:41,120] And then as adults, we lose that.
+- [00:27:41,120 - 00:27:41,660] Exactly. And then as adults, we lose that.
+- [00:27:41,660 - 00:27:45,400] And somehow when it comes to nature,
+- [00:27:45,400 - 00:27:47,460] you haven't lost that.
+- [00:27:48,900 - 00:27:53,800] Well, I think wonder is an essential survival skill.
+- [00:27:53,800 - 00:27:54,820] Ooh, tell me about wonder.
+- [00:27:54,820 - 00:27:59,820] Well, wonder is jaw dropped, right?
+- [00:28:01,560 - 00:28:05,300] It's the moment where you are just stepped back
+- [00:28:05,300 - 00:28:07,640] by the world's, by the miracle of the world
+- [00:28:07,640 - 00:28:11,100] and the freely given miracle of the world, a rainbow.
+- [00:28:11,100 - 00:28:13,340] A rainbow is like, I mean, a rainbow is,
+- [00:28:13,340 - 00:28:14,920] I think when you see
+- [00:28:14,920 - 00:28:16,500] a rainbow, you still stop and-
+- [00:28:16,500 - 00:28:17,639] Of course.
+- [00:28:17,639 - 00:28:19,379] Oh my goodness, the most magnificent rainbow.
+- [00:28:19,379 - 00:28:20,699] I just stood there by the window.
+- [00:28:20,699 - 00:28:21,639] I was like, wow.
+- [00:28:21,639 - 00:28:23,480] Wow. How is that?
+- [00:28:23,480 - 00:28:25,179] Every time, every time.
+- [00:28:25,179 - 00:28:26,020] That's wonder.
+- [00:28:26,020 - 00:28:28,020] And every time, rainbows are like,
+- [00:28:28,020 - 00:28:30,600] they're the charismatic megafauna of wonder, right?
+- [00:28:30,600 - 00:28:32,679] They do it often and well.
+- [00:28:32,679 - 00:28:35,719] The other thing about a rainbow is it's utterly bespoke.
+- [00:28:35,719 - 00:28:39,139] That is, it was your, it was David's rainbow.
+- [00:28:39,139 - 00:28:40,039] It was no one else's
+- [00:28:40,039 - 00:28:40,939] rainbow in the way it appeared.
+- [00:28:40,940 - 00:28:42,630] It was not created to
+- [00:28:42,630 - 00:28:44,320] you because it's a prismatic function
+- [00:28:44,320 - 00:28:48,060] that the water is lensing light and separating light
+- [00:28:48,060 - 00:28:50,380] into its constituent wavelengths.
+- [00:28:50,380 - 00:28:53,040] But the precise nature of that color
+- [00:28:53,040 - 00:28:55,100] and the position and form of
+- [00:28:55,100 - 00:28:57,160] the rainbow in the sky is,
+- [00:28:57,160 - 00:28:58,880] if you'd stepped a yard to the right
+- [00:28:58,880 - 00:29:00,300] and become a different person,
+- [00:29:00,300 - 00:29:01,560] you'd have seen a different rainbow.
+- [00:29:01,560 - 00:29:03,600] So that's wondrous.
+- [00:29:03,600 - 00:29:06,840] And science finesses the real into wonder.
+- [00:29:06,840 - 00:29:10,640] Like science is, science doesn't mean unweaving the rainbow.
+- [00:29:10,640 - 00:29:12,210] It can help us continue
+- [00:29:12,210 - 00:29:13,780] to be astonished by the world,
+- [00:29:13,780 - 00:29:16,320] just understand a little bit better how it works.
+- [00:29:16,320 - 00:29:18,300] So I don't see science and
+- [00:29:18,300 - 00:29:20,280] wonder as opposed, but I am.
+- [00:29:20,280 - 00:29:21,120] I always struggled with that.
+- [00:29:21,120 - 00:29:22,360] When I was a kid, I
+- [00:29:22,360 - 00:29:23,600] used to tell my science teachers,
+- [00:29:23,600 - 00:29:25,260] I don't want to know, I don't want to know.
+- [00:29:25,260 - 00:29:26,540] Because for me, there was
+- [00:29:26,540 - 00:29:27,820] a way that science was taught
+- [00:29:27,820 - 00:29:30,320] that actually stripped the wonder out of the world.
+- [00:29:30,320 - 00:29:31,760] And I didn't like science class
+- [00:29:31,760 - 00:29:32,890] because I didn't want to know
+- [00:29:32,890 - 00:29:34,020] about the stars in the sky.
+- [00:29:34,020 - 00:29:35,470] I just wanted them to
+- [00:29:35,470 - 00:29:36,920] be like little dots that God
+- [00:29:36,920 - 00:29:38,400] or whatever hung in the sky.
+- [00:29:38,400 - 00:29:39,760] And that was that, cool.
+- [00:29:39,760 - 00:29:44,520] Well, you and John Keats, the poet who castigated science
+- [00:29:44,520 - 00:29:46,760] for, as he put it, unweaving the rainbow.
+- [00:29:46,760 - 00:29:49,150] So yeah, so you have
+- [00:29:49,150 - 00:29:51,540] a friend in a romantic poet,
+- [00:29:51,540 - 00:29:54,040] great, great author of Ode to a Nightingale
+- [00:29:54,040 - 00:29:54,940] and Ode on a Grishna.
+- [00:29:54,940 - 00:29:57,160] And so let's not unweave the rainbow.
+- [00:29:57,160 - 00:29:59,720] Actually, I think unweaving the rainbow is part of the,
+- [00:29:59,720 - 00:30:01,680] is fine, I'm fine with that.
+- [00:30:01,680 - 00:30:03,670] But wonder is super powerful
+- [00:30:03,670 - 00:30:05,660] and it's kids have it, right?
+- [00:30:05,660 - 00:30:07,160] Not always, no, I mean, children,
+- [00:30:07,160 - 00:30:09,760] but I sometimes call children wondernauts.
+- [00:30:09,760 - 00:30:11,620] Like they're not astronauts, they're wondernauts.
+- [00:30:11,620 - 00:30:14,060] They're continually voyaging in wonder.
+- [00:30:14,060 - 00:30:15,260] So when I write for children,
+- [00:30:15,260 - 00:30:17,020] I try to let wonder kind
+- [00:30:17,020 - 00:30:18,780] of take charge as it were,
+- [00:30:18,780 - 00:30:20,860] but also with an ear to rhythm and sound.
+- [00:30:20,860 - 00:30:22,410] So I wrote a spell
+- [00:30:22,410 - 00:30:23,960] in this big book of spells,
+- [00:30:23,960 - 00:30:24,800] nature spells for children.
+- [00:30:24,800 - 00:30:25,640] You wrote this?
+- [00:30:25,640 - 00:30:27,200] Yeah, I wrote this called The Lost Words,
+- [00:30:27,200 - 00:30:29,740] working with this wonderful artist called Jackie Morris.
+- [00:30:29,740 - 00:30:31,410] And so I wrote, for example,
+- [00:30:31,410 - 00:30:33,080] I wrote a spell for the otter.
+- [00:30:33,080 - 00:30:35,900] And the idea is that children would speak these aloud
+- [00:30:35,900 - 00:30:38,220] as spells, they would become spell casters
+- [00:30:38,220 - 00:30:38,760] and they would kind of conjure back, you know,
+- [00:30:38,760 - 00:30:39,600] the magic of the spell.
+- [00:30:39,600 - 00:30:41,040] And then they would conjure back these creatures,
+- [00:30:41,040 - 00:30:42,139] plants or birds.
+- [00:30:42,139 - 00:30:44,459] So the otter spell begins, I'll
+- [00:30:44,459 - 00:30:46,780] see if I can do it.
+- [00:30:46,780 - 00:30:51,740] So, otter enters water without falter,
+- [00:30:51,740 - 00:30:56,360] water supple slider out of halter into river.
+- [00:30:56,360 - 00:30:59,300] This shape shift is a sheer breath taker,
+- [00:30:59,300 - 00:31:01,500] a sure heart stopper,
+- [00:31:01,500 - 00:31:05,199] but you'll never spot an actual otter,
+- [00:31:05,199 - 00:31:09,439] only ever bubble scheme or shadow flutter.
+- [00:31:09,600 - 00:31:12,100] And then it ends, run
+- [00:31:12,100 - 00:31:14,600] to the river bank, otter dreamer,
+- [00:31:15,399 - 00:31:18,500] slip your skin and change your matter,
+- [00:31:18,500 - 00:31:22,780] slide your outer being into water and enter now
+- [00:31:22,780 - 00:31:25,419] as otter without falter into river.
+- [00:31:27,540 - 00:31:29,379] Nice, something like that.
+- [00:31:29,379 - 00:31:31,620] So, but you can hear the, again,
+- [00:31:31,620 - 00:31:34,620] the liquidity of the flow of the internal rhyme
+- [00:31:34,620 - 00:31:38,639] and the otter and the language and such like.
+- [00:31:38,639 - 00:31:39,560] So, I think that's it.
+- [00:31:39,560 - 00:31:41,500] I think there's wonder, there's otter,
+- [00:31:41,500 - 00:31:43,600] there's rhythm, there's pace.
+- [00:31:43,600 - 00:31:45,760] That at least is what I'm trying to do.
+- [00:31:45,760 - 00:31:48,500] And then watching children actually take those
+- [00:31:48,500 - 00:31:53,379] and speak them aloud as I get these wonderful films
+- [00:31:53,379 - 00:31:55,679] sent to me of children kind of on riverbanks,
+- [00:31:55,679 - 00:31:57,879] speaking the otter spell and then like,
+- [00:31:57,879 - 00:31:59,980] where's the otter, where's the otter?
+- [00:31:59,980 - 00:32:03,659] Well, what you're talking about with wonder,
+- [00:32:03,659 - 00:32:05,639] it reminded me of awe and
+- [00:32:05,639 - 00:32:07,620] there's a poem by William Blake
+- [00:32:07,620 - 00:32:08,560] and it starts like this.
+- [00:32:08,560 - 00:32:09,399] It's like,
+- [00:32:09,399 - 00:32:10,860] to see a world in a grain of sand
+- [00:32:10,860 - 00:32:12,760] and heaven in a wildflower,
+- [00:32:12,760 - 00:32:15,240] hold infinity in the palm of your hand
+- [00:32:15,240 - 00:32:16,840] and eternity in an hour.
+- [00:32:16,840 - 00:32:17,659] Yes.
+- [00:32:17,659 - 00:32:20,200] Like, yes, yes, yes, yes, right?
+- [00:32:20,200 - 00:32:23,139] Like to see a world in a grain of sand,
+- [00:32:23,139 - 00:32:28,139] like there's a way of activating and awakening your mind
+- [00:32:28,540 - 00:32:30,179] that, oh, it's just a grain of sand.
+- [00:32:30,179 - 00:32:31,159] Come on, let's go on.
+- [00:32:31,159 - 00:32:33,940] Versus like, it's a grain of sand.
+- [00:32:33,940 - 00:32:37,080] Think of the lineage of that grain of sand,
+- [00:32:37,080 - 00:32:37,919] how it got there.
+- [00:32:37,920 - 00:32:39,220] And all the times that
+- [00:32:39,220 - 00:32:40,520] the waves have come over it,
+- [00:32:40,520 - 00:32:42,660] the feet that have touched that thing.
+- [00:32:42,660 - 00:32:44,900] And like, just in a grain of sand,
+- [00:32:44,900 - 00:32:47,400] the variance of what we can see
+- [00:32:47,400 - 00:32:49,900] or not see can be so vast.
+- [00:32:50,000 - 00:32:51,980] And I think if you're writing about nature,
+- [00:32:51,980 - 00:32:53,760] that applies to everything, right?
+- [00:32:53,760 - 00:32:55,700] Yeah, Blake's a wonderful example.
+- [00:32:55,700 - 00:32:58,200] And he also says the
+- [00:32:58,200 - 00:33:00,700] green tree is to some people
+- [00:33:02,180 - 00:33:04,800] just the thing that stands in the way
+- [00:33:04,800 - 00:33:07,560] and to others, it will set them weeping,
+- [00:33:07,920 - 00:33:08,760] like this.
+- [00:33:08,760 - 00:33:10,320] So again, it's that kind of,
+- [00:33:10,320 - 00:33:13,520] it's the perception of perception as it were.
+- [00:33:13,520 - 00:33:14,720] So yeah.
+- [00:33:14,720 - 00:33:16,360] And the other thing about that,
+- [00:33:16,360 - 00:33:18,280] say about that Blake poem is of course, it's tiny.
+- [00:33:18,280 - 00:33:20,780] It is itself a grain of sand in that sense,
+- [00:33:20,780 - 00:33:24,940] but it contains or speaks to eternity and universality.
+- [00:33:24,940 - 00:33:27,240] So Blake's playing with scale there.
+- [00:33:27,240 - 00:33:32,240] And I think when you realize that the human scale
+- [00:33:32,240 - 00:33:34,440] are six foot bodies or whatever.
+- [00:33:34,440 - 00:33:35,280] Thank you.
+- [00:33:35,280 - 00:33:36,100] Thank you.
+- [00:33:36,100 - 00:33:36,940] I'll take six feet.
+- [00:33:36,940 - 00:33:37,800] Six feet.
+- [00:33:37,920 - 00:33:38,920] You're welcome back anytime.
+- [00:33:38,920 - 00:33:44,420] I'll lend you a couple of inches.
+- [00:33:44,420 - 00:33:46,590] They're sort of how we measure and
+- [00:33:46,590 - 00:33:48,760] see the world, but they're only one scale.
+- [00:33:48,760 - 00:33:51,750] And in fact, we stand sort of
+- [00:33:51,750 - 00:33:54,740] vertiginously above all of these extraordinary micro scales
+- [00:33:54,740 - 00:33:56,780] and then the macro scales above us.
+- [00:33:56,780 - 00:33:58,520] And that fascinates me.
+- [00:33:58,520 - 00:34:00,470] There was this moment in the early 17th
+- [00:34:00,470 - 00:34:02,420] century when the microscope and the telescope was
+- [00:34:02,420 - 00:34:04,650] suddenly cracking open the scales of the world
+- [00:34:04,650 - 00:34:06,880] and Galileo was seeing the mountains on the
+- [00:34:06,880 - 00:34:09,739] moon and Anton van Leeuwenhoek was using a
+- [00:34:09,739 - 00:34:12,600] microscope to peer into a droplet of pond
+- [00:34:12,600 - 00:34:14,830] water and see it, as
+- [00:34:14,830 - 00:34:17,060] he put it, teeming with animalcules.
+- [00:34:17,060 - 00:34:19,489] Suddenly all these other scales of
+- [00:34:19,489 - 00:34:21,920] life and structure were revealed through technology.
+- [00:34:21,920 - 00:34:23,760] And technology is amazing at that.
+- [00:34:23,760 - 00:34:28,070] But yes, as a writer, I'm often interested
+- [00:34:28,070 - 00:34:32,380] in nesting different scales next to or within
+- [00:34:32,380 - 00:34:33,380] one another.
+- [00:34:33,380 - 00:34:34,380] Yeah.
+- [00:34:34,380 - 00:34:36,880] The other thing I wanted to get at is the
+- [00:34:36,880 - 00:34:37,880] blinders of rationality.
+- [00:34:37,880 - 00:34:38,880] Oh, great phrase.
+- [00:34:38,880 - 00:34:40,120] And you're right.
+- [00:34:40,120 - 00:34:42,630] For those who, like me, have been largely
+- [00:34:42,630 - 00:34:45,139] raised on rationalism, to imagine that a river
+- [00:34:45,139 - 00:34:47,710] is alive in a way that exceeds the
+- [00:34:47,710 - 00:34:50,280] sum of the lives it contains is difficult, counterintuitive
+- [00:34:50,280 - 00:34:51,280] work.
+- [00:34:51,280 - 00:34:55,639] It requires unlearning a process much harder than learning.
+- [00:34:55,639 - 00:34:56,780] Yeah.
+- [00:34:56,780 - 00:34:58,400] And the question is, what is unlearning?
+- [00:34:58,400 - 00:34:59,400] How do we unlearn?
+- [00:34:59,400 - 00:35:00,400] What is unlearning?
+- [00:35:00,400 - 00:35:03,040] And that's what I was trying to get at
+- [00:35:03,040 - 00:35:05,680] with the kids, that there's a way that kids see
+- [00:35:05,680 - 00:35:06,760] reality more clearly.
+- [00:35:06,880 - 00:35:07,880] Yeah.
+- [00:35:07,880 - 00:35:09,440] More clearly than adults do.
+- [00:35:09,440 - 00:35:10,440] But it's also enchanted.
+- [00:35:10,440 - 00:35:11,440] Yes.
+- [00:35:11,440 - 00:35:13,440] And it's filled with mystery and awe.
+- [00:35:13,440 - 00:35:14,440] Yeah.
+- [00:35:14,440 - 00:35:15,440] Yeah.
+- [00:35:15,440 - 00:35:17,780] And that was one of the through lines of
+- [00:35:17,780 - 00:35:20,120] stepping into the body of your work is like,
+- [00:35:20,120 - 00:35:21,960] whoa, there's something there that I don't know
+- [00:35:21,960 - 00:35:23,800] how to put words to, but it's sort of
+- [00:35:23,800 - 00:35:26,540] a question to pursue, you know?
+- [00:35:26,540 - 00:35:27,540] Thank you.
+- [00:35:27,540 - 00:35:31,760] I see the universe as, or the universe
+- [00:35:31,760 - 00:35:35,980] we inhabit as, how to put this, shattered by
+- [00:35:35,980 - 00:35:36,480] mystery.
+- [00:35:36,480 - 00:35:37,480] Yeah.
+- [00:35:37,480 - 00:35:38,480] Yeah.
+- [00:35:38,480 - 00:35:39,480] Yeah.
+- [00:35:39,480 - 00:35:40,480] Yeah.
+- [00:35:40,480 - 00:35:41,480] Yeah.
+- [00:35:41,480 - 00:35:41,980] It's interesting to me, I think of
+- [00:35:41,980 - 00:35:42,480] these early, you know, the early cave explorers,
+- [00:35:42,480 - 00:35:44,130] the early cave painters, when you hold up a
+- [00:35:44,130 - 00:35:45,780] light in a cave, especially if it's a flame
+- [00:35:45,780 - 00:35:48,440] light rather than a torch light, you light up
+- [00:35:48,440 - 00:35:51,100] just a tiny bit of the cave wall and you're
+- [00:35:51,100 - 00:35:54,240] barely aware of the extent of it around you.
+- [00:35:54,240 - 00:35:55,960] And as you move, the light follows
+- [00:35:55,960 - 00:35:57,680] you but is only ever lighting up.
+- [00:35:57,680 - 00:35:58,760] That's where we live.
+- [00:35:58,760 - 00:36:01,000] I mean, rationalism, we think rationalism is
+- [00:36:01,000 - 00:36:03,240] the great light that floods the universe
+- [00:36:03,240 - 00:36:05,040] and tells us the secrets of everything.
+- [00:36:05,040 - 00:36:08,399] Francis Bacon in 17th century says, let us
+- [00:36:08,399 - 00:36:11,759] torment nature until she yields her secrets to us.
+- [00:36:13,279 - 00:36:18,239] But nature's secrets far outstrip the tormenting tools
+- [00:36:18,239 - 00:36:23,200] of rationalism. So I suppose I enter each
+- [00:36:23,200 - 00:36:27,560] landscape, each encounter, each book aware that
+- [00:36:27,560 - 00:36:31,920] there is no possibility of catching and
+- [00:36:31,920 - 00:36:34,640] representing everything. So then it becomes a case of
+- [00:36:34,640 - 00:36:37,360] what do you light up and also what mysteries
+- [00:36:37,360 - 00:36:40,800] do you allude to, do you recognize? I mean, on the
+- [00:36:40,800 - 00:36:44,240] river, I had this encounter at the end of this big,
+- [00:36:44,240 - 00:36:47,920] big river journey, the end of four years of
+- [00:36:47,920 - 00:36:51,600] river travel with something that I can only describe as
+- [00:36:51,600 - 00:36:55,040] a kind of river being. It felt like
+- [00:36:55,040 - 00:36:58,480] a very godlike presence. How does language even come
+- [00:36:59,040 - 00:37:01,760] close to representing? That's the bit where I've
+- [00:37:01,760 - 00:37:01,830] really, really struggled with the language. I've
+- [00:37:01,830 - 00:37:01,900] really struggled with the language. I've really
+- [00:37:01,900 - 00:37:04,060] felt I was being written by an
+- [00:37:04,060 - 00:37:06,220] external force. So what happened? You were?
+- [00:37:07,100 - 00:37:09,820] Well, we'd been traveling, you know, this hard
+- [00:37:09,820 - 00:37:12,540] river journey for 10, 12 days. We'd been buried
+- [00:37:12,540 - 00:37:14,980] by the river. The river was running really
+- [00:37:14,980 - 00:37:17,420] high, huge wild river, that time of year, normally
+- [00:37:17,420 - 00:37:20,980] running about 150 cubic meters a second at the
+- [00:37:20,980 - 00:37:24,540] outflow. Here it was running 275. So it was like,
+- [00:37:27,180 - 00:37:29,460] it was more than double its normal, or
+- [00:37:29,460 - 00:37:31,740] it's approaching double its rate. And so we
+- [00:37:31,740 - 00:37:34,700] every day we were we were tumbled, we were
+- [00:37:34,700 - 00:37:37,660] we were swimming, we were bashed off rocks, we were
+- [00:37:37,660 - 00:37:41,019] running huge six foot waves sometimes. And that just
+- [00:37:41,019 - 00:37:44,379] wore us away. And each night we'd pitch camp
+- [00:37:44,379 - 00:37:46,699] and we'd have to catch fish for dinner. And
+- [00:37:46,699 - 00:37:49,020] you know, it was just just hard travel. But also,
+- [00:37:49,020 - 00:37:51,620] metaphysically, it was kind of wearing me away. It
+- [00:37:51,620 - 00:37:54,220] was unlearning me. And that is where we come
+- [00:37:54,220 - 00:37:57,019] back to your question. The river did the unlearning
+- [00:37:57,019 - 00:37:59,819] and it did it physically, but it also did it
+- [00:37:59,819 - 00:38:00,339] metaphysically. And it said, well, I'm not going to be
+- [00:38:00,339 - 00:38:00,859] able to do it. I'm going to have to do it.
+- [00:38:00,859 - 00:38:01,219] And it said, well, I'm not going to be able to do it.
+- [00:38:01,219 - 00:38:01,580] I'm not going to be able to do it. And it said, well,
+- [00:38:01,580 - 00:38:04,620] what? What? What do you mean this? This is
+- [00:38:04,620 - 00:38:07,660] just water. This is just dead matter. That's sort of
+- [00:38:07,660 - 00:38:10,979] what the river was doing to me. It was
+- [00:38:10,979 - 00:38:14,299] showing me its agency, its will, its presence, its force.
+- [00:38:15,100 - 00:38:18,260] And, and a great deal changed for me in that,
+- [00:38:18,260 - 00:38:21,420] in that time. And then at the very end, I just,
+- [00:38:22,140 - 00:38:25,860] I think I described it as kind of these two auras
+- [00:38:25,860 - 00:38:29,580] as it were my aura and the river's aura just sort
+- [00:38:29,580 - 00:38:30,570] of overlapping and setting up a new kind of, you know,
+- [00:38:30,570 - 00:38:31,560] a new kind of, you know, a new kind of, you
+- [00:38:31,560 - 00:38:31,570] know, a new kind of, you know, a new kind of,
+- [00:38:31,570 - 00:38:31,580] you know, a new kind of, you know, a new kind of,
+- [00:38:31,580 - 00:38:34,500] an interference field for the first time and
+- [00:38:34,500 - 00:38:37,420] becoming very, very aware of this, this thing
+- [00:38:37,420 - 00:38:40,859] that has been moving through that landscape hugely
+- [00:38:40,859 - 00:38:44,299] consequentially for again, 10 to 12,000 years. So,
+- [00:38:44,299 - 00:38:48,119] and, and so I felt small, I felt one among
+- [00:38:48,119 - 00:38:51,940] many kinds of being, and it was a, I suppose, a,
+- [00:38:51,940 - 00:38:55,220] an experience of, of the divine,
+- [00:38:55,220 - 00:38:58,500] of, of something like faith temporarily.
+- [00:38:58,500 - 00:38:59,660] Visceral.
+- [00:38:59,660 - 00:39:01,180] Visceral and mystic.
+- [00:39:01,180 - 00:39:01,380] Visceral and mystic.
+- [00:39:01,380 - 00:39:01,420] Visceral and mystic.
+- [00:39:01,420 - 00:39:01,460] Visceral and mystic.
+- [00:39:01,460 - 00:39:01,540] Visceral and mystic.
+- [00:39:01,540 - 00:39:03,860] And utterly fascinating and changing forever. And
+- [00:39:03,860 - 00:39:06,180] then, and then you're left with the question,
+- [00:39:06,180 - 00:39:08,820] how do I, how do I find language to carry
+- [00:39:08,820 - 00:39:11,460] that? And again, it doesn't have to carry it. It merely
+- [00:39:11,460 - 00:39:14,859] needs to kind of register some, some analog
+- [00:39:14,859 - 00:39:18,259] to what happened then, because you'll never carry that.
+- [00:39:18,259 - 00:39:22,659] I think that another thing that you
+- [00:39:22,659 - 00:39:27,060] do is you find these questions, these,
+- [00:39:29,220 - 00:39:31,400] they're narrow questions, but they're expansive.
+- [00:39:31,400 - 00:39:32,000] They're narrow questions, but they're expansive.
+- [00:39:32,000 - 00:39:34,610] You know, there's the question from Jonas
+- [00:39:34,610 - 00:39:37,220] Salk, who says, are we being good ancestors?
+- [00:39:37,220 - 00:39:41,900] And then you ask, can a forest think? Does
+- [00:39:41,900 - 00:39:46,580] a mountain remember? And then is a river alive?
+- [00:39:46,580 - 00:39:48,840] Tell me about those questions.
+- [00:39:48,840 - 00:39:52,280] Yeah. So the, the very first book I wrote in my
+- [00:39:52,280 - 00:39:55,720] early to mid 20s was a book called Mountains of the Mind.
+- [00:39:55,720 - 00:39:58,400] I grew up as a mountaineer and climber, as I mentioned, and the, that was a
+- [00:39:58,400 - 00:40:01,080] book that, it was, like, it was a book that I kept going back and forth.
+- [00:40:01,080 - 00:40:04,160] that began as a question. It's a very old
+- [00:40:04,160 - 00:40:07,240] and famous question. Why climb mountains? And why do
+- [00:40:07,240 - 00:40:09,519] we climb mountains? Why do I climb mountains?
+- [00:40:09,519 - 00:40:11,799] George Mallory, who died on Everest in 1924,
+- [00:40:11,799 - 00:40:14,759] famously responded in New York in 1922. When
+- [00:40:14,759 - 00:40:17,720] asked, why are you climbing Everest? He said,
+- [00:40:17,720 - 00:40:21,239] because it's there, which became this sort
+- [00:40:21,239 - 00:40:24,759] of legendary answer, but actually gets us nowhere.
+- [00:40:24,759 - 00:40:25,799] This does not help me at all.
+- [00:40:25,799 - 00:40:27,319] No, exactly. You're right.
+- [00:40:27,320 - 00:40:29,480] I'm like, I want to be like, wow, that's
+- [00:40:29,480 - 00:40:31,640] profound. I don't think that helps me one bit.
+- [00:40:31,640 - 00:40:33,720] It's a bit like my son saying
+- [00:40:33,720 - 00:40:35,800] to Iza River, like, well, duh, yes.
+- [00:40:35,800 - 00:40:37,840] Well, that one I feel like is
+- [00:40:37,840 - 00:40:39,880] like, your son is just smack dab, right?
+- [00:40:39,880 - 00:40:41,080] Okay, because it's there.
+- [00:40:41,080 - 00:40:43,440] But the Everest guy, I'm like,
+- [00:40:43,440 - 00:40:45,800] okay, you know what I mean?
+- [00:40:45,800 - 00:40:48,200] Well, I hear you. It has become the
+- [00:40:48,200 - 00:40:50,600] kind of most used answer to the question, well,
+- [00:40:50,600 - 00:40:53,000] why do we climb mountains? But so the meta is-
+- [00:40:53,000 - 00:40:56,520] Maybe the view is nice. It's challenging, but-
+- [00:40:56,520 - 00:40:57,160] Yeah.
+- [00:40:57,160 - 00:40:57,240] Yeah.
+- [00:40:57,240 - 00:40:57,320] Yeah.
+- [00:40:57,320 - 00:40:59,600] Yeah. Well, it took me 300 pages to
+- [00:40:59,600 - 00:41:01,880] answer the question in A Mountain to the Mountain,
+- [00:41:01,880 - 00:41:04,760] took me 300 in Iza River Alive, and I didn't come
+- [00:41:04,760 - 00:41:07,640] to the end of any of them. But I think having that
+- [00:41:07,640 - 00:41:10,840] puzzle, that enigma, the enigma wrapped in the mystery,
+- [00:41:10,840 - 00:41:14,040] I think is a phrase for it. These are
+- [00:41:14,040 - 00:41:16,440] deceptively simple questions. Why do you climb
+- [00:41:16,440 - 00:41:18,840] a mountain? Because it's there. Iza River Alive,
+- [00:41:18,840 - 00:41:22,320] yes. But no, actually, when you begin to ask them,
+- [00:41:22,320 - 00:41:25,800] so they become, I don't know how to put it,
+- [00:41:25,800 - 00:41:30,040] they become, let me give a caving
+- [00:41:30,040 - 00:41:34,280] example. It's the portal. It's the narrow portal,
+- [00:41:34,280 - 00:41:37,480] seemingly narrow portal. And once you can make your
+- [00:41:37,480 - 00:41:40,680] way through it, dive the sump that it leads to,
+- [00:41:40,680 - 00:41:44,520] and then you surface into this immense space.
+- [00:41:44,520 - 00:41:48,360] And that is the space of complexity, of mystery,
+- [00:41:48,360 - 00:41:49,920] of polyphony, of many voices. It's
+- [00:41:49,920 - 00:41:51,480] crazy how much you see that
+- [00:41:51,480 - 00:41:53,560] mythology, right? That's the closet in Narnia. You
+- [00:41:53,560 - 00:41:55,640] walk through and you enter a whole new world.
+- [00:41:55,640 - 00:41:58,120] There are so many examples of portals. So many.
+- [00:41:58,120 - 00:42:00,400] And that's what they always are. They're narrow.
+- [00:42:00,400 - 00:42:02,680] You step through the narrow gate and then
+- [00:42:04,120 - 00:42:05,840] vast expansiveness on the other side.
+- [00:42:05,840 - 00:42:07,560] The wardrobe that leads to the other
+- [00:42:07,560 - 00:42:10,360] landscape, the bungalow you duck into and find
+- [00:42:10,360 - 00:42:13,160] yourself in a cathedral. The portals fascinate me.
+- [00:42:13,160 - 00:42:16,080] And actually, you've helped me to a really
+- [00:42:16,080 - 00:42:19,000] useful crystallization of that, which is those questions
+- [00:42:19,000 - 00:42:21,919] are portals. They're modest. They're the wardrobe.
+- [00:42:21,919 - 00:42:24,839] They're the modest entrance point. And then you
+- [00:42:24,839 - 00:42:25,480] push through the...
+- [00:42:25,640 - 00:42:27,759] through the fur coats. Whoosh, you're into
+- [00:42:27,759 - 00:42:29,879] it. And in fact, Mountains of the Mind,
+- [00:42:29,879 - 00:42:33,479] you've reminded me, now begins with an image from
+- [00:42:33,479 - 00:42:37,080] Narnia. The very first page has an image of
+- [00:42:37,080 - 00:42:39,120] my grandma. Because I remember my grandmother's wardrobe
+- [00:42:39,120 - 00:42:41,160] with her fur coats hanging in it up in
+- [00:42:41,160 - 00:42:43,440] the mountains. And I would push through into
+- [00:42:43,440 - 00:42:45,720] that, dreaming that I would step through into
+- [00:42:45,720 - 00:42:48,200] a winter landscape. And then actually the mountains
+- [00:42:48,200 - 00:42:50,680] helped me do that. So yeah, the questions are
+- [00:42:51,640 - 00:42:53,600] portals. The other thing I should say I do at
+- [00:42:53,600 - 00:42:55,560] the very start of a book, other than find the
+- [00:42:55,640 - 00:43:00,400] question that is the portal, is I write myself
+- [00:43:00,400 - 00:43:05,160] a letter. Whoa! My future self, a letter. And I,
+- [00:43:05,160 - 00:43:07,200] because I know these books are going to take,
+- [00:43:07,200 - 00:43:09,240] once I've committed to them, once I've found the portal
+- [00:43:09,240 - 00:43:11,799] question, they're going to take me three, four,
+- [00:43:11,799 - 00:43:14,359] five, six, seven, eight, eight years. I change
+- [00:43:14,359 - 00:43:16,999] a lot in that time. The world changes a lot
+- [00:43:16,999 - 00:43:19,640] in that time. The book, of course, will mutate and
+- [00:43:19,640 - 00:43:22,479] metamorphose a lot in that time. So, so I tend
+- [00:43:22,479 - 00:43:25,319] to write, I tend to write, you know, dear Rob,
+- [00:43:25,640 - 00:43:29,600] the future Rob. And then in that letter, I try
+- [00:43:29,600 - 00:43:33,560] to just say what I, what my heart hopes the book
+- [00:43:33,560 - 00:43:38,000] will be, how I think it will be shaped,
+- [00:43:38,000 - 00:43:42,440] what its resonances or key metaphors might be, where I'll,
+- [00:43:42,440 - 00:43:46,040] where I want to go. And then eventually what I, what
+- [00:43:46,040 - 00:43:49,640] I want it to do in the world. And they're all
+- [00:43:49,640 - 00:43:51,840] tentative, right? I'm not, these are not,
+- [00:43:51,840 - 00:43:54,040] it's not a set of commandments. There are
+- [00:43:55,640 - 00:43:57,520] just, I'm not going to write a book that's going
+- [00:43:57,520 - 00:43:59,400] to be a set of commandments. I'm going to write a
+- [00:43:59,400 - 00:44:01,359] book that's going to be a set of rules. And then
+- [00:44:01,359 - 00:44:03,319] I try to write a book that is more of a
+- [00:44:03,319 - 00:44:05,439] clarification of how I'm feeling about the
+- [00:44:05,439 - 00:44:07,560] book at that very, very, very early stage.
+- [00:44:08,359 - 00:44:11,479] Then it's, what I love is looking back at
+- [00:44:11,479 - 00:44:14,600] those letters when I finished the book and, and seeing
+- [00:44:14,600 - 00:44:17,040] the relationship. And sometimes it's hugely
+- [00:44:17,040 - 00:44:19,480] discrepant and other times it's surprisingly
+- [00:44:19,480 - 00:44:19,960] close.
+- [00:44:19,960 - 00:44:22,760] So with those questions, do you like hang
+- [00:44:22,760 - 00:44:25,560] them on your desk? Is that, because here for,
+- [00:44:25,560 - 00:44:27,640] always that kind of explicit and concrete?
+- [00:44:27,640 - 00:44:31,040] I'm trying to think I, so I, I don't pin
+- [00:44:31,040 - 00:44:34,440] questions on my desk, but I do pin, put quotes.
+- [00:44:34,440 - 00:44:38,480] So for example, on this, with this book, there's
+- [00:44:38,480 - 00:44:42,520] this amazing line from Ursula Le Guin that she
+- [00:44:42,520 - 00:44:44,360] wrote very late in her
+- [00:44:44,360 - 00:44:46,200] life. And she says something like,
+- [00:44:47,000 - 00:44:49,080] I think it's right before the first chapter after
+- [00:44:49,080 - 00:44:51,160] the prologue. And if you just want to read it.
+- [00:44:51,160 - 00:44:51,640] Correct. Let me read it.
+- [00:44:51,640 - 00:44:52,440] I think that's where it is.
+- [00:44:53,320 - 00:44:55,320] One way to stop seeing trees or
+- [00:44:55,560 - 00:44:59,200] rivers or hills only as natural resource is
+- [00:44:59,200 - 00:45:02,840] to class them as fellow beings, kinfolk. I guess
+- [00:45:02,840 - 00:45:05,341] I'm trying to subjectify the universe because
+- [00:45:05,341 - 00:45:07,842] look where objectifying it has gotten us.
+- [00:45:07,842 - 00:45:08,342] 哼
+- [00:45:08,706 - 00:45:11,206] to subjectify is not
+- [00:45:11,206 - 00:45:13,706] necessarily to co-opt, colonize, exploit.
+- [00:45:13,886 - 00:45:15,726] And this is the bit that I really focused on.
+- [00:45:15,726 - 00:45:18,826] Rather, it may involve a great reach outward
+- [00:45:18,826 - 00:45:21,286] of mind and imagination.
+- [00:45:21,286 - 00:45:24,626] Yeah, it ends strongly.
+- [00:45:24,626 - 00:45:28,786] A great reach outward of mind and imagination.
+- [00:45:28,786 - 00:45:29,786] Exactly.
+- [00:45:29,786 - 00:45:33,486] And that helps us think back to the portal.
+- [00:45:33,486 - 00:45:35,766] So the question seems simple,
+- [00:45:35,766 - 00:45:37,546] the key that unlocks the door,
+- [00:45:37,546 - 00:45:39,926] but actually the real work is,
+- [00:45:39,926 - 00:45:42,366] because to really answer yes,
+- [00:45:42,366 - 00:45:43,946] if you're not a nine-year-old,
+- [00:45:43,946 - 00:45:46,046] to the question, is a river alive?
+- [00:45:46,946 - 00:45:48,506] Those of us raised on rationalism,
+- [00:45:48,506 - 00:45:51,786] it requires a great reach outward of mind and imagination.
+- [00:45:51,786 - 00:45:54,286] So Le Guin helped me keep thinking,
+- [00:45:54,286 - 00:45:55,906] I have to keep reaching,
+- [00:45:55,906 - 00:45:57,526] I have to keep reaching outward.
+- [00:46:02,546 - 00:46:03,896] Sorry, there's so much that
+- [00:46:03,896 - 00:46:05,246] was just like washed on me.
+- [00:46:05,246 - 00:46:06,406] It's almost hard to like,
+- [00:46:06,406 - 00:46:07,526] I don't even know where to ask.
+- [00:46:07,526 - 00:46:08,366] The river.
+- [00:46:08,366 - 00:46:09,186] I don't even know what to ask.
+- [00:46:09,186 - 00:46:10,286] The river's going.
+- [00:46:11,706 - 00:46:13,006] How much of writing a
+- [00:46:13,006 - 00:46:14,306] book for you is an adventure
+- [00:46:14,306 - 00:46:15,746] versus like a plan?
+- [00:46:15,746 - 00:46:18,466] Actually, maybe we'll just follow a river analogy.
+- [00:46:18,466 - 00:46:21,026] Like say that you're whitewater rafting.
+- [00:46:21,026 - 00:46:22,356] Like there's, we're going to go
+- [00:46:22,356 - 00:46:23,686] from point A to point B,
+- [00:46:23,686 - 00:46:25,246] but how you're going to get
+- [00:46:25,246 - 00:46:26,806] there is going to be nuts.
+- [00:46:26,806 - 00:46:28,226] And hopefully you make it there, right?
+- [00:46:28,226 - 00:46:29,066] Yeah.
+- [00:46:29,066 - 00:46:30,686] Where does that analogy break down?
+- [00:46:30,686 - 00:46:32,206] Where does it hold up?
+- [00:46:32,206 - 00:46:34,866] So with the river book more than any other book,
+- [00:46:34,866 - 00:46:36,526] I felt torrented.
+- [00:46:36,526 - 00:46:37,526] Yeah.
+- [00:46:37,526 - 00:46:39,345] From the beginning.
+- [00:46:39,345 - 00:46:40,926] We'll stay with the metaphor.
+- [00:46:40,926 - 00:46:43,185] But actually I felt rather than rafting downstream,
+- [00:46:43,185 - 00:46:45,405] I was walking upstream.
+- [00:46:45,405 - 00:46:48,006] You know when you're, when you walk in a river?
+- [00:46:48,006 - 00:46:48,845] Yeah.
+- [00:46:48,845 - 00:46:51,045] And you feel the muscles of that thing, right?
+- [00:46:51,045 - 00:46:55,905] A river is a, it's a powerful presence physically.
+- [00:46:55,905 - 00:46:58,086] And it's unceasing, it's relentless.
+- [00:46:58,086 - 00:46:59,006] Exactly.
+- [00:46:59,006 - 00:47:01,465] It's just push, push, push, push, push, push, pressure.
+- [00:47:01,465 - 00:47:05,026] And one thing I've found from physically walking in rivers,
+- [00:47:05,026 - 00:47:06,266] which I do quite a
+- [00:47:06,266 - 00:47:07,506] lot, because they make great paths,
+- [00:47:07,526 - 00:47:10,345] especially where the forest is thick on either side,
+- [00:47:10,345 - 00:47:12,946] is that when you have your feet planted you're fine.
+- [00:47:12,946 - 00:47:15,586] The river's not going to push you anywhere.
+- [00:47:15,586 - 00:47:16,836] It's when you have to
+- [00:47:16,836 - 00:47:18,086] lift a foot to make progress.
+- [00:47:18,086 - 00:47:19,515] So one foot comes up and
+- [00:47:19,515 - 00:47:20,945] then you're only on one foot
+- [00:47:20,945 - 00:47:23,366] and the river is pushing you off balance.
+- [00:47:23,366 - 00:47:26,186] So actually it's stepping forwards.
+- [00:47:26,186 - 00:47:29,646] It's the act of walking that unbalances you.
+- [00:47:29,646 - 00:47:31,586] Writing a book is, is
+- [00:47:31,586 - 00:47:33,526] like walking upstream in a river.
+- [00:47:33,526 - 00:47:36,466] You can get to a point, stabilize yourself,
+- [00:47:36,466 - 00:47:38,006] but when you come to take
+- [00:47:38,006 - 00:47:39,546] the next step, you lift that foot,
+- [00:47:39,546 - 00:47:42,426] that's when river knocks you off balance.
+- [00:47:42,426 - 00:47:43,706] It's also really exciting,
+- [00:47:43,706 - 00:47:45,225] and that's how you make progress.
+- [00:47:45,225 - 00:47:46,306] But I found very strongly
+- [00:47:46,306 - 00:47:48,505] that the river was also showing me the direction.
+- [00:47:48,505 - 00:47:50,225] I didn't need to worry about direction.
+- [00:47:50,225 - 00:47:52,225] It felt very intuitive,
+- [00:47:52,225 - 00:47:54,095] but each step was because the
+- [00:47:54,095 - 00:47:55,966] force of the flow of ideas
+- [00:47:55,966 - 00:47:58,785] and people and encounters and rivers themselves
+- [00:47:58,785 - 00:48:02,126] was so strong, it was unbalancing, torrenting
+- [00:48:02,126 - 00:48:06,146] in fascinating, but not always easy ways.
+- [00:48:06,146 - 00:48:08,456] You've been talking a lot
+- [00:48:08,456 - 00:48:10,766] about your relationship with rivers,
+- [00:48:10,766 - 00:48:13,146] and what is your relationship with other people
+- [00:48:13,146 - 00:48:14,706] in the book writing process?
+- [00:48:14,706 - 00:48:16,156] We sort of got it actually
+- [00:48:16,156 - 00:48:17,606] with that Ursula Le Guin quote,
+- [00:48:17,606 - 00:48:19,576] where you get other writers
+- [00:48:19,576 - 00:48:21,546] who are almost giving you seeds,
+- [00:48:21,546 - 00:48:23,446] and then you can basically take those seeds
+- [00:48:23,446 - 00:48:25,706] and turn them into something else.
+- [00:48:25,706 - 00:48:26,966] What about peers?
+- [00:48:26,966 - 00:48:28,706] How does that show up in your writing?
+- [00:48:28,706 - 00:48:30,546] Such a smart question.
+- [00:48:31,646 - 00:48:36,006] And they are themselves kind of river presences,
+- [00:48:36,006 - 00:48:36,126] I guess. Yeah.
+- [00:48:36,146 - 00:48:38,355] I think a person is not
+- [00:48:38,355 - 00:48:40,565] a fixed and sealed thing, right?
+- [00:48:40,565 - 00:48:41,146] We know this.
+- [00:48:41,146 - 00:48:42,876] We are all in motion
+- [00:48:42,876 - 00:48:44,606] and changing all of the time.
+- [00:48:44,606 - 00:48:45,826] We're all in flux.
+- [00:48:45,826 - 00:48:48,446] And so, but I love people.
+- [00:48:48,446 - 00:48:50,036] You know, a lot of
+- [00:48:50,036 - 00:48:51,626] nature writing, a phrase I hate,
+- [00:48:51,626 - 00:48:53,186] but a lot of nature
+- [00:48:53,186 - 00:48:54,746] writing used to be thought of
+- [00:48:54,746 - 00:48:56,866] as kind of almost people-less.
+- [00:48:56,866 - 00:48:59,546] It was only about the land, as it were.
+- [00:48:59,546 - 00:49:00,626] But- I mean, John Muir,
+- [00:49:00,626 - 00:49:01,796] I don't think of people
+- [00:49:01,796 - 00:49:02,966] whenever I think of his writing.
+- [00:49:02,966 - 00:49:05,006] I always think of the mountains and stuff like that.
+- [00:49:05,006 - 00:49:05,846] Right, right.
+- [00:49:05,846 - 00:49:08,306] But Muir very shabbily treats
+- [00:49:08,306 - 00:49:10,806] and sort of discards the
+- [00:49:10,806 - 00:49:13,306] native presence in those landscapes.
+- [00:49:13,306 - 00:49:15,725] So particularly in his early work,
+- [00:49:15,725 - 00:49:17,875] when what he calls Indians
+- [00:49:17,875 - 00:49:20,026] come into view in the landscape,
+- [00:49:20,026 - 00:49:21,646] he will kind of shuffle them off.
+- [00:49:21,646 - 00:49:22,785] He will frame them out.
+- [00:49:22,785 - 00:49:23,605] Wow.
+- [00:49:23,605 - 00:49:28,605] So, and I have come to love writing about people.
+- [00:49:29,946 - 00:49:32,286] And it's partly that I hang out with,
+- [00:49:32,286 - 00:49:35,706] I try and get myself to try and get myself
+- [00:49:35,706 - 00:49:37,786] to travel with people who fascinate me.
+- [00:49:37,786 - 00:49:39,546] It's back to being an obsessive obsessive.
+- [00:49:39,546 - 00:49:41,786] And almost all the people who fascinate me
+- [00:49:41,786 - 00:49:44,206] are people who are themselves fascinated by stuff.
+- [00:49:44,206 - 00:49:46,046] Obsessive obsessive, specialist specialist.
+- [00:49:46,046 - 00:49:49,086] So for example, Giuliana Verci,
+- [00:49:49,086 - 00:49:52,426] this Chilean Italian field mycologist,
+- [00:49:52,426 - 00:49:55,466] mushroom fungi specialist who I traveled with in Ecuador.
+- [00:49:56,526 - 00:49:58,646] She's one of the most amazing people I've ever met.
+- [00:49:58,646 - 00:50:01,106] And she can hear fungi.
+- [00:50:01,106 - 00:50:01,986] She's a dowser.
+- [00:50:01,986 - 00:50:04,906] She can sense buried water.
+- [00:50:04,906 - 00:50:06,365] She can tell you flow rates.
+- [00:50:06,365 - 00:50:09,986] She's like has an astonishing sensitivity to water.
+- [00:50:09,986 - 00:50:11,046] And that's, I think,
+- [00:50:11,046 - 00:50:14,286] inseparable from her sensitivity to fungi.
+- [00:50:14,286 - 00:50:16,425] I was traveling with her in this cloud forest
+- [00:50:16,425 - 00:50:20,166] trying to find, make second collections
+- [00:50:20,166 - 00:50:22,625] of two new species of psilocybe,
+- [00:50:22,625 - 00:50:25,346] of magic mushroom, as we might call them.
+- [00:50:25,346 - 00:50:28,226] And she could hear them before she could see them.
+- [00:50:28,226 - 00:50:31,425] She could sense them around three bends in the path.
+- [00:50:31,425 - 00:50:34,726] And I know you're as puzzled as anyone else.
+- [00:50:34,726 - 00:50:35,646] I've told this story too,
+- [00:50:35,646 - 00:50:37,906] but I watched it happen once.
+- [00:50:37,906 - 00:50:40,826] And I was there when it happened a second time.
+- [00:50:40,826 - 00:50:41,726] She just sort of says,
+- [00:50:41,726 - 00:50:44,346] ah, I think they're near now.
+- [00:50:44,346 - 00:50:46,566] We were two more turns
+- [00:50:46,566 - 00:50:48,786] in the path and then woohoo,
+- [00:50:48,786 - 00:50:51,946] which is what she calls when she sees a fungus.
+- [00:50:51,946 - 00:50:53,786] And she's down and there.
+- [00:50:53,786 - 00:50:55,906] One specimen in each case,
+- [00:50:55,906 - 00:50:58,786] single fungi in a huge cloud forest.
+- [00:50:58,786 - 00:50:59,986] And I should say,
+- [00:50:59,986 - 00:51:03,125] she's a serious, hardcore field scientist, right?
+- [00:51:03,125 - 00:51:03,915] She's written the field guides to
+- [00:51:03,915 - 00:51:04,706] the, you know, a, you know,
+- [00:51:04,706 - 00:51:05,886] fungi of Chile.
+- [00:51:05,886 - 00:51:08,626] So we're not talking about a kind of, you know,
+- [00:51:08,626 - 00:51:10,266] crystal swinging mystic.
+- [00:51:10,266 - 00:51:11,886] I mean, she's hardcore scientist.
+- [00:51:11,886 - 00:51:16,326] She's, but she goes about things a different way.
+- [00:51:16,326 - 00:51:18,326] So how do you write someone like that?
+- [00:51:18,326 - 00:51:19,546] In a way, it's the easiest thing.
+- [00:51:19,546 - 00:51:21,126] You just transcribe them, right?
+- [00:51:21,126 - 00:51:23,086] Their speech is incredible.
+- [00:51:23,086 - 00:51:25,746] Their way of being in the world is incredible.
+- [00:51:25,746 - 00:51:27,066] I love it when, and I
+- [00:51:27,066 - 00:51:28,386] found it particularly with this book,
+- [00:51:28,386 - 00:51:30,766] people talk about them as characters.
+- [00:51:30,766 - 00:51:33,046] So it sounds like this is a novel.
+- [00:51:33,046 - 00:51:34,126] It isn't a novel,
+- [00:51:34,126 - 00:51:35,546] but they are characters.
+- [00:51:35,546 - 00:51:37,426] They're incredible, incredible characters.
+- [00:51:37,426 - 00:51:40,706] So the books are filled with dialogue because,
+- [00:51:40,706 - 00:51:42,526] but it's true dialogue as it were,
+- [00:51:42,526 - 00:51:43,806] best fit true dialogue.
+- [00:51:43,806 - 00:51:44,806] Yeah, there's a poet I like,
+- [00:51:44,806 - 00:51:46,126] his name's John O'Donohue.
+- [00:51:46,126 - 00:51:47,206] Oh, yeah.
+- [00:51:47,206 - 00:51:49,286] And he has this line.
+- [00:51:49,286 - 00:51:50,126] He says, when was the
+- [00:51:50,126 - 00:51:50,966] last time you had a conversation?
+- [00:51:50,966 - 00:51:55,966] A conversation that wasn't just two intersecting monologues,
+- [00:51:56,006 - 00:51:58,486] but a conversation where both people found something
+- [00:51:58,486 - 00:51:59,986] within each other,
+- [00:51:59,986 - 00:52:03,586] within themselves that they didn't even know that they knew.
+- [00:52:03,586 - 00:52:06,586] And the way that I imagine that is like,
+- [00:52:06,586 - 00:52:08,486] you're kind of building a fire in conversation.
+- [00:52:08,486 - 00:52:09,425] Like what we're doing right now,
+- [00:52:09,425 - 00:52:10,946] it's like, I can't do this on my own.
+- [00:52:10,946 - 00:52:12,026] You can't do this on your own.
+- [00:52:12,026 - 00:52:13,365] We're in this together now.
+- [00:52:13,365 - 00:52:14,706] We're actually creating,
+- [00:52:14,706 - 00:52:17,086] we're in a process of co-creation.
+- [00:52:17,086 - 00:52:19,186] And that's what conversation is.
+- [00:52:19,186 - 00:52:20,026] And he talks about that.
+- [00:52:20,026 - 00:52:21,206] And the last line is so beautiful.
+- [00:52:21,206 - 00:52:23,946] He says, conversations like that are food
+- [00:52:23,946 - 00:52:25,865] and drink for the soul.
+- [00:52:25,865 - 00:52:28,986] It is like, wow.
+- [00:52:28,986 - 00:52:32,506] And all this is the same, the writing process,
+- [00:52:32,506 - 00:52:33,425] when you're with somebody, like, oh, I'm gonna do this.
+- [00:52:33,426 - 00:52:34,266] I'm gonna do this.
+- [00:52:34,266 - 00:52:35,086] I'm gonna do that.
+- [00:52:35,086 - 00:52:35,926] I'm gonna do that.
+- [00:52:35,926 - 00:52:36,766] And then you're with somebody like that woman
+- [00:52:36,766 - 00:52:37,606] or your friend who you go kayaking with.
+- [00:52:37,606 - 00:52:40,606] There's probably things that can get into your book
+- [00:52:40,606 - 00:52:42,156] that you would never be
+- [00:52:42,156 - 00:52:43,706] able to get on your own.
+- [00:52:43,706 - 00:52:46,746] And they're almost a kind of co-writer for you.
+- [00:52:46,746 - 00:52:47,806] Absolutely.
+- [00:52:47,806 - 00:52:50,046] I love your idea of building a fire together.
+- [00:52:50,046 - 00:52:51,026] I think that's,
+- [00:52:51,026 - 00:52:53,566] I actually almost prefer that to John O'Donohue's metaphor,
+- [00:52:53,566 - 00:52:55,306] food and drink for the soul.
+- [00:52:55,306 - 00:52:59,066] Though O'Donohue, it's fascinating how many people his,
+- [00:52:59,066 - 00:53:01,126] cause he was sort of a quiet writer.
+- [00:53:01,126 - 00:53:03,306] And, but I have so many conversations with him.
+- [00:53:03,306 - 00:53:04,146] And I think there's so many conversations like this,
+- [00:53:04,146 - 00:53:06,286] where there's one line or a poem or something,
+- [00:53:06,286 - 00:53:08,566] and it just lights people up.
+- [00:53:08,566 - 00:53:09,426] Tell me about poetry.
+- [00:53:09,426 - 00:53:11,006] Like you learned poetry as a kid.
+- [00:53:11,006 - 00:53:14,006] And also one of the things
+- [00:53:16,126 - 00:53:17,946] that we sort of talked about before,
+- [00:53:17,946 - 00:53:19,986] but it's how rhythm, sound, and tempo,
+- [00:53:19,986 - 00:53:22,406] they can kind of move you as a reader
+- [00:53:22,406 - 00:53:26,066] in ways that exceed the actual prose itself.
+- [00:53:26,066 - 00:53:27,186] And that's what poetry does.
+- [00:53:27,186 - 00:53:31,986] It's almost more than the words, but it's implicit.
+- [00:53:31,986 - 00:53:32,646] And I think this is
+- [00:53:32,646 - 00:53:33,306] why you have to memorize it.
+- [00:53:33,306 - 00:53:34,146] And I think that's why you have to memorize poetry
+- [00:53:34,146 - 00:53:36,096] because it's only once it
+- [00:53:36,096 - 00:53:38,046] begins to be known by heart,
+- [00:53:38,046 - 00:53:38,886] we say, right?
+- [00:53:38,886 - 00:53:40,346] Once you know it by heart,
+- [00:53:40,346 - 00:53:43,466] then you begin to see all the rhythms and they,
+- [00:53:43,466 - 00:53:44,966] it's almost like a flower.
+- [00:53:44,966 - 00:53:46,526] Like it takes a while to
+- [00:53:46,526 - 00:53:48,086] bloom, but once it does, wow, it,
+- [00:53:48,086 - 00:53:49,426] huh, I didn't know it could do that.
+- [00:53:49,426 - 00:53:50,266] Exactly.
+- [00:53:50,266 - 00:53:52,686] The blooming is a lovely image for it.
+- [00:53:52,686 - 00:53:55,626] It's entered you and then the seed is sown
+- [00:53:55,626 - 00:53:57,286] and then the blossom comes.
+- [00:53:57,286 - 00:53:59,566] And I mean, the last 10 years,
+- [00:53:59,566 - 00:54:02,166] I've been lucky to collaborate with artists,
+- [00:54:02,166 - 00:54:03,106] I've been lucky to collaborate with artists,
+- [00:54:03,106 - 00:54:08,106] with, so I've written libretti for full length choral works.
+- [00:54:08,726 - 00:54:10,446] I've also written a bunch of albums
+- [00:54:10,446 - 00:54:12,366] and actually I have to say songwriting,
+- [00:54:12,366 - 00:54:14,566] writing lyrics has become,
+- [00:54:14,566 - 00:54:16,525] I think all of these have helped me with,
+- [00:54:16,525 - 00:54:17,466] with Is a River Alive.
+- [00:54:17,466 - 00:54:18,745] I think that's the book that
+- [00:54:18,745 - 00:54:20,025] I've spent the last 22 years
+- [00:54:20,025 - 00:54:22,726] learning to write and particularly the last 10,
+- [00:54:22,726 - 00:54:24,946] because actually writing lyrics,
+- [00:54:24,946 - 00:54:27,145] writing libretti, writing poetry.
+- [00:54:27,145 - 00:54:28,666] You wrote a requiem, right?
+- [00:54:28,666 - 00:54:30,066] Written a full length requiem.
+- [00:54:30,066 - 00:54:31,586] I'm like, yeah, that's going
+- [00:54:31,586 - 00:54:33,106] to be like a 75 minute
+- [00:54:33,106 - 00:54:34,606] huge choral work.
+- [00:54:34,606 - 00:54:36,006] It's going to premiere in Helsinki.
+- [00:54:36,006 - 00:54:36,846] So can we do this?
+- [00:54:36,846 - 00:54:37,926] Can we just go through
+- [00:54:37,926 - 00:54:39,006] libretti and then all of them?
+- [00:54:39,006 - 00:54:40,426] I just want to hear kind of quickly,
+- [00:54:40,426 - 00:54:44,386] like what those forms have taught you about.
+- [00:54:44,386 - 00:54:45,606] As a long form writer.
+- [00:54:45,606 - 00:54:46,446] Yeah, exactly.
+- [00:54:46,446 - 00:54:47,285] So we'll start with libretti.
+- [00:54:47,285 - 00:54:49,246] What did that teach you as a long form writer?
+- [00:54:49,246 - 00:54:53,946] Well, so I've written for opera.
+- [00:54:53,946 - 00:54:56,905] I've written for, we created an improvised jazz opera.
+- [00:54:56,905 - 00:54:58,126] That was about 15 years ago,
+- [00:54:58,126 - 00:55:01,566] which we performed in a former nuclear weapons testing site,
+- [00:55:01,566 - 00:55:02,785] which was very cool.
+- [00:55:02,786 - 00:55:06,766] And so I expected to hear,
+- [00:55:06,766 - 00:55:07,786] but the most recent one,
+- [00:55:07,786 - 00:55:10,206] the one I've just finished is called the world tree.
+- [00:55:10,206 - 00:55:11,046] Okay.
+- [00:55:11,046 - 00:55:13,966] And it's about this.
+- [00:55:13,966 - 00:55:15,646] Did you follow the story of the felling
+- [00:55:15,646 - 00:55:17,906] of the Sycamore gap tree in the UK?
+- [00:55:17,906 - 00:55:19,636] It was chopped down in the
+- [00:55:19,636 - 00:55:21,366] middle of the night by two men
+- [00:55:21,366 - 00:55:23,706] who just wanted to visit harm upon it.
+- [00:55:23,706 - 00:55:26,466] It was a completely iconic tree on Hadrian's wall.
+- [00:55:26,466 - 00:55:27,986] It featured in Robin Hood, Prince thieves.
+- [00:55:27,986 - 00:55:30,266] Anyway, it was a huge national
+- [00:55:30,266 - 00:55:31,746] and indeed international thing.
+- [00:55:31,746 - 00:55:32,786] And it was,
+- [00:55:32,786 - 00:55:35,286] so it's about it's a
+- [00:55:35,286 - 00:55:37,786] deep history of forests and trees
+- [00:55:37,986 - 00:55:39,126] and people in the north,
+- [00:55:39,126 - 00:55:41,766] in the Northern parts of the Northern hemisphere,
+- [00:55:41,766 - 00:55:43,006] it's called the world tree.
+- [00:55:43,006 - 00:55:45,386] But what did I learn from that?
+- [00:55:45,386 - 00:55:49,506] Well, writing for voice, especially for multiple voices,
+- [00:55:50,806 - 00:55:53,266] you have to work so closely on,
+- [00:55:53,266 - 00:55:56,786] for example, just the way one word transitions into another.
+- [00:55:56,786 - 00:55:58,966] So if you have a glottal stop,
+- [00:55:58,966 - 00:56:01,426] like at the end of one word,
+- [00:56:02,786 - 00:56:04,876] that the singer then has to
+- [00:56:04,876 - 00:56:06,966] overcome to flow into the next word.
+- [00:56:06,966 - 00:56:08,076] That's fine if it comes
+- [00:56:08,076 - 00:56:09,186] at the end of a line,
+- [00:56:09,186 - 00:56:10,946] but if it comes in the middle of
+- [00:56:10,946 - 00:56:12,706] a phrase or a thought, it doesn't work.
+- [00:56:12,706 - 00:56:16,046] So you begin to think about the
+- [00:56:16,046 - 00:56:19,386] sound currents of single phrases and the singability,
+- [00:56:19,386 - 00:56:21,506] and that is not something as
+- [00:56:21,506 - 00:56:23,626] a writer you would quite think about.
+- [00:56:23,626 - 00:56:28,006] But in writing song lyrics,
+- [00:56:28,006 - 00:56:31,835] the single thing that that has
+- [00:56:31,835 - 00:56:35,665] taught me most clearly is to
+- [00:56:35,665 - 00:56:40,986] let images lapse into looseness with one another.
+- [00:56:40,986 - 00:56:42,065] Let me put it like that.
+- [00:56:42,065 - 00:56:44,025] By that I mean as a
+- [00:56:44,025 - 00:56:45,986] teacher at Cambridge, as a prose writer,
+- [00:56:45,986 - 00:56:50,185] I'm basically a control freak.
+- [00:56:50,185 - 00:56:52,155] I have to make meaning mean
+- [00:56:52,155 - 00:56:54,126] exactly what I want it to mean.
+- [00:56:54,126 - 00:56:57,425] So you work with syntax in all of these really,
+- [00:56:57,425 - 00:56:57,986] really knotty,
+- [00:56:57,986 - 00:57:00,366] complex ways to carry meaning.
+- [00:57:00,366 - 00:57:01,936] So I wrote a song called
+- [00:57:01,936 - 00:57:03,506] Uncanny Valley with my friend Johnny,
+- [00:57:03,506 - 00:57:04,145] Johnny Flynn.
+- [00:57:04,145 - 00:57:05,815] It's a really, it was so we
+- [00:57:05,815 - 00:57:07,486] all got lost in the uncanny valley,
+- [00:57:07,486 - 00:57:10,426] took a wrong turn at the end of the alley.
+- [00:57:10,426 - 00:57:12,186] No one had a map and no
+- [00:57:12,186 - 00:57:13,946] one kept tally in the uncanny valley,
+- [00:57:13,946 - 00:57:15,285] in the uncanny valley.
+- [00:57:15,285 - 00:57:17,626] And so when you speak it,
+- [00:57:17,626 - 00:57:21,186] it sounds almost like a nursery rhyme and I'd
+- [00:57:21,186 - 00:57:24,746] be embarrassed if I'd written that flat for the page.
+- [00:57:24,746 - 00:57:27,986] But when you sing it and set it to beat,
+- [00:57:27,986 - 00:57:31,145] and Johnny immediately looked at that and he said,
+- [00:57:31,145 - 00:57:34,266] I want to set this off beat.
+- [00:57:34,266 - 00:57:40,806] So when you hear the language and the guitar backing,
+- [00:57:40,806 - 00:57:43,696] they sit slightly in friction with one
+- [00:57:43,696 - 00:57:46,586] another and that gives it this uncanny,
+- [00:57:46,586 - 00:57:50,866] off kilter, slightly strange.
+- [00:57:50,866 - 00:57:53,426] And from the beginning, everything is off balance.
+- [00:57:53,426 - 00:57:57,186] So they're letting language lapse into looseness,
+- [00:57:57,186 - 00:57:57,866] letting images live,
+- [00:57:57,866 - 00:58:00,986] live with one another in ways that
+- [00:58:00,986 - 00:58:04,106] they start to cross pollinate in weird ways.
+- [00:58:04,106 - 00:58:05,006] The other thing with that,
+- [00:58:05,006 - 00:58:12,265] that I always love talking to artists about is the ways that serious artists are
+- [00:58:12,265 - 00:58:19,525] conscious of things that are below the register of consciousness for the consumer of that work.
+- [00:58:19,525 - 00:58:20,606] Like those things are talking about,
+- [00:58:20,606 - 00:58:22,525] I would have never thought about those things.
+- [00:58:22,525 - 00:58:23,745] I could probably listen to uncanny
+- [00:58:23,745 - 00:58:24,966] valley a hundred times and be like,
+- [00:58:24,966 - 00:58:26,186] maybe I'd get to,
+- [00:58:26,186 - 00:58:26,426] wow,
+- [00:58:26,426 - 00:58:27,846] there's something uncanny about the song.
+- [00:58:27,846 - 00:58:31,405] But what you're saying is this is why that's happening.
+- [00:58:31,405 - 00:58:33,105] Is that sort of the
+- [00:58:33,105 - 00:58:34,806] puzzle pieces aren't quite matching up.
+- [00:58:34,806 - 00:58:37,346] And that is a feature,
+- [00:58:37,346 - 00:58:37,986] not a bug,
+- [00:58:37,986 - 00:58:38,706] a feature,
+- [00:58:38,706 - 00:58:39,206] not a bug.
+- [00:58:39,206 - 00:58:39,686] Exactly.
+- [00:58:39,686 - 00:58:42,366] What seems like a glitch is precisely the point.
+- [00:58:42,366 - 00:58:44,466] This is a song about glitch.
+- [00:58:44,466 - 00:58:45,086] And,
+- [00:58:45,086 - 00:58:45,426] uh,
+- [00:58:45,426 - 00:58:45,726] and,
+- [00:58:45,726 - 00:58:49,606] and then I kind of carried that over to,
+- [00:58:49,606 - 00:58:52,025] I mean the biggest glitch as it were glitch.
+- [00:58:52,025 - 00:58:53,226] Glitch is such a cool word.
+- [00:58:53,226 - 00:58:54,666] It's such a cool word.
+- [00:58:54,666 - 00:58:55,506] It's such a cool thing.
+- [00:58:55,506 - 00:58:56,446] It's such a cool word.
+- [00:58:56,446 - 00:58:57,126] It's where,
+- [00:58:57,126 - 00:58:57,666] it's where,
+- [00:58:57,666 - 00:58:59,886] where everything starts to kind of
+- [00:58:59,886 - 00:59:02,106] vibrate and the hologram flickers and
+- [00:59:02,106 - 00:59:03,966] reality is doing strange things and
+- [00:59:03,966 - 00:59:05,826] rationalisms limits start to be met.
+- [00:59:05,826 - 00:59:07,866] And the biggest glitch in the matrix
+- [00:59:07,866 - 00:59:09,906] I've ever known was the encounter with
+- [00:59:09,906 - 00:59:10,746] this river being.
+- [00:59:10,746 - 00:59:12,966] And so there you have to
+- [00:59:12,966 - 00:59:15,186] start to find ways that language can,
+- [00:59:15,446 - 00:59:17,046] can glitch itself.
+- [00:59:17,346 - 00:59:18,766] So again,
+- [00:59:18,766 - 00:59:21,366] something I learned in songwriting carries over in,
+- [00:59:21,366 - 00:59:21,686] in,
+- [00:59:21,686 - 00:59:22,206] into the,
+- [00:59:22,206 - 00:59:24,886] into the big books and then poetry.
+- [00:59:25,166 - 00:59:25,446] Yeah.
+- [00:59:25,446 - 00:59:25,766] Poetry.
+- [00:59:25,766 - 00:59:26,066] So I,
+- [00:59:26,066 - 00:59:26,766] uh,
+- [00:59:26,766 - 00:59:27,666] mostly for children,
+- [00:59:27,666 - 00:59:28,906] mostly for children,
+- [00:59:28,906 - 00:59:30,066] but here's a,
+- [00:59:30,106 - 00:59:32,126] here's a glitch poem for you actually.
+- [00:59:32,126 - 00:59:32,526] So,
+- [00:59:32,526 - 00:59:32,906] uh,
+- [00:59:32,906 - 00:59:34,146] a ran this beautiful,
+- [00:59:34,146 - 00:59:36,726] quick little bird that moves so fast.
+- [00:59:37,426 - 00:59:38,586] You can barely see it.
+- [00:59:38,586 - 00:59:43,486] So when Ren was from stone to furs,
+- [00:59:43,486 - 00:59:46,166] the world around her blurs for Ren is quick.
+- [00:59:46,166 - 00:59:46,626] So quick,
+- [00:59:46,626 - 00:59:49,026] she blurs the air through which she flows.
+- [00:59:49,606 - 00:59:49,786] But,
+- [00:59:49,786 - 00:59:49,866] but,
+- [00:59:49,866 - 00:59:50,046] but,
+- [00:59:50,046 - 00:59:50,106] but,
+- [00:59:50,106 - 00:59:50,526] but,
+- [00:59:50,526 - 00:59:53,786] so there it's all about the glitch really.
+- [00:59:53,786 - 00:59:55,326] It's about speed and then,
+- [00:59:55,446 - 00:59:55,906] and then,
+- [00:59:55,946 - 00:59:57,666] and then glitch because the rent is so quick,
+- [00:59:57,666 - 00:59:59,346] she seems to pass out of sight.
+- [00:59:59,346 - 01:00:00,346] She seems to glitch.
+- [01:00:03,666 - 01:00:04,806] We gotta talk about words.
+- [01:00:05,286 - 01:00:05,826] We have been,
+- [01:00:05,826 - 01:00:06,726] we gotta talk about words.
+- [01:00:06,726 - 01:00:06,926] No,
+- [01:00:06,926 - 01:00:07,146] no,
+- [01:00:07,146 - 01:00:07,326] no,
+- [01:00:07,326 - 01:00:07,446] no,
+- [01:00:07,446 - 01:00:07,626] no,
+- [01:00:07,626 - 01:00:07,746] no.
+- [01:00:07,746 - 01:00:09,186] Now we're really gonna talk about words.
+- [01:00:09,206 - 01:00:10,826] So tell me about place words.
+- [01:00:10,866 - 01:00:11,226] Oh yeah.
+- [01:00:11,226 - 01:00:13,866] Like how you've collected place words for terrain elements,
+- [01:00:13,866 - 01:00:14,706] light life,
+- [01:00:15,006 - 01:00:16,206] place names.
+- [01:00:16,366 - 01:00:16,746] Yeah.
+- [01:00:16,926 - 01:00:17,166] Yeah.
+- [01:00:17,166 - 01:00:17,766] Top of them.
+- [01:00:17,766 - 01:00:18,906] Now we're really gonna talk about,
+- [01:00:18,906 - 01:00:19,326] all right,
+- [01:00:19,326 - 01:00:19,506] well,
+- [01:00:19,506 - 01:00:21,566] let's get some words going the on a master con,
+- [01:00:21,666 - 01:00:22,086] um,
+- [01:00:22,086 - 01:00:22,566] the,
+- [01:00:22,566 - 01:00:22,866] uh,
+- [01:00:22,866 - 01:00:23,106] the,
+- [01:00:23,106 - 01:00:23,786] the top of them.
+- [01:00:23,786 - 01:00:25,516] So top of them is a place
+- [01:00:25,516 - 01:00:27,246] name on a master con is a,
+- [01:00:27,246 - 01:00:27,566] like a,
+- [01:00:27,566 - 01:00:28,466] a gathering of,
+- [01:00:28,506 - 01:00:28,846] of,
+- [01:00:28,846 - 01:00:29,486] of words,
+- [01:00:29,486 - 01:00:31,166] particularly for places,
+- [01:00:31,166 - 01:00:32,606] obviously glossary lexicon.
+- [01:00:32,606 - 01:00:33,686] So all of my books have,
+- [01:00:33,746 - 01:00:34,826] have glossaries.
+- [01:00:34,946 - 01:00:35,486] Um,
+- [01:00:35,806 - 01:00:36,466] I'll give you a,
+- [01:00:36,626 - 01:00:37,826] I'll give you a few,
+- [01:00:38,006 - 01:00:39,816] I'll give you a choice
+- [01:00:39,816 - 01:00:41,626] view from the glossary of not,
+- [01:00:41,806 - 01:00:42,886] not because I want,
+- [01:00:43,286 - 01:00:44,006] I want people,
+- [01:00:44,006 - 01:00:45,986] I don't use big words because
+- [01:00:45,986 - 01:00:47,966] I want people to think I'm a
+- [01:00:47,966 - 01:00:48,866] big word user.
+- [01:00:48,886 - 01:00:52,466] I use them because they are fantastically precise,
+- [01:00:52,506 - 01:00:53,186] descriptive,
+- [01:00:53,486 - 01:00:54,306] descriptive,
+- [01:00:54,306 - 01:00:54,886] precise.
+- [01:00:54,986 - 01:00:57,226] And I think precision is a function of,
+- [01:00:57,226 - 01:00:58,066] of lyricism.
+- [01:00:58,126 - 01:00:58,546] Yes.
+- [01:00:58,546 - 01:00:59,145] So,
+- [01:00:59,266 - 01:00:59,525] um,
+- [01:00:59,525 - 01:01:00,166] so these,
+- [01:01:00,206 - 01:01:00,886] so here's,
+- [01:01:00,926 - 01:01:02,025] here's a few from the,
+- [01:01:02,025 - 01:01:02,766] um,
+- [01:01:03,226 - 01:01:03,546] uh,
+- [01:01:03,546 - 01:01:05,405] from the glossary of is a river alive.
+- [01:01:06,126 - 01:01:06,466] Um,
+- [01:01:06,486 - 01:01:07,006] some,
+- [01:01:07,486 - 01:01:09,846] a pit or pool into which waste liquids are drained,
+- [01:01:09,846 - 01:01:12,486] a cesspit super void in astronomy,
+- [01:01:12,486 - 01:01:14,666] a very large part of the universe
+- [01:01:14,666 - 01:01:16,846] containing very little or no known condensed
+- [01:01:16,846 - 01:01:17,266] matter,
+- [01:01:17,266 - 01:01:17,926] galaxies,
+- [01:01:17,926 - 01:01:18,706] super clusters,
+- [01:01:18,706 - 01:01:19,186] et cetera.
+- [01:01:19,405 - 01:01:20,186] I have a cool one.
+- [01:01:20,186 - 01:01:20,686] Go on then.
+- [01:01:21,706 - 01:01:22,506] Runak moon.
+- [01:01:22,506 - 01:01:22,785] Oh,
+- [01:01:22,785 - 01:01:23,386] runic moon.
+- [01:01:23,405 - 01:01:25,306] And you pronounced it pretty well.
+- [01:01:25,366 - 01:01:26,266] That's because I,
+- [01:01:26,506 - 01:01:26,686] uh,
+- [01:01:26,686 - 01:01:29,566] I literally went to Google and I was like,
+- [01:01:29,566 - 01:01:30,646] I'm not gonna be able to pronounce this.
+- [01:01:30,646 - 01:01:32,426] So I'm going to get the
+- [01:01:32,426 - 01:01:34,206] actual pronunciation on my piece of paper.
+- [01:01:34,666 - 01:01:35,566] So I practiced that.
+- [01:01:35,566 - 01:01:36,626] You did good job.
+- [01:01:37,146 - 01:01:39,696] So you're talking about precise the
+- [01:01:39,696 - 01:01:42,246] shadows cast on the Moreland by clouds
+- [01:01:42,246 - 01:01:46,026] moving across the sky on a bright and windy day.
+- [01:01:46,086 - 01:01:46,386] Yeah.
+- [01:01:46,386 - 01:01:47,126] Runic mum.
+- [01:01:47,126 - 01:01:47,706] Exactly.
+- [01:01:47,846 - 01:01:49,066] What's that four syllables,
+- [01:01:49,066 - 01:01:51,186] but there it takes us in English,
+- [01:01:51,266 - 01:01:52,486] a paragraph,
+- [01:01:52,486 - 01:01:54,686] really a long sentence to,
+- [01:01:54,786 - 01:01:55,066] to,
+- [01:01:55,066 - 01:01:55,706] to describe.
+- [01:01:55,706 - 01:01:56,006] So this,
+- [01:01:56,006 - 01:01:56,466] I should say,
+- [01:01:56,466 - 01:01:58,025] this is from Gaelic,
+- [01:01:58,066 - 01:01:58,446] Scott,
+- [01:01:58,506 - 01:01:59,406] Scott's Gaelic.
+- [01:01:59,466 - 01:02:00,006] Um,
+- [01:02:00,006 - 01:02:02,676] and it specifically it's from the Western
+- [01:02:02,676 - 01:02:05,346] Isles dialect as it was sort of,
+- [01:02:05,346 - 01:02:05,645] um,
+- [01:02:05,645 - 01:02:06,846] idiolect of,
+- [01:02:06,906 - 01:02:07,326] of Scott.
+- [01:02:07,326 - 01:02:07,506] Well,
+- [01:02:07,506 - 01:02:10,866] what I would imagine is as much as anything,
+- [01:02:12,186 - 01:02:14,646] the language of nature is really
+- [01:02:14,646 - 01:02:17,106] diverse as you move around the diverse.
+- [01:02:17,106 - 01:02:17,766] Exactly.
+- [01:02:17,766 - 01:02:18,065] Yeah.
+- [01:02:18,426 - 01:02:19,966] I spent a wonderful two,
+- [01:02:19,986 - 01:02:21,646] two and a half years collecting.
+- [01:02:21,646 - 01:02:24,186] So I was raiding old glossaries,
+- [01:02:24,226 - 01:02:24,545] um,
+- [01:02:24,545 - 01:02:24,785] in,
+- [01:02:24,785 - 01:02:25,805] in libraries,
+- [01:02:25,805 - 01:02:26,446] regional libraries,
+- [01:02:26,466 - 01:02:28,146] because in the 19th century,
+- [01:02:28,146 - 01:02:30,196] a lot of people were making these dialect
+- [01:02:30,196 - 01:02:32,246] glossaries and looking always for words for water,
+- [01:02:32,525 - 01:02:33,226] for land,
+- [01:02:33,226 - 01:02:33,846] for weather,
+- [01:02:33,846 - 01:02:35,305] for forests and trees,
+- [01:02:35,646 - 01:02:36,006] for,
+- [01:02:36,006 - 01:02:36,525] for more,
+- [01:02:36,525 - 01:02:39,526] for mountain words of relation with place,
+- [01:02:39,526 - 01:02:40,085] precise,
+- [01:02:40,085 - 01:02:40,526] lyrical,
+- [01:02:40,526 - 01:02:41,085] fascinating,
+- [01:02:41,085 - 01:02:41,506] strange,
+- [01:02:41,506 - 01:02:42,606] sometimes absurd.
+- [01:02:42,786 - 01:02:43,286] Um,
+- [01:02:43,666 - 01:02:45,356] and I would also go and
+- [01:02:45,356 - 01:02:47,046] interview language keepers as it were.
+- [01:02:47,046 - 01:02:48,066] What are language keepers?
+- [01:02:48,066 - 01:02:48,466] Well,
+- [01:02:48,466 - 01:02:49,106] so there's,
+- [01:02:49,266 - 01:02:51,066] I guess the elders of their communities,
+- [01:02:51,066 - 01:02:52,966] especially where languages are threatened.
+- [01:02:52,966 - 01:02:53,986] So Scott's Gaelic,
+- [01:02:54,066 - 01:02:56,026] it's got as low as sort of 53,000,
+- [01:02:56,026 - 01:02:57,406] speakers.
+- [01:02:57,706 - 01:02:57,906] Uh,
+- [01:02:57,906 - 01:03:00,486] it's starting to bump back up a bit now,
+- [01:03:00,486 - 01:03:02,105] but it's highly regionally specific.
+- [01:03:02,105 - 01:03:03,945] So I came to know an amazing man
+- [01:03:03,945 - 01:03:05,786] to whom the book is dedicated called Finley McLeod.
+- [01:03:06,145 - 01:03:10,306] And Finley was a language key first language Gaelic speaker,
+- [01:03:10,306 - 01:03:11,966] but bilingual in English.
+- [01:03:11,986 - 01:03:12,446] Um,
+- [01:03:12,766 - 01:03:15,885] and he had made part of his remarkable life's work,
+- [01:03:15,885 - 01:03:19,325] get gathering the language together and recording
+- [01:03:19,325 - 01:03:22,766] it because a lot of it's oral culture.
+- [01:03:22,766 - 01:03:24,286] Like you wouldn't necessarily think
+- [01:03:24,286 - 01:03:25,806] to write down the specific,
+- [01:03:25,806 - 01:03:26,645] um,
+- [01:03:26,645 - 01:03:28,026] but so he handed me a,
+- [01:03:28,026 - 01:03:30,186] this amazing document of Pete glossary,
+- [01:03:30,186 - 01:03:32,586] which was like 150 words for aspects
+- [01:03:32,586 - 01:03:34,986] of Moreland and Pete on Lewis alone.
+- [01:03:34,986 - 01:03:35,946] And I just like,
+- [01:03:35,946 - 01:03:36,486] wow.
+- [01:03:36,486 - 01:03:38,826] And that's where I met for the first time.
+- [01:03:38,826 - 01:03:40,566] Tell me about language death.
+- [01:03:40,566 - 01:03:41,046] Yes,
+- [01:03:41,046 - 01:03:41,806] it happens.
+- [01:03:41,806 - 01:03:42,905] River death happens.
+- [01:03:42,905 - 01:03:44,165] Language death happens.
+- [01:03:44,165 - 01:03:44,665] I mean,
+- [01:03:44,665 - 01:03:46,746] language death is very simple to,
+- [01:03:46,746 - 01:03:47,405] to define.
+- [01:03:47,405 - 01:03:51,186] It's where the last living speaker of a language dies.
+- [01:03:51,186 - 01:03:52,686] And then the language survives.
+- [01:03:52,686 - 01:03:54,405] And then the language survives.
+- [01:03:54,405 - 01:03:55,326] And then the language dies.
+- [01:03:55,326 - 01:03:56,585] Language survives in,
+- [01:03:56,585 - 01:04:00,425] in recordings in a virtual record in paper record,
+- [01:04:00,425 - 01:04:01,026] of course,
+- [01:04:01,026 - 01:04:01,625] but it's,
+- [01:04:01,625 - 01:04:03,365] it's no longer being passed on.
+- [01:04:03,365 - 01:04:04,566] That's language death.
+- [01:04:04,566 - 01:04:06,546] And when a language dies,
+- [01:04:06,546 - 01:04:08,325] knowledge goes with it because
+- [01:04:08,325 - 01:04:10,105] language is a knowledge storage system.
+- [01:04:10,105 - 01:04:10,826] And when you,
+- [01:04:10,826 - 01:04:11,645] and some,
+- [01:04:11,645 - 01:04:13,865] some aspects of that knowledge cannot
+- [01:04:13,865 - 01:04:16,085] be translated across into another language.
+- [01:04:16,085 - 01:04:18,905] They're not alienable from the language itself.
+- [01:04:18,905 - 01:04:20,825] So language death is a
+- [01:04:20,825 - 01:04:22,746] kind of biocultural collapse as well.
+- [01:04:22,746 - 01:04:24,006] A deletion of,
+- [01:04:24,006 - 01:04:24,365] of,
+- [01:04:24,365 - 01:04:24,645] of,
+- [01:04:24,645 - 01:04:25,206] of knowledge,
+- [01:04:25,206 - 01:04:29,406] often that's been born and carried over many,
+- [01:04:29,406 - 01:04:30,306] many generations.
+- [01:04:30,306 - 01:04:31,026] Mm-hmm.
+- [01:04:31,026 - 01:04:33,606] I asked you earlier about getting the early
+- [01:04:33,606 - 01:04:36,186] notes and then we sort of talked about revision,
+- [01:04:36,186 - 01:04:40,146] but I know every single sentence gets revised 20,
+- [01:04:40,146 - 01:04:40,926] a hundred times.
+- [01:04:40,926 - 01:04:42,486] Like tell me about the revision process.
+- [01:04:42,486 - 01:04:44,556] How do you take something that
+- [01:04:44,556 - 01:04:46,626] is eh and turn it into yeah.
+- [01:04:46,626 - 01:04:47,766] Well,
+- [01:04:47,766 - 01:04:49,266] I don't know if I do turn it into yeah,
+- [01:04:49,266 - 01:04:49,746] but it,
+- [01:04:49,746 - 01:04:51,666] I definitely try and move it away from eh.
+- [01:04:51,666 - 01:04:54,066] And I am such a,
+- [01:04:54,066 - 01:04:55,146] I'm a muddy,
+- [01:04:55,206 - 01:04:55,806] mucky,
+- [01:04:55,806 - 01:04:56,706] messy writer.
+- [01:04:56,706 - 01:05:00,066] So I sometimes liken it to potting,
+- [01:05:00,066 - 01:05:02,526] like being a potter and the,
+- [01:05:02,526 - 01:05:03,126] you know,
+- [01:05:03,126 - 01:05:04,206] in potting where you,
+- [01:05:04,206 - 01:05:05,466] your first thing you do is you,
+- [01:05:05,466 - 01:05:08,286] you have your bucket of clay and you reach down,
+- [01:05:08,286 - 01:05:12,906] take a huge wet handful of clay and then yeah,
+- [01:05:12,906 - 01:05:14,346] down it goes on the wheel.
+- [01:05:14,346 - 01:05:16,866] And then the next bit is the hard work.
+- [01:05:16,866 - 01:05:17,886] It's like the treadling,
+- [01:05:17,886 - 01:05:18,666] I think they call it.
+- [01:05:18,666 - 01:05:20,526] So you're sort of pumping that foot
+- [01:05:20,526 - 01:05:22,386] treadle and that begins to spin the plate.
+- [01:05:22,386 - 01:05:23,466] And then,
+- [01:05:23,466 - 01:05:24,786] and then the work,
+- [01:05:24,786 - 01:05:25,186] the,
+- [01:05:25,206 - 01:05:26,226] the fine work begins,
+- [01:05:26,226 - 01:05:27,906] which is where you begin to shape the bowl
+- [01:05:27,906 - 01:05:29,586] and shape the bowl and shape the pot or whatever.
+- [01:05:29,586 - 01:05:31,566] And then eventually once you've got that form,
+- [01:05:31,566 - 01:05:32,616] then you start to do
+- [01:05:32,616 - 01:05:33,666] all the ornamenting and so on.
+- [01:05:34,086 - 01:05:36,066] But it is messy work.
+- [01:05:36,066 - 01:05:38,436] I am not a writer who has
+- [01:05:38,436 - 01:05:40,806] to finish one sentence before he goes on,
+- [01:05:40,806 - 01:05:42,486] he or she goes on to the next.
+- [01:05:42,906 - 01:05:45,606] And a piece of advice perhaps I would have for,
+- [01:05:45,606 - 01:05:47,316] I often give this to writers
+- [01:05:47,316 - 01:05:49,026] who are stuck with a block.
+- [01:05:49,026 - 01:05:50,366] Like I can't begin the book
+- [01:05:50,366 - 01:05:51,706] or I can't proceed with the book.
+- [01:05:51,706 - 01:05:52,206] I'm like,
+- [01:05:53,006 - 01:05:54,066] don't worry about that.
+- [01:05:54,066 - 01:05:54,726] Just,
+- [01:05:54,726 - 01:05:55,986] just leave it.
+- [01:05:55,986 - 01:05:56,886] Actually,
+- [01:05:56,886 - 01:05:57,886] I have two pieces of advice.
+- [01:05:57,886 - 01:05:58,446] Let me give this.
+- [01:05:58,446 - 01:06:00,845] So the first is when you end a day's writing,
+- [01:06:01,626 - 01:06:02,126] Lee,
+- [01:06:02,126 - 01:06:03,336] make sure you know what the
+- [01:06:03,336 - 01:06:04,546] next sentence is going to be.
+- [01:06:04,686 - 01:06:06,286] So when you wake up the next morning,
+- [01:06:06,786 - 01:06:07,286] yeah,
+- [01:06:07,286 - 01:06:07,686] you're like,
+- [01:06:07,686 - 01:06:08,626] I'll finish that.
+- [01:06:08,626 - 01:06:09,966] And that just gives you that little bit.
+- [01:06:09,966 - 01:06:11,706] It's like pushing off on the bike and then,
+- [01:06:12,066 - 01:06:12,906] and then you're cycling.
+- [01:06:12,906 - 01:06:13,566] Good analogy.
+- [01:06:13,845 - 01:06:14,345] So,
+- [01:06:14,345 - 01:06:14,946] um,
+- [01:06:14,946 - 01:06:16,326] so that's like the hook and I,
+- [01:06:16,626 - 01:06:17,166] and,
+- [01:06:17,166 - 01:06:18,246] and the other is like,
+- [01:06:18,246 - 01:06:19,386] if you really stuck,
+- [01:06:19,506 - 01:06:19,966] don't worry,
+- [01:06:19,966 - 01:06:21,366] just go downstream,
+- [01:06:21,486 - 01:06:23,096] jump into the book further
+- [01:06:23,096 - 01:06:24,706] down and just write that bit.
+- [01:06:24,726 - 01:06:25,866] And sometimes,
+- [01:06:25,866 - 01:06:28,206] and I build my books out
+- [01:06:28,206 - 01:06:30,546] of bits like there's sort of mosaics.
+- [01:06:30,546 - 01:06:32,766] So I write them often very non-linearly.
+- [01:06:32,766 - 01:06:33,306] I'll be like,
+- [01:06:33,306 - 01:06:33,666] okay,
+- [01:06:33,666 - 01:06:35,526] I know what's going to happen in that
+- [01:06:35,526 - 01:06:37,386] paragraph or that scene or that bit of the
+- [01:06:37,386 - 01:06:38,706] river or that,
+- [01:06:39,066 - 01:06:40,686] that journey of that encounter.
+- [01:06:40,686 - 01:06:43,146] So I'll write that as a set piece
+- [01:06:43,146 - 01:06:45,606] and I'll be doing that with a hundred set
+- [01:06:45,606 - 01:06:46,446] pieces,
+- [01:06:46,446 - 01:06:49,906] even as I'm trying to kind of remember the flow.
+- [01:06:49,926 - 01:06:51,566] So I'm not at all scared of,
+- [01:06:51,566 - 01:06:52,506] um,
+- [01:06:52,506 - 01:06:54,006] distraction,
+- [01:06:54,006 - 01:06:54,226] uh,
+- [01:06:54,226 - 01:06:54,726] discrepancies,
+- [01:06:54,726 - 01:06:55,266] discrepancy,
+- [01:06:55,266 - 01:06:55,866] diversion.
+- [01:06:55,866 - 01:06:58,866] It doesn't have to be this beautiful linear writing.
+- [01:06:58,986 - 01:07:00,726] I don't know how Richard powers writes.
+- [01:07:00,726 - 01:07:01,926] I know Alan Hollinghurst,
+- [01:07:01,926 - 01:07:03,996] the English novelist won the
+- [01:07:03,996 - 01:07:06,066] book prize and many other things.
+- [01:07:06,066 - 01:07:08,966] He writes perfect linear flow,
+- [01:07:08,966 - 01:07:10,386] handwritten sentences.
+- [01:07:10,446 - 01:07:11,706] He'll write a page a day.
+- [01:07:11,966 - 01:07:12,486] He wants,
+- [01:07:12,486 - 01:07:13,506] I once heard him say,
+- [01:07:13,686 - 01:07:14,345] then he'll stop.
+- [01:07:15,006 - 01:07:16,726] And then I write the next page the next day.
+- [01:07:16,845 - 01:07:17,466] And then I'll stop.
+- [01:07:18,106 - 01:07:20,646] If you write 365 pages a year,
+- [01:07:20,826 - 01:07:22,326] you've got yourself a novel really quick.
+- [01:07:22,326 - 01:07:23,886] That is an anointed human being.
+- [01:07:23,886 - 01:07:24,666] That sounds,
+- [01:07:24,726 - 01:07:25,806] that's exactly,
+- [01:07:25,806 - 01:07:26,466] that is,
+- [01:07:26,726 - 01:07:27,726] that is rare.
+- [01:07:28,206 - 01:07:28,566] Well,
+- [01:07:28,566 - 01:07:29,585] I think it must be,
+- [01:07:29,585 - 01:07:30,606] and I am the opposite.
+- [01:07:30,606 - 01:07:30,986] I'm like,
+- [01:07:30,986 - 01:07:31,286] okay,
+- [01:07:31,286 - 01:07:32,186] mosaic tile here.
+- [01:07:32,186 - 01:07:33,426] Then do you like writing?
+- [01:07:35,345 - 01:07:35,826] Yes.
+- [01:07:35,826 - 01:07:36,286] I mean,
+- [01:07:36,345 - 01:07:37,626] it is not coal mining.
+- [01:07:38,286 - 01:07:38,706] It's yeah.
+- [01:07:38,706 - 01:07:41,556] I think writers can really
+- [01:07:41,556 - 01:07:44,406] whine about how hard writing is.
+- [01:07:44,686 - 01:07:45,606] And at some level,
+- [01:07:45,606 - 01:07:48,116] I think we need to recognize that you're sitting
+- [01:07:48,116 - 01:07:50,626] on the whole comfortably behind a desk and yes,
+- [01:07:50,626 - 01:07:52,346] there are external pressures and
+- [01:07:52,346 - 01:07:54,066] maybe worried about financial circumstances.
+- [01:07:54,066 - 01:07:54,905] I mean,
+- [01:07:54,905 - 01:07:56,266] I think there's a lot of pressure in writing,
+- [01:07:56,266 - 01:07:58,385] but there are also circumstances or deadlines or family.
+- [01:07:58,385 - 01:07:58,746] You know,
+- [01:07:58,746 - 01:07:59,226] we're all,
+- [01:07:59,226 - 01:07:59,885] we're all under,
+- [01:07:59,885 - 01:08:00,665] under many kinds of,
+- [01:08:00,665 - 01:08:01,266] of pressure,
+- [01:08:01,266 - 01:08:01,766] but the,
+- [01:08:01,766 - 01:08:02,726] the actual writing work,
+- [01:08:02,726 - 01:08:03,105] it,
+- [01:08:03,105 - 01:08:03,506] it,
+- [01:08:03,506 - 01:08:04,365] it can be a bit hurty.
+- [01:08:04,365 - 01:08:05,905] Let's say it's like it's brain hurting.
+- [01:08:05,905 - 01:08:06,986] You don't want to do it because it's,
+- [01:08:06,986 - 01:08:07,546] it's hard.
+- [01:08:07,546 - 01:08:08,226] It's a natural.
+- [01:08:08,226 - 01:08:08,526] Yeah.
+- [01:08:08,526 - 01:08:08,865] Well,
+- [01:08:08,865 - 01:08:09,165] it's,
+- [01:08:09,165 - 01:08:09,625] to me,
+- [01:08:09,625 - 01:08:11,165] it's pretty naturalized now after 20 years.
+- [01:08:11,165 - 01:08:11,665] Okay.
+- [01:08:11,665 - 01:08:12,286] It takes 20 years.
+- [01:08:12,286 - 01:08:12,786] It takes 20 years.
+- [01:08:12,786 - 01:08:13,566] I actually feel vindicated.
+- [01:08:13,566 - 01:08:13,986] Okay.
+- [01:08:13,986 - 01:08:14,306] Yeah.
+- [01:08:14,306 - 01:08:14,826] It's totally natural.
+- [01:08:14,826 - 01:08:15,306] Just takes 20 years.
+- [01:08:15,306 - 01:08:15,566] You're,
+- [01:08:15,566 - 01:08:15,865] you've,
+- [01:08:15,866 - 01:08:16,866] you've been writing,
+- [01:08:16,866 - 01:08:17,366] I mean,
+- [01:08:17,366 - 01:08:18,366] really writing how long,
+- [01:08:18,366 - 01:08:18,866] 10 years now.
+- [01:08:18,866 - 01:08:19,366] Yeah.
+- [01:08:19,866 - 01:08:20,166] Okay.
+- [01:08:20,166 - 01:08:21,366] You just got another 10 to do,
+- [01:08:21,366 - 01:08:22,366] and then it'll be fine.
+- [01:08:22,366 - 01:08:23,366] It'll be like freewheeling on a
+- [01:08:23,366 - 01:08:24,366] bike with no hands on the handlebars.
+- [01:08:24,366 - 01:08:24,866] Great.
+- [01:08:24,866 - 01:08:25,866] I'll be doing it like a,
+- [01:08:25,866 - 01:08:26,866] like a guy in a hammock.
+- [01:08:26,866 - 01:08:27,366] Well,
+- [01:08:27,366 - 01:08:27,866] it,
+- [01:08:27,866 - 01:08:28,866] it doesn't still feel like that,
+- [01:08:28,866 - 01:08:29,366] but it's,
+- [01:08:29,366 - 01:08:30,366] we're back to ass on chair.
+- [01:08:30,366 - 01:08:30,866] It's like,
+- [01:08:30,866 - 01:08:31,366] just show up.
+- [01:08:31,366 - 01:08:32,366] And even if you,
+- [01:08:32,366 - 01:08:33,866] even if you only get a paragraph that day,
+- [01:08:33,866 - 01:08:34,866] your book's a paragraph longer.
+- [01:08:34,866 - 01:08:36,366] How do you feel about using
+- [01:08:36,366 - 01:08:37,866] your book as a way to,
+- [01:08:37,866 - 01:08:38,366] to,
+- [01:08:38,366 - 01:08:38,866] to,
+- [01:08:38,866 - 01:08:39,366] to,
+- [01:08:39,366 - 01:08:39,866] to,
+- [01:08:39,866 - 01:08:40,366] to,
+- [01:08:40,366 - 01:08:40,866] to,
+- [01:08:40,866 - 01:08:41,366] to,
+- [01:08:41,366 - 01:08:41,866] to,
+- [01:08:41,866 - 01:08:42,366] to,
+- [01:08:42,366 - 01:08:51,366] to,
+- [01:08:51,366 - 01:08:51,866] I mean,
+- [01:08:51,866 - 01:08:52,366] I,
+- [01:08:52,366 - 01:08:53,366] I don't.
+- [01:08:53,366 - 01:08:54,366] Yeah.
+- [01:08:54,366 - 01:08:54,706] Uh,
+- [01:08:54,706 - 01:08:55,366] and
+- [01:08:55,366 - 01:08:56,866] I cannot ever imagine doing so.
+- [01:08:57,566 - 01:08:59,366] The only AI I use,
+- [01:08:59,366 - 01:09:00,866] although I do try and switch it off is,
+- [01:09:00,866 - 01:09:02,366] is obviously like spellcheck,
+- [01:09:02,366 - 01:09:03,366] you know,
+- [01:09:03,366 - 01:09:03,866] you get the,
+- [01:09:03,866 - 01:09:05,366] the red and that is a kind of AI.
+- [01:09:05,366 - 01:09:06,366] And I suppose it's been,
+- [01:09:06,366 - 01:09:08,866] it's been scrutinizing us for a long time,
+- [01:09:08,866 - 01:09:11,366] but actually I am because my writing skills are pretty,
+- [01:09:11,366 - 01:09:11,866] you know,
+- [01:09:11,866 - 01:09:15,066] often is highly violating of grammatical
+- [01:09:15,066 - 01:09:18,265] norms. The grammar check goes wild.
+- [01:09:18,265 - 01:09:19,066] He doesn't like it.
+- [01:09:19,066 - 01:09:22,265] Does not like it. And I'm like, good, this
+- [01:09:22,265 - 01:09:25,466] is excellent. I could give you an example of what,
+- [01:09:25,466 - 01:09:29,546] as it were, Grammarly does not like. So
+- [01:09:29,546 - 01:09:33,626] I sometimes like to remove verbs from sentences,
+- [01:09:34,586 - 01:09:37,305] leaving them technically not sentences. But this is
+- [01:09:37,305 - 01:09:40,026] seeing this huge Canadian river for the first
+- [01:09:40,026 - 01:09:44,746] time from the sky. My first sight of
+- [01:09:44,746 - 01:09:49,466] the river itself catches my breath. New paragraph.
+- [01:09:49,466 - 01:09:52,826] A world snake in the green. New paragraph.
+- [01:09:52,826 - 01:09:56,186] Cliffs dropping near sheer to water. New paragraph.
+- [01:09:56,186 - 01:09:58,306] House-sized boulders on the banks. Time
+- [01:09:58,306 - 01:10:00,426] falls from the rock faces above.
+- [01:10:00,986 - 01:10:03,146] New paragraph. Water, blue, black, and
+- [01:10:03,146 - 01:10:05,306] glossy in the deeper, calmer runs.
+- [01:10:05,306 - 01:10:07,426] Peep round where it's stretched towards
+- [01:10:07,426 - 01:10:09,546] and away from rapids, churning green,
+- [01:10:09,546 - 01:10:09,946] gold, and gold.
+- [01:10:10,266 - 01:10:13,506] And cream in the falls. End
+- [01:10:13,506 - 01:10:16,746] paragraph. So that's five paragraphs, five sentences.
+- [01:10:17,385 - 01:10:19,385] Sounds doing weird stuff. Cliffs
+- [01:10:19,385 - 01:10:21,385] dropping near sheer to water.
+- [01:10:23,145 - 01:10:25,625] And Grammarly does not approve, which I
+- [01:10:25,625 - 01:10:28,105] take to be a badge of success.
+- [01:10:29,865 - 01:10:32,145] It's sort of the paradox of Grammarly
+- [01:10:32,145 - 01:10:34,426] that it makes the average piece of writing,
+- [01:10:35,145 - 01:10:39,546] I think, much better. But it hurts
+- [01:10:39,546 - 01:10:42,546] a kind of right... It
+- [01:10:42,546 - 01:10:45,546] takes away from distinctiveness and individuality
+- [01:10:45,546 - 01:10:48,026] that underlies so much great writing. I
+- [01:10:48,026 - 01:10:50,506] think that's so well put, and I like
+- [01:10:50,506 - 01:10:53,226] the idea of it hurting that. I think that's
+- [01:10:53,226 - 01:10:55,946] a good way of putting it. Salman Rushdie yesterday,
+- [01:10:55,946 - 01:10:58,746] I think, said, writers have nothing to fear from
+- [01:10:58,746 - 01:11:01,546] AI until it can do comedy. And I thought
+- [01:11:01,546 - 01:11:04,825] that was an interesting idea. Like the hardest thing
+- [01:11:04,825 - 01:11:08,105] of all is to make us laugh. But I think
+- [01:11:09,546 - 01:11:12,866] writing broadly does have a lot to fear from
+- [01:11:12,866 - 01:11:16,186] AI, and we should resist it, including the absolute
+- [01:11:16,186 - 01:11:18,946] piracy of our books that we now
+- [01:11:18,946 - 01:11:21,706] know large language model composers have been undertaking
+- [01:11:23,306 - 01:11:26,026] for years now, and feeding, absolutely feeding
+- [01:11:26,026 - 01:11:28,746] them without any kind of recompense or licensing
+- [01:11:28,746 - 01:11:31,146] or permission sought into the creation of
+- [01:11:31,146 - 01:11:33,546] LLMs. I want to hear more about
+- [01:11:34,986 - 01:11:37,185] what you do to make something feel visceral. Like,
+- [01:11:37,185 - 01:11:39,385] I've been thinking a lot about that word, visceral.
+- [01:11:39,546 - 01:11:40,186] Yeah.
+- [01:11:40,186 - 01:11:43,865] And you talk about claustrophobia.
+- [01:11:43,865 - 01:11:44,266] Yes.
+- [01:11:44,266 - 01:11:46,425] And the way that that can feel visceral. There's
+- [01:11:46,425 - 01:11:48,585] a line from William Golding where he talks about
+- [01:11:48,585 - 01:11:50,905] sympathetic kinesthesia, twitching limbs,
+- [01:11:50,905 - 01:11:53,226] rising heart rates, faster breathing,
+- [01:11:53,226 - 01:11:55,226] like, and that we can actually experience
+- [01:11:55,226 - 01:11:57,226] something vicariously. So early on in the
+- [01:11:57,226 - 01:11:58,545] conversation, we're talking about
+- [01:11:58,545 - 01:11:59,865] not trying to capture something.
+- [01:11:59,865 - 01:12:00,266] Yes.
+- [01:12:00,266 - 01:12:04,746] But this isn't the opposite, but it's actually
+- [01:12:04,746 - 01:12:09,226] making the reader feel what you felt and having
+- [01:12:09,226 - 01:12:09,365] Yes.
+- [01:12:09,365 - 01:12:09,466] that feeling.
+- [01:12:09,466 - 01:12:09,526] Yes.
+- [01:12:09,546 - 01:12:10,746] feeling feel vivid.
+- [01:12:10,746 - 01:12:11,226] Yes.
+- [01:12:11,226 - 01:12:12,266] Transferring that.
+- [01:12:12,266 - 01:12:15,266] Wow. Well, yes. So visceral from, as it were,
+- [01:12:15,266 - 01:12:18,266] viscera from the guts. Like, how do you make a
+- [01:12:18,266 - 01:12:22,626] reader feel it in the guts? And I mean,
+- [01:12:22,626 - 01:12:26,986] curiously, this is where feelings of nerves, you know, we
+- [01:12:26,986 - 01:12:29,866] talk about butterflies in the stomach. We feel
+- [01:12:29,866 - 01:12:32,746] that kind of characteristic tingles, anxiety or panic.
+- [01:12:34,826 - 01:12:37,146] Underland, which is the book I wrote about,
+- [01:12:37,146 - 01:12:39,466] which is highly kind of claustrophobic in many ways,
+- [01:12:39,466 - 01:12:42,106] although it's also about the immense, immensities of the
+- [01:12:42,106 - 01:12:44,746] underworld and the ways they open us up as
+- [01:12:44,746 - 01:12:48,026] well as close us down. But there is a
+- [01:12:48,026 - 01:12:51,306] passage in that where I am crawling through the Paris
+- [01:12:51,306 - 01:12:54,266] catacombs. And I would say that the area under
+- [01:12:54,266 - 01:12:57,226] your chair and between the legs of your chair,
+- [01:12:57,226 - 01:12:58,026] So about a foot.
+- [01:12:58,026 - 01:13:01,305] is considerably bigger than the pa- I mean, it
+- [01:13:01,305 - 01:13:04,585] re- the affordance of this passage was so tight
+- [01:13:04,585 - 01:13:06,465] that my nose, the back of my head was on
+- [01:13:06,465 - 01:13:08,346] the base and that my nose was on the top.
+- [01:13:08,346 - 01:13:09,226] Oh my goodness.
+- [01:13:09,226 - 01:13:11,826] And I had to hook my rucksack to my
+- [01:13:11,826 - 01:13:14,426] ankle and drag. And then the only way I could,
+- [01:13:14,426 - 01:13:16,706] you could kind of move was just like
+- [01:13:16,706 - 01:13:18,986] worm-like moving your way under. And then this,
+- [01:13:18,986 - 01:13:21,626] this shuddering started, this vibrating stuff that we
+- [01:13:21,626 - 01:13:24,266] were in, it was a rock passage, limestone. And,
+- [01:13:24,266 - 01:13:26,386] and I came to realize, and the whole
+- [01:13:26,386 - 01:13:28,506] ceiling was, everything was judging and the vibrations
+- [01:13:28,506 - 01:13:31,226] were passing through the rock, through my body and back
+- [01:13:31,226 - 01:13:33,946] into the rock. It was a train. It was a,
+- [01:13:33,946 - 01:13:36,586] it was a tube train. We were under Paris. So
+- [01:13:36,586 - 01:13:39,226] it was a Metro train. And I realized it was passing,
+- [01:13:39,226 - 01:13:42,146] directly overhead of a, of a, and I mean, that
+- [01:13:42,146 - 01:13:45,066] probably was the time I felt most afraid in eight
+- [01:13:45,066 - 01:13:48,226] years of, of, of the Underland. Anyway, the roof
+- [01:13:48,226 - 01:13:51,386] didn't collapse. We made it through, but so many
+- [01:13:51,386 - 01:13:53,946] people have stopped reading at that point. I've
+- [01:13:53,946 - 01:13:56,506] had, must've had a hundred people in readings and
+- [01:13:56,506 - 01:13:58,906] talks come up to me and said, I loved Underland, but
+- [01:13:58,906 - 01:14:01,306] when I got to that bit, too much, I just had
+- [01:14:01,306 - 01:14:03,786] to stop. I had to jump. I had to jump
+- [01:14:03,786 - 01:14:06,266] ahead. I was fascinated by this because being able to
+- [01:14:07,066 - 01:14:09,226] vicariously affect your reading,
+- [01:14:09,226 - 01:14:10,186] Yeah.
+- [01:14:10,186 - 01:14:12,906] not their mind, but being able to make
+- [01:14:12,906 - 01:14:15,626] them kind of clench, make their heart beat,
+- [01:14:15,626 - 01:14:18,186] beat raise, make them go outside under a clear
+- [01:14:18,186 - 01:14:20,746] blue sky so they can recover from the claustrophobia,
+- [01:14:20,746 - 01:14:23,506] even though they were reading it in a
+- [01:14:23,506 - 01:14:26,266] room like this. That's power. It's power and it's
+- [01:14:26,266 - 01:14:28,466] fascinating. And I, I came to
+- [01:14:28,466 - 01:14:30,666] realize claustrophobia is much more vicariously
+- [01:14:30,666 - 01:14:32,866] powerful than vertigo and vertigo is quite powerful.
+- [01:14:32,866 - 01:14:35,066] So when I'd written a lot about vertigo,
+- [01:14:35,866 - 01:14:37,466] you know, people are like, oh yeah, I felt,
+- [01:14:37,466 - 01:14:39,066] I felt a version of that. But with claustrophobia,
+- [01:14:39,066 - 01:14:41,426] people are like, I had to stop
+- [01:14:41,426 - 01:14:43,786] reading this. So it's just, yeah, sympathetic
+- [01:14:43,786 - 01:14:46,866] kinesthesia is where you're affecting not mind, but,
+- [01:14:46,866 - 01:14:49,946] but body, body and then mind. And it's a,
+- [01:14:49,946 - 01:14:51,546] it's a, it's a fascinating power.
+- [01:14:53,786 - 01:14:56,185] Worst claustrophobia I ever had was my first
+- [01:14:56,185 - 01:14:58,585] MRI. I didn't really know what an MRI was.
+- [01:14:58,585 - 01:14:58,905] Yeah.
+- [01:14:58,905 - 01:15:01,306] And I just showed up and it was horrible.
+- [01:15:01,306 - 01:15:03,546] You got it. You felt it. What the kind
+- [01:15:03,546 - 01:15:05,786] of, oh, it was terrible. I asked them to stop.
+- [01:15:06,345 - 01:15:07,625] I had to go back. They had to say, do you want to
+- [01:15:07,625 - 01:15:08,905] do this? Do you want to do this? Do you want to do this?
+- [01:15:08,906 - 01:15:11,826] Do you not want to do this? I said, fine,
+- [01:15:11,826 - 01:15:14,746] I'll do it. And it was just a terrible experience.
+- [01:15:14,746 - 01:15:17,546] There's just something about claustrophobia that when you
+- [01:15:17,546 - 01:15:20,346] get it, you, you want to hit the eject
+- [01:15:20,346 - 01:15:22,506] button and just get out of there so fast.
+- [01:15:22,506 - 01:15:24,026] Yeah. Yeah. I went.
+- [01:15:24,026 - 01:15:26,466] It's a strange kind of pain. It's a
+- [01:15:26,466 - 01:15:28,906] strange kind of suffering. It's more suffering than pain.
+- [01:15:28,906 - 01:15:31,426] Yeah. And it's so mental, right? Cause you would
+- [01:15:31,426 - 01:15:33,946] have known the rational part of your brain knows
+- [01:15:33,946 - 01:15:36,386] this is, this is an MRI scanner. Like this is
+- [01:15:36,386 - 01:15:38,826] not going to collapse and crush me. It's not going to
+- [01:15:38,906 - 01:15:40,946] harm me. It's doing me good. Many thousands
+- [01:15:40,946 - 01:15:42,986] of people have been here before me, but yeah,
+- [01:15:42,986 - 01:15:44,866] I once thought about when I was writing
+- [01:15:44,866 - 01:15:46,746] undone, I thought about getting a business card, which
+- [01:15:46,746 - 01:15:50,626] just read, I do these things. So you don't have
+- [01:15:50,626 - 01:15:54,506] to say kind of, but, um, yeah, yeah. The underworld,
+- [01:15:54,506 - 01:15:56,786] I haven't been back into the underworld much since
+- [01:15:56,786 - 01:15:59,066] I surfaced in, in about 2018, I must say,
+- [01:15:59,066 - 01:16:00,786] whereas rivers I'm going to, they're going
+- [01:16:00,786 - 01:16:02,506] to flow on through my life forever.
+- [01:16:02,506 - 01:16:04,866] Nice. I want to do kind of a fire round.
+- [01:16:04,866 - 01:16:07,226] I want to ask you about language from different cultures
+- [01:16:07,226 - 01:16:08,906] and what we can learn, learn from that.
+- [01:16:08,906 - 01:16:10,746] So I'll start with old English.
+- [01:16:11,866 - 01:16:14,466] Okay. Old English used to be known as
+- [01:16:14,466 - 01:16:17,066] Anglo-Saxon, now old English. Uh, the, so the kenning,
+- [01:16:17,866 - 01:16:20,706] a kenning is a beautiful trope of old
+- [01:16:20,706 - 01:16:23,546] English, which is where you hyphenate two words together
+- [01:16:23,546 - 01:16:27,546] to make a metaphoric version of another. So
+- [01:16:27,546 - 01:16:31,546] bone cage, bone cage hyphenated means the skeleton,
+- [01:16:31,546 - 01:16:34,866] the body. Whale road is the sea,
+- [01:16:34,866 - 01:16:38,186] the sea that the, that the, that
+- [01:16:38,906 - 01:16:41,106] for example, the ship sail on is that is
+- [01:16:41,106 - 01:16:43,306] the whale road that, that, that becomes the sea.
+- [01:16:43,866 - 01:16:48,026] And they, um, this profusion of kennings,
+- [01:16:48,026 - 01:16:52,186] which is so characteristic is just a beautiful
+- [01:16:52,826 - 01:16:55,706] metaphoric generosity, sort of fusing two bits
+- [01:16:55,706 - 01:16:58,586] of language together. And once you start to
+- [01:16:58,586 - 01:17:01,346] play with kennings, it's very, it's very hard to,
+- [01:17:01,346 - 01:17:04,106] uh, to, to not play with them as a spell.
+- [01:17:04,106 - 01:17:07,386] I, Kingfisher's Spell I wrote, which begins something like,
+- [01:17:07,386 - 01:17:11,036] like flame, flicker, light bringer,
+- [01:17:11,036 - 01:17:14,686] rivers, quiver, something like this, da-da-da-da-da.
+- [01:17:14,686 - 01:17:16,426] So they're all hyphenated.
+- [01:17:16,426 - 01:17:18,446] So there's Old English, the kenning is so strong.
+- [01:17:18,446 - 01:17:20,576] And also in Middle English, so Gawain
+- [01:17:20,576 - 01:17:22,706] and the Green Knight, for example, 14th century
+- [01:17:22,706 - 01:17:28,106] great epic poem of travel and nature.
+- [01:17:28,106 - 01:17:30,806] Alliteration and rhythm are absolutely central to that.
+- [01:17:30,806 - 01:17:34,006] The so-called the axe knocks of the stress.
+- [01:17:34,006 - 01:17:36,336] And I've learned so much from
+- [01:17:36,336 - 01:17:38,666] that alliterative tradition of Old English.
+- [01:17:38,666 - 01:17:41,066] The poems like the Seafarer, Gawain and
+- [01:17:41,066 - 01:17:43,466] the Green Knight, really, really strong for me.
+- [01:17:43,466 - 01:17:45,506] So alliteration and kennings.
+- [01:17:45,506 - 01:17:47,006] Hebridean Gaelic.
+- [01:17:47,006 - 01:17:50,386] Well, compressive precision, I suppose.
+- [01:17:50,386 - 01:17:54,396] We've talked about Runachmoham, the shadows cast
+- [01:17:54,396 - 01:17:58,406] by clouds on moorland on a sunny windy
+- [01:17:58,406 - 01:18:01,845] day, many versions of that.
+- [01:18:01,845 - 01:18:03,946] And also what's sometimes called GPS.
+- [01:18:03,946 - 01:18:04,006] GPS.
+- [01:18:04,006 - 01:18:06,226] It's the Gaelic positioning system.
+- [01:18:06,226 - 01:18:07,226] What's that?
+- [01:18:07,226 - 01:18:09,496] Well, place sensitivity is so coded
+- [01:18:09,496 - 01:18:11,766] into a lot of Gaelic place names.
+- [01:18:11,766 - 01:18:14,276] So for example, I'm a mountaineer and this
+- [01:18:14,276 - 01:18:16,786] is not Hebridean Gaelic, but Gaelic and Norse
+- [01:18:16,786 - 01:18:17,786] together.
+- [01:18:17,786 - 01:18:20,146] So you can tell the shape of mountains
+- [01:18:20,146 - 01:18:22,506] depending on the names before you see them.
+- [01:18:22,506 - 01:18:25,156] So for example, a bend like Ben Nevis or
+- [01:18:25,156 - 01:18:27,806] Ben Mor will be a, that's like a generic hill
+- [01:18:27,806 - 01:18:29,466] will tend to be quite rounded.
+- [01:18:29,466 - 01:18:33,946] Stob, Stobinian, for example, will be a sharper peak.
+- [01:18:33,946 - 01:18:38,326] Skur, Skurnangilien means literally a scarier tooth.
+- [01:18:38,326 - 01:18:41,766] That will typically be a very sharp peak.
+- [01:18:41,766 - 01:18:45,246] So, or Ben Kruycken means the hill of
+- [01:18:45,246 - 01:18:48,726] the forge, and it's actually shaped like a big
+- [01:18:48,726 - 01:18:49,806] kind of forge building.
+- [01:18:49,806 - 01:18:54,926] So coded into Gaelic place names are descriptors.
+- [01:18:54,926 - 01:18:57,726] So the Gaelic positioning system, GPS, if
+- [01:18:57,726 - 01:19:00,526] you can understand the place names, you can
+- [01:19:00,526 - 01:19:02,946] kind of read the landscape with them and locate yourself.
+- [01:19:02,946 - 01:19:03,106] Man.
+- [01:19:03,106 - 01:19:03,786] It really gives you an extra sense of the landscape.
+- [01:19:03,786 - 01:19:03,826] Yeah.
+- [01:19:03,826 - 01:19:03,926] Yeah.
+- [01:19:03,946 - 01:19:04,226] Yeah.
+- [01:19:04,226 - 01:19:05,436] And it gives you an extra
+- [01:19:05,436 - 01:19:06,646] vision into the natural world, these words.
+- [01:19:06,786 - 01:19:07,026] Yeah.
+- [01:19:07,146 - 01:19:10,066] And they go, you know, way, way, way, way back.
+- [01:19:10,406 - 01:19:10,666] So yeah.
+- [01:19:11,006 - 01:19:11,226] Yeah.
+- [01:19:11,566 - 01:19:16,516] So Buccal Etiv Mor literally means the big
+- [01:19:16,516 - 01:19:21,466] shepherd of the glen, the valley of Etiv.
+- [01:19:21,945 - 01:19:24,105] So Mor is big, Buccal is
+- [01:19:24,105 - 01:19:26,266] the shepherd, and Etiv is the valley.
+- [01:19:26,266 - 01:19:29,496] And that stands like a kind of guard peak
+- [01:19:29,496 - 01:19:32,726] at the head of this incredible glen of Etiv.
+- [01:19:32,845 - 01:19:33,905] So Buccal Etiv.
+- [01:19:33,945 - 01:19:34,326] Mor.
+- [01:19:35,065 - 01:19:37,085] How about the Irish versus the English?
+- [01:19:37,266 - 01:19:38,885] What are the similarities, the differences?
+- [01:19:38,885 - 01:19:41,775] I think what's shared is an absolute relish
+- [01:19:41,775 - 01:19:44,665] for what Heaney calls the palp and heft of
+- [01:19:44,665 - 01:19:45,246] language.
+- [01:19:45,485 - 01:19:47,445] The palp and the heft of language.
+- [01:19:47,685 - 01:19:50,255] So palp as in palpable, like the feel of
+- [01:19:50,255 - 01:19:52,826] it, the texture of words, the way, and then heft,
+- [01:19:52,985 - 01:19:55,185] how they weigh in the hand.
+- [01:19:55,766 - 01:19:57,145] So what does Heaney say?
+- [01:19:57,306 - 01:19:58,865] What a turn of phrase.
+- [01:19:58,985 - 01:20:01,865] Oh, he just, he just did that all the time.
+- [01:20:01,945 - 01:20:03,565] I mean, no one taught me.
+- [01:20:03,566 - 01:20:05,746] He says, keep your mind clear
+- [01:20:05,746 - 01:20:07,926] as the bleb of an icicle.
+- [01:20:07,926 - 01:20:10,986] And the bleb, it turns out, is not the icicle.
+- [01:20:10,986 - 01:20:13,506] It's that single droplet of water that melts down
+- [01:20:13,506 - 01:20:16,026] and then hangs at the end of the icicle
+- [01:20:16,026 - 01:20:17,026] and then drips off.
+- [01:20:17,026 - 01:20:19,026] But when it's hanging there, it's the bleb.
+- [01:20:19,026 - 01:20:21,026] And the clarity of that, but also the way
+- [01:20:21,026 - 01:20:23,026] it shapes the world when you look into it,
+- [01:20:23,026 - 01:20:24,366] that's what Heaney's talking about.
+- [01:20:24,366 - 01:20:26,866] Keep your mind clear as the bleb of the icicle.
+- [01:20:26,866 - 01:20:27,866] Hmm.
+- [01:20:27,866 - 01:20:29,686] So, I think that's a really good answer.
+- [01:20:29,686 - 01:20:30,686] I think that's a really good answer.
+- [01:20:30,686 - 01:20:31,686] I think that's a really good answer.
+- [01:20:31,686 - 01:20:32,686] I think that's a really good answer.
+- [01:20:32,686 - 01:20:33,686] Hmm.
+- [01:20:33,686 - 01:20:36,686] How about English writing?
+- [01:20:36,686 - 01:20:40,166] Well, I mean, where to start and where
+- [01:20:40,166 - 01:20:43,646] to stop, it's the water I swim in.
+- [01:20:43,646 - 01:20:46,296] I think sometimes you want language,
+- [01:20:46,296 - 01:20:48,946] English, to be transparent as glass.
+- [01:20:48,946 - 01:20:51,166] You don't want the reader to see anything
+- [01:20:51,166 - 01:20:53,386] between them and what it is they think they
+- [01:20:53,386 - 01:20:55,846] are living with you.
+- [01:20:55,846 - 01:20:58,666] And sometimes you want it to
+- [01:20:58,666 - 01:21:01,486] be opaque and thick and rich.
+- [01:21:01,486 - 01:21:02,486] And, and, and, and...
+- [01:21:02,486 - 01:21:03,286] Yeah.
+- [01:21:03,286 - 01:21:05,646] ...and full of pulp and heft and for the
+- [01:21:05,646 - 01:21:08,006] reader to feel each word and to weigh language and
+- [01:21:08,006 - 01:21:09,986] to feel language.
+- [01:21:09,986 - 01:21:12,646] If you get that wrong, it's a tremendous interference.
+- [01:21:12,646 - 01:21:14,686] The reader feels like they're wading
+- [01:21:14,686 - 01:21:16,726] through, you know, through, through, through heavy,
+- [01:21:16,726 - 01:21:18,396] heavy water, and they're being weighed
+- [01:21:18,396 - 01:21:20,066] down by the heft of language.
+- [01:21:20,066 - 01:21:21,866] And they, they just want to get away.
+- [01:21:21,866 - 01:21:25,986] But if you get it right, it becomes
+- [01:21:25,986 - 01:21:30,106] almost a physical set of performances of lifting,
+- [01:21:30,106 - 01:21:32,446] feel the body's resistance to, to ideas.
+- [01:21:32,486 - 01:21:35,766] to word to language and the minds leaning
+- [01:21:35,766 - 01:21:39,046] towards it or moving away from it. And so,
+- [01:21:40,006 - 01:21:45,326] yeah, making the reader dance with palp and with
+- [01:21:45,326 - 01:21:50,646] heft can be wonderful for writer and for reader,
+- [01:21:50,646 - 01:21:52,126] but other times you want them
+- [01:21:52,126 - 01:21:53,606] to forget language is there entirely.
+- [01:21:55,446 - 01:21:58,246] What do you make of the early 20th
+- [01:21:58,246 - 01:22:01,046] century writing advice about removing needless words? Remove it,
+- [01:22:01,046 - 01:22:03,206] remove it, get simple, get down to the essence. It
+- [01:22:03,206 - 01:22:05,366] just seems to be the antithesis of what you do.
+- [01:22:05,366 - 01:22:07,366] So, what is going on? When is that true? When
+- [01:22:07,366 - 01:22:09,366] is that not true? Is that just, no, that's bad
+- [01:22:09,366 - 01:22:11,806] advice. How do you feel about that? So,
+- [01:22:11,806 - 01:22:14,246] Walter Pater, who was one of the great Victorian,
+- [01:22:14,246 - 01:22:16,286] he says, one of the great
+- [01:22:16,286 - 01:22:18,326] Victorian kind of essayists, he said,
+- [01:22:18,966 - 01:22:21,766] burn with a hard and gem-like flame. He says,
+- [01:22:21,766 - 01:22:24,566] I want to burn with a hard and gem-like flame.
+- [01:22:24,566 - 01:22:27,766] And I think he, much earlier than Hemingway
+- [01:22:27,766 - 01:22:30,966] and others, and later Raymond Carver, we could call
+- [01:22:30,966 - 01:22:33,766] them like the subtractionists, the people for whom taking
+- [01:22:33,766 - 01:22:36,566] away is almost always the right thing to do
+- [01:22:36,566 - 01:22:39,126] with language. I think Pater and burning with
+- [01:22:39,126 - 01:22:41,686] a hard gem-like flame is thinking about something
+- [01:22:42,326 - 01:22:44,846] similar. Sometimes I think that's really
+- [01:22:44,846 - 01:22:47,366] important. And you heard the verbalist sentences
+- [01:22:47,366 - 01:22:50,406] earlier. It's like, I mean, they're not Hemingway
+- [01:22:50,406 - 01:22:53,446] or Carverian, but they are gem-like. There's a
+- [01:22:54,166 - 01:22:56,926] facetedness to them and they're just like, boonk, boonk,
+- [01:22:56,926 - 01:22:59,686] boonk. Each of them is a sort of lapidary
+- [01:23:00,966 - 01:23:04,686] image. And I don't try and connect them
+- [01:23:04,686 - 01:23:08,406] or causally relate them. It's just image, image,
+- [01:23:08,406 - 01:23:13,606] image, image. And to change the form, it's like
+- [01:23:13,606 - 01:23:18,806] flashing those up on the mind's screen. It's like
+- [01:23:18,806 - 01:23:23,486] a kind of brain cinema. There's a vividness
+- [01:23:23,486 - 01:23:28,166] to that. But then adding, yeah, I'm not a
+- [01:23:28,726 - 01:23:29,526] subtractionist, except at times. But yeah,
+- [01:23:29,526 - 01:23:30,326] I'm not a subtractionist. Except at times.
+- [01:23:30,326 - 01:23:34,925] But other, I mean, I just think
+- [01:23:34,925 - 01:23:39,525] each landscape, each encounter asks a different bespoke
+- [01:23:41,126 - 01:23:44,726] presence of language. And sometimes you take
+- [01:23:44,726 - 01:23:48,326] away and sometimes you add. Yeah, that's,
+- [01:23:48,326 - 01:23:50,445] so I just think you just judge where
+- [01:23:50,445 - 01:23:52,565] you are and what you're trying to do.
+- [01:23:54,086 - 01:23:56,606] We've talked a lot about making writing vivid. And
+- [01:23:56,606 - 01:23:59,126] I want to go deeper on that of capturing
+- [01:23:59,126 - 01:24:00,086] astonishment.
+- [01:24:00,086 - 01:24:00,806] Yeah.
+- [01:24:00,806 - 01:24:03,006] Of not exaggerating, like we're not trying to
+- [01:24:03,006 - 01:24:05,206] exaggerate this, but also we're not trying to
+- [01:24:05,206 - 01:24:07,486] diminish the astonishment that you feel. How do
+- [01:24:07,486 - 01:24:09,766] you do that? How do you think about
+- [01:24:10,326 - 01:24:11,526] capturing the truth of that?
+- [01:24:11,526 - 01:24:15,526] I think what you say about exaggeration is a
+- [01:24:15,526 - 01:24:19,526] really helpful note. And to writers and to myself,
+- [01:24:20,646 - 01:24:23,766] you know, hyperbole is your enemy. Straining too
+- [01:24:23,766 - 01:24:26,886] hard is your enemy. I mean, that way,
+- [01:24:27,606 - 01:24:29,766] purple prose lies, I think. So,
+- [01:24:30,406 - 01:24:34,206] so finding exactly the urge with astonishment is
+- [01:24:34,206 - 01:24:38,006] to render it with a similar kind of extravagant
+- [01:24:38,006 - 01:24:43,126] vivacity of language. And actually that can leave a
+- [01:24:43,126 - 01:24:48,246] hollowness and a falsity to it, I think. So,
+- [01:24:49,606 - 01:24:52,366] again, I think, so resisting the impulse
+- [01:24:52,366 - 01:24:55,126] to explain astonishment, I think is important.
+- [01:24:55,126 - 01:24:55,626] Mm-hmm.
+- [01:24:55,626 - 01:24:56,126] Yeah.
+- [01:24:56,126 - 01:24:56,626] Yeah.
+- [01:24:56,626 - 01:24:57,126] Yeah.
+- [01:24:57,126 - 01:24:57,626] Yeah.
+- [01:24:57,626 - 01:24:58,126] Yeah.
+- [01:24:58,126 - 01:24:58,626] Yeah.
+- [01:24:58,626 - 01:24:59,046] Yeah.
+- [01:24:59,046 - 01:24:59,546] Yeah.
+- [01:24:59,546 - 01:25:00,046] Yeah.
+- [01:25:00,086 - 01:25:00,546] Yeah.
+- [01:25:00,546 - 01:25:01,046] Yeah.
+- [01:25:02,326 - 01:25:05,646] The unknowables that I experience, that I've
+- [01:25:05,646 - 01:25:08,966] had in my 22 years of writing, including
+- [01:25:10,886 - 01:25:14,046] a ghostly encounter on a hilltop in England, sleeping
+- [01:25:14,046 - 01:25:17,206] out alone on my own in a, as I
+- [01:25:17,206 - 01:25:20,806] subsequently found out, a hilltop wood that
+- [01:25:20,806 - 01:25:24,406] has a long history of hauntology and spectral
+- [01:25:24,406 - 01:25:26,086] encounters. I didn't know any of that at the time.
+- [01:25:26,086 - 01:25:26,586] How about that?
+- [01:25:26,586 - 01:25:26,766] But how do you, that's an astonishment. But how do
+- [01:25:26,766 - 01:25:26,946] you, how, how do you, how do you know about that?
+- [01:25:26,946 - 01:25:27,996] It's a question that I've been having since I was
+- [01:25:27,996 - 01:25:29,046] a student. I can't remember how long ago, but I'm
+- [01:25:29,046 - 01:25:29,446] not sure.
+- [01:25:29,446 - 01:25:29,596] It's a question I've been having since I was a
+- [01:25:29,596 - 01:25:29,746] student. I can't remember how long ago, but I'm not sure.
+- [01:25:29,746 - 01:25:31,086] How do you write it?
+- [01:25:31,086 - 01:25:34,506] Well, I just try almost phenomenally
+- [01:25:34,506 - 01:25:37,186] to adjust the empirical basis of it.
+- [01:25:37,186 - 01:25:39,626] Just tell it how you felt it,
+- [01:25:39,626 - 01:25:41,766] and we're back to not representation,
+- [01:25:41,766 - 01:25:43,746] but the representation of perception.
+- [01:25:43,746 - 01:25:45,046] And let the reader,
+- [01:25:45,046 - 01:25:47,066] and maybe this is where subtraction becomes important,
+- [01:25:47,066 - 01:25:49,606] because when you don't try to say everything
+- [01:25:49,606 - 01:25:53,366] or over-lard everything with language,
+- [01:25:53,366 - 01:25:55,246] the reader becomes a participant.
+- [01:25:55,246 - 01:25:57,706] They are co-creating with you.
+- [01:25:57,706 - 01:25:59,686] They're filling in gaps.
+- [01:25:59,686 - 01:26:04,286] So letting things drop out that feel vital to you,
+- [01:26:04,286 - 01:26:06,086] and again, don't over-explain,
+- [01:26:06,086 - 01:26:08,286] and maybe this is where lyric writing is helpful.
+- [01:26:08,286 - 01:26:10,806] Letting sense and cause drop out,
+- [01:26:10,806 - 01:26:12,146] because then the reader steps in
+- [01:26:12,146 - 01:26:16,566] and kind of fills those gaps and becomes your co-writer.
+- [01:26:16,566 - 01:26:18,286] Yeah, I think sometimes if you have sentences
+- [01:26:18,286 - 01:26:21,066] where you dot the I's, you cross the T's,
+- [01:26:21,066 - 01:26:23,626] you make the edges kind of right angles, 90 degrees.
+- [01:26:23,626 - 01:26:24,466] Yes, it's really well put.
+- [01:26:24,466 - 01:26:25,286] You
+- [01:26:25,286 - 01:26:30,286] omit the space for a reader to contemplate it,
+- [01:26:31,226 - 01:26:33,005] to stir on that sentence on their own.
+- [01:26:33,005 - 01:26:35,806] And I think that a lot of my gripe with,
+- [01:26:35,806 - 01:26:37,046] hey, focus on clarity,
+- [01:26:37,046 - 01:26:38,286] be really clear on what you're saying,
+- [01:26:38,286 - 01:26:43,286] is a lot of good writing is you're gifting somebody
+- [01:26:45,306 - 01:26:46,566] a turn of phrase or a sentence
+- [01:26:46,566 - 01:26:49,025] that they can actually think about for a long time.
+- [01:26:49,025 - 01:26:52,766] And in order for that to be a fruitful experience,
+- [01:26:52,766 - 01:26:54,366] the sentence has to contain some mystery.
+- [01:26:54,366 - 01:26:55,266] And I think that's a really important part of this.
+- [01:26:55,286 - 01:26:56,126] Yeah.
+- [01:26:56,126 - 01:26:57,836] And that's the only way
+- [01:26:57,836 - 01:26:59,546] that it can be a send-off
+- [01:26:59,546 - 01:27:02,206] for somebody else to make their own.
+- [01:27:02,206 - 01:27:03,826] Absolutely, absolutely.
+- [01:27:03,826 - 01:27:07,946] And even when one is working with a single sentence,
+- [01:27:07,946 - 01:27:10,005] so I think there's a sentence in,
+- [01:27:10,005 - 01:27:11,546] "'Is a river alive?'
+- [01:27:12,546 - 01:27:15,985] In English, there is no verb to river,
+- [01:27:15,985 - 01:27:17,185] but what could be more
+- [01:27:17,185 - 01:27:18,386] of a verb than a river?"
+- [01:27:18,386 - 01:27:21,025] Now, in a sense, that's a finished thought,
+- [01:27:21,025 - 01:27:23,066] but in another, it is a send-off.
+- [01:27:23,066 - 01:27:25,226] It's like, hold on, so what does that, oh, right.
+- [01:27:25,226 - 01:27:30,226] Yeah, we don't talk about rivering this or being rivered.
+- [01:27:31,526 - 01:27:33,306] But of course, is a river a verb?
+- [01:27:33,306 - 01:27:34,406] Yeah, how do we translate?
+- [01:27:34,406 - 01:27:38,346] So yes, again, we're back to the portal.
+- [01:27:38,346 - 01:27:42,206] It's like you lend initial assent to the idea
+- [01:27:42,206 - 01:27:45,486] and then it kind of complexifies in retrospect.
+- [01:27:45,486 - 01:27:46,326] Yeah.
+- [01:27:46,326 - 01:27:48,226] Hey, this was wonderful.
+- [01:27:48,226 - 01:27:49,066] Yeah.
+- [01:27:49,066 - 01:27:49,906] Holy cow.
+- [01:27:49,906 - 01:27:52,266] We're only just embarked on the river.
+- [01:27:52,266 - 01:27:53,906] We've got another three hours downstream of us.
+- [01:27:53,906 - 01:27:55,066] No, I'm only kidding.
+- [01:27:55,066 - 01:27:56,826] That was a crazy conversation.
+- [01:27:56,826 - 01:27:57,966] Wow, it's so cool to
+- [01:27:57,966 - 01:27:59,106] talk to someone who loves language
+- [01:27:59,106 - 01:28:00,686] as much as we do.
+- [01:28:00,686 - 01:28:02,106] Two nerds wigging out.
+- [01:28:02,106 - 01:28:03,206] That is what just happened.
+- [01:28:03,206 - 01:28:04,046] Wigging out.
+- [01:28:04,886 - 01:28:05,726] Thank you, David.
+- [01:28:05,726 - 01:28:06,606] It was a total pleasure.
+- [01:28:06,606 - 01:28:07,446] Yeah.
+- [01:28:07,446 - 01:28:08,666] Brilliant.
+- [01:28:08,666 - 01:28:09,506] Brilliant.
+- [01:28:09,506 - 01:28:10,886] You know, I have a gripe with that word.
+- [01:28:10,886 - 01:28:11,846] Oh, go on.
+- [01:28:11,846 - 01:28:14,026] Let's end the wig out with a gripe.
+- [01:28:14,026 - 01:28:14,866] So this is my gripe.
+- [01:28:14,866 - 01:28:17,966] So in America, we overstate everything.
+- [01:28:17,966 - 01:28:18,806] Yes.
+- [01:28:18,806 - 01:28:19,646] We overstate everything.
+- [01:28:19,646 - 01:28:21,966] And the English, very understated, okay?
+- [01:28:21,966 - 01:28:23,366] And so like, no, it's pretty good.
+- [01:28:23,366 - 01:28:24,206] It ain't, it's not.
+- [01:28:24,206 - 01:28:25,046] It's not.
+- [01:28:25,066 - 01:28:26,826] It's not in like English, English.
+- [01:28:26,826 - 01:28:29,186] It's like, wow, that was actually great.
+- [01:28:29,186 - 01:28:30,646] But there's one word.
+- [01:28:30,646 - 01:28:31,486] That we overuse.
+- [01:28:31,486 - 01:28:33,446] That the English overstate, not the Americans.
+- [01:28:33,446 - 01:28:34,566] And it's brilliant.
+- [01:28:34,566 - 01:28:36,226] I get out of a taxi in London.
+- [01:28:36,226 - 01:28:37,066] I say, hey, thank you.
+- [01:28:37,066 - 01:28:38,126] They say, oh, brilliant.
+- [01:28:38,126 - 01:28:39,226] I'm like, it wasn't brilliant at all.
+- [01:28:39,226 - 01:28:41,986] This was the most mundane, the most mundane,
+- [01:28:41,986 - 01:28:43,026] like basic thing.
+- [01:28:43,026 - 01:28:46,306] And that's my gripe with the word brilliant,
+- [01:28:46,306 - 01:28:47,986] specifically with English people.
+- [01:28:47,986 - 01:28:48,826] Thank you.
+- [01:28:48,826 - 01:28:51,186] I consider myself chastised.
+- [01:28:51,186 - 01:28:53,486] It's a, well, it's, if you swap it,
+- [01:28:53,486 - 01:28:54,846] because it's a word of light, right?
+- [01:28:54,846 - 01:28:56,706] Brilliant means radiant.
+- [01:28:56,706 - 01:28:58,186] But if you swap it with radiant,
+- [01:28:58,186 - 01:28:59,686] then you realize how silly it sounds.
+- [01:28:59,686 - 01:29:00,575] Like if I'd got a,
+- [01:29:00,575 - 01:29:01,465] you got out of a taxi
+- [01:29:01,465 - 01:29:03,606] and the taxi driver said, that was radiant.
+- [01:29:05,326 - 01:29:07,606] But no, we've fully naturalized brilliant.
+- [01:29:07,606 - 01:29:08,525] But this was brilliant.
+- [01:29:08,525 - 01:29:09,806] This was brilliant.
+- [01:29:09,806 - 01:29:11,226] American brilliant or English brilliant?
+- [01:29:11,226 - 01:29:12,065] English brilliant.
+- [01:29:12,065 - 01:29:13,766] It's an exercise for the listener.
+- [01:29:13,766 - 01:29:15,085] All right.
+- [01:29:15,085 - 01:29:15,926] That was good fun.
+- [01:29:15,926 - 01:29:16,746] Cool. Thanks.

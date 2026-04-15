@@ -1,0 +1,1589 @@
+# Transcript
+
+Source: lazylearn/how-you-speak-and-write/18 - How to Write Strikingly Well (Lee Child Interview) [uHBKKvDbQaY].webm
+
+- [00:00:00,560 - 00:00:04,280] Lee Child, the man behind the Jack Reacher series,
+- [00:00:04,280 - 00:00:08,000] a series that sold more than 200 million books,
+- [00:00:08,000 - 00:00:11,440] the best-selling series of all time on Amazon
+- [00:00:11,440 - 00:00:14,880] in the UK. Yeah, more than Harry Potter,
+- [00:00:14,880 - 00:00:18,360] which is crazy. And also a series where a
+- [00:00:18,360 - 00:00:21,840] new book is sold on average every nine seconds.
+- [00:00:21,840 - 00:00:24,473] So how does he do it? How does he write
+- [00:00:24,473 - 00:00:27,106] it? How does he come up with the ideas? Well, here
+- [00:00:27,106 - 00:00:28,006] Be
+- [00:00:28,290 - 00:00:32,270] answers. You know where I want to start
+- [00:00:32,270 - 00:00:36,250] the interview is creating a sense of place. Like,
+- [00:00:36,470 - 00:00:38,370] obviously, you're English, you were in England when
+- [00:00:38,370 - 00:00:40,270] you got fired, and then you're like, hey,
+- [00:00:40,330 - 00:00:42,900] let's go base a story in America. So first of all,
+- [00:00:42,900 - 00:00:45,470] why'd you do that? But also, how do you make that
+- [00:00:45,470 - 00:00:48,800] real and vivid? I did it because for a
+- [00:00:48,800 - 00:00:52,130] bunch of reasons that all pushed in the same direction.
+- [00:00:52,130 - 00:00:55,610] One was that, as you say, I'd just been fired.
+- [00:00:55,610 - 00:00:59,090] And it was a kind of political thing whereby the
+- [00:00:59,090 - 00:01:02,510] TV industry in Britain was being altered
+- [00:01:02,510 - 00:01:05,930] externally in order to give Rupert Murdoch
+- [00:01:05,930 - 00:01:09,750] a foothold for his satellite business. So that
+- [00:01:09,750 - 00:01:13,570] I was just annoyed, you know, really just pissed
+- [00:01:13,570 - 00:01:17,180] off with what had happened. So in a lot of ways,
+- [00:01:17,180 - 00:01:20,790] I wanted to escape. I was done with it. I wanted
+- [00:01:20,790 - 00:01:21,550] to get out.
+- [00:01:22,130 - 00:01:24,820] And if I couldn't do that yet physically, at least
+- [00:01:24,820 - 00:01:27,510] I could do it in my head in terms of narrative.
+- [00:01:28,710 - 00:01:32,670] And I had, when I started out writing, and this
+- [00:01:32,670 - 00:01:36,630] is something that a lot of readers don't want to
+- [00:01:36,630 - 00:01:40,840] hear, but writing is not just the muse, you
+- [00:01:40,840 - 00:01:45,050] know, you don't sit down compelled to just write. It's
+- [00:01:45,050 - 00:01:48,010] a job. And especially because I'd been fired, it
+- [00:01:48,010 - 00:01:50,970] was a serious thing. I had to make a living.
+- [00:01:51,290 - 00:01:51,700] And in order to do that, I had to make a living.
+- [00:01:51,700 - 00:01:52,110] And I had to make a living. And I had to make a
+- [00:01:52,110 - 00:01:57,990] career. And a lot of people think, you
+- [00:01:57,990 - 00:02:03,870] know, you're saying it as an introvert. Well, no,
+- [00:02:05,329 - 00:02:06,670] go ahead and answer.
+- [00:02:07,570 - 00:02:10,859] In the gebe successes I had to have, I
+- [00:02:10,859 - 00:02:14,149] had to, it wasص when I Haunted mama's house
+- [00:02:14,149 - 00:02:16,409] as the Drive-Thru shops actually they all have
+- [00:02:16,409 - 00:02:18,670] an elevator and nine girls can't get in there.
+- [00:02:18,769 - 00:02:19,209] It was a Marvel movie.
+- [00:02:19,269 - 00:02:20,350] John ammoniz a standoff.
+- [00:02:20,929 - 00:02:21,249] We were the last thing that I
+- [00:02:21,249 - 00:02:21,570] thought of when we were at tons.
+- [00:02:21,570 - 00:02:21,790] He said to me and
+- [00:02:21,790 - 00:02:22,010] was kind of sc服' at it.
+- [00:02:22,010 - 00:02:22,029] We were nothing like if lines or масло member said to me a bottom Dilma b
+- [00:02:22,029 - 00:02:22,049] 조금 Western comedy of 2 necessities a lot of the mothers started looking towards the drama industry.
+- [00:02:22,049 - 00:02:22,059] Carlos Cavalcante because he's not in any position
+- [00:02:22,059 - 00:02:22,070] to be in the on a unexpected position.
+- [00:02:22,070 - 00:02:24,850] reading out of Britain at the time, Barbara
+- [00:02:24,850 - 00:02:27,630] Vine, who was, that's a pen name for Ruth
+- [00:02:27,630 - 00:02:30,600] Rundell, and it was a certain kind of fiction
+- [00:02:30,600 - 00:02:33,570] she was doing, very much in a couple of streets
+- [00:02:33,570 - 00:02:34,470] in North London.
+- [00:02:34,730 - 00:02:35,870] You know, that was the world.
+- [00:02:36,290 - 00:02:39,810] You look at Ian Rankin, another great British crime writer.
+- [00:02:40,210 - 00:02:44,030] That's literally like a couple of square miles in Edinburgh.
+- [00:02:44,610 - 00:02:49,330] It was very internal in their heads, very small geography.
+- [00:02:49,330 - 00:02:53,630] And I thought, my heart wasn't in that.
+- [00:02:54,050 - 00:02:59,090] I wanted something that was a lot more related
+- [00:02:59,090 - 00:03:04,130] to myth and legend from the past, the idea
+- [00:03:04,130 - 00:03:07,260] of the mysterious stranger, the noble
+- [00:03:07,260 - 00:03:10,390] loner who shows up here and there.
+- [00:03:10,730 - 00:03:13,140] And for that, you need a
+- [00:03:13,140 - 00:03:15,550] gigantic geography to make it plausible.
+- [00:03:15,550 - 00:03:18,550] The idea that a stranger can wander miles.
+- [00:03:19,330 - 00:03:22,610] Into a community that is effectively isolated and
+- [00:03:22,610 - 00:03:25,890] cut off and has mystery and intrigue going
+- [00:03:25,890 - 00:03:28,529] on, unbeknownst to the rest of the world.
+- [00:03:28,730 - 00:03:32,809] That is not plausible in Britain.
+- [00:03:32,930 - 00:03:35,050] Everybody knows everybody else's business.
+- [00:03:35,230 - 00:03:37,029] Everybody lives cheek by jowl.
+- [00:03:37,189 - 00:03:39,330] You needed that frontier field.
+- [00:03:39,490 - 00:03:41,670] So it really had to be
+- [00:03:41,670 - 00:03:43,850] America from the narrative point of view.
+- [00:03:44,130 - 00:03:45,770] And I had been a lot.
+- [00:03:45,770 - 00:03:47,539] I first went to the
+- [00:03:47,539 - 00:03:49,309] US more than 50 years ago.
+- [00:03:49,430 - 00:03:53,800] Now, and I eventually in 1974, I eventually
+- [00:03:53,800 - 00:03:58,170] emigrated in 1998, which was 24 years later.
+- [00:03:58,550 - 00:04:02,289] And part of the immigration procedure, if you
+- [00:04:02,289 - 00:04:06,029] do it legally, is to apply in numerous
+- [00:04:06,029 - 00:04:07,110] forms to fill out.
+- [00:04:07,189 - 00:04:09,969] And one of them is you've got to
+- [00:04:09,969 - 00:04:12,749] list every previous visit you've made to the US.
+- [00:04:13,170 - 00:04:15,620] So I guess so they can check with police
+- [00:04:15,620 - 00:04:18,070] departments here and there that you're not some kind of
+- [00:04:18,070 - 00:04:19,050] murderer or something.
+- [00:04:19,329 - 00:04:21,279] And so I had to go
+- [00:04:21,279 - 00:04:23,230] back through all my old passports.
+- [00:04:23,270 - 00:04:25,550] And in those 24 years, I'd
+- [00:04:25,550 - 00:04:27,830] visited the US exactly 100 times.
+- [00:04:27,850 - 00:04:28,290] Whoa.
+- [00:04:28,470 - 00:04:30,270] Because my wife is from there.
+- [00:04:30,470 - 00:04:31,970] And so every trip we took.
+- [00:04:31,990 - 00:04:32,610] She's from where?
+- [00:04:33,149 - 00:04:34,089] She's from New York.
+- [00:04:34,230 - 00:04:34,649] Oh, okay.
+- [00:04:34,930 - 00:04:38,839] So I, I felt I knew the country well enough to
+- [00:04:38,839 - 00:04:42,749] write about it with the advantage of doing it with an
+- [00:04:42,749 - 00:04:45,689] outsider's eye, which I think is huge.
+- [00:04:45,730 - 00:04:49,090] I think that, uh, you run the risk of getting.
+- [00:04:49,090 - 00:04:50,470] Details wrong.
+- [00:04:50,470 - 00:04:53,310] You run the risk of sort of not quite
+- [00:04:53,310 - 00:04:56,150] connecting with the culture, but there's an enormous advantage
+- [00:04:56,150 - 00:04:57,790] in you're seeing things fresh.
+- [00:04:58,210 - 00:05:00,240] You're seeing things that Americans no
+- [00:05:00,240 - 00:05:02,270] longer see because they're so familiar.
+- [00:05:03,090 - 00:05:04,970] And as you go about creating a sense of
+- [00:05:04,970 - 00:05:06,850] place, what are the things that you're thinking about?
+- [00:05:06,850 - 00:05:07,570] I mean, I don't know.
+- [00:05:07,570 - 00:05:10,570] There's different, uh, instruments you can play.
+- [00:05:10,570 - 00:05:12,050] You could play the instrument of sound.
+- [00:05:12,050 - 00:05:13,350] You could play the instrument of sight.
+- [00:05:13,350 - 00:05:14,610] You could play the instrument of light.
+- [00:05:14,610 - 00:05:16,790] You could play the instrument of color of the
+- [00:05:16,790 - 00:05:18,970] way the sun sets and rises in the morning, whatever.
+- [00:05:18,970 - 00:05:19,070] Yeah.
+- [00:05:19,090 - 00:05:19,730] Whatever it is.
+- [00:05:19,730 - 00:05:21,910] How do you think about bringing a sense of place?
+- [00:05:21,970 - 00:05:22,690] That's a life.
+- [00:05:22,750 - 00:05:23,590] Good question.
+- [00:05:23,590 - 00:05:27,070] And for me, I would say mostly it's temperature.
+- [00:05:27,670 - 00:05:29,890] Uh, you know, I never heat versus cool.
+- [00:05:30,470 - 00:05:31,090] Yeah.
+- [00:05:31,210 - 00:05:33,910] Hard versus soft, hot versus cold.
+- [00:05:34,250 - 00:05:35,090] Things like that.
+- [00:05:35,090 - 00:05:36,310] I don't plan.
+- [00:05:36,310 - 00:05:41,710] I never have a, you know, I don't, I'm not one of these guys that has a list of the
+- [00:05:41,710 - 00:05:47,110] next eight plots, you know, the little index card saying, you know, set, set this one in main or something.
+- [00:05:47,110 - 00:05:48,010] I don't do that.
+- [00:05:48,310 - 00:05:48,910] What I do.
+- [00:05:49,090 - 00:05:53,400] And this sounds terribly pretentious, but if you were a composer writing
+- [00:05:53,400 - 00:05:57,710] music, you start with a concept of the key that you want.
+- [00:05:58,410 - 00:06:02,470] Uh, you know, G major is a cheerful upbeat key.
+- [00:06:02,810 - 00:06:05,950] Uh, E flat minor is, is the
+- [00:06:05,950 - 00:06:09,090] opposite, you know, down and rather melancholy key.
+- [00:06:09,410 - 00:06:12,200] So what I do as a writer is
+- [00:06:12,200 - 00:06:14,990] I, I have a, just a vague idea.
+- [00:06:14,990 - 00:06:17,020] I want this to be hard and
+- [00:06:17,020 - 00:06:19,050] cold, or I want this to be.
+- [00:06:19,090 - 00:06:19,510] Hot.
+- [00:06:20,050 - 00:06:21,930] And then you pick a location
+- [00:06:21,930 - 00:06:23,810] that you have been familiar with.
+- [00:06:24,070 - 00:06:27,310] I never do research specifically for that book.
+- [00:06:27,590 - 00:06:30,830] It always draws on impressions formed over
+- [00:06:30,830 - 00:06:34,070] the years from previous visits to places.
+- [00:06:34,650 - 00:06:37,330] Uh, you know, do you want it to be the
+- [00:06:37,330 - 00:06:40,010] west of Texas where it is baking hot and arrowed?
+- [00:06:40,270 - 00:06:44,190] Do you want it to be on the Atlantic coast
+- [00:06:44,190 - 00:06:48,110] of Maine in April where it's gray and cold and misty?
+- [00:06:48,650 - 00:06:48,890] So.
+- [00:06:48,890 - 00:06:50,870] That's how I start with the sense of place.
+- [00:06:50,870 - 00:06:54,710] And then it's just constructing it around that in a way, the
+- [00:06:54,710 - 00:06:58,550] place and the temperature kind of dictates the story in a way.
+- [00:06:58,970 - 00:06:59,290] Hmm.
+- [00:06:59,690 - 00:07:01,970] Almost as if they're like the driving factors.
+- [00:07:02,130 - 00:07:02,570] Yeah.
+- [00:07:02,570 - 00:07:05,610] Or it gives you a stage on which
+- [00:07:05,610 - 00:07:08,650] certain action is inevitable and certain is implausible.
+- [00:07:09,050 - 00:07:09,290] Hmm.
+- [00:07:09,570 - 00:07:11,750] Like almost sets the physics of the story.
+- [00:07:12,110 - 00:07:13,010] I think it does.
+- [00:07:13,010 - 00:07:13,430] Yeah.
+- [00:07:13,430 - 00:07:15,790] You know, is it, is it mostly an indoor story?
+- [00:07:15,790 - 00:07:18,670] Is it an outdoor story with, with wandering?
+- [00:07:18,670 - 00:07:18,870] Is it.
+- [00:07:18,890 - 00:07:22,070] Uh, just the flavor of it.
+- [00:07:22,210 - 00:07:24,490] I'm absolutely not a planner and I
+- [00:07:24,490 - 00:07:26,770] never have a preconception really of what.
+- [00:07:26,810 - 00:07:28,490] Why do you say that with such emphasis?
+- [00:07:28,910 - 00:07:31,250] Because a lot of people
+- [00:07:31,250 - 00:07:33,590] assume that a book needs planning.
+- [00:07:33,830 - 00:07:34,070] Hmm.
+- [00:07:34,610 - 00:07:38,750] They assume that you write out an outline or at least a hit list
+- [00:07:38,750 - 00:07:42,890] of, of, uh, plot points, some kind of a synopsis or outline or plan.
+- [00:07:43,310 - 00:07:44,810] And I've never, ever done that.
+- [00:07:44,870 - 00:07:46,550] I, I, I just.
+- [00:07:47,810 - 00:07:48,650] Cause for me.
+- [00:07:48,650 - 00:07:52,190] Writing per se, making it with words
+- [00:07:52,190 - 00:07:55,730] is not really the issue for me.
+- [00:07:56,270 - 00:07:58,370] It's the story that I want.
+- [00:07:58,910 - 00:08:03,110] And if I were to plan a story and I've
+- [00:08:03,110 - 00:08:07,310] got friends who do huge outlines, you know, 300 page outlines.
+- [00:08:07,730 - 00:08:12,620] Even if I did a two page outline with, you know, two lines per proposed
+- [00:08:12,620 - 00:08:17,510] chapter, then I've told myself the story and I'm bored with it at that point.
+- [00:08:17,510 - 00:08:18,630] I want the next story.
+- [00:08:19,070 - 00:08:20,810] So I can't afford to tell
+- [00:08:20,810 - 00:08:22,550] myself the story ahead of time.
+- [00:08:22,550 - 00:08:25,730] I have to just improvise it as I go along.
+- [00:08:26,090 - 00:08:29,870] So it's about starting somewhere, which is
+- [00:08:29,870 - 00:08:33,650] defined by location and then see what happens.
+- [00:08:33,650 - 00:08:35,090] It's it really is that simple.
+- [00:08:35,990 - 00:08:36,289] Yeah.
+- [00:08:36,650 - 00:08:39,309] In your life, who were the writers who
+- [00:08:39,309 - 00:08:41,970] you've made a point to read everything they've written?
+- [00:08:43,070 - 00:08:44,570] Oh, lots and lots of them.
+- [00:08:44,570 - 00:08:46,530] I mean, uh, there was a
+- [00:08:46,530 - 00:08:48,490] British, uh, Scottish actually thriller writer.
+- [00:08:48,490 - 00:08:48,650] God.
+- [00:08:48,650 - 00:08:51,010] Alasdair McLean, who was huge when I was
+- [00:08:51,010 - 00:08:53,370] a kid and, and really appealed to me.
+- [00:08:53,370 - 00:08:54,550] I read everything in his.
+- [00:08:54,590 - 00:08:55,490] What'd you take from him?
+- [00:08:56,090 - 00:08:59,810] I took from him actually something I've used two things.
+- [00:08:59,810 - 00:09:00,910] I took from him actually.
+- [00:09:00,910 - 00:09:05,790] Number one was he had a real skill of having a
+- [00:09:05,790 - 00:09:10,670] hero that was so good that he was almost the cartoon character.
+- [00:09:10,670 - 00:09:12,920] He was almost falling off the edge
+- [00:09:12,920 - 00:09:15,170] of being ludicrous and yet never did.
+- [00:09:15,770 - 00:09:18,630] He just kept him the right side of plausibility.
+- [00:09:18,650 - 00:09:24,170] And I learned that the other thing I learned was a completely negative thing that he got
+- [00:09:24,170 - 00:09:29,690] drunk and lazy and bored after about eight books and fell off a cliff in terms of quality.
+- [00:09:30,150 - 00:09:31,810] So I learned to avoid that.
+- [00:09:31,810 - 00:09:39,090] If you can John D McDonald, who is, uh, was a Florida writer, did 21 books in the Travis McGee
+- [00:09:39,090 - 00:09:46,370] series, which is really one of the most magnificent series and pulls up a trick that I, I cannot explain.
+- [00:09:46,490 - 00:09:48,230] There was 21 books.
+- [00:09:48,230 - 00:09:48,590] As I said, I.
+- [00:09:48,590 - 00:09:49,769] There's an only one of them.
+- [00:09:50,670 - 00:09:53,889] Only one of them has anything happen on page
+- [00:09:53,889 - 00:09:57,109] one and the other 20, nothing happens on page one.
+- [00:09:57,109 - 00:09:58,629] Nothing really happens on page two,
+- [00:09:58,629 - 00:10:00,149] but you cannot put them down.
+- [00:10:00,489 - 00:10:02,190] Now explain that to me.
+- [00:10:02,190 - 00:10:02,629] I can't.
+- [00:10:02,989 - 00:10:04,430] What happens in the first few pages?
+- [00:10:05,269 - 00:10:08,819] Just two guys hanging out chatting or whatever, you
+- [00:10:08,819 - 00:10:12,369] know, and, uh, somehow it's too, it's so compelling.
+- [00:10:12,749 - 00:10:15,549] One of them, they're sitting in a boat page one,
+- [00:10:15,549 - 00:10:18,350] they're sitting at night fishing in a boat on a canal.
+- [00:10:18,350 - 00:10:18,570] In.
+- [00:10:18,590 - 00:10:22,130] In South Florida, you know, they're chatting for half a page and then all of
+- [00:10:22,130 - 00:10:25,670] a sudden somebody throws a body off the bridge and it lands in their boat.
+- [00:10:26,389 - 00:10:29,030] That's the only story where something happens on page one.
+- [00:10:29,509 - 00:10:32,249] And yet all of them are utterly addictive.
+- [00:10:32,249 - 00:10:33,649] You literally kind of put them down.
+- [00:10:34,149 - 00:10:41,009] How do you think your career, your writing unfolded differently by virtue of having one character who you brought in over
+- [00:10:41,009 - 00:10:47,869] and over again versus, Hey, I'm going to do this story with all these characters, this story with all those characters.
+- [00:10:47,869 - 00:10:47,970] Yeah.
+- [00:10:47,970 - 00:10:48,030] Yeah.
+- [00:10:48,030 - 00:10:48,070] Yeah.
+- [00:10:48,070 - 00:10:48,129] Yeah.
+- [00:10:48,129 - 00:10:48,170] Yeah.
+- [00:10:48,170 - 00:10:48,190] Yeah.
+- [00:10:48,190 - 00:10:48,229] Yeah.
+- [00:10:48,229 - 00:10:48,290] Yeah.
+- [00:10:48,290 - 00:10:48,310] Yeah.
+- [00:10:48,310 - 00:10:48,350] Yeah.
+- [00:10:48,350 - 00:10:48,369] Yeah.
+- [00:10:48,369 - 00:10:48,389] Yeah.
+- [00:10:48,389 - 00:10:48,410] Yeah.
+- [00:10:48,410 - 00:10:48,470] Yeah.
+- [00:10:48,590 - 00:10:48,850] Yeah.
+- [00:10:48,850 - 00:10:48,889] Yeah.
+- [00:10:48,889 - 00:10:48,910] Yeah.
+- [00:10:48,910 - 00:10:48,930] Yeah.
+- [00:10:48,930 - 00:10:48,950] Yeah.
+- [00:10:48,950 - 00:10:48,989] Yeah.
+- [00:10:48,989 - 00:10:49,670] It's a great question.
+- [00:10:49,830 - 00:10:52,570] And again, I think an awful lot of it
+- [00:10:52,570 - 00:10:55,310] depends on what turns you on as a reader.
+- [00:10:56,729 - 00:10:58,710] I think you can't get away from that.
+- [00:10:58,710 - 00:11:03,900] I think that if you find a guy who has enjoyed reading a certain genre
+- [00:11:03,900 - 00:11:09,090] or a certain style within a genre, that is what they've got to write, really.
+- [00:11:10,670 - 00:11:14,519] And again, from the audience's point of view, everything I
+- [00:11:14,519 - 00:11:18,369] do, I try to remember how I felt as a reader.
+- [00:11:18,370 - 00:11:19,210] What really turned me on as a reader?
+- [00:11:19,210 - 00:11:20,410] What really turned me on as a reader?
+- [00:11:20,410 - 00:11:24,410] How did I feel as a reader?
+- [00:11:24,410 - 00:11:26,610] And with a series with a strong recurring
+- [00:11:26,610 - 00:11:28,810] character, there's a kind of pre-approval amongst the readers.
+- [00:11:28,810 - 00:11:31,270] Mm-hmm .
+- [00:11:31,270 - 00:11:35,120] If they've tried one and liked it, then they're very
+- [00:11:35,120 - 00:11:38,970] happy that the same guy comes back in the second book.
+- [00:11:38,970 - 00:11:41,730] And then they understand it's turning into a
+- [00:11:41,730 - 00:11:44,490] series where he's going to keep on coming back.
+- [00:11:44,490 - 00:11:46,550] So every year, they get the new book.
+- [00:11:46,550 - 00:11:47,250] And it is quite a change.
+- [00:11:47,250 - 00:11:47,530] Yeah.
+- [00:11:47,530 - 00:11:47,630] Yeah.
+- [00:11:47,630 - 00:11:47,810] Yeah.
+- [00:11:47,810 - 00:11:48,050] Yeah.
+- [00:11:48,050 - 00:11:50,060] pre-approved in their mind. They know
+- [00:11:50,060 - 00:11:52,070] they're gonna like it. They know they
+- [00:11:52,070 - 00:11:53,810] want to read it. Certainly they want
+- [00:11:53,810 - 00:11:55,550] a different plot, they want a different
+- [00:11:55,550 - 00:11:57,260] context, all that kind of thing, but
+- [00:11:57,260 - 00:11:58,970] they really want the familiarity and the
+- [00:11:58,970 - 00:12:01,060] comfort of their old friend coming to
+- [00:12:01,060 - 00:12:03,150] visit for a couple of days, hanging out
+- [00:12:03,150 - 00:12:06,189] with the guy for a couple of days.
+- [00:12:06,189 - 00:12:09,229] They'd love that. So to me series were always
+- [00:12:09,229 - 00:12:11,929] super appealing as a reader so naturally I
+- [00:12:11,929 - 00:12:14,630] wanted to write a series and I think
+- [00:12:14,630 - 00:12:17,750] it works really well. That you know I've
+- [00:12:17,750 - 00:12:20,870] got a lot of other writers I love, Stephen
+- [00:12:20,870 - 00:12:23,370] King for instance. Now Stephen, he's a
+- [00:12:23,370 - 00:12:25,870] great writer, terrific guy, great writer. I
+- [00:12:25,870 - 00:12:28,350] mean literally America's greatest living novelist
+- [00:12:28,350 - 00:12:30,830] I think at this point. I think
+- [00:12:30,830 - 00:12:33,020] so. But Stephen King comes out with a
+- [00:12:33,020 - 00:12:35,210] new book, you're never quite sure what it's
+- [00:12:35,210 - 00:12:37,460] gonna be. Mm-hmm. Is it this? Is it
+- [00:12:37,460 - 00:12:39,710] that? Is it horror? Is it supernatural? Is it
+- [00:12:39,710 - 00:12:42,050] some other thing? You don't know. You
+- [00:12:42,050 - 00:12:44,390] buy it because you love Stephen King, you
+- [00:12:44,390 - 00:12:44,500] don't know. You don't know the story, you
+- [00:12:44,500 - 00:12:44,610] don't know the story. You don't know the
+- [00:12:44,610 - 00:12:45,570] story, you don't know the story. You
+- [00:12:45,570 - 00:12:46,530] don't buy it because you know you're gonna
+- [00:12:46,530 - 00:12:48,770] love the story because the story
+- [00:12:48,770 - 00:12:51,010] could be anything at that point. Mm-hmm.
+- [00:12:51,010 - 00:12:53,930] Obviously you famously start your books on
+- [00:12:53,930 - 00:12:56,850] September 1st and so what is, how do
+- [00:12:56,850 - 00:12:58,350] you sort of structure the year? How do
+- [00:12:58,350 - 00:12:59,850] you structure the days in terms of where
+- [00:12:59,850 - 00:13:02,070] that imagination comes into play? Where
+- [00:13:02,070 - 00:13:04,290] the actual work of writing comes into
+- [00:13:04,290 - 00:13:07,650] play and how those things come together? It's,
+- [00:13:07,650 - 00:13:11,010] I get, yeah I do. I start on a
+- [00:13:11,010 - 00:13:14,370] regular day which is
+- [00:13:14,370 - 00:13:16,310] kind of necessary I think because if
+- [00:13:16,310 - 00:13:18,250] you're gonna publish your book a year
+- [00:13:18,250 - 00:13:20,540] clearly you've got to write a book a
+- [00:13:20,540 - 00:13:22,830] year and you have got to have a certain
+- [00:13:22,830 - 00:13:24,820] discipline and structure to you to do
+- [00:13:24,820 - 00:13:26,810] that so it's totally convenient to pick
+- [00:13:26,810 - 00:13:29,480] start 1st of September, deliver sometime in March
+- [00:13:29,480 - 00:13:32,150] or April. That is the way to do
+- [00:13:32,150 - 00:13:35,430] it and funny what you say there about
+- [00:13:35,430 - 00:13:38,710] imagination because I, you know, I do a
+- [00:13:38,710 - 00:13:41,420] book let's say I'm finishing it in
+- [00:13:41,420 - 00:13:44,130] March or April, done, fantastic, happy with it,
+- [00:13:44,130 - 00:13:48,380] and then I suffer a kind of
+- [00:13:48,380 - 00:13:52,630] self-doubt. Well not really, it's not that I'm
+- [00:13:52,630 - 00:13:54,800] sitting there racked with doubt but I
+- [00:13:54,800 - 00:13:56,970] just, it kind of fades away. I've done
+- [00:13:56,970 - 00:13:59,200] that book, I know it's some months before I
+- [00:13:59,200 - 00:14:01,430] have to start the next one and kind of
+- [00:14:01,430 - 00:14:04,180] July, August, beginning of August I'm thinking, oh
+- [00:14:04,180 - 00:14:06,930] I've got to start in six weeks or
+- [00:14:06,930 - 00:14:09,930] whatever and I'm just bereft, no ideas. I
+- [00:14:09,930 - 00:14:12,930] thought, every year I think this is it,
+- [00:14:12,930 - 00:14:13,770] I'm washed up now.
+- [00:14:14,130 - 00:14:16,680] It was the previous 20 years was just
+- [00:14:16,680 - 00:14:19,230] luck, you know, I've got nothing to do,
+- [00:14:19,230 - 00:14:21,700] nothing to say, but no idea and I
+- [00:14:21,700 - 00:14:24,170] feel a little despondent about it and then sure
+- [00:14:24,170 - 00:14:26,830] as eggs are eggs, towards the end of
+- [00:14:26,830 - 00:14:29,490] August I'm thinking, well you know I could,
+- [00:14:29,490 - 00:14:31,920] yeah this might be cool or and then
+- [00:14:31,920 - 00:14:34,350] toward again a few days later I have a
+- [00:14:34,350 - 00:14:36,300] first line suddenly pops into my head so
+- [00:14:36,300 - 00:14:38,250] by September the 1st I'm up and running
+- [00:14:38,250 - 00:14:42,850] again. But the imagination somehow is biddable.
+- [00:14:42,850 - 00:14:43,930] It, you know, it's a bit of a challenge.
+- [00:14:44,130 - 00:14:46,130] You can quiet it down and you can
+- [00:14:46,130 - 00:14:48,130] crank it up depending on when you need to.
+- [00:14:48,130 - 00:14:51,080] Before we started recording you're like, yeah
+- [00:14:51,080 - 00:14:54,030] I don't walk much, don't work out, love
+- [00:14:54,030 - 00:14:58,010] to smoke cigarettes and all that and how
+- [00:14:58,010 - 00:15:01,990] do you think that what you've produced is downstream
+- [00:15:01,990 - 00:15:05,840] of how you've lived your life? Because
+- [00:15:05,840 - 00:15:09,690] that is unique. Like it's this funny combination
+- [00:15:09,690 - 00:15:10,910] of when you said that I was, my very
+- [00:15:10,910 - 00:15:12,130] dear friend, he's just like, I'm just the laziest,
+- [00:15:12,130 - 00:15:12,630] I'm just the most, you know, I'm just the
+- [00:15:12,630 - 00:15:13,130] most, you know, I'm just the most, you know,
+- [00:15:13,130 - 00:15:13,630] I'm just the most, you know, I'm just the
+- [00:15:13,630 - 00:15:14,130] most, you know, I'm just the most, you know,
+- [00:15:14,130 - 00:15:14,630] I'm just the most, you know,
+- [00:15:14,630 - 00:15:15,130] I'm just the most, you know, God.
+- [00:15:15,130 - 00:15:15,630] And I'm like, no way they're
+- [00:15:15,630 - 00:15:16,130] going to let me do that.
+- [00:15:16,130 - 00:15:16,750] You ever, you know, for those who are
+- [00:15:16,750 - 00:15:17,370] listening, and if we are doing all the
+- [00:15:17,370 - 00:15:18,870] 察 news, I'm ignorance, you know, could
+- [00:15:18,870 - 00:15:20,370] you just come close to our Gorilla Buzz
+- [00:15:20,370 - 00:15:22,410] and call me Okay, no.
+- [00:15:22,410 - 00:15:25,230] What if you have two, let's say,
+- [00:15:25,230 - 00:15:28,050] bands in the audience, and they're COM.
+- [00:15:28,050 - 00:15:28,410] I'm an expert diagonally and
+- [00:15:28,410 - 00:15:30,530] think we need to get all the way
+- [00:15:30,530 - 00:15:32,650] there in the East and then mesh in place.
+- [00:15:32,650 - 00:15:35,480] I'm an expert, you know, coming in and
+- [00:15:35,480 - 00:15:38,310] out of town I'm all like, Hey, can grazers
+- [00:15:38,310 - 00:15:41,010] have the space so, you know, Charlie Brown,
+- [00:15:41,010 - 00:15:43,710] if you want, I believe, should I better leave
+- [00:15:43,710 - 00:15:44,010] the house.
+- [00:15:44,010 - 00:15:44,090] Yeah, sorry.
+- [00:15:44,090 - 00:15:44,110] Make it a it's fine.
+- [00:15:44,110 - 00:15:49,170] a dull and very boring, repressive family
+- [00:15:49,170 - 00:15:54,230] environment where there seemed to be an unspoken
+- [00:15:54,230 - 00:15:57,860] target of just living as long as you possibly
+- [00:15:57,860 - 00:16:01,490] could, taking care of yourself so that you live
+- [00:16:01,490 - 00:16:04,800] to a grand old age. And I remember associating
+- [00:16:04,800 - 00:16:08,110] that with the boringness of it. And I remember
+- [00:16:08,110 - 00:16:10,810] literally at the age of eight, literally the age of
+- [00:16:10,810 - 00:16:13,510] eight, I thought to myself, I'm not going to do
+- [00:16:13,510 - 00:16:16,780] that. I'm just going to do whatever the hell I
+- [00:16:16,780 - 00:16:20,050] want. And I don't care what the result will be.
+- [00:16:20,310 - 00:16:23,130] My target is to have more fun in 60
+- [00:16:23,130 - 00:16:25,950] years than the rest of them would have in 100.
+- [00:16:26,750 - 00:16:30,220] So I've always done that. I live recklessly. I do
+- [00:16:30,220 - 00:16:33,690] whatever I want to do. I pay no attention to
+- [00:16:33,690 - 00:16:37,470] consequence or health or anything like that. And
+- [00:16:37,470 - 00:16:41,250] it's an antidote, I think, to the repression
+- [00:16:41,250 - 00:16:43,250] and that uptight upbringing.
+- [00:16:43,510 - 00:16:48,700] Absolutely. In my family, smoking was regarded as just
+- [00:16:48,700 - 00:16:53,890] awful, a terrible thing to do. And I don't
+- [00:16:53,890 - 00:16:57,190] think... My parents were kind of before the
+- [00:16:57,190 - 00:17:00,490] era of exercise. I mean, nobody in that generation,
+- [00:17:00,630 - 00:17:03,330] nobody thought of taking exercise. But you
+- [00:17:03,330 - 00:17:06,030] did naturally, I suppose, because maybe you didn't
+- [00:17:06,030 - 00:17:09,420] have a car, so you had to walk to
+- [00:17:09,420 - 00:17:12,810] work or whatever. But yeah, anything worthy, anything virtuous,
+- [00:17:12,810 - 00:17:13,410] anything like that.
+- [00:17:13,410 - 00:17:13,430] Anything like that.
+- [00:17:13,430 - 00:17:13,490] Anything like that.
+- [00:17:13,510 - 00:17:16,670] I turned my face against. I didn't want
+- [00:17:16,670 - 00:17:19,829] to participate in that kind of scheme. I just
+- [00:17:19,829 - 00:17:24,170] wanted to live for pleasure. And I was also
+- [00:17:24,170 - 00:17:28,510] very aware that I was a very lucky generation.
+- [00:17:29,050 - 00:17:32,829] My micro generation, my birth year, maybe a
+- [00:17:32,829 - 00:17:36,609] couple of years before, maybe a couple of years
+- [00:17:36,609 - 00:17:39,779] afterward, was probably the luckiest
+- [00:17:39,779 - 00:17:42,950] generation in all of human history.
+- [00:17:42,950 - 00:17:47,110] Especially being born in Britain. We didn't even have
+- [00:17:47,110 - 00:17:51,270] Vietnam. Yeah, we were born to a stable post-war
+- [00:17:51,270 - 00:17:54,620] European democracy with national health service that
+- [00:17:54,620 - 00:17:57,970] worked back then, with a welfare state that
+- [00:17:57,970 - 00:18:01,770] worked back then. We had free education
+- [00:18:01,770 - 00:18:05,570] completely. All the major dread diseases were conquered.
+- [00:18:06,370 - 00:18:09,130] We never had to go to war. We never had
+- [00:18:09,130 - 00:18:11,890] a bomb dropped on our house. We never had the secret
+- [00:18:11,890 - 00:18:12,410] police knocking on the door. We never had a bomb
+- [00:18:12,410 - 00:18:12,930] dropped on our house. We never had a bomb dropped
+- [00:18:12,930 - 00:18:13,160] on our house. We never had a bomb dropped on
+- [00:18:13,160 - 00:18:13,390] our house. We never had a bomb dropped on our house.
+- [00:18:13,390 - 00:18:16,640] All those horrors that had existed very
+- [00:18:16,640 - 00:18:19,890] recently no longer applied to us. And the
+- [00:18:19,890 - 00:18:23,130] creativity that you saw exploding in Britain in
+- [00:18:23,130 - 00:18:26,370] the 60s, for instance, all those great bands and
+- [00:18:27,150 - 00:18:31,430] the great artists and photographers and fashion design,
+- [00:18:31,430 - 00:18:35,710] all that stuff was because that was the
+- [00:18:35,710 - 00:18:38,650] first free generation. It wasn't that they
+- [00:18:38,650 - 00:18:41,590] suddenly developed all that talent. All that
+- [00:18:41,590 - 00:18:42,250] talent had been around. And every generation had
+- [00:18:42,250 - 00:18:42,910] been around. And every generation had been around.
+- [00:18:42,910 - 00:18:45,750] regeneration, except it had been disallowed. They had to
+- [00:18:45,750 - 00:18:48,590] go work in the factory. They had to go to
+- [00:18:48,590 - 00:18:49,960] war. They had to do whatever.
+- [00:18:49,960 - 00:18:51,330] And now the conditions were right.
+- [00:18:51,410 - 00:18:53,370] The conditions were right. We didn't have
+- [00:18:53,370 - 00:18:55,330] to do that stuff. So it did explode.
+- [00:18:56,090 - 00:18:58,029] You know what? The word that came
+- [00:18:58,029 - 00:18:59,969] to mind was just kind of unapologetic,
+- [00:19:00,350 - 00:19:02,289] because there's the unapologetic in terms of,
+- [00:19:02,289 - 00:19:04,229] yeah, you're supposed to do this. You're supposed
+- [00:19:04,229 - 00:19:06,269] to do that. I don't really do the things that
+- [00:19:06,269 - 00:19:08,310] I'm supposed to do. But then the other thing is just
+- [00:19:08,310 - 00:19:12,180] the unapologetic decision to write in a commercial fashion.
+- [00:19:12,180 - 00:19:16,050] To say, hey, this is my job. A lot of
+- [00:19:16,050 - 00:19:18,190] writers are like, oh, don't do that. And it's
+- [00:19:18,190 - 00:19:20,330] funny, you wouldn't walk into a hedge fund or
+- [00:19:20,330 - 00:19:22,980] an investment firm and say, hey, don't try to
+- [00:19:22,980 - 00:19:25,630] make as much money as you can. But somehow you
+- [00:19:25,630 - 00:19:27,700] get into a library or a writer's
+- [00:19:27,700 - 00:19:29,770] room and it's like, oh, don't say that.
+- [00:19:30,090 - 00:19:31,960] In a way, it was because I started
+- [00:19:31,960 - 00:19:33,830] out in the theater. That was my first enthusiasm,
+- [00:19:34,010 - 00:19:34,870] my first love.
+- [00:19:34,910 - 00:19:35,690] This before TV.
+- [00:19:36,050 - 00:19:37,470] Yeah. Theater before TV.
+- [00:19:38,310 - 00:19:43,570] And I remember that, say, 1971, 72, that kind
+- [00:19:43,570 - 00:19:48,830] of time in theater, there was some great stuff,
+- [00:19:49,150 - 00:19:53,140] but there was also some ridiculous crap. And a
+- [00:19:53,140 - 00:19:57,130] lot of the ridiculous crap was kind of boasted about.
+- [00:19:57,130 - 00:20:00,430] And people would say, you know, people would
+- [00:20:00,430 - 00:20:03,730] put on terrible shows and get zero audience,
+- [00:20:03,970 - 00:20:05,930] and they would be kind of proud
+- [00:20:05,930 - 00:20:07,890] of it. Oh, you know, people don't understand
+- [00:20:07,890 - 00:20:08,290] how...
+- [00:20:08,310 - 00:20:12,010] Art and all that kind of thing. But I saw
+- [00:20:12,010 - 00:20:15,710] it as a Zen proposition. If you put on a show
+- [00:20:15,710 - 00:20:19,020] and nobody comes to see it, have you actually
+- [00:20:19,020 - 00:20:22,330] put on a show? I'm not saying nakedly commercial
+- [00:20:22,330 - 00:20:25,980] transaction, but the transactional aspect of it was
+- [00:20:25,980 - 00:20:29,630] vital. It was integral. You put on a show,
+- [00:20:29,730 - 00:20:32,540] somebody has to watch it before it exists.
+- [00:20:32,540 - 00:20:35,350] If you write a book and nobody reads it,
+- [00:20:35,350 - 00:20:36,450] have you written a book?
+- [00:20:38,310 - 00:20:41,739] I had to include the audience in the calculation
+- [00:20:41,739 - 00:20:45,169] so that I wasn't... It wasn't like a sort of
+- [00:20:45,169 - 00:20:48,129] naked, meretricious thing where I was trying to make
+- [00:20:48,129 - 00:20:51,090] a living, although I was trying to make a
+- [00:20:51,090 - 00:20:53,690] living. But that wasn't forefront in my mind. It
+- [00:20:53,690 - 00:20:56,290] was that if I'm doing something, I want people to
+- [00:20:56,290 - 00:20:58,660] enjoy it. And if you want people to enjoy it,
+- [00:20:58,660 - 00:21:01,030] you may as well have the maximum number of people
+- [00:21:01,030 - 00:21:04,150] enjoy it. But of course, there's a technicality
+- [00:21:04,150 - 00:21:07,270] about books and readership is that readership is
+- [00:21:07,270 - 00:21:07,780] absolutely not moral. It's not moral. It's not
+- [00:21:07,780 - 00:21:08,290] moral. It's not moral. It's not moral. It's not
+- [00:21:08,310 - 00:21:12,739] monolithic. It is far more like the rings
+- [00:21:12,739 - 00:21:17,169] of Saturn that even my books, any commercial
+- [00:21:17,169 - 00:21:20,779] writer's books are consumed at the center
+- [00:21:20,779 - 00:21:24,390] of that universe by very skilled, habitual readers.
+- [00:21:25,290 - 00:21:29,359] And I've got all kinds of high grade, high level
+- [00:21:29,359 - 00:21:33,429] fans. But in order to sell a lot of books,
+- [00:21:33,429 - 00:21:35,539] you've got to push the boundary
+- [00:21:35,539 - 00:21:37,650] outward to the outer rings of Saturn,
+- [00:21:38,310 - 00:21:41,530] where the audience are people that read one
+- [00:21:41,530 - 00:21:44,750] book a year, possibly two books a year.
+- [00:21:45,570 - 00:21:48,369] And you've got to satisfy the
+- [00:21:48,369 - 00:21:51,169] habitual, skillful, literate readers in the center
+- [00:21:51,169 - 00:21:54,579] at the same time as satisfying the people
+- [00:21:54,579 - 00:21:57,990] on the outskirts that are not habitual readers.
+- [00:21:58,770 - 00:22:01,320] And so that is a skill
+- [00:22:01,320 - 00:22:03,870] in itself to make a multi-level proposition.
+- [00:22:03,870 - 00:22:06,510] And how does that play out? Like what is a...
+- [00:22:07,590 - 00:22:08,270] How do you actually...
+- [00:22:08,310 - 00:22:10,890] How do you think about structurally doing that?
+- [00:22:10,890 - 00:22:13,890] I think structurally what you've got to
+- [00:22:13,890 - 00:22:16,890] do is you've got to have a style
+- [00:22:17,610 - 00:22:21,510] that is both palatable and somewhat enjoyable
+- [00:22:21,510 - 00:22:25,410] to the habitual readers in the center,
+- [00:22:25,410 - 00:22:28,440] but that is also useful to the
+- [00:22:28,440 - 00:22:31,470] people on the outside. And that's inevitably,
+- [00:22:31,470 - 00:22:34,500] that style needs to be therefore propulsive. I do a
+- [00:22:34,500 - 00:22:37,530] lot of it instinctively, but I spend a lot of time
+- [00:22:38,310 - 00:22:42,530] concentrating on rhythm, the rhythm of a sentence.
+- [00:22:42,530 - 00:22:44,700] Because a book is however
+- [00:22:44,700 - 00:22:46,870] many thousand sentences in a row,
+- [00:22:46,870 - 00:22:48,710] and you've got to make it
+- [00:22:48,710 - 00:22:50,550] so that each sentence has a rhythm,
+- [00:22:50,550 - 00:22:52,859] and that rhythm must always
+- [00:22:52,859 - 00:22:55,169] be tripping forward, forward, forward.
+- [00:22:55,169 - 00:22:57,929] So this rhythm is less artistic and much
+- [00:22:57,929 - 00:23:00,690] more about that word that you came back to,
+- [00:23:00,690 - 00:23:02,500] propulsion, like the rhythm of
+- [00:23:02,500 - 00:23:04,310] movement and progress and pace.
+- [00:23:04,310 - 00:23:04,890] Absolutely.
+- [00:23:04,890 - 00:23:05,490] Momentum.
+- [00:23:05,490 - 00:23:07,590] It's about propulsion. It's as if...
+- [00:23:08,310 - 00:23:12,590] It's as if I'm creating a style that the
+- [00:23:12,590 - 00:23:16,870] experienced reader in the center appreciates as a style.
+- [00:23:16,870 - 00:23:19,269] You know, call it whatever you want, faux naïve
+- [00:23:19,269 - 00:23:21,669] or this or that, they'll find a word for it.
+- [00:23:21,669 - 00:23:24,669] But the people on the outskirts, the non-habitual readers,
+- [00:23:24,669 - 00:23:27,669] it's like I have my hand gently on their
+- [00:23:27,669 - 00:23:31,229] back just pushing them through. They don't notice.
+- [00:23:31,229 - 00:23:34,790] They're not aware of it, but I am
+- [00:23:34,790 - 00:23:36,950] just easing them through the process.
+- [00:23:37,429 - 00:23:37,929] And...
+- [00:23:38,310 - 00:23:41,830] You know, one of the most heartfelt compliments
+- [00:23:41,830 - 00:23:45,350] that you get, I've had dozens, hundreds of people
+- [00:23:45,350 - 00:23:49,830] say to me, oh, I loved your book. I finished
+- [00:23:49,830 - 00:23:54,310] it. It is such an achievement for some, you know,
+- [00:23:55,030 - 00:23:58,190] not habitual readers, some unfamiliar, unaccustomed readers
+- [00:23:58,190 - 00:24:01,350] to finish a book. It's a sense of
+- [00:24:01,350 - 00:24:04,230] achievement, self-esteem, and so on. And you do
+- [00:24:04,230 - 00:24:07,110] that by helping them finish the book. You push
+- [00:24:07,110 - 00:24:07,700] them gradually through. You push them through the
+- [00:24:07,700 - 00:24:08,290] process. You push them through the process. You
+- [00:24:08,310 - 00:24:08,320] let them breathe. You push them through the
+- [00:24:08,320 - 00:24:08,330] process. You push them through the process. They
+- [00:24:08,330 - 00:24:11,110] don't notice, but you're driving them through it. And
+- [00:24:11,110 - 00:24:13,890] you do that by propulsion, and you do the
+- [00:24:13,890 - 00:24:17,110] propulsion by sentence structure so that the
+- [00:24:17,110 - 00:24:20,330] beat is always tipping forward, forward, forward. It's
+- [00:24:20,330 - 00:24:22,210] like a great pop song. If you look at
+- [00:24:22,210 - 00:24:24,090] a great pop song back in the days before,
+- [00:24:25,810 - 00:24:28,950] before, you know, all this electronic stuff came
+- [00:24:28,950 - 00:24:32,090] along, the rhythm will speed up through the song
+- [00:24:32,090 - 00:24:35,120] very, very, very subtly. Look at a Beatles
+- [00:24:35,120 - 00:24:38,150] song, especially live. You know, Ringo will be driving,
+- [00:24:38,150 - 00:24:41,270] in that drive in that tempo and it always
+- [00:24:41,270 - 00:24:44,390] ends up a little faster than it begins. Nobody
+- [00:24:44,390 - 00:24:47,039] notices but it's there and that's what you got
+- [00:24:47,039 - 00:24:49,689] to do on the page. You've got to you got
+- [00:24:49,689 - 00:24:52,499] to make it so that it's a little bit
+- [00:24:52,499 - 00:24:55,310] like a like a carnival ride you know where you
+- [00:24:55,310 - 00:24:58,190] it's they're slipping down this polished tube you
+- [00:24:58,190 - 00:25:01,070] know and there's no getting out of it
+- [00:25:01,070 - 00:25:03,249] once they're in it they can't get out.
+- [00:25:03,249 - 00:25:05,429] And now tell me more about that sense of
+- [00:25:05,430 - 00:25:07,440] propulsion because there you're talking about sentences
+- [00:25:07,440 - 00:25:09,450] but then there's the sense of propulsion
+- [00:25:09,450 - 00:25:11,250] of opening a question at the beginning keeping
+- [00:25:11,250 - 00:25:13,050] that question open answering at the end. There's
+- [00:25:13,050 - 00:25:14,360] the sense of propulsion that comes at the end
+- [00:25:14,360 - 00:25:15,670] of a chapter of hey we're going to have
+- [00:25:15,670 - 00:25:18,020] a cliffhanger. Television does this and in
+- [00:25:18,020 - 00:25:20,370] the next episode you're going to learn something
+- [00:25:20,370 - 00:25:23,430] like that. Yeah well that's and that's really where
+- [00:25:23,430 - 00:25:26,490] I got it from I did 40,000 hours of
+- [00:25:26,490 - 00:25:29,820] television of every kind and it kind of bakes
+- [00:25:29,820 - 00:25:33,150] it into your DNA. And ending a chapter to
+- [00:25:33,150 - 00:25:34,430] me is never thought about.
+- [00:25:34,430 - 00:25:35,430] It is always
+- [00:25:35,430 - 00:25:38,030] utterly sort of instinctively obvious. When you
+- [00:25:38,030 - 00:25:40,630] say that do you mean that the book
+- [00:25:40,630 - 00:25:42,370] begins to reveal itself that hey this is
+- [00:25:42,370 - 00:25:44,110] where it should be or is it something else.
+- [00:25:44,110 - 00:25:46,800] Yeah exactly you and even the end of a
+- [00:25:46,800 - 00:25:49,490] book I remember one of my books the hard way
+- [00:25:49,490 - 00:25:52,720] I think it was it was that book where
+- [00:25:52,720 - 00:25:55,950] I remember finishing a chapter very late on and thinking
+- [00:25:55,950 - 00:25:57,860] great you know I'm almost done I've just got
+- [00:25:57,860 - 00:25:59,770] to kind of do I don't know maybe a chapter
+- [00:25:59,770 - 00:26:02,550] and a half to wrap it up. And then I
+- [00:26:02,550 - 00:26:05,330] suddenly realized no this is the end of the book. This
+- [00:26:05,330 - 00:26:07,910] is done now.
+- [00:26:07,910 - 00:26:13,440] Because you just know. It's all about asking
+- [00:26:13,440 - 00:26:18,970] the question and TV had a thing there was
+- [00:26:18,970 - 00:26:23,230] a situation in 1980 that changed completely
+- [00:26:23,230 - 00:26:27,490] by 1990 by 1990 people had something that
+- [00:26:27,490 - 00:26:30,270] they did not have in 1990
+- [00:26:30,270 - 00:26:33,050] and it utterly changed the business.
+- [00:26:33,050 - 00:26:33,249] And you see now you are thinking on television. At
+- [00:26:33,249 - 00:26:33,449] leastiyorsun wasn't the robot you see on television, was it.
+- [00:26:33,449 - 00:26:34,330] It was. lack of건
+- [00:26:34,330 - 00:26:36,110] Now you are thinking, why?
+- [00:26:36,310 - 00:26:37,189] What is he talking about?
+- [00:26:37,530 - 00:26:39,239] What did they not have in
+- [00:26:39,239 - 00:26:40,949] 1980 that they did have in 1990?
+- [00:26:41,230 - 00:26:44,169] I've implied a question there.
+- [00:26:44,810 - 00:26:47,230] And you now want the answer.
+- [00:26:47,230 - 00:26:51,510] And the answer is remote control.
+- [00:26:52,650 - 00:26:55,400] In 1980, people actually physically had to get
+- [00:26:55,400 - 00:26:58,150] up off the sofa and change the channel.
+- [00:26:58,669 - 00:26:59,929] In 1990, they could do it
+- [00:26:59,929 - 00:27:01,189] with the push of a button.
+- [00:27:01,530 - 00:27:03,189] And that utterly changed the business.
+- [00:27:03,190 - 00:27:05,390] And because you could rely on
+- [00:27:05,390 - 00:27:07,590] a certain amount of laziness in 1980,
+- [00:27:07,750 - 00:27:09,810] you could rely that if they finish one program,
+- [00:27:09,910 - 00:27:11,290] they're going to stick around through
+- [00:27:11,290 - 00:27:12,670] the commercial break for the next one.
+- [00:27:13,470 - 00:27:16,110] By 1990, absolutely, all bets were off.
+- [00:27:16,110 - 00:27:19,090] They could jump around at the press of a finger.
+- [00:27:19,730 - 00:27:21,010] And that utterly changed it.
+- [00:27:21,090 - 00:27:23,210] And so how did we react to that?
+- [00:27:23,570 - 00:27:25,780] We reacted to it by
+- [00:27:25,780 - 00:27:27,990] something that has largely disappeared now,
+- [00:27:28,050 - 00:27:29,950] but you still see, for instance,
+- [00:27:29,950 - 00:27:31,850] in baseball or certain sports where,
+- [00:27:32,530 - 00:27:33,170] you know, in baseball,
+- [00:27:33,190 - 00:27:35,440] you get to the sort of fourth inning and it's
+- [00:27:35,440 - 00:27:37,690] pretty clear maybe which way the game's going and so on.
+- [00:27:37,730 - 00:27:39,850] And so they usually have a trivia question
+- [00:27:39,850 - 00:27:42,670] that they'll tell you the answer at the end
+- [00:27:42,670 - 00:27:45,490] of the break when they return to the game.
+- [00:27:46,210 - 00:27:49,220] And it's incredibly powerful that humans are
+- [00:27:49,220 - 00:27:52,230] hardwired to want to know the answer,
+- [00:27:52,590 - 00:27:54,910] even if they're not interested in the subject.
+- [00:27:55,710 - 00:27:57,010] You know, if it's a movie
+- [00:27:57,010 - 00:27:58,310] show or something, you might say,
+- [00:27:58,630 - 00:28:01,750] who was the first choice for Dirty Harry?
+- [00:28:01,750 - 00:28:06,030] In terms of casting, we'll tell you after the break.
+- [00:28:06,370 - 00:28:08,710] And people are like, whoa, who was the first choice?
+- [00:28:08,790 - 00:28:10,350] Wasn't Clint Eastwood the first choice?
+- [00:28:10,570 - 00:28:11,790] And they want to know.
+- [00:28:12,010 - 00:28:14,610] Even if they do know, they want to
+- [00:28:14,610 - 00:28:17,210] stick around for the gratification of being proved right.
+- [00:28:17,330 - 00:28:18,370] That's why people love Jeopardy.
+- [00:28:18,870 - 00:28:19,230] Yeah.
+- [00:28:19,730 - 00:28:21,290] And, you know, the answer to who
+- [00:28:21,290 - 00:28:22,850] was first choice, believe it or not,
+- [00:28:22,890 - 00:28:24,750] for Dirty Harry was Frank Sinatra.
+- [00:28:25,730 - 00:28:27,510] He turned down the part.
+- [00:28:28,070 - 00:28:31,730] So we learned that humans are hardwired to want,
+- [00:28:31,810 - 00:28:33,010] the answer to a question.
+- [00:28:33,550 - 00:28:36,000] And I think, actually, that is
+- [00:28:36,000 - 00:28:38,450] the easiest part of constructing a novel.
+- [00:28:40,130 - 00:28:41,390] Absolutely the easiest part.
+- [00:28:41,470 - 00:28:42,530] You imply a question.
+- [00:28:42,630 - 00:28:43,830] It doesn't matter what it is.
+- [00:28:44,030 - 00:28:45,570] It doesn't matter how important it is.
+- [00:28:46,150 - 00:28:48,470] People will stick around to find out the answer.
+- [00:28:49,410 - 00:28:52,410] And so that really, plotting in that sense,
+- [00:28:52,910 - 00:28:56,590] is way overestimated in terms of difficulty.
+- [00:28:56,590 - 00:28:58,530] Plotting is really pretty easy.
+- [00:29:00,270 - 00:29:01,590] And now, as a writer,
+- [00:29:01,750 - 00:29:05,230] do you feel like you're going on an adventure yourself,
+- [00:29:05,370 - 00:29:09,710] kind of like fingers are following the story or something?
+- [00:29:09,970 - 00:29:11,130] Yeah, I mean, absolutely.
+- [00:29:11,950 - 00:29:13,430] Again, I try and replicate.
+- [00:29:13,730 - 00:29:15,490] What I want is this feeling
+- [00:29:15,490 - 00:29:17,250] that I have as a reader.
+- [00:29:17,810 - 00:29:18,610] And you know this.
+- [00:29:18,750 - 00:29:21,850] When you've got a really great book on the go,
+- [00:29:22,770 - 00:29:25,390] you're really angry if you have to put it down.
+- [00:29:25,550 - 00:29:28,210] And you just cannot wait to get back to it.
+- [00:29:28,210 - 00:29:29,930] You know, let's say you've got to
+- [00:29:29,930 - 00:29:31,650] do a chore or an errand or something.
+- [00:29:31,750 - 00:29:32,550] Or go to work.
+- [00:29:32,970 - 00:29:34,050] And then you get back and you
+- [00:29:34,050 - 00:29:35,130] pick up the book and you're like,
+- [00:29:35,190 - 00:29:36,750] ah, what's going to happen next?
+- [00:29:36,810 - 00:29:37,110] Yeah.
+- [00:29:37,250 - 00:29:38,870] I need that feeling as a writer.
+- [00:29:39,130 - 00:29:40,790] It's incredibly strong as a reader.
+- [00:29:40,930 - 00:29:42,530] I remember one Christmas day,
+- [00:29:43,130 - 00:29:47,270] I was, our daughter was working in a cinema.
+- [00:29:47,850 - 00:29:51,030] And she was doing the day shift on Christmas Day.
+- [00:29:51,710 - 00:29:54,100] And therefore, our Christmas was going to
+- [00:29:54,100 - 00:29:56,490] start when she finished work and got back,
+- [00:29:56,490 - 00:29:58,590] which was maybe, I don't know, six o'clock or something.
+- [00:29:59,210 - 00:30:00,910] So I was reading a book.
+- [00:30:01,750 - 00:30:03,610] That afternoon, it was a great book.
+- [00:30:03,610 - 00:30:04,810] I was just loving it.
+- [00:30:04,810 - 00:30:07,060] And I was thinking, I was hoping
+- [00:30:07,060 - 00:30:09,310] that there would be a big snowstorm
+- [00:30:09,310 - 00:30:11,730] and she couldn't get there or something like that.
+- [00:30:11,730 - 00:30:13,570] I was hoping that she wouldn't arrive so
+- [00:30:13,570 - 00:30:15,410] that I could keep on reading the book.
+- [00:30:15,410 - 00:30:17,550] And that's the power of story.
+- [00:30:17,550 - 00:30:20,380] And I want to feel that power when
+- [00:30:20,380 - 00:30:23,210] I'm writing it as well as reading it.
+- [00:30:23,590 - 00:30:25,660] Well, you were talking about needing
+- [00:30:25,660 - 00:30:27,730] to know the answer to the question,
+- [00:30:27,730 - 00:30:29,030] kind of being pulled along.
+- [00:30:29,570 - 00:30:31,650] The other word that came to mind for me,
+- [00:30:31,650 - 00:30:33,410] it was just the feeling of being absorbed.
+- [00:30:33,410 - 00:30:35,120] Absorbed in another world, absorbed
+- [00:30:35,120 - 00:30:36,830] in a pattern of language,
+- [00:30:36,830 - 00:30:40,030] absorbed in characters and scenes.
+- [00:30:40,350 - 00:30:41,989] Absolutely immersed, I call it.
+- [00:30:41,989 - 00:30:43,570] And that is such a subtle thing.
+- [00:30:43,570 - 00:30:44,870] I mean, how do you do it?
+- [00:30:45,749 - 00:30:46,669] Nobody knows.
+- [00:30:46,669 - 00:30:47,229] No, but I do.
+- [00:30:47,229 - 00:30:49,929] It absolutely happens or it doesn't happen.
+- [00:30:50,469 - 00:30:51,749] You know, that's one of the strange things,
+- [00:30:51,749 - 00:30:54,479] there's all kinds of cliches, you know,
+- [00:30:54,479 - 00:30:57,209] or jokes about how to write a book.
+- [00:30:57,209 - 00:30:59,039] You know, people say a
+- [00:30:59,039 - 00:31:00,870] thriller, it needs just two things.
+- [00:31:01,650 - 00:31:03,709] Unfortunately, nobody knows what they are.
+- [00:31:03,709 - 00:31:06,890] And that's kind of true.
+- [00:31:06,890 - 00:31:08,069] I was so excited for you
+- [00:31:08,069 - 00:31:09,249] to tell me what they were.
+- [00:31:09,249 - 00:31:10,189] Exactly.
+- [00:31:10,189 - 00:31:11,890] You know, it's a mystery.
+- [00:31:11,890 - 00:31:16,590] Sometimes it grabs you and sometimes it doesn't.
+- [00:31:16,590 - 00:31:18,410] Is that individual to the reader?
+- [00:31:18,410 - 00:31:19,769] Is it general?
+- [00:31:19,769 - 00:31:21,659] Can you trust it for a
+- [00:31:21,659 - 00:31:23,550] large population as opposed to individual readers?
+- [00:31:24,290 - 00:31:25,489] I don't know.
+- [00:31:25,489 - 00:31:27,309] I think certain books appeal
+- [00:31:27,309 - 00:31:29,130] to different people in different ways.
+- [00:31:29,989 - 00:31:30,610] But yeah.
+- [00:31:30,610 - 00:31:31,489] Either you are.
+- [00:31:31,490 - 00:31:32,930] I think there's a lot of people
+- [00:31:32,930 - 00:31:34,370] who are immediately sucked into the world.
+- [00:31:34,370 - 00:31:36,530] And I think probably the way to
+- [00:31:36,530 - 00:31:38,690] do that is not try too hard.
+- [00:31:38,690 - 00:31:40,640] I think that is absolutely true
+- [00:31:40,640 - 00:31:42,590] of practically every aspect of writing.
+- [00:31:42,590 - 00:31:44,130] Don't try too hard.
+- [00:31:44,130 - 00:31:51,650] There's a great, great quote by David Mamet, a screenwriter.
+- [00:31:51,650 - 00:31:55,340] He was talking about actors in this particular quote,
+- [00:31:55,340 - 00:31:59,030] but really it can be about book characters or anything.
+- [00:31:59,030 - 00:32:00,030] And he said,
+- [00:32:00,030 - 00:32:00,630] essentially,
+- [00:32:00,630 - 00:32:02,909] if you're an actor who steps onto the
+- [00:32:02,909 - 00:32:05,189] stage or steps onto the screen, and he says,
+- [00:32:05,189 - 00:32:08,229] hey, I'm the main character.
+- [00:32:08,229 - 00:32:12,650] And the audience says, are we going to like you?
+- [00:32:12,650 - 00:32:15,090] And the worst possible answer
+- [00:32:15,090 - 00:32:17,530] is to say, yes, you are.
+- [00:32:17,530 - 00:32:19,429] And I'll tell you why.
+- [00:32:19,429 - 00:32:20,689] That's the worst possible answer.
+- [00:32:20,689 - 00:32:22,610] The best possible answer.
+- [00:32:22,610 - 00:32:24,810] Are we going to like you?
+- [00:32:24,810 - 00:32:25,810] I don't know.
+- [00:32:25,810 - 00:32:28,350] And I don't care.
+- [00:32:28,350 - 00:32:29,350] That is the.
+- [00:32:29,350 - 00:32:30,350] That.
+- [00:32:30,350 - 00:32:31,350] That is the way to do it.
+- [00:32:31,350 - 00:32:32,350] And I think that's the way to do it.
+- [00:32:32,350 - 00:32:33,350] Insouciance, self-confidence is the way to do it.
+- [00:32:33,350 - 00:32:35,850] He was talking about that generation of actors
+- [00:32:35,850 - 00:32:38,350] that had come out of the Korean War, people
+- [00:32:38,350 - 00:32:41,010] like Gene Hackman and Lee Marvin and people like that.
+- [00:32:41,010 - 00:32:42,830] They had a certain kind of self-confidence.
+- [00:32:42,830 - 00:32:44,510] They were not needy.
+- [00:32:44,510 - 00:32:45,850] They were just there.
+- [00:32:45,850 - 00:32:47,650] Take me or leave me.
+- [00:32:47,650 - 00:32:49,270] They weren't trying too hard.
+- [00:32:49,270 - 00:32:52,609] And that in a strange roundabout way, the
+- [00:32:52,609 - 00:32:55,949] less you worry about, are they going to like
+- [00:32:55,949 - 00:32:56,949] you?
+- [00:32:56,949 - 00:32:57,949] The more they do like you.
+- [00:32:57,949 - 00:33:00,150] So help me reconcile a few things.
+- [00:33:00,350 - 00:33:02,540] On one hand, what I'm hearing is
+- [00:33:02,540 - 00:33:04,730] this sort of don't try too hard.
+- [00:33:04,730 - 00:33:06,920] And then on the other side, it's a
+- [00:33:06,920 - 00:33:09,110] real sense of discipline of treating your writing like
+- [00:33:09,110 - 00:33:11,449] a job showing up every day.
+- [00:33:11,449 - 00:33:14,350] Help me work that out.
+- [00:33:14,350 - 00:33:15,350] Well it is.
+- [00:33:15,350 - 00:33:16,350] I mean it is.
+- [00:33:16,350 - 00:33:19,730] But writing is a strange thing in that you
+- [00:33:19,730 - 00:33:23,110] have got to believe two things a hundred percent.
+- [00:33:23,110 - 00:33:24,110] Both of them.
+- [00:33:24,110 - 00:33:26,650] It's not believing one 50 percent, the other 50 percent.
+- [00:33:26,650 - 00:33:28,500] You believe them both a
+- [00:33:28,500 - 00:33:30,350] hundred percent, which is mathematically impossible.
+- [00:33:30,350 - 00:33:31,490] You've got to do it.
+- [00:33:31,490 - 00:33:34,540] You've got to believe it's artistic, it's creative,
+- [00:33:34,540 - 00:33:37,590] it is noble, it's part of a great
+- [00:33:37,590 - 00:33:39,690] tradition that stretches back a
+- [00:33:39,690 - 00:33:41,790] few centuries now, writing novels.
+- [00:33:41,790 - 00:33:45,160] You've also got to believe it is a
+- [00:33:45,160 - 00:33:48,530] job that your family's income depends on, that you
+- [00:33:48,530 - 00:33:52,590] have responsibilities to publishers and retailers.
+- [00:33:52,590 - 00:33:55,669] You've got to believe both things 100 percent.
+- [00:33:55,669 - 00:33:58,070] And so you do need structure.
+- [00:33:58,070 - 00:33:59,730] You do need discipline.
+- [00:34:00,350 - 00:34:03,169] Ultimately you owe it to the reader.
+- [00:34:03,169 - 00:34:05,429] And that is what has
+- [00:34:05,429 - 00:34:07,689] been the driving force for me.
+- [00:34:07,689 - 00:34:09,689] Initially I'd lost my job, I
+- [00:34:09,689 - 00:34:11,689] was broke, I was out of work.
+- [00:34:11,689 - 00:34:16,850] And initially the implied contract was purely financial.
+- [00:34:16,850 - 00:34:18,889] Could I keep a roof over my head?
+- [00:34:18,889 - 00:34:20,689] Could I pay the bills?
+- [00:34:20,689 - 00:34:23,019] And then when that turned out to be
+- [00:34:23,019 - 00:34:25,350] yeah, you know, happily that happened, then it became
+- [00:34:25,350 - 00:34:27,790] an emotional contract with the reader.
+- [00:34:27,790 - 00:34:29,489] The reader has loved these books.
+- [00:34:29,489 - 00:34:32,110] The reader has bought these books, enthused
+- [00:34:32,110 - 00:34:34,730] about them, talked about them, enjoyed them.
+- [00:34:34,730 - 00:34:37,230] So my obligation from that point
+- [00:34:37,230 - 00:34:39,730] on was never to let them down.
+- [00:34:39,730 - 00:34:41,690] And part of that, of course,
+- [00:34:41,690 - 00:34:43,650] is actually showing up with the product.
+- [00:34:43,650 - 00:34:46,650] Because if the reader, not just me of
+- [00:34:46,650 - 00:34:49,650] course, but hundreds of series writers publish a new
+- [00:34:49,650 - 00:34:52,239] installment every year, if you miss one,
+- [00:34:52,239 - 00:34:54,830] the reader is really disappointed about that.
+- [00:34:54,830 - 00:34:56,500] Okay, so we're talking about how
+- [00:34:56,500 - 00:34:58,170] do you get your writing done.
+- [00:34:58,170 - 00:34:58,740] And if you're thinking about work and, you
+- [00:34:58,740 - 00:34:59,310] know, writing, you're going to have to do
+- [00:34:59,310 - 00:35:00,310] a lot of work.
+- [00:35:00,310 - 00:35:02,230] And how you can be more productive
+- [00:35:02,230 - 00:35:04,150] there, well, I recommend a tool called Basecamp.
+- [00:35:04,150 - 00:35:05,870] Basecamp is a project management tool.
+- [00:35:05,870 - 00:35:07,899] And it's different from the other ones,
+- [00:35:07,899 - 00:35:09,929] which are loud and noisy and cluttered, they're
+- [00:35:09,929 - 00:35:11,270] feature bloat.
+- [00:35:11,270 - 00:35:13,040] Basecamp says no, no, no, no, no, we're going
+- [00:35:13,040 - 00:35:14,810] to keep things simple so that you can focus
+- [00:35:14,810 - 00:35:16,580] on what actually matters, which is
+- [00:35:16,580 - 00:35:18,350] just getting the work done, you know?
+- [00:35:18,350 - 00:35:20,030] Now for us, Basecamp is a place where we
+- [00:35:20,030 - 00:35:21,710] can track what we're doing with how I write, when
+- [00:35:21,710 - 00:35:23,870] episodes are being recorded, where we're recording
+- [00:35:23,870 - 00:35:26,030] them, the publishing day, all those sorts
+- [00:35:26,030 - 00:35:26,789] of things in one place for
+- [00:35:26,789 - 00:35:27,549] our entire team to look at.
+- [00:35:27,549 - 00:35:28,549] And that's what Basecamp is all about.
+- [00:35:29,310 - 00:35:31,610] And I had the founder of Basecamp, Jason
+- [00:35:31,610 - 00:35:33,910] Fried, he came on the show, and I noticed
+- [00:35:33,910 - 00:35:35,730] that he really cares about writing.
+- [00:35:35,730 - 00:35:37,800] He cares about manifestos, he cares about
+- [00:35:37,800 - 00:35:39,870] great copy, he cares about telling a great
+- [00:35:39,870 - 00:35:40,870] story.
+- [00:35:40,870 - 00:35:43,210] And him and his co-founder, they've written five books.
+- [00:35:43,210 - 00:35:45,770] And I can tell you that they bring the
+- [00:35:45,770 - 00:35:48,330] same care and attention to detail to their books
+- [00:35:48,330 - 00:35:50,290] as they do their software.
+- [00:35:50,290 - 00:35:52,120] So if you're thinking about work and you're
+- [00:35:52,120 - 00:35:53,950] asking, hey, how can I be more productive?
+- [00:35:53,950 - 00:35:55,810] How can I make my team more cohesive?
+- [00:35:55,810 - 00:35:57,810] Well, then I recommend Basecamp.
+- [00:35:57,810 - 00:35:58,970] All right.
+- [00:35:58,970 - 00:35:59,310] Back to the episode.
+- [00:35:59,310 - 00:36:01,810] And tell me about what
+- [00:36:01,810 - 00:36:04,310] goes into making a main character.
+- [00:36:04,310 - 00:36:06,870] Because you were talking about likability.
+- [00:36:06,870 - 00:36:08,690] And is that important in the main character?
+- [00:36:08,690 - 00:36:09,690] When is it good?
+- [00:36:09,690 - 00:36:10,690] Hey, should we like the main character?
+- [00:36:10,690 - 00:36:11,690] Should we hate the main character?
+- [00:36:11,690 - 00:36:12,690] Should we think they're funny?
+- [00:36:12,690 - 00:36:15,010] I don't think that you can
+- [00:36:15,010 - 00:36:17,330] have a character that you hate.
+- [00:36:17,330 - 00:36:19,350] A main character that you hate or a character?
+- [00:36:19,350 - 00:36:22,270] Well, obviously a character, a despicable bad
+- [00:36:22,270 - 00:36:25,190] guy or a henchman or something like that.
+- [00:36:25,190 - 00:36:26,430] You can absolutely hate them.
+- [00:36:26,430 - 00:36:27,870] But in terms of the main character...
+- [00:36:27,870 - 00:36:28,870] Or the...
+- [00:36:29,310 - 00:36:32,150] The implied main character, Hannibal Lecter, for
+- [00:36:32,150 - 00:36:34,990] instance, would be as close as you could
+- [00:36:34,990 - 00:36:38,530] get to a character that you should hate.
+- [00:36:38,530 - 00:36:42,070] But there is something compelling about them.
+- [00:36:42,070 - 00:36:44,130] You can have characters that you ought
+- [00:36:44,130 - 00:36:46,190] to hate, but you kind of don't.
+- [00:36:46,190 - 00:36:47,190] Which you're breaking bad.
+- [00:36:47,190 - 00:36:48,190] Yeah.
+- [00:36:48,190 - 00:36:50,090] All that noir style.
+- [00:36:50,090 - 00:36:52,290] There's something about them that makes
+- [00:36:52,290 - 00:36:54,490] them likable, even though you shouldn't.
+- [00:36:54,490 - 00:36:58,310] You absolutely can't have a character designed to be hated.
+- [00:36:58,310 - 00:36:59,310] Yeah.
+- [00:36:59,310 - 00:37:02,429] You absolutely equally cannot have a character
+- [00:37:02,429 - 00:37:05,549] that's designed to be liked because the more
+- [00:37:05,549 - 00:37:08,470] you design it, the worse it gets.
+- [00:37:08,470 - 00:37:11,200] You've just got to have an honest, authentic
+- [00:37:11,200 - 00:37:13,930] portrayal, and then you've got to hope for
+- [00:37:13,930 - 00:37:14,930] the best.
+- [00:37:14,930 - 00:37:16,110] You know, when I'd start...
+- [00:37:16,110 - 00:37:19,090] I did the first Reacher book, I thought...
+- [00:37:19,090 - 00:37:20,590] And there's a clue in what I'm going to say.
+- [00:37:20,590 - 00:37:22,710] I thought, I'm happy with this.
+- [00:37:22,710 - 00:37:23,710] I love this.
+- [00:37:23,710 - 00:37:25,510] You know, this is 100%
+- [00:37:25,510 - 00:37:27,310] what I wanted it to be.
+- [00:37:27,310 - 00:37:28,310] Obviously.
+- [00:37:28,310 - 00:37:29,630] I would have done it differently.
+- [00:37:29,630 - 00:37:31,910] This was exactly what I wanted.
+- [00:37:31,910 - 00:37:33,460] But I thought, ah, nobody
+- [00:37:33,460 - 00:37:35,010] else is going to like this.
+- [00:37:35,010 - 00:37:39,549] The guy is a filthy, dirty barbarian.
+- [00:37:39,549 - 00:37:41,430] He shoots people in the back.
+- [00:37:41,430 - 00:37:42,430] He lies.
+- [00:37:42,430 - 00:37:43,430] He cheats.
+- [00:37:43,430 - 00:37:44,430] He steals.
+- [00:37:44,430 - 00:37:47,630] He never changes his clothes.
+- [00:37:47,630 - 00:37:49,410] Nobody's going to like this guy.
+- [00:37:49,410 - 00:37:51,780] And then I thought, well, maybe some men
+- [00:37:51,780 - 00:37:54,150] will like him, but women won't or whatever.
+- [00:37:54,150 - 00:37:55,870] But the clue is I liked him.
+- [00:37:55,870 - 00:37:56,870] Now.
+- [00:37:56,870 - 00:37:59,239] I am obviously a unique individual, just like
+- [00:37:59,239 - 00:38:01,609] you are, just like everybody else is, but
+- [00:38:01,609 - 00:38:03,290] we're not that unique.
+- [00:38:03,290 - 00:38:06,330] We all share quite a lot of culture together.
+- [00:38:06,330 - 00:38:08,709] And so if I like him, the chances are
+- [00:38:08,709 - 00:38:11,089] that many, many other people will like him too.
+- [00:38:11,089 - 00:38:14,230] The only unknown at that point is how many exactly.
+- [00:38:14,230 - 00:38:15,490] You know, is it going to be thousands?
+- [00:38:15,490 - 00:38:16,890] Is it going to be hundreds of thousands?
+- [00:38:16,890 - 00:38:17,890] Is it going to be millions?
+- [00:38:17,890 - 00:38:19,250] You don't know that yet.
+- [00:38:19,250 - 00:38:22,140] But if you like it, a substantial
+- [00:38:22,140 - 00:38:25,030] proportion of other people will like it too.
+- [00:38:25,030 - 00:38:26,150] What matters?
+- [00:38:26,150 - 00:38:28,030] Let's bring together two themes.
+- [00:38:28,030 - 00:38:31,150] We've been talking about rhythm propulsion.
+- [00:38:31,150 - 00:38:32,690] And I think there we've been
+- [00:38:32,690 - 00:38:34,230] talking about a kind of truth, right?
+- [00:38:34,230 - 00:38:36,130] You're saying if you don't, if you plan
+- [00:38:36,130 - 00:38:38,030] it, it's not going to kind of feel real.
+- [00:38:38,030 - 00:38:40,390] There's something about the following the
+- [00:38:40,390 - 00:38:42,750] roller coaster that actually makes it feel
+- [00:38:42,750 - 00:38:43,750] real.
+- [00:38:43,750 - 00:38:45,960] So bringing together the propulsion, the truth,
+- [00:38:45,960 - 00:38:48,170] what matters in dialogue as you're writing
+- [00:38:48,170 - 00:38:50,050] dialogue and bringing that to life?
+- [00:38:50,050 - 00:38:51,050] Yeah.
+- [00:38:51,050 - 00:38:54,270] I mean, dialogue is the ultimate kind of illusion.
+- [00:38:54,270 - 00:38:55,270] In fact, I once...
+- [00:38:55,270 - 00:38:56,110] I think once.
+- [00:38:56,110 - 00:39:00,610] I won a competition prize or won some literary prize.
+- [00:39:00,610 - 00:39:02,350] I think it was from...
+- [00:39:02,350 - 00:39:03,350] It was years ago.
+- [00:39:03,350 - 00:39:05,490] I think it was the Fort
+- [00:39:05,490 - 00:39:07,630] Worth Evening Telegraph or something in Texas.
+- [00:39:07,630 - 00:39:11,570] I won the prize for natural dialogue.
+- [00:39:11,570 - 00:39:15,300] And honestly, written dialogue in a book,
+- [00:39:15,300 - 00:39:19,030] there is nothing less natural than that.
+- [00:39:19,030 - 00:39:21,510] It's really instructive to actually seriously
+- [00:39:21,510 - 00:39:23,990] really listen to how people speak.
+- [00:39:23,990 - 00:39:24,990] Yeah.
+- [00:39:24,990 - 00:39:27,859] I mean, in a real dialogue exchange where
+- [00:39:27,859 - 00:39:30,729] people are talking, go on the train and eavesdrop
+- [00:39:30,729 - 00:39:34,310] at the seat next to you or whatever.
+- [00:39:34,310 - 00:39:35,750] Listen to how people really talk.
+- [00:39:35,750 - 00:39:36,750] It is incoherent.
+- [00:39:36,750 - 00:39:39,330] It is stop, start.
+- [00:39:39,330 - 00:39:42,010] It's absolutely full of placeholders.
+- [00:39:42,010 - 00:39:45,330] You know, all this kind of stuff.
+- [00:39:45,330 - 00:39:47,990] People jump from one subject to another.
+- [00:39:47,990 - 00:39:49,609] There are long gaps.
+- [00:39:49,609 - 00:39:51,299] It's utterly, utterly unlike anything
+- [00:39:51,299 - 00:39:52,990] you will ever see written down.
+- [00:39:52,990 - 00:39:53,990] In a book, it's...
+- [00:39:53,990 - 00:39:54,830] It's...
+- [00:39:54,830 - 00:39:57,670] In a book, it is utterly unnatural that
+- [00:39:57,670 - 00:40:00,510] people talk in a structured way and actually exchange
+- [00:40:00,510 - 00:40:02,830] information A, B, A, B like that.
+- [00:40:02,830 - 00:40:05,580] It absolutely never happens in real life except you
+- [00:40:05,580 - 00:40:08,330] can do it in a way that makes people think
+- [00:40:08,330 - 00:40:10,310] it's utterly natural.
+- [00:40:10,310 - 00:40:12,710] One of the greatest illusions in entertainment.
+- [00:40:12,710 - 00:40:16,220] Again, rhythm is important because dialogue, when
+- [00:40:16,220 - 00:40:19,730] you listen to people talk, they put emphasis
+- [00:40:19,730 - 00:40:23,830] on words that vary throughout the sentence.
+- [00:40:23,830 - 00:40:25,950] And how do you do that on the page?
+- [00:40:25,950 - 00:40:28,720] In extremis, you can use italics,
+- [00:40:28,720 - 00:40:31,490] I suppose, for the emphasized word.
+- [00:40:31,490 - 00:40:34,560] I prefer not to because otherwise you've got
+- [00:40:34,560 - 00:40:37,630] italics peppered over the entire page in random
+- [00:40:37,630 - 00:40:38,630] spots.
+- [00:40:38,630 - 00:40:40,500] You don't really want to do that, but you've
+- [00:40:40,500 - 00:40:42,370] got to construct the rhythm in such a way
+- [00:40:42,370 - 00:40:45,150] that the emphasis is thrown onto that word
+- [00:40:45,150 - 00:40:47,930] as opposed to any other words so that you
+- [00:40:47,930 - 00:40:49,950] go duh, duh, duh.
+- [00:40:49,950 - 00:40:52,830] Somehow the rhythm lands you on the important word.
+- [00:40:52,830 - 00:40:53,830] Yeah.
+- [00:40:53,830 - 00:40:54,830] And I think that's what's so interesting about this.
+- [00:40:54,830 - 00:40:57,230] I think it's partly an innate skill.
+- [00:40:57,230 - 00:40:58,830] It comes from reading a lot.
+- [00:40:58,830 - 00:41:01,090] It comes from listening a lot.
+- [00:41:01,090 - 00:41:02,090] And it comes from-
+- [00:41:02,090 - 00:41:03,090] Listening a lot.
+- [00:41:03,090 - 00:41:04,090] How do you do that?
+- [00:41:04,090 - 00:41:07,090] Like listen to people chat?
+- [00:41:07,090 - 00:41:08,950] Listen to real people talk,
+- [00:41:08,950 - 00:41:10,810] listen to movies, listen to TV.
+- [00:41:10,810 - 00:41:13,930] I mean, there's a lot of great dialogue on TV.
+- [00:41:13,930 - 00:41:16,270] There's a lot of great dialogue in the movies.
+- [00:41:16,270 - 00:41:17,630] Just immerse yourself in it.
+- [00:41:17,630 - 00:41:19,010] Listen, listen, listen.
+- [00:41:19,010 - 00:41:20,950] And you pick it up how to do it.
+- [00:41:20,950 - 00:41:21,990] Man, I was on the train
+- [00:41:21,990 - 00:41:23,030] last night coming back from Gatwick.
+- [00:41:23,030 - 00:41:24,760] And there was a woman sitting
+- [00:41:24,760 - 00:41:26,490] next to me, an Indian woman.
+- [00:41:26,490 - 00:41:28,129] She was with her husband.
+- [00:41:28,129 - 00:41:30,949] And something had happened where she had lost a
+- [00:41:30,949 - 00:41:33,769] bunch of money and she was in a financial
+- [00:41:33,769 - 00:41:34,769] struggle.
+- [00:41:34,769 - 00:41:36,579] And the way that she kept on
+- [00:41:36,579 - 00:41:38,390] emphasizing the word money, I need my money.
+- [00:41:38,390 - 00:41:40,069] I lost my money.
+- [00:41:40,069 - 00:41:41,870] And just the tension of it.
+- [00:41:41,870 - 00:41:43,950] It was just this, this, you talk
+- [00:41:43,950 - 00:41:46,030] about listening, like there's a story there.
+- [00:41:46,030 - 00:41:47,030] Absolutely.
+- [00:41:47,030 - 00:41:49,030] And you've laid it out very well there
+- [00:41:49,030 - 00:41:51,030] that you use a little bit of repetition.
+- [00:41:51,030 - 00:41:52,030] I, I don't know.
+- [00:41:52,030 - 00:41:53,030] I don't know.
+- [00:41:53,030 - 00:41:54,030] I don't know.
+- [00:41:54,030 - 00:41:54,530] But the fact that you have
+- [00:41:54,530 - 00:41:55,030] a word, I need my money.
+- [00:41:55,030 - 00:41:57,290] I have lost my money.
+- [00:41:57,290 - 00:42:00,629] That creates it to a large extent.
+- [00:42:00,629 - 00:42:04,249] The repeated words kind of dissolve in the
+- [00:42:04,249 - 00:42:07,870] air and you've got need money, lost money.
+- [00:42:07,870 - 00:42:10,370] The emphasis automatically ends up on those words.
+- [00:42:10,370 - 00:42:11,370] Yeah.
+- [00:42:11,370 - 00:42:12,370] You know, it's funny.
+- [00:42:12,370 - 00:42:13,989] Now that you're saying it back to me in
+- [00:42:13,989 - 00:42:15,609] moments of anger, there's a great simplicity in language.
+- [00:42:15,609 - 00:42:16,689] I need my money.
+- [00:42:16,689 - 00:42:17,729] I lost my money.
+- [00:42:17,729 - 00:42:20,870] There's no room for the highfalutin, whatever.
+- [00:42:20,870 - 00:42:22,030] It's you are in a primal state.
+- [00:42:22,030 - 00:42:23,030] Yeah.
+- [00:42:23,030 - 00:42:26,829] You are, and you also tend to
+- [00:42:26,829 - 00:42:30,629] use that emphatic repetition of certain words
+- [00:42:30,629 - 00:42:33,629] that almost then relates it to song in a way.
+- [00:42:34,229 - 00:42:37,089] It's like lines in the chorus of a song,
+- [00:42:37,910 - 00:42:41,729] which, you know, let's venture back into prehistory.
+- [00:42:41,870 - 00:42:44,069] What was the first ever
+- [00:42:44,069 - 00:42:46,269] art form had to be singing.
+- [00:42:46,870 - 00:42:49,049] You know, we already had expressive voices
+- [00:42:49,050 - 00:42:51,300] because of the development of
+- [00:42:51,300 - 00:42:53,550] syntactical language in our evolution.
+- [00:42:53,750 - 00:42:56,810] So obviously the first music was sung.
+- [00:42:57,510 - 00:42:59,910] And singing depends on rhythm
+- [00:42:59,910 - 00:43:02,310] and repetition to a large extent.
+- [00:43:02,710 - 00:43:05,020] So we revert to it when
+- [00:43:05,020 - 00:43:07,330] we are in an excess of emotion.
+- [00:43:07,590 - 00:43:08,510] That's a great story.
+- [00:43:08,610 - 00:43:10,290] I can absolutely picture that woman.
+- [00:43:10,290 - 00:43:12,470] I can hear what she's saying, and
+- [00:43:12,470 - 00:43:14,650] I would know how to write it.
+- [00:43:16,230 - 00:43:19,030] Beginnings, endings, what matters as you're writing those?
+- [00:43:19,050 - 00:43:22,050] You know, one of the beginnings and endings,
+- [00:43:22,050 - 00:43:24,050] let's talk about beginnings and endings.
+- [00:43:24,050 - 00:43:26,550] First of all, for you as
+- [00:43:26,550 - 00:43:29,050] a writer, when should you begin?
+- [00:43:29,050 - 00:43:30,050] When should you end?
+- [00:43:30,050 - 00:43:33,550] And I find it very difficult
+- [00:43:33,550 - 00:43:37,050] to, I get invited to, let's say,
+- [00:43:37,050 - 00:43:39,550] a college somewhere or even a
+- [00:43:39,550 - 00:43:42,050] high school to talk about writing.
+- [00:43:42,050 - 00:43:45,050] And there's all these people keen on being writers.
+- [00:43:45,050 - 00:43:49,050] And really the only valid message to them is,
+- [00:43:49,050 - 00:43:51,050] don't, don't do it now.
+- [00:43:52,050 - 00:43:53,050] Wait.
+- [00:43:53,050 - 00:43:54,050] Too young.
+- [00:43:54,050 - 00:43:55,050] Too young.
+- [00:43:55,050 - 00:43:58,050] Read for 20 years and then do it.
+- [00:43:58,050 - 00:44:00,550] Because there's a lot of enthusiasm,
+- [00:44:00,550 - 00:44:03,050] a lot of talent amongst young people,
+- [00:44:03,050 - 00:44:05,050] but there's no content yet.
+- [00:44:05,050 - 00:44:07,050] They haven't lived, they haven't
+- [00:44:07,050 - 00:44:09,050] seen things, they don't know much.
+- [00:44:09,050 - 00:44:11,050] You need to know when to start.
+- [00:44:11,050 - 00:44:12,550] And you need to know when
+- [00:44:12,550 - 00:44:14,050] to finish your career as well
+- [00:44:14,050 - 00:44:16,050] before you get worn out and boring.
+- [00:44:16,050 - 00:44:18,050] That's the macro sense.
+- [00:44:18,050 - 00:44:20,050] And in the book, where do
+- [00:44:20,050 - 00:44:22,050] you start and where do you finish?
+- [00:44:22,050 - 00:44:25,050] You don't start when the earth cooled.
+- [00:44:25,050 - 00:44:29,050] That is what a lot of beginning writers get wrong.
+- [00:44:29,050 - 00:44:32,050] They start, they give you the back story.
+- [00:44:32,050 - 00:44:34,550] You've got, let's say, you
+- [00:44:34,550 - 00:44:37,050] have a great line of dialogue,
+- [00:44:37,050 - 00:44:40,050] your character has a great line of dialogue.
+- [00:44:40,050 - 00:44:41,550] They feel they need to tell
+- [00:44:41,550 - 00:44:43,050] us about where you grew up,
+- [00:44:43,050 - 00:44:45,050] where you went to school, who your parents were,
+- [00:44:45,050 - 00:44:47,050] what formed you, all that kind of stuff.
+- [00:44:47,050 - 00:44:49,050] Do not start when the earth cooled.
+- [00:44:49,050 - 00:44:53,050] Start with the action right now.
+- [00:44:53,050 - 00:44:55,550] There's a Latin phrase, in media
+- [00:44:55,550 - 00:44:58,050] res, meaning in the middle of things.
+- [00:44:58,050 - 00:45:00,050] Start in the middle of things.
+- [00:45:00,050 - 00:45:03,050] Don't give all the explanation yet.
+- [00:45:03,050 - 00:45:06,050] Just start with something intriguing and see where it goes.
+- [00:45:06,050 - 00:45:09,050] And where do you end it?
+- [00:45:09,050 - 00:45:12,050] You end it when the story's over.
+- [00:45:12,050 - 00:45:15,050] How do you know when the story's over?
+- [00:45:15,050 - 00:45:16,050] You've just got to judge that.
+- [00:45:16,050 - 00:45:20,050] You've got to judge that on a gut level, instinctively.
+- [00:45:20,050 - 00:45:23,050] One thing that does not work, I've tried this,
+- [00:45:23,050 - 00:45:26,550] I've done a long series, and so
+- [00:45:26,550 - 00:45:30,050] I've had room to experiment a little bit.
+- [00:45:30,050 - 00:45:32,550] We had a thing in television,
+- [00:45:32,550 - 00:45:35,050] see, television developed over the years
+- [00:45:35,050 - 00:45:37,050] a tremendous amount that television used
+- [00:45:37,050 - 00:45:39,050] to be what you would call
+- [00:45:39,050 - 00:45:42,050] a series activity that you would
+- [00:45:42,050 - 00:45:45,050] concentrate on TV before you did whatever
+- [00:45:45,050 - 00:45:46,050] was next.
+- [00:45:46,050 - 00:45:48,050] You would watch it on your TV
+- [00:45:48,050 - 00:45:50,050] and you would do it in your day.
+- [00:45:50,050 - 00:45:53,050] And your grandma still does it.
+- [00:45:53,050 - 00:45:56,050] She sits and watches her show.
+- [00:45:56,050 - 00:45:58,050] But most people don't do that.
+- [00:45:58,050 - 00:46:01,050] It developed into a parallel activity in
+- [00:46:01,050 - 00:46:04,050] as much as now you watch the show
+- [00:46:04,050 - 00:46:05,550] while you're on the phone to
+- [00:46:05,550 - 00:46:07,050] your mother, while you're cooking dinner.
+- [00:46:07,050 - 00:46:09,050] In other words, and we went
+- [00:46:09,050 - 00:46:11,050] through, we had to cope with that.
+- [00:46:11,050 - 00:46:12,550] And so what we would do, we had
+- [00:46:12,550 - 00:46:14,050] this sort of shorthand way of saying it.
+- [00:46:14,050 - 00:46:17,120] would tell you that we're going to tell you. Then
+- [00:46:17,120 - 00:46:20,190] we would tell you. Then we would tell you that we
+- [00:46:20,190 - 00:46:24,320] told you. That sort of, in order to help
+- [00:46:24,320 - 00:46:28,450] people who were very distracted. And I wondered, was I
+- [00:46:28,450 - 00:46:30,770] doing that a little bit too much in the books?
+- [00:46:30,770 - 00:46:33,090] And so I thought, I'm going to try and experiment
+- [00:46:33,090 - 00:46:35,390] where I don't explain everything. I will
+- [00:46:35,390 - 00:46:37,690] give the information. The information will be there,
+- [00:46:37,810 - 00:46:40,250] hiding in plain sight, but I will not
+- [00:46:40,250 - 00:46:42,690] pull it together and make the conclusion. I'll leave
+- [00:46:42,690 - 00:46:46,160] that up to the reader. That happened in
+- [00:46:46,160 - 00:46:49,630] one book very explicitly. In another earlier book,
+- [00:46:50,090 - 00:46:53,620] there was quite a fascinating minor character, quite
+- [00:46:53,620 - 00:46:57,150] a brave woman whose husband was in trouble
+- [00:46:57,150 - 00:46:59,840] and she was brave about it and so on.
+- [00:46:59,840 - 00:47:02,530] And I left it completely unstated what happened to her,
+- [00:47:02,990 - 00:47:06,290] thinking that this character would live on in
+- [00:47:06,290 - 00:47:09,590] the reader's mind and the reader would decide
+- [00:47:09,590 - 00:47:11,630] for themselves what had happened to her.
+- [00:47:12,090 - 00:47:12,330] Yeah.
+- [00:47:12,330 - 00:47:12,350] Yeah.
+- [00:47:12,350 - 00:47:12,370] Yeah.
+- [00:47:12,370 - 00:47:12,390] Yeah.
+- [00:47:12,390 - 00:47:12,410] Yeah.
+- [00:47:12,410 - 00:47:12,430] Yeah.
+- [00:47:12,430 - 00:47:12,450] Yeah.
+- [00:47:12,450 - 00:47:12,470] Yeah.
+- [00:47:12,470 - 00:47:12,510] Yeah.
+- [00:47:12,510 - 00:47:12,530] Yeah.
+- [00:47:12,530 - 00:47:12,550] Yeah.
+- [00:47:12,550 - 00:47:12,650] Yeah.
+- [00:47:12,690 - 00:47:12,970] Yeah.
+- [00:47:12,970 - 00:47:13,010] Yeah.
+- [00:47:13,010 - 00:47:13,090] Yeah.
+- [00:47:15,250 - 00:47:15,490] Yeah.
+- [00:47:15,490 - 00:47:16,310] Yeah.
+- [00:47:21,230 - 00:47:23,670] Yeah.
+- [00:47:24,170 - 00:47:24,250] Yeah.
+- [00:47:24,250 - 00:47:24,590] Yeah.
+- [00:47:25,050 - 00:47:25,190] Yeah.
+- [00:47:25,210 - 00:47:25,650] Yeah.
+- [00:47:28,910 - 00:47:29,510] Yeah.
+- [00:47:32,510 - 00:47:34,210] Yeah.
+- [00:47:36,690 - 00:47:39,790] Yeah.
+- [00:47:39,790 - 00:47:40,810] Yeah.
+- [00:47:41,610 - 00:47:42,090] Yeah.
+- [00:47:42,090 - 00:47:42,390] Yeah.
+- [00:47:42,390 - 00:47:43,810] I want you to do the
+- [00:47:43,810 - 00:47:45,230] work and tell them the story.
+- [00:47:45,810 - 00:47:48,250] You were talking about writing being a second
+- [00:47:48,250 - 00:47:50,690] half of your life kind of thing, right?
+- [00:47:50,750 - 00:47:53,939] The first half is about more indexed
+- [00:47:53,939 - 00:47:57,129] towards collecting, reading, and picking up life experiences.
+- [00:47:57,270 - 00:47:59,089] And then the writing comes a little bit later.
+- [00:48:00,510 - 00:48:02,830] How do you think that varies across genres?
+- [00:48:02,990 - 00:48:04,430] Because, like, intuitively, I'd be
+- [00:48:04,430 - 00:48:05,870] like, hey, you're making up stories.
+- [00:48:05,870 - 00:48:06,970] Why do you need to know stuff?
+- [00:48:06,970 - 00:48:07,629] But no, no, no.
+- [00:48:07,710 - 00:48:10,370] Clearly, I'm missing something in that assumption.
+- [00:48:10,370 - 00:48:13,950] Yeah, I think what you need to—and nothing is
+- [00:48:13,950 - 00:48:17,530] ever all one thing or all the other thing.
+- [00:48:17,530 - 00:48:18,049] Sure, sure.
+- [00:48:18,069 - 00:48:21,519] I mean, I know that in my genre, virtually everybody
+- [00:48:21,519 - 00:48:24,970] that's successful is doing it as a second phase career.
+- [00:48:25,549 - 00:48:31,709] Having done something prior that often does require an audience, either they're a journalist or they're a lawyer
+- [00:48:31,709 - 00:48:37,870] with a jury in mind or something like that, and then they go on to be a writer.
+- [00:48:37,870 - 00:48:39,109] There have been a couple.
+- [00:48:39,110 - 00:48:43,220] There are people that have started fresh in their 20s, early or
+- [00:48:43,220 - 00:48:47,330] mid-20s, that have made a success, but it's very much the minority.
+- [00:48:49,270 - 00:48:55,740] And even though you might be inventing an entirely new genre, because an old guy like me, there's all kinds
+- [00:48:55,740 - 00:49:02,210] of stuff, you know, vampire fiction, this, that, the other, that I have just no concept of what it's about.
+- [00:49:02,770 - 00:49:05,350] But it's about something, and
+- [00:49:05,350 - 00:49:07,930] it's about structure in a sense.
+- [00:49:07,930 - 00:49:08,930] And so what you do have—
+- [00:49:09,110 - 00:49:13,670] What you have to have is enough reading, I think, that you have
+- [00:49:13,670 - 00:49:18,230] internalized the idea that there must be a structure and what structure is.
+- [00:49:19,510 - 00:49:21,520] People are very skeptical when I say I
+- [00:49:21,520 - 00:49:23,530] never make a plan, I never make an outline.
+- [00:49:23,710 - 00:49:26,020] Every single line is improvised on
+- [00:49:26,020 - 00:49:28,330] the spot, and that is absolutely true.
+- [00:49:28,510 - 00:49:32,040] But it is not quite as naked as it
+- [00:49:32,040 - 00:49:35,570] sounds because I've read tens of thousands of books.
+- [00:49:35,570 - 00:49:38,570] So, in fact, I have an enormous internal—
+- [00:49:39,110 - 00:49:44,150] I've read a database of virtually every available plot, virtually every
+- [00:49:44,150 - 00:49:49,190] type of character, virtually every type of cliffhanger or structure or whatever.
+- [00:49:50,010 - 00:49:51,430] I've got it in there somewhere.
+- [00:49:51,990 - 00:49:54,990] So, actually, I have a monster plan and outline.
+- [00:49:56,390 - 00:49:58,910] Yeah, I've been going down the rabbit
+- [00:49:58,910 - 00:50:01,430] hole of just all sorts of different creatives.
+- [00:50:01,430 - 00:50:04,380] And what you realize is that the bank of how much
+- [00:50:04,380 - 00:50:07,330] they've consumed is just so much greater than people would realize.
+- [00:50:07,790 - 00:50:08,390] Martin Scorsese.
+- [00:50:08,390 - 00:50:09,050] He used to watch.
+- [00:50:09,110 - 00:50:10,610] He used to watch a movie every single night.
+- [00:50:11,170 - 00:50:12,430] You look at someone like Ralph Lauren.
+- [00:50:12,590 - 00:50:14,110] People say, hey, you know, what was it
+- [00:50:14,110 - 00:50:15,630] like talking to him in the early days?
+- [00:50:15,970 - 00:50:17,830] He just knew every single thing
+- [00:50:17,830 - 00:50:19,690] about the different kinds of ties.
+- [00:50:20,030 - 00:50:20,770] Talking to a musician.
+- [00:50:20,970 - 00:50:24,650] Musician was saying, hey, the way that you can
+- [00:50:24,650 - 00:50:28,330] remember how things look, I can remember how things sound.
+- [00:50:28,410 - 00:50:30,570] So I can tell you how Oman sounds
+- [00:50:30,570 - 00:50:32,730] versus how Israel sounds versus how China sounds.
+- [00:50:33,130 - 00:50:36,060] And you just realize that when you're talking
+- [00:50:36,060 - 00:50:38,990] to great creatives, it is this process of constant.
+- [00:50:38,990 - 00:50:39,729] Consumption.
+- [00:50:39,729 - 00:50:41,129] But there's even more.
+- [00:50:41,589 - 00:50:45,659] This very naturally created filing bank that
+- [00:50:45,659 - 00:50:49,729] somehow you're pulling from without even realizing.
+- [00:50:50,549 - 00:50:50,689] Absolutely.
+- [00:50:50,930 - 00:50:51,790] In the process of creation.
+- [00:50:51,990 - 00:50:54,609] That is very well put and very well diagnosed.
+- [00:50:54,790 - 00:50:57,049] And that is exactly what happens that you.
+- [00:50:57,430 - 00:51:00,579] I mean, for instance, I remember that the first
+- [00:51:00,579 - 00:51:03,729] Jack Reacher movie with Tom Cruise directed by Chris McQuarrie.
+- [00:51:05,169 - 00:51:05,810] McQuarrie.
+- [00:51:06,149 - 00:51:08,350] I mean, man, that movie crews work hard.
+- [00:51:08,350 - 00:51:08,709] You know.
+- [00:51:08,990 - 00:51:11,200] It's 12, 14 hour day, maybe up
+- [00:51:11,200 - 00:51:13,410] at five in the morning or whatever.
+- [00:51:13,569 - 00:51:14,410] Work all day.
+- [00:51:14,530 - 00:51:14,910] Incredible.
+- [00:51:15,370 - 00:51:16,530] And then what would happen?
+- [00:51:17,109 - 00:51:22,739] McQuarrie invites everybody to his suite and they watch a movie because
+- [00:51:22,739 - 00:51:28,370] it's not that it's like a duty to top up their knowledge.
+- [00:51:28,410 - 00:51:29,669] It is their enthusiasm.
+- [00:51:30,089 - 00:51:31,509] But they end up, they
+- [00:51:31,509 - 00:51:32,930] work all day making a movie.
+- [00:51:33,030 - 00:51:34,209] Then they watch a movie.
+- [00:51:34,209 - 00:51:36,299] And that internal database gets
+- [00:51:36,299 - 00:51:38,390] bigger and bigger and bigger.
+- [00:51:38,510 - 00:51:38,950] More.
+- [00:51:38,990 - 00:51:40,790] And more passionately analyzed.
+- [00:51:41,390 - 00:51:43,250] And you're absolutely right.
+- [00:51:43,250 - 00:51:44,229] Whoever it is.
+- [00:51:44,609 - 00:51:45,890] Interior designer.
+- [00:51:46,390 - 00:51:48,709] They know this stuff because it's their life.
+- [00:51:49,109 - 00:51:51,810] And writers are like that.
+- [00:51:51,810 - 00:51:55,030] It's what we're total consumers.
+- [00:51:55,030 - 00:51:55,970] Actually, we're not.
+- [00:51:56,689 - 00:51:58,370] We're not predominantly a writer.
+- [00:51:58,410 - 00:52:00,089] We're predominantly a reader.
+- [00:52:01,069 - 00:52:02,549] You know, you write one book a year.
+- [00:52:02,549 - 00:52:03,750] You read hundreds.
+- [00:52:04,209 - 00:52:05,489] And so you're much more
+- [00:52:05,489 - 00:52:06,770] of a reader than a writer.
+- [00:52:07,069 - 00:52:08,109] So your internal supply.
+- [00:52:08,109 - 00:52:08,609] You know.
+- [00:52:08,610 - 00:52:13,060] Supply of reference and stimulation is by
+- [00:52:13,060 - 00:52:17,510] the time you get halfway through your life.
+- [00:52:18,110 - 00:52:19,370] Enormous by that point.
+- [00:52:20,850 - 00:52:21,930] Violence.
+- [00:52:22,650 - 00:52:23,990] Making it feel real.
+- [00:52:23,990 - 00:52:25,050] The purpose of it.
+- [00:52:25,350 - 00:52:26,610] What matters with violence?
+- [00:52:27,530 - 00:52:32,790] I think making it feel real is again, it's a bit of
+- [00:52:32,790 - 00:52:38,050] an illusion, a bit like dialogue in as much as most violence.
+- [00:52:38,050 - 00:52:43,430] Most violence in the real world is over really quickly.
+- [00:52:44,930 - 00:52:50,670] And most violence has got very bad medium term effects.
+- [00:52:50,710 - 00:52:57,800] I mean, the thing that you see in the movies where or in a regular story where, you know, somebody is hit
+- [00:52:57,800 - 00:53:04,890] hard and staggered back and then they come back at you and swing at you and back and forth, back and forth.
+- [00:53:05,390 - 00:53:07,790] That does not happen in real life.
+- [00:53:08,050 - 00:53:09,050] And I think that's the thing that's really important.
+- [00:53:09,050 - 00:53:10,840] If you get hit in the head,
+- [00:53:10,840 - 00:53:12,630] you are sick and dizzy for a week.
+- [00:53:12,630 - 00:53:13,950] You know, you're just out of action.
+- [00:53:14,030 - 00:53:14,350] Yeah.
+- [00:53:14,350 - 00:53:15,950] I mean, also, if you watch the
+- [00:53:15,950 - 00:53:17,550] average bar fight, it's just so lame.
+- [00:53:17,550 - 00:53:17,930] It is.
+- [00:53:17,930 - 00:53:20,070] It's just swiping and brawling.
+- [00:53:20,070 - 00:53:20,490] It is.
+- [00:53:20,810 - 00:53:22,010] There's no style to it.
+- [00:53:22,010 - 00:53:23,330] There's no technique to it.
+- [00:53:23,550 - 00:53:25,810] So again, violence is something
+- [00:53:25,810 - 00:53:28,070] that is nowhere near realistic.
+- [00:53:28,850 - 00:53:33,390] Um, and why do we, it's a really interesting question.
+- [00:53:33,390 - 00:53:35,310] Why do we want it in a story?
+- [00:53:35,310 - 00:53:36,450] Why do we like it?
+- [00:53:37,070 - 00:53:37,930] And.
+- [00:53:37,930 - 00:53:40,989] Uh, the answer to that, I think
+- [00:53:40,989 - 00:53:44,049] is it is paradoxical because generally speaking out
+- [00:53:44,049 - 00:53:46,989] of the population as a whole, people who
+- [00:53:46,989 - 00:53:49,930] read books are the most thoughtful, probably the
+- [00:53:49,930 - 00:53:53,950] most educated, the most, uh, in some way,
+- [00:53:53,950 - 00:53:57,970] what you would call not virtuous, but you
+- [00:53:57,970 - 00:54:00,109] know, they're on one side of the divide.
+- [00:54:00,730 - 00:54:03,010] Why do they want violence in the book?
+- [00:54:03,230 - 00:54:05,530] And I think it is because they know.
+- [00:54:05,950 - 00:54:07,930] That in a civilized society.
+- [00:54:07,930 - 00:54:08,890] You shouldn't have it.
+- [00:54:08,890 - 00:54:10,169] You should have law.
+- [00:54:10,169 - 00:54:12,069] You should have due process.
+- [00:54:12,069 - 00:54:16,149] You should have rights for the accused.
+- [00:54:16,569 - 00:54:19,609] People know that as that's the price of civilization.
+- [00:54:19,609 - 00:54:21,109] That's how we organize ourselves.
+- [00:54:21,290 - 00:54:21,930] They get that.
+- [00:54:21,930 - 00:54:22,830] They understand it.
+- [00:54:23,410 - 00:54:24,270] They approve of it.
+- [00:54:24,270 - 00:54:25,659] They would not like to
+- [00:54:25,659 - 00:54:27,049] see the real world any different.
+- [00:54:27,589 - 00:54:31,339] But man, is it frustrating if somebody has stolen your
+- [00:54:31,339 - 00:54:35,089] car, you just want to smash him in the face.
+- [00:54:35,089 - 00:54:35,629] Oh yeah.
+- [00:54:35,629 - 00:54:37,049] You don't want to go through all this.
+- [00:54:37,049 - 00:54:37,890] Big old red hook.
+- [00:54:37,930 - 00:54:38,589] Yeah.
+- [00:54:38,589 - 00:54:43,599] You know, so that the real world that they're committed to, that they feel
+- [00:54:43,599 - 00:54:48,609] like they, they need to have and support in a good, solid, liberal way.
+- [00:54:48,609 - 00:54:51,149] And I don't mean liberal, uh, politically necessarily.
+- [00:54:51,149 - 00:54:52,030] Lower case L.
+- [00:54:52,089 - 00:54:52,569] Yeah.
+- [00:54:52,569 - 00:54:56,249] I just mean in terms of modern civilization, they know that
+- [00:54:56,249 - 00:54:59,930] we need these rules and safeguards, but it is terribly frustrating.
+- [00:54:59,930 - 00:55:02,730] And so they love the consolation
+- [00:55:02,730 - 00:55:05,530] of being in a fictional universe.
+- [00:55:05,530 - 00:55:06,790] They know it's fictional.
+- [00:55:07,030 - 00:55:07,890] But they love to see.
+- [00:55:07,890 - 00:55:11,069] It happen as a release, as a consolation.
+- [00:55:11,370 - 00:55:15,150] So then as you're writing violence and we're talking about
+- [00:55:15,150 - 00:55:18,930] the illusion and bringing that to life, what matters there?
+- [00:55:18,930 - 00:55:22,440] And do you feel like it's the same sort of thing
+- [00:55:22,440 - 00:55:25,950] we're pulling from a reference bank of violent stories that you've read?
+- [00:55:26,109 - 00:55:26,990] Yeah, largely.
+- [00:55:26,990 - 00:55:32,380] And, and also lived, you know, cause I, I grew up in a, in
+- [00:55:32,380 - 00:55:37,770] a very, it was a menu, huge manufacturing city and it was very, uh, inarticulate.
+- [00:55:37,890 - 00:55:38,670] It was, uh, it was a very,
+- [00:55:38,670 - 00:55:39,450] it wasn't the ideal place to live.
+- [00:55:39,450 - 00:55:40,069] Some people were afraid of alguns translated words.
+- [00:55:40,069 - 00:55:40,850] They let me do the trash.
+- [00:55:40,850 - 00:55:41,650] The end in Korean laughs them from somewhere.
+- [00:55:41,650 - 00:55:42,240] And I, you knew that it was like the ambient
+- [00:55:42,240 - 00:55:42,830] of that passive social ogromizationacion of the local never best.
+- [00:55:42,830 - 00:55:43,549] It was just a really scaring place.
+- [00:55:43,549 - 00:55:44,270] I, I really enjoyed it.
+- [00:55:44,270 - 00:55:44,569] Uh, it was quite a complicated.
+- [00:55:44,569 - 00:55:45,749] And and so there was, there were
+- [00:55:45,749 - 00:55:46,930] very serious leaders fighting all the time.
+- [00:55:47,170 - 00:55:47,690] On peace process.
+- [00:55:47,690 - 00:55:48,070] And there were the key
+- [00:55:48,070 - 00:55:48,450] levels connecting people old and younger.
+- [00:55:48,470 - 00:55:48,740] In my concept, human2016 was like the
+- [00:55:48,740 - 00:55:49,010] northern program, which was a primary path level.
+- [00:55:49,010 - 00:55:49,530] But at the time there was no social stuff.
+- [00:55:49,530 - 00:55:50,109] And you know, I was, I seen it all.
+- [00:55:50,109 - 00:55:52,599] All the people who were doing their jobs,
+- [00:55:52,599 - 00:55:55,089] or said that people who couldn't work instead of
+- [00:55:55,589 - 00:55:59,010] who were helping me.
+- [00:56:07,890 - 00:56:11,810] ballet moves as it were for that but
+- [00:56:11,810 - 00:56:15,730] mainly it's about tuning into uh people's secret hidden
+- [00:56:15,730 - 00:56:19,639] desires and i when i did bookstore events or public
+- [00:56:19,639 - 00:56:23,549] events i i used to have a line i said the
+- [00:56:23,549 - 00:56:27,219] the reason why you like reacher is that
+- [00:56:27,219 - 00:56:30,890] even though you are good citizens you are civilized
+- [00:56:30,890 - 00:56:34,759] people you are all of the good things even though
+- [00:56:34,759 - 00:56:38,629] you all have a list of 10 people you would
+- [00:56:38,629 - 00:56:43,299] cheerfully shoot in the head and they do you know and
+- [00:56:43,299 - 00:56:47,970] they see it happen on the page and it is a
+- [00:56:47,970 - 00:56:51,620] release it is uh it is getting the
+- [00:56:51,620 - 00:56:55,270] satisfaction without actually see without actually having it
+- [00:56:55,270 - 00:56:58,030] in real life clothing clothing
+- [00:56:58,030 - 00:57:00,790] is your writing how how does
+- [00:57:00,790 - 00:57:00,830] clothing is your writing how how does
+- [00:57:00,830 - 00:57:00,870] clothing is your writing how how does
+- [00:57:00,870 - 00:57:04,150] clothing inform character i think it is a symbol
+- [00:57:04,150 - 00:57:07,430] you know it's a very quick way of describing a
+- [00:57:07,430 - 00:57:11,690] type of person um that you we all have a
+- [00:57:11,690 - 00:57:15,950] kind of internal comparative database of uh you know if
+- [00:57:15,950 - 00:57:19,550] you see an old an old old guy with a
+- [00:57:19,550 - 00:57:23,150] long gray ponytail and uh double denim you kind of know
+- [00:57:23,150 - 00:57:26,960] who that person is yeah uh you see a
+- [00:57:26,960 - 00:57:30,770] guy wearing um you know lace-up oxfords and and
+- [00:57:30,770 - 00:57:34,740] and and pleated chinos or something like that you
+- [00:57:34,740 - 00:57:38,710] know who that guy is there they are quick
+- [00:57:38,710 - 00:57:42,390] references i think like teeth as well i once
+- [00:57:42,390 - 00:57:46,070] had a fan who was a dental hygienist and she
+- [00:57:46,070 - 00:57:49,450] would write in about every reference to the
+- [00:57:49,450 - 00:57:52,830] appearance of people's teeth in books and i
+- [00:57:52,830 - 00:57:56,380] found that fascinating because i realized i was
+- [00:57:56,380 - 00:57:59,930] doing that instinctively again kind of trying to
+- [00:58:00,770 - 00:58:03,590] come up a character through a quick visual
+- [00:58:03,590 - 00:58:06,410] reference uh you know a snaggle tooth person a
+- [00:58:06,410 - 00:58:09,530] person with missing teeth a person with a wolf-like
+- [00:58:09,530 - 00:58:12,650] teeth or something like that um she was obviously
+- [00:58:12,650 - 00:58:14,840] a professional and very interested in it and
+- [00:58:14,840 - 00:58:17,030] was picking up on everything and i wasn't really
+- [00:58:17,030 - 00:58:20,870] realizing i was doing it it was a shorthand
+- [00:58:20,870 - 00:58:24,710] way of describing people all right we're uh you're
+- [00:58:24,710 - 00:58:27,470] invited to a university you're given a semester to
+- [00:58:27,470 - 00:58:30,230] teach a class on writing a seminar in writing how
+- [00:58:30,230 - 00:58:30,450] you structure a class on writing how do you
+- [00:58:30,450 - 00:58:30,670] structure a class on writing how do you structure
+- [00:58:30,670 - 00:58:34,230] the curriculum what are the core things that you're
+- [00:58:34,230 - 00:58:37,790] trying to tell people uh i would turn down
+- [00:58:37,790 - 00:58:41,200] that gig i absolutely would i don't think i'm i
+- [00:58:41,200 - 00:58:44,610] don't think i'm as good as as a teacher i'm pretty
+- [00:58:44,610 - 00:58:48,110] sure that writing is not teachable i think
+- [00:58:48,110 - 00:58:51,610] plenty of shortcuts within the business of writing are
+- [00:58:51,610 - 00:58:54,480] totally teachable you know how to get a good agent
+- [00:58:54,480 - 00:58:57,350] what pitfalls to avoid how to relate to a publisher
+- [00:58:57,350 - 00:58:58,830] how to do this or that
+- [00:58:58,830 - 00:59:00,310] i think absolutely that can be taught
+- [00:59:00,670 - 00:59:03,810] based on experience of what has worked and what
+- [00:59:03,810 - 00:59:06,950] hasn't but actually how to write i'm not sure
+- [00:59:07,830 - 00:59:10,950] uh can be taught when you say not teachable
+- [00:59:10,950 - 00:59:14,070] does that also mean not learnable or can something be
+- [00:59:14,070 - 00:59:15,770] yes you can learn how to do it
+- [00:59:15,770 - 00:59:17,470] but that doesn't mean that it can be taught
+- [00:59:18,110 - 00:59:21,090] i i think you absolutely can learn to do it
+- [00:59:21,090 - 00:59:24,070] and i would i would allow possibly the the possibility
+- [00:59:24,070 - 00:59:27,150] that something that might take you 10 years of
+- [00:59:27,150 - 00:59:30,230] reading before you figure it out for yourself could
+- [00:59:30,670 - 00:59:32,660] take a little longer you could read
+- [00:59:32,660 - 00:59:34,650] it and understand something of the original writing
+- [00:59:34,650 - 00:59:37,060] and that's what this journey of very
+- [00:59:37,060 - 00:59:39,470] different experiences means it's a journey naturally
+- [00:59:39,470 - 00:59:41,870] i think being an Accounting
+- [00:59:41,870 - 00:59:45,110] Internet link that you can click in to
+- [00:59:45,110 - 00:59:48,350] as the screen opener it is right now
+- [00:59:48,350 - 00:59:49,610] it is now a learning experience it is
+- [00:59:49,610 - 00:59:50,870] life your experience with the world and today's
+- [00:59:50,870 - 00:59:55,750] two-day journey going post мне
+- [00:59:55,750 - 00:59:59,610] driver
+- [00:59:59,610 - 00:59:59,910] an account
+- [00:59:59,910 - 01:00:00,630] law
+- [01:00:00,630 - 01:00:02,390] I've got musician friends.
+- [01:00:02,390 - 01:00:04,300] In fact, I made a CD
+- [01:00:04,300 - 01:00:06,210] with a couple of musician friends.
+- [01:00:06,310 - 01:00:06,950] They did the music.
+- [01:00:07,050 - 01:00:07,770] I did the lyrics.
+- [01:00:07,910 - 01:00:08,350] Oh, cool.
+- [01:00:08,750 - 01:00:09,550] Totally cool.
+- [01:00:09,650 - 01:00:10,790] Just the best fun ever.
+- [01:00:11,490 - 01:00:14,710] And hanging out with them, you know, structurally,
+- [01:00:14,710 - 01:00:17,930] biologically, our brains are all the same, obviously.
+- [01:00:18,590 - 01:00:22,100] But it's almost like there are little tubes that in my brain,
+- [01:00:22,100 - 01:00:25,610] some of them are big and fat and can let things through.
+- [01:00:25,610 - 01:00:28,210] And others are collapsed, you know, like
+- [01:00:28,210 - 01:00:30,810] flat tires that nothing will get through.
+- [01:00:31,270 - 01:00:32,550] And their brains are different.
+- [01:00:32,850 - 01:00:35,870] They've got different tubes open and different tubes closed.
+- [01:00:36,630 - 01:00:40,270] And it just, if you are a musician, you are.
+- [01:00:40,470 - 01:00:41,990] And if you're not, you never will be.
+- [01:00:42,990 - 01:00:43,950] Last question.
+- [01:00:44,090 - 01:00:44,730] You're English.
+- [01:00:45,570 - 01:00:47,850] Why has so much good writing
+- [01:00:47,850 - 01:00:50,130] come from Scotland, from England, from Ireland?
+- [01:00:50,270 - 01:00:51,430] What is it about this part of the world?
+- [01:00:51,870 - 01:00:55,430] I think it's interesting.
+- [01:00:55,610 - 01:00:58,110] Different answers for each of those different countries.
+- [01:00:59,570 - 01:01:01,840] I think Scotland is, I mean,
+- [01:01:01,840 - 01:01:04,110] England is the center of the UK.
+- [01:01:04,770 - 01:01:07,040] And all the power lies exactly
+- [01:01:07,040 - 01:01:09,310] where we are right now in London.
+- [01:01:09,890 - 01:01:11,720] And I think Scottish people
+- [01:01:11,720 - 01:01:13,550] feel neglected and resentful of that.
+- [01:01:13,690 - 01:01:18,210] And so they build up an alternative culture that's theirs.
+- [01:01:18,810 - 01:01:21,550] I think in Ireland, it's very clear in Ireland.
+- [01:01:21,550 - 01:01:23,290] I love Ireland for this reason.
+- [01:01:23,710 - 01:01:24,890] That if you go there.
+- [01:01:26,250 - 01:01:26,830] So.
+- [01:01:27,110 - 01:01:27,630] They,
+- [01:01:27,810 - 01:01:29,290] they give you a chance.
+- [01:01:29,530 - 01:01:30,610] Whoever you are.
+- [01:01:31,010 - 01:01:33,110] You're not a writer is just some guy
+- [01:01:33,110 - 01:01:35,210] you're in the pub with a bunch of.
+- [01:01:35,230 - 01:01:35,730] Friends.
+- [01:01:35,730 - 01:01:38,230] You start to tell a joke or you start
+- [01:01:38,230 - 01:01:40,730] to tell a story, whatever they will give you a
+- [01:01:40,730 - 01:01:41,230] chance.
+- [01:01:41,570 - 01:01:43,270] Maybe it's only five seconds.
+- [01:01:43,290 - 01:01:45,250] Maybe it's only 10 seconds, but you've.
+- [01:01:45,830 - 01:01:47,840] The stage to state your case
+- [01:01:47,840 - 01:01:49,850] and they will listen to you.
+- [01:01:49,850 - 01:01:51,070] And I think that's that.
+- [01:01:52,050 - 01:01:53,580] Uh, people grow up feeling that
+- [01:01:53,580 - 01:01:55,110] when we're validated there's no fear.
+- [01:01:55,130 - 01:01:55,450] Mm-hmm.
+- [01:01:55,610 - 01:02:00,050] they will be heard, not for long if they're crap,
+- [01:02:00,050 - 01:02:02,910] but they will give you the chance to be heard.
+- [01:02:02,910 - 01:02:03,930] I think that's huge.
+- [01:02:03,930 - 01:02:05,080] You know, that reminds me
+- [01:02:05,080 - 01:02:06,230] of a bunch of Irish friends,
+- [01:02:06,230 - 01:02:07,070] bunch of Irish friends.
+- [01:02:07,070 - 01:02:09,810] I was trying to think about how were they different
+- [01:02:09,810 - 01:02:11,250] from my American friends?
+- [01:02:11,250 - 01:02:12,520] And the way that they're
+- [01:02:12,520 - 01:02:13,790] the same is that, you know,
+- [01:02:13,790 - 01:02:15,210] they're pretty career oriented,
+- [01:02:15,210 - 01:02:16,720] but the way that they're different
+- [01:02:16,720 - 01:02:18,230] is all of them to a T.
+- [01:02:18,230 - 01:02:19,210] They know how to tell a joke.
+- [01:02:19,210 - 01:02:20,350] They know how to tell a story.
+- [01:02:20,350 - 01:02:21,190] Exactly.
+- [01:02:21,190 - 01:02:22,250] And one of the things I
+- [01:02:22,250 - 01:02:23,310] noticed that when I was in Ireland
+- [01:02:23,310 - 01:02:25,950] is like, if you could go to the pub
+- [01:02:25,950 - 01:02:27,350] and you can tell a good story
+- [01:02:27,350 - 01:02:28,600] and you can keep people
+- [01:02:28,600 - 01:02:29,850] engaged, you can make people laugh,
+- [01:02:29,850 - 01:02:34,190] you can just hook them in and keep them there,
+- [01:02:34,190 - 01:02:35,290] you're part of the squad.
+- [01:02:35,290 - 01:02:36,350] Right, you are.
+- [01:02:36,350 - 01:02:38,780] And you get to be that
+- [01:02:38,780 - 01:02:41,210] because they give you the chance.
+- [01:02:41,210 - 01:02:43,470] If you seize it, then you have the space,
+- [01:02:43,470 - 01:02:47,090] you have the table, you know, you have the platform.
+- [01:02:47,090 - 01:02:50,450] And I think that encourages them,
+- [01:02:50,450 - 01:02:53,290] certainly emboldens people and encourages them
+- [01:02:53,290 - 01:02:55,670] and they think, yeah, I can do this.
+- [01:02:55,670 - 01:02:58,330] Well, you are welcome on How I Write anytime.
+- [01:02:58,330 - 01:02:59,330] This was so fun.
+- [01:02:59,330 - 01:03:00,250] It was great to meet you.
+- [01:03:00,250 - 01:03:01,090] Good to meet you too.
+- [01:03:01,090 - 01:03:03,730] And thank you very much for the opportunity.
+- [01:03:03,730 - 01:03:04,530] Yeah.

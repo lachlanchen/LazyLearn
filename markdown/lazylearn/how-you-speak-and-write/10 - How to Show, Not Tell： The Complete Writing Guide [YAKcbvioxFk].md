@@ -1,0 +1,483 @@
+# Transcript
+
+Source: lazylearn/how-you-speak-and-write/10 - How to Show, Not Tell： The Complete Writing Guide [YAKcbvioxFk].webm
+
+- [00:00:00,000 - 00:00:10,000] The Girl Was Scared of the Wilderness
+- [00:00:10,000 - 00:00:14,000] The girl was scared of the wilderness, her heart pounding at every frightening noise.
+- [00:00:14,000 - 00:00:20,000] But suddenly her fear disappeared. She touched the ground, and it felt like her new guardian.
+- [00:00:20,000 - 00:00:22,000] What's wrong with this picture?
+- [00:00:22,000 - 00:00:29,000] Well, for one, this passage doesn't actually paint much of a picture, and it fails to make me feel anything as a reader.
+- [00:00:29,000 - 00:00:34,000] That's the core problem with writing that relies too much on telling.
+- [00:00:34,000 - 00:00:40,000] We're told the girl is scared, that the noises are frightening, and that this place feels like a guardian.
+- [00:00:40,000 - 00:00:43,000] Yet there isn't much evidence to back up those claims.
+- [00:00:43,000 - 00:00:47,000] Show-don't-tell is a phrase you've probably heard often in the writing community.
+- [00:00:47,000 - 00:00:50,000] Author K.M. Weiland best captures the distinction.
+- [00:00:50,000 - 00:00:54,000] Showing dramatizes, telling summarizes.
+- [00:00:54,000 - 00:00:58,000] But it can be hard to identify harmful instances of telling in your own writing.
+- [00:00:58,000 - 00:00:59,000] Telling is a form of self-reliance.
+- [00:00:59,000 - 00:01:01,000] Telling is not inherently bad.
+- [00:01:01,000 - 00:01:04,000] In fact, all novels are a blend of telling and showing.
+- [00:01:04,000 - 00:01:07,000] You don't always need to show instead of tell.
+- [00:01:07,000 - 00:01:12,000] If that were the case, all stories would be ridiculously long and filled with unnecessary descriptions.
+- [00:01:12,000 - 00:01:19,000] Telling is useful for quickly conveying the passage of time or presenting important facts to the reader without belaboring the point.
+- [00:01:19,000 - 00:01:25,000] Take a look at the opening of the children's novel The Secret Garden by Frances Hodgson Burnett.
+- [00:01:25,000 - 00:01:28,000] When Mary Lennox was sent to Misselthwaite Manor
+- [00:01:28,000 - 00:01:34,000] to live with her uncle, everybody said she was the most disagreeable-looking child ever seen.
+- [00:01:34,000 - 00:01:36,000] It was true, too.
+- [00:01:36,000 - 00:01:43,000] She had a little thin face and a little thin body, thin light hair and a sour expression.
+- [00:01:43,000 - 00:01:51,000] Her hair was yellow and her face was yellow because she had been born in India and had always been ill in one way or another.
+- [00:01:51,000 - 00:01:57,000] We're told some information about Mary being a disagreeable-looking child who's always been ill.
+- [00:01:57,000 - 00:02:04,000] But that statement is immediately supported by the visual proof of her thin face and hair, along with her sour expression.
+- [00:02:04,000 - 00:02:13,000] If someone flags your writing for too much telling, that likely means you need to provide details or a strong narrative voice to make the reader feel something.
+- [00:02:13,000 - 00:02:20,000] Good writing invites the reader to visualize the scene and experience the emotions themselves, rather than being told how to feel.
+- [00:02:20,000 - 00:02:25,000] In his TED Talk, The Clues to a Great Story, Pixar writer and director Andrew Stanton proposes the uniformity of the story.
+- [00:02:25,000 - 00:02:26,000] The story is a story of a man and a woman.
+- [00:02:26,000 - 00:02:29,000] The story proposes the unifying theory of two plus two.
+- [00:02:29,000 - 00:02:30,000] He says,
+- [00:02:30,000 - 00:02:32,000] Make the audience put things together.
+- [00:02:32,000 - 00:02:35,000] Don't give them four. Give them two plus two.
+- [00:02:35,000 - 00:02:36,000] The opening of
+- [00:02:38,000 - 00:02:43,000] relies entirely on showing the audience the equation without giving them the answer.
+- [00:02:43,000 - 00:02:46,000] And he describes why that approach is effective.
+- [00:02:46,000 - 00:02:51,000] Storytelling without dialogue, it's the purest form of cinematic storytelling.
+- [00:02:51,000 - 00:02:54,000] It's the most inclusive approach you can take.
+- [00:02:54,000 - 00:02:56,000] It confirms something I really haven't seen before.
+- [00:02:56,000 - 00:03:00,000] In the end, the audience wants to work for their meal.
+- [00:03:00,000 - 00:03:03,000] They just don't want to know they are doing that.
+- [00:03:03,000 - 00:03:09,000] That's your job as the storyteller, to hide the fact that you are making them work for their meal.
+- [00:03:09,000 - 00:03:11,000] We are born problem solvers.
+- [00:03:11,000 - 00:03:15,000] We are compelled to deduce and to deduct.
+- [00:03:15,000 - 00:03:17,000] That's what we do in real life.
+- [00:03:17,000 - 00:03:22,000] It is this well-organized absence of information that draws us in.
+- [00:03:22,000 - 00:03:25,000] There is a reason we are all attracted to an infant or a puppy.
+- [00:03:25,000 - 00:03:32,000] It's not just that they're damn cute. It's because they can't completely express what they're thinking and what their intentions are.
+- [00:03:32,000 - 00:03:38,000] And it's like a magnet. We can't stop ourselves from wanting to complete the sentence and fill it in.
+- [00:03:38,000 - 00:03:43,000] The same principle is true for other non-visual modes of storytelling.
+- [00:03:43,000 - 00:03:49,000] The key to making your audience care in fiction is to imply your meaning, rather than always pointing it out.
+- [00:03:49,000 - 00:03:53,000] Readers love the process of discovery and solving puzzles.
+- [00:03:53,000 - 00:04:04,000] Before we dive into some practical strategies, I want to take a two-minute detour to explore the origins of Show, Don't Tell as a writing mantra, since it's not often discussed.
+- [00:04:04,000 - 00:04:17,000] In his 2004 book Creative Writing and the New Humanities, scholar Paul Dawson describes how the novel transformed across the 19th and 20th centuries with the rise of realism as a literary movement.
+- [00:04:17,000 - 00:04:23,000] Realism aims to tell the stories of ordinary people with complete honesty, rather than romanticizing them.
+- [00:04:23,000 - 00:04:25,000] Dawson notes,
+- [00:04:39,000 - 00:04:51,000] Literary critic Percy Lubbock praised those 19th century realists for giving the novel a defined aesthetic, and it's his 1921 book The Craft of Fiction that likely popularized the idea of showing versus telling.
+- [00:04:51,000 - 00:04:52,000] He says,
+- [00:04:53,000 - 00:05:02,000] The art of fiction does not begin until the novelist thinks of his story as a matter to be shown, to be so exhibited that it will tell itself.
+- [00:05:02,000 - 00:05:09,000] Authors like Virginia Woolf both praised and criticized Lubbock for confining the novel writing craft to a formal system.
+- [00:05:09,000 - 00:05:13,000] His ideas were incredibly influential in the literary world.
+- [00:05:13,000 - 00:05:21,000] Basically, the intention of this advice is to turn the author into an invisible narrator, and avoid breaking the reader's immersion in the story.
+- [00:05:21,000 - 00:05:27,000] As Hardy makes a similar observation in her 2016 writing guide Understanding Show, Don't Tell,
+- [00:05:27,000 - 00:05:29,000] A common rule of thumb.
+- [00:05:29,000 - 00:05:32,000] As long as it feels like the character is thinking it, you're usually okay.
+- [00:05:32,000 - 00:05:38,000] But as soon as it sounds like the author butting in to explain things, you've probably fallen into telling.
+- [00:05:38,000 - 00:05:44,000] If you want readers to experience the story's emotions on a gut level, you've got to know when to show.
+- [00:05:44,000 - 00:05:50,000] Generally speaking, moments involving emotions, opinions, or sensations are best shown rather than told.
+- [00:05:50,000 - 00:05:54,000] Here are six guiding principles for stronger showing.
+- [00:05:54,000 - 00:05:58,000] 1. Use evidence to support your claims
+- [00:05:58,000 - 00:06:07,000] If a narrator says her husband is a kind-hearted person, or the protagonist believes his best friend is guilty of murder, what led them to that conclusion?
+- [00:06:07,000 - 00:06:13,000] Give the reader the same evidence the character uses when it comes to assumptions or opinions.
+- [00:06:13,000 - 00:06:19,000] Author Chuck Pumpernickel advises a ban on thought verbs like thinks, knows, understands, realizes, and thinks.
+- [00:06:19,000 - 00:06:20,000] Author Chuck Pumpernickel advises a ban on thought verbs like thinks, knows, understands, realizes, and thinks.
+- [00:06:20,000 - 00:06:23,000] Author Chuck Pumpernickel advises a ban on thought verbs like thinks, knows, understands, believes, wants, remembers, and imagines.
+- [00:06:23,000 - 00:06:24,000] Author Chuck Pumpernickel advises a ban on thought verbs like thinks, knows, understands, believes, wants, remembers, and imagines.
+- [00:06:24,000 - 00:06:29,000] He talks about unpacking scenes so that the reader feels and thinks what the characters are feeling and thinking.
+- [00:06:29,000 - 00:06:31,000] He gives this example.
+- [00:06:31,000 - 00:06:32,000] Instead of saying,
+- [00:06:32,000 - 00:06:34,000] Adam knew Gwen liked him,
+- [00:06:34,000 - 00:06:35,000] you'll have to say,
+- [00:06:35,000 - 00:06:40,000] Between classes, Gwen was always leaned on his locker when he'd go to open it.
+- [00:06:40,000 - 00:06:44,000] She'd roll her eyes and shove off of one foot, leaving a black heel mark on the painted metal.
+- [00:06:44,000 - 00:06:47,000] But she also loved the smell of her perfume.
+- [00:06:47,000 - 00:06:49,000] The combination lock would still be warm from her eyes.
+- [00:06:49,000 - 00:06:54,000] And the next break, Gwen would be leaned there again.
+- [00:06:54,000 - 00:06:55,000] Pumpernickel adds,
+- [00:06:55,000 - 00:07:01,000] Instead of characters knowing anything, you must now present the details that allow the reader to know them.
+- [00:07:01,000 - 00:07:07,000] Instead of a character wanting something, you must now describe the thing so that the reader wants it.
+- [00:07:07,000 - 00:07:11,000] You can pull readers into the story by presenting evidence,
+- [00:07:11,000 - 00:07:14,000] whether that's a visual detail or a piece of dialogue,
+- [00:07:14,000 - 00:07:18,000] and letting them come to their own conclusions about the impression you're trying to create.
+- [00:07:18,000 - 00:07:20,000] You can also tell the story by presenting evidence,
+- [00:07:20,000 - 00:07:22,000] or by presenting evidence that you're trying to create.
+- [00:07:22,000 - 00:07:25,000] Number 2. Replace the abstract with the concrete.
+- [00:07:25,000 - 00:07:30,000] In particular, be careful about directly stating a character's feelings.
+- [00:07:30,000 - 00:07:34,000] The blog Novel Writing Help by Harvey Chapman gives a great before and after example.
+- [00:07:34,000 - 00:07:35,000] Telling,
+- [00:07:35,000 - 00:07:37,000] After his first kiss with Samantha,
+- [00:07:37,000 - 00:07:42,000] Toby walked home feeling happier than he'd ever felt in all his 13 years.
+- [00:07:42,000 - 00:07:43,000] Showing,
+- [00:07:43,000 - 00:07:45,000] After his first kiss with Samantha,
+- [00:07:45,000 - 00:07:48,000] Toby couldn't keep the goofy grin off his face all the way home.
+- [00:07:48,000 - 00:07:51,000] He jumped clean over it, didn't come close to tripping.
+- [00:07:51,000 - 00:07:54,000] Chapman further explains why the changes work.
+- [00:07:54,000 - 00:07:59,000] Happiness is an abstract concept and needs to be demonstrated
+- [00:07:59,000 - 00:08:03,000] with concrete details .
+- [00:08:03,000 - 00:08:09,000] So, you can often replace emotions with actions that allow the reader to infer the emotion.
+- [00:08:09,000 - 00:08:14,000] Also, be wary of descriptions that use opinion-related adjectives, like beautiful or strange.
+- [00:08:14,000 - 00:08:16,000] In a first draft, I might write,
+- [00:08:16,000 - 00:08:18,000] The dark forest felt eerie.
+- [00:08:18,000 - 00:08:22,000] Okay, maybe it feels eerie to the character, but the reader needs to feel it too.
+- [00:08:22,000 - 00:08:25,000] I need to convince the reader that it's eerie using evidence.
+- [00:08:25,000 - 00:08:29,000] The forest hummed with the cries of children long dead.
+- [00:08:29,000 - 00:08:31,000] That's better. Sufficiently eerie.
+- [00:08:31,000 - 00:08:36,000] Replace adjective labels with details that allow the reader to interpret the atmosphere on their own.
+- [00:08:36,000 - 00:08:44,000] A trick for identifying when you're in abstract territory is to ask a question that Jeff Gerk poses in his book The First 50 Pages.
+- [00:08:44,000 - 00:08:46,000] Can the camera see it?
+- [00:08:46,000 - 00:08:48,000] Almost all examples of showing contain a question.
+- [00:08:48,000 - 00:08:51,000] It's a great way to contain a detail that can be visualized,
+- [00:08:51,000 - 00:08:55,000] although you'll often want to combine those visuals with smell, touch, taste, and sound.
+- [00:08:55,000 - 00:09:02,000] Author Jerry Jenkins provides great examples of replacing abstract emotions with concrete actions on his blog.
+- [00:09:02,000 - 00:09:04,000] Cold? Don't tell me, show me.
+- [00:09:04,000 - 00:09:09,000] Your character pulls her collar up, tightens her scarf, shoves her hands deep into her pockets,
+- [00:09:09,000 - 00:09:11,000] turns her face away from the biting wind.
+- [00:09:11,000 - 00:09:14,000] Tired? He can yawn, groan, stretch.
+- [00:09:14,000 - 00:09:16,000] His eyes can look puffy. His shoulders could slump.
+- [00:09:16,000 - 00:09:17,000] Another character might say,
+- [00:09:17,000 - 00:09:20,000] Didn't you sleep last night? You look shot.
+- [00:09:20,000 - 00:09:27,000] Another way of thinking about this camera idea is to consider the effect and not the cause of a particular detail.
+- [00:09:27,000 - 00:09:31,000] Take a look at these additional examples from Jerry Jenkins.
+- [00:09:31,000 - 00:09:34,000] The temperature fell and the ice reflected the sun.
+- [00:09:34,000 - 00:09:40,000] Bill's nose burned in the frigid air and he squinted against the sun reflecting off the street.
+- [00:09:40,000 - 00:09:43,000] Susie was blind.
+- [00:09:43,000 - 00:09:46,000] Susie felt for the bench with a white cane.
+- [00:09:46,000 - 00:09:48,000] It was late fall.
+- [00:09:48,000 - 00:09:50,000] Leaves crunched beneath his feet.
+- [00:09:50,000 - 00:09:55,000] In the first example, the cold temperature is the cause of specific effects on the character,
+- [00:09:55,000 - 00:09:58,000] namely Bill's nose burning in the frigid air.
+- [00:09:58,000 - 00:10:04,000] Instead of being stated outright, the details are instead shown through how the character interacts with the world around them,
+- [00:10:04,000 - 00:10:09,000] like leaves crunching beneath their feet, which makes the scene more visual.
+- [00:10:09,000 - 00:10:14,000] Substitute vague descriptions with specific sensory details.
+- [00:10:14,000 - 00:10:17,000] Above all, showing relies on specificity.
+- [00:10:17,000 - 00:10:21,000] Unique sensory details make feelings and scenes jump off the page.
+- [00:10:21,000 - 00:10:26,000] Author Delilah Dawson talks about invoking the senses to make the world-building feel three-dimensional.
+- [00:10:26,000 - 00:10:29,000] In her first draft of a sentence, she writes,
+- [00:10:29,000 - 00:10:33,000] Aga walked through the market, gaping at the rugs and bins of spices.
+- [00:10:33,000 - 00:10:35,000] Now, she could have said,
+- [00:10:35,000 - 00:10:38,000] Aga marveled at all the market's wondrous sights.
+- [00:10:38,000 - 00:10:42,000] But instead of using abstract concepts like marveled or wondrous,
+- [00:10:42,000 - 00:10:47,000] she includes the concrete action of Aga gaping at the rugs and bins of spices.
+- [00:10:47,000 - 00:10:51,000] But even though that creates a mental image, it's not very specific,
+- [00:10:51,000 - 00:10:54,000] and it doesn't invoke any senses beyond sight.
+- [00:10:54,000 - 00:10:56,000] In her second draft, Dawson writes,
+- [00:10:56,000 - 00:10:59,000] Aga walked through the market as if through a dream.
+- [00:10:59,000 - 00:11:05,000] Spicy cinnamon and rich coffee rode the air as she ran her fingers down silken tassels
+- [00:11:05,000 - 00:11:08,000] and through powdery barrels of golden saffron.
+- [00:11:08,000 - 00:11:11,000] Adding details makes this description feel much more immersive,
+- [00:11:11,000 - 00:11:14,000] and it's unique to this particular story.
+- [00:11:14,000 - 00:11:18,000] When showing details, try to go beyond the obvious and expect it.
+- [00:11:18,000 - 00:11:23,000] For instance, a funeral scene will often show everyone wearing black as it begins to rain,
+- [00:11:23,000 - 00:11:27,000] the main character standing with an umbrella in front of her mother's grave.
+- [00:11:27,000 - 00:11:31,000] What if you showed details that contrasted with the somber atmosphere?
+- [00:11:31,000 - 00:11:34,000] If an emotional scene feels too cliché,
+- [00:11:34,000 - 00:11:38,000] try changing the setting or the way the characters describe their emotions,
+- [00:11:38,000 - 00:11:40,000] as author Gail Carson Levine recommends.
+- [00:11:41,000 - 00:11:46,000] What if, instead of an ordinary day, it's Christmas Day in southern Texas?
+- [00:11:46,000 - 00:11:48,000] Begone drizzle, hello dry air.
+- [00:11:48,000 - 00:11:52,000] What if the gravestone has something written on it that doesn't make sense to anyone,
+- [00:11:52,000 - 00:11:57,000] but was requested by her dying mother to be engraved on her tombstone?
+- [00:11:57,000 - 00:12:00,000] Maybe the friend asked the main character what it means.
+- [00:12:00,000 - 00:12:04,000] Maybe they take their minds off the sadness by trying to figure out the odd saying.
+- [00:12:04,000 - 00:12:08,000] The emotional scene is no longer cheesy because it's different.
+- [00:12:08,000 - 00:12:09,000] Number 4.
+- [00:12:09,000 - 00:12:10,000] Avoid relying too much on the story.
+- [00:12:10,000 - 00:12:13,000] Avoid relying too much on body language.
+- [00:12:13,000 - 00:12:17,000] A lot of writing advice suggests using body language to imply a character's emotions.
+- [00:12:17,000 - 00:12:20,000] Crashed arms might show that someone is pissed off,
+- [00:12:20,000 - 00:12:23,000] whereas tapping fingers can indicate impatience.
+- [00:12:23,000 - 00:12:26,000] Those physical details can make for good emotional shorthand.
+- [00:12:26,000 - 00:12:30,000] However, it's easy to over-rely on body language as a form of showing.
+- [00:12:30,000 - 00:12:36,000] In real life, how often do you see someone clench their fist or grit their teeth when they're angry?
+- [00:12:36,000 - 00:12:38,000] How often have you done that yourself when you're angry?
+- [00:12:38,000 - 00:12:43,000] Common facial expressions and gestures are great for quickly conveying a character's mood,
+- [00:12:43,000 - 00:12:47,000] but they rarely evoke an emotional response from the reader.
+- [00:12:47,000 - 00:12:51,000] In an article on C.S. Lakin's blog Live Write Thrive,
+- [00:12:51,000 - 00:12:56,000] editor Robin Patchen describes how writers can show emotions through actions and thoughts,
+- [00:12:56,000 - 00:12:59,000] rather than bodily sensations alone.
+- [00:12:59,000 - 00:13:00,000] As she says,
+- [00:13:00,000 - 00:13:03,000] Having a character clenching his fist might show us he's angry,
+- [00:13:03,000 - 00:13:06,000] but it doesn't show us the impetus for that anger.
+- [00:13:06,000 - 00:13:07,000] Is he feeling frustrated, sluggish, or angry?
+- [00:13:07,000 - 00:13:09,000] Is he feeling frustrated, slighted, or jealous?
+- [00:13:09,000 - 00:13:12,000] She gives an amazing before and after example.
+- [00:13:12,000 - 00:13:16,000] The first version relies heavily on body language.
+- [00:13:16,000 - 00:13:19,000] Mary opened her eyes and looked at the clock.
+- [00:13:19,000 - 00:13:21,000] Her heart nearly leapt out of her chest.
+- [00:13:21,000 - 00:13:23,000] The baby had slept nearly eight hours.
+- [00:13:23,000 - 00:13:26,000] But little Jane never slept more than four hours at a time.
+- [00:13:26,000 - 00:13:28,000] Something must be wrong.
+- [00:13:28,000 - 00:13:29,000] Not again.
+- [00:13:29,000 - 00:13:33,000] Her stomach rolled over when she remembered the last time a child of hers had slept too long.
+- [00:13:33,000 - 00:13:37,000] At first glance, it seems like the story is showing the character's emotions,
+- [00:13:37,000 - 00:13:39,000] because her heart and stomach are reacting.
+- [00:13:39,000 - 00:13:44,000] But that same lack of subtlety makes the descriptions feel forced and melodramatic.
+- [00:13:44,000 - 00:13:49,000] Patchen's second version of this scene moves away from visceral reactions
+- [00:13:49,000 - 00:13:52,000] and focuses on the character's individual thought process.
+- [00:13:52,000 - 00:13:58,000] Mary opened her eyes and squinted in the sunshine streaming in through the open window.
+- [00:13:58,000 - 00:14:01,000] She stretched, feeling more relaxed than she had since.
+- [00:14:01,000 - 00:14:03,000] She sat up and looked at the clock.
+- [00:14:03,000 - 00:14:04,000] It was after eight.
+- [00:14:04,000 - 00:14:06,000] Little Jane had slept through the night.
+- [00:14:07,000 - 00:14:08,000] For the first time.
+- [00:14:08,000 - 00:14:10,000] Just like Billy.
+- [00:14:10,000 - 00:14:12,000] Mary flipped the covers back and stood.
+- [00:14:12,000 - 00:14:15,000] She snatched her robe from the back of the chair and slipped it on.
+- [00:14:15,000 - 00:14:16,000] She wouldn't think about Billy.
+- [00:14:16,000 - 00:14:18,000] The doctor said it wouldn't happen again.
+- [00:14:18,000 - 00:14:20,000] The odds against it were astronomical.
+- [00:14:20,000 - 00:14:22,000] Billy had been nearly six weeks old.
+- [00:14:22,000 - 00:14:24,000] Jane was almost two months.
+- [00:14:24,000 - 00:14:25,000] It was different this time.
+- [00:14:25,000 - 00:14:26,000] It had to be.
+- [00:14:26,000 - 00:14:29,000] The second example feels more in the moment.
+- [00:14:29,000 - 00:14:32,000] Giving a real-time account of the character's thought process
+- [00:14:32,000 - 00:14:36,000] and their interactions with the setting can show emotional nuance better than body language.
+- [00:14:36,000 - 00:14:40,000] Patchen also uses strong verbs like flipped and snatched
+- [00:14:40,000 - 00:14:43,000] to convey a sense of panic and urgency,
+- [00:14:43,000 - 00:14:46,000] along with the ellipsis that indicates her thoughts trailing off.
+- [00:14:46,000 - 00:14:49,000] Word choice and sentence structure can be a form of showing.
+- [00:14:49,000 - 00:14:53,000] Robin Patchen ends with this beautiful nugget of wisdom.
+- [00:14:53,000 - 00:14:56,000] Counselors tell us that thoughts lead to emotions,
+- [00:14:56,000 - 00:14:58,000] and emotions lead to actions.
+- [00:14:58,000 - 00:15:01,000] As a writer, you can easily show your characters' thoughts and actions.
+- [00:15:01,000 - 00:15:04,000] Readers are smart enough to deduce the emotions
+- [00:15:04,000 - 00:15:06,000] based on what the characters think and do.
+- [00:15:06,000 - 00:15:09,000] So often it seems writers are in a hurry.
+- [00:15:09,000 - 00:15:12,000] When you have a very emotional scene, slow it down.
+- [00:15:12,000 - 00:15:14,000] Let us hear your characters' every thought.
+- [00:15:14,000 - 00:15:16,000] Highlight a few details.
+- [00:15:16,000 - 00:15:18,000] Show the actions.
+- [00:15:18,000 - 00:15:21,000] If you need help brainstorming how feelings might manifest,
+- [00:15:21,000 - 00:15:25,000] check out The Emotion Thesaurus by Angela Ackerman and Becca Puglisi,
+- [00:15:25,000 - 00:15:29,000] which lists a variety of ways you can convey different emotions,
+- [00:15:29,000 - 00:15:31,000] from anguish to wanderlust.
+- [00:15:31,000 - 00:15:33,000] Number five.
+- [00:15:33,000 - 00:15:35,000] Show emotion through dialogue.
+- [00:15:35,000 - 00:15:38,000] Dialogue is a powerful tool for proving a character's feelings
+- [00:15:38,000 - 00:15:40,000] or personality to the reader.
+- [00:15:40,000 - 00:15:41,000] Instead of saying,
+- [00:15:41,000 - 00:15:42,000] Mary was angry at Bob,
+- [00:15:42,000 - 00:15:44,000] you could have Mary shout at Bob,
+- [00:15:44,000 - 00:15:46,000] You wretched pickle-monger, how dare you!
+- [00:15:46,000 - 00:15:49,000] This is also the reason many writing advice articles
+- [00:15:49,000 - 00:15:51,000] warn against using adverbs.
+- [00:15:51,000 - 00:15:55,000] They weaken the dialogue because they tell rather than show.
+- [00:15:55,000 - 00:15:58,000] In the above dialogue, we can tell Mary's tone from her words alone,
+- [00:15:58,000 - 00:16:01,000] not to mention the volume, given she's shouting.
+- [00:16:01,000 - 00:16:03,000] I don't need to write shouted angrily
+- [00:16:03,000 - 00:16:05,000] because the word angrily is a word
+- [00:16:05,000 - 00:16:08,000] that's telling the reader information we've already shown.
+- [00:16:08,000 - 00:16:11,000] Similarly, some writers feel tempted to telegraph
+- [00:16:11,000 - 00:16:13,000] a character's intentions in a conversation,
+- [00:16:13,000 - 00:16:16,000] even though the dialogue already shows that information.
+- [00:16:16,000 - 00:16:18,000] He tried to be diplomatic.
+- [00:16:18,000 - 00:16:20,000] Please just listen to what I have to say.
+- [00:16:20,000 - 00:16:23,000] Well, that doesn't matter, she said, changing the subject.
+- [00:16:23,000 - 00:16:25,000] Let's move on to something else.
+- [00:16:25,000 - 00:16:27,000] In this exchange, the author is telling the reader
+- [00:16:27,000 - 00:16:29,000] what conclusions to make,
+- [00:16:29,000 - 00:16:31,000] when they should trust that their readers are smart enough
+- [00:16:31,000 - 00:16:33,000] to figure it out on their own.
+- [00:16:33,000 - 00:16:35,000] The author's tone might include more visuals
+- [00:16:35,000 - 00:16:38,000] and a dialogue tag that conveys a specific tone.
+- [00:16:38,000 - 00:16:40,000] He pinched the bridge of his nose.
+- [00:16:40,000 - 00:16:42,000] Please, just listen to what I have to say.
+- [00:16:42,000 - 00:16:44,000] Well, that doesn't matter, she whispered.
+- [00:16:44,000 - 00:16:46,000] Let's move on to something else.
+- [00:16:46,000 - 00:16:49,000] When writing highly emotional dialogue,
+- [00:16:49,000 - 00:16:51,000] it might be helpful in the first draft
+- [00:16:51,000 - 00:16:53,000] to pretend you're writing a play or screenplay,
+- [00:16:53,000 - 00:16:55,000] since that forces you to focus on conveying emotion
+- [00:16:55,000 - 00:16:57,000] through dialogue alone.
+- [00:16:57,000 - 00:17:00,000] Oscar Wilde is known for his snappy dialogue,
+- [00:17:00,000 - 00:17:02,000] particularly in his play The Importance of Brute.
+- [00:17:02,000 - 00:17:05,000] In the opening scene, a young gentleman named Algernon
+- [00:17:05,000 - 00:17:07,000] visits with his best friend Jack,
+- [00:17:07,000 - 00:17:09,000] who has come to propose to Algernon's cousin.
+- [00:17:09,000 - 00:17:12,000] The dialogue carries the emotions of the scene.
+- [00:17:32,000 - 00:17:35,000] In the second place, I don't give my consent.
+- [00:17:35,000 - 00:17:36,000] Your consent!
+- [00:17:36,000 - 00:17:39,000] My dear fellow Gwendolyn is my first cousin.
+- [00:17:39,000 - 00:17:41,000] Based on the tone of their words alone,
+- [00:17:41,000 - 00:17:43,000] the reader can assume what the characters are feeling,
+- [00:17:43,000 - 00:17:46,000] even though the audience isn't told that information directly.
+- [00:17:46,000 - 00:17:49,000] You can learn more about writing subtext and dialogue
+- [00:17:49,000 - 00:17:51,000] in my video on the subject.
+- [00:17:51,000 - 00:17:55,000] Number 6. Filter observations through narrative voice.
+- [00:17:55,000 - 00:17:57,000] Show-don't-tell often means going deeper
+- [00:17:57,000 - 00:17:59,000] into the narrative point of view.
+- [00:17:59,000 - 00:18:01,000] Whether you're filtering the story through the lens
+- [00:18:01,000 - 00:18:03,000] of a character or a more distant narrator,
+- [00:18:03,000 - 00:18:05,000] it's about giving details that allow the reader
+- [00:18:05,000 - 00:18:08,000] to feel more connected to the point of view character
+- [00:18:08,000 - 00:18:10,000] through what they're experiencing.
+- [00:18:10,000 - 00:18:12,000] This closeness can be achieved through phrasing
+- [00:18:12,000 - 00:18:14,000] straightforward statements in a unique way.
+- [00:18:14,000 - 00:18:18,000] Reddit user Chevron7Loc shares some great examples
+- [00:18:18,000 - 00:18:21,000] of telling versus showing on the R Writing subreddit.
+- [00:18:21,000 - 00:18:24,000] He was a rude and inconsiderate man.
+- [00:18:24,000 - 00:18:25,000] This is telling.
+- [00:18:25,000 - 00:18:27,000] We know the character is rude and inconsiderate
+- [00:18:27,000 - 00:18:28,000] because the writer told us.
+- [00:18:28,000 - 00:18:30,000] Out of my way, you jerk!
+- [00:18:30,000 - 00:18:33,000] He yelled at the woman struggling to lift her stroller onto the bus.
+- [00:18:33,000 - 00:18:34,000] This is showing.
+- [00:18:34,000 - 00:18:37,000] We can deduce that the character is rude and inconsiderate
+- [00:18:37,000 - 00:18:40,000] based on the situation we just read.
+- [00:18:40,000 - 00:18:41,000] Telling.
+- [00:18:41,000 - 00:18:43,000] She was uncomfortable around him.
+- [00:18:43,000 - 00:18:44,000] Showing.
+- [00:18:44,000 - 00:18:46,000] She stiffened in his embrace.
+- [00:18:46,000 - 00:18:47,000] Telling.
+- [00:18:47,000 - 00:18:49,000] The house was huge.
+- [00:18:49,000 - 00:18:50,000] Showing.
+- [00:18:50,000 - 00:18:53,000] His whole family could live in the kitchen alone.
+- [00:18:53,000 - 00:18:54,000] Telling.
+- [00:18:54,000 - 00:18:55,000] She was hungry.
+- [00:18:55,000 - 00:18:56,000] Showing.
+- [00:18:56,000 - 00:18:58,000] She near inhaled the soup.
+- [00:18:58,000 - 00:19:00,000] In all of these examples, we learn the same information
+- [00:19:00,000 - 00:19:03,000] through showing but with more flavor and character.
+- [00:19:03,000 - 00:19:07,000] You'll notice that all these examples involve replacing was
+- [00:19:07,000 - 00:19:11,000] with a more interesting verb, just as in earlier examples.
+- [00:19:11,000 - 00:19:15,000] Since was and its cousin word felt are often followed by an adjective,
+- [00:19:15,000 - 00:19:18,000] that can be a flag marking a spot where a stronger verb could be used
+- [00:19:18,000 - 00:19:21,000] to create that concrete image in the reader's head.
+- [00:19:21,000 - 00:19:24,000] You can picture a woman stiffening in a man's embrace
+- [00:19:24,000 - 00:19:26,000] or a kitchen large enough for a family to live in
+- [00:19:26,000 - 00:19:28,000] or someone inhaling soup.
+- [00:19:28,000 - 00:19:30,000] This extends to world-building,
+- [00:19:30,000 - 00:19:32,000] backstory, and info dumps in general.
+- [00:19:32,000 - 00:19:36,000] Sometimes authors present information like a dictionary definition
+- [00:19:36,000 - 00:19:40,000] rather than an in-world reference that fits naturally into the story.
+- [00:19:40,000 - 00:19:41,000] As Janice Hardy notes,
+- [00:19:41,000 - 00:19:46,000] An easy test for info dumps is to check if the information is for the reader's benefit
+- [00:19:46,000 - 00:19:48,000] or the character's benefit.
+- [00:19:48,000 - 00:19:53,000] If it's for the reader, chances are you're dumping and it contains told prose.
+- [00:19:53,000 - 00:19:57,000] The key is to filter the world-building or exposition through the point-of-view character's perspective.
+- [00:19:57,000 - 00:20:00,000] Hardy compares different ways of showing the same scene
+- [00:20:00,000 - 00:20:02,000] based on the character.
+- [00:20:02,000 - 00:20:04,000] The bland example was Bob.
+- [00:20:04,000 - 00:20:07,000] The rain poured down the window of the restaurant.
+- [00:20:07,000 - 00:20:11,000] Bob sat at the table, a stack of pancakes beside him.
+- [00:20:11,000 - 00:20:13,000] He stared at an envelope in his hands.
+- [00:20:13,000 - 00:20:16,000] While above him on the wall, a clock ticked.
+- [00:20:16,000 - 00:20:18,000] A Navy Seal character.
+- [00:20:18,000 - 00:20:21,000] The rain beat against the restaurant window like rounds from an Uzi.
+- [00:20:21,000 - 00:20:24,000] Bob sat at the table, back against the wall,
+- [00:20:24,000 - 00:20:26,000] a stack of uneaten pancakes beside him.
+- [00:20:26,000 - 00:20:29,000] He gripped the envelope tighter with every tick of the clock above him.
+- [00:20:29,000 - 00:20:31,000] New orders. Great.
+- [00:20:31,000 - 00:20:33,000] A scared girl.
+- [00:20:33,000 - 00:20:37,000] Rain covered the window and blurred the outside world.
+- [00:20:37,000 - 00:20:41,000] Bob slouched at the table, her head barely higher than the stack of pancakes beside her.
+- [00:20:41,000 - 00:20:43,000] The envelope lay in her lap.
+- [00:20:43,000 - 00:20:45,000] She didn't want to touch it, let alone open it.
+- [00:20:45,000 - 00:20:47,000] She glanced at the clock and sighed,
+- [00:20:47,000 - 00:20:48,000] running out of time.
+- [00:20:48,000 - 00:20:52,000] Let your character's emotions color the way they see their surroundings.
+- [00:20:52,000 - 00:20:56,000] The same goes for dialogue that feels like information given for the reader's sake,
+- [00:20:56,000 - 00:20:58,000] rather than something the character would realistically say.
+- [00:20:58,000 - 00:21:06,000] This leads to, as you know Bob, situations where one character explains something that another character already knows.
+- [00:21:06,000 - 00:21:12,000] No! No, you know how today we're heading into the land of the giants to offer them the Drew Valencia in exchange for joining our quest to save Princess Isabella?
+- [00:21:12,000 - 00:21:17,000] Yes, we discussed it last night in great detail. There's no need for your clunky exposition.
+- [00:21:17,000 - 00:21:22,000] In these situations, the dialogue isn't phrased in the character's voice.
+- [00:21:22,000 - 00:21:26,000] It's the author talking instead, which pulls the reader out of the story.
+- [00:21:26,000 - 00:21:31,360] Remember that characters have prior knowledge and experience that exist outside of the narrative.
+- [00:21:31,360 - 00:21:36,000] Showing in dialogue often means including less detail, as in this example from Janice Hardy.
+- [00:21:36,640 - 00:21:37,760] Reader's Benefit
+- [00:21:37,760 - 00:21:40,560] I'll rig up a small explosive device to blow open the door.
+- [00:21:40,560 - 00:21:43,920] That's the way we did it when I was deployed in Afghanistan as a Navy SEAL.
+- [00:21:44,480 - 00:21:46,000] Character's Benefit
+- [00:21:46,000 - 00:21:48,720] Uh, Kevin, where'd you learn to make bombs?
+- [00:21:49,280 - 00:21:49,920] The Navy
+- [00:21:50,640 - 00:21:55,920] The true purpose behind the advice Show Don't Tell is not to assert that all telling is bad writing.
+- [00:21:55,920 - 00:21:58,480] Telling is often necessary to bridge different scenes,
+- [00:21:58,480 - 00:22:03,920] and the amount of telling you use can depend on the genre, which Dewey writes captures so succinctly.
+- [00:22:03,920 - 00:22:06,800] Telling and showing are tools to control pacing.
+- [00:22:06,800 - 00:22:10,720] They help you focus and immerse the reader in important moments and speed past others.
+- [00:22:10,720 - 00:22:12,560] What do you want the reader to remember?
+- [00:22:12,560 - 00:22:15,040] Identify what your ideal reader wants.
+- [00:22:15,040 - 00:22:17,680] Do they want a lush, immersive, meandering journey?
+- [00:22:17,680 - 00:22:19,440] Or a light-speed thriller?
+- [00:22:19,440 - 00:22:21,920] And as author Alexi Harrow puts it,
+- [00:22:21,920 - 00:22:24,720] sometimes readers want to be told what's happening.
+- [00:22:24,720 - 00:22:25,840] As if we're listening to
+- [00:22:25,840 - 00:22:25,920] an
+- [00:22:25,920 - 00:22:28,400] oral storyteller spin a good yarn.
+- [00:22:28,400 - 00:22:29,520] She writes,
+- [00:22:29,520 - 00:22:33,120] I want a strong narrative voice to come sweeping across the stage
+- [00:22:33,120 - 00:22:37,120] in a grand monologue that explains the whole world to me like I'm five.
+- [00:22:37,120 - 00:22:40,640] I want the patronizing clarity of a fairy tale or a myth,
+- [00:22:40,640 - 00:22:44,560] which strings together a story with a series of and thens and untils.
+- [00:22:44,560 - 00:22:49,200] I want a flat southern voice leaning close and saying so what happened was.
+- [00:22:50,240 - 00:22:55,840] Harrow specifically champions Micaiah Johnson's sci-fi debut The Space Between Worlds.
+- [00:22:55,840 - 00:23:01,840] As an example of a work that turns exposition into something searing and compelling with narrative tension,
+- [00:23:01,840 - 00:23:05,760] the opening pages use a strong first-person voice to pull the reader in.
+- [00:23:05,760 - 00:23:12,240] When I was young and multiverse was just a theory, I was worthless.
+- [00:23:13,120 - 00:23:18,080] The brown girl-child of an addict in one of those wards outside the walls of Wiley City
+- [00:23:18,080 - 00:23:20,400] that people don't get out of or go to.
+- [00:23:21,280 - 00:23:25,680] But then Adam Bosch, our new Einstein and the founder of the Institute for the Arts,
+- [00:23:25,680 - 00:23:29,840] the Institute that pays me, discovered a way to see into other universes.
+- [00:23:30,800 - 00:23:33,280] Of course, humanity couldn't just look.
+- [00:23:33,280 - 00:23:34,800] We had to enter.
+- [00:23:34,800 - 00:23:37,920] We had to touch and taste and take.
+- [00:23:39,120 - 00:23:40,800] But the universe said no.
+- [00:23:42,000 - 00:23:47,280] Telling is part of what differentiates novels and short stories from movies and TV shows.
+- [00:23:47,280 - 00:23:52,960] Fiction writers can bottle thoughts and feelings in a way that can't be fully replicated in another medium.
+- [00:23:52,960 - 00:23:55,440] Showing is meant to push writers to try harder
+- [00:23:55,440 - 00:24:00,640] prose and brainstorm specific details that bring the characters and world to life.
+- [00:24:00,640 - 00:24:03,200] That being said, the phrase should be amended to,
+- [00:24:03,200 - 00:24:05,280] Show, don't just tell.
+- [00:24:05,280 - 00:24:10,800] As a quick cheat sheet, here are some places where you might consider telling or blend telling and showing.
+- [00:24:11,440 - 00:24:16,560] Moments unimportant to the larger narrative, like how a character got from point A to point B.
+- [00:24:16,560 - 00:24:20,960] Summaries of routines, time passing, or repetitive conversations.
+- [00:24:20,960 - 00:24:25,440] Some aspects of magic systems or sci-fi worldbuilding, as in the space between worlds.
+- [00:24:25,440 - 00:24:27,440] Character thoughts.
+- [00:24:27,440 - 00:24:29,440] Occasional backstory and exposition.
+- [00:24:29,440 - 00:24:35,440] This is usually presented as a broad sweep that tells paired with specific details that show, like in the Secret Garden example.
+- [00:24:35,440 - 00:24:39,440] And here are places where you're usually better off showing.
+- [00:24:39,440 - 00:24:41,440] Emotions.
+- [00:24:41,440 - 00:24:45,440] Particularly the character's feelings and assumptions about how other characters are feeling.
+- [00:24:45,440 - 00:24:47,440] Sensations.
+- [00:24:47,440 - 00:24:49,440] This includes sights, sounds, smell, taste, and touch.
+- [00:24:49,440 - 00:24:51,440] Thoughts.
+- [00:24:51,440 - 00:24:53,440] Words like realize, thought, and knew might signify this, but don't feel like you need to avoid those words entirely.
+- [00:24:53,440 - 00:24:55,440] Emotions.
+- [00:24:55,440 - 00:24:59,440] Just make sure there's not a more interesting way you could phrase it, using concrete evidence.
+- [00:24:59,440 - 00:25:01,440] Attributes or opinion-related adjectives.
+- [00:25:01,440 - 00:25:07,440] Especially in relation to how a character, place, or situation makes the protagonist feel.
+- [00:25:07,440 - 00:25:13,440] If you make a claim like, he was smart, back it up with evidence, such as mentioning the time he MacGyvered a key from dental floss and a spatula.
+- [00:25:13,440 - 00:25:15,440] Flat phrasing.
+- [00:25:15,440 - 00:25:19,440] This might include overused wording or an abundance of to-be verbs like was.
+- [00:25:19,440 - 00:25:23,440] Showing means eliminating the author as the middleman, and letting the author know that he's the middleman.
+- [00:25:23,440 - 00:25:25,440] Showing means eliminating the author as the middleman, and letting the author know that he's the middleman.
+- [00:25:25,440 - 00:25:27,440] Seeing the reader live the story firsthand.
+- [00:25:27,440 - 00:25:35,440] You can show through specificity, action, dialogue, sensory details, internal thought, and narrative voice.
+- [00:25:35,440 - 00:25:38,700] Your first draft will often contain more telling than showing.
+- [00:25:38,700 - 00:25:42,440] During revisions, you can go through and highlight parts that need more flavour.
+- [00:25:42,440 - 00:25:44,940] Look for spots where emotions or descriptions feel vague.
+- [00:25:44,940 - 00:25:46,300] Like your�
+- [00:25:46,400 - 00:25:48,880] Or place those with specific sensory details and vivid vocabulary.
+- [00:25:48,880 - 00:25:52,060] If you want to learn more about, if you want to learn more about telling vs showing, I highly recommend
+- [00:25:53,440 - 00:25:55,440] Jannes Hardie's Understanding Show Don't Tell.
+- [00:25:55,440 - 00:25:59,980] It's a short read that's jam-packed with practical strategies for finding red flags with telling.
+- [00:26:00,640 - 00:26:05,000] As a writing exercise, find a short paragraph or scene from one of your favorite books,
+- [00:26:05,400 - 00:26:07,180] and replace all the showing with telling.
+- [00:26:07,600 - 00:26:10,100] Remember the passage I shared at the beginning of this video?
+- [00:26:10,500 - 00:26:14,040] That's actually from a popular novel, except I rewrote it badly.
+- [00:26:14,640 - 00:26:19,060] Here's the original text, which is an admirable example of showing a character's emotions
+- [00:26:19,060 - 00:26:21,860] through her actions and a unique narrative voice.
+- [00:26:22,280 - 00:26:25,320] It's from Where the Crawdads Sing by Delilah Owens.
+- [00:26:26,340 - 00:26:31,840] Sometimes she heard night sounds she didn't know, or jumped from lightning too close.
+- [00:26:32,760 - 00:26:36,360] But whenever she stumbled, it was the land that caught her.
+- [00:26:37,400 - 00:26:45,140] Until at last, at some unclaimed moment, the heart pain seeped away like water into sand.
+- [00:26:46,260 - 00:26:47,900] Still there, but deep.
+- [00:26:48,960 - 00:26:54,780] Kaya laid her hand upon the breathing wet earth, and the marsh became her mother.
+- [00:26:55,440 - 00:26:57,440] She was a little girl, but she was a little girl.
+- [00:26:58,260 - 00:27:00,260] Do you struggle to show instead of tell?
+- [00:27:00,860 - 00:27:02,860] Share your thoughts with me in the comments.
+- [00:27:03,640 - 00:27:05,640] Whatever you do, keep writing.
+- [00:27:06,780 - 00:27:08,780] Thanks for watching!
+- [00:27:08,780 - 00:27:10,780] If you liked this video, please subscribe.
+- [00:27:10,780 - 00:27:12,780] I'm going to do a lot of more.
+- [00:27:12,780 - 00:27:14,780] I'm going to do a lot of more.
+- [00:27:14,780 - 00:27:16,780] I'm going to do a lot of more.
+- [00:27:16,780 - 00:27:18,780] I'm going to do a lot of more.

@@ -1,0 +1,1400 @@
+# Transcript
+
+Source: lazylearn/how-you-speak-and-write/11 - How to Speak [Unzc731iCUY].webm
+
+- [00:00:00,000 - 00:00:13,500] The uniform code of military justice specifies
+- [00:00:13,500 - 00:00:27,000] court martial for any officer who sends a
+- [00:00:27,000 - 00:00:30,680] soldier into battle without a weapon.
+- [00:00:30,680 - 00:00:32,479] There ought to be a similar protection
+- [00:00:32,479 - 00:00:34,280] for students because students shouldn't go out
+- [00:00:34,280 - 00:00:38,120] into life without an ability to communicate.
+- [00:00:38,120 - 00:00:40,980] And that's because your success in life will
+- [00:00:40,980 - 00:00:43,840] be determined largely by your ability to speak,
+- [00:00:43,840 - 00:00:47,320] your ability to write, and the
+- [00:00:47,320 - 00:00:50,800] quality of your ideas in that order.
+- [00:00:50,800 - 00:00:53,620] I know that I can be successful
+- [00:00:53,620 - 00:00:56,440] in this because the quality of communication.
+- [00:00:56,440 - 00:00:58,800] Your speaking, your writing, is
+- [00:00:58,800 - 00:01:01,160] largely determined by this formula.
+- [00:01:01,160 - 00:01:04,489] It's a matter of how much knowledge you
+- [00:01:04,489 - 00:01:07,820] have, how much you practice with that knowledge,
+- [00:01:07,820 - 00:01:09,780] and your inherent talent.
+- [00:01:09,780 - 00:01:12,400] And notice that the T is very small.
+- [00:01:12,400 - 00:01:14,740] What really matters is what you know.
+- [00:01:14,740 - 00:01:18,320] At this point that came to me suddenly a
+- [00:01:18,320 - 00:01:21,900] few decades ago when I was skiing at Sun Valley.
+- [00:01:21,900 - 00:01:25,300] I had heard that it was Celebrity Weekend.
+- [00:01:25,300 - 00:01:26,360] And one of the celebrities...
+- [00:01:26,360 - 00:01:26,420] Well, he was a famous comedian.
+- [00:01:26,440 - 00:01:31,440] was Mary Lou Retton, famous Olympic gymnast,
+- [00:01:33,120 - 00:01:35,280] perfect tens in the vault.
+- [00:01:35,280 - 00:01:38,460] And I heard that she was a novice at skiing,
+- [00:01:38,460 - 00:01:40,039] so when the opportune moment arrived,
+- [00:01:40,039 - 00:01:42,420] I looked over on the novice slope
+- [00:01:42,420 - 00:01:46,560] and saw this young woman who, when she became unbalanced,
+- [00:01:46,560 - 00:01:48,360] went like that.
+- [00:01:48,360 - 00:01:50,059] And I said, that's got to
+- [00:01:50,059 - 00:01:51,759] be her, that must be the gymnast.
+- [00:01:53,560 - 00:01:55,000] But then it occurred to me,
+- [00:01:55,000 - 00:01:56,860] I'm a much better skier than she is,
+- [00:01:56,860 - 00:01:58,320] and she's an Olympic athlete,
+- [00:01:58,320 - 00:02:02,020] not only an ordinary Olympic athlete, an outstanding one.
+- [00:02:03,180 - 00:02:04,330] And I was a better
+- [00:02:04,330 - 00:02:05,480] skier because I had the K,
+- [00:02:06,380 - 00:02:07,980] and I had the P, and
+- [00:02:07,980 - 00:02:09,580] all she had was the T.
+- [00:02:10,440 - 00:02:12,380] So you can get a lot better than people
+- [00:02:12,380 - 00:02:14,700] who may have inherent talents
+- [00:02:14,700 - 00:02:17,320] if you have the right amount of knowledge.
+- [00:02:17,320 - 00:02:18,960] So that's what my objective is today,
+- [00:02:18,960 - 00:02:20,940] and here's my promise.
+- [00:02:20,940 - 00:02:24,760] Today you will see some examples
+- [00:02:24,760 - 00:02:27,820] of what you can put in your armamentarium
+- [00:02:27,820 - 00:02:29,220] of speaking techniques.
+- [00:02:30,440 - 00:02:32,940] And it will be the case
+- [00:02:32,940 - 00:02:35,440] that some one of those examples,
+- [00:02:35,700 - 00:02:39,299] some heuristic, some technique, maybe only one,
+- [00:02:39,299 - 00:02:41,859] will be the one that gets you the job.
+- [00:02:42,899 - 00:02:45,459] And so this is a very nonlinear process.
+- [00:02:45,459 - 00:02:47,739] You never know when it's gonna happen.
+- [00:02:47,739 - 00:02:48,700] But that is my promise.
+- [00:02:48,700 - 00:02:52,220] By the end of the next 60 minutes,
+- [00:02:52,220 - 00:02:54,760] you'll have been exposed to a lot of ideas,
+- [00:02:54,760 - 00:02:58,100] some of which you'll incorporate into your own repertoire,
+- [00:02:58,100 - 00:03:03,000] and they will ensure that you get the maximum opportunity
+- [00:03:03,000 - 00:03:06,000] to have your ideas valued and accepted
+- [00:03:09,340 - 00:03:11,799] by the people you speak with.
+- [00:03:11,799 - 00:03:13,940] Now, in order to do that,
+- [00:03:13,940 - 00:03:16,700] we have to have a rule of engagement.
+- [00:03:16,700 - 00:03:21,700] And that is no laptops, no cellphones.
+- [00:03:22,600 - 00:03:24,739] So if you could close those, I'll start.
+- [00:03:24,760 - 00:03:27,260] I'll start up as soon as you're done.
+- [00:03:27,260 - 00:03:30,600] Some people ask why that is a rule of engagement.
+- [00:03:31,739 - 00:03:34,980] And the answer is, we humans only have
+- [00:03:34,980 - 00:03:36,959] one language processor.
+- [00:03:36,959 - 00:03:38,780] And if your language processor is engaged,
+- [00:03:38,780 - 00:03:40,540] could you shut the laptop please?
+- [00:03:40,540 - 00:03:44,019] If your language processor is engaged,
+- [00:03:44,019 - 00:03:46,480] browsing the web or reading your email,
+- [00:03:46,480 - 00:03:47,959] you're distracted.
+- [00:03:47,959 - 00:03:50,859] And worse yet, you distract all the people around you.
+- [00:03:50,859 - 00:03:52,500] Studies have shown that.
+- [00:03:52,500 - 00:03:54,500] And worse yet, if I see an open laptop,
+- [00:03:54,500 - 00:03:57,500] somewhere back there or up here,
+- [00:03:57,500 - 00:03:59,500] it drives me nuts.
+- [00:03:59,500 - 00:04:01,500] And I do a worse job.
+- [00:04:01,500 - 00:04:03,500] And so that ensures that all of your friends
+- [00:04:03,500 - 00:04:07,500] who are paying attention don't get the performance
+- [00:04:07,500 - 00:04:09,500] that they came to have.
+- [00:04:09,500 - 00:04:12,500] So that's it for preamble.
+- [00:04:12,500 - 00:04:14,500] Let's get started.
+- [00:04:14,500 - 00:04:17,000] First thing to talk about,
+- [00:04:17,000 - 00:04:19,500] of course, is how to start.
+- [00:04:24,500 - 00:04:27,500] Some people think the right thing to do
+- [00:04:27,500 - 00:04:32,500] is to start a talk with a joke.
+- [00:04:39,500 - 00:04:40,500] I don't recommend it.
+- [00:04:43,500 - 00:04:45,000] And the reason is that
+- [00:04:45,000 - 00:04:46,500] in the beginning of a talk,
+- [00:04:46,500 - 00:04:49,500] people are still putting their laptops away.
+- [00:04:49,500 - 00:04:52,500] They're becoming adjusted to your speaking parameters,
+- [00:04:52,500 - 00:04:53,500] to your vocal parameters.
+- [00:04:54,500 - 00:04:57,500] And they're not ready for a joke.
+- [00:04:57,500 - 00:04:59,500] So it doesn't work very well.
+- [00:04:59,500 - 00:05:01,500] They usually fall flat.
+- [00:05:01,500 - 00:05:04,000] What you want to do instead
+- [00:05:04,000 - 00:05:06,500] is start with an empowerment promise.
+- [00:05:06,500 - 00:05:11,500] You want to tell people what they're going to know
+- [00:05:11,500 - 00:05:14,500] at the end of the hour that they didn't know
+- [00:05:14,500 - 00:05:16,500] at the beginning of the hour.
+- [00:05:16,500 - 00:05:17,500] It's an empowerment promise.
+- [00:05:17,500 - 00:05:19,500] It's the reason for being here.
+- [00:05:19,500 - 00:05:22,500] What would be an example?
+- [00:05:22,500 - 00:05:23,500] Oh, I see.
+- [00:05:23,500 - 00:05:27,500] At the end of this 60 minutes,
+- [00:05:27,500 - 00:05:30,500] you will know things about speaking you don't know now.
+- [00:05:30,500 - 00:05:32,500] And something among those things you know
+- [00:05:32,500 - 00:05:34,500] will make a difference in your life.
+- [00:05:34,500 - 00:05:36,500] Yeah, that's an empowerment promise.
+- [00:05:36,500 - 00:05:38,500] So that's the best way to start.
+- [00:05:38,500 - 00:05:40,000] So now that I've talked a
+- [00:05:40,000 - 00:05:41,500] little bit about how to start,
+- [00:05:41,500 - 00:05:43,000] what I want to do is
+- [00:05:43,000 - 00:05:44,500] give you some samples of heuristics
+- [00:05:44,500 - 00:05:46,500] that are always on my
+- [00:05:46,500 - 00:05:48,500] mind when I give a talk.
+- [00:05:48,500 - 00:05:50,500] And the first of these heuristics
+- [00:05:50,500 - 00:05:52,500] is that it's a good idea
+- [00:05:52,500 - 00:05:56,500] to cycle on the subject.
+- [00:05:56,500 - 00:05:57,500] Go around it.
+- [00:05:57,500 - 00:05:58,500] Go around it again.
+- [00:05:58,500 - 00:06:00,500] Go around it again.
+- [00:06:00,500 - 00:06:03,000] Some people say, tell them
+- [00:06:03,000 - 00:06:05,500] what you want to tell them.
+- [00:06:05,500 - 00:06:07,500] Tell them again.
+- [00:06:07,500 - 00:06:08,500] And then tell them a third time,
+- [00:06:08,500 - 00:06:11,500] as if people weren't intelligent.
+- [00:06:11,500 - 00:06:13,500] But the point is, the reason
+- [00:06:13,500 - 00:06:15,500] is, well, there are many reasons,
+- [00:06:15,500 - 00:06:17,500] one of which is at any given moment,
+- [00:06:17,500 - 00:06:19,500] about 20% of you will be fogged
+- [00:06:19,500 - 00:06:21,500] out no matter what the lecture is.
+- [00:06:21,500 - 00:06:23,500] So if you want to ensure that the probability
+- [00:06:23,500 - 00:06:26,000] that everybody gets it is high,
+- [00:06:26,000 - 00:06:28,500] you need to say it three times.
+- [00:06:28,500 - 00:06:30,000] So cycling is one of the
+- [00:06:30,000 - 00:06:31,500] things that I always think about
+- [00:06:31,500 - 00:06:33,500] when I give a talk.
+- [00:06:33,500 - 00:06:37,500] Another thing I think about is in explaining my idea,
+- [00:06:37,500 - 00:06:44,500] I want to build a fence around it
+- [00:06:44,500 - 00:06:47,500] so that it's not confused with somebody else's idea.
+- [00:06:47,500 - 00:06:49,000] So if you were from
+- [00:06:49,000 - 00:06:50,500] Mars and I was teaching you
+- [00:06:50,500 - 00:06:52,500] about what an arch is, I might
+- [00:06:52,500 - 00:06:54,500] say to you, well, that's an arch.
+- [00:06:54,500 - 00:06:57,500] And that's not to be confused with some other things
+- [00:06:57,500 - 00:06:59,500] that other people might think is an arch.
+- [00:06:59,500 - 00:07:01,500] This is not an arch.
+- [00:07:01,500 - 00:07:03,500] That's not an arch.
+- [00:07:03,500 - 00:07:05,500] I'm building a fence around my idea
+- [00:07:05,500 - 00:07:08,500] so that it can be distinguished from somebody else's idea.
+- [00:07:08,500 - 00:07:10,500] So in a more technical sense, I might say,
+- [00:07:10,500 - 00:07:15,500] well, my algorithm might seem similar to Jones's algorithm,
+- [00:07:15,500 - 00:07:17,500] except his is exponential and mine's linear.
+- [00:07:17,500 - 00:07:19,500] That's putting a fence around your idea
+- [00:07:19,500 - 00:07:21,500] so that people can not be confused
+- [00:07:21,500 - 00:07:26,500] about how it might relate to something else.
+- [00:07:26,500 - 00:07:29,500] The third thing on this list of samples
+- [00:07:29,500 - 00:07:33,500] is the idea of verbal punctuation.
+- [00:07:44,500 - 00:07:48,500] And the idea here is that because people will occasionally
+- [00:07:48,500 - 00:07:52,500] fog out and need to get back on the bus,
+- [00:07:52,500 - 00:07:55,500] you need to provide some landmark places
+- [00:07:55,500 - 00:07:57,500] where you're announcing that it's a
+- [00:07:57,500 - 00:07:59,500] good time to get back on.
+- [00:07:59,500 - 00:08:02,500] So I might, in this talk,
+- [00:08:02,500 - 00:08:05,500] say something about this being my outline.
+- [00:08:05,500 - 00:08:07,000] The first thing we're going to
+- [00:08:07,000 - 00:08:08,500] do is talk about how to start.
+- [00:08:08,500 - 00:08:11,500] Then we're going to deal with these four samples.
+- [00:08:11,500 - 00:08:13,500] And among these four samples,
+- [00:08:13,500 - 00:08:16,500] I've talked about the first idea, that's cycling,
+- [00:08:16,500 - 00:08:17,500] the second idea, building a fence.
+- [00:08:17,500 - 00:08:21,500] And now the third idea is verbal punctuation.
+- [00:08:21,500 - 00:08:24,500] So I'm enumerating, I'm providing numbers,
+- [00:08:24,500 - 00:08:26,000] I'm giving you a sense that
+- [00:08:26,000 - 00:08:27,500] there's a seam in the talk
+- [00:08:27,500 - 00:08:30,500] and you can get back on.
+- [00:08:30,500 - 00:08:32,500] Okay?
+- [00:08:32,500 - 00:08:35,500] So now we're on a roll.
+- [00:08:35,500 - 00:08:37,500] And since we're on a roll,
+- [00:08:37,500 - 00:08:41,500] can you guess what fourth idea might be here?
+- [00:08:41,500 - 00:08:44,500] An idea that helps people get back on the bus?
+- [00:08:47,500 - 00:08:49,500] Ask a question.
+- [00:08:49,500 - 00:08:51,500] Yes.
+- [00:08:51,500 - 00:08:53,500] Ask a question.
+- [00:08:53,500 - 00:08:55,500] Ask a question, yes.
+- [00:08:55,500 - 00:08:57,500] Thank you.
+- [00:08:57,500 - 00:08:59,500] So ask a question.
+- [00:09:05,500 - 00:09:07,500] And so I will ask a question.
+- [00:09:07,500 - 00:09:09,500] How much dead air can there be?
+- [00:09:09,500 - 00:09:11,500] How long can I pause?
+- [00:09:11,500 - 00:09:13,500] I counted seven seconds.
+- [00:09:13,500 - 00:09:15,500] It seems like an eternity to me
+- [00:09:15,500 - 00:09:17,500] to wait and not say anything for seven seconds.
+- [00:09:17,500 - 00:09:19,500] But that's the standard amount of time
+- [00:09:19,500 - 00:09:20,500] you can wait for an answer.
+- [00:09:20,500 - 00:09:23,500] And of course the question has to be carefully chosen.
+- [00:09:23,500 - 00:09:24,500] It can't be too obvious
+- [00:09:24,500 - 00:09:26,500] because then people will be embarrassed
+- [00:09:26,500 - 00:09:27,500] to say what the answer is.
+- [00:09:27,500 - 00:09:28,500] It can't be too hard
+- [00:09:28,500 - 00:09:32,500] because then nobody will have anything to say.
+- [00:09:32,500 - 00:09:34,500] So here are some sample heuristics
+- [00:09:34,500 - 00:09:36,500] you can put in your armamentorium
+- [00:09:36,500 - 00:09:43,500] and build up your repertoire of ideas about presentation.
+- [00:09:43,500 - 00:09:46,500] And now if this persuades you
+- [00:09:46,500 - 00:09:49,500] that there is something to know,
+- [00:09:49,500 - 00:09:51,500] that there is knowledge,
+- [00:09:51,500 - 00:09:53,500] then I've already succeeded.
+- [00:09:53,500 - 00:09:55,500] Because what I want to convince you of
+- [00:09:55,500 - 00:09:57,500] is that if you watch the speakers you admire
+- [00:09:57,500 - 00:09:59,500] and feel are effective
+- [00:09:59,500 - 00:10:01,500] and ask yourselves why they're successful,
+- [00:10:01,500 - 00:10:05,500] then you can build up your own personal repertoire
+- [00:10:05,500 - 00:10:07,500] and develop your own personal style.
+- [00:10:07,500 - 00:10:09,500] And that's my fundamental objective.
+- [00:10:09,500 - 00:10:11,500] And the rest of this talk
+- [00:10:11,500 - 00:10:13,000] is about some of the
+- [00:10:13,000 - 00:10:14,500] things that are in my armamentorium
+- [00:10:14,500 - 00:10:15,500] that I think are effective.
+- [00:10:15,500 - 00:10:19,500] So next thing on our agenda
+- [00:10:19,500 - 00:10:22,500] as we start to discuss these other things
+- [00:10:22,500 - 00:10:24,500] is a discussion of time and place.
+- [00:10:24,500 - 00:10:26,000] So what do you think is
+- [00:10:26,000 - 00:10:27,500] a good time to have a lecture?
+- [00:10:27,500 - 00:10:31,500] 11 a.m.
+- [00:10:31,500 - 00:10:33,500] Yeah.
+- [00:10:37,500 - 00:10:39,500] And the reason is
+- [00:10:39,500 - 00:10:43,500] most people at MIT are awake by then
+- [00:10:43,500 - 00:10:45,500] and hardly anyone is coming.
+- [00:10:45,500 - 00:10:47,500] So they're just going back to sleep.
+- [00:10:47,500 - 00:10:49,500] It's not right after a meal.
+- [00:10:49,500 - 00:10:52,500] People aren't fatigued from this or that.
+- [00:10:52,500 - 00:10:54,500] It's a great time to have a lecture.
+- [00:10:54,500 - 00:10:56,500] So that brings me next to the question of
+- [00:10:56,500 - 00:10:58,500] what about the place?
+- [00:10:58,500 - 00:11:00,500] And the most important thing about the place
+- [00:11:00,500 - 00:11:03,500] is that it be well lit.
+- [00:11:08,500 - 00:11:11,500] This room is well lit.
+- [00:11:11,500 - 00:11:13,500] The problem with other kinds of rooms
+- [00:11:13,500 - 00:11:15,500] is that we humans,
+- [00:11:15,500 - 00:11:17,500] whenever the lights go down,
+- [00:11:17,500 - 00:11:20,500] whenever the room is dimly lighted,
+- [00:11:20,500 - 00:11:22,500] it signals that we should go to sleep.
+- [00:11:22,500 - 00:11:24,500] So whenever I go somewhere to give a talk,
+- [00:11:24,500 - 00:11:25,500] even today,
+- [00:11:25,500 - 00:11:26,500] the first thing I do
+- [00:11:26,500 - 00:11:29,500] when I speak to the audiovisual people is say,
+- [00:11:29,500 - 00:11:31,500] keep the lights full up.
+- [00:11:33,500 - 00:11:36,500] Oh, they might reply,
+- [00:11:36,500 - 00:11:38,500] people will see the slides better
+- [00:11:38,500 - 00:11:40,500] if we turn the lights off.
+- [00:11:40,500 - 00:11:42,500] And then I reply,
+- [00:11:42,500 - 00:11:44,500] it's extremely hard to see slides through closed eyelids.
+- [00:11:45,500 - 00:11:46,500] So I'm not sure if that's
+- [00:11:46,500 - 00:11:47,500] the right way to do it.
+- [00:11:47,500 - 00:11:49,500] But I think it's a good idea.
+- [00:11:49,500 - 00:11:52,500] What else can you say about the place?
+- [00:11:52,500 - 00:11:54,500] Well, the place should be cased.
+- [00:11:57,500 - 00:12:00,500] And I mean that in a colloquial sense of,
+- [00:12:00,500 - 00:12:02,500] like if you're robbing a bank,
+- [00:12:02,500 - 00:12:04,500] you would go to the bank,
+- [00:12:04,500 - 00:12:06,500] you know, some occasions before
+- [00:12:06,500 - 00:12:08,500] to see what it's like,
+- [00:12:08,500 - 00:12:10,500] so there are no surprises
+- [00:12:10,500 - 00:12:12,500] when you do your robbery.
+- [00:12:12,500 - 00:12:14,500] So whenever I go somewhere to say,
+- [00:12:14,500 - 00:12:16,500] whenever I go somewhere to speak,
+- [00:12:16,500 - 00:12:18,500] the first thing I ask my host to do
+- [00:12:18,500 - 00:12:19,500] is to take me to
+- [00:12:19,500 - 00:12:20,500] the place where I'll be speaking
+- [00:12:20,500 - 00:12:22,500] so that if there are any weirdnesses,
+- [00:12:22,500 - 00:12:26,500] I'll be able to deal with it.
+- [00:12:26,500 - 00:12:29,500] Sometimes it might require some intervention.
+- [00:12:29,500 - 00:12:31,500] Sometimes it just might require me to
+- [00:12:31,500 - 00:12:33,500] understand what the challenges are.
+- [00:12:33,500 - 00:12:36,500] So when I came here this morning,
+- [00:12:36,500 - 00:12:39,500] I did what I typically do.
+- [00:12:39,500 - 00:12:41,500] I imagined that all the seats were filled
+- [00:12:41,500 - 00:12:43,500] with disinterested farm animals.
+- [00:12:44,500 - 00:12:46,500] And I just went away.
+- [00:12:46,500 - 00:12:48,500] I knew that no matter how bad it was,
+- [00:12:48,500 - 00:12:50,500] it wouldn't be as bad as that.
+- [00:12:52,500 - 00:12:58,500] So finally, it should be reasonably populated.
+- [00:13:04,500 - 00:13:07,500] It should be the case that,
+- [00:13:07,500 - 00:13:09,500] you know, if there were ten people in this hall,
+- [00:13:09,500 - 00:13:11,500] everyone would be wondering what's going on
+- [00:13:11,500 - 00:13:13,500] that's so much more interesting
+- [00:13:13,500 - 00:13:15,500] than just a few people sitting in one place.
+- [00:13:15,500 - 00:13:17,500] So you want to get a right-sized place
+- [00:13:17,500 - 00:13:19,500] that doesn't have to be packed,
+- [00:13:19,500 - 00:13:21,500] but it has to be more than half full.
+- [00:13:21,500 - 00:13:24,500] So those are some thoughts about time and place.
+- [00:13:24,500 - 00:13:26,500] The next thing I want to talk about
+- [00:13:26,500 - 00:13:31,500] is the subject of boards and props and slides.
+- [00:13:38,500 - 00:13:41,500] Well, these are the tools of the trade.
+- [00:13:41,500 - 00:13:46,500] I believe that this is the right tool
+- [00:13:46,500 - 00:13:51,500] for speaking when your purpose is informing.
+- [00:13:51,500 - 00:13:55,500] The slides are good when your purpose is exposing.
+- [00:13:55,500 - 00:13:57,500] But this is what I use when I'm informing,
+- [00:13:57,500 - 00:13:59,500] teaching, lecturing.
+- [00:13:59,500 - 00:14:02,500] And there are several reasons why I use it.
+- [00:14:02,500 - 00:14:04,500] For one thing, when you use the board,
+- [00:14:04,500 - 00:14:06,500] you have a graphic quality.
+- [00:14:06,500 - 00:14:09,500] It's the case that when you have,
+- [00:14:09,500 - 00:14:11,500] you know, a board,
+- [00:14:11,500 - 00:14:15,500] then you can easily exploit the fact
+- [00:14:15,500 - 00:14:20,500] that you can use graphics in your presentation.
+- [00:14:20,500 - 00:14:23,500] So that's the graphic quality that I like.
+- [00:14:23,500 - 00:14:25,000] And the next thing I like
+- [00:14:25,000 - 00:14:26,500] is the like a speed property.
+- [00:14:26,500 - 00:14:31,500] The speed with which you write on the blackboard
+- [00:14:31,500 - 00:14:33,500] is approximately the speed
+- [00:14:33,500 - 00:14:35,500] at which people can absorb ideas.
+- [00:14:35,500 - 00:14:37,500] If you go flipping through a bunch of slides,
+- [00:14:37,500 - 00:14:39,500] nobody can go that fast.
+- [00:14:39,500 - 00:14:40,500] So, I'm going to show you
+- [00:14:40,500 - 00:14:41,500] a little bit of a slide.
+- [00:14:41,500 - 00:14:46,500] Finally, one great property of a board
+- [00:14:46,500 - 00:14:53,500] is that it can be a target.
+- [00:14:53,500 - 00:14:58,500] Many people who are novices at speaking
+- [00:14:58,500 - 00:15:03,500] find themselves suddenly aware of their hands.
+- [00:15:03,500 - 00:15:05,500] It's as if their hands were private parts
+- [00:15:05,500 - 00:15:07,500] that shouldn't be exposed in public.
+- [00:15:07,500 - 00:15:10,500] So right away they go into the pockets.
+- [00:15:10,500 - 00:15:12,500] And this is considered insulting
+- [00:15:12,500 - 00:15:14,500] in some parts of the world.
+- [00:15:14,500 - 00:15:16,500] Or alternatively, maybe the hands will go
+- [00:15:16,500 - 00:15:19,500] in back like this.
+- [00:15:19,500 - 00:15:23,500] I was once in a convent in Serbia
+- [00:15:23,500 - 00:15:27,500] and my host, well, we were,
+- [00:15:27,500 - 00:15:29,000] as soon as we entered,
+- [00:15:29,000 - 00:15:30,500] a nun came up to us
+- [00:15:30,500 - 00:15:32,500] and offered us a refreshment.
+- [00:15:32,500 - 00:15:34,500] And I was about to say, no, thank you,
+- [00:15:34,500 - 00:15:38,500] when he said, eat that stuff or die.
+- [00:15:38,500 - 00:15:42,500] It's a question of local custom and politeness.
+- [00:15:42,500 - 00:15:45,500] But then, before anything happened there,
+- [00:15:45,500 - 00:15:49,500] the nun pulled my hands off like this
+- [00:15:49,500 - 00:15:51,500] because it was extraordinarily insulting
+- [00:15:51,500 - 00:15:54,500] in that culture to have your hands behind your back.
+- [00:15:54,500 - 00:15:56,500] So why is that?
+- [00:15:56,500 - 00:15:59,500] Well, it's usually supposed that it has to do
+- [00:15:59,500 - 00:16:02,500] with whether you're concealing a weapon.
+- [00:16:02,500 - 00:16:04,500] So if your hands are in your pockets
+- [00:16:04,500 - 00:16:08,500] or behind your back, then it looks like you
+- [00:16:08,500 - 00:16:09,500] have a weapon.
+- [00:16:09,500 - 00:16:11,500] And that's what I mean by the virtue,
+- [00:16:11,500 - 00:16:13,500] one of these virtues of the board.
+- [00:16:13,500 - 00:16:15,500] Now you have something to do with your hands.
+- [00:16:15,500 - 00:16:19,500] You can point out the stuff.
+- [00:16:19,500 - 00:16:21,500] I was once watching Seymour Papert give a lecture.
+- [00:16:21,500 - 00:16:23,500] I thought it was terrific.
+- [00:16:23,500 - 00:16:25,500] So I went a second time.
+- [00:16:25,500 - 00:16:27,500] First time to absorb the content,
+- [00:16:27,500 - 00:16:29,500] second time to note the style.
+- [00:16:29,500 - 00:16:31,500] And what I discovered is that Papert was constantly
+- [00:16:31,500 - 00:16:33,500] pointing at the board.
+- [00:16:33,500 - 00:16:35,500] And then I thought about it a little while
+- [00:16:35,500 - 00:16:37,000] and I noted that none of
+- [00:16:37,000 - 00:16:38,500] the stuff he was pointing to
+- [00:16:38,500 - 00:16:40,500] had anything to do with what he was saying.
+- [00:16:42,500 - 00:16:45,500] Nevertheless, it was an effective technique.
+- [00:16:48,500 - 00:16:50,500] So that's just a little
+- [00:16:50,500 - 00:16:52,500] bit about the virtue of blackboards.
+- [00:16:52,500 - 00:16:55,500] Now I want to talk about props.
+- [00:16:55,500 - 00:16:58,500] You know, the custodians of knowledge about props
+- [00:16:58,500 - 00:17:00,500] are the playwrights.
+- [00:17:00,500 - 00:17:05,500] Many decades ago, I saw a play by Heinrich Ibsen.
+- [00:17:05,500 - 00:17:07,500] It was Hedda Gabler.
+- [00:17:07,500 - 00:17:10,500] I remember vaguely that it was about a woman
+- [00:17:10,500 - 00:17:12,500] in an unhappy marriage.
+- [00:17:12,500 - 00:17:15,500] And her husband was in competition for an academic job
+- [00:17:15,500 - 00:17:17,500] with somebody else.
+- [00:17:17,500 - 00:17:19,500] And he was going to lose,
+- [00:17:19,500 - 00:17:21,500] partly because he was boring
+- [00:17:21,500 - 00:17:23,500] and partly because the competitor had just written
+- [00:17:23,500 - 00:17:25,500] a magnificent book.
+- [00:17:25,500 - 00:17:26,500] By the way, this was back
+- [00:17:26,500 - 00:17:27,500] in the days before there were
+- [00:17:27,500 - 00:17:29,500] copying machines and computers.
+- [00:17:29,500 - 00:17:32,500] Anyhow, as the play opens,
+- [00:17:32,500 - 00:17:35,500] there's a pot-bellied stove.
+- [00:17:35,500 - 00:17:37,000] And I'm going to show you
+- [00:17:37,000 - 00:17:38,500] a little bit of the story
+- [00:17:38,500 - 00:17:40,500] of the pot-bellied stove.
+- [00:17:41,634 - 00:17:43,522] ご視聴ありがとうございました
+- [00:17:43,522 - 00:17:48,022] And in the beginning of the play, the potbellied stove,
+- [00:17:48,022 - 00:17:53,022] with its open door, just has some slightly glowing embers.
+- [00:17:54,262 - 00:17:56,942] But the potbellied stove is always there,
+- [00:17:56,942 - 00:17:59,382] and its tension mounts in the play.
+- [00:17:59,382 - 00:18:02,262] And you see this manuscript, this prop,
+- [00:18:02,262 - 00:18:05,202] that Ibsen so artfully used, you just know
+- [00:18:06,142 - 00:18:08,462] that something's going to happen,
+- [00:18:08,462 - 00:18:10,902] because as the play goes on,
+- [00:18:10,902 - 00:18:13,801] the fire gets bigger and hotter,
+- [00:18:13,801 - 00:18:16,162] and finally, all-consuming, you just know
+- [00:18:16,162 - 00:18:20,022] that that manuscript is going to go into that fire.
+- [00:18:21,162 - 00:18:22,832] It's a memorable thing, it's
+- [00:18:22,832 - 00:18:24,502] what I remember about the play.
+- [00:18:26,022 - 00:18:29,302] So the playwrights have got this all figured out,
+- [00:18:29,302 - 00:18:31,822] but on the other hand, they're not the only people
+- [00:18:31,822 - 00:18:34,302] who can use props.
+- [00:18:34,302 - 00:18:37,522] Here's an example of the use of a prop,
+- [00:18:37,522 - 00:18:40,722] also due to Seymour Papert, he was talking about
+- [00:18:40,902 - 00:18:42,862] how it's important to look at
+- [00:18:42,862 - 00:18:44,822] the problem in the right way.
+- [00:18:44,822 - 00:18:48,302] And here's an example that not only teaches that,
+- [00:18:48,302 - 00:18:51,382] but makes it possible for you to embarrass your friends
+- [00:18:51,382 - 00:18:53,142] in mechanical engineering.
+- [00:18:53,142 - 00:18:55,062] So here's what you do.
+- [00:18:55,062 - 00:18:58,162] Take this bicycle wheel, and you start it spinning,
+- [00:18:58,162 - 00:19:01,962] and then you put some torque on the axle.
+- [00:19:01,962 - 00:19:06,202] Or, equivalently, you blow on the edge,
+- [00:19:06,202 - 00:19:08,722] and the issue is, does it go that way,
+- [00:19:09,542 - 00:19:10,842] or, does it go that way?
+- [00:19:10,842 - 00:19:16,042] Now the mechanical engineers will immediately say,
+- [00:19:16,042 - 00:19:18,242] oh yes, I see, right-hand screw wheel,
+- [00:19:18,242 - 00:19:20,921] and they'll put their fingers in this position,
+- [00:19:20,921 - 00:19:24,061] but forget exactly how to align their fingers
+- [00:19:24,061 - 00:19:26,522] with various aspects of the problem.
+- [00:19:27,822 - 00:19:29,121] And so it's usually the
+- [00:19:29,121 - 00:19:30,421] case that they get it right
+- [00:19:30,421 - 00:19:32,462] with about a 50% probability.
+- [00:19:34,221 - 00:19:36,671] So their very fancy education
+- [00:19:36,671 - 00:19:39,122] gets them up to the point
+- [00:19:39,122 - 00:19:40,742] where they're equivalent.
+- [00:19:40,842 - 00:19:41,682] And they're not.
+- [00:19:41,682 - 00:19:43,122] They're just flipping a coin.
+- [00:19:43,122 - 00:19:45,721] But it doesn't have to be that way,
+- [00:19:45,721 - 00:19:47,341] because you can think about
+- [00:19:47,341 - 00:19:48,962] the problem a little differently.
+- [00:19:48,962 - 00:19:50,022] So here's what you do.
+- [00:19:50,902 - 00:19:52,101] You take some duct tape,
+- [00:19:53,082 - 00:19:54,772] and you put it around the
+- [00:19:54,772 - 00:19:56,462] part of the wheel like that.
+- [00:19:57,462 - 00:19:58,982] And now you start to
+- [00:19:58,982 - 00:20:00,502] think about not the whole wheel,
+- [00:20:00,502 - 00:20:03,922] but just the little piece that's underneath the duct tape.
+- [00:20:03,922 - 00:20:06,702] So here that piece comes rolling over the top,
+- [00:20:06,702 - 00:20:08,192] and at this point you blow
+- [00:20:08,192 - 00:20:09,682] on it with a puff of air,
+- [00:20:09,682 - 00:20:10,682] forgetting about the rest of the wheel, and you're done.
+- [00:20:10,682 - 00:20:12,342] And the wheel, what happens to that little piece
+- [00:20:12,342 - 00:20:13,622] that's under the duct tape?
+- [00:20:13,622 - 00:20:15,022] It must want to go that way,
+- [00:20:15,022 - 00:20:17,242] because you banged on it like that.
+- [00:20:17,242 - 00:20:19,362] It's already going down like that.
+- [00:20:19,362 - 00:20:20,862] And what about the next piece?
+- [00:20:20,862 - 00:20:21,862] Same thing.
+- [00:20:21,862 - 00:20:23,041] Next piece, same thing.
+- [00:20:23,041 - 00:20:25,582] So the only thing that can happen
+- [00:20:25,582 - 00:20:27,962] is that the wheel goes over like that.
+- [00:20:27,962 - 00:20:30,362] And so now you'll never wonder again,
+- [00:20:30,362 - 00:20:32,962] because you're thinking about the problem in the right way,
+- [00:20:32,962 - 00:20:36,182] and it's demonstrated by the use of a prop.
+- [00:20:38,922 - 00:20:40,622] You can try this after we're done.
+- [00:20:40,682 - 00:20:47,682] Another example I like to remember
+- [00:20:47,682 - 00:20:50,682] is one from when I was taking 801.
+- [00:20:50,682 - 00:20:53,682] Alan Lazarus was the instructor at the time,
+- [00:20:53,682 - 00:20:56,682] and he was talking about the conservation of energy,
+- [00:20:56,682 - 00:20:58,682] kinetic and potential.
+- [00:20:58,682 - 00:21:01,182] And there was a long
+- [00:21:01,182 - 00:21:03,682] wire in the ceiling in 26100
+- [00:21:03,682 - 00:21:06,682] attached to a much bigger steel ball,
+- [00:21:06,682 - 00:21:08,922] but one not unlike this.
+- [00:21:08,922 - 00:21:10,682] And Lazarus said,
+- [00:21:10,682 - 00:21:15,082] I took the ball up against the wall like this.
+- [00:21:15,082 - 00:21:17,132] He put his head flat
+- [00:21:17,132 - 00:21:19,182] against the wall to steady himself,
+- [00:21:19,182 - 00:21:21,682] and then he let go.
+- [00:21:21,682 - 00:21:23,682] And the pendulum takes many
+- [00:21:23,682 - 00:21:25,682] seconds to go over and back,
+- [00:21:25,682 - 00:21:30,202] and then gently kisses Lazarus's nose.
+- [00:21:31,202 - 00:21:33,642] And so you have many seconds to think,
+- [00:21:33,642 - 00:21:36,682] this guy really believes in the conservation of energy.
+- [00:21:40,682 - 00:21:43,682] Do not try this at home.
+- [00:21:43,682 - 00:21:49,682] The problem is that the first time you do this,
+- [00:21:49,682 - 00:21:51,682] you may not just let go.
+- [00:21:51,682 - 00:21:54,682] There's a natural human tendency to push.
+- [00:22:01,681 - 00:22:04,681] So that's a little bit on the subject of props.
+- [00:22:10,682 - 00:22:25,682] You know, it's interesting.
+- [00:22:25,682 - 00:22:27,682] Whenever surveys are taken,
+- [00:22:27,682 - 00:22:31,682] students always say more chalk, less PowerPoint.
+- [00:22:31,682 - 00:22:33,682] And why would that be?
+- [00:22:33,682 - 00:22:36,682] Props are always also very effective.
+- [00:22:36,682 - 00:22:38,682] Why would that be?
+- [00:22:38,682 - 00:22:40,682] I'll give you my lunatic theory.
+- [00:22:40,682 - 00:22:43,682] I'll give you my lunatic fringe view on this.
+- [00:22:43,682 - 00:22:47,682] It has to do with what I would call
+- [00:22:59,682 - 00:23:01,682] empathetic mirroring.
+- [00:23:01,682 - 00:23:03,182] When you're sitting up there
+- [00:23:03,182 - 00:23:04,682] watching me right on the board,
+- [00:23:04,682 - 00:23:07,682] all those little mirror neurons in your head,
+- [00:23:07,682 - 00:23:09,682] I believe, become actuated,
+- [00:23:09,682 - 00:23:12,682] and you can feel yourself writing on the blackboard.
+- [00:23:12,682 - 00:23:14,682] And even more so,
+- [00:23:14,682 - 00:23:17,182] when I talk about this steel
+- [00:23:17,182 - 00:23:19,682] ball going that way and this way,
+- [00:23:19,682 - 00:23:23,682] you can feel the ball as if you were me.
+- [00:23:23,682 - 00:23:25,682] And you can't do that with a slide.
+- [00:23:25,682 - 00:23:27,682] You can't do it with a picture.
+- [00:23:27,682 - 00:23:30,682] You need to see it in a physical world.
+- [00:23:30,682 - 00:23:33,682] That's why I think that...
+- [00:23:33,682 - 00:23:37,682] Oh, yes, of course, there are speed questions involved, too,
+- [00:23:37,682 - 00:23:38,682] that have to be separated out.
+- [00:23:38,682 - 00:23:41,682] But I think that empathetic mirroring is why props
+- [00:23:41,682 - 00:23:46,682] and the use of a blackboard are so effective.
+- [00:23:46,682 - 00:23:50,682] Well, let's see.
+- [00:23:50,682 - 00:23:53,182] Oh, yes, there is one more
+- [00:23:53,182 - 00:23:55,682] thing by way of the tools,
+- [00:23:55,682 - 00:23:59,682] and that has to do with the use of slides.
+- [00:23:59,682 - 00:24:04,682] I repeat, I think they're for exposing ideas,
+- [00:24:04,682 - 00:24:05,682] not for teaching ideas,
+- [00:24:05,682 - 00:24:07,682] but that's what we do in a job talk
+- [00:24:07,682 - 00:24:10,682] or a conference talk.
+- [00:24:10,682 - 00:24:11,682] We expose ideas.
+- [00:24:11,682 - 00:24:13,682] We don't teach them.
+- [00:24:13,682 - 00:24:16,682] So let me tell you a
+- [00:24:16,682 - 00:24:19,682] little bit about my views on that.
+- [00:24:19,682 - 00:24:24,182] I remember once I was
+- [00:24:24,182 - 00:24:28,682] in Terminal A at Logan Airport.
+- [00:24:28,682 - 00:24:32,682] I'd just come back from a really miserable conference,
+- [00:24:32,682 - 00:24:34,682] and the flight was really horrible.
+- [00:24:34,682 - 00:24:36,182] It was one of those that
+- [00:24:36,182 - 00:24:37,682] feels like an unbalanced washing machine.
+- [00:24:37,682 - 00:24:39,682] And for the only time in my life,
+- [00:24:39,682 - 00:24:43,682] I decided to stop on my way to my car
+- [00:24:43,682 - 00:24:45,682] and have a cup of
+- [00:24:45,682 - 00:24:47,682] coffee and relax a little bit.
+- [00:24:47,682 - 00:24:49,682] And as I was there for a few minutes,
+- [00:24:49,682 - 00:24:51,682] someone came up to me and said,
+- [00:24:51,682 - 00:24:53,682] are you Professor Winston?
+- [00:24:53,682 - 00:24:55,682] I think so, I said.
+- [00:24:55,682 - 00:24:57,682] I don't know.
+- [00:24:57,682 - 00:24:59,682] I guess I was trying to be funny.
+- [00:24:59,682 - 00:25:01,682] In any event, he said, I'm on my
+- [00:25:01,682 - 00:25:03,682] way to Europe to give a job talk.
+- [00:25:03,682 - 00:25:06,682] Would you mind critiquing my slides?
+- [00:25:06,682 - 00:25:08,682] Not at all, I said.
+- [00:25:08,682 - 00:25:11,682] You have too many, and they have too many words.
+- [00:25:11,682 - 00:25:13,682] How did you know, he said,
+- [00:25:13,682 - 00:25:16,682] thinking perhaps I'd seen a talk of his before.
+- [00:25:16,682 - 00:25:18,682] I hadn't.
+- [00:25:18,682 - 00:25:21,682] My reply was, because it's always true.
+- [00:25:21,682 - 00:25:25,682] There are always too many slides, always too many words.
+- [00:25:25,682 - 00:25:28,182] So let me show you some extreme
+- [00:25:28,182 - 00:25:30,682] examples of how not to use slides.
+- [00:25:33,682 - 00:25:35,682] Well, for this demonstration,
+- [00:25:35,682 - 00:25:38,682] I need to be way over here.
+- [00:25:41,682 - 00:25:43,682] And when I get over here, then
+- [00:25:43,682 - 00:25:45,682] I can start to say things like,
+- [00:25:47,682 - 00:25:49,182] one of the things you
+- [00:25:49,182 - 00:25:50,682] shouldn't do is read your transparencies.
+- [00:25:50,682 - 00:25:52,682] People in your audience know how to read,
+- [00:25:52,682 - 00:25:54,682] and reading will just annoy them.
+- [00:25:54,682 - 00:25:56,682] Also, you should be sure that you
+- [00:25:56,682 - 00:25:58,682] have only a few words on each transparency
+- [00:25:58,682 - 00:26:01,682] and that the words are easy to read.
+- [00:26:01,682 - 00:26:03,682] And I hope they're driving you crazy.
+- [00:26:03,682 - 00:26:05,682] Because I'm committing, you know,
+- [00:26:05,682 - 00:26:07,682] committing all kinds of crimes.
+- [00:26:07,682 - 00:26:09,682] The first of which is that there
+- [00:26:09,682 - 00:26:11,682] are too many words on the slide.
+- [00:26:11,682 - 00:26:14,682] Second of which is I'm way over there,
+- [00:26:14,682 - 00:26:16,682] and the slide's way over there.
+- [00:26:16,682 - 00:26:19,682] So you get into this tennis match feeling
+- [00:26:19,682 - 00:26:22,182] of shifting back and forth
+- [00:26:22,182 - 00:26:24,682] between the slide and the speaker.
+- [00:26:24,682 - 00:26:26,182] You want the slides to
+- [00:26:26,182 - 00:26:27,682] be condiments to what you're saying,
+- [00:26:27,682 - 00:26:30,682] not the main event or the opposite way around.
+- [00:26:30,682 - 00:26:32,682] So how can we fix this?
+- [00:26:32,682 - 00:26:34,682] Step number one,
+- [00:26:34,682 - 00:26:37,682] is to get rid of the background junk.
+- [00:26:37,682 - 00:26:39,682] That's always distraction.
+- [00:26:39,682 - 00:26:42,682] Step number two is to get rid of the words.
+- [00:26:42,682 - 00:26:45,682] When I reduce the words to these,
+- [00:26:45,682 - 00:26:49,682] then everything I read a previous time,
+- [00:26:49,682 - 00:26:51,182] I'm not licensed to say
+- [00:26:51,182 - 00:26:52,682] because it's not on the slide.
+- [00:26:52,682 - 00:26:54,682] I'm not reading my slides anymore,
+- [00:26:54,682 - 00:26:57,182] but I'm saying what was written
+- [00:26:57,182 - 00:26:59,682] on the slides in a previous example.
+- [00:27:01,682 - 00:27:03,682] So what else can we do to simplify this?
+- [00:27:04,682 - 00:27:06,682] Well, we can get rid of the logos.
+- [00:27:06,682 - 00:27:08,682] We don't need them.
+- [00:27:08,682 - 00:27:11,682] Simplification.
+- [00:27:11,682 - 00:27:13,682] What else can we do?
+- [00:27:13,682 - 00:27:16,682] Get rid of the title.
+- [00:27:16,682 - 00:27:18,682] Now I want to talk to
+- [00:27:18,682 - 00:27:20,682] you about some rules for slide preparation.
+- [00:27:20,682 - 00:27:22,682] I'm telling you the title.
+- [00:27:22,682 - 00:27:24,682] It doesn't have to be up there.
+- [00:27:24,682 - 00:27:26,682] By reducing the number of words on the slide,
+- [00:27:26,682 - 00:27:28,682] I'm allowing you to pay more attention to me
+- [00:27:28,682 - 00:27:30,682] and less to what's written on the slide.
+- [00:27:30,682 - 00:27:32,682] I mentioned it before.
+- [00:27:32,682 - 00:27:34,682] We have only one language process.
+- [00:27:34,682 - 00:27:37,682] And we can either use it to read stuff
+- [00:27:37,682 - 00:27:39,682] or to listen to the speaker.
+- [00:27:39,682 - 00:27:41,182] And so if we have
+- [00:27:41,182 - 00:27:42,682] too many words on the slide,
+- [00:27:42,682 - 00:27:44,682] it forces people in the audience
+- [00:27:44,682 - 00:27:46,682] to read this stuff and not listen.
+- [00:27:48,682 - 00:27:50,182] A student of mine did
+- [00:27:50,182 - 00:27:51,682] an experiment a few years ago.
+- [00:27:51,682 - 00:27:59,682] He taught some students some web-based programming ideas.
+- [00:27:59,682 - 00:28:01,682] Half the information was on slides.
+- [00:28:01,682 - 00:28:03,682] He said the other half.
+- [00:28:03,682 - 00:28:06,682] And then for a control group, he reversed it.
+- [00:28:06,682 - 00:28:10,682] And the question was, what did the subjects,
+- [00:28:10,682 - 00:28:12,682] that is, a freshman in his fraternity,
+- [00:28:12,682 - 00:28:15,682] what did the subjects remember best?
+- [00:28:15,682 - 00:28:20,682] What he said or what they read on the slide?
+- [00:28:20,682 - 00:28:25,682] And the answer is what they read on the slide.
+- [00:28:25,682 - 00:28:27,682] When the slides have a lot of material on it,
+- [00:28:27,682 - 00:28:29,682] they don't pay attention to the speaker.
+- [00:28:29,682 - 00:28:31,682] In fact, in the after-action report,
+- [00:28:31,682 - 00:28:33,682] one of the subjects said,
+- [00:28:33,682 - 00:28:35,682] I wish you hadn't talked so much.
+- [00:28:35,682 - 00:28:36,682] It was distracting.
+- [00:28:39,682 - 00:28:42,682] Well, the last item is eliminate clutter.
+- [00:28:42,682 - 00:28:44,682] Now, here's some clutter.
+- [00:28:44,682 - 00:28:47,682] No reason even for those bullets.
+- [00:28:47,682 - 00:28:51,682] So the too-many-words problem is a consequence
+- [00:28:51,682 - 00:28:54,682] of a crime Microsoft has committed
+- [00:28:54,682 - 00:28:57,682] by allowing you to use fonts that are too small.
+- [00:28:57,682 - 00:29:02,682] So you should all have a sample slide like this
+- [00:29:02,682 - 00:29:04,682] that you can use to determine
+- [00:29:04,682 - 00:29:06,682] what the minimum font size is
+- [00:29:06,682 - 00:29:08,682] that's easily legible.
+- [00:29:08,682 - 00:29:12,682] Shibu, what do you think of those?
+- [00:29:12,682 - 00:29:16,682] What's that?
+- [00:29:16,682 - 00:29:18,682] Yeah.
+- [00:29:18,682 - 00:29:20,682] Minimum, maybe.
+- [00:29:20,682 - 00:29:23,682] Yeah, he says 40 or 50.
+- [00:29:23,682 - 00:29:25,682] I think that's about right.
+- [00:29:25,682 - 00:29:28,682] 35 is if you can get too small.
+- [00:29:28,682 - 00:29:30,682] Not necessarily because you can't read it,
+- [00:29:30,682 - 00:29:32,682] but because you're probably using it
+- [00:29:32,682 - 00:29:34,682] to get too many words on the slide.
+- [00:29:36,682 - 00:29:38,682] What other crimes do we have?
+- [00:29:38,682 - 00:29:41,682] Well, we have the laser pointer crime.
+- [00:29:43,682 - 00:29:44,682] And for that, I brought a lot.
+- [00:29:44,682 - 00:29:46,682] You know, in the old days,
+- [00:29:46,682 - 00:29:47,682] when we didn't have laser pointers,
+- [00:29:47,682 - 00:29:48,682] we used wooden ones,
+- [00:29:48,682 - 00:29:51,682] and people would go waving these things around,
+- [00:29:51,682 - 00:29:56,682] and pretty soon it became almost like
+- [00:29:56,682 - 00:29:58,682] a baton swirling contest.
+- [00:29:58,682 - 00:30:00,682] So here's what we're doing.
+- [00:30:00,682 - 00:30:02,682] Here's what I recommended in the old days
+- [00:30:02,682 - 00:30:04,682] for dealing with this kind of pointer.
+- [00:30:08,682 - 00:30:10,682] This is an example of the use of a prop.
+- [00:30:13,682 - 00:30:15,182] Jim Glass up there saw
+- [00:30:15,182 - 00:30:16,682] this talk about 20 years ago
+- [00:30:16,682 - 00:30:18,682] and said, oh, yeah, I remember that talk.
+- [00:30:18,682 - 00:30:21,682] That's the one where you broke the pointer.
+- [00:30:22,682 - 00:30:24,682] It's amazing how props tend to be
+- [00:30:24,682 - 00:30:26,682] the things that are remembered.
+- [00:30:26,682 - 00:30:28,682] Well, now we don't have,
+- [00:30:28,682 - 00:30:30,682] we don't have,
+- [00:30:30,682 - 00:30:32,682] we don't have physical pointers anymore.
+- [00:30:32,682 - 00:30:34,682] We've got laser pointers.
+- [00:30:34,682 - 00:30:37,682] It's a wonder more people aren't driven
+- [00:30:37,682 - 00:30:40,682] into epileptic fits over this sort of stuff.
+- [00:30:40,682 - 00:30:43,682] But here's what tends to happen.
+- [00:30:43,682 - 00:30:44,682] Look at that.
+- [00:30:44,682 - 00:30:47,682] It's a lovely recursive picture,
+- [00:30:47,682 - 00:30:49,682] and I can become part of it
+- [00:30:49,682 - 00:30:51,682] by putting that laser beam
+- [00:30:51,682 - 00:30:53,682] right on the back of my head up there.
+- [00:30:55,682 - 00:30:57,682] And what do you see?
+- [00:30:57,682 - 00:30:59,682] You see the back of my head.
+- [00:31:00,682 - 00:31:03,682] I have no eye contact, no engagement, nothing.
+- [00:31:03,682 - 00:31:05,682] I was sitting with a
+- [00:31:05,682 - 00:31:07,682] student watching a talk one day,
+- [00:31:07,682 - 00:31:09,682] and she said, you know what?
+- [00:31:09,682 - 00:31:12,682] We could all leave, and he wouldn't know.
+- [00:31:15,682 - 00:31:17,682] So what happens when you use a laser pointer?
+- [00:31:17,682 - 00:31:19,682] You can't use a laser pointer without
+- [00:31:19,682 - 00:31:22,682] turning your head and pointing it at something.
+- [00:31:22,682 - 00:31:24,682] And when you do that,
+- [00:31:24,682 - 00:31:26,682] you lose contact with the audience.
+- [00:31:26,682 - 00:31:28,682] You don't want to do it.
+- [00:31:28,682 - 00:31:29,682] So what do you do if you,
+- [00:31:29,682 - 00:31:32,682] you need to identify something in your image,
+- [00:31:32,682 - 00:31:33,682] and you don't want to
+- [00:31:33,682 - 00:31:34,682] point at it with a laser?
+- [00:31:34,682 - 00:31:36,682] This is what you do.
+- [00:31:36,682 - 00:31:37,682] Put a little arrow on there and say,
+- [00:31:37,682 - 00:31:39,682] now look at that guy number one,
+- [00:31:39,682 - 00:31:41,682] at the end of arrow number one.
+- [00:31:41,682 - 00:31:42,682] You don't need to have
+- [00:31:42,682 - 00:31:43,682] a laser pointer to do that.
+- [00:31:48,682 - 00:31:50,682] The too heavy crime.
+- [00:31:50,682 - 00:31:53,682] When people ask me to review a presentation,
+- [00:31:53,682 - 00:31:55,682] I ask them to print it out
+- [00:31:55,682 - 00:31:57,682] and lay it out on a table.
+- [00:31:59,682 - 00:32:01,682] When they do that,
+- [00:32:01,682 - 00:32:04,682] it's easy to see whether the talk is too heavy,
+- [00:32:04,682 - 00:32:06,682] too much text,
+- [00:32:06,682 - 00:32:08,682] not enough air,
+- [00:32:08,682 - 00:32:09,682] not enough white space,
+- [00:32:09,682 - 00:32:11,682] not enough imagery.
+- [00:32:11,682 - 00:32:15,682] This is a good example of such a talk.
+- [00:32:15,682 - 00:32:17,682] Way too heavy.
+- [00:32:17,682 - 00:32:20,682] The presenter has taken advantage of
+- [00:32:20,682 - 00:32:22,682] small font sizes to get as
+- [00:32:22,682 - 00:32:24,682] much on the slide as he wanted.
+- [00:32:26,682 - 00:32:28,682] Lots of other crimes here,
+- [00:32:28,682 - 00:32:31,682] but the fact that it's too heavy
+- [00:32:31,682 - 00:32:33,682] is what I wanted to illustrate.
+- [00:32:33,682 - 00:32:34,682] So here, by contrast,
+- [00:32:34,682 - 00:32:36,682] another talk,
+- [00:32:36,682 - 00:32:37,682] one I gave a few years ago.
+- [00:32:37,682 - 00:32:40,682] It wasn't a deeply technical talk,
+- [00:32:40,682 - 00:32:43,682] but I show it to you because
+- [00:32:43,682 - 00:32:45,682] there's air in it.
+- [00:32:45,682 - 00:32:48,682] It's mostly pictures of things.
+- [00:32:48,682 - 00:32:50,182] There are three or four
+- [00:32:50,182 - 00:32:51,682] slides that have text on them,
+- [00:32:51,682 - 00:32:53,682] but when I come to those,
+- [00:32:53,682 - 00:32:55,682] I give the audience time to read them.
+- [00:32:55,682 - 00:32:57,682] And they're there because they might have
+- [00:32:57,682 - 00:32:59,682] some historical significance.
+- [00:32:59,682 - 00:33:01,682] The first slide with a lot of text on it
+- [00:33:01,682 - 00:33:04,682] is an extraction from the 1957,
+- [00:33:04,682 - 00:33:07,682] from the proposal for the 1957
+- [00:33:07,682 - 00:33:09,682] AI conference at Dartmouth.
+- [00:33:09,682 - 00:33:12,682] Extraordinarily interesting event,
+- [00:33:12,682 - 00:33:14,682] and that historical
+- [00:33:14,682 - 00:33:16,682] extraction from the proposal
+- [00:33:16,682 - 00:33:18,682] helps drive that point home.
+- [00:33:19,682 - 00:33:21,682] What else have we got here?
+- [00:33:21,682 - 00:33:24,682] Oh yeah, your vocabulary word for the day.
+- [00:33:24,682 - 00:33:26,682] This is an Apax Legomenon.
+- [00:33:27,682 - 00:33:29,682] What that means is,
+- [00:33:29,682 - 00:33:30,682] this is the kind of
+- [00:33:30,682 - 00:33:31,682] slide you can get away with
+- [00:33:31,682 - 00:33:33,682] exactly once in your presentation.
+- [00:33:35,682 - 00:33:37,182] This is a slide that
+- [00:33:37,182 - 00:33:38,682] got some currency some years ago
+- [00:33:38,682 - 00:33:41,682] because it shows the complexity
+- [00:33:41,682 - 00:33:44,682] of governing in Afghanistan
+- [00:33:44,682 - 00:33:48,682] by showing how impossibly complex it is.
+- [00:33:48,682 - 00:33:51,682] It's something you in the audience can't understand,
+- [00:33:51,682 - 00:33:53,682] and that's the point.
+- [00:33:53,682 - 00:33:55,682] But you can't have many of these.
+- [00:33:55,682 - 00:33:56,682] You can have one per work,
+- [00:33:56,682 - 00:33:57,682] one per presentation,
+- [00:33:57,682 - 00:33:58,682] one per paper,
+- [00:33:58,682 - 00:33:59,682] one per book.
+- [00:33:59,682 - 00:34:02,682] That's what Apax Legomenon is,
+- [00:34:02,682 - 00:34:04,682] and this is an example of it.
+- [00:34:05,682 - 00:34:07,682] Well, I'll show you some crimes,
+- [00:34:07,682 - 00:34:08,681] and so you might be asking,
+- [00:34:08,681 - 00:34:11,681] do these crimes actually occur?
+- [00:34:11,681 - 00:34:15,681] So, they do.
+- [00:34:20,681 - 00:34:22,681] There's the hands in the pockets crime.
+- [00:34:22,681 - 00:34:29,681] There's a crime and time and place selection here.
+- [00:34:29,681 - 00:34:33,681] This is how you get to the Bartos Theater.
+- [00:34:33,681 - 00:34:36,681] First thing you do is you get on these steps
+- [00:34:36,681 - 00:34:38,681] over at the Media Lab.
+- [00:34:38,681 - 00:34:42,681] Then you cross this large open space.
+- [00:34:42,681 - 00:34:45,681] Then you turn right down this corridor.
+- [00:34:45,681 - 00:34:47,681] At this point, whenever I go in there,
+- [00:34:47,681 - 00:34:50,681] I wonder if there are torture implements around the corner.
+- [00:34:50,681 - 00:34:52,681] And then when you get in there,
+- [00:34:52,681 - 00:34:54,681] you get into this dark, gloomy place.
+- [00:34:54,681 - 00:34:57,682] So it's well-named when they call it the Bartos Theater
+- [00:34:57,682 - 00:34:59,682] because it's a place where you can watch a movie,
+- [00:34:59,682 - 00:35:01,182] but it's not a place
+- [00:35:01,182 - 00:35:02,682] where you can give a talk.
+- [00:35:02,682 - 00:35:05,682] Now, on a subject that doesn't happen,
+- [00:35:05,682 - 00:35:09,682] here's a talk I attended a while back in Stata.
+- [00:35:09,682 - 00:35:14,682] Notice that the speaker is far away from the slides.
+- [00:35:14,682 - 00:35:16,682] The speaker's using a laser pointer.
+- [00:35:16,682 - 00:35:18,682] It's a little bit more of a straight line.
+- [00:35:18,682 - 00:35:19,682] It's a little bit more of a straight line.
+- [00:35:19,682 - 00:35:22,682] He's using a laser pointer.
+- [00:35:22,682 - 00:35:25,682] And you say to me, well, what's happening here?
+- [00:35:25,682 - 00:35:30,682] It's, by the way, the 80th slide in the presentation.
+- [00:35:30,682 - 00:35:32,682] Notice that it's dense with words.
+- [00:35:32,682 - 00:35:37,682] This is the first of 10 conclusion slides.
+- [00:35:37,682 - 00:35:41,682] So what's the audience reaction?
+- [00:35:41,682 - 00:35:44,682] That's the sponsor of the meeting.
+- [00:35:44,682 - 00:35:46,682] He's reading his email.
+- [00:35:46,682 - 00:35:49,682] This is the co-sponsor of the meeting.
+- [00:35:49,682 - 00:35:51,682] He's examining the lunch menu.
+- [00:35:51,682 - 00:35:55,682] What about this person?
+- [00:35:55,682 - 00:36:00,682] This person looks like he's paying attention,
+- [00:36:00,682 - 00:36:03,682] but just because it's a still picture.
+- [00:36:03,682 - 00:36:05,682] If you were to see a video,
+- [00:36:05,682 - 00:36:08,682] what you would see is something like this.
+- [00:36:13,682 - 00:36:16,682] So, yeah, it does happen.
+- [00:36:16,682 - 00:36:19,682] Well, now, that's a little bit more of a story.
+- [00:36:19,682 - 00:36:22,682] I think we've done a quick review of tools.
+- [00:36:22,682 - 00:36:30,682] Now I want to talk about some special cases.
+- [00:36:30,682 - 00:36:32,682] We could talk a little bit about informing,
+- [00:36:32,682 - 00:36:35,182] or to say it another
+- [00:36:35,182 - 00:36:37,682] way, doing what I'm doing now.
+- [00:36:37,682 - 00:36:40,682] But I'll just say a few words about that.
+- [00:36:40,682 - 00:36:42,182] In that kind of presentation, you
+- [00:36:42,182 - 00:36:43,682] want to start with a promise,
+- [00:36:43,682 - 00:36:45,682] like I did for this
+- [00:36:45,682 - 00:36:47,682] hour that we're going through now.
+- [00:36:47,682 - 00:36:49,682] But then it comes to the question of,
+- [00:36:49,682 - 00:36:52,682] how do you inspire people?
+- [00:36:52,682 - 00:36:54,682] I've given this talk for a long time,
+- [00:36:54,682 - 00:36:57,682] and a few years ago our department chairman said,
+- [00:36:57,682 - 00:37:01,682] would you please give this talk to a new faculty
+- [00:37:01,682 - 00:37:04,182] and be sure to emphasize
+- [00:37:04,182 - 00:37:06,682] what it takes to inspire students?
+- [00:37:06,682 - 00:37:08,682] And strangely, I hadn't thought about that question before,
+- [00:37:08,682 - 00:37:10,682] so I started a survey.
+- [00:37:10,682 - 00:37:13,682] I talked to some of my incoming freshman advisees,
+- [00:37:13,682 - 00:37:17,682] and I talked to senior faculty and everything in between
+- [00:37:17,682 - 00:37:19,682] about how they've been inspired by this.
+- [00:37:19,682 - 00:37:22,682] And what I found from the incoming freshman
+- [00:37:22,682 - 00:37:25,682] is that they were inspired by some high school teacher
+- [00:37:25,682 - 00:37:27,682] who told them they could do it.
+- [00:37:27,682 - 00:37:30,682] What I found in the senior faculty,
+- [00:37:30,682 - 00:37:34,682] they were inspired by someone who helped them
+- [00:37:34,682 - 00:37:36,682] to see a problem in a new way.
+- [00:37:36,682 - 00:37:39,182] And what I saw from
+- [00:37:39,182 - 00:37:41,682] everyone is that they were inspired
+- [00:37:41,682 - 00:37:47,682] when someone exhibited passion about what they were doing.
+- [00:37:47,682 - 00:37:48,682] I used that.
+- [00:37:48,682 - 00:37:51,682] Exhibit passion about what they were doing.
+- [00:37:51,682 - 00:37:56,682] Yeah, so that's one way to be inspiring.
+- [00:37:56,682 - 00:37:59,682] It's easy for me because, you know,
+- [00:37:59,682 - 00:38:01,682] I do artificial intelligence.
+- [00:38:01,682 - 00:38:05,682] And how can you not be interested
+- [00:38:05,682 - 00:38:07,682] in artificial intelligence, right?
+- [00:38:07,682 - 00:38:10,682] I mean, if you're not interested in artificial intelligence,
+- [00:38:10,682 - 00:38:12,682] you're probably not interested in interesting things.
+- [00:38:15,682 - 00:38:17,682] So when I'm lecturing in my,
+- [00:38:17,682 - 00:38:19,682] in my AI class,
+- [00:38:19,682 - 00:38:21,182] it's natural for me to talk
+- [00:38:21,182 - 00:38:22,682] about what I think is cool
+- [00:38:22,682 - 00:38:26,682] and how exciting some new idea is.
+- [00:38:26,682 - 00:38:28,682] So that's the kind of,
+- [00:38:28,682 - 00:38:30,682] that's the kind of expression of passion
+- [00:38:30,682 - 00:38:33,682] that makes a difference while informing
+- [00:38:33,682 - 00:38:37,682] with respect to this question of inspiring.
+- [00:38:39,682 - 00:38:42,682] Oh, yeah, and of course, during this promise phase,
+- [00:38:42,682 - 00:38:46,682] you can also express how cool stuff is.
+- [00:38:46,682 - 00:38:48,682] Let me give you an example of a lecture
+- [00:38:48,682 - 00:38:50,682] that starts this way.
+- [00:38:50,682 - 00:38:52,682] I'm talking about resource allocation.
+- [00:38:52,682 - 00:38:53,682] It's the same sort of stuff
+- [00:38:53,682 - 00:38:54,682] you would think of when you're,
+- [00:38:54,682 - 00:38:56,682] it's the same sort of ideas you would need
+- [00:38:56,682 - 00:39:00,682] if you're allocating aircraft to a flight schedule
+- [00:39:00,682 - 00:39:03,682] or trying to schedule a factory or something like that.
+- [00:39:03,682 - 00:39:06,682] But the example is putting colors on the states
+- [00:39:06,682 - 00:39:09,682] in the United States without any bordering states
+- [00:39:09,682 - 00:39:10,682] having the same color.
+- [00:39:10,682 - 00:39:12,682] So here goes.
+- [00:39:14,682 - 00:39:16,682] This is what I show in my,
+- [00:39:16,682 - 00:39:18,682] in the beginning of the class.
+- [00:39:18,682 - 00:39:20,682] This is a way of doing that coloring.
+- [00:39:20,682 - 00:39:21,682] And you might say,
+- [00:39:21,682 - 00:39:24,682] well, why don't we wait till it finishes?
+- [00:39:24,682 - 00:39:26,682] Would you like to do that?
+- [00:39:26,682 - 00:39:28,682] No?
+- [00:39:28,682 - 00:39:30,682] Well, we're not gonna wait till it finishes
+- [00:39:30,682 - 00:39:32,682] because the sun will have exploded
+- [00:39:32,682 - 00:39:35,682] and consumed the earth before this program finishes.
+- [00:39:36,682 - 00:39:40,682] But with a slight adjustment to how the program works,
+- [00:39:40,682 - 00:39:41,682] which I tell my students,
+- [00:39:41,682 - 00:39:44,682] you will understand in the next 50 minutes,
+- [00:39:44,682 - 00:39:46,682] this is what you get.
+- [00:39:46,682 - 00:39:50,682] Isn't that cool?
+- [00:39:50,682 - 00:39:53,682] You know, you gotta be amazed by stuff
+- [00:39:53,682 - 00:39:57,682] that takes a computation from longer than the lifetime
+- [00:39:57,682 - 00:39:59,682] of the solar system into a few seconds.
+- [00:39:59,682 - 00:40:02,182] So that's what I mean
+- [00:40:02,182 - 00:40:04,682] by providing a promise up front
+- [00:40:04,682 - 00:40:08,682] and expressing some passion about what you're talking about.
+- [00:40:08,682 - 00:40:11,682] Well, the last item in this little block here
+- [00:40:11,682 - 00:40:13,682] has to do with what people
+- [00:40:13,682 - 00:40:15,682] think that they do at MIT.
+- [00:40:15,682 - 00:40:18,682] You ask faculty what the most important purpose is,
+- [00:40:18,682 - 00:40:20,682] and they'll say, well,
+- [00:40:20,682 - 00:40:22,682] the most important thing I do
+- [00:40:22,682 - 00:40:24,682] is teach people how to think.
+- [00:40:24,682 - 00:40:27,682] And then you say, oh, that's great.
+- [00:40:27,682 - 00:40:30,682] How do you teach people how to think?
+- [00:40:30,682 - 00:40:33,682] Blank stare.
+- [00:40:33,682 - 00:40:37,682] No one can quite respond to that part,
+- [00:40:37,682 - 00:40:39,682] that natural next question.
+- [00:40:39,682 - 00:40:41,682] So how do you teach people how to think?
+- [00:40:41,682 - 00:40:44,682] Well, I believe that we all have a purpose.
+- [00:40:44,682 - 00:40:48,682] I believe that we are storytelling animals
+- [00:40:48,682 - 00:40:51,682] and that we start developing our story,
+- [00:40:51,682 - 00:40:53,682] understanding and manipulating skills
+- [00:40:53,682 - 00:40:55,682] with fairy tales in childhood
+- [00:40:55,682 - 00:40:58,682] and continue on through professional schools
+- [00:40:58,682 - 00:41:03,682] like law, business, medicine, engineering, everything.
+- [00:41:03,682 - 00:41:06,682] And we continue doing that throughout life.
+- [00:41:06,682 - 00:41:09,682] So if that is what thinking is all about,
+- [00:41:09,682 - 00:41:11,682] then when you want to teach people how to think,
+- [00:41:11,682 - 00:41:13,682] you provide them with the stories they need to know,
+- [00:41:13,682 - 00:41:16,682] the questions they need to ask about those stories,
+- [00:41:16,682 - 00:41:18,682] mechanisms for analyzing those stories,
+- [00:41:18,682 - 00:41:20,682] ways of putting stories together,
+- [00:41:20,682 - 00:41:24,682] ways of evaluating how reliable a story is,
+- [00:41:24,682 - 00:41:26,682] and that's what I think you need to do
+- [00:41:26,682 - 00:41:29,682] when you teach people how to think.
+- [00:41:29,682 - 00:41:31,682] But that's all about education,
+- [00:41:31,682 - 00:41:34,682] and many of you here,
+- [00:41:34,682 - 00:41:36,682] not necessarily for that,
+- [00:41:36,682 - 00:41:39,682] but rather for this part,
+- [00:41:39,682 - 00:41:40,682] for persuading,
+- [00:41:40,682 - 00:41:42,682] which breaks down into several categories,
+- [00:41:42,682 - 00:41:44,682] oral exams not shown,
+- [00:41:44,682 - 00:41:47,682] job talks getting famous.
+- [00:41:47,682 - 00:41:49,682] I won't say much about oral exams
+- [00:41:49,682 - 00:41:51,682] other than the fact that they used to be
+- [00:41:51,682 - 00:41:54,682] a lot scarier than they are today.
+- [00:41:54,682 - 00:41:57,682] In the old days,
+- [00:41:57,682 - 00:41:59,682] reading the literature in a foreign language
+- [00:41:59,682 - 00:42:00,682] was part of that,
+- [00:42:00,682 - 00:42:03,682] and there was a high failure rate.
+- [00:42:03,682 - 00:42:07,682] And when you look back on those failures,
+- [00:42:07,682 - 00:42:11,682] the most usual reason for people failing an oral exam
+- [00:42:11,682 - 00:42:16,682] is failure to situate and failure to practice.
+- [00:42:16,682 - 00:42:19,682] By situate, I mean it's important to talk about
+- [00:42:19,682 - 00:42:21,682] your research in context.
+- [00:42:21,682 - 00:42:23,182] This is a problem that's
+- [00:42:23,182 - 00:42:24,682] being pursued all over the world.
+- [00:42:24,682 - 00:42:26,682] There hasn't been any progress before me
+- [00:42:26,682 - 00:42:29,682] in the past 30 years.
+- [00:42:29,682 - 00:42:31,682] Everyone is looking for a solution
+- [00:42:31,682 - 00:42:34,682] because it will have impact on so many other things.
+- [00:42:34,682 - 00:42:37,682] So that's situating in time and place and feel.
+- [00:42:37,682 - 00:42:40,682] And then as far as practice is concerned,
+- [00:42:40,682 - 00:42:42,682] yes, practice is important,
+- [00:42:42,682 - 00:42:46,682] but that doesn't mean showing your slides
+- [00:42:46,682 - 00:42:49,682] to the people you share an office with.
+- [00:42:49,682 - 00:42:51,682] The problem with that is that
+- [00:42:51,682 - 00:42:53,682] if people know what you're doing,
+- [00:42:53,682 - 00:42:55,682] they will hallucinate that there's material
+- [00:42:55,682 - 00:42:58,682] in your presentation that isn't there.
+- [00:42:58,682 - 00:43:00,682] A variation on this thing, by the way,
+- [00:43:00,682 - 00:43:04,682] is your faculty supervisor
+- [00:43:04,682 - 00:43:06,182] is not a very good person
+- [00:43:06,182 - 00:43:07,682] to help you debug a talk
+- [00:43:07,682 - 00:43:09,682] because they, in fact, know what you're doing,
+- [00:43:09,682 - 00:43:11,682] and they will, in fact, hallucinate
+- [00:43:11,682 - 00:43:14,682] there's material in your presentation that isn't there.
+- [00:43:14,682 - 00:43:16,682] So you need to get together some friends
+- [00:43:16,682 - 00:43:19,682] who don't know what you're doing and have them...
+- [00:43:19,682 - 00:43:22,682] Well, you start the practice session by saying,
+- [00:43:22,682 - 00:43:25,682] if you can't make me cry,
+- [00:43:25,682 - 00:43:28,682] I won't value you as a friend anymore.
+- [00:43:28,682 - 00:43:30,682] And then when you get to the faculty
+- [00:43:30,682 - 00:43:34,682] on an oral exam, it will be easy.
+- [00:43:34,682 - 00:43:37,682] You see, difficulty...
+- [00:43:37,682 - 00:43:39,682] The amount of flak you'll get from somebody
+- [00:43:39,682 - 00:43:41,682] is proportional to age.
+- [00:43:41,682 - 00:43:43,682] The older somebody is,
+- [00:43:43,682 - 00:43:46,682] the more they understand where they are in the world.
+- [00:43:46,682 - 00:43:47,682] But the young people are
+- [00:43:47,682 - 00:43:48,682] trying to show the old people
+- [00:43:48,682 - 00:43:51,682] how smart they are, so they'll be vicious.
+- [00:43:51,682 - 00:43:53,682] So whenever you have an opportunity
+- [00:43:53,682 - 00:43:54,682] to have an examining committee
+- [00:43:54,682 - 00:43:56,682] that's full of people with gray hair,
+- [00:43:56,682 - 00:43:58,682] that's what you want.
+- [00:43:58,682 - 00:44:00,682] Well, that's just a word or two
+- [00:44:00,682 - 00:44:02,682] about something I haven't listed here.
+- [00:44:02,682 - 00:44:04,682] Let's get into the subject of job talks.
+- [00:44:04,682 - 00:44:09,682] So I was sitting in a bar
+- [00:44:09,682 - 00:44:13,682] many years ago in San Diego.
+- [00:44:13,682 - 00:44:16,682] I was a member of the Navy Science Board,
+- [00:44:16,682 - 00:44:18,682] and I was sitting with a
+- [00:44:18,682 - 00:44:20,682] couple of my colleagues on the board.
+- [00:44:20,682 - 00:44:23,682] Dolores Eder from the University of Colorado.
+- [00:44:23,682 - 00:44:25,682] She made me so jealous I could spit
+- [00:44:25,682 - 00:44:27,682] because she'd written 21 books
+- [00:44:27,682 - 00:44:29,682] and I'd only written 17.
+- [00:44:29,682 - 00:44:33,682] And then the other one was
+- [00:44:33,682 - 00:44:37,682] Bill Weldon from the University of Texas.
+- [00:44:37,682 - 00:44:39,682] He was an electromagnet.
+- [00:44:39,682 - 00:44:41,682] He was a magnetism guy,
+- [00:44:41,682 - 00:44:43,682] and he knew how to use rail guns
+- [00:44:43,682 - 00:44:45,682] to drive steel rods through tank armor.
+- [00:44:45,682 - 00:44:47,682] These were interesting people.
+- [00:44:47,682 - 00:44:49,682] So I said, what do you look for
+- [00:44:49,682 - 00:44:52,682] in a faculty candidate?
+- [00:44:52,682 - 00:44:56,682] And within one microsecond,
+- [00:44:56,682 - 00:44:58,682] Dolores said,
+- [00:44:58,682 - 00:45:00,182] they have to show us
+- [00:45:00,182 - 00:45:01,682] they've got some kind of vision.
+- [00:45:01,682 - 00:45:04,682] Quickly followed by Bill,
+- [00:45:04,682 - 00:45:06,682] who said, they have to show us
+- [00:45:06,682 - 00:45:08,682] that they've done something.
+- [00:45:09,682 - 00:45:17,682] Oh, that sounds good, I said.
+- [00:45:17,682 - 00:45:19,682] And then I said to them,
+- [00:45:19,682 - 00:45:21,682] how long does a candidate have
+- [00:45:21,682 - 00:45:23,682] to establish these two things?
+- [00:45:23,682 - 00:45:25,682] What do you think?
+- [00:45:25,682 - 00:45:28,682] Well, compare your answer to theirs.
+- [00:45:32,682 - 00:45:35,682] Five minutes.
+- [00:45:35,682 - 00:45:38,682] So if you haven't expressed your vision,
+- [00:45:38,682 - 00:45:40,682] if you haven't told people
+- [00:45:40,682 - 00:45:42,682] that you've done something,
+- [00:45:42,682 - 00:45:45,682] in five minutes you've already lost.
+- [00:45:45,682 - 00:45:47,682] So you have to be able to do that.
+- [00:45:47,682 - 00:45:49,682] And let me just mention a couple of things
+- [00:45:49,682 - 00:45:51,682] in that connection.
+- [00:45:51,682 - 00:45:53,682] Here, which is, you know, the vision
+- [00:45:53,682 - 00:45:57,682] is in part a problem that somebody cares about
+- [00:45:57,682 - 00:46:00,682] and something new in your approach.
+- [00:46:00,682 - 00:46:07,682] So the problem is understanding
+- [00:46:07,682 - 00:46:09,682] the nature of human intelligence.
+- [00:46:09,682 - 00:46:12,682] And the approach is asking questions
+- [00:46:12,682 - 00:46:14,682] about what makes us different
+- [00:46:14,682 - 00:46:17,682] from chimpanzees and Neanderthals.
+- [00:46:17,682 - 00:46:19,682] Is it merely a matter of quantity
+- [00:46:19,682 - 00:46:21,682] or are we just a little bit smarter
+- [00:46:21,682 - 00:46:23,682] in some continuous way?
+- [00:46:23,682 - 00:46:26,682] Or do we have something that's fundamentally different
+- [00:46:26,682 - 00:46:28,682] that chimpanzees don't have
+- [00:46:28,682 - 00:46:29,682] and Neanderthals either?
+- [00:46:29,682 - 00:46:31,682] And the answer is yes.
+- [00:46:31,682 - 00:46:33,682] We do have something different.
+- [00:46:33,682 - 00:46:35,682] We are symbolic creatures.
+- [00:46:35,682 - 00:46:38,682] And because we're symbolic creatures,
+- [00:46:38,682 - 00:46:43,682] we can build symbolic descriptions
+- [00:46:43,682 - 00:46:45,682] of relations and events.
+- [00:46:45,682 - 00:46:47,682] We can string them together and make stories.
+- [00:46:47,682 - 00:46:49,682] And because we can make stories,
+- [00:46:49,682 - 00:46:51,682] that's what makes us different.
+- [00:46:51,682 - 00:46:53,682] So that's my stump speech.
+- [00:46:53,682 - 00:46:55,682] That's how I start most of my talks
+- [00:46:55,682 - 00:46:57,682] on my own personal research.
+- [00:46:57,682 - 00:46:58,682] How do you,
+- [00:46:58,682 - 00:47:01,682] how do you express the notion
+- [00:47:01,682 - 00:47:03,682] that you've done something?
+- [00:47:03,682 - 00:47:08,682] By listing the steps that need to be taken
+- [00:47:08,682 - 00:47:11,682] in order to achieve the solution to that problem.
+- [00:47:11,682 - 00:47:13,682] You don't have to have done all of those steps,
+- [00:47:13,682 - 00:47:14,682] but you can say,
+- [00:47:14,682 - 00:47:16,682] here's what needs to be done.
+- [00:47:16,682 - 00:47:18,682] An example.
+- [00:47:18,682 - 00:47:20,682] Here's what needs to be done.
+- [00:47:20,682 - 00:47:22,682] We need to specify some behavior.
+- [00:47:22,682 - 00:47:25,682] We need to enumerate the constraints
+- [00:47:25,682 - 00:47:27,682] that make it possible to deal with that behavior.
+- [00:47:27,682 - 00:47:29,682] We have to implement a system
+- [00:47:29,682 - 00:47:30,682] because we're engineers
+- [00:47:30,682 - 00:47:32,682] and we don't think that we've understood something
+- [00:47:32,682 - 00:47:34,682] unless we can build it.
+- [00:47:34,682 - 00:47:35,682] And we've built such a system
+- [00:47:35,682 - 00:47:37,682] and we're about to demonstrate it to you today.
+- [00:47:37,682 - 00:47:39,682] That would be an example of enumerating
+- [00:47:39,682 - 00:47:43,682] a series of steps needed to realize the vision.
+- [00:47:43,682 - 00:47:45,682] So then, blah, blah, blah,
+- [00:47:45,682 - 00:47:47,682] blah, blah, blah, blah, blah, blah.
+- [00:47:47,682 - 00:47:50,682] And then you conclude by,
+- [00:47:50,682 - 00:47:54,682] you conclude by enumerating your contributions.
+- [00:47:57,682 - 00:48:03,682] It's kind of a mirror of these steps
+- [00:48:03,682 - 00:48:06,682] and helps to establish that you've done something.
+- [00:48:06,682 - 00:48:08,682] So that's a kind of general purpose framework
+- [00:48:08,682 - 00:48:11,682] for doing a technical talk.
+- [00:48:11,682 - 00:48:15,682] Now, only a few more things left to do today.
+- [00:48:15,682 - 00:48:18,682] Getting famous is the next item on our agenda
+- [00:48:18,682 - 00:48:20,682] because once you've got the job,
+- [00:48:20,682 - 00:48:22,682] you need to think a little bit about
+- [00:48:22,682 - 00:48:25,682] how you're going to be recognized for what you do.
+- [00:48:25,682 - 00:48:26,682] So.
+- [00:48:33,682 - 00:48:34,682] Well, first of all,
+- [00:48:34,682 - 00:48:37,682] why should you care about getting famous?
+- [00:48:37,682 - 00:48:43,682] I thought about this in connection with a fundraising event
+- [00:48:43,682 - 00:48:47,682] I attended once.
+- [00:48:47,682 - 00:48:50,682] Fundraising event for raising money to save Venice
+- [00:48:50,682 - 00:48:53,682] from going underwater and having all of its art destroyed.
+- [00:48:53,682 - 00:48:56,682] Anyway, I was sitting here.
+- [00:48:56,682 - 00:48:59,682] And JC was sitting here.
+- [00:48:59,682 - 00:49:02,682] That was Julia, the late Julia Child.
+- [00:49:02,682 - 00:49:09,682] And as the evening wore on,
+- [00:49:09,682 - 00:49:11,682] more and more people would come up
+- [00:49:11,682 - 00:49:14,682] and ask Julia to autograph something
+- [00:49:14,682 - 00:49:19,682] or express a feeling that she had changed their life.
+- [00:49:19,682 - 00:49:22,682] And it just happened over and over again.
+- [00:49:22,682 - 00:49:24,682] So eventually, I turned to Julia and I said,
+- [00:49:24,682 - 00:49:29,682] Ms. Child, is it fun to be famous?
+- [00:49:29,682 - 00:49:31,182] And she thought about it
+- [00:49:31,182 - 00:49:32,682] for a second and she said,
+- [00:49:32,682 - 00:49:34,682] you get used to it.
+- [00:49:34,682 - 00:49:37,682] But you know what occurred to me?
+- [00:49:37,682 - 00:49:40,682] You never get used to being ignored.
+- [00:49:40,682 - 00:49:43,682] So it's, you know, it's, it's. . .
+- [00:49:43,682 - 00:49:45,682] Here's a way to think about it.
+- [00:49:45,682 - 00:49:47,682] Your ideas are like your children.
+- [00:49:47,682 - 00:49:48,682] And you don't want them to
+- [00:49:48,682 - 00:49:49,682] go into the world in rags.
+- [00:49:49,682 - 00:49:51,182] So what you want to do is
+- [00:49:51,182 - 00:49:52,682] to be sure that you have these techniques,
+- [00:49:52,682 - 00:49:55,182] these mechanisms, these thoughts about how
+- [00:49:55,182 - 00:49:57,682] to present the ideas that you have
+- [00:49:57,682 - 00:49:59,682] so that they're recognized for
+- [00:49:59,682 - 00:50:01,682] the value that is in them.
+- [00:50:01,682 - 00:50:03,682] So that's why it's a legitimate thing
+- [00:50:03,682 - 00:50:06,682] to concern yourself with packaging.
+- [00:50:06,682 - 00:50:09,682] Now, how do you get remembered?
+- [00:50:09,682 - 00:50:13,682] Well, there's something I like to call Winston's Star.
+- [00:50:13,682 - 00:50:16,182] And every one of the items
+- [00:50:16,182 - 00:50:18,682] I'm about to articulate has a,
+- [00:50:18,682 - 00:50:20,682] starts with an S.
+- [00:50:20,682 - 00:50:22,682] So if you want your name to be remembered,
+- [00:50:22,682 - 00:50:25,682] if you want your presentation ideas to be remembered,
+- [00:50:25,682 - 00:50:27,182] one of the things you need to
+- [00:50:27,182 - 00:50:28,682] do is to make sure that you have
+- [00:50:28,682 - 00:50:33,682] some kind of symbol associated with your work.
+- [00:50:33,682 - 00:50:36,682] So this arch example is actually from
+- [00:50:36,682 - 00:50:39,682] my PhD thesis many, many years ago.
+- [00:50:39,682 - 00:50:44,682] And in the course of my work at that time,
+- [00:50:44,682 - 00:50:47,182] this work on arch learning became
+- [00:50:47,182 - 00:50:49,682] mildly famous and I didn't know why.
+- [00:50:49,682 - 00:50:51,682] It was only many years later that I realized that
+- [00:50:51,682 - 00:50:52,682] that work was really important to me.
+- [00:50:52,682 - 00:50:54,182] And I realized that this work accidentally
+- [00:50:54,182 - 00:50:55,682] had all of the elements on this star.
+- [00:50:55,682 - 00:50:57,682] So the first element is that
+- [00:50:57,682 - 00:50:59,682] there was a kind of symbol.
+- [00:50:59,682 - 00:51:04,682] It's the arch itself.
+- [00:51:04,682 - 00:51:10,682] Next thing you need is some kind of slogan.
+- [00:51:10,682 - 00:51:12,182] A kind of phrase that
+- [00:51:12,182 - 00:51:13,682] provides a handle on the work.
+- [00:51:13,682 - 00:51:15,682] And in this case, the phrase was,
+- [00:51:15,682 - 00:51:19,682] one shot learning.
+- [00:51:19,682 - 00:51:21,682] And it was one shot
+- [00:51:21,682 - 00:51:24,682] because the program I wrote learned something definite
+- [00:51:24,682 - 00:51:28,682] from every example that was presented to us.
+- [00:51:28,682 - 00:51:32,682] So in going from a model based on this configuration
+- [00:51:32,682 - 00:51:35,682] to something that isn't an arch based on that configuration,
+- [00:51:35,682 - 00:51:38,682] the program learned that it has to be on top.
+- [00:51:38,682 - 00:51:41,682] One shot learning.
+- [00:51:41,682 - 00:51:45,682] So that's a symbol, slogan.
+- [00:51:45,682 - 00:51:48,682] Now we need a surprise.
+- [00:51:51,681 - 00:51:53,681] The surprise is you don't need
+- [00:51:53,681 - 00:51:55,681] a million examples of something to learn.
+- [00:51:55,681 - 00:51:57,681] You can do it with one example
+- [00:51:57,681 - 00:51:59,681] if you're smart enough to
+- [00:51:59,681 - 00:52:01,681] make use of that example appropriately.
+- [00:52:01,681 - 00:52:03,681] So that was the surprise.
+- [00:52:03,681 - 00:52:06,681] You can learn something definite from each example.
+- [00:52:06,681 - 00:52:12,681] Next item was the salient idea.
+- [00:52:12,681 - 00:52:16,681] Now when I say salient idea, I don't mean important.
+- [00:52:16,681 - 00:52:20,681] What I mean is an idea that sticks out.
+- [00:52:20,681 - 00:52:23,681] Some theses, funnily enough, have too many good ideas
+- [00:52:23,681 - 00:52:25,181] and you don't know what it's
+- [00:52:25,181 - 00:52:26,681] all about because which one is it?
+- [00:52:26,681 - 00:52:28,681] So you need an idea that sticks out.
+- [00:52:28,681 - 00:52:31,681] And the idea that stuck out here
+- [00:52:31,681 - 00:52:38,681] was the notion of a near miss.
+- [00:52:38,681 - 00:52:40,681] You see, this is not an
+- [00:52:40,681 - 00:52:42,682] arch, but it doesn't miss by much.
+- [00:52:42,682 - 00:52:45,682] So it's a near miss.
+- [00:52:45,682 - 00:52:48,682] And finally, you need to tell the story.
+- [00:52:50,682 - 00:52:53,182] Of how you did it,
+- [00:52:53,182 - 00:52:55,682] how it works, why it's important.
+- [00:52:55,682 - 00:52:58,682] So that's a bit on how
+- [00:52:58,682 - 00:53:01,682] to not so much get famous,
+- [00:53:01,682 - 00:53:05,682] but how to ensure that your work is recognized.
+- [00:53:05,682 - 00:53:07,682] We're almost finished because now
+- [00:53:07,682 - 00:53:09,682] we're down to this last item,
+- [00:53:09,682 - 00:53:12,682] which is how to stop.
+- [00:53:12,682 - 00:53:15,682] And when we come to that, there's a question of,
+- [00:53:15,682 - 00:53:18,682] all right, well, what is the final slide?
+- [00:53:20,682 - 00:53:23,682] And what are the final words?
+- [00:53:23,682 - 00:53:29,182] So for the final slide, let
+- [00:53:29,182 - 00:53:34,682] me give you some examples of possibilities.
+- [00:53:34,682 - 00:53:38,682] How about this one?
+- [00:53:38,682 - 00:53:49,682] Well, you might see that slide and think to yourself,
+- [00:53:49,682 - 00:53:52,682] there are a thousand faculty at MIT.
+- [00:53:52,682 - 00:53:55,682] Nice piece of work, but not so much,
+- [00:53:55,682 - 00:53:57,682] but it's only a tiny piece of
+- [00:53:57,682 - 00:53:59,682] work if you divide by a thousand.
+- [00:53:59,682 - 00:54:02,182] So you show a whole gigantic list
+- [00:54:02,182 - 00:54:04,682] of collaborators at the end of a talk.
+- [00:54:04,682 - 00:54:06,682] It's a kind of letdown
+- [00:54:06,682 - 00:54:08,682] because it suggests that nobody knows,
+- [00:54:08,682 - 00:54:11,682] well, did you do anything significant?
+- [00:54:11,682 - 00:54:14,682] Now, you've got to recognize your collaborators, right?
+- [00:54:14,682 - 00:54:16,682] So where do you do that?
+- [00:54:16,682 - 00:54:18,682] Not on the last slide.
+- [00:54:18,682 - 00:54:19,682] On the first slide.
+- [00:54:19,682 - 00:54:20,682] All this was on the first slide.
+- [00:54:20,682 - 00:54:22,682] These are the collaborators.
+- [00:54:22,682 - 00:54:23,682] So you don't want to put them at the end.
+- [00:54:23,682 - 00:54:27,682] You don't want a slide like this.
+- [00:54:27,682 - 00:54:30,682] How about this one?
+- [00:54:30,682 - 00:54:33,682] This is the worst possible way to end a talk
+- [00:54:33,682 - 00:54:38,682] because this slide can be up there for 20 minutes.
+- [00:54:38,682 - 00:54:40,682] I've seen it happen.
+- [00:54:40,682 - 00:54:43,682] It squanders real estate.
+- [00:54:43,682 - 00:54:46,682] It squanders an opportunity to tell people who you are.
+- [00:54:46,682 - 00:54:48,682] It's just...
+- [00:54:48,682 - 00:54:50,682] What about this one?
+- [00:54:50,682 - 00:54:52,682] I often see it.
+- [00:54:52,682 - 00:54:55,682] I've never seen anybody write it down.
+- [00:54:55,682 - 00:54:58,682] Also, it wastes opportunity.
+- [00:54:58,682 - 00:55:00,682] Oh, my God.
+- [00:55:00,682 - 00:55:02,682] Even worse.
+- [00:55:02,682 - 00:55:05,682] All of these slides do nothing for you.
+- [00:55:05,682 - 00:55:07,682] They waste your time.
+- [00:55:07,682 - 00:55:09,682] They waste your time.
+- [00:55:09,682 - 00:55:11,682] They waste your time.
+- [00:55:11,682 - 00:55:13,682] They waste your time.
+- [00:55:13,682 - 00:55:15,682] They waste your time.
+- [00:55:15,682 - 00:55:17,682] They waste your time.
+- [00:55:17,682 - 00:55:20,682] They waste an opportunity for you to tell people,
+- [00:55:20,682 - 00:55:22,682] to leave people with what you...
+- [00:55:22,682 - 00:55:24,682] with who you are.
+- [00:55:24,682 - 00:55:27,682] Well, what about this?
+- [00:55:27,682 - 00:55:30,682] This a good one?
+- [00:55:30,682 - 00:55:32,682] It might seem so at first,
+- [00:55:32,682 - 00:55:37,682] but here's the problem.
+- [00:55:37,682 - 00:55:40,682] If you say these are my conclusions,
+- [00:55:40,682 - 00:55:42,682] these are perfectly legitimate conclusions
+- [00:55:42,682 - 00:55:44,682] that nobody cares about.
+- [00:55:44,682 - 00:55:46,682] What they care about is what you have done.
+- [00:55:46,682 - 00:55:49,682] And that's why your final slide should have this label.
+- [00:55:49,682 - 00:55:52,682] Contributions.
+- [00:55:52,682 - 00:55:54,682] It's a mirror of what I said over there
+- [00:55:54,682 - 00:55:57,682] about how job talks ought to be like a sandwich.
+- [00:55:57,682 - 00:55:59,682] And the final slide, the one that's up there
+- [00:55:59,682 - 00:56:01,682] while people are asking questions and filing out,
+- [00:56:01,682 - 00:56:03,182] it ought to be the one
+- [00:56:03,182 - 00:56:04,682] that has your contributions on it.
+- [00:56:04,682 - 00:56:08,682] Here's an example from my own stump speech.
+- [00:56:08,682 - 00:56:12,682] Yeah, this is what I talk about a lot.
+- [00:56:12,682 - 00:56:16,682] Yes, here are the things that I typically demonstrate.
+- [00:56:16,682 - 00:56:22,682] And I wait for people to read it.
+- [00:56:22,682 - 00:56:24,682] And then the final element there is
+- [00:56:24,682 - 00:56:27,682] this is what we get out of it.
+- [00:56:27,682 - 00:56:31,682] So that's an example of a contribution slide.
+- [00:56:31,682 - 00:56:36,682] All right, now, what about the other part?
+- [00:56:36,682 - 00:56:38,682] You know, you've got your final slide up there.
+- [00:56:38,682 - 00:56:40,682] It's a contribution slide.
+- [00:56:40,682 - 00:56:43,682] Somehow you have to tell people you're finished.
+- [00:56:43,682 - 00:56:45,682] So let's check out a few possibilities.
+- [00:56:45,682 - 00:56:52,682] One thing you could do in the final words
+- [00:56:52,682 - 00:56:55,682] is you could tell a joke.
+- [00:56:55,682 - 00:57:00,682] It's okay.
+- [00:57:00,682 - 00:57:03,682] By the time you're done, people have adjusted themselves
+- [00:57:03,682 - 00:57:04,682] to your voice parameters.
+- [00:57:04,682 - 00:57:06,682] They're ready for a joke.
+- [00:57:06,682 - 00:57:09,182] I was sitting in another
+- [00:57:09,182 - 00:57:11,682] bar this time in Austin, Texas,
+- [00:57:11,682 - 00:57:14,682] with a colleague of mine named Doug Lenat.
+- [00:57:14,682 - 00:57:15,682] And he said,
+- [00:57:15,682 - 00:57:18,682] Doug's a fantastic speaker.
+- [00:57:18,682 - 00:57:20,682] And so I said to Doug,
+- [00:57:20,682 - 00:57:22,682] Doug, you're a fantastic speaker.
+- [00:57:22,682 - 00:57:24,682] What's your secret?
+- [00:57:24,682 - 00:57:25,682] And he said,
+- [00:57:25,682 - 00:57:28,682] Oh, I always finish with a joke,
+- [00:57:28,682 - 00:57:30,182] and that way people think
+- [00:57:30,182 - 00:57:31,682] they've had fun the whole time.
+- [00:57:34,682 - 00:57:38,682] So, yeah, a joke will work down there.
+- [00:57:38,682 - 00:57:40,682] How about this one?
+- [00:57:45,682 - 00:57:51,682] Thank you.
+- [00:57:51,682 - 00:57:54,682] I don't recommend it.
+- [00:57:54,682 - 00:57:57,682] It's a weak move.
+- [00:57:57,682 - 00:57:59,182] You will not go to
+- [00:57:59,182 - 00:58:00,682] hell if you conclude your talk
+- [00:58:00,682 - 00:58:02,682] by saying thank you, but it's a weak move.
+- [00:58:02,682 - 00:58:04,682] And here's why.
+- [00:58:04,682 - 00:58:06,682] When you say thank you, even worse,
+- [00:58:06,682 - 00:58:08,682] thank you for listening,
+- [00:58:08,682 - 00:58:10,682] it suggests that everybody has stayed that long
+- [00:58:10,682 - 00:58:12,682] out of politeness,
+- [00:58:12,682 - 00:58:13,682] and that they had a
+- [00:58:13,682 - 00:58:14,682] profound desire to be somewhere else,
+- [00:58:14,682 - 00:58:16,682] but they're so polite they stuck it out.
+- [00:58:16,682 - 00:58:19,682] And that's what you're thanking them for.
+- [00:58:19,682 - 00:58:21,682] So once wild applause has started,
+- [00:58:21,682 - 00:58:22,682] you can mouth a thank you,
+- [00:58:22,682 - 00:58:24,682] and there's nothing wrong with that.
+- [00:58:24,682 - 00:58:27,182] But the last thing you do
+- [00:58:27,182 - 00:58:29,682] should not be saying thank you.
+- [00:58:29,682 - 00:58:30,682] Now you say to me,
+- [00:58:30,682 - 00:58:32,682] Well, doesn't everybody say thank you?
+- [00:58:32,682 - 00:58:34,682] Well, what everybody does is
+- [00:58:34,682 - 00:58:36,682] not necessarily the right thing.
+- [00:58:36,682 - 00:58:39,682] And I'd like to illustrate how some talks can end
+- [00:58:39,682 - 00:58:41,682] without saying thank you.
+- [00:58:41,682 - 00:58:43,682] I like to draw from political speeches,
+- [00:58:43,682 - 00:58:46,682] but the ones that I've heard recently aren't so good.
+- [00:58:46,682 - 00:58:50,182] So I'm going to have
+- [00:58:50,182 - 00:58:53,682] to go back a little bit.
+- [00:58:53,682 - 00:58:56,682] So here's Governor Christie.
+- [00:58:56,682 - 00:59:02,682] He gave the Republican keynote address one year.
+- [00:59:02,682 - 00:59:04,682] This is the end of his talk.
+- [00:59:04,682 - 00:59:05,682] Let's see what he does.
+- [00:59:05,682 - 00:59:10,682] And together, everybody, together,
+- [00:59:10,682 - 00:59:12,682] we will stand up once again,
+- [00:59:12,682 - 00:59:16,682] for American greatness for our children and grandchildren.
+- [00:59:16,682 - 00:59:18,682] God bless you, and God bless America.
+- [00:59:21,682 - 00:59:25,682] That's a classic benediction ending.
+- [00:59:25,682 - 00:59:28,682] God bless you, God bless America.
+- [00:59:28,682 - 00:59:30,682] Now, I don't want to be partisan about this,
+- [00:59:30,682 - 00:59:33,682] so I think I'd better switch to the keynote address
+- [00:59:33,682 - 00:59:36,682] and the Democratic Convention.
+- [00:59:36,682 - 00:59:39,682] I was delivered that year by Bill Clinton,
+- [00:59:39,682 - 00:59:41,682] who knows something about how to do politics.
+- [00:59:41,682 - 00:59:43,682] Who knows something about how to speak.
+- [00:59:45,682 - 00:59:48,682] If that is what you want,
+- [00:59:48,682 - 00:59:50,682] if that is what you believe,
+- [00:59:50,682 - 00:59:53,682] you must vote and you must re-elect
+- [00:59:53,682 - 00:59:56,682] President Barack Obama.
+- [00:59:56,682 - 00:59:59,682] God bless you, and God bless America.
+- [01:00:09,682 - 01:00:10,682] Now, watch this.
+- [01:00:10,682 - 01:00:12,682] Let's go back a little bit and redo it.
+- [01:00:12,682 - 01:00:13,682] What I want you to
+- [01:00:13,682 - 01:00:14,682] see is that at one point,
+- [01:00:14,682 - 01:00:16,682] he seems to be almost pressing his lips together,
+- [01:00:16,682 - 01:00:19,682] forcing himself not to say thank you.
+- [01:00:19,682 - 01:00:21,682] Then there's another place where he does a little salute.
+- [01:00:21,682 - 01:00:23,682] So watch for those this time around.
+- [01:00:23,682 - 01:00:26,682] If that is what you want,
+- [01:00:26,682 - 01:00:29,682] if that is what you believe,
+- [01:00:29,682 - 01:00:32,682] you must vote and you must re-elect
+- [01:00:32,682 - 01:00:35,682] President Barack Obama.
+- [01:00:35,682 - 01:00:38,682] God bless you, and God bless America.
+- [01:00:38,682 - 01:00:39,682] That's where his person is.
+- [01:00:39,682 - 01:00:41,682] That's where he's pressing his lips.
+- [01:00:41,682 - 01:00:43,682] There's a salute.
+- [01:00:49,682 - 01:00:50,682] Yeah, I think that's pretty good.
+- [01:00:50,682 - 01:00:52,682] Now, what are we going to take away from this?
+- [01:00:52,682 - 01:00:56,682] Well, I suppose I could conclude this talk by saying,
+- [01:00:56,682 - 01:00:58,682] God bless you, and God bless America.
+- [01:00:58,682 - 01:01:01,682] Institute of Technology.
+- [01:01:01,682 - 01:01:04,682] But it might not work so well.
+- [01:01:04,682 - 01:01:06,182] But what you can get out of this
+- [01:01:06,182 - 01:01:07,682] is you don't have to say thank you.
+- [01:01:07,682 - 01:01:08,682] There are other things you can do.
+- [01:01:09,682 - 01:01:11,682] And you know, it's interesting that over time,
+- [01:01:11,682 - 01:01:12,682] people figure this out,
+- [01:01:12,682 - 01:01:15,682] and there are some stock ways of ending things.
+- [01:01:15,682 - 01:01:17,682] So in the Catholic Church,
+- [01:01:17,682 - 01:01:20,682] in the good old Latin Mass,
+- [01:01:20,682 - 01:01:21,682] it landed with,
+- [01:01:21,682 - 01:01:26,682] Iti miss est,
+- [01:01:26,682 - 01:01:29,682] which translates approximately to,
+- [01:01:29,682 - 01:01:30,682] Okay, the Mass is over.
+- [01:01:30,682 - 01:01:33,682] You can go home now.
+- [01:01:33,682 - 01:01:36,682] And of course, at musical concerts,
+- [01:01:36,682 - 01:01:37,682] you know that it's time to close.
+- [01:01:37,682 - 01:01:38,682] You know that it's time to close.
+- [01:01:38,682 - 01:01:39,682] It's time to clap.
+- [01:01:39,682 - 01:01:41,682] Not at the end of the song,
+- [01:01:41,682 - 01:01:44,682] but rather when the conductor goes over
+- [01:01:44,682 - 01:01:46,682] and shakes hands with the concertmaster.
+- [01:01:46,682 - 01:01:48,682] Those are conventions that tell
+- [01:01:48,682 - 01:01:50,682] you that the event is over.
+- [01:01:50,682 - 01:01:57,682] So those are all possibilities for here.
+- [01:01:57,682 - 01:01:59,682] But one more possibility,
+- [01:01:59,682 - 01:02:06,682] and that is that you can salute the audience.
+- [01:02:06,682 - 01:02:09,682] And by that, I mean you can say something about
+- [01:02:09,682 - 01:02:12,682] how much you value your time at a place.
+- [01:02:12,682 - 01:02:13,682] So I could say,
+- [01:02:13,682 - 01:02:18,682] Well, it's been great fun being here.
+- [01:02:18,682 - 01:02:21,182] It's been fascinating to see what
+- [01:02:21,182 - 01:02:23,682] you folks are doing here at MIT.
+- [01:02:23,682 - 01:02:27,682] I've been much stimulated and provoked
+- [01:02:27,682 - 01:02:28,682] by the kinds of questions you've been asked.
+- [01:02:28,682 - 01:02:30,682] It's been really great.
+- [01:02:30,682 - 01:02:32,682] And I look forward to coming
+- [01:02:32,682 - 01:02:34,682] back on many occasions in the future.
+- [01:02:34,682 - 01:02:35,682] So let's salute to the audience.
+- [01:02:36,682 - 01:02:40,682] You can do that.
+- [01:02:40,682 - 01:02:42,682] Well, there it is.
+- [01:02:42,682 - 01:02:44,682] You know what?
+- [01:02:44,682 - 01:02:46,682] I'm glad you're here.
+- [01:02:46,682 - 01:02:48,682] And the reason is by being here,
+- [01:02:48,682 - 01:02:51,682] I think you have demonstrated an understanding
+- [01:02:51,682 - 01:02:54,682] that how you present and how you package your ideas
+- [01:02:54,682 - 01:02:56,682] is an important thing.
+- [01:02:56,682 - 01:02:58,682] And I salute you for that.
+- [01:02:58,682 - 01:03:01,682] And I suggest that you come
+- [01:03:01,682 - 01:03:04,682] back again and bring your friends.
+- [01:03:06,682 - 01:03:08,682] Thank you.
+- [01:03:36,682 - 01:03:42,248] You may be CHANGE Nothing.

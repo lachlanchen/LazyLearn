@@ -1,0 +1,262 @@
+# Transcript
+
+Source: lazylearn/how-you-speak-and-write/How to speak with meaning [PJKeLD-vMvo].webm
+
+- [00:00:00,000 - 00:00:06,280] Whether you memorize a script or read from one,
+- [00:00:06,280 - 00:00:12,560] or use a few notes, or don't use any
+- [00:00:12,560 - 00:00:15,610] notes at all, a talk that is
+- [00:00:15,610 - 00:00:18,660] well prepared and passionately delivered will always impact
+- [00:00:18,660 - 00:00:19,660] an audience.
+- [00:00:19,660 - 00:00:24,400] But what does delivering a talk passionately look like?
+- [00:00:24,400 - 00:00:28,280] It's time to find your voice.
+- [00:00:28,280 - 00:00:29,720] Here's a radical question.
+- [00:00:29,720 - 00:00:32,000] Why bother to give a talk?
+- [00:00:32,000 - 00:00:34,090] Why not simply email the script
+- [00:00:34,090 - 00:00:36,180] to every potential member of the audience?
+- [00:00:36,180 - 00:00:39,170] One of the special things about TED is
+- [00:00:39,170 - 00:00:42,160] that it shows how talks can offer something more
+- [00:00:42,160 - 00:00:44,200] than printed words.
+- [00:00:44,200 - 00:00:46,879] But that doesn't just happen automatically.
+- [00:00:46,879 - 00:00:50,500] Not every talk offers something extra.
+- [00:00:50,500 - 00:00:53,290] That something extra has to be
+- [00:00:53,290 - 00:00:56,080] thought about, invested in, and developed.
+- [00:00:56,080 - 00:00:58,200] It has to be earned.
+- [00:00:58,200 - 00:00:59,599] What is that something extra?
+- [00:00:59,600 - 00:01:02,420] It's our humanity.
+- [00:01:02,420 - 00:01:07,160] Our humanity turns information into inspiration.
+- [00:01:07,160 - 00:01:09,500] Here are some of the things the
+- [00:01:09,500 - 00:01:11,840] human layer can bring to a text.
+- [00:01:11,840 - 00:01:15,160] I trust this person.
+- [00:01:15,160 - 00:01:18,840] Every sentence sounds so interesting.
+- [00:01:18,840 - 00:01:21,420] I hear it in your voice
+- [00:01:21,420 - 00:01:24,000] and see it in your face.
+- [00:01:24,000 - 00:01:29,000] The emphasis on that word with that hand gesture?
+- [00:01:29,000 - 00:01:30,800] Now I get it.
+- [00:01:30,800 - 00:01:31,800] Empathy.
+- [00:01:31,800 - 00:01:34,820] I can tell how much that hurt you.
+- [00:01:34,820 - 00:01:35,820] Excitement.
+- [00:01:35,820 - 00:01:39,180] Wow, that passion is infectious.
+- [00:01:39,180 - 00:01:40,400] Conviction.
+- [00:01:40,400 - 00:01:42,820] Such determination in those eyes.
+- [00:01:42,820 - 00:01:43,820] Action.
+- [00:01:43,820 - 00:01:46,539] I want to be on your team.
+- [00:01:46,539 - 00:01:48,539] Sign me up.
+- [00:01:48,539 - 00:01:52,860] Together, these things create inspiration.
+- [00:01:52,860 - 00:01:55,270] We think of inspiration as the force that tells
+- [00:01:55,270 - 00:01:57,680] the brain what to do with a new idea.
+- [00:01:57,680 - 00:01:58,680] Many of us are inspired by the idea of inspiration.
+- [00:01:58,680 - 00:01:58,780] We think of inspiration as the force that tells
+- [00:01:58,780 - 00:01:58,880] the brain what to do with a new idea.
+- [00:01:58,880 - 00:01:58,960] Many of us are inspired by the idea of inspiration.
+- [00:01:58,960 - 00:01:58,980] Many of us are inspired by the idea of inspiration.
+- [00:01:59,000 - 00:02:03,480] Many ideas just get filed away and probably soon forgotten.
+- [00:02:03,480 - 00:02:06,380] Inspiration, on the other hand, sets
+- [00:02:06,380 - 00:02:09,280] off our mind's attention alert system.
+- [00:02:09,280 - 00:02:11,620] There are two major things to consider
+- [00:02:11,620 - 00:02:13,960] when preparing a talk for an audience.
+- [00:02:13,960 - 00:02:18,020] The first is, what am I doing with my voice?
+- [00:02:18,020 - 00:02:20,260] And the second is, what
+- [00:02:20,260 - 00:02:22,500] am I doing with my body?
+- [00:02:22,500 - 00:02:24,280] Speak with meaning.
+- [00:02:24,280 - 00:02:26,580] Listen to the opening minute of
+- [00:02:26,580 - 00:02:28,880] the TED Talk by George Monbiot.
+- [00:02:28,880 - 00:02:31,210] When I was a young man, I spent six
+- [00:02:31,210 - 00:02:33,540] years of wild adventure in the tropics working as
+- [00:02:33,540 - 00:02:36,140] an investigative journalist in some of
+- [00:02:36,140 - 00:02:38,740] the most bewitching part of the world.
+- [00:02:38,740 - 00:02:41,030] I was as reckless and foolish as only young
+- [00:02:41,030 - 00:02:43,320] men can be, this is why wars get fought.
+- [00:02:43,320 - 00:02:45,570] But I also felt more
+- [00:02:45,570 - 00:02:47,820] alive than I've ever done since.
+- [00:02:47,820 - 00:02:51,060] And when I came home, I found the
+- [00:02:51,060 - 00:02:54,300] scope of my existence gradually diminishing until loading
+- [00:02:54,300 - 00:02:56,940] the dishwasher seemed like an interesting challenge.
+- [00:02:56,940 - 00:02:58,760] And I found that I have power.
+- [00:02:58,760 - 00:03:00,350] I found myself sort of
+- [00:03:00,350 - 00:03:01,940] scratching at the walls of life,
+- [00:03:01,940 - 00:03:04,000] as if I was trying to find a way out
+- [00:03:04,000 - 00:03:06,260] into a wider space beyond.
+- [00:03:06,260 - 00:03:10,260] I was, I believe, ecologically bored.
+- [00:03:10,260 - 00:03:12,420] When you hear Monbiot speak,
+- [00:03:12,420 - 00:03:15,680] you find yourself pulled into his world.
+- [00:03:15,680 - 00:03:18,220] He uses his voice in a way that adds meaning
+- [00:03:18,220 - 00:03:20,359] to every word he says.
+- [00:03:20,359 - 00:03:21,500] That's something you wouldn't get
+- [00:03:21,500 - 00:03:23,440] if you read his script in a book.
+- [00:03:23,440 - 00:03:25,380] His words are interesting,
+- [00:03:25,380 - 00:03:27,739] but it's the way he says them
+- [00:03:27,740 - 00:03:29,260] that gives his audience a feeling
+- [00:03:29,260 - 00:03:31,900] of curiosity and astonishment.
+- [00:03:31,900 - 00:03:33,060] How does he do this?
+- [00:03:35,000 - 00:03:37,100] The key to being an exciting speaker
+- [00:03:37,100 - 00:03:40,420] is to create variety in the way you speak.
+- [00:03:40,420 - 00:03:44,560] Variety based on the meaning you're trying to get across.
+- [00:03:44,560 - 00:03:46,580] So many speakers forget this.
+- [00:03:46,580 - 00:03:48,470] They give a talk in
+- [00:03:48,470 - 00:03:50,360] which every sentence sounds the same,
+- [00:03:50,360 - 00:03:52,500] with a slight rise at the
+- [00:03:52,500 - 00:03:54,640] start and a drop at the end.
+- [00:03:54,640 - 00:03:57,280] There are no pauses or changes of pace.
+- [00:03:57,280 - 00:03:59,920] This communicates that no single part of a talk
+- [00:03:59,920 - 00:04:01,980] matters more than any other part.
+- [00:04:01,980 - 00:04:04,090] It's just the same thing over
+- [00:04:04,090 - 00:04:06,200] and over again until the end.
+- [00:04:06,200 - 00:04:08,240] Listening to a talk like
+- [00:04:08,240 - 00:04:10,280] this can feel like being hypnotized.
+- [00:04:10,280 - 00:04:13,320] That is, it puts an audience to sleep.
+- [00:04:13,320 - 00:04:16,120] If your talk is scripted, try this.
+- [00:04:16,120 - 00:04:18,140] Find the most important two
+- [00:04:18,140 - 00:04:20,160] or three words in each sentence
+- [00:04:20,160 - 00:04:21,640] and underline them.
+- [00:04:21,640 - 00:04:25,120] Then look for the one word in each paragraph
+- [00:04:25,120 - 00:04:26,600] that really matters,
+- [00:04:26,600 - 00:04:27,040] and underline them.
+- [00:04:27,040 - 00:04:28,920] Underline it twice.
+- [00:04:28,920 - 00:04:32,000] If there are bits that are lighthearted or playful,
+- [00:04:32,000 - 00:04:34,480] run a wavy pencil line under those.
+- [00:04:34,480 - 00:04:36,720] Look for every question mark and highlight it
+- [00:04:36,720 - 00:04:38,560] with a yellow highlighter.
+- [00:04:38,560 - 00:04:43,000] Find the single biggest aha moment in the whole talk
+- [00:04:43,000 - 00:04:46,800] and put a great big black blob right before it.
+- [00:04:46,800 - 00:04:48,940] If there's a joke or a funny story,
+- [00:04:48,940 - 00:04:51,340] put little pink dots above it.
+- [00:04:51,340 - 00:04:53,720] Now, try reading your script, making
+- [00:04:53,720 - 00:04:56,600] sure to change your voice in response to each mark.
+- [00:04:57,040 - 00:05:00,640] For example, let yourself laugh a little
+- [00:05:00,640 - 00:05:02,800] while looking at the pink dots.
+- [00:05:02,800 - 00:05:06,320] Pause for the big black blob.
+- [00:05:06,320 - 00:05:09,520] And speed up a bit for the wavy pencil line.
+- [00:05:09,520 - 00:05:12,120] Or speak more softly.
+- [00:05:12,120 - 00:05:13,800] How does that sound?
+- [00:05:13,800 - 00:05:16,080] Now try one more thing.
+- [00:05:16,080 - 00:05:19,520] Remember all the emotions associated
+- [00:05:19,520 - 00:05:22,160] with each section of your talk.
+- [00:05:22,160 - 00:05:25,160] Which bits are you most passionate about?
+- [00:05:25,160 - 00:05:26,920] Which issues make you angry?
+- [00:05:26,920 - 00:05:29,240] What makes you laugh?
+- [00:05:29,240 - 00:05:31,360] What confuses you?
+- [00:05:31,360 - 00:05:34,720] Read your talk again, letting those emotions out
+- [00:05:34,720 - 00:05:37,320] a little as you speak.
+- [00:05:37,320 - 00:05:39,120] Try doing this with a friend.
+- [00:05:39,120 - 00:05:41,000] See what she responds to or
+- [00:05:41,000 - 00:05:42,880] what she rolls her eyes at.
+- [00:05:42,880 - 00:05:44,880] Record yourself reading your talk,
+- [00:05:44,880 - 00:05:47,380] then play it back with your eyes closed.
+- [00:05:47,380 - 00:05:49,240] How's it sounding?
+- [00:05:49,240 - 00:05:52,120] Don't struggle to add variety to your voice
+- [00:05:52,120 - 00:05:54,000] when that doesn't feel right to you.
+- [00:05:54,000 - 00:05:56,920] Let it come naturally from the passion you feel
+- [00:05:56,920 - 00:05:58,560] for your idea.
+- [00:05:58,560 - 00:06:01,840] You want to sound like yourself, expressing curiosity
+- [00:06:01,840 - 00:06:04,320] and excitement when it's appropriate.
+- [00:06:04,320 - 00:06:06,480] You know the voice you use when you're catching up
+- [00:06:06,480 - 00:06:08,060] with friends or family members
+- [00:06:08,060 - 00:06:09,640] you haven't seen in a while?
+- [00:06:09,640 - 00:06:11,800] That's the kind of voice you'll want to use
+- [00:06:11,800 - 00:06:13,440] to present your talk.
+- [00:06:13,440 - 00:06:17,360] Real, natural, and unafraid to let it rip
+- [00:06:17,360 - 00:06:19,840] if what you're saying demands it.
+- [00:06:19,840 - 00:06:22,640] It's important to use your body, too.
+- [00:06:22,640 - 00:06:24,720] Sometimes, a speaker will give the impression
+- [00:06:24,720 - 00:06:26,280] that his body is only there to carry his thoughts.
+- [00:06:26,280 - 00:06:29,159] It's important to carry his head onto the stage.
+- [00:06:29,159 - 00:06:30,599] Once in front of the
+- [00:06:30,599 - 00:06:32,039] audience, the body no longer knows
+- [00:06:32,039 - 00:06:33,359] what to do with itself.
+- [00:06:33,359 - 00:06:36,799] It stands awkwardly, hands glued to its side,
+- [00:06:36,799 - 00:06:39,499] or sways back and forth
+- [00:06:39,499 - 00:06:42,200] from one leg to the other.
+- [00:06:42,200 - 00:06:44,400] But there are a few things you can think about
+- [00:06:44,400 - 00:06:47,799] that may help you feel more comfortable on stage
+- [00:06:47,799 - 00:06:51,359] and make you seem more confident to your audience.
+- [00:06:51,359 - 00:06:54,159] The simplest way to present a talk powerfully
+- [00:06:54,159 - 00:06:56,039] is just to stand tall.
+- [00:06:56,280 - 00:06:58,840] Put equal weight on both your feet,
+- [00:06:58,840 - 00:07:01,039] keeping your feet a few inches apart.
+- [00:07:01,039 - 00:07:04,119] Use your hands and arms to naturally emphasize
+- [00:07:04,119 - 00:07:05,840] whatever it is you're saying.
+- [00:07:05,840 - 00:07:07,779] This is enough to signal
+- [00:07:07,779 - 00:07:09,719] to the audience that you're calm
+- [00:07:09,719 - 00:07:12,320] and that you know what you're talking about.
+- [00:07:12,320 - 00:07:14,140] This is the method used
+- [00:07:14,140 - 00:07:15,960] by a majority of TED speakers.
+- [00:07:15,960 - 00:07:18,320] The key is to feel relaxed
+- [00:07:18,320 - 00:07:21,280] and to let your upper body move freely.
+- [00:07:21,280 - 00:07:23,159] Good posture helps.
+- [00:07:23,159 - 00:07:25,760] Avoid slouching your shoulders forward.
+- [00:07:26,280 - 00:07:29,520] Standing so openly may feel vulnerable,
+- [00:07:29,520 - 00:07:31,839] but that vulnerability can be
+- [00:07:31,839 - 00:07:34,159] nice for an audience to see.
+- [00:07:34,159 - 00:07:37,159] Some speakers prefer to walk the stage.
+- [00:07:37,159 - 00:07:38,520] It helps them think.
+- [00:07:38,520 - 00:07:40,599] It helps them emphasize key moments,
+- [00:07:40,599 - 00:07:42,280] and this is important,
+- [00:07:42,280 - 00:07:46,119] they frequently stop to dwell on important points.
+- [00:07:46,119 - 00:07:47,979] It's that change in rhythm
+- [00:07:47,979 - 00:07:49,840] that makes the walking method work.
+- [00:07:49,840 - 00:07:52,640] Constant pacing without a change in rhythm
+- [00:07:52,640 - 00:07:54,719] can be tiring to watch.
+- [00:07:54,719 - 00:07:55,279] But pacing, broken up, and relaxed,
+- [00:07:55,279 - 00:07:55,840] can be a great way to relax.
+- [00:07:56,280 - 00:08:00,200] But by moments of stillness can be powerful.
+- [00:08:00,200 - 00:08:04,440] Something to avoid is nervously shifting from leg to leg.
+- [00:08:04,440 - 00:08:07,679] Or walking forward and back a couple of steps
+- [00:08:07,679 - 00:08:10,520] in a kind of rocking motion.
+- [00:08:10,520 - 00:08:13,520] Many speakers do this without realizing it.
+- [00:08:13,520 - 00:08:15,479] They may be feeling a little anxious
+- [00:08:15,479 - 00:08:17,199] and shifting from one leg
+- [00:08:17,199 - 00:08:18,919] to the other eases their discomfort.
+- [00:08:18,919 - 00:08:20,880] But from the audience's point of view,
+- [00:08:20,880 - 00:08:24,039] it actually highlights that discomfort.
+- [00:08:24,039 - 00:08:26,239] The difference between a speaker who rocks
+- [00:08:26,280 - 00:08:29,719] back and forth and a speaker who finds stillness
+- [00:08:29,719 - 00:08:32,360] can be huge for an audience.
+- [00:08:32,360 - 00:08:34,360] So move if you want to,
+- [00:08:34,360 - 00:08:38,240] but only move if you can move with purpose.
+- [00:08:38,240 - 00:08:40,400] Then when you want to emphasize a point,
+- [00:08:40,400 - 00:08:42,959] stop moving and address your audience
+- [00:08:42,959 - 00:08:46,480] from a stance of calm power.
+- [00:08:46,480 - 00:08:48,080] There are plenty of other ways
+- [00:08:48,080 - 00:08:49,680] you can speak with power too.
+- [00:08:49,680 - 00:08:53,280] Dame Stephanie Shirley chose to sit for her talk,
+- [00:08:53,280 - 00:08:53,780] using a metal stool with one
+- [00:08:53,780 - 00:08:54,280] foot tucked back on a run,
+- [00:08:54,280 - 00:08:54,780] using a metal stool with one
+- [00:08:54,780 - 00:08:55,280] foot tucked back on a run,
+- [00:08:55,280 - 00:08:55,760] using a metal stool with one
+- [00:08:55,760 - 00:08:56,240] foot tucked back on a run,
+- [00:08:56,280 - 00:08:58,600] and notes in her lap.
+- [00:08:58,600 - 00:09:01,319] It looked relaxed and natural.
+- [00:09:01,319 - 00:09:03,600] The late great neurologist Oliver Sacks
+- [00:09:03,600 - 00:09:05,680] also sat for his talk.
+- [00:09:05,680 - 00:09:08,640] Clifford Stoll leapt and darted around the stage
+- [00:09:08,640 - 00:09:11,680] with such energy it added an entirely new
+- [00:09:11,680 - 00:09:14,400] and unique flavor to his talk.
+- [00:09:14,400 - 00:09:16,199] So there are no rules.
+- [00:09:16,199 - 00:09:17,439] You just have to find
+- [00:09:17,439 - 00:09:18,680] a way of being on stage
+- [00:09:18,680 - 00:09:22,240] that makes you feel comfortable and confident,
+- [00:09:22,240 - 00:09:25,640] and that doesn't distract from what you're saying.
+- [00:09:25,640 - 00:09:27,400] The simple test is to rehearse
+- [00:09:27,400 - 00:09:29,160] in front of a small audience
+- [00:09:29,160 - 00:09:31,000] and ask them if your body language
+- [00:09:31,000 - 00:09:33,520] is getting in the way of your message.
+- [00:09:33,520 - 00:09:37,000] Or record yourself speaking and watch it back
+- [00:09:37,000 - 00:09:38,319] to see if you're doing anything
+- [00:09:38,319 - 00:09:40,760] you didn't know you were doing with your body.
+- [00:09:40,760 - 00:09:41,920] There's a place in the world
+- [00:09:41,920 - 00:09:44,520] for all types of presentation styles.
+- [00:09:44,520 - 00:09:46,319] Just make sure your body knows
+- [00:09:46,319 - 00:09:49,240] it's not just there to carry your head around.
+- [00:09:49,240 - 00:09:52,960] It's allowed to enjoy its time on stage.
+- [00:09:52,960 - 00:09:54,720] Do it your way.
+- [00:09:54,720 - 00:09:56,360] Don't try to be someone else.
+- [00:09:56,360 - 00:10:00,160] Focus on your idea and your passion for it.
+- [00:10:00,160 - 00:10:03,180] And don't be afraid to
+- [00:10:03,180 - 00:10:06,200] let your own personality shine through.
+- [00:10:06,200 - 00:10:07,680] This is one of the first
+- [00:10:07,680 - 00:10:09,160] steps in forming a trusting bond
+- [00:10:09,160 - 00:10:12,760] with your audience, which is exactly what we focus on
+- [00:10:12,760 - 00:10:14,280] in our next video.
+- [00:10:14,280 - 00:10:16,120] Check it out.
+- [00:10:17,762 - 00:10:23,583] ご視聴ありがとうございました

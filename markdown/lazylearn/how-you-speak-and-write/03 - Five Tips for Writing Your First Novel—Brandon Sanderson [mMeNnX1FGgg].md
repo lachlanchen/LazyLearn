@@ -1,0 +1,320 @@
+# Transcript
+
+Source: lazylearn/how-you-speak-and-write/03 - Five Tips for Writing Your First Novel—Brandon Sanderson [mMeNnX1FGgg].webm
+
+- [00:00:00,320 - 00:00:03,880] Hi! Brandon here. It is National Novel Writing
+- [00:00:03,880 - 00:00:07,440] Month. This is a challenge that happens every
+- [00:00:07,440 - 00:00:10,800] year where writers are challenged to write a
+- [00:00:10,800 - 00:00:14,160] novel in one month, loosely defining a novel
+- [00:00:14,160 - 00:00:17,160] as 50,000 words. That definition is kind of vague.
+- [00:00:17,160 - 00:00:20,160] Most of my novels are quite a bit longer. But
+- [00:00:20,160 - 00:00:23,800] 50,000 words is a doable but difficult challenge
+- [00:00:23,800 - 00:00:27,440] for one month of writing. The goal of this
+- [00:00:27,440 - 00:00:30,760] challenge is to get yourself out of a rut,
+- [00:00:30,760 - 00:00:34,080] to force yourself to turn off your internal editor,
+- [00:00:34,080 - 00:00:36,840] and to just write. It's a really great exercise.
+- [00:00:36,840 - 00:00:39,600] I did it numerous times before I became a published
+- [00:00:39,600 - 00:00:42,040] writer. In fact, The Way of Kings, which my
+- [00:00:42,040 - 00:00:44,480] new book in the series is coming out this month,
+- [00:00:45,680 - 00:00:48,320] was originally written as part of a National
+- [00:00:48,320 - 00:00:50,960] Novel Writing Month challenge. So I think this
+- [00:00:50,960 - 00:00:54,160] is a very worthy challenge. Like all things
+- [00:00:54,160 - 00:00:57,360] in writing, it might not work for you.
+- [00:00:57,360 - 00:00:57,390] I'm not going to be doing this. I'm going to be doing this
+- [00:00:57,390 - 00:00:57,420] for a long time. I'm going to be doing this for a long time.
+- [00:00:57,420 - 00:01:01,570] You may try it and find out it just,
+- [00:01:01,570 - 00:01:05,720] your personal writing psychology, just does not mesh really well
+- [00:01:05,720 - 00:01:08,180] with this type of challenge. You might find that
+- [00:01:08,180 - 00:01:10,640] the writing you write, trying to follow a challenge
+- [00:01:10,640 - 00:01:13,500] like this, just is not as good as if you
+- [00:01:13,500 - 00:01:16,360] didn't. In that case, feel free to abandon it. However,
+- [00:01:16,360 - 00:01:18,860] for those of you who want to try this and
+- [00:01:18,860 - 00:01:21,360] have never done it before, I'm going to give you five
+- [00:01:21,360 - 00:01:24,350] hacks, five ways that you can kind of
+- [00:01:24,350 - 00:01:27,340] start writing a novel, perhaps without very much preparation,
+- [00:01:27,340 - 00:01:30,930] and kind of force yourself to try this challenge. So
+- [00:01:30,930 - 00:01:34,520] first one is something that a lot of us authors
+- [00:01:34,520 - 00:01:37,220] do, which is called borrowing your structure.
+- [00:01:37,220 - 00:01:39,920] Now, it doesn't happen with every novel.
+- [00:01:40,760 - 00:01:43,720] In fact, it doesn't happen with every writer. But a
+- [00:01:43,720 - 00:01:46,680] lot of times, books that we write come from us
+- [00:01:46,680 - 00:01:49,960] watching a movie, reading a story, hearing about
+- [00:01:49,960 - 00:01:53,240] an event, and really liking that genre or that
+- [00:01:53,240 - 00:01:55,250] type of story, and saying, man, could I write something like that?
+- [00:01:55,250 - 00:01:57,260] Could I write something like that? Could I write something like that?
+- [00:01:57,260 - 00:02:00,940] Then as a writer, we dig into that subgenre, say
+- [00:02:00,940 - 00:02:04,620] the heist novel, and say, what are some of the
+- [00:02:04,620 - 00:02:07,180] aspects of this type of story that make them
+- [00:02:07,180 - 00:02:09,740] really interesting? Why do I like a heist novel?
+- [00:02:09,740 - 00:02:12,540] What about it is great? You know what? I
+- [00:02:12,540 - 00:02:15,340] really like that heists involve a crew of different
+- [00:02:15,340 - 00:02:18,740] people who all have a different speciality
+- [00:02:18,740 - 00:02:22,140] who come together and apply their specialized talents
+- [00:02:22,140 - 00:02:24,540] to achieving this really difficult goal.
+- [00:02:24,540 - 00:02:26,940] And suddenly you have a story that,
+- [00:02:27,260 - 00:02:29,380] as a writer, has a structure to it. You realize,
+- [00:02:29,380 - 00:02:31,500] hey, we have a scene where you outline the problem.
+- [00:02:31,500 - 00:02:33,940] We have a scene with each of
+- [00:02:33,940 - 00:02:36,380] the characters being recruited, whether it's Ocean's Eleven,
+- [00:02:36,380 - 00:02:40,180] or whether it is Armageddon, or whether
+- [00:02:40,180 - 00:02:43,980] it is Inception. They all share some hallmark
+- [00:02:43,980 - 00:02:46,820] pieces of their structure. You are followed
+- [00:02:46,820 - 00:02:49,660] by some extra training or gathering of equipment
+- [00:02:49,660 - 00:02:51,820] where they plan on how they're going to do
+- [00:02:51,820 - 00:02:53,980] this. And then you have an ending where you bring
+- [00:02:53,980 - 00:02:55,620] together everyone's specialized talents
+- [00:02:55,620 - 00:02:57,260] to overcome the problem.
+- [00:02:57,260 - 00:02:58,340] And then you have a movie where you
+- [00:02:58,340 - 00:02:59,420] have a story that you're going to write about.
+- [00:02:59,420 - 00:03:00,460] And then you have a movie where you
+- [00:03:00,460 - 00:03:01,500] have a story that you're going to write about.
+- [00:03:01,500 - 00:03:02,780] And then you have a movie where you
+- [00:03:02,780 - 00:03:04,060] have a story that you're going to write about.
+- [00:03:04,060 - 00:03:07,060] One way to get yourself into writing and kind
+- [00:03:07,060 - 00:03:10,060] of maybe have, so to speak, some training wheels on,
+- [00:03:10,060 - 00:03:12,660] is to go watch that movie and say, all
+- [00:03:12,660 - 00:03:15,260] right, can I boil this down to its fundamental structure?
+- [00:03:15,260 - 00:03:18,220] Then rebuild that structure with a new set
+- [00:03:18,220 - 00:03:21,180] of characters and a new problem to solve,
+- [00:03:22,060 - 00:03:24,620] and a new character arc that is my own.
+- [00:03:24,620 - 00:03:27,180] A lot of times this works really well if you
+- [00:03:27,260 - 00:03:31,579] transpose the genre. If you, say, really love
+- [00:03:31,579 - 00:03:35,899] the stories that are told in Regency romances
+- [00:03:35,899 - 00:03:38,899] done by Jane Austen, and you say, what if I
+- [00:03:38,899 - 00:03:41,899] took this same structure and I made it a Western
+- [00:03:41,899 - 00:03:44,419] instead? These sorts of transpositions can also help
+- [00:03:44,419 - 00:03:46,940] you add a little more flair, a little bit
+- [00:03:46,940 - 00:03:48,899] more of your own style, but you still, like
+- [00:03:48,899 - 00:03:50,859] I said, have those training wheels. It doesn't have
+- [00:03:50,859 - 00:03:52,979] to be training wheels, though. A lot of professional
+- [00:03:52,979 - 00:03:55,100] writers will do this same sort of thing when
+- [00:03:55,100 - 00:03:56,059] coming up with a story. They'll look to the
+- [00:03:56,059 - 00:03:57,019] success of the story, and they'll look to the
+- [00:03:57,019 - 00:03:57,099] success of the story. They'll look to the success
+- [00:03:57,099 - 00:03:57,180] of the story. They'll look to the success of the
+- [00:03:57,180 - 00:03:57,200] story. They'll look to the success of the story.
+- [00:03:57,200 - 00:03:57,220] They'll look to the success of the story. They'll look
+- [00:03:57,220 - 00:03:57,300] to the success of the story. They'll look to
+- [00:03:57,300 - 00:03:57,380] the success of the story. They'll look to the successful
+- [00:03:57,380 - 00:03:59,580] stories told of this trope in
+- [00:03:59,580 - 00:04:01,780] the past and borrow that structure.
+- [00:04:01,780 - 00:04:03,860] Do be aware that you shouldn't be enslaved by
+- [00:04:03,860 - 00:04:05,940] that structure. You should be able to adapt it
+- [00:04:05,940 - 00:04:08,020] to your story. But it really can
+- [00:04:08,020 - 00:04:10,100] help, particularly if you're trying to write
+- [00:04:10,100 - 00:04:12,700] something in one month, to have
+- [00:04:12,700 - 00:04:15,300] a structure, an outline already provided.
+- [00:04:16,420 - 00:04:19,300] Number two cool way to start writing a book if
+- [00:04:19,300 - 00:04:22,180] you've never tried it is to begin with a monologue.
+- [00:04:22,180 - 00:04:24,660] Even if your story isn't going to be
+- [00:04:24,660 - 00:04:27,140] first-person perspective, meaning it's not going to be told,
+- [00:04:27,140 - 00:04:30,619] from one character's viewpoint, telling the story as
+- [00:04:30,619 - 00:04:34,099] they experienced it. You can still really get
+- [00:04:34,099 - 00:04:36,899] into a character by basically interviewing them, or
+- [00:04:36,899 - 00:04:39,700] having them tell you about a really important
+- [00:04:39,700 - 00:04:41,860] time in their life, and you write it out
+- [00:04:41,860 - 00:04:44,020] as if they were sitting there and telling you about
+- [00:04:44,020 - 00:04:46,420] their story. A good friend of mine, Dan
+- [00:04:46,420 - 00:04:48,820] Wells, several of his books began with him saying,
+- [00:04:48,820 - 00:04:50,780] all right, if this character were going to
+- [00:04:50,780 - 00:04:52,740] explain their life to me in five pages,
+- [00:04:52,740 - 00:04:56,460] what would it be? And he wrote those five
+- [00:04:56,460 - 00:05:00,180] pages, and then that was the character kind of explaining
+- [00:05:00,180 - 00:05:02,660] themselves to Dan. Really, it was Dan
+- [00:05:02,660 - 00:05:05,140] figuring out interesting things about this character.
+- [00:05:05,140 - 00:05:07,660] Now, this probably won't end up in your final book.
+- [00:05:07,660 - 00:05:10,180] But one of the cool things is, is if you
+- [00:05:10,180 - 00:05:12,340] design it the right way, this can become,
+- [00:05:12,340 - 00:05:14,500] pieces of this can be the little blurbs,
+- [00:05:14,500 - 00:05:16,460] we call them epigraphs, at the start
+- [00:05:16,460 - 00:05:18,420] of chapters. Could be excerpts from the character's
+- [00:05:18,420 - 00:05:20,540] journal or diary or something like that. Maybe
+- [00:05:20,540 - 00:05:22,660] you'll just love this format and write what we
+- [00:05:22,660 - 00:05:22,700] want to write. But if you're going to write a
+- [00:05:22,700 - 00:05:22,740] book, you're going to want to write a book that's
+- [00:05:22,740 - 00:05:25,260] called an epistolary novel, which is a novel
+- [00:05:25,260 - 00:05:27,780] written entirely in journal forms or in people's
+- [00:05:27,780 - 00:05:30,420] writing. It's kind of the found footage version of
+- [00:05:30,420 - 00:05:33,060] novels. So give that a try. Just have the
+- [00:05:33,060 - 00:05:34,860] character write as if you
+- [00:05:34,860 - 00:05:36,660] were them explaining about their life.
+- [00:05:37,460 - 00:05:41,180] Number three, one way to really dig into
+- [00:05:41,180 - 00:05:44,900] a character is to ask yourself, what does my
+- [00:05:44,900 - 00:05:48,780] character want? What do they need? How are those
+- [00:05:48,780 - 00:05:52,660] two things different? And why can't they have either
+- [00:05:52,660 - 00:05:56,140] one? And if you ask yourself these things, it can
+- [00:05:56,140 - 00:05:59,620] help you to generate and construct a plot even on
+- [00:05:59,620 - 00:06:01,940] the fly. You start writing your characters.
+- [00:06:01,940 - 00:06:04,260] Just sit down, start writing their everyday life,
+- [00:06:04,260 - 00:06:06,780] figure out what it is that they really want.
+- [00:06:06,780 - 00:06:09,300] Ask yourself how that's different from what they need.
+- [00:06:09,300 - 00:06:11,060] Just do it as you're exploring this
+- [00:06:11,060 - 00:06:12,820] character's life in the first few chapters.
+- [00:06:12,820 - 00:06:15,540] Then start to construct the obstacles that keep
+- [00:06:15,540 - 00:06:18,260] them from having these things that they want.
+- [00:06:18,260 - 00:06:20,420] This is just a really good way to
+- [00:06:20,420 - 00:06:22,580] start making sure that your story is character-centered.
+- [00:06:22,580 - 00:06:25,660] If your story is turning around this character's
+- [00:06:25,660 - 00:06:28,740] needs and wants, then you will naturally be
+- [00:06:28,740 - 00:06:31,940] including the character in a lot of the story
+- [00:06:31,940 - 00:06:35,140] decisions. One way you can go wrong with a book
+- [00:06:35,140 - 00:06:37,260] is by making the character not want or need
+- [00:06:37,260 - 00:06:39,380] anything. And a lot of times what will happen
+- [00:06:39,380 - 00:06:41,899] is that character becomes an external observer
+- [00:06:41,899 - 00:06:44,419] of some really interesting story happening with some
+- [00:06:44,419 - 00:06:47,259] other character. And as a writing professor, I see
+- [00:06:47,259 - 00:06:50,099] this quite a bit from new writers, where they've
+- [00:06:50,099 - 00:06:52,500] picked the wrong viewpoint. Someone really interesting is
+- [00:06:52,500 - 00:06:52,540] going to be the one who's going to be the one
+- [00:06:52,540 - 00:06:52,580] who's going to be the one who's going to be the
+- [00:06:52,580 - 00:06:54,140] one who's doing something. And this character
+- [00:06:54,140 - 00:06:55,700] that they thought would be their main character
+- [00:06:55,700 - 00:06:58,619] is just observing and commenting on it. You want
+- [00:06:58,619 - 00:07:01,539] to avoid that. You want the story to be personal
+- [00:07:01,539 - 00:07:04,019] to your viewpoint character. You always want to
+- [00:07:04,019 - 00:07:06,500] be picking the viewpoint character who is either
+- [00:07:06,500 - 00:07:10,780] changing the most, having the most conflict in
+- [00:07:10,780 - 00:07:15,060] their life, or who is actively working on getting
+- [00:07:15,060 - 00:07:17,460] what they want the most. Those are good ways
+- [00:07:17,460 - 00:07:19,860] to choose who the protagonist of your story might be.
+- [00:07:20,500 - 00:07:22,500] Now, number four is
+- [00:07:22,500 - 00:07:24,580] going to go hand in hand with this.
+- [00:07:24,580 - 00:07:26,660] Let's say you're working on this, but you're like,
+- [00:07:26,660 - 00:07:28,620] Brandon, I still don't have a structure for
+- [00:07:28,620 - 00:07:30,580] my story. I know what my character can't have.
+- [00:07:30,580 - 00:07:33,180] I know why they want it so badly. And
+- [00:07:33,180 - 00:07:35,780] I know the difference between their wants and their need.
+- [00:07:36,580 - 00:07:38,740] I know what they think they want
+- [00:07:38,740 - 00:07:40,900] and what will actually make them happy,
+- [00:07:40,900 - 00:07:43,340] but I don't have a structure for my
+- [00:07:43,340 - 00:07:45,780] story. In this case, number four tip is,
+- [00:07:45,780 - 00:07:49,100] choose your type of progress. I have an entire lecture
+- [00:07:49,100 - 00:07:52,420] on this, but if I boil it down, stories are
+- [00:07:52,420 - 00:07:55,740] built from three ideas. They're a promise,
+- [00:07:55,740 - 00:07:59,060] progress toward that promise, and a payoff on
+- [00:07:59,060 - 00:08:00,940] that promise. And the progress part is the
+- [00:08:00,940 - 00:08:02,820] important part. That's what the bulk of your
+- [00:08:02,820 - 00:08:06,020] story is. We get pulled through stories. Things
+- [00:08:06,020 - 00:08:09,220] become page turners because we can watch progress
+- [00:08:09,220 - 00:08:11,860] toward a goal. And books naturally have this just in
+- [00:08:11,860 - 00:08:14,500] the shape of the book. You get to watch. You're
+- [00:08:14,500 - 00:08:16,820] like, this book is 500 pages long. As I
+- [00:08:16,820 - 00:08:19,140] read, I'm getting closer to that ending. But you want
+- [00:08:19,140 - 00:08:20,700] to reinforce this with some sort of plot that
+- [00:08:20,700 - 00:08:22,260] you are showing progress toward. You're going to want
+- [00:08:22,260 - 00:08:22,330] to reinforce this with some sort of plot that
+- [00:08:22,330 - 00:08:22,400] you are showing progress toward. You're going to want
+- [00:08:22,400 - 00:08:22,800] to reinforce this with some sort of
+- [00:08:22,800 - 00:08:23,200] plot that you are showing progress toward.
+- [00:08:23,200 - 00:08:25,240] Now, in a lot of stories, this
+- [00:08:25,240 - 00:08:27,280] might be, for instance, a travelogue. You say,
+- [00:08:27,280 - 00:08:30,440] we are starting in the Shire, and we are going
+- [00:08:30,440 - 00:08:33,600] to end at Mount Doom, where the ring was forged.
+- [00:08:33,600 - 00:08:36,159] And we can watch on the map as the
+- [00:08:36,159 - 00:08:38,720] characters get closer and closer and closer. We can see
+- [00:08:38,720 - 00:08:40,639] their progress. We can see where they
+- [00:08:40,639 - 00:08:42,559] get diverted and can't go the direction where
+- [00:08:42,559 - 00:08:44,959] they thought they were going to go, because
+- [00:08:44,959 - 00:08:47,360] it's difficult. You want always in your story
+- [00:08:47,360 - 00:08:49,800] to be moving in a direction,
+- [00:08:49,800 - 00:08:52,240] mostly forward, sometimes backward. And this
+- [00:08:52,240 - 00:08:55,160] progress does not have to be travelogue.
+- [00:08:55,160 - 00:08:58,080] In a mystery, usually the progress is clues.
+- [00:08:58,080 - 00:09:00,680] It's an information progress, meaning you have a
+- [00:09:00,680 - 00:09:03,280] mystery. You don't know who killed this person.
+- [00:09:03,280 - 00:09:05,560] Your characters are going to get clues, information that
+- [00:09:05,560 - 00:09:07,840] build upon one another. And some of them are
+- [00:09:07,840 - 00:09:09,640] false clues. Some of them are steps backward.
+- [00:09:09,640 - 00:09:11,440] Some of them lead you in the wrong direction.
+- [00:09:11,440 - 00:09:13,800] But you can get a sense as a reader that
+- [00:09:13,800 - 00:09:16,160] more clues are gathering, and the image of who did
+- [00:09:16,160 - 00:09:19,120] this is becoming more and more and more clear.
+- [00:09:19,120 - 00:09:22,080] So decide your type of progress, and make sure
+- [00:09:22,080 - 00:09:24,800] that you are signposting that progress is being
+- [00:09:24,800 - 00:09:27,520] made. Most of the time, when readers complain
+- [00:09:27,520 - 00:09:30,360] about a story not moving quickly enough, not
+- [00:09:30,360 - 00:09:33,200] having good pacing, or not being a page turner,
+- [00:09:33,200 - 00:09:35,840] it's because the author is not signposting the
+- [00:09:35,840 - 00:09:38,480] type of progress that the story is supposed to
+- [00:09:38,480 - 00:09:40,760] be making. You can misalign this sometimes. You
+- [00:09:40,760 - 00:09:43,040] can say you're writing a romance when really
+- [00:09:43,040 - 00:09:45,040] you're writing an adventure story, and so
+- [00:09:45,040 - 00:09:47,040] you signpost the romance, but the reader's feeling
+- [00:09:47,040 - 00:09:49,360] like we aren't making any progress because
+- [00:09:49,360 - 00:09:51,680] you gave a bigger signpost about the adventure,
+- [00:09:51,680 - 00:09:51,880] and there's no progress. But you give a
+- [00:09:51,880 - 00:09:52,080] bigger signpost about the adventure, and there's a bigger
+- [00:09:52,080 - 00:09:54,520] reader thinks this is what the story's about. It is
+- [00:09:54,520 - 00:09:56,960] possible to do both hand in hand, and a lot of
+- [00:09:56,960 - 00:09:59,960] stories do this. But my tip to you is decide
+- [00:09:59,960 - 00:10:02,960] what type of progress are you going to expect the
+- [00:10:02,960 - 00:10:05,960] reader to feel moving through the story, and make sure
+- [00:10:05,960 - 00:10:08,960] you split that up, divide it up, give us a
+- [00:10:08,960 - 00:10:12,200] trail of breadcrumbs along the way, indicating
+- [00:10:12,200 - 00:10:15,440] that we're making that progress. The last piece
+- [00:10:15,440 - 00:10:19,200] of advice I would give you to try to write a
+- [00:10:19,200 - 00:10:22,960] book in a month is to prime your mind. Before I write,
+- [00:10:22,960 - 00:10:26,040] I really like to do something else for a
+- [00:10:26,040 - 00:10:29,120] little while. And if you're going to be writing
+- [00:10:29,120 - 00:10:32,240] consistently to try and hit this 50,000-word goal, you're
+- [00:10:32,240 - 00:10:35,360] going to be writing 1,700 words a day on
+- [00:10:35,360 - 00:10:37,440] average is what I believe it's going to be. It's
+- [00:10:37,440 - 00:10:39,520] a lot of writing if you haven't done it before.
+- [00:10:39,520 - 00:10:41,880] And a lot of times you'll run into situations where
+- [00:10:41,880 - 00:10:44,240] you're like, I have no idea what to do next.
+- [00:10:44,960 - 00:10:45,120] One way to do it is to write a book, and then
+- [00:10:45,120 - 00:10:45,280] you can write a book. And I'm going to give you a
+- [00:10:45,280 - 00:10:45,350] little bit of advice on how to do that. One way to
+- [00:10:45,350 - 00:10:45,420] do it is to write a book, and then you can write a
+- [00:10:45,420 - 00:10:45,429] book. And a lot of times you'll run into
+- [00:10:45,429 - 00:10:45,439] situations where you're like, I have no idea what
+- [00:10:45,439 - 00:10:47,959] to do next. One way to avoid this is to
+- [00:10:47,959 - 00:10:50,479] prime your mind with what you're going to write before.
+- [00:10:50,479 - 00:10:54,179] This works really well when you have some sort of
+- [00:10:54,179 - 00:10:57,880] empty space in your life where you can't be writing
+- [00:10:57,880 - 00:10:59,979] because you're doing something, but you can
+- [00:10:59,979 - 00:11:02,079] be thinking. Maybe it's during your commute.
+- [00:11:02,760 - 00:11:04,640] Maybe it's during your morning workout.
+- [00:11:04,640 - 00:11:06,520] Maybe it's when you're doing the dishes
+- [00:11:06,520 - 00:11:09,080] or mowing the lawn, something that keeps
+- [00:11:09,080 - 00:11:11,640] your body active but leaves your mind free.
+- [00:11:11,640 - 00:11:13,450] Instead of letting it drift off,
+- [00:11:13,450 - 00:11:15,260] say, all right, when I write
+- [00:11:15,260 - 00:11:17,780] my next section of my story, what am I going
+- [00:11:17,780 - 00:11:20,300] to do? What's the exciting thing I can have happen?
+- [00:11:20,300 - 00:11:22,540] What is a way I can write this scene
+- [00:11:22,540 - 00:11:24,780] that is going to feel different and interesting and
+- [00:11:25,819 - 00:11:28,099] fascinating? Why will this scene be a
+- [00:11:28,099 - 00:11:30,380] reader's favorite scene in this given book?
+- [00:11:30,380 - 00:11:32,740] And imagine it. Play it through. Put on
+- [00:11:32,740 - 00:11:35,100] headphones, if you're like me, and play some music
+- [00:11:35,100 - 00:11:37,420] that matches the tone of the scene that you're
+- [00:11:37,420 - 00:11:39,740] going to write. And prime yourself so that when
+- [00:11:39,740 - 00:11:42,260] you sit down to work on that scene, you
+- [00:11:42,260 - 00:11:44,780] just get going, because you've thought through this three
+- [00:11:44,780 - 00:11:47,500] or four times during the commute, you know where
+- [00:11:47,500 - 00:11:50,220] this story is going for this next 1500 words,
+- [00:11:50,220 - 00:11:53,540] and you can just write it. This is really
+- [00:11:53,540 - 00:11:56,860] handy if finding writing time in your life is difficult.
+- [00:11:56,860 - 00:11:58,740] If perhaps you're not doing the November challenge,
+- [00:11:58,740 - 00:12:00,620] but you still want to write a book,
+- [00:12:00,620 - 00:12:02,380] and your life is just really hectic
+- [00:12:02,380 - 00:12:04,140] during the week but you have time
+- [00:12:04,140 - 00:12:06,539] during your commute, think during that commute, what am
+- [00:12:06,539 - 00:12:08,939] I going to write? And then on the weekend
+- [00:12:08,939 - 00:12:10,939] give yourself two hours and sit down and
+- [00:12:10,939 - 00:12:12,939] get that stuff you imagined down on the page.
+- [00:12:12,939 - 00:12:13,139] You will be surprised at how quickly you write.
+- [00:12:13,139 - 00:12:13,339] But if you're not doing that, I encourage you to
+- [00:12:13,339 - 00:12:13,579] write a book. I'll be happy to read it for you.
+- [00:12:13,579 - 00:12:13,819] I'll be sure that you do. But I'm not going to write
+- [00:12:13,819 - 00:12:14,059] a book. I'll be sure that you do. So don't bother
+- [00:12:14,059 - 00:12:14,300] writing a book, you'll probably be surprised at how quickly you'll write.
+- [00:12:14,300 - 00:12:16,579] at how quickly you write a novel if you
+- [00:12:16,579 - 00:12:18,859] were able to dedicate some brain space to it.
+- [00:12:19,420 - 00:12:21,179] Anyway, I hope that you'll
+- [00:12:21,179 - 00:12:22,939] be successful in your writing journey.
+- [00:12:22,939 - 00:12:25,339] I'll be back on this channel several times
+- [00:12:25,339 - 00:12:27,740] during this month to give you some other
+- [00:12:27,740 - 00:12:30,419] pieces of advice or maybe some pep talks on
+- [00:12:30,419 - 00:12:33,099] how to write your novel. And good luck to you.

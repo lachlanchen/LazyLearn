@@ -11,10 +11,13 @@ the_theoretical_minimum
 downloads/
 .transcription_tmp/
 .lecture-notes-work/
+.auto-readme-work/
 transcription_logs/
 *.chk
 fort.7
 water.chk
+generated_course_notes/**/build/
+generated_course_notes/**/course_v1.pdf
 
 # Python internals
 __pycache__/

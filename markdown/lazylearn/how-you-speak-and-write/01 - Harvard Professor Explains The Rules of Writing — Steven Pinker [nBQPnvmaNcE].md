@@ -1,0 +1,1133 @@
+# Transcript
+
+Source: lazylearn/how-you-speak-and-write/01 - Harvard Professor Explains The Rules of Writing — Steven Pinker [nBQPnvmaNcE].webm
+
+- [00:00:00,000 - 00:00:03,840] I'm here at Harvard in the office of Steven Pinker.
+- [00:00:03,840 - 00:00:06,000] And he's written nine books and devoted his life
+- [00:00:06,000 - 00:00:08,640] to studying language and cognition and writing.
+- [00:00:08,640 - 00:00:09,900] And so what we did in this interview
+- [00:00:09,900 - 00:00:11,940] is we started off with the really practical stuff.
+- [00:00:11,940 - 00:00:14,460] We started off with his rules for writing.
+- [00:00:14,460 - 00:00:16,040] And what makes him unique is that he's
+- [00:00:16,040 - 00:00:19,040] been thinking about AI since the 1980s.
+- [00:00:19,040 - 00:00:22,260] So if you're interested in doing great nonfiction writing
+- [00:00:22,260 - 00:00:23,880] in the age of LLMs,
+- [00:00:23,880 - 00:00:25,500] well, this interview is for you.
+- [00:00:25,500 - 00:00:30,180] I want to talk about The Curse of Knowledge.
+- [00:00:30,180 - 00:00:31,950] And I want to talk about
+- [00:00:31,950 - 00:00:33,720] this cartoon from your book, which
+- [00:00:33,720 - 00:00:37,080] says, good start needs more gibberish.
+- [00:00:37,080 - 00:00:37,920] Yes.
+- [00:00:37,920 - 00:00:39,780] When I posed the question, why
+- [00:00:39,780 - 00:00:41,640] is there so much bad writing?
+- [00:00:41,640 - 00:00:44,519] Why is there so much academies and bureaucraties
+- [00:00:44,519 - 00:00:46,500] and corporaties?
+- [00:00:46,500 - 00:00:49,440] People's favorite answer is captured by that cartoon,
+- [00:00:49,440 - 00:00:52,980] namely that bad writing is a deliberate choice.
+- [00:00:52,980 - 00:00:55,100] It's in various versions.
+- [00:00:55,100 - 00:00:59,480] It's academics with nothing to say dress up banal ideas
+- [00:00:59,480 - 00:01:02,720] with gobbledygook to show how sophisticated they are.
+- [00:01:02,720 - 00:01:04,700] Or pasty-faced nerds get revenge
+- [00:01:04,700 - 00:01:06,680] on the girls who turned them
+- [00:01:06,680 - 00:01:08,660] down for dates in high school.
+- [00:01:08,660 - 00:01:13,520] People want to erect a kind of cult
+- [00:01:13,520 - 00:01:16,040] that no one else, outsiders, can't penetrate because they
+- [00:01:16,040 - 00:01:18,540] haven't learned the jargon.
+- [00:01:18,540 - 00:01:22,760] I don't think that's the best explanation for bad writing.
+- [00:01:22,760 - 00:01:23,760] Partly, it's personal.
+- [00:01:23,760 - 00:01:25,080] I just know enough people.
+- [00:01:25,080 - 00:01:28,020] I know enough people who have plenty to say.
+- [00:01:28,020 - 00:01:29,520] They're brilliant people.
+- [00:01:29,520 - 00:01:32,700] They have no desire to obfuscate.
+- [00:01:32,700 - 00:01:34,560] They're just incompetent.
+- [00:01:34,560 - 00:01:37,740] They just don't know how to express themselves clearly.
+- [00:01:37,740 - 00:01:40,080] There's something called Hanlon's razor.
+- [00:01:40,080 - 00:01:43,620] Never attribute to malice that which can adequately
+- [00:01:43,620 - 00:01:44,940] be explained by stupidity.
+- [00:01:44,940 - 00:01:45,840] Yeah.
+- [00:01:45,840 - 00:01:49,680] And these are not stupid people I'm talking about,
+- [00:01:49,680 - 00:01:52,070] but it's a kind of stupidity in
+- [00:01:52,070 - 00:01:54,460] not knowing where your audience is coming from.
+- [00:01:54,460 - 00:01:57,329] And I illustrate it with an
+- [00:01:57,329 - 00:02:00,199] anecdote of a conference in technology,
+- [00:02:00,199 - 00:02:04,699] entertainment, and design, better known by its acronym, TED,
+- [00:02:04,699 - 00:02:08,969] where a brilliant molecular biologist had
+- [00:02:08,969 - 00:02:13,240] been invited to present his latest findings.
+- [00:02:13,240 - 00:02:16,010] He launched into what was obvious to
+- [00:02:16,010 - 00:02:18,780] me as the exact kind of talk
+- [00:02:18,780 - 00:02:22,940] that he would give to his peers in molecular biology.
+- [00:02:22,940 - 00:02:24,120] And that,
+- [00:02:24,460 - 00:02:27,530] within about four seconds, he had lost everyone
+- [00:02:27,530 - 00:02:30,600] because he just spoke in jargon without even
+- [00:02:30,600 - 00:02:32,360] introducing what problem he was
+- [00:02:32,360 - 00:02:34,120] solving, why it was significant.
+- [00:02:34,120 - 00:02:37,300] It was launched right into the experiments.
+- [00:02:37,300 - 00:02:39,820] There was a room of several hundred
+- [00:02:39,820 - 00:02:42,340] people from many walks of life, from entertainment,
+- [00:02:42,340 - 00:02:43,640] from design.
+- [00:02:43,640 - 00:02:45,710] And it was obvious to everyone in the
+- [00:02:45,710 - 00:02:47,780] room that no one was understanding a word.
+- [00:02:47,780 - 00:02:50,180] Obvious to everyone except the
+- [00:02:50,180 - 00:02:52,580] distinguished biologist, who was just clueless.
+- [00:02:52,580 - 00:02:54,240] Now, this is not a stupid man.
+- [00:02:54,460 - 00:02:57,420] He was very stupid when it came to
+- [00:02:57,420 - 00:03:00,380] communication, namely, not everyone knows what you know.
+- [00:03:00,380 - 00:03:04,380] Now, the curse of knowledge, a term from economics,
+- [00:03:04,380 - 00:03:08,380] is the difficulty that we all have in knowing
+- [00:03:08,380 - 00:03:12,100] what it's like not to know something that we know.
+- [00:03:12,100 - 00:03:15,730] That is to subtract something from your brain,
+- [00:03:15,730 - 00:03:19,360] put yourself in the shoes of your audience,
+- [00:03:19,360 - 00:03:22,400] whether it be in public speaking or in writing.
+- [00:03:22,400 - 00:03:23,620] Figure out where they're coming from.
+- [00:03:23,620 - 00:03:23,970] What do they know? What don't they know?
+- [00:03:23,970 - 00:03:24,320] And you know what? What I'm talking about?
+- [00:03:24,320 - 00:03:25,700] don't they know?
+- [00:03:25,700 - 00:03:29,000] I think that's the main cause of bad writing.
+- [00:03:29,000 - 00:03:32,260] You get abbreviations and acronyms
+- [00:03:32,260 - 00:03:34,100] that no one has any way of knowing.
+- [00:03:34,100 - 00:03:36,240] You have jargon that is known
+- [00:03:36,240 - 00:03:38,380] only to a tiny little clique.
+- [00:03:38,380 - 00:03:40,920] You have abstractions.
+- [00:03:40,920 - 00:03:47,380] The level of the stimulus was proportional to the intensity
+- [00:03:47,380 - 00:03:48,859] of the reaction.
+- [00:03:48,859 - 00:03:51,489] And what it really means is
+- [00:03:51,489 - 00:03:54,120] that kids look longer at a bunny
+- [00:03:54,120 - 00:03:57,000] than a truck.
+- [00:03:57,000 - 00:03:59,280] So that is, it's so familiar to you
+- [00:03:59,280 - 00:04:01,280] that you don't think it's
+- [00:04:01,280 - 00:04:03,280] worth explaining to people concretely
+- [00:04:03,280 - 00:04:04,920] what they're supposed to be seeing.
+- [00:04:04,920 - 00:04:06,660] So all of these are manifestations
+- [00:04:06,660 - 00:04:07,780] of the curse of knowledge.
+- [00:04:07,780 - 00:04:10,740] Goes by other names, egocentrism, absence
+- [00:04:10,740 - 00:04:12,360] of a theory of mind.
+- [00:04:12,360 - 00:04:13,890] That is a theory of what's
+- [00:04:13,890 - 00:04:15,420] going on in other people's minds.
+- [00:04:15,420 - 00:04:18,970] And if I had to identify
+- [00:04:18,970 - 00:04:22,520] the single biggest flaw in writing
+- [00:04:22,520 - 00:04:23,700] and communication, it would be that.
+- [00:04:23,700 - 00:04:24,100] That's it.
+- [00:04:24,100 - 00:04:24,600] That's it.
+- [00:04:24,600 - 00:04:25,980] So when you're writing your books,
+- [00:04:25,980 - 00:04:27,400] I know you go up to Cape
+- [00:04:27,400 - 00:04:28,820] Cod and you write for as long
+- [00:04:28,820 - 00:04:30,180] as you possibly can.
+- [00:04:30,180 - 00:04:32,260] Now, I would assume that one way to get around
+- [00:04:32,260 - 00:04:33,480] the curse of knowledge is just to talk
+- [00:04:33,480 - 00:04:34,720] to the kinds of people
+- [00:04:34,720 - 00:04:35,960] who would be reading your book.
+- [00:04:35,960 - 00:04:36,800] Yeah, you show it to people.
+- [00:04:36,800 - 00:04:37,460] So what do you do?
+- [00:04:37,460 - 00:04:37,900] What do you do?
+- [00:04:37,900 - 00:04:39,920] Because you write really intensely.
+- [00:04:39,920 - 00:04:42,000] So when you're writing, how do you get around that?
+- [00:04:42,000 - 00:04:43,260] Well, I do something that
+- [00:04:43,260 - 00:04:44,520] I know is not good enough,
+- [00:04:44,520 - 00:04:46,210] but I do it as
+- [00:04:46,210 - 00:04:47,900] best I can, which is I
+- [00:04:47,900 - 00:04:50,460] try to imagine what it's like for someone
+- [00:04:50,460 - 00:04:51,500] not to know what I know.
+- [00:04:51,500 - 00:04:53,680] That is, I try to cultivate my sense of empathy.
+- [00:04:53,680 - 00:04:55,300] But the problem with the curse of knowledge
+- [00:04:55,300 - 00:04:57,440] is you don't know when you're subject to the curse
+- [00:04:57,440 - 00:05:02,320] of knowledge, because something that seems so obvious to you
+- [00:05:02,320 - 00:05:04,900] that you don't even question whether other people know,
+- [00:05:04,900 - 00:05:06,680] it turns out not to be obvious.
+- [00:05:06,680 - 00:05:08,520] So anyway, I try.
+- [00:05:08,520 - 00:05:09,590] But at the end of the
+- [00:05:09,590 - 00:05:10,660] day, I show it to people.
+- [00:05:10,660 - 00:05:12,220] When my mother was alive, I would always
+- [00:05:12,220 - 00:05:15,040] show her a draft of my book.
+- [00:05:15,040 - 00:05:19,000] Not for the reason that most academics cite,
+- [00:05:19,000 - 00:05:23,680] namely referring to my mother as the most
+- [00:05:23,680 - 00:05:28,420] epitome of a unsophisticated, not very well-read,
+- [00:05:28,420 - 00:05:29,800] not very bright person.
+- [00:05:29,800 - 00:05:34,060] My mother was extremely intelligent, extremely well-read,
+- [00:05:34,060 - 00:05:35,520] and very sophisticated.
+- [00:05:35,520 - 00:05:37,560] But she wasn't a cognitive psychologist.
+- [00:05:37,560 - 00:05:38,940] She wasn't a psycholinguist.
+- [00:05:38,940 - 00:05:40,900] She didn't know what I knew.
+- [00:05:40,900 - 00:05:43,480] And when I write, I don't
+- [00:05:43,480 - 00:05:46,060] write for just a random sample
+- [00:05:46,060 - 00:05:46,800] of the population.
+- [00:05:46,800 - 00:05:49,000] They don't buy my books.
+- [00:05:49,000 - 00:05:51,520] I write for people who are intellectually curious, who
+- [00:05:51,520 - 00:05:53,660] have some degree of education.
+- [00:05:53,680 - 00:05:58,000] However, not for peers in my field.
+- [00:05:58,000 - 00:06:00,000] And so my mother being an example.
+- [00:06:00,000 - 00:06:01,920] But also, of course, when you publish
+- [00:06:01,920 - 00:06:03,920] for a commercial publisher, you have an editor.
+- [00:06:03,920 - 00:06:06,680] And the editor is typically very smart,
+- [00:06:06,680 - 00:06:08,860] but again, not in your field.
+- [00:06:08,860 - 00:06:11,080] And I show it to people in different fields
+- [00:06:11,080 - 00:06:12,580] who are academics.
+- [00:06:12,580 - 00:06:18,240] But it's surprising how insular even academics are when
+- [00:06:18,240 - 00:06:20,120] it comes to other academics.
+- [00:06:20,120 - 00:06:23,300] Sometimes there'll be people here in this building,
+- [00:06:23,300 - 00:06:26,240] in my own department, sometimes my own subdivision
+- [00:06:26,240 - 00:06:28,460] within my own department, like students.
+- [00:06:28,460 - 00:06:30,780] And they'll give me their thesis proposal.
+- [00:06:30,780 - 00:06:31,920] And I just don't know what they're talking about.
+- [00:06:31,920 - 00:06:33,820] Sometimes in my own field, because they've
+- [00:06:33,820 - 00:06:36,180] been immersed in like five
+- [00:06:36,180 - 00:06:38,540] or six people in their lab.
+- [00:06:38,540 - 00:06:41,060] Their supervisor and the other grad students,
+- [00:06:41,060 - 00:06:43,180] a couple of postdocs, and a research assistant.
+- [00:06:43,180 - 00:06:46,060] And they've all been consuming the same jargon,
+- [00:06:46,060 - 00:06:48,080] that as soon as they step outside
+- [00:06:48,080 - 00:06:51,920] that tiny little circle, they're unintelligible.
+- [00:06:51,920 - 00:06:53,240] So even showing it to.
+- [00:06:53,300 - 00:06:55,980] If I'm showing it to a friend who's
+- [00:06:55,980 - 00:06:58,880] an economist, or a historian, or a political scientist,
+- [00:06:58,880 - 00:07:01,040] or an evolutionary biologist, not
+- [00:07:01,040 - 00:07:03,140] being a cognitive psychologist, they'll say,
+- [00:07:03,140 - 00:07:04,260] I'm sorry, but I just
+- [00:07:04,260 - 00:07:05,380] don't know what you're talking about.
+- [00:07:05,380 - 00:07:06,020] Yeah.
+- [00:07:06,020 - 00:07:07,250] In terms of your writing,
+- [00:07:07,250 - 00:07:08,480] you've done so much work looking
+- [00:07:08,480 - 00:07:10,100] at vision and how the brain works.
+- [00:07:10,100 - 00:07:11,980] And it seems like a lot of your writing advice
+- [00:07:11,980 - 00:07:12,940] is informed by that.
+- [00:07:12,940 - 00:07:14,020] Like, I guess if I
+- [00:07:14,020 - 00:07:15,100] were to try to summarize it,
+- [00:07:15,100 - 00:07:17,090] it's like a lot of
+- [00:07:17,090 - 00:07:19,080] our brain and basically the way
+- [00:07:19,080 - 00:07:20,940] that we move through the
+- [00:07:20,940 - 00:07:22,800] world is indexed heavily on vision.
+- [00:07:22,800 - 00:07:27,000] And so writing well means being concrete and helping people
+- [00:07:27,000 - 00:07:28,740] see what it is they're trying to write.
+- [00:07:28,740 - 00:07:30,040] Is that a good way of describing it?
+- [00:07:30,040 - 00:07:30,540] Yes.
+- [00:07:30,540 - 00:07:34,500] And that would be probably the second bit of advice
+- [00:07:34,500 - 00:07:35,120] on the list.
+- [00:07:35,120 - 00:07:35,620] OK.
+- [00:07:35,620 - 00:07:37,120] The first one being, find some way
+- [00:07:37,120 - 00:07:38,740] of getting into your reader's heads.
+- [00:07:38,740 - 00:07:40,180] But don't just depend on
+- [00:07:40,180 - 00:07:41,620] your ability to get their heads.
+- [00:07:41,620 - 00:07:43,010] Actually, get a flesh and
+- [00:07:43,010 - 00:07:44,400] blood person to actually read it
+- [00:07:44,400 - 00:07:45,900] and see if it makes any sense to them.
+- [00:07:45,900 - 00:07:46,940] So that'd be number one.
+- [00:07:46,940 - 00:07:49,820] Number two is, I study language.
+- [00:07:49,820 - 00:07:52,000] And as a writer, I live in language.
+- [00:07:52,000 - 00:07:52,500] Yeah.
+- [00:07:52,800 - 00:07:55,300] But language is kind of overrated in the sense
+- [00:07:55,300 - 00:07:57,550] that what understanding consists of
+- [00:07:57,550 - 00:07:59,800] is not a bunch of words.
+- [00:07:59,800 - 00:08:01,800] It's not blah, blah, blah, blah, blah, blah, blah.
+- [00:08:01,800 - 00:08:03,660] But language is a means to an end
+- [00:08:03,660 - 00:08:07,900] of getting people to appreciate the ideas you're
+- [00:08:07,900 - 00:08:09,680] trying to convey, which are
+- [00:08:09,680 - 00:08:11,460] not just a string of verbiage.
+- [00:08:11,460 - 00:08:16,300] And those ideas very often are visual and motoric,
+- [00:08:16,300 - 00:08:20,740] that is bodily, emotional, auditory.
+- [00:08:20,740 - 00:08:22,000] But they're sensory.
+- [00:08:22,000 - 00:08:22,500] Hm.
+- [00:08:22,800 - 00:08:24,800] Or they're even conceptual.
+- [00:08:24,800 - 00:08:28,300] But they aren't just a bunch of vowels and consonants.
+- [00:08:28,300 - 00:08:29,180] Right.
+- [00:08:29,180 - 00:08:33,679] And so constantly allowing your reader
+- [00:08:33,679 - 00:08:36,080] to be able to form a
+- [00:08:36,080 - 00:08:38,480] mental image based on what you're writing
+- [00:08:38,480 - 00:08:41,520] is the next key to good writing.
+- [00:08:41,520 - 00:08:44,680] That is, don't talk about a stimulus
+- [00:08:44,680 - 00:08:47,400] if you mean a bunny rabbit.
+- [00:08:47,400 - 00:08:48,360] Right.
+- [00:08:48,360 - 00:08:50,500] Don't talk about a level
+- [00:08:50,500 - 00:08:52,640] or a perspective or a framework.
+- [00:08:52,800 - 00:08:55,140] Or a paradigm or a concept.
+- [00:08:55,140 - 00:08:56,970] All of which mean a lot
+- [00:08:56,970 - 00:08:58,800] to you in your day-to-day work.
+- [00:08:58,800 - 00:09:01,550] But no one can form an image
+- [00:09:01,550 - 00:09:04,300] of a paradigm in their mind's eye.
+- [00:09:04,300 - 00:09:05,180] So how do you do that?
+- [00:09:05,180 - 00:09:07,370] Like, one thing that you've said
+- [00:09:07,370 - 00:09:09,560] is use for example all the time.
+- [00:09:09,560 - 00:09:12,420] What else can we do?
+- [00:09:12,420 - 00:09:17,380] So often visual metaphors are helpful.
+- [00:09:17,380 - 00:09:20,090] One of the reasons that often the prose
+- [00:09:20,090 - 00:09:22,800] of other eras strikes us as so much,
+- [00:09:22,800 - 00:09:24,800] much more vivid is that.
+- [00:09:24,800 - 00:09:25,800] I was going to say lush.
+- [00:09:25,800 - 00:09:26,520] Lush.
+- [00:09:26,520 - 00:09:27,479] Yes.
+- [00:09:27,479 - 00:09:31,009] Partly because they had the
+- [00:09:31,009 - 00:09:34,540] advantage of writing before there were
+- [00:09:34,540 - 00:09:37,740] several hundred years of academia and intellectuals
+- [00:09:37,740 - 00:09:40,740] inventing terms and abstractions.
+- [00:09:40,740 - 00:09:45,120] And they had to appeal to images that were
+- [00:09:45,120 - 00:09:46,680] part of people's common knowledge.
+- [00:09:46,680 - 00:09:49,859] So instead of saying something like aggression
+- [00:09:49,859 - 00:09:52,680] or antisocial behavior, they might say,
+- [00:09:52,680 - 00:09:56,239] the spirit of the hawk kneaded into our flesh.
+- [00:09:56,239 - 00:09:57,800] Yes.
+- [00:09:57,800 - 00:10:00,760] We wouldn't write like that because we can say aggression
+- [00:10:00,760 - 00:10:02,520] or antisocial behavior.
+- [00:10:02,520 - 00:10:04,359] But that's jargon that a
+- [00:10:04,359 - 00:10:06,199] lot of people are familiar with.
+- [00:10:06,199 - 00:10:07,439] But they weren't always with us.
+- [00:10:07,439 - 00:10:09,089] And before that, there had to be
+- [00:10:09,089 - 00:10:10,739] some way of referring to it in terms
+- [00:10:10,739 - 00:10:12,359] of an image that everyone shared.
+- [00:10:12,359 - 00:10:13,979] And I think that's why
+- [00:10:13,979 - 00:10:15,599] often the writing of previous centuries
+- [00:10:15,599 - 00:10:18,229] just strikes us as so much more
+- [00:10:18,229 - 00:10:20,859] gripping, so much more evocative and powerful
+- [00:10:20,859 - 00:10:22,479] that they had to appeal to.
+- [00:10:22,480 - 00:10:23,680] And that's why we're so proud
+- [00:10:23,680 - 00:10:24,880] of the fact that we have
+- [00:10:24,880 - 00:10:26,920] this kind of visual metaphors.
+- [00:10:26,920 - 00:10:27,420] Yeah.
+- [00:10:27,420 - 00:10:28,920] I've never thought about that before.
+- [00:10:28,920 - 00:10:30,140] Because a lot of the Bibles
+- [00:10:30,140 - 00:10:31,360] like that, I think of like,
+- [00:10:31,360 - 00:10:32,540] I don't know why the
+- [00:10:32,540 - 00:10:33,720] owl of Minerva came to mind.
+- [00:10:33,720 - 00:10:36,520] There's just all of this symbolism in animals.
+- [00:10:36,520 - 00:10:38,800] It always is striking.
+- [00:10:38,800 - 00:10:40,300] And so what you're saying
+- [00:10:40,300 - 00:10:41,800] is a lot of the concepts
+- [00:10:41,800 - 00:10:44,260] that academics and people brought in, obviously,
+- [00:10:44,260 - 00:10:46,960] they're kind of a more efficient way to communicate.
+- [00:10:46,960 - 00:10:49,600] But they do lack that kind of visual quality
+- [00:10:49,600 - 00:10:50,900] that makes writing vivid.
+- [00:10:50,900 - 00:10:51,760] That's right.
+- [00:10:51,760 - 00:10:54,760] And so you can't be a biologist or a biologist
+- [00:10:54,760 - 00:10:56,319] and do all of that stuff.
+- [00:10:56,319 - 00:10:58,480] But you can talk about things like the universe,
+- [00:10:58,480 - 00:11:02,620] or doing the work within the profession.
+- [00:11:02,620 - 00:11:05,300] You have to be able, if you're a biologist,
+- [00:11:05,300 - 00:11:07,160] you have to be able
+- [00:11:07,160 - 00:11:09,020] to talk about things like ecosystems,
+- [00:11:09,020 - 00:11:14,620] and species, and systems, and reagents, and potentiation.
+- [00:11:14,620 - 00:11:16,610] All these concepts that you don't want
+- [00:11:16,610 - 00:11:18,600] to have to go back to basics
+- [00:11:18,600 - 00:11:21,200] and talk about, well, there's a certain amount of chemicals.
+- [00:11:21,200 - 00:11:24,080] And so you have more and more abstract terms
+- [00:11:24,080 - 00:11:26,960] that you could refer to, enormous bodies of knowledge,
+- [00:11:26,960 - 00:11:28,580] just with two syllables.
+- [00:11:28,580 - 00:11:29,980] That's very good.
+- [00:11:29,980 - 00:11:31,740] The problem is that then now
+- [00:11:31,740 - 00:11:33,500] when it's time to convey them
+- [00:11:33,500 - 00:11:37,380] to someone who isn't at the pinnacle of specialization
+- [00:11:37,380 - 00:11:40,160] in your field, because of the curse of knowledge,
+- [00:11:40,160 - 00:11:43,440] you're apt to forget that these abstractions, which
+- [00:11:43,440 - 00:11:45,760] are basic to you, or just
+- [00:11:45,760 - 00:11:48,080] don't even need to be defined,
+- [00:11:48,080 - 00:11:49,320] aren't basic to anyone else.
+- [00:11:49,320 - 00:11:49,820] Hm.
+- [00:11:49,820 - 00:11:51,200] What do we need to know about writing?
+- [00:11:51,200 - 00:11:52,490] And I think that's where you
+- [00:11:52,490 - 00:11:53,780] get the most out of writers,
+- [00:11:53,780 - 00:11:55,700] about how hard writing is.
+- [00:11:55,700 - 00:11:57,080] And I mean it in this way.
+- [00:11:57,080 - 00:11:59,040] Speaking comes so naturally to us,
+- [00:11:59,040 - 00:12:00,370] but then writing is something that
+- [00:12:00,370 - 00:12:01,700] we sort of have to learn.
+- [00:12:01,700 - 00:12:03,410] You watch a kid, and you talk
+- [00:12:03,410 - 00:12:05,120] to a parent who has a 20-month-old.
+- [00:12:05,120 - 00:12:06,700] They're like, yeah, they're speaking now.
+- [00:12:06,700 - 00:12:08,540] They're like, oh, you wouldn't believe it.
+- [00:12:08,540 - 00:12:09,700] They're talking so much.
+- [00:12:09,700 - 00:12:10,960] They're crawling around.
+- [00:12:10,960 - 00:12:12,580] And it's always like, yeah, it's like that.
+- [00:12:12,580 - 00:12:15,540] And then you talk to them who have parents
+- [00:12:15,540 - 00:12:16,820] who have eight-year-old kids.
+- [00:12:16,820 - 00:12:17,700] How's the writing going?
+- [00:12:17,700 - 00:12:19,880] It's like, well, it's going a little slow.
+- [00:12:19,880 - 00:12:21,200] There's not that same excitement.
+- [00:12:21,200 - 00:12:22,820] Why is it that writing
+- [00:12:22,820 - 00:12:24,440] is so unnatural in a way
+- [00:12:24,440 - 00:12:26,080] that speaking is so natural?
+- [00:12:26,080 - 00:12:27,660] What is going on there scientifically
+- [00:12:27,660 - 00:12:29,200] and then practically?
+- [00:12:29,200 - 00:12:30,200] A number of things.
+- [00:12:30,200 - 00:12:36,160] One of them is that in conversation,
+- [00:12:36,160 - 00:12:38,160] you never have two people
+- [00:12:38,160 - 00:12:40,160] that are parachuted on a stage
+- [00:12:40,160 - 00:12:43,280] and immediately have to begin a conversation.
+- [00:12:43,280 - 00:12:46,200] They have some common ground to begin with.
+- [00:12:46,200 - 00:12:48,040] They know why they're there.
+- [00:12:48,040 - 00:12:50,120] They're talking about something that is in the air
+- [00:12:50,120 - 00:12:51,200] that they're both familiar with.
+- [00:12:51,200 - 00:12:52,580] It was the reason for them having
+- [00:12:52,580 - 00:12:55,820] the conversation in the first place.
+- [00:12:55,820 - 00:12:59,440] They can get away with using terms that in context
+- [00:12:59,440 - 00:13:02,000] are perfectly clear, like this and that and the thing
+- [00:13:02,000 - 00:13:05,200] and what I was talking about and she.
+- [00:13:05,200 - 00:13:07,680] Whereas if you are not
+- [00:13:07,680 - 00:13:10,160] privy to that little social circle,
+- [00:13:10,160 - 00:13:12,900] you may not know who they're referring to.
+- [00:13:12,900 - 00:13:16,660] In writing, you're wrenched from the context.
+- [00:13:16,660 - 00:13:18,900] Someone's picking a book up off the shelf,
+- [00:13:18,900 - 00:13:21,000] and they've never met you.
+- [00:13:21,200 - 00:13:23,580] And they may be living in a different country.
+- [00:13:23,580 - 00:13:25,820] You might be dead.
+- [00:13:25,820 - 00:13:28,700] They've got to pick up all of this detail
+- [00:13:28,700 - 00:13:34,580] from what's there on the page, not the common ground
+- [00:13:34,580 - 00:13:37,700] that the two people bring to the conversation.
+- [00:13:37,700 - 00:13:40,080] Also, when you're speaking, you know
+- [00:13:40,080 - 00:13:42,580] that you're speaking to someone.
+- [00:13:42,580 - 00:13:44,240] You know their idiosyncrasies.
+- [00:13:44,240 - 00:13:46,070] You're a little bit better
+- [00:13:46,070 - 00:13:47,900] at avoiding the curse of knowledge,
+- [00:13:47,900 - 00:13:51,200] partly because you get feedback, like the furrowed brow.
+- [00:13:51,200 - 00:13:52,820] The quizzical expression.
+- [00:13:52,820 - 00:13:54,200] The what?
+- [00:13:54,200 - 00:13:55,700] The request for clarification.
+- [00:13:55,700 - 00:13:58,200] I'm sorry, I just don't know what you're talking about
+- [00:13:58,200 - 00:13:59,360] in real time.
+- [00:13:59,360 - 00:14:02,440] And the body language, the engagement.
+- [00:14:02,440 - 00:14:07,580] Even in a live audience, any speaker knows when people
+- [00:14:07,580 - 00:14:11,040] are starting to fidget and drift off,
+- [00:14:11,040 - 00:14:13,820] as opposed to continuing to be riveted.
+- [00:14:13,820 - 00:14:17,280] None of that is available in writing.
+- [00:14:17,280 - 00:14:18,320] Absolutely.
+- [00:14:18,320 - 00:14:19,200] How about this one?
+- [00:14:21,200 - 00:14:25,960] I think generalizations without examples and examples
+- [00:14:25,960 - 00:14:29,280] without generalizations are both useless.
+- [00:14:29,280 - 00:14:30,080] Yes.
+- [00:14:30,080 - 00:14:32,240] Well, and useless might be a bit strong.
+- [00:14:32,240 - 00:14:35,960] But generalizations without examples, I find,
+- [00:14:35,960 - 00:14:37,900] even in my field, 9 out of 10 times,
+- [00:14:37,900 - 00:14:39,740] I just don't know what they're talking about.
+- [00:14:39,740 - 00:14:43,820] It's like, what do you, like, give me an example.
+- [00:14:43,820 - 00:14:49,360] It's too, because a generalization erases detail.
+- [00:14:49,360 - 00:14:50,360] It sweeps over.
+- [00:14:50,360 - 00:14:50,860] Mm-hmm.
+- [00:14:50,860 - 00:14:52,780] It sweeps over particulars.
+- [00:14:52,780 - 00:14:56,240] You often just can't really know what it's referring to.
+- [00:14:56,240 - 00:14:58,980] And the abstract words in a language
+- [00:14:58,980 - 00:15:01,100] just aren't precise enough.
+- [00:15:01,100 - 00:15:04,160] They often have, we have probably 100 concepts
+- [00:15:04,160 - 00:15:06,520] for every word in the English language.
+- [00:15:06,520 - 00:15:10,860] And so a particular word, especially if it's abstract,
+- [00:15:10,860 - 00:15:13,620] won't call to mind a particular referent.
+- [00:15:13,620 - 00:15:20,620] The example pins it down to what's the general ballpark,
+- [00:15:20,860 - 00:15:23,200] what's the ballpark that you're talking about,
+- [00:15:23,200 - 00:15:27,360] what is the generalization or generalization about.
+- [00:15:27,360 - 00:15:30,160] Now, examples without generalizations, it's,
+- [00:15:30,160 - 00:15:31,620] well, why don't you just tell me that?
+- [00:15:31,620 - 00:15:34,020] Like, you know, and your point is?
+- [00:15:34,020 - 00:15:34,520] Yeah.
+- [00:15:34,520 - 00:15:36,860] And apropos of what?
+- [00:15:36,860 - 00:15:38,520] One of my favorite ways to think about this
+- [00:15:38,520 - 00:15:40,740] is that there's always a trade-off between context
+- [00:15:40,740 - 00:15:41,860] and compression.
+- [00:15:41,860 - 00:15:45,880] So if I could wax poetic for
+- [00:15:45,880 - 00:15:49,900] the next five hours about my train
+- [00:15:49,900 - 00:15:50,780] ride to Boston today. But that's fine.
+- [00:15:50,780 - 00:15:52,240] That's way too long.
+- [00:15:52,240 - 00:15:53,360] Or I could tell you, yeah,
+- [00:15:53,360 - 00:15:54,480] it was an easy train ride.
+- [00:15:54,480 - 00:15:56,660] But then you didn't actually get anything from that,
+- [00:15:56,660 - 00:15:58,240] because there's no context there.
+- [00:15:58,240 - 00:16:01,579] And that maybe we're always kind of balancing the examples,
+- [00:16:01,579 - 00:16:03,079] kind of give us that context.
+- [00:16:03,079 - 00:16:05,120] And then the generalizations are the compression.
+- [00:16:05,120 - 00:16:07,020] And it's actually in, like, the swing and the dance
+- [00:16:07,020 - 00:16:08,400] of the two of those
+- [00:16:08,400 - 00:16:09,780] that good writing and good communication
+- [00:16:09,780 - 00:16:10,699] happens.
+- [00:16:10,699 - 00:16:11,280] Yeah.
+- [00:16:11,280 - 00:16:13,150] So for example, if I were
+- [00:16:13,150 - 00:16:15,020] to say that familiar words don't
+- [00:16:15,020 - 00:16:19,819] have to refer to the literal meaning of their parts,
+- [00:16:19,819 - 00:16:20,740] you can understand that.
+- [00:16:20,740 - 00:16:23,820] And you kind of say, yeah, yeah, OK.
+- [00:16:23,820 - 00:16:27,860] And then I say, well, for example, a bathroom
+- [00:16:27,860 - 00:16:29,900] isn't necessarily a room with a bath.
+- [00:16:29,900 - 00:16:31,740] And going to the bathroom doesn't necessarily
+- [00:16:31,740 - 00:16:34,120] mean going to a room that has a bathroom.
+- [00:16:34,120 - 00:16:37,120] Breakfast isn't necessarily breaking a fast.
+- [00:16:37,120 - 00:16:40,160] And Christmas doesn't necessarily
+- [00:16:40,160 - 00:16:42,820] refer to Christ's Mass.
+- [00:16:42,820 - 00:16:45,240] Now, having said that, I think you now
+- [00:16:45,240 - 00:16:47,440] understand what I mean when I say
+- [00:16:47,440 - 00:16:50,120] that the meaning of a familiar phrase
+- [00:16:50,120 - 00:16:53,820] doesn't necessarily correspond to the meanings of its parts.
+- [00:16:53,820 - 00:16:56,580] Hopefully, that now makes some sense to you,
+- [00:16:56,580 - 00:16:58,360] now that I've given you the examples.
+- [00:16:58,360 - 00:17:00,880] Without the examples, you could nod and say,
+- [00:17:00,880 - 00:17:01,960] oh, that sounds plausible.
+- [00:17:01,960 - 00:17:03,580] But you really wouldn't have understood it.
+- [00:17:03,580 - 00:17:06,500] Let's roll with that.
+- [00:17:06,500 - 00:17:10,240] If adults commit adultery, do infants commit infantry?
+- [00:17:10,240 - 00:17:12,619] If olive oil is made from olives,
+- [00:17:12,619 - 00:17:15,319] what do they make baby oil from?
+- [00:17:15,319 - 00:17:17,449] If a vegetarian eats vegetables,
+- [00:17:17,449 - 00:17:19,579] what does a humanitarian consume?
+- [00:17:19,579 - 00:17:22,000] A writer is someone who writes, and a stinger
+- [00:17:22,000 - 00:17:23,419] is something that stings.
+- [00:17:23,419 - 00:17:25,399] But fingers don't fing, grocers
+- [00:17:25,399 - 00:17:27,379] don't gross, hammers don't ham,
+- [00:17:27,379 - 00:17:30,379] humdingers don't humding, ushers don't ush,
+- [00:17:30,379 - 00:17:33,199] and haberdashers don't haberdash.
+- [00:17:33,199 - 00:17:34,080] What's going on there?
+- [00:17:34,080 - 00:17:35,159] Why did you pull this out?
+- [00:17:35,159 - 00:17:37,120] So this is a quote from Richard Lederer.
+- [00:17:37,120 - 00:17:39,659] I deserve no credit for that criticism.
+- [00:17:39,659 - 00:17:40,280] I love this.
+- [00:17:40,280 - 00:17:41,040] I think it's so good.
+- [00:17:41,040 - 00:17:43,340] Lederer has written a number of delightful books,
+- [00:17:43,340 - 00:17:46,280] like Crazy English and Anguished English.
+- [00:17:46,280 - 00:17:49,540] He has a marvelous ear and a fabulous,
+- [00:17:49,540 - 00:17:53,960] marvelous collector of quirks and errors and oddities
+- [00:17:53,960 - 00:17:57,500] and blunders in the English language.
+- [00:17:57,500 - 00:18:00,700] So that whimsical list is quite profound
+- [00:18:00,700 - 00:18:04,740] because it indicates a lot of truths about language,
+- [00:18:04,740 - 00:18:10,420] such as that over time, compositions of words,
+- [00:18:10,420 - 00:18:13,420] compounds or words with a prefix and suffix,
+- [00:18:13,420 - 00:18:18,420] can sometimes drift away from the original meaning.
+- [00:18:18,420 - 00:18:19,500] The case of adultery,
+- [00:18:19,540 - 00:18:24,159] for example, it is related to adulterate.
+- [00:18:24,159 - 00:18:27,349] Namely, to commit adultery is
+- [00:18:27,349 - 00:18:30,540] to introduce a foreign substance,
+- [00:18:30,540 - 00:18:37,540] namely semen into a woman where it doesn't belong.
+- [00:18:37,540 - 00:18:42,540] But that whole connection has been completely lost.
+- [00:18:42,540 - 00:18:45,540] Also, in many kinds of compounds,
+- [00:18:45,540 - 00:18:49,540] there are a number of different semantic relationships.
+- [00:18:49,540 - 00:18:52,040] So for example, olive oil
+- [00:18:52,040 - 00:18:54,540] is oil made out of olives.
+- [00:18:54,540 - 00:18:58,540] Baby oil is oil for babies.
+- [00:18:58,540 - 00:19:02,540] So there isn't a logical, a single logical relationship
+- [00:19:02,540 - 00:19:05,540] between the different parts of the compound.
+- [00:19:05,540 - 00:19:08,540] Language is so ancient.
+- [00:19:08,540 - 00:19:13,540] English itself is, depending on how you count,
+- [00:19:13,540 - 00:19:17,540] maybe, you know, 1,500 years old or more.
+- [00:19:17,540 - 00:19:18,540] But it came from the early Middle Ages.
+- [00:19:18,540 - 00:19:19,540] So it's a very, very ancient language.
+- [00:19:19,540 - 00:19:22,540] It came from Germanic, which came from Indo-European,
+- [00:19:22,540 - 00:19:24,540] and who knows where that came from,
+- [00:19:24,540 - 00:19:32,540] that a lot of words can completely obscure their origin.
+- [00:19:32,540 - 00:19:33,540] You have to go to
+- [00:19:33,540 - 00:19:34,540] a dictionary to find them out,
+- [00:19:34,540 - 00:19:36,040] but they're kind of like
+- [00:19:36,040 - 00:19:37,540] fossils of processes in the language
+- [00:19:37,540 - 00:19:39,540] that are long dead.
+- [00:19:39,540 - 00:19:42,540] You know, how the ER got into finger,
+- [00:19:42,540 - 00:19:44,040] I would have to look
+- [00:19:44,040 - 00:19:45,540] up the etymology to tell you,
+- [00:19:45,540 - 00:19:48,540] but it's not the same as, say, sing-singer,
+- [00:19:48,540 - 00:19:51,040] which comes from the rule that
+- [00:19:51,040 - 00:19:53,540] ER turns a verb into a noun
+- [00:19:53,540 - 00:19:55,040] for the kind of person
+- [00:19:55,040 - 00:19:56,540] that typically engages in that activity.
+- [00:19:56,540 - 00:19:58,540] That's a rule that's still alive
+- [00:19:58,540 - 00:20:00,540] and well in the English language,
+- [00:20:00,540 - 00:20:03,540] whereas we have the fossil record of
+- [00:20:03,540 - 00:20:06,540] lots of rules that died long ago.
+- [00:20:06,540 - 00:20:08,540] When you're writing, like, if
+- [00:20:08,540 - 00:20:10,540] I were to basically map out
+- [00:20:10,540 - 00:20:12,540] almost like a gradient of our conversation,
+- [00:20:12,540 - 00:20:15,540] I'd say like, curse of knowledge, I would almost,
+- [00:20:15,540 - 00:20:16,540] I'm being very haphazard here, I'd say
+- [00:20:16,540 - 00:20:17,540] like equal parts left brain, right brain,
+- [00:20:17,540 - 00:20:20,040] and then we sort of moved into kind
+- [00:20:20,040 - 00:20:22,540] of a left brain side of the conversation.
+- [00:20:22,540 - 00:20:24,540] And then I think of what you've said
+- [00:20:24,540 - 00:20:26,540] about language should be a source of pleasure.
+- [00:20:26,540 - 00:20:28,540] Like, I think of that in beauty, right?
+- [00:20:28,540 - 00:20:30,540] You talk a lot about beauty also in your photography.
+- [00:20:30,540 - 00:20:32,540] You're very interested in that.
+- [00:20:32,540 - 00:20:34,540] That to me is more right brain.
+- [00:20:34,540 - 00:20:36,540] So like when you're writing,
+- [00:20:36,540 - 00:20:38,540] when you're actually sitting down at the keyboard,
+- [00:20:38,540 - 00:20:40,540] what are some of the more right brained,
+- [00:20:40,540 - 00:20:43,540] maybe less verbal concepts that drive your writing?
+- [00:20:43,540 - 00:20:45,540] Well, certainly visual imagery.
+- [00:20:45,540 - 00:20:47,540] That is, can I write?
+- [00:20:47,540 - 00:20:48,540] Can I form an image?
+- [00:20:48,540 - 00:20:50,540] Can I read or form an image?
+- [00:20:50,540 - 00:20:52,540] Euphony, that is sound.
+- [00:20:52,540 - 00:20:57,540] That is, is there some poetry in the prose?
+- [00:20:57,540 - 00:21:01,540] And I read aloud or at least mumble,
+- [00:21:01,540 - 00:21:04,540] or at least mumble to myself my prose,
+- [00:21:04,540 - 00:21:06,540] something that's, again, a highly recommended writing tip.
+- [00:21:06,540 - 00:21:07,540] I didn't invent it.
+- [00:21:07,540 - 00:21:10,540] Often when you read a draft of your own prose,
+- [00:21:10,540 - 00:21:13,540] and if you can't articulate it smoothly,
+- [00:21:13,540 - 00:21:17,540] that probably your reader won't be,
+- [00:21:17,540 - 00:21:20,540] mentally sounding it out smoothly either.
+- [00:21:20,540 - 00:21:26,540] The aesthetics sometimes come from even things like
+- [00:21:26,540 - 00:21:29,540] paying attention to the metrical structure of language.
+- [00:21:29,540 - 00:21:30,540] That is the rhythm.
+- [00:21:30,540 - 00:21:31,540] Oh, tell me about that.
+- [00:21:31,540 - 00:21:34,540] There is a regular rhythm to language
+- [00:21:34,540 - 00:21:37,540] in that it's not perfectly, you know,
+- [00:21:37,540 - 00:21:39,540] tick-tock, tick-tock like a metronome,
+- [00:21:39,540 - 00:21:41,540] but there are beats.
+- [00:21:41,540 - 00:21:43,540] And if you disrupt it too much,
+- [00:21:43,540 - 00:21:46,540] then it does interfere with speech,
+- [00:21:46,540 - 00:21:48,540] but it also interferes with reading,
+- [00:21:48,540 - 00:21:50,540] even though it's just characters on a page.
+- [00:21:50,540 - 00:21:55,540] Even the aesthetics of sibilant sounds,
+- [00:21:55,540 - 00:22:00,540] generally too many chs and ss
+- [00:22:00,540 - 00:22:03,540] make prose a little unpleasant,
+- [00:22:03,540 - 00:22:07,540] and I will often pick a synonym
+- [00:22:07,540 - 00:22:09,540] that avoids the sibilant,
+- [00:22:09,540 - 00:22:12,540] at least too many sibilants in a row.
+- [00:22:12,540 - 00:22:15,540] I'll often go with alliteration,
+- [00:22:15,540 - 00:22:17,540] just because it, again,
+- [00:22:17,540 - 00:22:19,540] there's a little spark of pleasure.
+- [00:22:19,540 - 00:22:20,540] Sense of style.
+- [00:22:20,540 - 00:22:22,540] Sense of style, yep.
+- [00:22:22,540 - 00:22:23,540] Even when it is,
+- [00:22:23,540 - 00:22:26,540] you don't want to make it too conspicuous,
+- [00:22:26,540 - 00:22:28,540] otherwise it starts to feel forced.
+- [00:22:28,540 - 00:22:31,540] But often a bit of alliteration
+- [00:22:31,540 - 00:22:35,540] can just make the sentence roll past more easily.
+- [00:22:35,540 - 00:22:37,540] Why do you think that you,
+- [00:22:37,540 - 00:22:38,540] as much as anybody,
+- [00:22:38,540 - 00:22:39,540] have been the person to kind of
+- [00:22:39,540 - 00:22:41,540] stomp your feet, kick and scream
+- [00:22:41,540 - 00:22:44,540] about the, how bad academic writing
+- [00:22:44,540 - 00:22:45,540] has been over the years?
+- [00:22:45,540 - 00:22:47,540] Like when I think of who has been like,
+- [00:22:47,540 - 00:22:49,540] guys, what are we doing?
+- [00:22:49,540 - 00:22:51,540] You've sort of been one of the front runners.
+- [00:22:51,540 - 00:22:52,540] What about it?
+- [00:22:52,540 - 00:22:53,540] I mean, besides the obvious,
+- [00:22:53,540 - 00:22:56,540] what about it has just bothered you so vividly?
+- [00:22:56,540 - 00:23:00,540] Yeah, part of it is just the sheer waste.
+- [00:23:00,540 - 00:23:04,540] That is, there's an awful lot of really brilliant work,
+- [00:23:04,540 - 00:23:07,540] a lot of really smart people in academia,
+- [00:23:07,540 - 00:23:09,540] and why are they doing it?
+- [00:23:09,540 - 00:23:13,540] Just to entertain each other in a closed little circle?
+- [00:23:13,540 - 00:23:14,540] I mean, taxpayers pay for it.
+- [00:23:14,540 - 00:23:16,540] It should be accessible.
+- [00:23:16,540 - 00:23:17,540] They should give it away.
+- [00:23:17,540 - 00:23:20,540] They should state it in a form that it's accessible.
+- [00:23:20,540 - 00:23:24,540] There's also, when even within the profession,
+- [00:23:24,540 - 00:23:27,540] there's just an enormous amount of wasted effort
+- [00:23:27,540 - 00:23:30,540] and potential for misunderstanding in bad prose.
+- [00:23:30,540 - 00:23:31,540] It's like if I'm reading,
+- [00:23:31,540 - 00:23:33,540] if I have to read something,
+- [00:23:33,540 - 00:23:34,540] it's a student paper,
+- [00:23:34,540 - 00:23:36,540] or it's a paper in my own field,
+- [00:23:36,540 - 00:23:38,540] or I'm reviewing a grant proposal,
+- [00:23:38,540 - 00:23:39,540] or peer reviewing a manuscript,
+- [00:23:39,540 - 00:23:41,540] or evaluating for someone for a grant,
+- [00:23:41,540 - 00:23:43,540] it's like, I'm reading a paper
+- [00:23:43,540 - 00:23:45,540] and I'm evaluating for someone for tenure.
+- [00:23:45,540 - 00:23:47,540] If I have to read the same paragraph
+- [00:23:47,540 - 00:23:48,540] like five or six times
+- [00:23:48,540 - 00:23:50,540] in order to know what they're talking about,
+- [00:23:50,540 - 00:23:52,540] for one thing, I might get it wrong,
+- [00:23:52,540 - 00:23:53,540] then what's the point?
+- [00:23:53,540 - 00:23:54,540] In other words,
+- [00:23:54,540 - 00:23:55,540] why should I have to
+- [00:23:55,540 - 00:23:56,540] read it five or six times?
+- [00:23:56,540 - 00:23:58,540] I'd rather be doing something else.
+- [00:23:58,540 - 00:23:59,540] Come on.
+- [00:23:59,540 - 00:24:00,540] Yeah.
+- [00:24:00,540 - 00:24:03,540] So there's waste, there's confusion.
+- [00:24:03,540 - 00:24:07,540] There's also foregone opportunity for pleasure and beauty.
+- [00:24:07,540 - 00:24:11,540] It's enjoyable to read something that's well-crafted
+- [00:24:11,540 - 00:24:13,540] and it's annoying to read something
+- [00:24:13,540 - 00:24:18,540] that's stilted and turgid and bloated.
+- [00:24:18,540 - 00:24:20,540] There are many reasons,
+- [00:24:20,540 - 00:24:23,540] and it does get under my skin
+- [00:24:23,540 - 00:24:26,540] when academics devote so much brain power
+- [00:24:26,540 - 00:24:28,540] into the scholarship
+- [00:24:28,540 - 00:24:32,540] and then just blow off the essential task
+- [00:24:32,540 - 00:24:34,540] of letting the world know what you've done.
+- [00:24:34,540 - 00:24:37,540] Yeah, it's a true virus in the modern world.
+- [00:24:37,540 - 00:24:38,540] Yeah.
+- [00:24:38,540 - 00:24:40,540] I take a particular interest in it,
+- [00:24:40,540 - 00:24:43,540] not just because I do try very hard,
+- [00:24:43,540 - 00:24:46,540] but even in my academic writing, to be clear.
+- [00:24:46,540 - 00:24:50,540] But since I'm someone who actually
+- [00:24:50,540 - 00:24:52,540] not just studies stuff as an academic,
+- [00:24:52,540 - 00:24:54,540] but studies language,
+- [00:24:54,540 - 00:24:55,540] Yeah.
+- [00:24:55,540 - 00:24:57,540] I get particularly annoyed at people
+- [00:24:57,540 - 00:24:59,540] in the field of linguistics and psycholinguistics
+- [00:24:59,540 - 00:25:01,540] because so many of them are such bad writers.
+- [00:25:01,540 - 00:25:03,540] It's like, you study language.
+- [00:25:03,540 - 00:25:05,540] If what you're studying is
+- [00:25:05,540 - 00:25:07,540] what makes a sentence difficult to understand,
+- [00:25:07,540 - 00:25:10,540] why don't you pay attention to your own research
+- [00:25:10,540 - 00:25:12,540] and make your sentences less hard to understand?
+- [00:25:13,540 - 00:25:14,540] Yeah.
+- [00:25:14,540 - 00:25:16,540] What is it that you love so much
+- [00:25:16,540 - 00:25:17,540] about children's explanations?
+- [00:25:17,540 - 00:25:19,540] Things like clouds are water vapor,
+- [00:25:19,540 - 00:25:21,540] smoke is fire vapor.
+- [00:25:21,540 - 00:25:22,540] Oh, yes.
+- [00:25:22,540 - 00:25:24,540] You do see things...
+- [00:25:24,540 - 00:25:27,540] Yeah, that was from my grandson.
+- [00:25:27,540 - 00:25:31,540] I mean, it's poetry.
+- [00:25:31,540 - 00:25:33,540] It's a new juxtaposition.
+- [00:25:33,540 - 00:25:35,540] There's such a freshness to children's explanations.
+- [00:25:35,540 - 00:25:38,540] Yeah, yeah, because they aren't writing in cliches,
+- [00:25:38,540 - 00:25:42,540] and partly because they haven't accumulated
+- [00:25:42,540 - 00:25:43,540] the knowledge.
+- [00:25:43,540 - 00:25:45,540] They have this massive abstractions,
+- [00:25:45,540 - 00:25:48,540] like the writers of a few centuries ago
+- [00:25:48,540 - 00:25:52,540] who had to grasp for some common image.
+- [00:25:52,540 - 00:25:56,540] Children, without the decades
+- [00:25:56,540 - 00:26:01,540] of acquired jargon from academia,
+- [00:26:01,540 - 00:26:03,540] have to appeal to something that they can see
+- [00:26:03,540 - 00:26:05,540] and that other people can see.
+- [00:26:05,540 - 00:26:06,540] Yeah.
+- [00:26:06,540 - 00:26:09,540] There's a guy who I follow on Twitter
+- [00:26:09,540 - 00:26:11,540] who I've really come to like,
+- [00:26:11,540 - 00:26:12,540] and in his bio it says,
+- [00:26:12,540 - 00:26:13,540] listen to children.
+- [00:26:13,540 - 00:26:15,540] They haven't forgotten how to see.
+- [00:26:15,540 - 00:26:18,540] And I know a YouTuber,
+- [00:26:18,540 - 00:26:19,540] and one of the ways that
+- [00:26:19,540 - 00:26:20,540] she comes up with her ideas
+- [00:26:20,540 - 00:26:23,540] is she has conversations with her friends' kids
+- [00:26:23,540 - 00:26:25,540] who just ask these crazy questions,
+- [00:26:25,540 - 00:26:27,540] like how deep is the ocean?
+- [00:26:27,540 - 00:26:30,540] How high would a tower need to be
+- [00:26:30,540 - 00:26:31,540] in order for us to get to heaven?
+- [00:26:31,540 - 00:26:33,540] And then, like, I have another friend
+- [00:26:33,540 - 00:26:34,540] who, when he was a kid,
+- [00:26:34,540 - 00:26:36,540] he thought that clouds were produced
+- [00:26:36,540 - 00:26:37,540] by those little smoke things,
+- [00:26:37,540 - 00:26:39,540] sort of like chimneys,
+- [00:26:39,540 - 00:26:41,540] so he thought that those were like cloud creators.
+- [00:26:41,540 - 00:26:42,540] And there's such a freshness
+- [00:26:42,540 - 00:26:44,540] to just how children see
+- [00:26:44,540 - 00:26:45,540] and how they talk about things.
+- [00:26:45,540 - 00:26:46,540] And like you said,
+- [00:26:46,540 - 00:26:50,540] they can't possibly think inside the box
+- [00:26:50,540 - 00:26:52,540] because they don't even know the box exists.
+- [00:26:52,540 - 00:26:53,540] Yes, right.
+- [00:26:53,540 - 00:26:55,540] And there were,
+- [00:26:55,540 - 00:26:57,540] there have been in history
+- [00:26:57,540 - 00:26:59,540] various features to remind people
+- [00:26:59,540 - 00:27:03,540] of the originality and the freshness of kids.
+- [00:27:03,540 - 00:27:06,540] There was a regular feature from my childhood
+- [00:27:06,540 - 00:27:08,540] called Kids See the Darnedest Things
+- [00:27:08,540 - 00:27:11,540] from a television host named Ark Lipschitz,
+- [00:27:11,540 - 00:27:12,540] Art Linkletter.
+- [00:27:12,540 - 00:27:13,540] Yeah, I've heard of him.
+- [00:27:13,540 - 00:27:14,540] Oh, you have?
+- [00:27:14,540 - 00:27:15,540] Okay.
+- [00:27:15,540 - 00:27:16,540] Yeah.
+- [00:27:16,540 - 00:27:17,540] In fact, what has survived him
+- [00:27:17,540 - 00:27:21,540] and the feature of the program
+- [00:27:21,540 - 00:27:23,540] is the Say the Darnedest Things
+- [00:27:23,540 - 00:27:26,540] or even the verb the darnedest nouns,
+- [00:27:26,540 - 00:27:30,540] which you'll often see adopted in headlines
+- [00:27:30,540 - 00:27:33,540] and it's become itself a kind of formula,
+- [00:27:33,540 - 00:27:34,540] but he originated it.
+- [00:27:34,540 - 00:27:35,540] Johnny Carson,
+- [00:27:35,540 - 00:27:38,540] the longtime host of The Tonight Show,
+- [00:27:38,540 - 00:27:40,540] would sometimes have features
+- [00:27:40,540 - 00:27:44,540] where he'd read answers,
+- [00:27:44,540 - 00:27:48,540] kids' answers to questions to much hilarity.
+- [00:27:48,540 - 00:27:51,540] How does humor factor into all this?
+- [00:27:51,540 - 00:27:52,540] Into writing?
+- [00:27:52,540 - 00:27:53,540] Yeah, exactly.
+- [00:27:53,540 - 00:27:57,540] Like, and even maybe even the science of humor,
+- [00:27:57,540 - 00:27:59,540] like words that are funnier,
+- [00:27:59,540 - 00:28:00,540] because you have that great
+- [00:28:00,540 - 00:28:01,540] talk from like 10 years ago
+- [00:28:01,540 - 00:28:02,540] where you, I'm going to recommend it.
+- [00:28:02,540 - 00:28:03,540] Yeah, well, there's,
+- [00:28:03,540 - 00:28:05,540] I guess like everything, there's an art to it
+- [00:28:05,540 - 00:28:07,540] because you don't want to,
+- [00:28:07,540 - 00:28:09,540] when it's strained, you get groans
+- [00:28:09,540 - 00:28:10,540] instead of laughter.
+- [00:28:10,540 - 00:28:11,540] Yeah.
+- [00:28:11,540 - 00:28:13,540] So it has to be appropriate.
+- [00:28:13,540 - 00:28:15,540] It can't just be something
+- [00:28:15,540 - 00:28:17,540] that has been repeated so often
+- [00:28:17,540 - 00:28:20,540] that people have heard it 37 times before.
+- [00:28:20,540 - 00:28:21,540] Right.
+- [00:28:21,540 - 00:28:24,540] And humor specifically depends on freshness.
+- [00:28:24,540 - 00:28:25,540] Yeah, it does.
+- [00:28:25,540 - 00:28:26,540] And it also depends,
+- [00:28:26,540 - 00:28:32,540] humor does have much in common with good writing.
+- [00:28:32,540 - 00:28:34,540] There's a line from Hamlet,
+- [00:28:34,540 - 00:28:38,540] which brevity is the soul of wit.
+- [00:28:38,540 - 00:28:39,540] Yeah.
+- [00:28:39,540 - 00:28:42,540] Now, it's a great saying for a number of reasons.
+- [00:28:42,540 - 00:28:45,540] One of them is even the term soul,
+- [00:28:45,540 - 00:28:48,540] as opposed to is essential for wit,
+- [00:28:48,540 - 00:28:50,540] or is important for wit,
+- [00:28:50,540 - 00:28:52,540] or even the essence of wit.
+- [00:28:52,540 - 00:28:54,540] Those are ways that we would say it now,
+- [00:28:54,540 - 00:28:55,540] but the soul of wit,
+- [00:28:55,540 - 00:28:57,540] you have to think for a minute,
+- [00:28:57,540 - 00:29:00,540] soul being the deepest, deepest essence,
+- [00:29:00,540 - 00:29:02,540] but it's a monosyllable,
+- [00:29:02,540 - 00:29:06,540] and it has so much resonance.
+- [00:29:06,540 - 00:29:07,540] Yeah.
+- [00:29:07,540 - 00:29:09,040] I guess that Shakespeare really
+- [00:29:09,040 - 00:29:10,540] was a good writer, wasn't he?
+- [00:29:10,540 - 00:29:11,540] Yeah, I've heard of that guy.
+- [00:29:11,540 - 00:29:12,540] Yeah.
+- [00:29:12,540 - 00:29:13,540] But it's also,
+- [00:29:13,540 - 00:29:16,540] it is true and it's a good example of itself
+- [00:29:16,540 - 00:29:18,540] because it is so brief.
+- [00:29:18,540 - 00:29:21,540] It was reiterated centuries later
+- [00:29:21,540 - 00:29:22,540] in the famous style manual,
+- [00:29:22,540 - 00:29:26,540] The Elements of Style by Strunk and White,
+- [00:29:26,540 - 00:29:29,540] where Professor Strunk,
+- [00:29:29,540 - 00:29:33,540] in lectures at Cornell that E.B. White recalled
+- [00:29:33,540 - 00:29:34,540] and then turned to,
+- [00:29:34,540 - 00:29:35,540] he said,
+- [00:29:35,540 - 00:29:39,540] that the first rule of writing is omit needless words.
+- [00:29:39,540 - 00:29:42,540] Now, again, it's a beautiful example of itself
+- [00:29:42,540 - 00:29:44,540] because there are no needless words in it.
+- [00:29:44,540 - 00:29:46,540] And he said that sometimes Professor Strunk
+- [00:29:46,540 - 00:29:50,540] would be so adamant and so insistent
+- [00:29:50,540 - 00:29:52,540] that this was almost the only thing
+- [00:29:52,540 - 00:29:53,540] you needed to know about writing
+- [00:29:53,540 - 00:29:54,540] that he would just not know
+- [00:29:54,540 - 00:29:55,540] what to do except repeat it.
+- [00:29:55,540 - 00:29:56,540] And he'd say,
+- [00:29:56,540 - 00:29:58,540] omit needless words, omit needless words,
+- [00:29:58,540 - 00:29:59,540] omit needless words.
+- [00:29:59,540 - 00:30:00,540] And he would say,
+- [00:30:00,540 - 00:30:01,540] I'm not going to repeat it.
+- [00:30:01,540 - 00:30:02,540] I'm going to omit it.
+- [00:30:02,540 - 00:30:03,540] And he would say,
+- [00:30:03,540 - 00:30:04,540] I'm going to omit it.
+- [00:30:04,540 - 00:30:05,540] I'm going to omit it.
+- [00:30:05,540 - 00:30:06,540] I'm going to omit it.
+- [00:30:06,540 - 00:30:07,540] And I would say,
+- [00:30:07,540 - 00:30:08,540] I'm going to omit it.
+- [00:30:08,540 - 00:30:09,540] I'm going to omit needless words.
+- [00:30:09,540 - 00:30:10,540] And as with brevity is the soul of wit,
+- [00:30:10,540 - 00:30:12,540] aside from being an example of itself,
+- [00:30:12,540 - 00:30:15,540] it is so true that sometimes
+- [00:30:15,540 - 00:30:18,540] when I have to compress an article
+- [00:30:18,540 - 00:30:20,540] to fit into some fixed space,
+- [00:30:20,540 - 00:30:22,540] especially if I'm writing for a newspaper or a magazine,
+- [00:30:22,540 - 00:30:24,540] it's unlike academia
+- [00:30:24,540 - 00:30:27,540] where you can blather on
+- [00:30:27,540 - 00:30:29,540] with no one telling you to shut up.
+- [00:30:29,540 - 00:30:31,540] When you have to write for a paper,
+- [00:30:31,540 - 00:30:32,540] they'll say,
+- [00:30:32,540 - 00:30:33,540] sorry, 800 words.
+- [00:30:33,540 - 00:30:34,540] And if it's not,
+- [00:30:34,540 - 00:30:38,000] know, 803 words, the editor will chop off three words,
+- [00:30:38,000 - 00:30:39,500] and you don't get to say what they are.
+- [00:30:39,500 - 00:30:41,260] And it can often mangle the meaning.
+- [00:30:41,260 - 00:30:43,360] So you have to actually learn how
+- [00:30:43,360 - 00:30:45,100] to say something in 800 words
+- [00:30:45,100 - 00:30:46,840] or however many words it is.
+- [00:30:46,840 - 00:30:49,749] But what I find is often
+- [00:30:49,749 - 00:30:52,659] just the exercise of squeezing it
+- [00:30:52,659 - 00:30:57,580] into that maximum limit just improves the prose
+- [00:30:57,580 - 00:30:58,840] as if by magic.
+- [00:30:58,840 - 00:31:00,160] It's like, oh, you know, damn,
+- [00:31:00,160 - 00:31:01,480] I have to make this shorter.
+- [00:31:01,480 - 00:31:03,100] And I thought I had said it perfectly.
+- [00:31:03,100 - 00:31:05,260] And often when you do it, you find, you know,
+- [00:31:05,260 - 00:31:07,419] it really has improved in quality,
+- [00:31:07,419 - 00:31:10,580] having gotten rid of those needless words.
+- [00:31:10,580 - 00:31:12,860] Partly it's because of mental effort.
+- [00:31:12,860 - 00:31:16,659] Namely, every syllable, every word
+- [00:31:16,659 - 00:31:19,780] is more cognitive processing by your reader.
+- [00:31:19,780 - 00:31:23,740] You can get the same message in quicker.
+- [00:31:23,740 - 00:31:25,919] That's often less work.
+- [00:31:25,919 - 00:31:28,959] But it also makes it aesthetically more pleasing.
+- [00:31:28,959 - 00:31:31,320] You have to work within the constraints
+- [00:31:31,320 - 00:31:32,560] of the English language.
+- [00:31:32,560 - 00:31:33,080] They
+- [00:31:33,080 - 00:31:37,020] have the melody, the rhythm, the music of the language.
+- [00:31:37,020 - 00:31:40,820] It forces you into, often, into concrete language
+- [00:31:40,820 - 00:31:44,800] instead of woolly idioms and cliches.
+- [00:31:44,800 - 00:31:46,500] Brevity is the soul of wit is good.
+- [00:31:46,500 - 00:31:47,620] It kind of just hit me
+- [00:31:47,620 - 00:31:48,740] how good of a line that is.
+- [00:31:48,740 - 00:31:49,240] It's such a good line.
+- [00:31:49,240 - 00:31:50,600] I've heard that 1,000 times.
+- [00:31:50,600 - 00:31:52,850] But it never punched me in
+- [00:31:52,850 - 00:31:55,100] the chest like it just did.
+- [00:31:55,100 - 00:31:55,699] I got to ask.
+- [00:31:55,699 - 00:31:57,009] I mean, with that, sorry, the
+- [00:31:57,009 - 00:31:58,320] reason I brought it up is,
+- [00:31:58,320 - 00:32:01,360] in humor, it's a soul of wit.
+- [00:32:01,360 - 00:32:03,080] I mean, wit used to mean a lot more.
+- [00:32:03,080 - 00:32:06,560] It meant more than just, you know, ha ha.
+- [00:32:06,560 - 00:32:12,080] It meant trenchantness and appropriateness.
+- [00:32:12,080 - 00:32:14,840] But wit, in the sense of just raw humor,
+- [00:32:14,840 - 00:32:16,639] that's something that comedians know.
+- [00:32:16,639 - 00:32:18,379] You pare down the jokes.
+- [00:32:18,379 - 00:32:20,120] You pare down the lines.
+- [00:32:20,120 - 00:32:24,439] When you're using humor, the shorter, the pithier,
+- [00:32:24,439 - 00:32:25,800] the funnier.
+- [00:32:25,800 - 00:32:27,919] If you drag it out, then you know.
+- [00:32:27,919 - 00:32:28,419] It ain't funny.
+- [00:32:28,419 - 00:32:28,919] It ain't funny.
+- [00:32:28,919 - 00:32:31,199] You can step on your own punch line.
+- [00:32:31,199 - 00:32:32,919] You can telegram.
+- [00:32:32,920 - 00:32:36,840] You can do the punch line.
+- [00:32:36,840 - 00:32:39,880] So I went to Rockefeller Center the other day.
+- [00:32:39,880 - 00:32:41,570] And there's this, call it
+- [00:32:41,570 - 00:32:43,260] like a big thing, a stone.
+- [00:32:43,260 - 00:32:44,980] And John D. Rockefeller is talking
+- [00:32:44,980 - 00:32:51,320] about his theory of society and the good life.
+- [00:32:51,320 - 00:32:56,200] And it was just remarkably well-written, remarkably
+- [00:32:56,200 - 00:32:56,780] well-written.
+- [00:32:56,780 - 00:32:58,960] And then it's the same thing with the Declaration
+- [00:32:58,960 - 00:32:59,560] of Independence.
+- [00:32:59,560 - 00:33:01,640] There's just some beautiful lines in that, right?
+- [00:33:01,640 - 00:33:02,840] We hold these truths to be self-evident.
+- [00:33:02,840 - 00:33:04,139] That all men are created equal.
+- [00:33:04,139 - 00:33:05,659] It's just beautiful writing.
+- [00:33:05,659 - 00:33:08,179] And what do you make of how old their writing,
+- [00:33:08,179 - 00:33:10,159] it seems like when people think about it,
+- [00:33:10,159 - 00:33:12,080] it's like harder to read.
+- [00:33:12,080 - 00:33:14,459] Thank God that writing's gotten so much clearer and easier
+- [00:33:14,459 - 00:33:14,959] to read.
+- [00:33:14,959 - 00:33:16,699] But at the same time, it does feel
+- [00:33:16,699 - 00:33:18,259] like a kind of beauty
+- [00:33:18,259 - 00:33:19,820] in poetry, a kind of reverence
+- [00:33:19,820 - 00:33:21,260] that I have for the language itself
+- [00:33:21,260 - 00:33:24,060] has been stripped away from the English language at times.
+- [00:33:24,060 - 00:33:26,179] You do sometimes feel that.
+- [00:33:26,179 - 00:33:28,260] Again, Rockefeller is a good example
+- [00:33:28,260 - 00:33:29,630] because he did not go
+- [00:33:29,630 - 00:33:31,000] down in history as a pro-stylist.
+- [00:33:31,000 - 00:33:32,060] Yeah, no, exactly.
+- [00:33:32,060 - 00:33:32,560] Thank you.
+- [00:33:32,560 - 00:33:33,060] Thank you.
+- [00:33:33,060 - 00:33:34,899] That was a very important part of that point.
+- [00:33:34,899 - 00:33:35,740] This was the CEO.
+- [00:33:35,740 - 00:33:37,040] He was an oil magnate.
+- [00:33:37,040 - 00:33:37,600] Yeah, right.
+- [00:33:37,600 - 00:33:39,879] And likewise, I have a quote from Thomas Edison
+- [00:33:39,879 - 00:33:43,240] in Enlightenment Now on how the electricity will
+- [00:33:43,240 - 00:33:44,659] liberate women.
+- [00:33:44,659 - 00:33:46,159] And it's just beautifully written.
+- [00:33:46,159 - 00:33:47,000] Beautifully written.
+- [00:33:47,000 - 00:33:50,139] And this is a guy who spent hours with filaments
+- [00:33:50,139 - 00:33:53,860] and light bulbs.
+- [00:33:53,860 - 00:33:55,960] But he could write like an angel.
+- [00:33:55,960 - 00:33:58,940] Herbert Spencer, Oliver Wendell Holmes, Sr.
+- [00:33:58,940 - 00:34:00,879] That's a great example.
+- [00:34:00,879 - 00:34:01,720] Charles Darwin.
+- [00:34:01,720 - 00:34:02,220] Yeah.
+- [00:34:02,560 - 00:34:08,620] All these people who were not themselves
+- [00:34:08,620 - 00:34:09,940] professional writers.
+- [00:34:09,940 - 00:34:11,199] They had something else, but
+- [00:34:11,199 - 00:34:12,460] they were very good at it.
+- [00:34:12,460 - 00:34:14,239] So it's an interesting question.
+- [00:34:14,239 - 00:34:17,980] I think one reason is they were trained themselves
+- [00:34:17,980 - 00:34:23,799] on the classics, on great works of literature,
+- [00:34:23,799 - 00:34:26,989] probably because for many of
+- [00:34:26,989 - 00:34:30,179] them, there wasn't the telephone,
+- [00:34:30,179 - 00:34:30,679] radio.
+- [00:34:30,679 - 00:34:31,679] Let alone the radio.
+- [00:34:31,679 - 00:34:32,179] Yeah.
+- [00:34:32,560 - 00:34:36,580] Let alone texting, social media.
+- [00:34:36,580 - 00:34:38,799] The way that you presented yourself
+- [00:34:38,799 - 00:34:40,299] was through your prose.
+- [00:34:40,299 - 00:34:42,259] And so you cultivated it the same way
+- [00:34:42,259 - 00:34:44,320] you kind of arranged yourself in a mirror.
+- [00:34:44,320 - 00:34:46,600] This is how other people viewed you.
+- [00:34:46,600 - 00:34:48,460] But you had this stock.
+- [00:34:48,460 - 00:34:51,340] Because also they were educated on the classics,
+- [00:34:51,340 - 00:34:53,739] they had many good examples to draw on.
+- [00:34:53,739 - 00:34:55,019] But then the third reason
+- [00:34:55,019 - 00:34:56,299] is one that came up earlier
+- [00:34:56,299 - 00:34:57,700] in our conversation.
+- [00:34:57,700 - 00:35:01,299] Namely, since they didn't have the benefit of decades
+- [00:35:01,299 - 00:35:02,340] and decades of writing.
+- [00:35:02,340 - 00:35:06,780] And so they were kind of abstractions and cliches.
+- [00:35:06,780 - 00:35:11,280] And they were kind of exploring virgin territory,
+- [00:35:11,280 - 00:35:12,660] conveying new ideas.
+- [00:35:12,660 - 00:35:18,300] And they couldn't easily reach for a canned cliche.
+- [00:35:18,300 - 00:35:21,300] They had to put new
+- [00:35:21,300 - 00:35:24,300] ideas into forms that their readers
+- [00:35:24,300 - 00:35:25,740] or listeners could understand.
+- [00:35:25,740 - 00:35:28,080] And that forced them to
+- [00:35:28,080 - 00:35:30,420] draw on visual images and metaphors,
+- [00:35:30,420 - 00:35:31,500] and vivid.
+- [00:35:31,500 - 00:35:35,640] Vivid expressions and locutions.
+- [00:35:35,640 - 00:35:40,800] And that is that there's been a process that's
+- [00:35:40,800 - 00:35:42,900] been going on for longer
+- [00:35:42,900 - 00:35:45,000] than a century called informalization.
+- [00:35:45,000 - 00:35:48,330] Where you can see it in
+- [00:35:48,330 - 00:35:51,660] dress, where men no longer wear hats
+- [00:35:51,660 - 00:35:53,000] and women don't wear gloves.
+- [00:35:53,000 - 00:35:54,580] And sometimes you look at a
+- [00:35:54,580 - 00:35:56,160] picture of someone on a hike
+- [00:35:56,160 - 00:35:58,980] from a century ago, and the men are wearing ties,
+- [00:35:58,980 - 00:36:00,780] and the women are wearing long dresses.
+- [00:36:00,780 - 00:36:02,020] They're going hiking.
+- [00:36:02,020 - 00:36:05,340] It must be inconceivable to us.
+- [00:36:05,340 - 00:36:07,320] The fact that people used
+- [00:36:07,320 - 00:36:09,300] to address each other with Mr.
+- [00:36:09,300 - 00:36:14,100] and Mrs. And we're all on a first name basis.
+- [00:36:14,100 - 00:36:15,320] I got in trouble in the
+- [00:36:15,320 - 00:36:16,540] third grade for calling my teacher.
+- [00:36:16,540 - 00:36:18,140] I went to detention for calling
+- [00:36:18,140 - 00:36:19,740] my teacher by her first name.
+- [00:36:19,740 - 00:36:22,680] And that would not happen now.
+- [00:36:22,680 - 00:36:24,840] That's certainly familiar to me from my childhood.
+- [00:36:24,840 - 00:36:25,800] It would be unthinkable.
+- [00:36:25,800 - 00:36:27,420] I wouldn't have gotten that detention.
+- [00:36:27,420 - 00:36:28,840] Actually, it's been like 20 years,
+- [00:36:28,840 - 00:36:29,810] and I still feel the shame
+- [00:36:29,810 - 00:36:30,780] that I fell in that mode.
+- [00:36:30,780 - 00:36:31,280] It's crazy.
+- [00:36:31,280 - 00:36:33,020] It just wouldn't have occurred to us.
+- [00:36:33,020 - 00:36:33,520] Yeah.
+- [00:36:33,520 - 00:36:35,520] You couldn't have done that in a million years.
+- [00:36:35,520 - 00:36:39,720] The fact that taboo language, profanities
+- [00:36:39,720 - 00:36:41,940] are commonly woven into speech, which again,
+- [00:36:41,940 - 00:36:45,720] would have been unthinkable a century ago.
+- [00:36:45,720 - 00:36:49,560] But there is a process of greater familiarity,
+- [00:36:49,560 - 00:36:55,020] of less hierarchy, partly as a byproduct of democratization,
+- [00:36:55,020 - 00:36:58,140] the erosion of traditional hierarchies of class
+- [00:36:58,140 - 00:37:00,720] and education.
+- [00:37:00,720 - 00:37:04,470] There's a kind of
+- [00:37:04,470 - 00:37:08,220] romantic ethos where authenticity, spontaneity
+- [00:37:08,220 - 00:37:14,220] are valued as opposed to putting on airs, thinking carefully
+- [00:37:14,220 - 00:37:16,379] before you do anything.
+- [00:37:16,379 - 00:37:21,299] All of these have led to fancy language
+- [00:37:21,299 - 00:37:27,419] being seen as more pompous, stilted distancing,
+- [00:37:27,419 - 00:37:30,060] whereas the cultural value has changed
+- [00:37:30,060 - 00:37:34,620] toward spontaneity, intimacy, naturalness, authenticity.
+- [00:37:34,620 - 00:37:36,990] So I think many of us,
+- [00:37:36,990 - 00:37:39,360] if we had to put the effort
+- [00:37:39,360 - 00:37:41,130] into crafting prose the way they
+- [00:37:41,130 - 00:37:42,900] may have a century or two
+- [00:37:42,900 - 00:37:45,420] centuries ago, we'd feel, oh, people
+- [00:37:45,420 - 00:37:47,400] are thinking I'm being too fancy.
+- [00:37:47,400 - 00:37:51,720] And you might even perceive you as being too fancy.
+- [00:37:51,720 - 00:37:56,460] And as a result, the conversational vernacular,
+- [00:37:56,460 - 00:38:00,060] as opposed to the elevated, the well-known,
+- [00:38:00,060 - 00:38:05,279] the well-crafted has come to characterize modern prose.
+- [00:38:05,279 - 00:38:06,889] So I got to ask, you
+- [00:38:06,889 - 00:38:08,500] were talking about being able to pull
+- [00:38:08,500 - 00:38:11,299] a cliche or an abstraction.
+- [00:38:11,299 - 00:38:14,259] AI takes that completely to the next level.
+- [00:38:14,259 - 00:38:17,329] And do you feel like
+- [00:38:17,329 - 00:38:20,400] AI then enhances our almost inability
+- [00:38:20,400 - 00:38:24,160] to think originally, for lack of a better word?
+- [00:38:24,160 - 00:38:26,969] Does it keep the trend that we're
+- [00:38:26,969 - 00:38:29,779] seeing, or are LLMs a new form,
+- [00:38:29,780 - 00:38:34,460] and then maybe actually create some new way of communicating
+- [00:38:34,460 - 00:38:35,660] altogether?
+- [00:38:35,660 - 00:38:39,400] Yeah, the output of LLMs is peculiar.
+- [00:38:39,400 - 00:38:42,440] In one sense, it's well-written in the sense
+- [00:38:42,440 - 00:38:46,700] that it tends not to be in academies, in jargon.
+- [00:38:46,700 - 00:38:52,160] The sentence structure tends to be pretty plain in sound.
+- [00:38:52,160 - 00:38:54,900] Even the progression of ideas tends to be orderly.
+- [00:38:54,900 - 00:38:56,620] There tends to be an introductory sentence
+- [00:38:56,620 - 00:38:59,460] and concluding sentence.
+- [00:38:59,460 - 00:39:01,740] So in that sense, it's good writing.
+- [00:39:01,740 - 00:39:03,980] It's bad in the sense that
+- [00:39:03,980 - 00:39:06,220] it is so generic and prosaic.
+- [00:39:06,220 - 00:39:07,580] And you can almost recognize the
+- [00:39:07,580 - 00:39:08,940] output of a large language model.
+- [00:39:08,940 - 00:39:11,520] It's so banal.
+- [00:39:11,520 - 00:39:13,200] Now, perhaps it can be trained.
+- [00:39:13,200 - 00:39:16,800] And perhaps if you prompted it, don't be prosaic.
+- [00:39:16,800 - 00:39:19,620] Don't be plain.
+- [00:39:19,620 - 00:39:22,320] It'll be interesting to see whether it would come up
+- [00:39:22,320 - 00:39:26,520] with any kind of style or freshness.
+- [00:39:26,520 - 00:39:28,640] But it's not the way it's designed.
+- [00:39:28,640 - 00:39:29,340] It's designed.
+- [00:39:29,340 - 00:39:32,610] It's designed to be as a
+- [00:39:32,610 - 00:39:35,880] mashup, as a pastiche of literally
+- [00:39:35,880 - 00:39:38,940] billions of examples out there.
+- [00:39:38,940 - 00:39:42,840] And it's an interesting question why it should be so,
+- [00:39:42,840 - 00:39:45,180] at least why its pro style should be sound.
+- [00:39:45,180 - 00:39:46,200] I mean, I think that's the
+- [00:39:46,200 - 00:39:47,220] best you could say about it.
+- [00:39:47,220 - 00:39:52,620] Whereas the pro style of most academics, most lawyers,
+- [00:39:52,620 - 00:39:55,020] most bureaucrats is not sound.
+- [00:39:55,020 - 00:39:56,580] Why is it better?
+- [00:39:56,580 - 00:39:58,680] One possibility is it's just been hammered into shape
+- [00:39:58,680 - 00:39:59,520] and tuned in.
+- [00:39:59,520 - 00:40:04,319] And the feedback that is, instead of just regurgitating
+- [00:40:04,319 - 00:40:08,279] an amalgam of the reinforcement learning
+- [00:40:08,279 - 00:40:10,859] and the stuff they don't really talk about much
+- [00:40:10,859 - 00:40:12,519] but that might be essential,
+- [00:40:12,519 - 00:40:14,180] that is, they're real human beings
+- [00:40:14,180 - 00:40:18,600] who force it into a five paragraph essay.
+- [00:40:18,600 - 00:40:22,919] The other is that, and this is completely speculative,
+- [00:40:22,919 - 00:40:25,339] we know in visual beauty,
+- [00:40:25,339 - 00:40:27,759] often a composite is more attractive
+- [00:40:27,759 - 00:40:28,560] than the actual.
+- [00:40:28,560 - 00:40:28,680] Right.
+- [00:40:28,680 - 00:40:31,180] The elements that went into the composite.
+- [00:40:31,180 - 00:40:32,399] So that if you take a bunch of faces
+- [00:40:32,399 - 00:40:36,819] and you morph them together, the non-existent human being
+- [00:40:36,819 - 00:40:38,669] that comes out of the
+- [00:40:38,669 - 00:40:40,520] morphing is more handsome or prettier
+- [00:40:40,520 - 00:40:42,290] than all of the men's faces
+- [00:40:42,290 - 00:40:44,060] and women's faces that went into it.
+- [00:40:44,060 - 00:40:44,560] Really?
+- [00:40:44,560 - 00:40:46,859] Take a high school yearbook and you mash together
+- [00:40:46,859 - 00:40:49,239] the several hundred faces and
+- [00:40:49,239 - 00:40:51,620] the result is pretty attractive.
+- [00:40:51,620 - 00:40:52,120] Is that right?
+- [00:40:52,120 - 00:40:53,120] Yeah.
+- [00:40:53,120 - 00:40:55,840] Now, whether that can be true of
+- [00:40:55,840 - 00:40:58,560] prose style, that is, that if you
+- [00:40:58,560 - 00:41:03,560] to eliminate all of the god awful convoluted constructions
+- [00:41:06,360 - 00:41:09,060] and just came up with a kind of
+- [00:41:09,060 - 00:41:11,200] the generic sentence structure.
+- [00:41:11,200 - 00:41:15,080] It wouldn't be beautiful, but it would be clear.
+- [00:41:15,080 - 00:41:16,779] That's a hypothesis.
+- [00:41:16,779 - 00:41:19,100] You've written nine books, you're working on your 10th now.
+- [00:41:19,100 - 00:41:21,220] With LLMs and the way they're going,
+- [00:41:21,220 - 00:41:24,720] if you were to almost rewrite those books starting now,
+- [00:41:24,720 - 00:41:27,080] how would you have written those books differently?
+- [00:41:27,080 - 00:41:28,740] I mean, knowing what we know about large-scale response.
+- [00:41:28,740 - 00:41:29,680] Yeah, knowing what we know about LLMs
+- [00:41:29,680 - 00:41:32,360] and also your sense of where the world is going
+- [00:41:32,360 - 00:41:33,650] and how it's changing, how
+- [00:41:33,650 - 00:41:34,940] the world of writing is changing.
+- [00:41:34,940 - 00:41:36,880] Would you have written the same books?
+- [00:41:36,880 - 00:41:37,759] Probably not.
+- [00:41:37,759 - 00:41:40,259] I think I'd have to
+- [00:41:40,259 - 00:41:42,759] give greater weight to the power
+- [00:41:43,420 - 00:41:48,420] of abstracting patterns from massive amounts of input,
+- [00:41:49,380 - 00:41:51,880] which in the approach that
+- [00:41:51,880 - 00:41:54,380] I was kind of trained in
+- [00:41:54,380 - 00:41:56,880] and that I then
+- [00:41:56,880 - 00:41:59,380] developed of computational cognitive science,
+- [00:41:59,380 - 00:42:03,380] Chomsky and linguistics, classic AI,
+- [00:42:03,380 - 00:42:08,380] was much more organized around rules, algorithms, logic,
+- [00:42:09,720 - 00:42:11,640] kind of logical programming.
+- [00:42:11,640 - 00:42:14,140] It was hard to imagine
+- [00:42:14,140 - 00:42:16,640] how with enough just sheer input
+- [00:42:16,640 - 00:42:20,140] and training, an associative neural network
+- [00:42:20,140 - 00:42:23,720] could extract a lot of information.
+- [00:42:23,720 - 00:42:24,380] Yeah.
+- [00:42:24,380 - 00:42:29,380] And then you have to get sensible ideas and prose
+- [00:42:29,380 - 00:42:33,420] out of this huge unstructured mass of input.
+- [00:42:33,420 - 00:42:36,600] Now, I don't think that shows that the human mind
+- [00:42:36,600 - 00:42:38,340] is a large language model,
+- [00:42:38,340 - 00:42:41,360] because it would be the equivalent of a child
+- [00:42:41,360 - 00:42:43,660] listening to language for 30,000 years
+- [00:42:43,660 - 00:42:46,940] before they could put up their first sentence clearly.
+- [00:42:46,940 - 00:42:51,680] And also kids don't just need to have massive amounts
+- [00:42:51,680 - 00:42:53,040] of text pour into them.
+- [00:42:53,040 - 00:42:53,700] They also are in a
+- [00:42:53,700 - 00:42:54,360] situation where they're not able to
+- [00:42:54,380 - 00:42:55,220] read the text.
+- [00:42:55,220 - 00:42:56,040] They're not able to read the text.
+- [00:42:56,040 - 00:42:56,880] They're not able to read the text.
+- [00:42:56,880 - 00:42:57,380] And then it's situated in a
+- [00:42:57,380 - 00:42:57,880] world where they can figure out
+- [00:42:57,880 - 00:42:59,620] what the people talking to them are trying to say,
+- [00:42:59,620 - 00:43:01,380] and they're interacting with the world,
+- [00:43:01,380 - 00:43:03,580] and that's a very different style of learning
+- [00:43:03,580 - 00:43:06,420] than just processing massive amounts of text.
+- [00:43:07,720 - 00:43:09,360] But still, I think I
+- [00:43:09,360 - 00:43:11,000] certainly would have had to reconcile
+- [00:43:11,000 - 00:43:14,680] the intelligence of large language models
+- [00:43:14,680 - 00:43:16,300] with human intelligence,
+- [00:43:16,300 - 00:43:19,800] with more attention to the power of pattern extraction
+- [00:43:19,800 - 00:43:23,720] from large input corpora than I did.
+- [00:43:23,720 - 00:43:25,720] Well, thanks very much for doing this.
+- [00:43:25,720 - 00:43:26,720] Thank you.
+- [00:43:26,720 - 00:43:27,720] It's been a pleasure.

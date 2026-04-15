@@ -1,0 +1,478 @@
+# Transcript
+
+Source: lazylearn/how-you-speak-and-write/05 - How to Write a Book： 13 Steps From a Bestselling Author [yHKKtxliYaY].webm
+
+- [00:00:00,000 - 00:00:02,100] So you want to write a book. I
+- [00:00:02,100 - 00:00:04,200] know the feeling. I've been writing books for more
+- [00:00:04,200 - 00:00:06,000] than 40 years. Now there's a lot
+- [00:00:06,000 - 00:00:07,800] of people out there on the internet and
+- [00:00:07,800 - 00:00:09,860] elsewhere that will try to tell you that
+- [00:00:09,860 - 00:00:11,920] writing a book is easy. You can do it
+- [00:00:11,920 - 00:00:14,510] fast. They've got five steps to writing
+- [00:00:14,510 - 00:00:17,100] a bestseller. I'm not promising you a
+- [00:00:17,100 - 00:00:19,500] bestseller, but I do have 13 foundational
+- [00:00:19,500 - 00:00:21,900] steps that you're going to need to
+- [00:00:21,900 - 00:00:24,340] follow if you're going to write a book.
+- [00:00:24,340 - 00:00:26,780] Speed is not the point. Quality is the
+- [00:00:26,780 - 00:00:28,820] point. So the first thing you're going
+- [00:00:28,820 - 00:00:30,860] to want to do is establish your writing
+- [00:00:30,860 - 00:00:34,400] space. When I first started, I was a young
+- [00:00:34,400 - 00:00:37,940] father and I had no space. I had to take
+- [00:00:37,940 - 00:00:39,940] a plank and put it between two kitchen
+- [00:00:39,940 - 00:00:41,940] chairs, which I set in front of the couch
+- [00:00:41,940 - 00:00:43,630] in the living room, and then I sat
+- [00:00:43,630 - 00:00:45,320] on that couch in front of a manual
+- [00:00:45,320 - 00:00:47,860] typewriter, and that's how I worked. That
+- [00:00:47,860 - 00:00:50,400] was my space. Wherever it is, establish it.
+- [00:00:50,400 - 00:00:52,660] It could be in a Starbucks. It could be
+- [00:00:52,660 - 00:00:54,920] in your car if you have to. And you
+- [00:00:54,920 - 00:00:56,760] should never say that you don't have a place
+- [00:00:56,760 - 00:00:58,770] to write. I can remember being in
+- [00:00:58,770 - 00:01:00,780] the newspaper business. There were 40 of us
+- [00:01:00,780 - 00:01:03,140] in the same room, and back in those
+- [00:01:03,140 - 00:01:05,500] days people smoked in that room. So we had
+- [00:01:05,500 - 00:01:08,120] smoke, we had noise, we had
+- [00:01:08,120 - 00:01:10,740] clacking typewriters. A writer can write anywhere,
+- [00:01:10,740 - 00:01:13,320] but you want to establish what you need.
+- [00:01:13,320 - 00:01:15,900] So if you need solitude, make sure you
+- [00:01:15,900 - 00:01:17,630] find a place in your house where you
+- [00:01:17,630 - 00:01:19,360] can shut the door, where you can turn off
+- [00:01:19,360 - 00:01:21,610] media, and you can have privacy and
+- [00:01:21,610 - 00:01:23,860] silence and whatever you need to write.
+- [00:01:23,860 - 00:01:26,580] And the more you can afford, the better you'll do,
+- [00:01:26,580 - 00:01:26,660] especially if you're a writer. So if
+- [00:01:26,660 - 00:01:26,740] you're a writer, you're going to need to
+- [00:01:26,760 - 00:01:27,260] have a lot of space. You need to have a
+- [00:01:27,260 - 00:01:27,760] lot of space. You need to have a lot of
+- [00:01:27,760 - 00:01:28,260] space. So you can write in a room with
+- [00:01:28,260 - 00:01:28,760] a lot of space, as far as equipment and
+- [00:01:28,760 - 00:01:31,320] space. The second important step is to
+- [00:01:31,320 - 00:01:33,880] assemble your writing tools. And really, you
+- [00:01:33,880 - 00:01:35,820] don't need too many. Say you're writing
+- [00:01:35,820 - 00:01:37,760] in a restaurant. All you need is your
+- [00:01:37,760 - 00:01:39,930] laptop and a comfortable chair. Now, you
+- [00:01:39,930 - 00:01:42,100] may have to take whatever chair they've
+- [00:01:42,100 - 00:01:44,340] got, but learn how that works for you. Do
+- [00:01:44,340 - 00:01:46,580] you need to take a cushion from home so
+- [00:01:46,580 - 00:01:48,680] you can sit up straight? Your back
+- [00:01:48,680 - 00:01:50,780] and your neck are important to your writing.
+- [00:01:50,780 - 00:01:52,550] You're going to be spending a lot of
+- [00:01:52,550 - 00:01:54,320] hours in front of that computer. So don't
+- [00:01:54,320 - 00:01:55,450] scrimp on your computer, and when
+- [00:01:55,450 - 00:01:56,580] you're home, don't scrimp on your computer.
+- [00:01:56,580 - 00:01:58,150] Don't scrimp on your chair. And then make
+- [00:01:58,150 - 00:01:59,720] a list of all the things you're going to
+- [00:01:59,720 - 00:02:01,580] need while you're writing, especially at home.
+- [00:02:01,580 - 00:02:03,440] If you need paper clips or a stapler
+- [00:02:03,440 - 00:02:05,690] or whatever, make sure you have all those
+- [00:02:05,690 - 00:02:07,940] within arm's length so you don't get distracted
+- [00:02:07,940 - 00:02:10,139] by having to look for things when you need them.
+- [00:02:10,139 - 00:02:12,549] Okay, the third important thing you want to
+- [00:02:12,549 - 00:02:14,960] do is to break the project into small pieces.
+- [00:02:14,960 - 00:02:17,910] The reason that writing a book seems so colossal
+- [00:02:17,910 - 00:02:20,860] is because it is. Writing a book is akin to
+- [00:02:20,860 - 00:02:23,630] eating an elephant. How do you eat an elephant?
+- [00:02:23,630 - 00:02:26,400] One bite at a time. So break the task into
+- [00:02:26,400 - 00:02:28,880] as many small pieces as you can. You have
+- [00:02:28,880 - 00:02:31,360] to realize, yes, it's a four or five hundred
+- [00:02:31,360 - 00:02:34,470] page manuscript in the end, but that's
+- [00:02:34,470 - 00:02:37,580] made up of sentences, paragraphs, chapters. Just
+- [00:02:37,580 - 00:02:39,290] do them one at a time. That's
+- [00:02:39,290 - 00:02:41,000] the way to get a handle on it.
+- [00:02:41,000 - 00:02:43,430] Step number four is to settle on your big idea,
+- [00:02:43,430 - 00:02:45,860] and it needs to be a big idea. If it's
+- [00:02:45,860 - 00:02:48,060] book worthy, it's going to be big concept.
+- [00:02:48,060 - 00:02:50,260] We don't have any room in the marketplace
+- [00:02:50,260 - 00:02:53,150] anymore for small concept book ideas. If it's small,
+- [00:02:53,150 - 00:02:56,040] use it for a blog or an article. But
+- [00:02:56,040 - 00:02:58,430] think how to win friends and influence
+- [00:02:58,430 - 00:03:00,820] people if you're thinking nonfiction. Think Harry
+- [00:03:00,820 - 00:03:02,870] Potter if you're thinking fiction. It has
+- [00:03:02,870 - 00:03:04,920] to be big. I can't overstate the importance
+- [00:03:04,920 - 00:03:07,240] of this. If you try to write a book before
+- [00:03:07,240 - 00:03:09,560] and you ran into a roadblock at the 20 or
+- [00:03:09,560 - 00:03:12,810] 30 day mark, or maybe the 20 or 30 page
+- [00:03:12,810 - 00:03:16,060] mark, it could be because your idea wasn't big enough.
+- [00:03:16,060 - 00:03:18,630] How do you know if your idea is big enough
+- [00:03:18,630 - 00:03:21,200] and if it has legs? If it stays with you.
+- [00:03:21,200 - 00:03:23,190] If you tell your spouse or your friend what
+- [00:03:23,190 - 00:03:25,180] your book is about, and every time you tell
+- [00:03:25,180 - 00:03:25,599] them it gets bigger, it's going to be a big
+- [00:03:25,599 - 00:03:26,019] idea. If you try to write a book before and
+- [00:03:26,020 - 00:03:26,910] you ran into a roadblock at the 20 or
+- [00:03:26,910 - 00:03:27,800] 30 page mark, that's a book that's going to last
+- [00:03:27,800 - 00:03:30,410] in the marketplace too. Step five is to construct
+- [00:03:30,410 - 00:03:33,020] your outline. And, as you can see, I've done
+- [00:03:33,020 - 00:03:35,630] that on my whiteboard here for you. Now,
+- [00:03:35,630 - 00:03:38,240] this might sound surprising for me to talk about
+- [00:03:38,240 - 00:03:40,930] outlining when I'm known as a pantser, one
+- [00:03:40,930 - 00:03:43,620] who writes by the seat of his pants. Stephen
+- [00:03:43,620 - 00:03:46,920] King is the best known writer who's a
+- [00:03:46,920 - 00:03:50,220] pantser. He says, put interesting characters in difficult
+- [00:03:50,220 - 00:03:52,890] situations and write to find out what happens. I
+- [00:03:52,890 - 00:03:55,560] like to do that, so people think I don't
+- [00:03:55,560 - 00:03:55,980] outline a book.
+- [00:03:56,020 - 00:03:58,000] I don't outline a book at all. But even
+- [00:03:58,000 - 00:03:59,980] we fiction writers who are pantsers have to have
+- [00:03:59,980 - 00:04:02,510] some sort of idea where we're going. Even if
+- [00:04:02,510 - 00:04:05,040] it's on one side of one sheet of paper,
+- [00:04:05,040 - 00:04:07,430] give yourself some direction of where you're
+- [00:04:07,430 - 00:04:09,820] going. Now, some people, especially if you're
+- [00:04:09,820 - 00:04:12,910] a beginning writer, your editor or your agent
+- [00:04:12,910 - 00:04:16,000] may need to see an entire synopsis of your
+- [00:04:16,000 - 00:04:18,550] novel idea. So you'll have to do more of
+- [00:04:18,550 - 00:04:21,100] an outline than you might have to do later. And
+- [00:04:21,100 - 00:04:23,550] agents and editors demand outlines for nonfiction.
+- [00:04:23,550 - 00:04:26,000] There's no writing a nonfiction book without
+- [00:04:26,000 - 00:04:27,720] an outline. They want to know what you're
+- [00:04:27,720 - 00:04:29,440] going to say, how you're going to say it,
+- [00:04:29,440 - 00:04:31,780] where you're getting your information, and what
+- [00:04:31,780 - 00:04:34,120] your points are going to be. Now, we
+- [00:04:34,120 - 00:04:36,280] often talk in fiction about the marathon of
+- [00:04:36,280 - 00:04:38,440] the middle and how that stops everybody. That's
+- [00:04:38,440 - 00:04:41,220] one of the places that I stop to. I
+- [00:04:41,220 - 00:04:44,000] mean, I've written over 190 books and I every time
+- [00:04:44,000 - 00:04:46,150] get to the halfway or three-quarter point and
+- [00:04:46,150 - 00:04:48,300] I wonder, why did I ever think I could
+- [00:04:48,300 - 00:04:49,440] do this?
+- [00:04:49,440 - 00:04:51,580] That's the marathon of the middle and you
+- [00:04:51,580 - 00:04:53,720] can't just survive it or endure it. You have
+- [00:04:53,720 - 00:04:55,540] to thrive in it.
+- [00:04:55,540 - 00:04:58,370] Because the reader is right with you. If
+- [00:04:58,370 - 00:05:01,200] it seems boring to you, your reader is asleep.
+- [00:05:01,200 - 00:05:03,170] So this happens to be true of nonfiction as
+- [00:05:03,170 - 00:05:05,140] well. Now, you'll take care of that with your
+- [00:05:05,140 - 00:05:07,590] outline in nonfiction. You'll know that your middle
+- [00:05:07,590 - 00:05:10,040] has enough good stuff in it. In fiction,
+- [00:05:10,040 - 00:05:12,180] especially if you're a pantser, you better be
+- [00:05:12,180 - 00:05:14,320] sure you're saving a lot of big setups
+- [00:05:14,320 - 00:05:17,290] and payoffs for that marathon of the middle.
+- [00:05:17,290 - 00:05:20,260] And you can do the same in nonfiction. The
+- [00:05:20,260 - 00:05:22,780] same structure works for nonfiction as fiction.
+- [00:05:22,780 - 00:05:25,300] You don't have the same number of elements.
+- [00:05:25,300 - 00:05:27,850] As far as tension and conflict and dialogue
+- [00:05:27,850 - 00:05:30,400] and that type of thing. But you still need
+- [00:05:30,400 - 00:05:32,660] the setup and the payoff. Make your
+- [00:05:32,660 - 00:05:34,920] nonfiction book, say you're writing a nonfiction book
+- [00:05:34,920 - 00:05:37,950] about how to build a model ship. You need
+- [00:05:37,950 - 00:05:40,980] to set it up so that it looks impossible until
+- [00:05:40,980 - 00:05:44,060] your specific solution comes through. That's
+- [00:05:44,060 - 00:05:47,140] your setup and payoff. And remember, don't
+- [00:05:47,140 - 00:05:49,390] be intimidated by an outline. Your outline serves
+- [00:05:49,390 - 00:05:51,640] you, not the other way around. If you've
+- [00:05:51,640 - 00:05:53,300] got an outline and you find yourself drifting
+- [00:05:53,300 - 00:05:54,960] from it or you think the book is working,
+- [00:05:54,960 - 00:05:55,010] that's fine. But if you're not, you're not going
+- [00:05:55,010 - 00:05:55,060] to be able to do it. You're going to
+- [00:05:55,060 - 00:05:55,120] have to work on it. And you're going to have
+- [00:05:55,120 - 00:05:55,180] to work on it. And you're going to have to
+- [00:05:55,180 - 00:05:55,220] work on it. And you're going to have to work
+- [00:05:55,220 - 00:05:55,260] on it. And you're going to have to work on it.
+- [00:05:55,260 - 00:05:56,640] I think you need to create a guideline about
+- [00:05:56,640 - 00:05:58,020] how to move your outline to work in a different
+- [00:05:58,020 - 00:05:59,589] way, better. Change the outline. Don't change
+- [00:05:59,589 - 00:06:01,159] the book. Make your outline work for you.
+- [00:06:01,159 - 00:06:03,599] Okay, I'm back to my desk for point number
+- [00:06:03,599 - 00:06:06,039] six, and that is to set a firm writing schedule
+- [00:06:06,039 - 00:06:09,379] that includes a firm deadline that you keep
+- [00:06:09,379 - 00:06:12,719] sacred. This isn't a thing that hangs up too
+- [00:06:12,719 - 00:06:14,999] many beginning writers. They don't have a
+- [00:06:14,999 - 00:06:17,280] publisher's deadline. So they have to set
+- [00:06:17,280 - 00:06:20,030] their own. And sometimes we tend to fudge
+- [00:06:20,030 - 00:06:22,780] on our own deadlines. Make sure you don't
+- [00:06:22,780 - 00:06:25,000] do that. Keep your deadline sacred.
+- [00:06:25,020 - 00:06:26,860] And the way you do that is you figure
+- [00:06:26,860 - 00:06:28,700] out roughly how many pages you're going to be
+- [00:06:28,700 - 00:06:29,700] writing for your book.
+- [00:06:29,700 - 00:06:32,779] If it's 300, 400, 500, divide that into
+- [00:06:32,779 - 00:06:35,859] the number of days you're allotting yourself to
+- [00:06:35,859 - 00:06:36,859] write.
+- [00:06:36,859 - 00:06:39,169] Now this may change once you get started and
+- [00:06:39,169 - 00:06:41,479] realize how many or how few pages you can
+- [00:06:41,479 - 00:06:43,039] write per day.
+- [00:06:43,039 - 00:06:44,849] If you schedule yourself for 10 pages a
+- [00:06:44,849 - 00:06:46,659] day and find that you're really not comfortable
+- [00:06:46,659 - 00:06:49,279] with more than four or five,
+- [00:06:49,279 - 00:06:51,900] change your schedule, change your deadline.
+- [00:06:51,900 - 00:06:54,060] But once you get it locked in, keep it sacred.
+- [00:06:54,060 - 00:06:57,440] When I was a publisher, I found that
+- [00:06:57,440 - 00:07:00,820] only about one in 100 writers literally meet their
+- [00:07:00,820 - 00:07:02,100] deadlines.
+- [00:07:02,100 - 00:07:04,450] If you just do that, you set
+- [00:07:04,450 - 00:07:06,800] yourself apart from 99 out of 100 writers.
+- [00:07:06,800 - 00:07:08,420] Don't make the mistake of thinking you're
+- [00:07:08,420 - 00:07:10,040] going to find the time to write.
+- [00:07:10,040 - 00:07:12,250] When I have to write, I have
+- [00:07:12,250 - 00:07:14,460] to have something sacrificed from my schedule.
+- [00:07:14,460 - 00:07:16,600] Is it an hour or two of sleep a night?
+- [00:07:16,600 - 00:07:17,600] Is it a concert?
+- [00:07:17,600 - 00:07:18,600] Is it a ball game?
+- [00:07:18,600 - 00:07:19,600] Is it a movie?
+- [00:07:19,600 - 00:07:21,340] Is it a favorite TV show?
+- [00:07:21,340 - 00:07:23,560] How bad do you want this?
+- [00:07:23,560 - 00:07:24,040] I still have a lot of books.
+- [00:07:24,040 - 00:07:26,160] I schedule my days right
+- [00:07:26,160 - 00:07:28,280] on my calendar, on my computer.
+- [00:07:28,280 - 00:07:29,280] I have it color coded.
+- [00:07:29,280 - 00:07:30,280] It's in pink.
+- [00:07:30,280 - 00:07:33,010] And you've caught me when tomorrow I
+- [00:07:33,010 - 00:07:35,740] have to reach the 70,000 word mark.
+- [00:07:35,740 - 00:07:38,060] I have that target there.
+- [00:07:38,060 - 00:07:41,070] I'm at the 67,500 mark now, so I'm
+- [00:07:41,070 - 00:07:44,080] going to have to write 2,500 words tomorrow.
+- [00:07:44,080 - 00:07:46,580] And if I do that for five more days, I'm
+- [00:07:46,580 - 00:07:49,080] going to make my deadline because I keep that deadline
+- [00:07:49,080 - 00:07:50,520] sacred.
+- [00:07:50,520 - 00:07:52,080] Point number seven is to conduct your research.
+- [00:07:52,080 - 00:07:52,580] Now, everybody knows that you
+- [00:07:52,580 - 00:07:53,080] need to have a good schedule.
+- [00:07:53,080 - 00:07:54,040] You need to have a good schedule.
+- [00:07:54,040 - 00:07:57,100] You don't have to do that automatically for nonfiction.
+- [00:07:57,100 - 00:07:59,370] You have to be an expert in what you're
+- [00:07:59,370 - 00:08:01,640] writing in and not just draw in your own experience,
+- [00:08:01,640 - 00:08:03,990] but also show that you've immersed yourself
+- [00:08:03,990 - 00:08:06,340] in all the writing in your field.
+- [00:08:06,340 - 00:08:08,360] But a lot of people miss the fact
+- [00:08:08,360 - 00:08:10,380] that research is just as important for fiction.
+- [00:08:10,380 - 00:08:14,280] In fact, I think it could be even more important.
+- [00:08:14,280 - 00:08:17,500] If you miss a small detail of history or
+- [00:08:17,500 - 00:08:20,720] aircraft or weaponry, you can be sure readers are going
+- [00:08:20,720 - 00:08:23,020] to point this out.
+- [00:08:23,020 - 00:08:24,020] Specificity lends credibility.
+- [00:08:24,040 - 00:08:26,440] to fiction and fiction needs to be believable.
+- [00:08:26,440 - 00:08:28,840] Now once you've done your research you're going
+- [00:08:28,840 - 00:08:31,720] to be tempted to show that off to the reader.
+- [00:08:31,720 - 00:08:34,600] You want to resist that urge. Your research is not your
+- [00:08:34,600 - 00:08:37,480] main course. The story is the main course.
+- [00:08:37,480 - 00:08:40,360] Research is the seasoning that adds that specificity that
+- [00:08:40,360 - 00:08:43,000] gives you credibility and believability. I'm using
+- [00:08:43,000 - 00:08:45,640] a world history chart for my current project
+- [00:08:45,640 - 00:08:48,080] because I'm covering from 2000 BC to the present
+- [00:08:48,080 - 00:08:50,520] day. I need to know when the patriarchs were born
+- [00:08:50,520 - 00:08:53,200] and when they died and how they overlapped.
+- [00:08:53,200 - 00:08:55,880] So make sure your research becomes seasoning and
+- [00:08:55,880 - 00:08:58,920] that it's right because readers notice. Step
+- [00:08:58,920 - 00:09:01,960] number eight is to write a compelling
+- [00:09:01,960 - 00:09:04,040] reader first opener. Give it the time
+- [00:09:04,040 - 00:09:06,120] it deserves because if you can pull off
+- [00:09:06,680 - 00:09:10,200] an important compelling first line it will set the
+- [00:09:10,200 - 00:09:13,720] tone for your entire book. You probably won't write
+- [00:09:14,280 - 00:09:17,000] a more important line than that first
+- [00:09:17,000 - 00:09:19,720] one. Now most first lines fall into
+- [00:09:20,280 - 00:09:20,390] one, two, three, four, five, six, seven, eight. And
+- [00:09:20,390 - 00:09:20,500] they're not the same. You're going to have to
+- [00:09:20,500 - 00:09:24,380] read one of these categories. Surprising, dramatic
+- [00:09:24,380 - 00:09:28,260] statement, philosophical, or poetic. I'm not going
+- [00:09:28,260 - 00:09:30,900] to give you examples of all of them but let
+- [00:09:30,900 - 00:09:33,540] me just do that for the first two. First surprising
+- [00:09:33,540 - 00:09:37,860] opening in fiction. George Orwell's 1984 begins,
+- [00:09:38,500 - 00:09:42,060] It was a bright cold day in April and
+- [00:09:42,060 - 00:09:45,620] the clocks were striking 13. Would that keep you reading?
+- [00:09:45,620 - 00:09:47,940] It would me. In non-fiction
+- [00:09:47,940 - 00:09:50,260] Elizabeth Gilbert wrote The Last American
+- [00:09:50,260 - 00:09:53,020] Man. Her first line was, By the
+- [00:09:53,020 - 00:09:55,780] time Eustace Conway was seven years old,
+- [00:09:56,340 - 00:09:58,420] he could throw a knife accurately enough
+- [00:09:58,420 - 00:10:00,500] to nail a chipmunk to a tree.
+- [00:10:01,939 - 00:10:05,499] Now for dramatic statement, I'm sure you've
+- [00:10:05,499 - 00:10:09,060] read Toni Morrison's Paradise. Remember that first line?
+- [00:10:09,700 - 00:10:12,420] They shoot the white girl first. That's a
+- [00:10:12,420 - 00:10:15,140] dramatic statement. Now let me read you the
+- [00:10:15,140 - 00:10:17,580] opener to my work in progress. I'm not putting it
+- [00:10:17,580 - 00:10:20,020] in the category of these classics but here's the first one.
+- [00:10:20,020 - 00:10:21,460] It's your mother, Nicole Berman's father said
+- [00:10:21,460 - 00:10:22,900] over the phone. She rose from her
+- [00:10:23,319 - 00:10:25,989] desk at the sound of his voice. What
+- [00:10:25,989 - 00:10:28,660] happened? Hopefully that'll keep you reading. Or can
+- [00:10:29,699 - 00:10:32,419] that вill keep you reading? Now what do I
+- [00:10:32,419 - 00:10:35,140] mean by reader first. Every decision you make in your
+- [00:10:35,140 - 00:10:38,140] manuscript should go through that filter of reader
+- [00:10:38,140 - 00:10:41,140] first. Not you first. Not editor first. Not agent
+- [00:10:41,140 - 00:10:44,520] first. Not reviewer first. Not critic first.
+- [00:10:44,520 - 00:10:47,900] Reader first. Whenever key readers write a he
+- [00:10:47,900 - 00:10:49,940] really liked a book of mine,
+- [00:10:49,940 - 00:10:51,980] I think back to that motto,
+- [00:10:51,980 - 00:10:53,959] think reader first, that I often
+- [00:10:53,959 - 00:10:55,939] will tack right to my screen
+- [00:10:55,939 - 00:10:56,900] on a sticky note.
+- [00:10:56,900 - 00:10:58,220] I want it to be
+- [00:10:58,220 - 00:10:59,540] the best, most compelling, most moving,
+- [00:10:59,540 - 00:11:02,040] most emotional experience they've ever had,
+- [00:11:02,040 - 00:11:05,660] because I'm thinking reader first, not anybody else first.
+- [00:11:05,660 - 00:11:09,079] So think reader first, last, and always.
+- [00:11:09,079 - 00:11:11,480] Step number nine is to fill your story
+- [00:11:11,480 - 00:11:13,660] with conflict and tension.
+- [00:11:13,660 - 00:11:15,860] Readers crave tension.
+- [00:11:15,860 - 00:11:18,660] And yes, this applies to nonfiction as well.
+- [00:11:18,660 - 00:11:20,960] Almost every time a writer shows me their manuscript
+- [00:11:20,960 - 00:11:23,200] and says, I don't know where to go from here,
+- [00:11:23,200 - 00:11:24,870] it's because they got to a
+- [00:11:24,870 - 00:11:26,540] point where the people on the page
+- [00:11:26,540 - 00:11:28,940] are agreeing with each other too much.
+- [00:11:28,940 - 00:11:30,420] And we like that in real life.
+- [00:11:30,420 - 00:11:32,960] It's nice to have pleasant conversations,
+- [00:11:32,960 - 00:11:34,500] talk with your spouse over a meal.
+- [00:11:34,500 - 00:11:36,300] You're talking about how nice a day it is
+- [00:11:36,300 - 00:11:37,740] and what you're going to do.
+- [00:11:37,740 - 00:11:40,540] There's nothing more boring in fiction than that.
+- [00:11:40,540 - 00:11:43,700] So what you want to do is inject that conflict.
+- [00:11:43,700 - 00:11:45,620] Have one of those characters say something
+- [00:11:45,620 - 00:11:45,840] totally different.
+- [00:11:45,860 - 00:11:47,240] Something totally off the wall.
+- [00:11:47,240 - 00:11:48,940] Maybe one says, isn't it a beautiful day?
+- [00:11:48,940 - 00:11:50,560] And the other one says,
+- [00:11:50,560 - 00:11:52,180] oh, sure, you would say that.
+- [00:11:52,180 - 00:11:54,080] All of a sudden, the reader and that character
+- [00:11:54,080 - 00:11:55,860] are going, what was that about?
+- [00:11:55,860 - 00:11:56,900] Where did that come from?
+- [00:11:56,900 - 00:11:58,400] That's conflict.
+- [00:11:58,400 - 00:12:00,260] What's the problem in their relationship?
+- [00:12:00,260 - 00:12:03,780] What's the underlying tension that caused that conflict?
+- [00:12:03,780 - 00:12:06,160] That will keep people turning the pages.
+- [00:12:06,160 - 00:12:08,540] And you want to do that on every page,
+- [00:12:08,540 - 00:12:11,340] even if it's just a matter of someone setting up
+- [00:12:11,340 - 00:12:11,900] an appointment.
+- [00:12:11,900 - 00:12:13,460] They need to see the doctor tomorrow.
+- [00:12:13,460 - 00:12:15,800] There's an implication there that something's coming up,
+- [00:12:15,800 - 00:12:18,180] otherwise why would the author put it in there?
+- [00:12:18,180 - 00:12:19,979] Now in nonfiction, how do you do that?
+- [00:12:19,979 - 00:12:21,560] You don't want unpleasantness.
+- [00:12:21,560 - 00:12:23,180] It doesn't have to be something negative.
+- [00:12:23,180 - 00:12:25,139] It doesn't have to be a
+- [00:12:25,139 - 00:12:27,099] battle or a war or a fight.
+- [00:12:27,099 - 00:12:29,520] Conflict and tension come up in nonfiction simply
+- [00:12:29,520 - 00:12:31,979] by promising and then delivering,
+- [00:12:31,979 - 00:12:34,479] setting up and paying off.
+- [00:12:34,479 - 00:12:36,300] Some of the best nonfiction writers
+- [00:12:36,300 - 00:12:39,920] are ones who spend the first several chapters promising you
+- [00:12:39,920 - 00:12:41,580] what you're going to get
+- [00:12:41,580 - 00:12:43,240] when you finish reading this book,
+- [00:12:43,240 - 00:12:45,260] and then they deliver.
+- [00:12:45,260 - 00:12:47,700] Step number 10 is to turn off your internal editor
+- [00:12:47,700 - 00:12:50,340] while you're writing your first draft.
+- [00:12:50,340 - 00:12:52,620] Most writers I know are perfectionists.
+- [00:12:52,620 - 00:12:54,400] I happen to be one, too.
+- [00:12:54,400 - 00:12:55,940] And so we have that
+- [00:12:55,940 - 00:12:57,480] inner critic sitting on our shoulder,
+- [00:12:57,480 - 00:13:00,340] telling us what's wrong with every word we write.
+- [00:13:00,340 - 00:13:03,880] That inner critic is just you or me,
+- [00:13:03,880 - 00:13:07,439] and that critic needs to be told to shut up.
+- [00:13:07,439 - 00:13:09,169] Now is not the time
+- [00:13:09,169 - 00:13:10,900] to be criticizing your own work.
+- [00:13:10,900 - 00:13:14,180] Always save your editing until the next day, at least.
+- [00:13:14,180 - 00:13:14,430] And the longer you can hold it up, the
+- [00:13:14,430 - 00:13:14,680] moreotypes happen, and I'm glad to have that set up.
+- [00:13:14,680 - 00:13:16,639] The longer you can wait between when you write
+- [00:13:16,639 - 00:13:18,599] it and when you edit it, the better for the
+- [00:13:18,599 - 00:13:20,219] end product.
+- [00:13:20,219 - 00:13:23,059] This is the opening pages of my work
+- [00:13:23,059 - 00:13:25,900] in progress, Dead Sea Rising, my next novel.
+- [00:13:25,900 - 00:13:29,040] I wouldn't show this first draft to my worst enemy.
+- [00:13:29,040 - 00:13:34,140] I don't worry about cliches, redundancies, lacks of logic.
+- [00:13:34,140 - 00:13:36,560] I need to get the story down.
+- [00:13:36,560 - 00:13:38,790] So turn off that internal editor, get your
+- [00:13:38,790 - 00:13:41,020] story down, and then tell yourself that the
+- [00:13:41,020 - 00:13:43,820] next day you can put your perfectionist
+- [00:13:43,820 - 00:13:46,620] cap back on and have at it.
+- [00:13:46,620 - 00:13:48,159] Remember in point number five when
+- [00:13:48,159 - 00:13:49,699] I mentioned the Marathon of the Middle?
+- [00:13:49,699 - 00:13:51,859] I want to make that point 11 and
+- [00:13:51,859 - 00:13:54,020] hit that again because if there's any place you're
+- [00:13:54,020 - 00:13:56,380] going to quit, it's going to
+- [00:13:56,380 - 00:13:58,740] be during the Marathon of the Middle.
+- [00:13:58,740 - 00:14:01,280] This is the toughest spot for me as well.
+- [00:14:01,280 - 00:14:04,380] I've written over 190 books in 40 years.
+- [00:14:04,380 - 00:14:07,420] I hit the Marathon of the Middle every time
+- [00:14:07,420 - 00:14:10,460] and I wonder why did I get into this business?
+- [00:14:10,460 - 00:14:10,960] Okay.
+- [00:14:10,960 - 00:14:13,270] The problem with the Marathon of the Middle
+- [00:14:13,270 - 00:14:15,580] is we've all got great ideas to start and
+- [00:14:15,580 - 00:14:17,760] we can't wait to get to that big finish,
+- [00:14:17,760 - 00:14:19,940] but now we've got a couple hundred pages in the
+- [00:14:19,940 - 00:14:20,940] middle to fill.
+- [00:14:20,940 - 00:14:23,550] And if you just start padding it in
+- [00:14:23,550 - 00:14:26,160] fiction with extra scenes or nonfiction with extra
+- [00:14:26,160 - 00:14:30,780] points, your reader is going to drop off the page.
+- [00:14:30,780 - 00:14:35,180] This is where you don't just survive, you thrive.
+- [00:14:35,180 - 00:14:37,790] For instance, in my current work in progress, Dead
+- [00:14:37,790 - 00:14:40,400] Sea Rising, this is a long novel, 80,000 words.
+- [00:14:40,400 - 00:14:43,660] So the Marathon of the Middle is a good stretch.
+- [00:14:43,660 - 00:14:46,590] How I solved the problem of not letting it
+- [00:14:46,590 - 00:14:49,520] flag in the middle is to alternate from 2000
+- [00:14:49,520 - 00:14:53,260] B.C. to present day and even back to Vietnam.
+- [00:14:53,260 - 00:14:55,750] And I'm setting up my payoffs so well in the
+- [00:14:55,750 - 00:14:58,240] middle that I can hardly wait to get to the
+- [00:14:58,240 - 00:14:59,240] ending.
+- [00:14:59,240 - 00:15:01,440] And the ending will work better because
+- [00:15:01,440 - 00:15:03,640] I didn't just persevere through the Marathon,
+- [00:15:03,640 - 00:15:05,819] I thrived.
+- [00:15:05,819 - 00:15:08,780] Step number 12 is to write a resounding ending.
+- [00:15:08,780 - 00:15:10,220] You want your book to end.
+- [00:15:10,400 - 00:15:13,160] The way a Broadway play ends, when
+- [00:15:13,160 - 00:15:15,920] that curtain comes down with a satisfying thud.
+- [00:15:15,920 - 00:15:19,050] I'm working on my 195th book, so I've got
+- [00:15:19,050 - 00:15:22,180] over 190 books here that all had to have endings
+- [00:15:22,180 - 00:15:23,319] that worked.
+- [00:15:23,319 - 00:15:25,869] Two thirds of my books are novels, one
+- [00:15:25,869 - 00:15:28,420] third are nonfiction, so even nonfiction has to
+- [00:15:28,420 - 00:15:30,840] have that great ending.
+- [00:15:30,840 - 00:15:33,079] How do you make sure your ending doesn't fizzle?
+- [00:15:33,079 - 00:15:35,079] You give it the time it deserves.
+- [00:15:35,079 - 00:15:37,139] I had talked to a lot of writers who've
+- [00:15:37,139 - 00:15:39,199] written their entire manuscript, they get to the end,
+- [00:15:39,199 - 00:15:40,199] and they rush it.
+- [00:15:40,400 - 00:15:42,220] Or they say, I just don't
+- [00:15:42,220 - 00:15:44,040] know how to make it work.
+- [00:15:44,040 - 00:15:46,199] Don't settle for second best.
+- [00:15:46,199 - 00:15:48,319] If it takes longer to write your ending than
+- [00:15:48,319 - 00:15:50,439] the rest of the novel put together, or the
+- [00:15:50,439 - 00:15:52,980] nonfiction book put together, do it.
+- [00:15:52,980 - 00:15:55,240] Do whatever it takes to make it work.
+- [00:15:55,240 - 00:15:58,650] And if you've got several ideas for what might be
+- [00:15:58,650 - 00:16:02,060] best, go for the one that is the most emotional.
+- [00:16:02,060 - 00:16:05,500] Because readers remember what moves them.
+- [00:16:05,500 - 00:16:06,409] My last and most important point, step 13,
+- [00:16:06,409 - 00:16:07,319] is that you need to become a first-person reader.
+- [00:16:07,319 - 00:16:08,319] I'm going to give you a few tips.
+- [00:16:08,319 - 00:16:09,319] Step 13 is to write a resounding ending.
+- [00:16:09,320 - 00:16:12,920] You need to become a ferocious self-editor.
+- [00:16:12,920 - 00:16:14,180] What does it mean to be ferocious?
+- [00:16:14,180 - 00:16:15,180] You know what it means.
+- [00:16:15,180 - 00:16:17,260] It means to be aggressive.
+- [00:16:17,260 - 00:16:19,910] Everything else is for naught if you
+- [00:16:19,910 - 00:16:22,560] don't polish your manuscript to the point where
+- [00:16:22,560 - 00:16:24,720] you're happy with every word.
+- [00:16:24,720 - 00:16:26,270] That doesn't mean it's going to be perfect or
+- [00:16:26,270 - 00:16:27,820] that you don't need an editor if you should
+- [00:16:27,820 - 00:16:30,120] place it with a publisher.
+- [00:16:30,120 - 00:16:33,960] But you need to polish that thing until it sings.
+- [00:16:33,960 - 00:16:34,960] Why?
+- [00:16:34,960 - 00:16:38,960] Because agents and editors can tell within two minutes.
+- [00:16:39,320 - 00:16:42,180] Whether your manuscript is going
+- [00:16:42,180 - 00:16:45,040] to be worth reading or rejecting.
+- [00:16:45,040 - 00:16:47,400] That doesn't sound fair and maybe it isn't
+- [00:16:47,400 - 00:16:49,760] fair, but they have so many things to read.
+- [00:16:49,760 - 00:16:52,740] The competition is so vast.
+- [00:16:52,740 - 00:16:55,170] They've learned to be able to tell within
+- [00:16:55,170 - 00:16:57,600] a page or two whether this has potential or
+- [00:16:57,600 - 00:16:59,060] not.
+- [00:16:59,060 - 00:17:03,840] That puts all the onus on you to self-edit.
+- [00:17:03,840 - 00:17:05,520] People say, should I pay an editor?
+- [00:17:05,520 - 00:17:08,160] If you pay an editor, what is the publisher buying?
+- [00:17:08,160 - 00:17:09,160] Your work or someone else's?
+- [00:17:09,160 - 00:17:12,420] Learn to edit yourself.
+- [00:17:12,420 - 00:17:14,540] Cut to add power.
+- [00:17:14,540 - 00:17:16,839] I have a list of 21 self-editing tips.
+- [00:17:16,839 - 00:17:18,980] You can find them at jerryjenkins.com.
+- [00:17:18,980 - 00:17:20,619] I've been so blessed in my career
+- [00:17:20,619 - 00:17:22,260] that I love to pay it forward.
+- [00:17:22,260 - 00:17:25,619] So I'm sending out free writing tips and writing blogs.
+- [00:17:25,619 - 00:17:27,260] You can find all that at that
+- [00:17:27,260 - 00:17:28,900] website and you'll be ready to go.
+- [00:17:28,900 - 00:17:29,900] The End
+- [00:17:29,900 - 00:17:30,900] The End
+- [00:17:30,900 - 00:17:31,900] The End
+- [00:17:31,900 - 00:17:32,900] The End
+- [00:17:32,900 - 00:17:33,900] The End
+- [00:17:33,900 - 00:17:34,900] The End
+- [00:17:34,900 - 00:17:35,614] The End

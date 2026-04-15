@@ -1,0 +1,1853 @@
+# Transcript
+
+Source: lazylearn/how-you-speak-and-write/04 - The Mindset Behind An Unforgettable Novel (Amor Towles Interview) [rVk5wDKiupA].webm
+
+- [00:00:00,000 - 00:00:02,600] One of the most important things is make the
+- [00:00:02,600 - 00:00:05,200] reader feel like they're living the experience in the book.
+- [00:00:05,200 - 00:00:07,600] Where does that symbolism come from?
+- [00:00:07,600 - 00:00:10,100] I wrote down the key elements of A Gentleman in
+- [00:00:10,100 - 00:00:12,600] Moscow in a period of about an hour and a half.
+- [00:00:12,600 - 00:00:13,100] Wow.
+- [00:00:13,100 - 00:00:15,900] I plan, design, and outline before I start writing.
+- [00:00:15,900 - 00:00:17,650] I can then reduce the interaction
+- [00:00:17,650 - 00:00:19,400] of the analytical side of my brain,
+- [00:00:19,400 - 00:00:22,100] and that's where you start to get poetic surprises.
+- [00:00:22,100 - 00:00:24,750] I'm very interested in this feedback loop
+- [00:00:24,750 - 00:00:27,400] of you describe something, then you see more,
+- [00:00:27,400 - 00:00:29,500] you see more, and then you describe something.
+- [00:00:29,500 - 00:00:32,750] It's this iterative process, beginning to build in the
+- [00:00:32,750 - 00:00:36,000] layers of the language to suggest a bigger truth.
+- [00:00:36,000 - 00:00:37,300] That's a beautiful answer.
+- [00:00:39,800 - 00:00:43,250] I gotta say, I'm really excited for this conversation
+- [00:00:43,250 - 00:00:46,700] because I feel like more than anyone I've ever interviewed,
+- [00:00:46,700 - 00:00:49,150] the number of things that I have
+- [00:00:49,150 - 00:00:51,600] to learn from you is so big.
+- [00:00:51,600 - 00:00:54,950] And the place I want to start is
+- [00:00:54,950 - 00:00:58,300] with your ability to describe things in detail,
+- [00:00:58,300 - 00:00:59,400] and your vocabulary.
+- [00:00:59,400 - 00:01:02,050] Especially with French words, you know, the
+- [00:01:02,050 - 00:01:04,700] maitre d'air, you know, the au revoir,
+- [00:01:04,700 - 00:01:07,200] like whatever, I'm just making stuff up, but
+- [00:01:07,200 - 00:01:09,700] your French vocabulary in particular is really rich.
+- [00:01:09,700 - 00:01:12,850] Certain aspects of the French language
+- [00:01:12,850 - 00:01:16,000] enter American and English usage over time,
+- [00:01:16,000 - 00:01:18,200] and that you encounter it over time, and
+- [00:01:18,200 - 00:01:20,400] so you absorb it in one way or another.
+- [00:01:20,400 - 00:01:24,550] Certain Italian words, certain German words, certain Spanish
+- [00:01:24,550 - 00:01:28,700] words become a part of the broader vocabulary
+- [00:01:29,400 - 00:01:30,400] around you.
+- [00:01:30,400 - 00:01:31,900] So then you try to make use
+- [00:01:31,900 - 00:01:33,400] of your vocabulary from whatever angle you have.
+- [00:01:33,400 - 00:01:36,550] And I guess a way of thinking about it
+- [00:01:36,550 - 00:01:39,700] too is that, you know, baseball has its own vocabulary.
+- [00:01:39,700 - 00:01:43,200] The city streets have a vocabulary.
+- [00:01:43,200 - 00:01:45,200] Finance has a vocabulary.
+- [00:01:45,200 - 00:01:47,950] There's ethnic vocabularies, Italian-American or
+- [00:01:47,950 - 00:01:50,700] Hispanic-American or what have you.
+- [00:01:50,700 - 00:01:54,700] And so as a writer, you become very
+- [00:01:54,700 - 00:01:58,700] interested, I think, in general in these vocabularies.
+- [00:01:58,700 - 00:02:02,600] And you pick up the words that strike you as
+- [00:02:02,600 - 00:02:06,500] interesting or unusual or what a cool way to put that
+- [00:02:06,500 - 00:02:10,500] or what a surprising, you know, what a perfect word for
+- [00:02:10,500 - 00:02:14,500] that feeling or for that, you know, to designate that person.
+- [00:02:14,500 - 00:02:17,600] So you start to tune your ears
+- [00:02:17,600 - 00:02:20,700] towards picking up interesting language, including technical language,
+- [00:02:20,700 - 00:02:23,700] you know, which becomes fascinating, or biological
+- [00:02:23,700 - 00:02:26,700] language, you know, the language of physics.
+- [00:02:26,700 - 00:02:27,200] And so when you do that, you're going
+- [00:02:27,200 - 00:02:27,700] to be able to make use of it.
+- [00:02:27,700 - 00:02:31,600] And so when you're writing, it's become second nature
+- [00:02:31,600 - 00:02:35,500] to constantly be applying different vocabularies to different purposes
+- [00:02:35,500 - 00:02:38,000] because you think it will
+- [00:02:38,000 - 00:02:40,500] better evoke the situation you're in.
+- [00:02:40,500 - 00:02:44,000] In the case of A Gentleman in Moscow, the main character, Count
+- [00:02:44,000 - 00:02:47,500] Rostov, is an aristocrat born in Europe in the late 19th century.
+- [00:02:47,500 - 00:02:50,500] So it would be very natural for him
+- [00:02:50,500 - 00:02:53,500] to make use of French language in whatever form.
+- [00:02:53,500 - 00:02:55,500] And in fact, all of society in Europe,
+- [00:02:55,500 - 00:02:57,500] you know, is very much in the same direction.
+- [00:02:57,700 - 00:03:00,500] Moscow in 1900 spoke French. None of them spoke Russian.
+- [00:03:00,500 - 00:03:02,500] I mean, they would know how to speak Russian,
+- [00:03:02,500 - 00:03:04,500] but they never would have spoken Russian to each other.
+- [00:03:04,500 - 00:03:07,000] They only spoke French. And so that would
+- [00:03:07,000 - 00:03:09,500] have been true throughout the late 19th century.
+- [00:03:09,500 - 00:03:11,000] So you want to evoke
+- [00:03:11,000 - 00:03:12,500] that. Now, I don't speak French.
+- [00:03:12,500 - 00:03:16,000] But so you then, as I say, you start to draw on every
+- [00:03:16,000 - 00:03:19,500] little bit of French you know and kind of weave it into the language
+- [00:03:19,500 - 00:03:23,500] because it sort of helps bring into sharpness the notion of this
+- [00:03:23,500 - 00:03:27,500] would be a person who knows these things and has the sensibility.
+- [00:03:27,700 - 00:03:31,100] Yeah. Well, what's interesting with that is
+- [00:03:31,100 - 00:03:34,500] that there's an aristocratic tenor in that book.
+- [00:03:34,500 - 00:03:38,500] And one of the things with the aristocracy is there's a
+- [00:03:38,500 - 00:03:42,500] forbiddenness that when I look at societally, if you're not from that,
+- [00:03:42,500 - 00:03:45,500] there's almost a distance that people have.
+- [00:03:45,500 - 00:03:49,500] And I've noticed that it's only in very particular places where
+- [00:03:49,500 - 00:03:53,500] I've really been able to pick up, you know, on that language.
+- [00:03:53,500 - 00:03:55,500] Sometimes I'll go to the Met or when I'm
+- [00:03:55,500 - 00:03:57,500] in Paris, I can really pick up on that language.
+- [00:03:57,500 - 00:03:59,000] That way of living. But it
+- [00:03:59,000 - 00:04:00,500] just seems like there's some intentionality.
+- [00:04:00,500 - 00:04:03,000] But then you contrast that with, hey, here's a
+- [00:04:03,000 - 00:04:05,500] group of guys on the Lincoln Highway in 1954.
+- [00:04:05,500 - 00:04:07,500] That's a totally different language.
+- [00:04:07,500 - 00:04:12,500] Yes, that's right. And again, so that's where you're the training of
+- [00:04:12,500 - 00:04:17,500] being a young writer is you're listening to those different kinds of voices.
+- [00:04:17,500 - 00:04:20,500] But it's not necessarily the spoken
+- [00:04:20,500 - 00:04:23,500] language that you're principally interested in.
+- [00:04:23,500 - 00:04:26,500] So I'll get very interested in.
+- [00:04:27,500 - 00:04:32,500] And then if I'm writing Lincoln Highway set in 1954, one of the
+- [00:04:32,500 - 00:04:37,500] things that I did in sort of I'm not a research driven guy,
+- [00:04:37,500 - 00:04:43,000] but one of the things I did for in advance of writing that book is I went and
+- [00:04:43,000 - 00:04:48,500] read three novels that had all been written around 1954 that were all set in about that time.
+- [00:04:48,500 - 00:04:51,500] So Flannery O'Connor's first collection of short
+- [00:04:51,500 - 00:04:54,500] stories, A Good Man is Hard to Find.
+- [00:04:54,500 - 00:04:56,500] I read James Baldwin's The Greatest Man in the World.
+- [00:04:56,500 - 00:04:59,000] I read James Baldwin's first novel,
+- [00:04:59,000 - 00:05:01,500] Go Tell It on the Mountain.
+- [00:05:01,500 - 00:05:04,500] I read The Man with a Gray Flannel Suit.
+- [00:05:04,500 - 00:05:10,500] And I read Raymond Chandler's Long Goodbye, which is all.
+- [00:05:10,500 - 00:05:14,000] Now, what's interesting about those four books is that they're all written
+- [00:05:14,000 - 00:05:17,500] within about 12 months of each other and 18 months of each other.
+- [00:05:17,500 - 00:05:19,000] Most of them are kind
+- [00:05:19,000 - 00:05:20,500] of set right at that time.
+- [00:05:20,500 - 00:05:23,000] But Go Tell It on the Mountain is,
+- [00:05:23,000 - 00:05:25,500] you know, a young black writer writing about Harlem.
+- [00:05:25,500 - 00:05:27,000] And then Go Tell It on the Mountain is
+- [00:05:27,000 - 00:05:28,500] a young black writer writing about his father's work.
+- [00:05:28,500 - 00:05:30,500] He's towards the end of his career.
+- [00:05:30,500 - 00:05:33,000] And he's writing a noir set in Los Angeles at the
+- [00:05:33,000 - 00:05:35,500] time, having written about crime in Los Angeles for 30 years.
+- [00:05:35,500 - 00:05:39,500] Men with a Gray Flannel Suit is about the first generation of
+- [00:05:39,500 - 00:05:43,500] veterans that came back from the Second World War and became businessmen wearing.
+- [00:05:43,500 - 00:05:46,000] And that's why it's called that, because it was the guys
+- [00:05:46,000 - 00:05:48,500] who rode the train from Connecticut into the city every day,
+- [00:05:48,500 - 00:05:51,000] dressed identically, you know, to go and work
+- [00:05:51,000 - 00:05:53,500] in Madison Avenue and return home for a martini.
+- [00:05:53,500 - 00:05:55,500] And while their wife was taking care of the kids.
+- [00:05:55,500 - 00:05:58,500] And then the second generation was he really depicted that for
+- [00:05:58,500 - 00:06:01,500] the first time, kind of in the development of American culture.
+- [00:06:01,500 - 00:06:04,000] And then Flannery O'Connor is
+- [00:06:04,000 - 00:06:06,500] writing Gothic Tales in the South.
+- [00:06:06,500 - 00:06:10,000] Now, so in this 18 month period, these are four
+- [00:06:10,000 - 00:06:13,500] different American classics which have a totally different language about them.
+- [00:06:13,500 - 00:06:16,500] They're using a different vocabulary, different semantics.
+- [00:06:16,500 - 00:06:18,500] They're concerned with different things thematically.
+- [00:06:18,500 - 00:06:21,500] But they're all profoundly American.
+- [00:06:21,500 - 00:06:23,000] You know, and that's the nature
+- [00:06:23,000 - 00:06:24,500] of being in the American melting pot.
+- [00:06:25,500 - 00:06:26,500] As a culture.
+- [00:06:26,500 - 00:06:31,500] So as I say, I read all those books in the years before reading Lincoln Highway because it's
+- [00:06:31,500 - 00:06:36,500] sort of a way of triggering for me a reminder of some of the different sensibilities of that time.
+- [00:06:36,500 - 00:06:42,500] Yeah, you're talking about listening and reading and having an ear for times when
+- [00:06:42,500 - 00:06:48,500] people describe something in a way that you've never heard it described that way before.
+- [00:06:48,500 - 00:06:51,000] I was just reading your essay on Nighthawks
+- [00:06:51,000 - 00:06:53,500] with Hopper and had that exact thing happen.
+- [00:06:53,500 - 00:06:59,000] Where in the bottom of one of your paragraphs, you were talking about how
+- [00:06:59,000 - 00:07:04,500] it describes the mood was melancholy, but it's not a sad kind of melancholy.
+- [00:07:04,500 - 00:07:10,500] And then you use that sentence and then for the rest of the piece you talk about how in
+- [00:07:10,500 - 00:07:16,500] a city the solitude, the melancholy is actually nice because it's placed in the context of New York City.
+- [00:07:16,500 - 00:07:19,500] And my mental thought was, wow, you've just placed a
+- [00:07:19,500 - 00:07:22,500] new emotion in my mind that I didn't know existed.
+- [00:07:22,500 - 00:07:23,500] Yeah.
+- [00:07:23,500 - 00:07:26,000] And when I think about what I strive
+- [00:07:26,000 - 00:07:28,500] to do as a writer, that's what it is.
+- [00:07:28,500 - 00:07:33,500] When I was in writing education, you know, learning in school and whatnot, I always
+- [00:07:33,500 - 00:07:38,500] thought about impressive writing as big words or trying to sound loquacious or this elegant prose.
+- [00:07:38,500 - 00:07:43,500] But actually, what I really value is that descriptiveness and
+- [00:07:43,500 - 00:07:48,500] that novelty through specificity and a vibrance in the language.
+- [00:07:48,500 - 00:07:50,500] And I read that sentence and
+- [00:07:50,500 - 00:07:52,500] I was like, that's what that was.
+- [00:07:52,500 - 00:07:53,500] As a writer.
+- [00:07:53,500 - 00:07:58,000] You keep returning to this idea of description and it's
+- [00:07:58,000 - 00:08:02,500] certainly a critical aspect in the broader challenge of writing fiction.
+- [00:08:02,500 - 00:08:09,500] But one of the most important things is to make the reader feel like they're living the experience in the book
+- [00:08:09,500 - 00:08:16,500] to some degree, that they feel present and as a result become interested in the characters and connected to the characters.
+- [00:08:16,500 - 00:08:18,500] They can see things unfolding.
+- [00:08:18,500 - 00:08:22,500] Their ideas, their thought processes and feelings.
+- [00:08:22,500 - 00:08:26,000] And feelings are sort of turned
+- [00:08:26,000 - 00:08:29,500] on by what they're reading about.
+- [00:08:29,500 - 00:08:32,000] Now, all that really depends upon making
+- [00:08:32,000 - 00:08:34,500] the reader feel present in the moment.
+- [00:08:34,500 - 00:08:43,000] And so one of the most valuable tools to achieving that in effective writing is through description that is sharp enough
+- [00:08:43,000 - 00:08:51,500] and concise enough that the reader can see where they are, know where they are, not get bogged down in it.
+- [00:08:51,500 - 00:08:52,000] And then begin to sort of themselves move
+- [00:08:52,000 - 00:08:52,500] throughout the room and listen to how things unfold.
+- [00:08:52,500 - 00:08:53,000] So in the case of A Gentleman in Moscow, I know that book is
+- [00:08:53,000 - 00:08:53,500] going to take place, you know, whatever, it's almost 30 years inside the hotel.
+- [00:08:53,500 - 00:08:54,500] The reader rarely leaves the hotel.
+- [00:08:54,500 - 00:08:55,000] So I know it's extremely important when I was writing that, that to lay out the
+- [00:08:55,000 - 00:08:55,500] geography of the hotel early, to give people a vivid sense of the key rooms early.
+- [00:08:55,500 - 00:08:56,000] Because once I've done that, then as events unfold, the
+- [00:08:56,000 - 00:08:56,500] reader will have a sense of the key rooms early.
+- [00:08:56,500 - 00:08:57,500] And so I think that's a really important thing.
+- [00:08:57,500 - 00:08:58,500] And I think that's what I'm trying to do.
+- [00:08:58,500 - 00:08:59,500] I think that's what I'm trying to do.
+- [00:08:59,500 - 00:09:00,500] I think that's what I'm trying to do.
+- [00:09:00,500 - 00:09:01,500] And I think that's what I'm trying to do.
+- [00:09:01,500 - 00:09:02,500] And I think that's what I'm trying to do.
+- [00:09:02,500 - 00:09:03,500] And I think that's what I'm trying to do.
+- [00:09:03,500 - 00:09:04,500] And I think that's what I'm trying to do.
+- [00:09:04,500 - 00:09:13,500] in that way thatال
+- [00:09:14,500 - 00:09:19,160] there has to be that balance between each activity.
+- [00:09:19,160 - 00:09:20,340] There has to be the balance between
+- [00:09:20,340 - 00:09:21,520] A Gentleman in the keine asks himself
+- [00:09:21,520 - 00:09:22,520] how we do that.
+- [00:09:22,520 - 00:09:23,520] Whe,it's a great access to all.
+- [00:09:23,520 - 00:09:27,010] How we do it is and then take that
+- [00:09:27,010 - 00:09:30,500] in the idea that it makes the reader feelAL existeO
+- [00:09:30,500 - 00:09:31,500] do we need to make sure that
+- [00:09:31,500 - 00:09:32,500] everyone has a desk or something like that?
+- [00:09:32,500 - 00:09:35,490] spare that it could be anywhere, but nor can
+- [00:09:35,490 - 00:09:38,480] it be so specific that I feel like I'm being
+- [00:09:38,480 - 00:09:43,140] bogged down in cold, cumbersome descriptions of the space.
+- [00:09:43,140 - 00:09:45,570] So you do have to kind of, as
+- [00:09:45,570 - 00:09:48,000] you're working through the writing of that description, adding
+- [00:09:48,000 - 00:09:50,860] details, taking details away, is narrow in
+- [00:09:50,860 - 00:09:53,720] on the few elements that will really help
+- [00:09:53,720 - 00:09:59,260] bring that space vividly to life for the reader.
+- [00:09:59,260 - 00:10:01,000] And how do you think about that pacing?
+- [00:10:01,000 - 00:10:04,200] What I've found when I've done video editing in
+- [00:10:04,200 - 00:10:07,400] the past is that my perception of the speed
+- [00:10:07,400 - 00:10:11,050] that a video needs to be at is very different
+- [00:10:11,050 - 00:10:14,700] in my 50th run through the video as a consumer's
+- [00:10:14,700 - 00:10:16,250] perception of where it needs to be
+- [00:10:16,250 - 00:10:17,800] in their first run through the video.
+- [00:10:17,800 - 00:10:19,350] And over and over, people would say
+- [00:10:19,350 - 00:10:20,900] to me, your videos are too fast.
+- [00:10:20,900 - 00:10:22,460] Your videos are too fast.
+- [00:10:22,460 - 00:10:25,650] How do you manage, when you're trying to have
+- [00:10:25,650 - 00:10:28,840] that felt sense of the pacing of a novel,
+- [00:10:28,840 - 00:10:29,890] how do you manage that
+- [00:10:29,890 - 00:10:30,940] pacing when you're so in it?
+- [00:10:30,940 - 00:10:32,440] And so familiar with it?
+- [00:10:32,440 - 00:10:33,440] Yeah.
+- [00:10:33,440 - 00:10:35,750] I mean, that is a whole art form
+- [00:10:35,750 - 00:10:38,060] in itself, because really what you're asking about is
+- [00:10:38,060 - 00:10:39,060] editing.
+- [00:10:39,060 - 00:10:42,650] And so writing and editing are
+- [00:10:42,650 - 00:10:46,240] too closely interlinked, but different skill sets.
+- [00:10:46,240 - 00:10:48,640] And the editing process is the ability to
+- [00:10:48,640 - 00:10:51,040] go back and take a look at something you've
+- [00:10:51,040 - 00:10:52,940] already written and try to
+- [00:10:52,940 - 00:10:54,840] hear it a little bit differently.
+- [00:10:54,840 - 00:10:57,890] And read it as if it's for the first time
+- [00:10:57,890 - 00:11:00,940] to gain a sense of, is this slow for me?
+- [00:11:00,940 - 00:11:03,660] Like, do I find this section boring?
+- [00:11:03,660 - 00:11:04,660] That's never a good sign.
+- [00:11:04,660 - 00:11:05,660] Never a good sign.
+- [00:11:05,660 - 00:11:07,070] Right, because if I find it boring on
+- [00:11:07,070 - 00:11:08,480] the third read, then the reader's definitely going
+- [00:11:08,480 - 00:11:10,520] to run the risk of finding it boring.
+- [00:11:10,520 - 00:11:13,340] So you do have to kind of train yourself
+- [00:11:13,340 - 00:11:16,160] to constantly looking at it a little more coldly
+- [00:11:16,160 - 00:11:18,400] and find what that right tempo is.
+- [00:11:18,400 - 00:11:21,830] I mean, you talk about pace or tempo, the
+- [00:11:21,830 - 00:11:25,260] same idea is, do I feel as the reader compelled
+- [00:11:25,260 - 00:11:26,260] to move on?
+- [00:11:26,260 - 00:11:27,660] Now, I don't want to associate
+- [00:11:27,660 - 00:11:29,060] what I just said with a page.
+- [00:11:29,060 - 00:11:30,060] Right.
+- [00:11:30,060 - 00:11:30,340] Right.
+- [00:11:30,340 - 00:11:30,640] Right.
+- [00:11:30,640 - 00:11:30,900] Right.
+- [00:11:30,900 - 00:11:30,920] Right.
+- [00:11:30,920 - 00:11:31,540] That's what I'm saying.
+- [00:11:31,540 - 00:11:33,700] And it's not a page turner, which is its
+- [00:11:33,700 - 00:11:35,860] own art form and there's parts of a book that
+- [00:11:35,860 - 00:11:37,920] can be page turnish.
+- [00:11:37,920 - 00:11:40,030] But a page turner in the classical sense
+- [00:11:40,030 - 00:11:42,140] is really something where really driven by the
+- [00:11:42,140 - 00:11:43,880] action.
+- [00:11:43,880 - 00:11:47,280] So Lee Childs writes page turners and turners
+- [00:11:47,280 - 00:11:50,680] in his Jack Reacher novels, where you're constantly
+- [00:11:50,680 - 00:11:52,850] want to know what happens next because there's a
+- [00:11:52,850 - 00:11:55,020] new crisis or a new danger, or we want to
+- [00:11:55,020 - 00:11:57,360] beat up the next guy or whatever it is.
+- [00:11:57,360 - 00:11:58,990] And that's a certain kind of
+- [00:11:58,990 - 00:12:00,620] urgency that can exist in writing.
+- [00:12:00,620 - 00:12:03,500] in writing, but as a novelist writing in
+- [00:12:03,500 - 00:12:06,380] a literary style, that's not the one you're
+- [00:12:06,380 - 00:12:08,820] looking at. So what you need to be creating is
+- [00:12:08,820 - 00:12:11,260] a sense of urgency for the reader, which may be
+- [00:12:11,260 - 00:12:14,300] without any action at all, right? It may be
+- [00:12:14,300 - 00:12:17,340] that you're drawing the reader in who gets interested
+- [00:12:17,340 - 00:12:19,820] in the psychology of the character, and so they
+- [00:12:19,820 - 00:12:22,300] want to understand what are they feeling and what
+- [00:12:22,300 - 00:12:26,180] are they going to do next, but even though there's
+- [00:12:26,180 - 00:12:30,060] no action involved, you know? Or how is the writer
+- [00:12:30,060 - 00:12:32,259] going to put this next, you know,
+- [00:12:32,259 - 00:12:34,459] because the phrasing of the sentence is compelling.
+- [00:12:34,459 - 00:12:37,099] So there's all kinds of ways that you're trying
+- [00:12:37,099 - 00:12:39,739] to make sure that the writing is drawing the reader
+- [00:12:39,739 - 00:12:42,699] forward, but that may include a willingness
+- [00:12:42,699 - 00:12:45,660] to have parts which are slow. Right, right.
+- [00:12:46,699 - 00:12:49,499] Tactically, as you're trying to work on the
+- [00:12:49,499 - 00:12:52,300] descriptiveness of a sentence or of a paragraph,
+- [00:12:52,300 - 00:12:54,540] how does that happen? Is it the kind of thing
+- [00:12:54,540 - 00:12:56,780] where you sort of live in it and you're just
+- [00:12:56,780 - 00:12:58,379] trying to make it better, make it better, make
+- [00:12:58,379 - 00:12:59,979] it better, or do you find that stepping away from
+- [00:12:59,979 - 00:12:59,999] it is a little bit more difficult? I think
+- [00:12:59,999 - 00:13:00,020] that's a good question. I think that's a good question.
+- [00:13:00,020 - 00:13:00,240] I think that's a good question. I think that's
+- [00:13:00,240 - 00:13:00,460] a good question. I think that's a good question.
+- [00:13:00,460 - 00:13:00,500] I think that's a good question. I think that's
+- [00:13:00,500 - 00:13:00,540] a good question. I think that's a good question.
+- [00:13:00,540 - 00:13:02,100] For maybe a few months, you come back
+- [00:13:02,100 - 00:13:03,660] to it, you're like, that's off, that's off,
+- [00:13:03,660 - 00:13:05,820] and it instantly comes to mind. All right, well,
+- [00:13:05,820 - 00:13:07,980] let's take a step back. So what I do is
+- [00:13:09,180 - 00:13:11,660] my novels have always begun with a very simple
+- [00:13:11,660 - 00:13:14,140] premise. They have like a sentence where I'm like,
+- [00:13:14,140 - 00:13:16,940] oh yeah, okay, a guy lives in a hotel for
+- [00:13:16,940 - 00:13:19,740] a long period of time. That's interesting. And if that
+- [00:13:19,740 - 00:13:22,500] idea kind of grabs hold of me, I'll start to think
+- [00:13:22,500 - 00:13:25,260] it out a little bit. And usually, like when I had
+- [00:13:25,260 - 00:13:27,599] that notion, which led to A Gentleman in Moscow, within
+- [00:13:27,599 - 00:13:29,939] the first couple of hours, I know a lot of
+- [00:13:29,940 - 00:13:32,060] people have thought about it. So I started with a
+- [00:13:32,060 - 00:13:34,180] guy gets trapped in a hotel for a long period of
+- [00:13:34,180 - 00:13:36,340] time. And then right away, I was like, oh, it
+- [00:13:36,340 - 00:13:38,500] could be set in Russia, he could be an aristocrat,
+- [00:13:38,500 - 00:13:41,420] he could be sentenced to house arrest in a
+- [00:13:41,420 - 00:13:44,340] luxury hotel across the street from the Kremlin. You know,
+- [00:13:44,340 - 00:13:46,980] it could span from the revolution to the Cold War.
+- [00:13:46,980 - 00:13:49,620] So I knew all that very quickly, like in a matter
+- [00:13:49,620 - 00:13:50,120] of minutes.
+- [00:13:50,120 - 00:13:51,700] Where were you when you had that epiphany?
+- [00:13:51,700 - 00:13:53,900] I was in Geneva. And I was in Geneva in a
+- [00:13:53,900 - 00:13:56,100] hotel. And that's why I had the epiphany, because I was
+- [00:13:56,100 - 00:13:57,980] in a hotel and recognized a guy
+- [00:13:57,980 - 00:13:59,860] in the lobby from the year before.
+- [00:13:59,940 - 00:14:02,660] In the hotel room upstairs, I wrote down the key
+- [00:14:02,660 - 00:14:05,380] elements of A Gentleman in Moscow in a period of
+- [00:14:05,380 - 00:14:08,060] about an hour and a half. In the course of
+- [00:14:08,060 - 00:14:10,740] the next three days, I wrote the scaffolding for almost all
+- [00:14:10,740 - 00:14:14,220] of the key events of the novel. But then what
+- [00:14:14,220 - 00:14:17,700] happens is that if it really grabs me, as it did
+- [00:14:17,700 - 00:14:20,300] in that case, I'll start to fill notebooks.
+- [00:14:20,300 - 00:14:22,900] And the notebooks, I'll be asking myself, you know,
+- [00:14:22,900 - 00:14:25,340] okay, there's going to be this section of scene
+- [00:14:25,340 - 00:14:27,780] where the Count's going to meet a young girl,
+- [00:14:27,780 - 00:14:29,780] and that's going to be his first friend.
+- [00:14:29,940 - 00:14:33,300] She's kind of in the hotel, too. It's going
+- [00:14:33,300 - 00:14:36,660] to be in the restaurant. And okay, so, you know,
+- [00:14:36,660 - 00:14:38,540] what's going to prompt the meeting? What are they
+- [00:14:38,540 - 00:14:40,420] actually going to talk about in this first meeting?
+- [00:14:40,420 - 00:14:43,140] And so in my spare time, I'm just—I'm dwelling on
+- [00:14:43,140 - 00:14:45,860] that. And I used to do it while I was walking
+- [00:14:45,860 - 00:14:47,500] to work, let's say. You know, I'd be like,
+- [00:14:47,500 - 00:14:49,140] oh yeah, okay, what's going to happen in that scene?
+- [00:14:50,100 - 00:14:52,140] And I start to visualize it in greater and greater
+- [00:14:52,140 - 00:14:54,180] detail. I can see the restaurant. I can see the
+- [00:14:54,180 - 00:14:56,540] girl. I can see them dining. I can
+- [00:14:56,540 - 00:14:58,900] see their interaction. So the humorous elements of it.
+- [00:14:58,900 - 00:14:59,420] I then can start to hear the story. I can see
+- [00:14:59,420 - 00:14:59,940] the story. And then I can start to hear the story.
+- [00:14:59,940 - 00:15:02,270] the conversation, so to imagine that in greater detail.
+- [00:15:02,270 - 00:15:04,600] I see the food coming, I see the waiter,
+- [00:15:04,900 - 00:15:08,160] all these various elements. And then in notebook, I'll
+- [00:15:08,160 - 00:15:11,420] start to write that scene and write it out
+- [00:15:11,420 - 00:15:14,270] by hand. Now, I don't necessarily, when
+- [00:15:14,270 - 00:15:17,120] I'm doing these notebooks, work chronologically from
+- [00:15:17,120 - 00:15:20,070] chapter one to the end of the chapter. It's
+- [00:15:20,070 - 00:15:23,020] kind of whatever grabs my, whatever I want to think
+- [00:15:23,020 - 00:15:25,290] about that day. But I now know that there's
+- [00:15:25,290 - 00:15:27,560] all these various elements that are going to have to
+- [00:15:27,560 - 00:15:30,139] be investigated. And I will do that for a couple
+- [00:15:30,139 - 00:15:32,719] of years. So at the end of a couple of years,
+- [00:15:32,719 - 00:15:35,659] I'll have a couple of notebooks filled
+- [00:15:35,659 - 00:15:38,599] with handwritten descriptions of what happens in the
+- [00:15:38,599 - 00:15:40,979] book. And only when I know everything that's going to
+- [00:15:40,979 - 00:15:43,359] happen in the book and I can visualize it all,
+- [00:15:43,640 - 00:15:46,830] do I then start writing chapter one. Now, and then
+- [00:15:46,830 - 00:15:50,020] I'll write the book over a year and a half
+- [00:15:50,020 - 00:15:51,549] or something like that. And then I go back
+- [00:15:51,549 - 00:15:53,079] to the beginning and start to revise it from beginning
+- [00:15:53,079 - 00:15:55,289] to end. And I'll do that, you know, two or
+- [00:15:55,289 - 00:15:57,500] three times. So I lay all this out because it's
+- [00:15:57,500 - 00:15:57,520] interesting. And then I'll do that, you know, two
+- [00:15:57,520 - 00:15:57,540] or three times. And then I'll do that, you know,
+- [00:15:57,540 - 00:15:57,550] two or three times. And then I'll do that, you know,
+- [00:15:57,550 - 00:15:57,560] two or three times. And then I'll do that, you know,
+- [00:15:57,560 - 00:15:59,899] important to inform my answer to your question
+- [00:15:59,899 - 00:16:02,239] or to inform your question, which is that
+- [00:16:02,239 - 00:16:04,889] I don't walk, I don't sit there with a blank
+- [00:16:04,889 - 00:16:07,540] page and not without a sense of where I'm going
+- [00:16:07,540 - 00:16:10,300] and start to try to investigate it as I
+- [00:16:10,300 - 00:16:13,060] go, right? Is I am sitting down saying, okay,
+- [00:16:13,699 - 00:16:16,369] the chapter is, you know, it's the seventh chapter.
+- [00:16:16,369 - 00:16:19,040] This is where they are. This is what I
+- [00:16:19,040 - 00:16:23,290] know exactly where it's set, what it looks
+- [00:16:23,290 - 00:16:27,540] like, who's there, what their backgrounds are, what
+- [00:16:27,540 - 00:16:29,800] I know all that. And so then when I'm writing
+- [00:16:29,800 - 00:16:32,060] the chapter, it's, I don't have to solve for those
+- [00:16:32,060 - 00:16:34,889] kinds of things. Instead, it's really a question of
+- [00:16:34,889 - 00:16:37,719] what are the best ways to bring this to life
+- [00:16:37,719 - 00:16:40,109] in the language? And what's the best way to
+- [00:16:40,109 - 00:16:42,500] craft the poetry of this? Now, I'll point out here,
+- [00:16:42,579 - 00:16:45,389] and I kind of implied this a second ago,
+- [00:16:45,389 - 00:16:48,199] but I'm, as I made clear, I'm an outliner. That's
+- [00:16:48,199 - 00:16:50,959] what I am. I plan, design, and outline before
+- [00:16:50,959 - 00:16:53,719] I start writing. That can sound like it's very,
+- [00:16:53,719 - 00:16:55,559] that can sound very left
+- [00:16:55,559 - 00:16:57,400] brain, meaning very analytical, very,
+- [00:16:57,400 - 00:17:00,960] very precise, very organized. The reason that I do
+- [00:17:00,960 - 00:17:04,520] that, though, is in order to free up the right
+- [00:17:04,520 - 00:17:07,020] side of my brain when I'm in the
+- [00:17:07,020 - 00:17:09,520] writing process. The right side being the more subconscious,
+- [00:17:10,220 - 00:17:13,450] more dream-oriented, more poetic side of the brain.
+- [00:17:13,450 - 00:17:16,680] If I have not figured out all these details,
+- [00:17:17,079 - 00:17:19,219] what does the room look like? Who's there?
+- [00:17:19,219 - 00:17:21,359] What's their background? What happens? If I haven't
+- [00:17:21,359 - 00:17:23,459] figured out that, when I'm writing, that's the part
+- [00:17:23,459 - 00:17:25,560] of my brain that has to be in full action.
+- [00:17:26,280 - 00:17:27,319] Figuring out problems.
+- [00:17:27,400 - 00:17:30,090] Problem solving, all these little elements of the
+- [00:17:30,090 - 00:17:32,780] story. And it puts pressure on or dampens
+- [00:17:32,780 - 00:17:36,010] the poetic side of the consciousness. So the more
+- [00:17:36,010 - 00:17:39,240] I know, the more I can then reduce the interaction
+- [00:17:39,240 - 00:17:42,020] of the analytical side of my brain and free up
+- [00:17:42,020 - 00:17:44,800] the poetic side to take over. And then that's where
+- [00:17:44,800 - 00:17:47,710] you start to get the poetic surprises
+- [00:17:47,710 - 00:17:50,620] of unanticipated ways of putting something or
+- [00:17:50,620 - 00:17:52,740] actually, you know, he's going to look not at
+- [00:17:52,740 - 00:17:54,860] this, he's going to look at that. Or she's not
+- [00:17:54,860 - 00:17:55,880] going to say this, she's going
+- [00:17:55,880 - 00:17:56,900] to say that. You start to,
+- [00:17:57,400 - 00:18:00,840] go with your instincts and you start to
+- [00:18:00,840 - 00:18:04,280] build out something which is both fits the story,
+- [00:18:04,280 - 00:18:06,840] it's completing what you need to in the support in
+- [00:18:06,840 - 00:18:09,400] the story, but it's also a more poetic and lively,
+- [00:18:10,520 - 00:18:14,400] somehow artistically true version of that event
+- [00:18:14,400 - 00:18:18,280] in, as you're drafting it. Then the redrafting
+- [00:18:18,280 - 00:18:20,120] process is you keep cleaning that to
+- [00:18:20,120 - 00:18:21,960] make it sharper and sharper and sharper.
+- [00:18:21,960 - 00:18:24,360] Yeah, that's a beautiful answer. That's
+- [00:18:24,360 - 00:18:26,760] a beautiful answer. One of the, so,
+- [00:18:27,400 - 00:18:30,040] they've 160 points on the page, if
+- [00:18:30,040 - 00:18:32,680] I don't doğru hatırstem shower轉yect into a
+- [00:18:32,680 - 00:18:35,360] roof, or what do you call it. You know what
+- [00:18:35,360 - 00:18:38,040] I mean? If you get a goal off, of course,
+- [00:18:38,040 - 00:18:39,760] yeah, that's a good one. And like
+- [00:18:39,760 - 00:18:41,480] what you ended up with these AfghanOUGH class,
+- [00:18:41,480 - 00:18:43,410] I think it's like theUB's you're
+- [00:18:43,410 - 00:18:45,340] like, he was looking at the reflection
+- [00:18:45,340 - 00:18:47,250] looking at Egypt and you're looking at
+- [00:18:47,250 - 00:18:49,160] this concept. So he was really testing now,
+- [00:18:49,160 - 00:18:51,440] into the optics of life from much
+- [00:18:51,440 - 00:18:53,720] priorso worth to really start by the analysis,
+- [00:18:53,720 - 00:18:56,560] and right after ergreb need, Rafi'i no longer matter.
+- [00:18:56,560 - 00:18:59,440] that symbolism come from in a sentence like that?
+- [00:18:59,440 - 00:19:02,320] Something like that is very often, if you look at
+- [00:19:02,320 - 00:19:04,680] A Gentleman in Moscow as an example, that book
+- [00:19:04,680 - 00:19:07,040] is written in the third person. However, it is not
+- [00:19:07,040 - 00:19:10,479] written in the third person omniscient voice. So
+- [00:19:10,479 - 00:19:13,919] the third person omniscient voice that would be
+- [00:19:13,919 - 00:19:17,319] used by Dickens or Tolstoy, Henry James, that's
+- [00:19:17,319 - 00:19:20,720] a narrator who knows all. They know what's happened
+- [00:19:20,720 - 00:19:22,400] to all the characters in the past, they
+- [00:19:22,400 - 00:19:24,080] know what's gonna happen in the future, they know
+- [00:19:24,080 - 00:19:26,400] their inner lives, and is telling you from
+- [00:19:26,400 - 00:19:28,720] high above, these are the course of events.
+- [00:19:30,159 - 00:19:32,239] So that book is written in a third person,
+- [00:19:32,239 - 00:19:34,320] but one which is not omniscient, it's really more of
+- [00:19:34,320 - 00:19:37,320] a third person which is closely attached to the
+- [00:19:37,320 - 00:19:40,320] inner consciousness of the Count. So it is really,
+- [00:19:40,960 - 00:19:43,919] the narrator mostly tells you what the Count would see,
+- [00:19:43,919 - 00:19:46,879] and tells it in a way that is consistent with
+- [00:19:46,879 - 00:19:50,199] how the Count would feel about it, and follows
+- [00:19:50,199 - 00:19:53,520] his foibles, and makes his mistakes, has his sense of
+- [00:19:53,520 - 00:19:54,020] humor.
+- [00:19:54,080 - 00:19:56,359] You know, all these kinds of things. That's all
+- [00:19:56,359 - 00:19:58,639] built into the narration. So the reason I lay that
+- [00:19:58,639 - 00:20:01,639] out for you is that a lot of the times
+- [00:20:01,639 - 00:20:04,639] when you have a detail like that, that's something that's
+- [00:20:04,639 - 00:20:07,759] coming out of bringing that voice to life.
+- [00:20:07,759 - 00:20:10,879] So meaning that I've begun to understand the Count,
+- [00:20:10,879 - 00:20:14,719] understand how he thinks, understand sort of what
+- [00:20:14,719 - 00:20:18,560] he would care about. I understand sort of
+- [00:20:18,560 - 00:20:21,280] the comic aspects of the way that he would describe
+- [00:20:21,280 - 00:20:24,000] things. So that's less of a question of, how would you
+- [00:20:24,080 - 00:20:26,800] describe the coffee arriving in the morning, and more
+- [00:20:26,800 - 00:20:29,520] of a thing of saying, what would the Count
+- [00:20:29,520 - 00:20:32,680] notice? And the Count would say, oh, you know,
+- [00:20:32,680 - 00:20:35,840] there you go. You know, as you say, the waiter,
+- [00:20:35,840 - 00:20:38,239] he clearly ran up the stairs because he
+- [00:20:38,239 - 00:20:40,639] would care about how hot the coffee was,
+- [00:20:40,639 - 00:20:42,719] you know, as someone, because he's constantly
+- [00:20:42,719 - 00:20:44,800] talking about things like that, about cuisine,
+- [00:20:44,800 - 00:20:47,479] and he's used to being served promptly, you know,
+- [00:20:47,479 - 00:20:50,159] in his life as an aristocrat. That's the kind of
+- [00:20:50,159 - 00:20:51,999] thing an aristocrat would care about, right? Because they
+- [00:20:51,999 - 00:20:53,840] don't have to care about going to work, right?
+- [00:20:54,080 - 00:20:57,520] But he also, he has a certain enthusiasm in
+- [00:20:57,520 - 00:21:00,960] his personality for things like that, and he has
+- [00:21:00,960 - 00:21:03,640] great respect for others who do things well. And so
+- [00:21:03,640 - 00:21:06,320] all that gets kind of bound into that. You're like,
+- [00:21:06,320 - 00:21:08,599] oh yeah, this is perfect. He'll say, you know,
+- [00:21:08,599 - 00:21:10,879] he'll be really focused on the tempers of the
+- [00:21:10,879 - 00:21:13,799] coffee, you know, because that's what suits his
+- [00:21:13,799 - 00:21:16,720] personality. So as I say, sometimes I wouldn't
+- [00:21:16,720 - 00:21:19,720] have thought to write that passage or describe
+- [00:21:19,720 - 00:21:22,720] it in that way. It's really grown out of
+- [00:21:24,639 - 00:21:26,679] putting myself in the place of that character.
+- [00:21:26,679 - 00:21:28,720] And I would say more broadly than that,
+- [00:21:29,919 - 00:21:33,999] that is true of most of, I don't know, at least
+- [00:21:33,999 - 00:21:38,080] 90 percent of the passages in any of my work which
+- [00:21:38,080 - 00:21:40,680] readers will come to me and say, this was very
+- [00:21:40,680 - 00:21:43,280] moving to me, this passage, or this was the most
+- [00:21:43,280 - 00:21:45,599] beautiful passage, I wrote it out, or this was so
+- [00:21:45,599 - 00:21:47,919] insightful, you know, that I sent it to my daughter,
+- [00:21:47,919 - 00:21:50,599] or I read it to my husband, or whatever it is.
+- [00:21:50,599 - 00:21:53,280] 90 percent of the time when someone comes to me and
+- [00:21:53,280 - 00:21:53,670] says this about a passage, I'm like, oh, that's
+- [00:21:53,670 - 00:21:54,060] a great passage. I'm like, oh, that's a great passage.
+- [00:21:54,060 - 00:21:56,969] It is something which I would never have said in
+- [00:21:56,969 - 00:21:59,879] the course of my own life. It wouldn't have occurred
+- [00:21:59,879 - 00:22:02,879] to me. I wouldn't say it to my children. I
+- [00:22:02,879 - 00:22:05,879] wouldn't mention it to a friend. What's happened is that I
+- [00:22:05,879 - 00:22:08,699] have imagined for a moment that I am this person
+- [00:22:08,699 - 00:22:11,520] who I am not, who has a different background and
+- [00:22:11,520 - 00:22:14,099] has a different personality. I have then put that
+- [00:22:14,099 - 00:22:16,679] person in a situation in which I've never been.
+- [00:22:17,399 - 00:22:19,799] And while in that moment, that person
+- [00:22:19,799 - 00:22:22,200] with that background, that personality, looks around and
+- [00:22:22,200 - 00:22:23,049] says, you know, the thing about it is, you know,
+- [00:22:23,049 - 00:22:23,899] I'm not going to write that. I'm not going to write
+- [00:22:23,900 - 00:22:26,240] that. That is da-da-da-da-da-da. And usually that
+- [00:22:26,240 - 00:22:28,580] comes really fast. And so, you know, like,
+- [00:22:28,580 - 00:22:31,880] oh, yeah, bam. And when I'm done, I
+- [00:22:31,880 - 00:22:35,180] usually am like, well done, Count. You nailed that.
+- [00:22:35,180 - 00:22:37,850] Because that's what it feels like. It feels
+- [00:22:37,850 - 00:22:40,520] like I've heard it from this personality in this
+- [00:22:40,520 - 00:22:43,280] experience, you know. And that's, of course, that's
+- [00:22:43,280 - 00:22:46,040] one of the ideal states to achieve in
+- [00:22:46,040 - 00:22:48,590] narrative writing, you know, which the modern parlance
+- [00:22:48,590 - 00:22:51,140] is flow or whatever, but where you get
+- [00:22:51,140 - 00:22:52,510] deep enough into it that it is happening. And
+- [00:22:52,510 - 00:22:53,880] that's what I'm trying to do. And that's what I'm
+- [00:22:53,880 - 00:22:54,480] hoping for.
+- [00:22:54,480 - 00:22:55,740] You're watching it happen.
+- [00:22:55,740 - 00:22:58,440] I got to ask, what do you make of this
+- [00:22:58,440 - 00:23:01,140] idea of the crazy artist? The person who can't function
+- [00:23:01,140 - 00:23:04,350] and is just horrible to other people around them?
+- [00:23:04,350 - 00:23:07,560] You are a well-adjusted guy. You worked in the
+- [00:23:07,560 - 00:23:10,470] finance industry for 21 years. You went to Yale.
+- [00:23:10,470 - 00:23:13,380] You've done well in a lot of different places.
+- [00:23:13,380 - 00:23:15,630] You're now talking about your writing
+- [00:23:15,630 - 00:23:17,880] process. You're very structured. You're organized. You're
+- [00:23:17,880 - 00:23:19,830] systematic. You're disciplined. You showed up on
+- [00:23:19,830 - 00:23:21,780] time today. You're well-dressed, all these sorts
+- [00:23:21,780 - 00:23:23,700] of things. What do you make of that trope?
+- [00:23:23,700 - 00:23:23,860] Yeah, it's a great question.
+- [00:23:23,880 - 00:23:26,370] Where does that come from? And if it's
+- [00:23:26,370 - 00:23:28,860] a trope that has some truth to it,
+- [00:23:28,860 - 00:23:31,740] how have you been able to avoid and resist that?
+- [00:23:31,740 - 00:23:34,710] I don't remember. There is a very clear
+- [00:23:34,710 - 00:23:37,680] history around that which others have written about. And
+- [00:23:37,680 - 00:23:39,930] I don't remember where it began, but I think
+- [00:23:39,930 - 00:23:42,180] it might have been with the romanticists or the
+- [00:23:42,180 - 00:23:44,850] romantic tradition. But this sort of notion of
+- [00:23:44,850 - 00:23:47,520] the struggling artist kind of became this popular
+- [00:23:47,520 - 00:23:50,610] concept in Europe. And then once
+- [00:23:50,610 - 00:23:53,700] that sort of, you know, the romantic
+- [00:23:53,700 - 00:23:56,160] poets writing about broken hearts and about
+- [00:23:56,160 - 00:23:58,620] loneliness and about sort of these tragic turns
+- [00:23:58,620 - 00:24:01,860] of events and sort of the suffering artist was sort
+- [00:24:01,860 - 00:24:05,100] of bound up in that. And then there was sort
+- [00:24:05,100 - 00:24:07,920] of a series of figures in history that kind
+- [00:24:07,920 - 00:24:10,740] of magnified that, like Van Gogh, you know, where,
+- [00:24:10,740 - 00:24:12,900] oh yeah, he cut off his own ear out of
+- [00:24:12,900 - 00:24:15,060] love and then, you know, killed himself, like, oh my God.
+- [00:24:15,060 - 00:24:17,970] You know, and so that's what it takes to
+- [00:24:17,970 - 00:24:20,880] make a painting like Van Gogh's. And of course,
+- [00:24:20,880 - 00:24:23,520] like any of these kinds of tropes, as you say,
+- [00:24:23,700 - 00:24:27,030] you could have done a scientific assessment of all
+- [00:24:27,030 - 00:24:30,360] the great painters of that time. And you would
+- [00:24:30,360 - 00:24:32,460] have found a much more broader distribution of
+- [00:24:32,460 - 00:24:34,560] the reality of their lives, right? You know,
+- [00:24:34,560 - 00:24:37,170] Matisse and Picasso weren't like, you
+- [00:24:37,170 - 00:24:39,780] know, neither were, you know, suicide committers,
+- [00:24:39,780 - 00:24:42,780] you know. They lived very well, you know.
+- [00:24:42,780 - 00:24:45,780] Picasso was with a new woman every few years.
+- [00:24:45,780 - 00:24:46,890] You know, there's always these things. He
+- [00:24:46,890 - 00:24:48,000] was a difficult guy to be with.
+- [00:24:48,000 - 00:24:51,060] Right. But he led a very rich and enjoyable life.
+- [00:24:51,060 - 00:24:52,560] Sure. So I think that there's
+- [00:24:53,700 - 00:24:57,120] different versions of all of these. There's all
+- [00:24:57,120 - 00:25:00,540] kinds of personalities that are feeding into all
+- [00:25:00,540 - 00:25:05,010] of the arts, whether it's written or the musical,
+- [00:25:05,010 - 00:25:09,480] the arts, the graphic arts. There are people who
+- [00:25:09,480 - 00:25:12,030] are less extreme and less volatile. I think, you
+- [00:25:12,030 - 00:25:14,580] know, it's also, you know, when you're younger as
+- [00:25:14,580 - 00:25:17,910] an artist, it's sort of attractive to imagine,
+- [00:25:17,910 - 00:25:21,240] that's an attractive version of the arts, you
+- [00:25:21,240 - 00:25:22,460] know, is to be sort of fighting against. Like, you
+- [00:25:22,460 - 00:25:23,680] know, you have to know where you are, you have to
+- [00:25:23,680 - 00:25:26,840] common behavior and fighting against
+- [00:25:26,840 - 00:25:30,000] what are the expectations of you,
+- [00:25:30,080 - 00:25:33,530] fighting against social mores and being
+- [00:25:33,530 - 00:25:36,980] alone in the attic or the garret,
+- [00:25:37,100 - 00:25:38,360] you know, like in La Boheme.
+- [00:25:38,780 - 00:25:41,100] You know, that makes it all the better, you know.
+- [00:25:42,840 - 00:25:45,010] But I think for a lot of artists, you
+- [00:25:45,010 - 00:25:47,180] also kind of grow out of that a little bit.
+- [00:25:47,180 - 00:25:48,270] You know, you realize, well,
+- [00:25:48,270 - 00:25:49,360] actually, that's not really necessary.
+- [00:25:49,660 - 00:25:51,040] And it's always not necessarily productive.
+- [00:25:51,040 - 00:25:53,660] You know, that kind of tortured version of art
+- [00:25:53,660 - 00:25:56,280] doesn't always get you to get the work done.
+- [00:25:56,899 - 00:25:59,859] If I talk to, you know, I've had the
+- [00:25:59,859 - 00:26:02,820] luxury of getting to know many of my accomplished peers
+- [00:26:02,820 - 00:26:07,899] in the, you know, current writers across the United States.
+- [00:26:08,100 - 00:26:11,660] And more often than not, if you ask them
+- [00:26:11,660 - 00:26:15,220] how they work, the vast majority work in the morning,
+- [00:26:15,520 - 00:26:18,020] you know, and the vast majority punch the clock.
+- [00:26:18,280 - 00:26:20,800] So, you know, they'll say, I am at my desk.
+- [00:26:20,800 - 00:26:22,280] I'm at my desk at fill in the blank.
+- [00:26:22,419 - 00:26:23,659] You're an 8 to 12 guy, right?
+- [00:26:23,659 - 00:26:24,780] Yeah, I'm kind of an 8 to 12 guy.
+- [00:26:24,820 - 00:26:26,859] So when it's 8, 8.30, you know, some are
+- [00:26:26,859 - 00:26:28,899] 6, some are 9 or 10, you know, whatever.
+- [00:26:29,260 - 00:26:32,700] But the vast majority, it's the first thing they do.
+- [00:26:32,760 - 00:26:34,579] And they do it at
+- [00:26:34,579 - 00:26:36,399] the same time with little variance.
+- [00:26:36,860 - 00:26:41,999] And because they've learned over decades
+- [00:26:41,999 - 00:26:47,139] that inspiration is what comes to them
+- [00:26:47,139 - 00:26:48,200] when they're at their desk.
+- [00:26:48,360 - 00:26:48,440] Right.
+- [00:26:48,440 - 00:26:50,760] It's not something that you don't wait to become.
+- [00:26:50,800 - 00:26:52,040] You're inspired and then go to your desk.
+- [00:26:52,040 - 00:26:53,420] Because if you do that,
+- [00:26:53,420 - 00:26:54,800] you will never make any progress.
+- [00:26:55,240 - 00:26:58,120] You go and you sit down and you do the
+- [00:26:58,120 - 00:27:01,000] work and eventually fine things will surface out of that.
+- [00:27:01,240 - 00:27:03,430] And then your job is to kind of
+- [00:27:03,430 - 00:27:05,620] weed out, take the fine things and magnify them
+- [00:27:05,620 - 00:27:06,790] and take the sloppy stuff
+- [00:27:06,790 - 00:27:07,960] and set it aside, you know.
+- [00:27:08,360 - 00:27:10,800] But it ultimately is time at the desk.
+- [00:27:11,480 - 00:27:13,890] There's a lot out there, obviously, of go
+- [00:27:13,890 - 00:27:16,300] follow your passion and just work, work, work.
+- [00:27:16,419 - 00:27:18,840] I mean, you worked a job for 20 years.
+- [00:27:19,159 - 00:27:20,419] And then you wrote a novel.
+- [00:27:20,419 - 00:27:20,480] Yeah.
+- [00:27:20,480 - 00:27:20,540] Yeah.
+- [00:27:20,540 - 00:27:20,580] Yeah.
+- [00:27:20,580 - 00:27:20,620] Yeah.
+- [00:27:20,620 - 00:27:20,680] Yeah.
+- [00:27:20,680 - 00:27:20,740] Yeah.
+- [00:27:20,740 - 00:27:20,780] Yeah.
+- [00:27:20,800 - 00:27:21,639] And then you wrote a novel that didn't work.
+- [00:27:21,720 - 00:27:23,510] And then you wrote Rules of
+- [00:27:23,510 - 00:27:25,300] Civility while you're working a full-time job.
+- [00:27:25,399 - 00:27:27,199] That comes out and you're like, OK,
+- [00:27:27,199 - 00:27:29,000] now I will go become a full-time writer.
+- [00:27:29,820 - 00:27:32,520] Would you recommend that path to other novelists?
+- [00:27:32,560 - 00:27:34,150] Or would you tell people, hey,
+- [00:27:34,150 - 00:27:35,740] go for it while you're young.
+- [00:27:35,820 - 00:27:36,780] That's a good time to do it.
+- [00:27:36,919 - 00:27:37,720] I think you've got to do that.
+- [00:27:37,780 - 00:27:38,860] You've got to figure that one out yourself.
+- [00:27:38,940 - 00:27:39,220] OK.
+- [00:27:39,260 - 00:27:40,120] I think as a writer.
+- [00:27:40,260 - 00:27:42,670] I mean, because as you say, I did not
+- [00:27:42,670 - 00:27:45,080] – I've been writing since I was a kid.
+- [00:27:45,159 - 00:27:46,540] And I wrote in college.
+- [00:27:46,600 - 00:27:47,639] I wrote in graduate school.
+- [00:27:47,639 - 00:27:49,159] I had stories published in
+- [00:27:49,159 - 00:27:50,680] the parish review in my 20s.
+- [00:27:50,680 - 00:27:53,490] and at that point I could have said, all
+- [00:27:53,490 - 00:27:56,300] right, I'm going to now commit myself to this craft.
+- [00:27:56,620 - 00:27:58,560] And maybe I should have.
+- [00:27:58,820 - 00:28:00,660] You know, there's no way to know, right?
+- [00:28:00,660 - 00:28:05,770] And if I had done that, I may have written 13 books
+- [00:28:05,770 - 00:28:10,880] by now instead of five, you know, or four, whatever it is.
+- [00:28:11,300 - 00:28:14,250] So, but I ended up going this
+- [00:28:14,250 - 00:28:17,200] other path, which worked out for me.
+- [00:28:17,200 - 00:28:24,230] But there's a lot of people who, if they choose not to follow their art now, they're either miserable or they enter a
+- [00:28:24,230 - 00:28:31,260] career which is not productive for them or doesn't reward them financially or doesn't satisfy them intellectually and makes them miserable as a person.
+- [00:28:31,600 - 00:28:33,430] So, you know, there's a lot
+- [00:28:33,430 - 00:28:35,260] of variables in there, you know.
+- [00:28:36,720 - 00:28:38,780] So it's hard to know which
+- [00:28:38,780 - 00:28:40,840] is the right thing for different people.
+- [00:28:40,840 - 00:28:43,840] But there's plenty of artists that I
+- [00:28:43,840 - 00:28:46,840] know, talented, successful artists who started later.
+- [00:28:47,200 - 00:28:51,140] You know, I just mentioned, you know, Lee Childs.
+- [00:28:51,160 - 00:28:52,760] And obviously he writes very different kinds of work.
+- [00:28:53,020 - 00:28:56,260] But I know Lee because he's writing suspense.
+- [00:28:56,580 - 00:28:59,760] But he didn't start writing at all in any respect
+- [00:28:59,760 - 00:29:02,940] until his late 30s, I think, because he got fired.
+- [00:29:03,000 - 00:29:04,040] He was a television director.
+- [00:29:04,660 - 00:29:05,640] And he got laid off.
+- [00:29:05,780 - 00:29:06,700] And he's like, I got to
+- [00:29:06,700 - 00:29:07,620] find a way to make money.
+- [00:29:07,860 - 00:29:09,540] And, you know, and he went and stumbled
+- [00:29:09,540 - 00:29:11,220] into, he's like, I think I can do this.
+- [00:29:13,060 - 00:29:15,110] But meanwhile, you know, you have someone like
+- [00:29:15,110 - 00:29:17,160] Colson Whitehead who I'm sure started very young.
+- [00:29:17,240 - 00:29:18,640] And was doing it very actively in college.
+- [00:29:18,760 - 00:29:20,580] And the minute he got out, he
+- [00:29:20,580 - 00:29:22,400] was writing, you know, full time probably.
+- [00:29:22,540 - 00:29:23,560] And it was the best he could.
+- [00:29:24,440 - 00:29:25,760] So, you know, there's different routes.
+- [00:29:25,980 - 00:29:27,170] And you have to kind of decide
+- [00:29:27,170 - 00:29:28,360] what works for you as the individual.
+- [00:29:28,760 - 00:29:28,920] Yeah.
+- [00:29:30,280 - 00:29:32,420] You have some experience describing hotel rooms.
+- [00:29:32,740 - 00:29:36,390] And one thing that was coming to mind as you begin to think
+- [00:29:36,390 - 00:29:40,040] about what you would say is that you could almost think of seeing.
+- [00:29:40,740 - 00:29:43,960] As people would think about it, they would say, OK, so
+- [00:29:43,960 - 00:29:47,180] when you're looking, there's like a scale from zero to 100.
+- [00:29:47,200 - 00:29:49,450] And as you begin to maybe
+- [00:29:49,450 - 00:29:51,700] describe things, you can get to 100%.
+- [00:29:51,700 - 00:29:54,950] But I would almost argue that a really good description like
+- [00:29:54,950 - 00:29:58,200] gets you past what your mind could ever do on its own.
+- [00:29:58,580 - 00:30:02,680] And I feel this when I read David Foster Wallace.
+- [00:30:02,880 - 00:30:05,730] Like if my brain, David's Perel's 100,
+- [00:30:05,730 - 00:30:08,580] David Foster Wallace's goes to like 500.
+- [00:30:08,880 - 00:30:11,510] And I even feel it now when I'm on a
+- [00:30:11,510 - 00:30:14,140] boat because I read his cruising out, shipping out essay.
+- [00:30:14,640 - 00:30:17,160] I see things that I would have never seen.
+- [00:30:17,200 - 00:30:22,140] And I'm very interested in this feedback loop of you describe something,
+- [00:30:22,140 - 00:30:27,080] then you see more, you see more, and then you describe something.
+- [00:30:27,740 - 00:30:30,590] Let's say that you're going to write a story
+- [00:30:30,590 - 00:30:33,440] or what have you or a chapter in a book.
+- [00:30:33,580 - 00:30:36,960] And the scene is a young girl is coming downstairs.
+- [00:30:37,360 - 00:30:38,700] It's approaching dinner time.
+- [00:30:38,860 - 00:30:41,100] It's the 1960s, early 1960s.
+- [00:30:41,280 - 00:30:44,960] She walks into the kitchen and the mother's making dinner.
+- [00:30:45,440 - 00:30:47,180] And there's music on the radio.
+- [00:30:47,200 - 00:30:51,830] And if you said, OK, take some French guy or German writer and
+- [00:30:51,830 - 00:30:56,460] say, you don't know, they haven't, they didn't spend any time in America.
+- [00:30:56,760 - 00:30:59,620] We want you to write this story, this scene.
+- [00:30:59,980 - 00:31:02,280] And here's, you know, some life magazines.
+- [00:31:02,620 - 00:31:04,900] And here's, you know, Wikipedia pages about
+- [00:31:04,900 - 00:31:07,180] America in the 1960s and about suburbia.
+- [00:31:07,420 - 00:31:10,630] And, you know, then what happened is you have the risk
+- [00:31:10,630 - 00:31:13,840] that the writer would write a sentence that says something like,
+- [00:31:14,060 - 00:31:15,210] you know, she came down the
+- [00:31:15,210 - 00:31:16,360] stairs and went in the kitchen.
+- [00:31:16,360 - 00:31:21,600] And as her mother took the bird's eye frozen peas from the Frigidaire
+- [00:31:21,600 - 00:31:26,840] and the Beatles played, you know, love, love me do on the radio.
+- [00:31:26,919 - 00:31:27,699] It's just a cliche.
+- [00:31:28,000 - 00:31:28,919] It's just like, well, it's all.
+- [00:31:29,000 - 00:31:29,080] Yeah.
+- [00:31:29,080 - 00:31:30,820] And it's these sort of like, OK, we get it.
+- [00:31:31,340 - 00:31:34,300] Frozen peas, Frigidaire, the Beatles.
+- [00:31:34,860 - 00:31:36,179] It's 1964.
+- [00:31:36,560 - 00:31:37,280] Everything I expected.
+- [00:31:37,639 - 00:31:37,820] Yes.
+- [00:31:38,040 - 00:31:40,520] So you take a step back and say, well, what?
+- [00:31:41,419 - 00:31:43,849] Instead of that, instead of putting in these landmarks
+- [00:31:43,849 - 00:31:46,280] that tell us where we are and what to expect.
+- [00:31:46,459 - 00:31:46,639] Whatever.
+- [00:31:46,820 - 00:31:48,139] As you say, what we already expect.
+- [00:31:49,199 - 00:31:51,659] Ask yourself, what would the girl see?
+- [00:31:51,820 - 00:31:53,170] So let's say, you know, she's seven years
+- [00:31:53,170 - 00:31:54,520] old or something like that, eight years old.
+- [00:31:55,020 - 00:31:57,520] When a seven-year-old or eight-year-old comes into the room in 1964 and
+- [00:31:57,520 - 00:32:00,020] they see their mother making dinner, you know, what would she see?
+- [00:32:00,020 - 00:32:06,969] And I think that, like, for me, if you put yourself in that position, the first thing
+- [00:32:06,969 - 00:32:13,919] that would really stand out is the amazing thing that of what frozen, how frozen peas work,
+- [00:32:13,920 - 00:32:18,110] which is that when you take frozen peas out of the freezer and
+- [00:32:18,110 - 00:32:22,300] you open them up, you can slide the entire brick of peas out.
+- [00:32:22,680 - 00:32:24,920] Like, they come out like a brick, all bound together.
+- [00:32:25,100 - 00:32:27,510] And if this frozen, it was sort of an incredible thing
+- [00:32:27,510 - 00:32:29,920] when we were young that you would see your parent do this.
+- [00:32:30,000 - 00:32:31,930] And then they would break the
+- [00:32:31,930 - 00:32:33,860] brick of peas over the pot.
+- [00:32:34,320 - 00:32:35,300] And, you know, the child would see this.
+- [00:32:35,360 - 00:32:37,020] And then inevitably some of the
+- [00:32:37,020 - 00:32:38,680] peas would go bouncing across the counter.
+- [00:32:38,680 - 00:32:40,940] And, you know, the kid would go and
+- [00:32:40,940 - 00:32:43,200] you'd try a frozen pea at one point.
+- [00:32:43,380 - 00:32:43,740] You know, you'd.
+- [00:32:43,820 - 00:32:43,880] Well, that's.
+- [00:32:43,880 - 00:32:43,900] That's.
+- [00:32:43,900 - 00:32:43,920] That's.
+- [00:32:44,000 - 00:32:45,840] About your mother watching you take the frozen pea and
+- [00:32:45,840 - 00:32:47,680] you're like, oh, that's what a frozen pea tastes like.
+- [00:32:47,700 - 00:32:49,800] And some kids would love eating frozen peas.
+- [00:32:50,000 - 00:32:52,380] And there's a very specific texture and, you
+- [00:32:52,380 - 00:32:54,760] know, central experience to eating a frozen pea.
+- [00:32:54,800 - 00:32:56,570] Anyway, my point being that this
+- [00:32:56,570 - 00:32:58,340] is what the child would see.
+- [00:32:58,440 - 00:32:58,560] Right.
+- [00:32:58,600 - 00:33:02,370] So if you're trying to bring this scene to life from the perspective
+- [00:33:02,370 - 00:33:06,140] of the child, you wouldn't mention Frigidaire and Birdseye and, you know, the Beatles.
+- [00:33:06,480 - 00:33:07,600] It would be this other stuff.
+- [00:33:07,600 - 00:33:10,530] Now, we can make this more
+- [00:33:10,530 - 00:33:13,460] interesting in by saying, well, let's say.
+- [00:33:13,700 - 00:33:13,780] And it is.
+- [00:33:13,780 - 00:33:13,900] And it is.
+- [00:33:13,900 - 00:33:14,960] It is from the girl's perspective.
+- [00:33:15,220 - 00:33:16,100] And this is what she's witnessing.
+- [00:33:16,620 - 00:33:22,230] Let's say that earlier that day, her mother
+- [00:33:22,230 - 00:33:27,840] has discovered that her husband is cheating on her.
+- [00:33:28,020 - 00:33:32,090] And she was doing the laundry and she finds a note in
+- [00:33:32,090 - 00:33:36,160] her husband's pocket or, you know, and realizes that she's being cheated on.
+- [00:33:36,160 - 00:33:39,780] And so the mother is
+- [00:33:39,780 - 00:33:43,400] feeling vulnerable, you know, angry, frightened.
+- [00:33:43,400 - 00:33:44,950] You know, that her husband might leave her
+- [00:33:44,950 - 00:33:46,500] or that the family would be broken up.
+- [00:33:47,900 - 00:33:51,290] Or, alternatively, let's say that on this day, she
+- [00:33:51,290 - 00:33:54,680] has cheated on her husband for the first time.
+- [00:33:54,900 - 00:33:57,540] She goes to take the car to the car wash.
+- [00:33:57,980 - 00:34:00,280] And she ends up in the backseat of the car as
+- [00:34:00,280 - 00:34:02,580] it's going through the thing with the guy from the car wash.
+- [00:34:02,840 - 00:34:06,190] And she's feeling sort of dangerous and sexy and
+- [00:34:06,190 - 00:34:09,540] excited and alive, you know, and all these things.
+- [00:34:09,920 - 00:34:13,179] Now, either way, when the girl walks in the room.
+- [00:34:13,179 - 00:34:16,299] She would not know that this has happened.
+- [00:34:16,299 - 00:34:16,799] Okay.
+- [00:34:16,799 - 00:34:19,489] And maybe years from now, later in the book, she's going to
+- [00:34:19,489 - 00:34:22,179] discover that that was the day that you fill in the blank.
+- [00:34:22,179 - 00:34:23,359] Mom was cheated on her.
+- [00:34:23,359 - 00:34:23,859] Mom cheated.
+- [00:34:23,859 - 00:34:24,359] Whichever one.
+- [00:34:24,359 - 00:34:28,859] So when writing that scene, in addition to the child seeing these little
+- [00:34:28,859 - 00:34:33,359] elements like the frozen peas that bring it to life in this vivid way.
+- [00:34:33,359 - 00:34:36,769] You actually have to write the scene very differently
+- [00:34:36,769 - 00:34:40,179] with different language and a different tempo, a different tone.
+- [00:34:40,179 - 00:34:41,419] Depending upon which of the two things
+- [00:34:41,419 - 00:34:42,659] the mother had done earlier that day.
+- [00:34:42,659 - 00:34:43,159] Okay.
+- [00:34:43,179 - 00:34:49,579] Because although it would not be known to the girl, somehow it would have to be evident in
+- [00:34:49,579 - 00:34:55,980] the behavior of the mother that the girl senses in the room without even knowing that she senses it.
+- [00:34:55,980 - 00:34:58,860] So that as they say, later when you find it out, you
+- [00:34:58,860 - 00:35:01,740] could go back and read that section and say, it was all there.
+- [00:35:01,740 - 00:35:04,100] That's what was going on that night, you know, and
+- [00:35:04,100 - 00:35:06,460] that's why this felt a little off or that whatever.
+- [00:35:06,460 - 00:35:09,730] So as a writer, then you go into this
+- [00:35:09,730 - 00:35:13,000] situation of, as you say, there's this iterative process of.
+- [00:35:13,180 - 00:35:19,580] Of trying to observe accurately, trying to write it carefully, but then beginning to build in the layers of the language,
+- [00:35:19,580 - 00:35:25,980] your word choice and the poetry of the language to suggest a bigger truth, which is not simply what am I witnessing.
+- [00:35:25,980 - 00:35:31,020] But what is the full emotional content of not only the mother, but
+- [00:35:31,020 - 00:35:36,060] of everybody in the household and how is it in there in that space?
+- [00:35:36,060 - 00:35:37,699] And then how is that kind
+- [00:35:37,699 - 00:35:39,339] of suggested by the historical context?
+- [00:35:39,339 - 00:35:40,259] You know that we are middle class
+- [00:35:40,259 - 00:35:41,180] or upper middle class or lower middle class.
+- [00:35:41,180 - 00:35:41,430] And then you go into that space and
+- [00:35:41,430 - 00:35:41,680] you're like, well, I'm not sure what I'm seeing.
+- [00:35:41,680 - 00:35:42,180] I'm not sure what I'm seeing.
+- [00:35:42,180 - 00:35:42,680] I'm not sure what I'm seeing.
+- [00:35:42,680 - 00:35:43,180] I'm not sure what I'm seeing.
+- [00:35:43,180 - 00:35:43,680] I'm not sure.
+- [00:35:43,680 - 00:35:44,180] I'm not sure.
+- [00:35:44,180 - 00:35:44,680] I'm not sure.
+- [00:35:44,680 - 00:35:45,180] I'm not sure.
+- [00:35:45,180 - 00:35:45,680] I'm not sure.
+- [00:35:45,680 - 00:35:46,180] I'm not sure.
+- [00:35:46,180 - 00:35:47,610] And then you go into another class that we're
+- [00:35:47,610 - 00:35:49,040] in Ohio versus a suburb of Los Angeles versus Baltimore.
+- [00:35:49,040 - 00:35:50,640] All that has to be in there, too.
+- [00:35:50,640 - 00:35:51,140] You know what I mean?
+- [00:35:51,140 - 00:35:57,870] So through the writing and the rewriting, you try to get as much of that right at the beginning by hearing these
+- [00:35:57,870 - 00:36:04,600] elements in advance, by sort of picking the tone and the vocabulary that suits this destination that you're going to bring to life.
+- [00:36:04,600 - 00:36:08,640] But then you through the editing and the re-editing, you refine that and make
+- [00:36:08,640 - 00:36:12,680] sure that you're getting it closer and closer to where you want it to be.
+- [00:36:12,680 - 00:36:19,830] I'll add something here, which is that the way I think about it for myself, and I think that all writers approach these things
+- [00:36:19,830 - 00:36:26,980] very differently, but the way I think about it for myself is that I write the first draft for me and for me alone.
+- [00:36:27,259 - 00:36:34,219] So in the writing of it, I'm like, whatever I want to imagine, whatever whims I have,
+- [00:36:34,219 - 00:36:41,180] whatever tickles my fancy, however deep I get into the fascination, whatever I think is hilarious, whatever.
+- [00:36:41,180 - 00:36:42,910] I can go on at length,
+- [00:36:42,910 - 00:36:44,640] as I am doing right now.
+- [00:36:45,100 - 00:36:47,020] I just let it all, whatever happens, happens.
+- [00:36:47,100 - 00:36:48,339] I don't regulate it in any way.
+- [00:36:49,279 - 00:36:52,419] But then once the first draft is there and in
+- [00:36:52,419 - 00:36:55,560] reasonably good shape, I then kind of turn the lens around.
+- [00:36:55,700 - 00:37:01,549] And I say, OK, having written this for myself, full of
+- [00:37:01,549 - 00:37:07,399] vanities and digressions and investigations and asides and diversions and everything.
+- [00:37:09,160 - 00:37:10,500] Now I want to.
+- [00:37:10,500 - 00:37:12,420] I think about it not from
+- [00:37:12,420 - 00:37:14,340] my perspective, but from a reader's perspective.
+- [00:37:15,440 - 00:37:17,860] And this is not about,
+- [00:37:17,860 - 00:37:20,280] you know, trying to sell books.
+- [00:37:20,500 - 00:37:24,520] It's that looking at it from the reader's perspective is a way
+- [00:37:24,520 - 00:37:28,540] of saying, well, I'm going to complete the fulfill the covenant here.
+- [00:37:28,620 - 00:37:29,460] Do my half of the covenant.
+- [00:37:29,920 - 00:37:31,370] When a reader buys my book,
+- [00:37:31,370 - 00:37:32,820] that means they're going to spend money.
+- [00:37:33,060 - 00:37:34,630] And then more importantly, they're going
+- [00:37:34,630 - 00:37:36,200] to spend time consuming the book.
+- [00:37:36,200 - 00:37:37,850] And so that is an
+- [00:37:37,850 - 00:37:39,500] investment by them into my art.
+- [00:37:39,680 - 00:37:40,000] And so.
+- [00:37:40,500 - 00:37:41,420] I owe it to them.
+- [00:37:41,700 - 00:37:42,880] I have certain things that I
+- [00:37:42,880 - 00:37:44,060] owe them in exchange for that.
+- [00:37:44,500 - 00:37:52,550] And one of the things I owe them is to ensure that I've taken that initial draft and I've weeded out the redundancies, the things that are cliche, the
+- [00:37:52,550 - 00:38:00,600] things that are boring, the things that have that are only there because they satisfy my whim, but actually don't play a role in the story as a whole.
+- [00:38:00,760 - 00:38:04,220] So the re the editing part for me, a large portion
+- [00:38:04,220 - 00:38:07,680] of that is taking things out, being getting it leaner and leaner.
+- [00:38:07,780 - 00:38:09,600] So that is really is around the.
+- [00:38:10,500 - 00:38:14,690] The pure economy of the elements that belong in
+- [00:38:14,690 - 00:38:18,880] this story and in the language that serves this story.
+- [00:38:19,260 - 00:38:21,260] And then everything else gets pushed out to the side.
+- [00:38:21,300 - 00:38:23,970] You know, how much of what you
+- [00:38:23,970 - 00:38:26,640] just said, do you feel can be taught?
+- [00:38:26,880 - 00:38:33,450] One of the things that I very much observed was as you were talking about the peas, you
+- [00:38:33,450 - 00:38:40,020] spoke about your experience with the peas and you had a deep sense of trust and conviction about your
+- [00:38:40,020 - 00:38:40,480] experience.
+- [00:38:40,700 - 00:38:46,860] With the peas that your experience would be valid, real enough that you could trust that
+- [00:38:46,860 - 00:38:53,020] and put it in your story and that your own personal experience would be part of that.
+- [00:38:53,360 - 00:38:55,840] And I would imagine that there's probably a
+- [00:38:55,840 - 00:38:58,320] permission that a young writer needs to feel around.
+- [00:38:58,720 - 00:38:59,520] Maybe people are.
+- [00:39:00,020 - 00:39:01,690] They don't feel that their experience
+- [00:39:01,690 - 00:39:03,360] is worth writing about or something.
+- [00:39:03,600 - 00:39:06,590] But out of what you said, if you're teaching a class at
+- [00:39:06,590 - 00:39:09,580] Yale or something, you're going back and you're going to do spring semester.
+- [00:39:09,980 - 00:39:10,480] A writing class.
+- [00:39:10,720 - 00:39:12,380] How much of what you said
+- [00:39:12,380 - 00:39:14,040] do you feel can be taught?
+- [00:39:14,240 - 00:39:19,700] And to the extent that it can or can't be taught, how would you structure that class to help
+- [00:39:19,700 - 00:39:25,160] your students, the people who were in the shoes now that you were in when you were in school?
+- [00:39:25,160 - 00:39:27,060] I am the wrong person to ask this question.
+- [00:39:27,260 - 00:39:27,720] Why is that?
+- [00:39:27,880 - 00:39:33,850] And that is because there are many very talented, accomplished writers, even here
+- [00:39:33,850 - 00:39:39,820] in the city, who do what you say, meaning that, you know, Michael Cunningham.
+- [00:39:39,820 - 00:39:40,400] You know, Paul.
+- [00:39:40,540 - 00:39:42,500] He's a Pulitzer Prize winner of Writing of the Hours.
+- [00:39:42,500 - 00:39:43,720] He does teach at Yale.
+- [00:39:46,600 - 00:39:48,040] Gary Steingart teaches at Columbia.
+- [00:39:48,040 - 00:39:51,580] Jeffrey Eugenides Pulitzer Prize winner teaches it at NYU.
+- [00:39:52,580 - 00:39:54,760] And so and they are great
+- [00:39:54,760 - 00:39:56,940] American novelists who are also teaching.
+- [00:39:56,940 - 00:39:59,220] And so they could tell you I
+- [00:39:59,220 - 00:40:01,500] can't right, because I have not actually taught.
+- [00:40:02,560 - 00:40:04,510] And so, you know, I could I could have
+- [00:40:04,510 - 00:40:06,460] guesses about what's teachable, what's not teachable, you know?
+- [00:40:06,540 - 00:40:08,260] But, you know, for me.
+- [00:40:08,260 - 00:40:09,740] That's a whole.
+- [00:40:09,740 - 00:40:10,380] You know, I really.
+- [00:40:10,400 - 00:40:12,400] the most valuable, you know, practice
+- [00:40:12,400 - 00:40:14,400] is the most important thing, right?
+- [00:40:14,400 - 00:40:20,320] So it's about gaining command of elements of craft.
+- [00:40:20,320 - 00:40:22,650] And teaching can highlight for
+- [00:40:22,650 - 00:40:24,980] you how the elements of craft,
+- [00:40:24,980 - 00:40:27,090] what the elements of craft are,
+- [00:40:27,090 - 00:40:29,200] how they work, how they interact.
+- [00:40:29,200 - 00:40:32,230] Teaching very valuably gives you
+- [00:40:32,230 - 00:40:35,260] a requirement of actually doing work.
+- [00:40:35,260 - 00:40:37,580] Like if I look back in my own
+- [00:40:37,580 - 00:40:39,900] study, because I did take writing classes at Yale,
+- [00:40:39,900 - 00:40:41,570] I did take, you know, I went
+- [00:40:41,570 - 00:40:43,240] to a graduate program in writing at Stanford.
+- [00:40:43,240 - 00:40:45,420] So I was in workshops.
+- [00:40:45,420 - 00:40:46,970] And the most valuable thing that comes out
+- [00:40:46,970 - 00:40:48,520] of those by far is the fact that you
+- [00:40:48,520 - 00:40:50,080] are handing something in.
+- [00:40:50,080 - 00:40:52,280] So it gets you to get things done.
+- [00:40:52,280 - 00:40:54,090] And you begin the process of exposing
+- [00:40:54,090 - 00:40:55,900] yourself to how other people talk about
+- [00:40:55,900 - 00:40:57,740] your work or analyze your
+- [00:40:57,740 - 00:40:59,580] work, which is fine, you know.
+- [00:40:59,580 - 00:41:02,430] But mostly you're learning
+- [00:41:02,430 - 00:41:05,280] elements of craft through repetition.
+- [00:41:05,280 - 00:41:07,360] And if you think of the elements of
+- [00:41:07,360 - 00:41:09,440] craft, and it's a very long list in not
+- [00:41:09,440 - 00:41:09,800] all...
+- [00:41:09,800 - 00:41:09,880] in the...
+- [00:41:09,880 - 00:41:14,160] in the writing of novels, but the
+- [00:41:14,160 - 00:41:18,440] obvious things of like plot, setting, dialogue,
+- [00:41:18,440 - 00:41:21,610] tone of voice, perspective, the
+- [00:41:21,610 - 00:41:24,780] more arcane things, whatever, like metaphor,
+- [00:41:24,780 - 00:41:26,930] simile, or illusion, or allegory, you
+- [00:41:26,930 - 00:41:29,080] know, these are all elements of craft.
+- [00:41:29,080 - 00:41:31,500] And so the best way to sort of
+- [00:41:31,500 - 00:41:33,920] gain command of them is by constantly writing
+- [00:41:33,920 - 00:41:35,430] stories where you are making
+- [00:41:35,430 - 00:41:36,940] use of these elements of craft.
+- [00:41:36,940 - 00:41:38,360] Then I would go an added step
+- [00:41:38,360 - 00:41:39,780] for me, which is to say that,
+- [00:41:39,780 - 00:41:42,140] not all writers would agree with me on
+- [00:41:42,140 - 00:41:44,500] this, and not all writers who teach would,
+- [00:41:44,500 - 00:41:47,020] but I'm a believer that young writers
+- [00:41:47,020 - 00:41:49,540] should write from all kinds of different perspectives.
+- [00:41:49,540 - 00:41:51,210] So you take on different
+- [00:41:51,210 - 00:41:52,880] personalities, you write about different places,
+- [00:41:52,880 - 00:41:54,760] you write about different experiences.
+- [00:41:54,760 - 00:41:57,160] You imagine yourself in the position of someone
+- [00:41:57,160 - 00:41:59,560] of a different gender, of a different age,
+- [00:41:59,560 - 00:42:01,190] from a different social class, of
+- [00:42:01,190 - 00:42:02,820] a different race, from a different country.
+- [00:42:02,820 - 00:42:06,250] And you write about some circumstance that they're
+- [00:42:06,250 - 00:42:09,680] in, and that starts to hone for you
+- [00:42:09,680 - 00:42:12,060] the ability not simply to command
+- [00:42:12,060 - 00:42:14,440] an element of craft, like dialogue,
+- [00:42:14,440 - 00:42:17,020] but to do it in a different
+- [00:42:17,020 - 00:42:19,600] way for a different person each time.
+- [00:42:19,600 - 00:42:22,469] You know, that you're writing, during
+- [00:42:22,469 - 00:42:25,339] a setting, you're writing a story about
+- [00:42:25,339 - 00:42:29,469] an 80-year-old woman who was, had,
+- [00:42:29,469 - 00:42:33,600] parents were very wealthy, married well,
+- [00:42:33,600 - 00:42:36,499] but is now relatively, has lower income, living
+- [00:42:36,499 - 00:42:39,399] in a big apartment in the Upper East Side,
+- [00:42:39,680 - 00:42:44,019] you know, or you're writing about, you know, a kid,
+- [00:42:44,019 - 00:42:48,359] you know, from, you know, the East Side of Chicago,
+- [00:42:48,359 - 00:42:50,899] you know, who's in a,
+- [00:42:50,899 - 00:42:53,440] you know, single-parent family or whatever,
+- [00:42:53,440 - 00:42:56,440] and they're going to describe a room that they're in,
+- [00:42:56,440 - 00:42:58,800] they would approach describing
+- [00:42:58,800 - 00:43:01,160] that setting very differently.
+- [00:43:01,160 - 00:43:03,279] So in that sense, there's no, when
+- [00:43:03,279 - 00:43:05,399] you gain command of the craft of setting,
+- [00:43:05,399 - 00:43:07,519] it's not like it's a single thing, where you're
+- [00:43:07,519 - 00:43:09,640] like, oh, this is how you describe a place.
+- [00:43:09,640 - 00:43:12,080] Or a room, or an environment, because
+- [00:43:12,080 - 00:43:14,520] that's going to change every time you change
+- [00:43:14,520 - 00:43:16,640] the personality and the background of the character.
+- [00:43:16,640 - 00:43:19,140] So what becomes valuable as a young person
+- [00:43:19,140 - 00:43:21,640] is constantly shifting the ground under your own feet,
+- [00:43:21,640 - 00:43:23,800] so that you actually get sort of a
+- [00:43:23,800 - 00:43:25,960] meta lesson, which is not how to do setting,
+- [00:43:25,960 - 00:43:28,980] but how do you start to see
+- [00:43:28,980 - 00:43:32,000] the elements within setting that can be re-approached
+- [00:43:32,000 - 00:43:35,760] in different styles to accomplish the evocation of
+- [00:43:35,760 - 00:43:39,520] a different kind of place from a different interior,
+- [00:43:39,640 - 00:43:40,640] and that's mindset.
+- [00:43:40,640 - 00:43:41,640] Right.
+- [00:43:41,640 - 00:43:43,140] Yeah, what's coming to mind for
+- [00:43:43,140 - 00:43:44,640] me is just the malleability of descriptiveness.
+- [00:43:44,640 - 00:43:46,940] We think of things as these things that
+- [00:43:46,940 - 00:43:49,240] are, they're concrete, this is how it is,
+- [00:43:49,240 - 00:43:51,080] it is a physical object, it
+- [00:43:51,080 - 00:43:52,920] can't change, and you're challenging that notion.
+- [00:43:52,920 - 00:43:55,300] You're saying that the same table
+- [00:43:55,300 - 00:43:57,680] by people from all different social classes,
+- [00:43:57,680 - 00:43:59,960] they could look at that table and see different things.
+- [00:43:59,960 - 00:44:00,960] Absolutely.
+- [00:44:00,960 - 00:44:02,580] One person could see a nick in the wood and
+- [00:44:02,580 - 00:44:04,200] say, oh, this wouldn't have been good enough for grandma.
+- [00:44:04,200 - 00:44:06,820] Another person could say, oh, oh
+- [00:44:06,820 - 00:44:09,440] my goodness, and just be flabbergasted
+- [00:44:09,440 - 00:44:11,160] by the sight before their eyes.
+- [00:44:11,160 - 00:44:12,160] I guess exactly.
+- [00:44:12,160 - 00:44:14,280] It could strike a memory for them.
+- [00:44:14,280 - 00:44:16,760] My uncle had a table like that when my parents
+- [00:44:16,760 - 00:44:19,240] would play poker and I was waiting to go to bed,
+- [00:44:19,240 - 00:44:20,960] or it would be like that kind of thing.
+- [00:44:20,960 - 00:44:24,320] As you say, it can trigger any kind of emotion,
+- [00:44:24,320 - 00:44:27,680] of a memory, and it's within the landscape of the room.
+- [00:44:27,680 - 00:44:28,680] Does it clash?
+- [00:44:28,680 - 00:44:29,680] Does it stand out?
+- [00:44:29,680 - 00:44:30,680] Does it make the room?
+- [00:44:30,680 - 00:44:31,680] You're right.
+- [00:44:31,680 - 00:44:35,060] So you're sort of going to train yourself
+- [00:44:35,060 - 00:44:38,440] in the malleability of description, as you say.
+- [00:44:38,440 - 00:44:39,440] And that's what I'm trying to do.
+- [00:44:39,440 - 00:44:42,660] And so going back to the question,
+- [00:44:42,660 - 00:44:45,880] can various of these things be taught?
+- [00:44:45,880 - 00:44:47,360] I suppose, sure.
+- [00:44:47,360 - 00:44:51,100] But most importantly, it's mastering
+- [00:44:51,100 - 00:44:54,840] craft through repetition and through constantly
+- [00:44:54,840 - 00:44:57,020] approaching things in new ways and then gaining
+- [00:44:57,020 - 00:44:59,200] a greater and greater command over what works
+- [00:44:59,200 - 00:45:00,200] and what doesn't.
+- [00:45:00,200 - 00:45:02,480] Now tell me about the flip side
+- [00:45:02,480 - 00:45:04,760] of this, which is how you consume differently.
+- [00:45:04,760 - 00:45:07,010] Because this to me is the fun
+- [00:45:07,010 - 00:45:09,260] part about getting into the game in anything.
+- [00:45:09,260 - 00:45:11,760] Whether it's I played golf at a high
+- [00:45:11,760 - 00:45:14,260] level, learning to paint a bit, learning to write,
+- [00:45:14,260 - 00:45:16,200] is once you start doing the thing,
+- [00:45:16,200 - 00:45:18,140] you start consuming the thing differently because you
+- [00:45:18,140 - 00:45:20,280] start deconstructing what's going on.
+- [00:45:20,280 - 00:45:22,320] And all of a sudden you develop a critical eye.
+- [00:45:22,320 - 00:45:23,320] What do I like?
+- [00:45:23,320 - 00:45:24,320] What don't I like?
+- [00:45:24,320 - 00:45:25,320] What do I think is refined?
+- [00:45:25,320 - 00:45:26,320] What do I think is sloppy?
+- [00:45:26,320 - 00:45:28,100] And all this happens at a very subconscious level.
+- [00:45:28,100 - 00:45:29,460] And I know that you've been in
+- [00:45:29,460 - 00:45:30,820] this writing group for like 20 years.
+- [00:45:30,820 - 00:45:32,260] You're reading over and over again.
+- [00:45:32,260 - 00:45:33,260] Reading group, not a writing group.
+- [00:45:33,260 - 00:45:34,260] Sorry, a reading group.
+- [00:45:34,260 - 00:45:35,260] Thank you.
+- [00:45:35,260 - 00:45:37,260] Is that where that consumption happens?
+- [00:45:37,260 - 00:45:38,620] Are you doing this a lot on your own?
+- [00:45:38,620 - 00:45:39,180] What is...
+- [00:45:39,180 - 00:45:40,720] How do you consume differently?
+- [00:45:40,720 - 00:45:43,340] You certainly hit on an important thing, which
+- [00:45:43,340 - 00:45:45,960] I think the vast majority of serious writers
+- [00:45:45,960 - 00:45:48,540] of fiction would have a similar story
+- [00:45:48,540 - 00:45:51,120] to mine, which is that I began...
+- [00:45:51,120 - 00:45:53,660] I became interested in writing when I began to read.
+- [00:45:53,660 - 00:45:57,000] Those things happen simultaneously, you know, first grade.
+- [00:45:57,000 - 00:46:00,760] And so from that point, what happened
+- [00:46:00,760 - 00:46:04,520] was my first grade teacher, Mrs. Gomm, brought
+- [00:46:04,520 - 00:46:09,160] to the class a well-known juvenile poet from...
+- [00:46:09,160 - 00:46:11,100] New England named David McCord, meaning
+- [00:46:11,100 - 00:46:13,040] he wrote poetry for the young.
+- [00:46:13,040 - 00:46:16,160] And he read his poems to the class.
+- [00:46:16,160 - 00:46:18,350] And then we were given, you know, copies of
+- [00:46:18,350 - 00:46:20,540] his books at the end of class, which he signed.
+- [00:46:20,540 - 00:46:22,740] And you know, we got to bring them home.
+- [00:46:22,740 - 00:46:24,450] And I just remember being
+- [00:46:24,450 - 00:46:26,160] like, this is the coolest thing.
+- [00:46:26,160 - 00:46:27,160] This is it.
+- [00:46:27,160 - 00:46:28,160] You know, I just love this.
+- [00:46:28,160 - 00:46:29,279] I love everything about it.
+- [00:46:29,279 - 00:46:30,999] I loved that he was writing these
+- [00:46:30,999 - 00:46:32,720] poems and the way he used language.
+- [00:46:32,720 - 00:46:34,890] I loved that he was reading them to
+- [00:46:34,890 - 00:46:37,060] the class and how attentive we all were.
+- [00:46:37,060 - 00:46:38,160] I loved going into the book.
+- [00:46:38,160 - 00:46:39,160] I mean, the whole thing.
+- [00:46:39,160 - 00:46:40,200] And that's when I really decided
+- [00:46:40,200 - 00:46:41,240] I want to be a writer.
+- [00:46:41,240 - 00:46:43,450] And so from that moment forward, reading
+- [00:46:43,450 - 00:46:45,660] and writing were things that were happening side
+- [00:46:45,660 - 00:46:47,800] by side, you know, where you'd start to
+- [00:46:47,800 - 00:46:49,940] read and get interested in somebody and get deeper
+- [00:46:49,940 - 00:46:50,940] and deeper into it.
+- [00:46:50,940 - 00:46:53,520] And you'd walk away with new
+- [00:46:53,520 - 00:46:56,100] insights about writing from that investigation.
+- [00:46:56,100 - 00:46:58,420] And so when you start as a kid, you're
+- [00:46:58,420 - 00:47:00,740] reading the Hardy Boys and you're reading Ray Bradbury
+- [00:47:00,740 - 00:47:02,279] and then you're reading, you know,
+- [00:47:02,279 - 00:47:03,819] sci-fi and you're reading Agatha Christie mysteries
+- [00:47:03,819 - 00:47:06,049] and you know, all these kinds of things
+- [00:47:06,049 - 00:47:08,279] and James Bond, Ian Fleming, and you get into
+- [00:47:08,279 - 00:47:09,120] something.
+- [00:47:09,160 - 00:47:10,019] And you kind of take things
+- [00:47:10,019 - 00:47:10,879] away from it, as you're saying.
+- [00:47:10,879 - 00:47:13,439] But then you kind of shift into high
+- [00:47:13,439 - 00:47:16,000] school where you're reading things of greater literary
+- [00:47:16,000 - 00:47:19,919] merit, of more intricate construction, and you are
+- [00:47:19,919 - 00:47:23,839] absorbing it, as you say, with a critical
+- [00:47:23,839 - 00:47:24,839] eye.
+- [00:47:24,839 - 00:47:25,839] How does this work?
+- [00:47:25,839 - 00:47:26,839] Why do I love this so much?
+- [00:47:26,839 - 00:47:27,839] How did that just happen?
+- [00:47:27,839 - 00:47:29,040] Oh my God, that chapter is amazing.
+- [00:47:29,040 - 00:47:30,420] This character is incredible.
+- [00:47:30,420 - 00:47:34,359] This language is so fresh, like surprising.
+- [00:47:34,359 - 00:47:37,600] How this person is putting things is really like amazing.
+- [00:47:37,600 - 00:47:39,040] I always read with a pen.
+- [00:47:39,160 - 00:47:40,969] And so, and then of course, you know,
+- [00:47:40,969 - 00:47:42,779] I studied literature at Yale, I studied literature at
+- [00:47:42,779 - 00:47:43,779] Stanford.
+- [00:47:43,779 - 00:47:45,419] So you know, you're getting to the
+- [00:47:45,419 - 00:47:47,060] point where you're shifting into an active mode.
+- [00:47:47,060 - 00:47:49,240] Not only are you reading with a pen and
+- [00:47:49,240 - 00:47:51,420] figuring out how the whole book is constructed, but
+- [00:47:51,420 - 00:47:53,780] then you're writing about that, you know,
+- [00:47:53,780 - 00:47:56,140] where you're writing essays on, you know,
+- [00:47:56,140 - 00:47:59,190] structure in Hemingway or, you know, whatever,
+- [00:47:59,190 - 00:48:02,240] you know, the poetics of Melville or, you
+- [00:48:02,240 - 00:48:04,559] know, whatever the various topics are
+- [00:48:04,559 - 00:48:06,879] that you're tackling as a student.
+- [00:48:06,879 - 00:48:08,799] And so there's a very thin line.
+- [00:48:08,800 - 00:48:10,990] There's a very thin line between your own
+- [00:48:10,990 - 00:48:13,180] approach to writing and the way in which you
+- [00:48:13,180 - 00:48:14,180] read.
+- [00:48:14,180 - 00:48:16,320] You know, they're influencing each
+- [00:48:16,320 - 00:48:18,460] other in a very profound way.
+- [00:48:18,460 - 00:48:20,890] And you get to the point where
+- [00:48:20,890 - 00:48:23,320] you do see things out of practice.
+- [00:48:23,320 - 00:48:24,850] You start to see things
+- [00:48:24,850 - 00:48:26,380] in the structure of the book.
+- [00:48:26,380 - 00:48:28,040] You see through the book in a way.
+- [00:48:28,040 - 00:48:31,390] And you say, oh, okay, I get how this is
+- [00:48:31,390 - 00:48:34,740] structured and, you know, in what he's doing here, what
+- [00:48:34,740 - 00:48:35,820] she's doing here.
+- [00:48:35,820 - 00:48:37,420] And you learn from that, you know.
+- [00:48:37,420 - 00:48:38,380] I have written a book.
+- [00:48:38,380 - 00:48:40,780] I have written in my notes, what does this mean?
+- [00:48:40,780 - 00:48:43,240] I am not this person, exclamation,
+- [00:48:43,240 - 00:48:45,700] exclamation point, exclamation point, exclamation point,
+- [00:48:45,700 - 00:48:49,050] meaning the context there is that
+- [00:48:49,050 - 00:48:52,400] you share drafts with very good readers.
+- [00:48:52,400 - 00:48:54,960] And I'm like, I am not a very good reader.
+- [00:48:54,960 - 00:48:56,480] So what does that mean?
+- [00:48:56,480 - 00:48:58,900] What it's referring to is that when I write
+- [00:48:58,900 - 00:49:01,320] a book, I don't share the first draft with
+- [00:49:01,320 - 00:49:02,620] anybody until I'm done.
+- [00:49:02,620 - 00:49:04,560] And then I give it to a handful of readers.
+- [00:49:04,560 - 00:49:06,760] And so, and that includes my editor in New York.
+- [00:49:06,760 - 00:49:07,760] I may include my editor in London.
+- [00:49:07,760 - 00:49:10,880] I may include my agent.
+- [00:49:10,880 - 00:49:13,530] But it will include three, you know,
+- [00:49:13,530 - 00:49:16,180] friends who are good readers, you know.
+- [00:49:16,180 - 00:49:17,320] And so they may be writers.
+- [00:49:17,320 - 00:49:18,320] They may be an editor.
+- [00:49:18,320 - 00:49:20,620] They may be a literary agent.
+- [00:49:20,620 - 00:49:21,620] They may have just studied.
+- [00:49:21,620 - 00:49:23,640] They may have a graduate degree in literature.
+- [00:49:23,640 - 00:49:25,530] But they're people who read thoughtfully,
+- [00:49:25,530 - 00:49:27,420] carefully, and who therefore will give me
+- [00:49:27,420 - 00:49:29,470] thoughtful, careful feedback, you know, people
+- [00:49:29,470 - 00:49:31,520] who I trust as a reader.
+- [00:49:31,520 - 00:49:33,090] And that, you know, those are
+- [00:49:33,090 - 00:49:34,660] the people I will turn to.
+- [00:49:34,660 - 00:49:35,210] The group that you mentioned, which
+- [00:49:35,210 - 00:49:35,760] is a separate thing, is 28.5.
+- [00:49:35,760 - 00:49:36,760] I'm not sure.
+- [00:49:36,760 - 00:49:37,760] I'm not sure.
+- [00:49:37,760 - 00:49:38,760] I'm not sure.
+- [00:49:38,760 - 00:49:39,760] I'm not sure.
+- [00:49:39,760 - 00:49:40,760] I'm not sure.
+- [00:49:40,760 - 00:49:41,760] But I think it's a great thing.
+- [00:49:41,760 - 00:49:42,760] I think it's a great thing.
+- [00:49:42,760 - 00:49:43,260] You know, we've been reading novels
+- [00:49:43,260 - 00:49:43,760] together for a long time now.
+- [00:49:43,760 - 00:49:44,760] I think it's a great thing.
+- [00:49:44,760 - 00:49:45,260] And so, you know, 20 years ago, three
+- [00:49:45,260 - 00:49:45,760] friends and I began a book group, in essence.
+- [00:49:45,760 - 00:49:46,760] And we've been reading novels together for the 20 years.
+- [00:49:46,760 - 00:49:48,310] And we read a novel a month, basically,
+- [00:49:48,310 - 00:49:49,860] and we do projects where we'll take an author
+- [00:49:49,860 - 00:49:52,740] and read, you know, three, five, seven
+- [00:49:52,740 - 00:49:55,620] of that author's works in a row chronologically.
+- [00:49:55,620 - 00:49:58,770] Or we'll read a series of books set in
+- [00:49:58,770 - 00:50:01,920] the same place or written around the same time
+- [00:50:01,920 - 00:50:04,800] by different people or that thematically are interlinked.
+- [00:50:04,800 - 00:50:05,780] But we kind of, you know,
+- [00:50:05,780 - 00:50:06,760] do these projects and do investigations.
+- [00:50:06,760 - 00:50:07,760] And that's what we're doing.
+- [00:50:07,760 - 00:50:08,760] We're doing investigations.
+- [00:50:08,760 - 00:50:09,760] And then you meet to talk about them.
+- [00:50:09,760 - 00:50:13,200] So yes, those are also places where we
+- [00:50:13,200 - 00:50:16,640] will, at length, break down our impressions of the
+- [00:50:16,640 - 00:50:19,060] strengths and weaknesses of a particular approach,
+- [00:50:19,060 - 00:50:21,480] of a narrative voice, of, you know, elements
+- [00:50:21,480 - 00:50:23,960] of style that were surprising to us, that
+- [00:50:23,960 - 00:50:26,440] we admire, that we would love to duplicate
+- [00:50:26,440 - 00:50:27,520] or whatever, all the kinds of stuff.
+- [00:50:27,520 - 00:50:28,800] Who's somebody who comes to mind
+- [00:50:28,800 - 00:50:30,080] that you learned a lot from?
+- [00:50:30,080 - 00:50:33,000] Oh, the whole project has been amazing.
+- [00:50:33,000 - 00:50:35,380] You know, I don't—there were
+- [00:50:35,380 - 00:50:37,760] very few wasted efforts in that.
+- [00:50:37,760 - 00:50:40,000] Partly because you're in control of it.
+- [00:50:40,000 - 00:50:42,210] You read the first two by an
+- [00:50:42,210 - 00:50:44,420] author and you're like, ah, not for us.
+- [00:50:44,420 - 00:50:46,100] Learned a little something, but it's not our thing.
+- [00:50:46,100 - 00:50:48,240] But then some of you are like,
+- [00:50:48,240 - 00:50:50,380] three, four, five, six, because you're gaining confidence
+- [00:50:50,380 - 00:50:52,350] that this is a rewarding
+- [00:50:52,350 - 00:50:54,320] person to read the work of.
+- [00:50:54,320 - 00:50:57,370] And so you kind of—it self-regulates in
+- [00:50:57,370 - 00:51:00,420] that sense, that you're reading work that
+- [00:51:00,420 - 00:51:02,760] is—that rewards you.
+- [00:51:02,760 - 00:51:03,760] Yeah.
+- [00:51:03,760 - 00:51:05,260] I don't know if you're comfortable sharing the
+- [00:51:05,260 - 00:51:06,760] name of an author, but has there been
+- [00:51:06,760 - 00:51:10,300] somebody who you learned a lot from who
+- [00:51:10,300 - 00:51:13,840] was very rewarding, whose work you didn't particularly
+- [00:51:13,840 - 00:51:14,840] like?
+- [00:51:14,840 - 00:51:18,230] Well, first of all, we
+- [00:51:18,230 - 00:51:21,620] almost only—we predominantly read dead authors.
+- [00:51:21,620 - 00:51:23,850] So I would say that 90% of
+- [00:51:23,850 - 00:51:26,080] the authors that we read are deceased.
+- [00:51:26,080 - 00:51:29,110] The reality is that if you think of time
+- [00:51:29,110 - 00:51:32,140] or history or whatever you want to call it, history
+- [00:51:32,140 - 00:51:34,110] is not very good at capturing
+- [00:51:34,110 - 00:51:36,080] all that is great in art.
+- [00:51:36,080 - 00:51:37,580] It is not good at that.
+- [00:51:37,580 - 00:51:40,040] So there are many great
+- [00:51:40,040 - 00:51:42,500] symphonies that have been lost permanently.
+- [00:51:42,500 - 00:51:44,180] There are many great painters that
+- [00:51:44,180 - 00:51:45,860] died unknown and their paintings are gone.
+- [00:51:45,860 - 00:51:47,210] There's novels that have been written
+- [00:51:47,210 - 00:51:48,560] that no one will ever read.
+- [00:51:48,560 - 00:51:49,800] So history is not good at
+- [00:51:49,800 - 00:51:51,040] capturing all that is great in art.
+- [00:51:51,040 - 00:51:53,585] But history is very good
+- [00:51:53,585 - 00:51:56,130] at discarding all that is mediocre.
+- [00:51:56,130 - 00:51:57,170] 有話
+- [00:51:57,186 - 00:52:00,506] So and the amount of time that that takes,
+- [00:52:00,506 - 00:52:02,746] it's like something like 50 years.
+- [00:52:02,746 - 00:52:04,946] So over the course of 50 years,
+- [00:52:04,946 - 00:52:06,616] what will happen is a
+- [00:52:06,616 - 00:52:08,286] lot of stuff that was prominent
+- [00:52:08,286 - 00:52:11,146] will be refiltered and refiltered and refiltered,
+- [00:52:11,146 - 00:52:14,666] and you'll end up with a smaller group of things
+- [00:52:14,666 - 00:52:16,926] which have survived that test of time.
+- [00:52:16,926 - 00:52:18,706] And so like if you think about it right now,
+- [00:52:18,706 - 00:52:20,536] if you go back and look
+- [00:52:20,536 - 00:52:22,366] at the bestseller list for 1974,
+- [00:52:22,366 - 00:52:24,986] 1973, there's a lot of that
+- [00:52:24,986 - 00:52:26,666] that would have been highly regarded at the time,
+- [00:52:26,666 - 00:52:28,806] which people do not read
+- [00:52:28,806 - 00:52:30,946] anymore for a variety of reasons,
+- [00:52:30,946 - 00:52:32,886] and there's some that has survived.
+- [00:52:32,886 - 00:52:36,626] And that's a very telling distinction.
+- [00:52:36,626 - 00:52:39,126] So in a world where we
+- [00:52:39,126 - 00:52:41,626] have, I'm turning 60 this year,
+- [00:52:42,346 - 00:52:44,046] you have limited amount of time.
+- [00:52:44,046 - 00:52:46,686] We both have, all four of us have active lives.
+- [00:52:46,686 - 00:52:48,446] We wanna make sure that if we're gonna sit down,
+- [00:52:48,446 - 00:52:50,186] we're gonna read carefully, we're gonna meet,
+- [00:52:50,186 - 00:52:51,705] and we're gonna discuss it in detail,
+- [00:52:51,705 - 00:52:54,386] we wanna make sure that the work is rewarding.
+- [00:52:54,386 - 00:52:56,366] And the best way to ensure that
+- [00:52:56,366 - 00:52:59,306] is by drawing from the past.
+- [00:52:59,306 - 00:53:00,286] Amen.
+- [00:53:00,286 - 00:53:01,846] So anyway, so most of them are,
+- [00:53:01,846 - 00:53:05,006] so you know, there's certainly people where you read
+- [00:53:05,006 - 00:53:07,386] and you're like, oh, that's not my style,
+- [00:53:07,386 - 00:53:08,426] but you know, that's very interesting.
+- [00:53:08,426 - 00:53:09,266] Right.
+- [00:53:09,266 - 00:53:12,166] Murakami was not for me, you know,
+- [00:53:12,166 - 00:53:14,986] and there's people who adore Murakami,
+- [00:53:14,986 - 00:53:17,946] and people at the table adored Murakami, you know,
+- [00:53:17,946 - 00:53:18,866] but he wasn't really for me,
+- [00:53:18,866 - 00:53:21,426] and there's things that he was doing that intrigued me,
+- [00:53:21,426 - 00:53:23,246] and certain things that I'm like, oh, that's pretty cool,
+- [00:53:23,246 - 00:53:25,246] but I don't know if it suits me, you know?
+- [00:53:25,486 - 00:53:25,746] Um, and there's things that, you
+- [00:53:25,746 - 00:53:26,006] know, that I think are interesting.
+- [00:53:26,006 - 00:53:26,176] Um, and there's things that,
+- [00:53:26,176 - 00:53:26,346] you know, I think are interesting.
+- [00:53:26,366 - 00:53:26,616] And there's things that, you
+- [00:53:26,616 - 00:53:26,866] know, that I think are interesting.
+- [00:53:26,866 - 00:53:27,116] And there's things that, you
+- [00:53:27,116 - 00:53:27,366] know, that I think are interesting.
+- [00:53:27,366 - 00:53:28,316] I'm like, I'm not interested in
+- [00:53:28,316 - 00:53:29,266] what you're doing with that, you know?
+- [00:53:29,266 - 00:53:32,366] So, you know, but at the same time,
+- [00:53:32,366 - 00:53:34,626] you're like, oh, this is a very accomplished writer.
+- [00:53:34,626 - 00:53:37,666] So you're willing to go along for the ride,
+- [00:53:37,666 - 00:53:39,796] and you try to see and
+- [00:53:39,796 - 00:53:41,926] understand what he or she is doing,
+- [00:53:41,926 - 00:53:43,246] you know, from their perspective,
+- [00:53:43,246 - 00:53:45,426] or what they're trying to achieve artistically.
+- [00:53:45,426 - 00:53:47,386] And some people can be quite uneven.
+- [00:53:47,386 - 00:53:51,086] You know, the writers have different approaches to things.
+- [00:53:51,086 - 00:53:53,286] If you look at Don DeLillo,
+- [00:53:53,286 - 00:53:55,486] you know, he's an amazing writer,
+- [00:53:55,486 - 00:53:55,746] you know, and one of the
+- [00:53:55,746 - 00:53:56,006] greatest writers in the world, you know,
+- [00:53:56,006 - 00:53:56,256] and one of the greatest
+- [00:53:56,256 - 00:53:56,506] writers in the world, you know,
+- [00:53:56,506 - 00:53:58,305] one of the great living American writers.
+- [00:53:58,305 - 00:54:00,425] And he is, you know,
+- [00:54:00,425 - 00:54:02,546] he's, you know, he's, you know,
+- [00:54:02,546 - 00:54:05,105] he is near the end of his life.
+- [00:54:05,105 - 00:54:06,945] I don't mean that as a criticism.
+- [00:54:06,945 - 00:54:07,945] I hate to say that about him.
+- [00:54:07,945 - 00:54:09,985] I mean, he's old, right?
+- [00:54:09,985 - 00:54:13,826] But if you looked at his career,
+- [00:54:13,826 - 00:54:17,346] his first three novels were published in three years.
+- [00:54:17,346 - 00:54:19,746] And they're super uneven.
+- [00:54:19,746 - 00:54:22,985] And they're totally unsatisfying in how they end, you know?
+- [00:54:22,985 - 00:54:24,315] And you get this sense that
+- [00:54:24,315 - 00:54:25,645] he's just moving through them really
+- [00:54:25,646 - 00:54:29,706] quickly as he's exploring things that he's doing, you know,
+- [00:54:29,706 - 00:54:31,106] and figuring out what is going to
+- [00:54:31,106 - 00:54:32,506] be the landscape that he operates in
+- [00:54:32,506 - 00:54:34,436] and how is he going to use language
+- [00:54:34,436 - 00:54:36,366] and what are the themes that intrigue him.
+- [00:54:36,366 - 00:54:37,386] And you work your way
+- [00:54:37,386 - 00:54:38,406] towards White Noise and you're like,
+- [00:54:38,406 - 00:54:40,646] oh, that's a masterpiece, you know,
+- [00:54:40,646 - 00:54:42,886] and Underworld even better, you know.
+- [00:54:42,886 - 00:54:43,956] You know, Philip Roth was a
+- [00:54:43,956 - 00:54:45,026] little bit like that for us.
+- [00:54:45,026 - 00:54:48,206] You know, we read Roth's work and his
+- [00:54:48,206 - 00:54:51,386] work just gets stronger and stronger over time.
+- [00:54:51,386 - 00:54:52,776] You have novels who go
+- [00:54:52,776 - 00:54:54,166] in the opposite direction, you know.
+- [00:54:54,166 - 00:54:55,646] I've mentioned a bunch of guys.
+- [00:54:55,646 - 00:54:57,146] I mean, we read women too.
+- [00:54:57,146 - 00:54:58,786] But like Hemingway, I mean, some
+- [00:54:58,786 - 00:55:00,426] of his late work is unreadable.
+- [00:55:00,426 - 00:55:01,326] It's just terrible.
+- [00:55:01,326 - 00:55:03,026] It's amazing he wrote it.
+- [00:55:03,026 - 00:55:05,246] Whereas some of his greatest works,
+- [00:55:05,246 - 00:55:07,466] he's not 30 years old, right?
+- [00:55:07,466 - 00:55:08,846] And so you can have that.
+- [00:55:08,846 - 00:55:09,956] But you can have Roth
+- [00:55:09,956 - 00:55:11,066] where he's, you know, moving along,
+- [00:55:11,066 - 00:55:13,326] writing great books and very highly regarded.
+- [00:55:13,326 - 00:55:15,206] And then suddenly late in life,
+- [00:55:15,206 - 00:55:17,086] he's writing this series of longer,
+- [00:55:17,086 - 00:55:19,686] increasingly long and complex works, you know,
+- [00:55:19,686 - 00:55:22,286] like American Pastoral and things like that.
+- [00:55:22,286 - 00:55:23,026] So within that oeuvre, you know, you're going to have a
+- [00:55:23,026 - 00:55:23,766] lot of things that you're going to be able to do.
+- [00:55:23,766 - 00:55:24,316] And you're going to have a lot of
+- [00:55:24,316 - 00:55:24,866] things that you're going to be able to do.
+- [00:55:24,866 - 00:55:24,926] And you're going to have a lot of
+- [00:55:24,926 - 00:55:24,986] things that you're going to be able to do.
+- [00:55:24,986 - 00:55:26,826] And within that oeuvre, you may
+- [00:55:26,826 - 00:55:28,666] say, you know, this was uneven.
+- [00:55:28,666 - 00:55:29,746] This I didn't like at all.
+- [00:55:29,746 - 00:55:32,026] But oh my god, over the corpus,
+- [00:55:32,026 - 00:55:34,306] this incredible body of work is being developed.
+- [00:55:34,306 - 00:55:36,386] And then there's a couple of
+- [00:55:36,386 - 00:55:38,466] real masterpieces embedded in here, you know.
+- [00:55:38,466 - 00:55:41,446] And he or she has evolved over that time frame.
+- [00:55:41,446 - 00:55:44,606] How often are you looking at specific sentences?
+- [00:55:44,606 - 00:55:46,866] Like I've seen you talk about Calvino's first sentence.
+- [00:55:46,866 - 00:55:50,126] You are about to begin reading Italo Calvino's new novel.
+- [00:55:50,126 - 00:55:51,326] Like hilarious.
+- [00:55:51,326 - 00:55:52,226] It's hilarious.
+- [00:55:52,226 - 00:55:54,306] It's the greatest first sentence of all time.
+- [00:55:54,306 - 00:55:54,986] It's so self-indulgent.
+- [00:55:54,986 - 00:55:55,486] It's hilarious.
+- [00:55:55,486 - 00:55:57,576] So like when you read something
+- [00:55:57,576 - 00:55:59,666] like that, what pops into your brain?
+- [00:55:59,666 - 00:56:00,866] Yeah, no, we, I mean,
+- [00:56:00,866 - 00:56:02,066] our group will definitely do that.
+- [00:56:02,066 - 00:56:04,586] I mean, we'll talk about themes and
+- [00:56:04,586 - 00:56:07,106] the characters and the bigger things more often.
+- [00:56:07,106 - 00:56:09,106] But we will interrupt.
+- [00:56:09,106 - 00:56:12,256] So someone will say, wait a second, I just want to, you
+- [00:56:12,256 - 00:56:15,406] know, when we're talking about how well the art, the writer writes.
+- [00:56:15,406 - 00:56:16,986] You know, somebody will say it.
+- [00:56:16,986 - 00:56:20,176] And you will all turn to that page and we'll read through the
+- [00:56:20,176 - 00:56:23,366] paragraph or whatever and admire the way that something is constructed, you know.
+- [00:56:23,366 - 00:56:24,986] And I remember in the case of Verdi.
+- [00:56:24,986 - 00:56:29,486] In the case of Roth in particular, there's sections where, and I can't remember which book,
+- [00:56:29,486 - 00:56:33,986] but as an example where in a paragraph it will begin from the perspective of one character.
+- [00:56:33,986 - 00:56:35,986] And then kind of shift into an omniscient version.
+- [00:56:35,986 - 00:56:38,486] And then it will shift into the mindset of the other
+- [00:56:38,486 - 00:56:40,986] character who, you know, you kind of turn around like this.
+- [00:56:40,986 - 00:56:45,986] And without it ever breaking and without there being a disruption, it's just
+- [00:56:45,986 - 00:56:50,986] this very fluid thing which is very unusual, you know, and very skillful.
+- [00:56:50,986 - 00:56:52,986] And you're like, oh, that's nice.
+- [00:56:52,986 - 00:56:53,986] You know.
+- [00:56:53,986 - 00:56:54,986] And so you'll stop.
+- [00:56:54,986 - 00:56:56,986] And sort of dwell over how that was achieved.
+- [00:56:56,986 - 00:57:04,486] And then again, you sort of pack that away and say, yeah, that's an interesting thing to, you know, to draw out at some point
+- [00:57:04,486 - 00:57:11,986] is to think about a shift in don't be married to the, why does it have to be, you know, omniscient third all the way through?
+- [00:57:11,986 - 00:57:12,986] What if all of a
+- [00:57:12,986 - 00:57:13,986] sudden it's from this other perspective?
+- [00:57:13,986 - 00:57:16,986] Or if most of it's from her perspective, why can't I suddenly have
+- [00:57:16,986 - 00:57:19,986] it shift in this scene where we hear it from his perspective, you know?
+- [00:57:19,986 - 00:57:21,486] You got to be careful you do that
+- [00:57:21,486 - 00:57:22,986] because it could be jarring for the reader.
+- [00:57:22,986 - 00:57:23,986] And the reader may be like, what?
+- [00:57:23,986 - 00:57:24,986] You know.
+- [00:57:24,986 - 00:57:26,986] But if you pull it off, it's a great,
+- [00:57:26,986 - 00:57:28,986] you know, as a great element to the storytelling.
+- [00:57:28,986 - 00:57:29,986] Yeah.
+- [00:57:29,986 - 00:57:32,986] How, what's your relationship now with poetry?
+- [00:57:32,986 - 00:57:36,986] You're talking about learning poetry when you were younger.
+- [00:57:36,986 - 00:57:39,986] And what, how does that factor into your work?
+- [00:57:39,986 - 00:57:41,986] Because there is a poetic element for sure.
+- [00:57:41,986 - 00:57:42,986] But you haven't spoken about it yet.
+- [00:57:42,986 - 00:57:45,486] You know, and I'm not, I am not, I
+- [00:57:45,486 - 00:57:47,986] am a reader of poetry, but not a great one.
+- [00:57:47,986 - 00:57:48,986] And I have, you know, I've read
+- [00:57:48,986 - 00:57:49,986] poetry over the course of my life.
+- [00:57:49,986 - 00:57:50,986] I love Whitman.
+- [00:57:50,986 - 00:57:51,986] I love Dickinson.
+- [00:57:51,986 - 00:57:55,986] I love T.S. Eliot.
+- [00:57:55,986 - 00:57:56,986] You know, there's a variety
+- [00:57:56,986 - 00:57:57,986] of poets that I've loved reading.
+- [00:57:57,986 - 00:58:02,986] And you do learn a very different thing from them than you learn from reading
+- [00:58:02,986 - 00:58:07,986] Joseph Conrad or, you know, or Henry James or Edith Wharton or, you know, Toni Morrison.
+- [00:58:07,986 - 00:58:10,486] But within the scope of narrative, there
+- [00:58:10,486 - 00:58:12,986] are writers who tilt to the poetic.
+- [00:58:12,986 - 00:58:16,486] So Toni Morrison actually is an example where some
+- [00:58:16,486 - 00:58:19,986] of her work, the sentences are pushing towards poetry.
+- [00:58:19,986 - 00:58:23,486] And so you're, you don't have to necessarily read
+- [00:58:23,486 - 00:58:26,986] poetry in order to master the, you know, poetic sensibility.
+- [00:58:26,986 - 00:58:28,486] You know, you can find that
+- [00:58:28,486 - 00:58:29,986] in the way that certain novelists write.
+- [00:58:29,986 - 00:58:33,986] And there is, you know, where prose ends and
+- [00:58:33,986 - 00:58:37,986] poetry begins is a very mysterious thing, you know.
+- [00:58:37,986 - 00:58:42,986] And it's also something that you, that I think for me in writing narrative,
+- [00:58:42,986 - 00:58:47,986] you have to kind of dial it in and dial it out, you know.
+- [00:58:47,986 - 00:58:49,986] If you wrote in a pure narrative, you know.
+- [00:58:49,986 - 00:58:54,986] If you wrote in a purely poetic style from beginning to end in the
+- [00:58:54,986 - 00:58:59,986] narrative, it could be very difficult for most readers to get into the material.
+- [00:58:59,986 - 00:59:02,486] Because poetry can be very demanding in terms
+- [00:59:02,486 - 00:59:04,986] of, it can mean four things at once.
+- [00:59:04,986 - 00:59:05,986] And you're kind of like
+- [00:59:05,986 - 00:59:06,986] saying, wait, where is this happening?
+- [00:59:06,986 - 00:59:08,986] And what, is it her?
+- [00:59:08,986 - 00:59:09,986] Is it him?
+- [00:59:09,986 - 00:59:10,986] And is he angry or sad?
+- [00:59:10,986 - 00:59:11,986] Or, you know, you can't
+- [00:59:11,986 - 00:59:12,986] quite tell with poetry, you know.
+- [00:59:12,986 - 00:59:13,986] And that's part of it.
+- [00:59:13,986 - 00:59:14,986] You start to break it down.
+- [00:59:14,986 - 00:59:16,986] Well, if you had that feeling over a long period
+- [00:59:16,986 - 00:59:18,986] in the course of a novel, you would eventually get it.
+- [00:59:18,986 - 00:59:20,986] You would eventually be like, enough.
+- [00:59:20,986 - 00:59:24,986] You know, you, a novel, kind of the deal with a novel is that
+- [00:59:24,986 - 00:59:28,986] there is this invitation to let you get settled so you know where you are.
+- [00:59:28,986 - 00:59:34,486] And then there's the, try not to fool you, but to lure you in to say, okay, now things are going
+- [00:59:34,486 - 00:59:39,986] to get a little bit more out of control or a little bit more poetic or a little bit more dreamlike.
+- [00:59:39,986 - 00:59:41,986] But stick with me, you know.
+- [00:59:41,986 - 00:59:44,986] Because I think when you come out the other side of this passage, you're going to
+- [00:59:44,986 - 00:59:47,986] be like, yeah, that was worth it, even though I don't fully know yet what it means.
+- [00:59:47,986 - 00:59:51,986] But the more I read, I can go back and reflect on that and
+- [00:59:51,986 - 00:59:55,986] say, oh, yeah, you know, that feels, it's in harmony with these other events.
+- [00:59:55,986 - 00:59:56,986] You know what I mean?
+- [00:59:56,986 - 01:00:02,986] So there's this sort of, between the prose and the poetic, you have to, I think, sort of
+- [01:00:02,986 - 01:00:08,986] create a balance and know when to shift and shift back in order to not drive your reader nuts.
+- [01:00:08,986 - 01:00:09,986] Yeah.
+- [01:00:09,986 - 01:00:11,986] And then let's go into something a little
+- [01:00:11,986 - 01:00:13,986] bit more concrete now and talk about manifestos.
+- [01:00:13,986 - 01:00:14,986] I know you like manifestos.
+- [01:00:14,986 - 01:00:15,986] You've read manifestos.
+- [01:00:15,986 - 01:00:16,986] I love the futurist manifestos.
+- [01:00:16,986 - 01:00:17,986] Yeah.
+- [01:00:17,986 - 01:00:18,986] I love the manifesto.
+- [01:00:18,986 - 01:00:20,986] I love the energy and almost
+- [01:00:20,986 - 01:00:22,986] the sheer braggadocious arrogance of a manifesto.
+- [01:00:22,986 - 01:00:23,986] It's like, this is the way it is.
+- [01:00:23,986 - 01:00:24,986] This is how it needs to be.
+- [01:00:24,986 - 01:00:25,986] There's an energy.
+- [01:00:25,986 - 01:00:27,986] Even I can feel it in the way I'm speaking.
+- [01:00:27,986 - 01:00:29,985] It's like this bodily lion-esque roar
+- [01:00:29,985 - 01:00:31,985] that is inside of a manifesto.
+- [01:00:31,985 - 01:00:33,985] What sorts of manifestos have you read?
+- [01:00:33,985 - 01:00:35,485] Well, I mean, I've read, you know,
+- [01:00:35,485 - 01:00:36,985] I kind of collect them in a way.
+- [01:00:36,985 - 01:00:39,985] And so I, but I would not, my description of
+- [01:00:39,985 - 01:00:42,986] them would not be different than the one you just gave.
+- [01:00:42,986 - 01:00:44,486] So I do not need to
+- [01:00:44,486 - 01:00:45,986] elaborate much on what you just said.
+- [01:00:45,986 - 01:00:46,986] And my.
+- [01:00:46,986 - 01:00:50,986] My love of manifestos began, not surprisingly, as a
+- [01:00:50,986 - 01:00:54,986] college student, because manifestos are written for college students.
+- [01:00:54,986 - 01:01:00,986] I mean, for 19 year olds, you know, and that's and that's why revolutions are populated with 19 year olds, you
+- [01:01:00,986 - 01:01:06,986] know, and they also also historically countries where there's a large population of 19 year olds are at risk of revolution.
+- [01:01:06,986 - 01:01:07,986] Yeah.
+- [01:01:07,986 - 01:01:08,986] Because you know nothing.
+- [01:01:08,986 - 01:01:09,986] And then all of a sudden somebody
+- [01:01:09,986 - 01:01:10,986] comes in with some super strong opinion.
+- [01:01:10,986 - 01:01:12,986] And now you're like, I know everything.
+- [01:01:12,986 - 01:01:13,986] This is the way.
+- [01:01:13,986 - 01:01:14,986] It turns on every light.
+- [01:01:14,986 - 01:01:15,986] It stimulates every electrical nerve.
+- [01:01:15,986 - 01:01:16,986] And it's like.
+- [01:01:16,986 - 01:01:17,986] And so.
+- [01:01:17,986 - 01:01:18,986] But.
+- [01:01:18,986 - 01:01:23,986] But artistically, I think what was interesting to me about is reading those first manifestos as a
+- [01:01:23,986 - 01:01:28,986] younger person was, you know, the surrealist manifesto of Breton or or the Communist manifesto is amazing.
+- [01:01:28,986 - 01:01:32,986] Is it's as you say, it's this assurance.
+- [01:01:32,986 - 01:01:34,986] It's the idea of taking
+- [01:01:34,986 - 01:01:36,986] language and tying it towards action.
+- [01:01:36,986 - 01:01:37,986] You know that this is not much.
+- [01:01:37,986 - 01:01:38,986] I just describe something for you.
+- [01:01:38,986 - 01:01:40,986] This isn't a parlor game.
+- [01:01:40,986 - 01:01:42,486] I'm not trying to satisfy you with
+- [01:01:42,486 - 01:01:43,986] some story of a woman having tea.
+- [01:01:43,986 - 01:01:45,986] You know, this is about the world right now.
+- [01:01:45,986 - 01:01:47,486] And you know, and and the way you look at
+- [01:01:47,486 - 01:01:48,986] things and it's wrong, you know, and this is right.
+- [01:01:48,986 - 01:01:50,486] And, you know, and you know, and
+- [01:01:50,486 - 01:01:51,986] you need to look at it that way.
+- [01:01:51,986 - 01:01:53,986] So as you say, this is great sort of urgency.
+- [01:01:53,986 - 01:02:01,986] So the lesson, though, to me is, is you is as a writer is, wow, that's a really interesting energy
+- [01:02:01,986 - 01:02:09,986] to introduce into language, you know, and and the way in which that self-assurance can translate into energy is very interesting.
+- [01:02:09,986 - 01:02:11,986] And you actually could use that in a domestic novel
+- [01:02:11,986 - 01:02:13,986] in different ways at different moments in time to your interest.
+- [01:02:13,986 - 01:02:21,486] You know, but it's it's again, instead of that going back to the way where it began, which
+- [01:02:21,486 - 01:02:28,986] is that you're constantly kind of gathering as a writer, I think different languages that you could use later.
+- [01:02:28,986 - 01:02:31,986] And we talked about technical languages and
+- [01:02:31,986 - 01:02:34,986] and and, you know, lingos and and slangs.
+- [01:02:34,986 - 01:02:38,486] Well, the manifesto is a type of language, you know, and if you look at
+- [01:02:38,486 - 01:02:41,986] all the great artistic manifestos and the political ones, they all have a different language.
+- [01:02:41,986 - 01:02:42,986] They all have a different language.
+- [01:02:42,986 - 01:02:43,986] They all have a different language.
+- [01:02:43,986 - 01:02:45,986] And they overlap a lot in terms of style.
+- [01:02:45,986 - 01:02:49,986] You know, they're learning from each other and they they so anyway, it's its own
+- [01:02:49,986 - 01:02:53,986] form of what's tactically going on to get that bump, bump, bump, bump, bump, almost that.
+- [01:02:53,986 - 01:02:57,486] How does the writing lead to that crescendo where it comes
+- [01:02:57,486 - 01:03:00,986] in at the end goes like what is actually happening technically?
+- [01:03:00,986 - 01:03:02,486] Well, you have to go scan,
+- [01:03:02,486 - 01:03:03,986] you have to go scan each one.
+- [01:03:03,986 - 01:03:04,986] But you're right. It's very staccato.
+- [01:03:04,986 - 01:03:05,986] Yeah, no, it is.
+- [01:03:05,986 - 01:03:08,986] It's it's it doesn't slow itself down.
+- [01:03:08,986 - 01:03:11,986] It doesn't bog itself down on examples.
+- [01:03:11,986 - 01:03:13,986] It's pushing forward at all times.
+- [01:03:13,986 - 01:03:14,986] The next idea and the
+- [01:03:14,986 - 01:03:15,986] next idea and the next idea.
+- [01:03:15,986 - 01:03:19,986] And it doesn't over elaborate, you know, so there's like seven
+- [01:03:19,986 - 01:03:23,986] declarations, you know, in 14 sentences, whatever that kind of thing.
+- [01:03:23,986 - 01:03:26,486] But but yeah, I know I'm very
+- [01:03:26,486 - 01:03:28,986] fond of that whole category of language.
+- [01:03:28,986 - 01:03:30,486] You have this I think it's
+- [01:03:30,486 - 01:03:31,986] your second most popular tweet ever.
+- [01:03:31,986 - 01:03:32,986] You know what it is?
+- [01:03:32,986 - 01:03:33,986] No, I am.
+- [01:03:33,986 - 01:03:34,986] I am not.
+- [01:03:34,986 - 01:03:36,486] I am not much of a tweeter
+- [01:03:36,486 - 01:03:37,986] and I don't have much of a following.
+- [01:03:37,986 - 01:03:38,986] But go ahead.
+- [01:03:38,986 - 01:03:41,986] You you you show this art nouveau door.
+- [01:03:41,986 - 01:03:42,986] Oh, you're like, I want to write.
+- [01:03:42,986 - 01:03:44,986] That I forget exactly what you said.
+- [01:03:44,986 - 01:03:46,986] It's like you show a door, an art nouveau door.
+- [01:03:46,986 - 01:03:48,986] You're like, I want to put that on paper.
+- [01:03:48,986 - 01:03:49,986] Yeah.
+- [01:03:49,986 - 01:03:51,986] And I have no idea what you mean.
+- [01:03:51,986 - 01:03:53,486] And I also know exactly what
+- [01:03:53,486 - 01:03:54,986] you mean at the same time.
+- [01:03:54,986 - 01:03:55,986] Yeah, I know what you mean.
+- [01:03:55,986 - 01:03:56,986] Yeah.
+- [01:03:56,986 - 01:04:03,986] You know, I think that that the part of the life of a writer is you're constantly listening or looking
+- [01:04:03,986 - 01:04:10,986] or and your mind is is moving on from what you're looking at and what you're hearing to what you're hearing.
+- [01:04:10,986 - 01:04:11,986] Yeah.
+- [01:04:11,986 - 01:04:12,986] And I think that's what
+- [01:04:12,986 - 01:04:13,986] I think you're trying to do.
+- [01:04:13,986 - 01:04:17,986] You're trying to to imagine something beyond it, you know.
+- [01:04:17,986 - 01:04:20,486] So, I mean, I was seeing a
+- [01:04:20,486 - 01:04:22,986] little bit of a tongue in cheek there.
+- [01:04:22,986 - 01:04:26,986] The the this is this art
+- [01:04:26,986 - 01:04:30,986] nouveau door, incredible intricacy, super elaborate.
+- [01:04:30,986 - 01:04:33,986] And so you just imagine, I don't know what's behind
+- [01:04:33,986 - 01:04:36,986] that door, whatever world is going on behind that door.
+- [01:04:36,986 - 01:04:38,986] You know, it's enticing, whatever it is.
+- [01:04:38,986 - 01:04:39,986] Right.
+- [01:04:39,986 - 01:04:40,986] But.
+- [01:04:40,986 - 01:04:44,486] You know, you go to a restaurant and you see two people talking and they
+- [01:04:44,486 - 01:04:47,986] look very different from each other and, you know, they're not it's not a business meeting.
+- [01:04:47,986 - 01:04:48,986] And, you know, and you're like, oh, that's interesting.
+- [01:04:48,986 - 01:04:50,986] You know, what's going on there?
+- [01:04:50,986 - 01:04:54,986] You know, the petite woman of 20 and that
+- [01:04:54,986 - 01:04:58,986] 60 year old 300 pound guy in a suit.
+- [01:04:58,986 - 01:04:59,986] Like, what is that?
+- [01:04:59,986 - 01:05:01,986] You know, is that her uncle?
+- [01:05:01,986 - 01:05:03,986] Is that, you know, is that she an intern?
+- [01:05:03,986 - 01:05:06,486] Is, you know, you know, what is is, you know, what
+- [01:05:06,486 - 01:05:08,986] what is that, you know, is going on in that situation?
+- [01:05:08,986 - 01:05:09,986] But but whatever it is like your conversation.
+- [01:05:09,986 - 01:05:11,486] You know, whatever it is like
+- [01:05:11,486 - 01:05:12,986] you're constantly looking at these little things.
+- [01:05:12,986 - 01:05:16,486] You know, I have a collection of short stories which is
+- [01:05:16,486 - 01:05:19,986] coming out in April called Table for Two and a number.
+- [01:05:19,986 - 01:05:21,986] And there's a novella in that collection as well.
+- [01:05:21,986 - 01:05:24,986] But there's six New York stories in there.
+- [01:05:24,986 - 01:05:30,986] And I think almost all of them, maybe five out of six, begin began in real life with
+- [01:05:30,986 - 01:05:36,986] seeing a very small thing and being like, oh, well, you know, I wonder what that's all about.
+- [01:05:36,986 - 01:05:37,986] Or what if you know what if this,
+- [01:05:37,986 - 01:05:38,986] you know, a lot about what if into that.
+- [01:05:38,986 - 01:05:40,486] And a good example is there's a
+- [01:05:40,486 - 01:05:41,986] there's a story there called The Bootlegger.
+- [01:05:41,986 - 01:05:47,986] And it's a guy, a young professional and his wife, you know, in their 30s, sort
+- [01:05:47,986 - 01:05:53,986] of yuppies, end up at Carnegie Hall, very excited their first time they subscribe to Carnegie Hall.
+- [01:05:53,986 - 01:05:55,486] And he's the husband is
+- [01:05:55,486 - 01:05:56,986] a little bit full of himself.
+- [01:05:56,986 - 01:06:00,486] And they sit down and he realizes that the old guy in a
+- [01:06:00,486 - 01:06:03,986] trench coat sitting in the seat next to him is recording the concert.
+- [01:06:03,986 - 01:06:06,986] And it starts to drive him crazy.
+- [01:06:06,986 - 01:06:07,986] And in the way Carnegie Hall works
+- [01:06:07,986 - 01:06:08,986] is that he's sitting in a trench coat.
+- [01:06:08,986 - 01:06:11,986] And if you subscribe to a series, it means that you have the
+- [01:06:11,986 - 01:06:14,986] same seats every time you go to see a particular type of performance.
+- [01:06:14,986 - 01:06:17,986] And whoever sitting next to you is the same person.
+- [01:06:17,986 - 01:06:21,486] So he knows that if he comes back, it's going to
+- [01:06:21,486 - 01:06:24,986] be any he comes back and it's the same guy recording again.
+- [01:06:24,986 - 01:06:28,986] And it totally spoils the concert for him.
+- [01:06:28,986 - 01:06:30,986] And eventually he does something about it.
+- [01:06:30,986 - 01:06:33,986] OK, so and and goes and speaks to security
+- [01:06:33,986 - 01:06:36,986] and all kinds of shit goes, you know, goes wrong.
+- [01:06:36,986 - 01:06:37,986] And both between.
+- [01:06:37,986 - 01:06:40,986] The old guy, the Carnegie Hall, him,
+- [01:06:40,986 - 01:06:43,986] his relationship to his wife, his own feelings.
+- [01:06:43,986 - 01:06:46,986] It all kind of gets, you know, out of me.
+- [01:06:46,986 - 01:06:50,986] Mushrooms out of control is that happened to me.
+- [01:06:50,986 - 01:06:52,986] I mean, I was with my wife in Carnegie Hall.
+- [01:06:52,986 - 01:06:56,486] The guy sitting next to me had the you know, was
+- [01:06:56,486 - 01:06:59,986] was recording the concert and it spoiled the concert for me.
+- [01:06:59,986 - 01:07:01,486] And like all that is in like
+- [01:07:01,486 - 01:07:02,986] the first page of the story, in essence.
+- [01:07:02,986 - 01:07:05,986] But then everything else is what I didn't do.
+- [01:07:05,986 - 01:07:06,986] You know, but but, you know, I just.
+- [01:07:06,986 - 01:07:14,986] I just remember being there in Carnegie Hall fantasizing, you know, as the as the concert was being ruined by my,
+- [01:07:14,986 - 01:07:22,986] you know, awareness of this guy, you know, breaking the law in Carnegie Hall of recording and acting like nothing's happening.
+- [01:07:22,986 - 01:07:26,486] You know, is that it is that I without listening to the
+- [01:07:26,486 - 01:07:29,986] music that I was paying there, hear the music I was fantasizing about.
+- [01:07:29,986 - 01:07:31,486] I'm going to go and tell security and
+- [01:07:31,486 - 01:07:32,986] then this would happen and this would happen.
+- [01:07:32,986 - 01:07:33,986] Right. This would happen, you know.
+- [01:07:33,986 - 01:07:34,986] So so, you know, you have these things.
+- [01:07:34,986 - 01:07:35,986] So it goes back to this.
+- [01:07:35,986 - 01:07:40,486] So it goes back to this, as I say, that the door in a way was sort of a
+- [01:07:40,486 - 01:07:44,986] cheeky metaphorical version of the same sort of thing, which is that you take this little moment that you witness.
+- [01:07:44,986 - 01:07:47,486] You did something you've happened or it's an idea that
+- [01:07:47,486 - 01:07:49,986] comes to you like the guy trapped in a hotel.
+- [01:07:49,986 - 01:07:51,986] And then you kind of go through that door
+- [01:07:51,986 - 01:07:53,986] and you start to imagine what if this happened?
+- [01:07:53,986 - 01:07:54,986] What if this? How about that?
+- [01:07:54,986 - 01:07:59,486] How about that? And, you know, in my own work, I've often thought
+- [01:07:59,486 - 01:08:03,986] about it as particularly for the bigger projects is that I call it.
+- [01:08:03,986 - 01:08:04,986] And I was.
+- [01:08:04,986 - 01:08:06,986] I guess it's not a coincidence.
+- [01:08:06,986 - 01:08:11,986] I call it the opening of doors, which is that if I have an idea for
+- [01:08:11,986 - 01:08:16,986] a story, the way it almost happens as I begin to imagine what the story might be.
+- [01:08:16,986 - 01:08:22,486] It's as if you walked into a mansion or whatever, an elaborate hotel or whatever, a mansion
+- [01:08:22,486 - 01:08:27,986] could be abandoned or it could be, you know, fully ring and all the doors start opening up.
+- [01:08:27,986 - 01:08:29,486] You know where you're like, oh, yeah, there's a
+- [01:08:29,486 - 01:08:30,986] room for that room for this room for that room.
+- [01:08:30,986 - 01:08:33,986] But that's the feeling of when a new idea.
+- [01:08:33,986 - 01:08:36,486] I can tell it's got promise is because
+- [01:08:36,486 - 01:08:38,986] when I'm like, OK, what happens in this story?
+- [01:08:38,986 - 01:08:40,986] And I'm like, oh, this could happen.
+- [01:08:40,986 - 01:08:41,986] This could happen. This could happen.
+- [01:08:41,986 - 01:08:42,986] This could happen. This could happen.
+- [01:08:42,986 - 01:08:44,986] This could happen. And we're not even finishing
+- [01:08:44,986 - 01:08:46,986] what each any one of those individual ideas are.
+- [01:08:46,986 - 01:08:48,986] They're happy. It's they're
+- [01:08:48,986 - 01:08:50,986] they're firing like synapses unfolding.
+- [01:08:50,986 - 01:08:52,986] It's unfolding. And then you're like, you take a step back and
+- [01:08:52,986 - 01:08:54,986] you say, I don't have to write down any of that necessarily.
+- [01:08:54,986 - 01:08:56,986] It's more what I now know is
+- [01:08:56,986 - 01:08:58,986] that this thing, this thing could be big.
+- [01:08:58,986 - 01:09:00,986] Like it can go in many different directions.
+- [01:09:00,986 - 01:09:02,986] It can incorporate many realities.
+- [01:09:02,986 - 01:09:03,986] You can have many different.
+- [01:09:03,986 - 01:09:05,986] It can have many layers to it.
+- [01:09:05,986 - 01:09:07,986] It can have many kind of individuals and events.
+- [01:09:07,986 - 01:09:11,986] You know, I can feel the richness, you know, through this, as I say, the
+- [01:09:11,986 - 01:09:15,986] feel of the physical feeling of all the doors in the building opening up at once.
+- [01:09:15,986 - 01:09:16,986] You know, how we with this.
+- [01:09:16,986 - 01:09:18,986] What is that hotel on the Upper East Side?
+- [01:09:18,986 - 01:09:20,986] It's I think it's called the Madeline room.
+- [01:09:20,986 - 01:09:22,986] There's the jazz club and it's the hand paint.
+- [01:09:22,986 - 01:09:24,986] It's like French in the Carlisle.
+- [01:09:24,986 - 01:09:25,986] Yes, exactly. The Carlisle Hotel.
+- [01:09:25,986 - 01:09:27,986] So so.
+- [01:09:27,986 - 01:09:28,986] Oh, yeah.
+- [01:09:28,986 - 01:09:30,986] Because it's Madeline is the character.
+- [01:09:30,986 - 01:09:32,986] It's Bemelmans is the bar.
+- [01:09:32,986 - 01:09:33,986] Yes. And Bemelman is the.
+- [01:09:33,986 - 01:09:35,486] Is the artist who did the mural
+- [01:09:35,486 - 01:09:36,986] and who did the children's book Madeline.
+- [01:09:36,986 - 01:09:37,986] There we go.
+- [01:09:37,986 - 01:09:38,986] Thank you.
+- [01:09:38,986 - 01:09:39,986] So a few comments.
+- [01:09:39,986 - 01:09:41,486] So the first thing is
+- [01:09:41,486 - 01:09:42,986] it's interesting when I write nonfiction.
+- [01:09:42,986 - 01:09:44,986] This is that core moment
+- [01:09:44,986 - 01:09:46,986] for so many of my students.
+- [01:09:46,986 - 01:09:51,486] It's when they find not the door, but the core thing that they're saying,
+- [01:09:51,486 - 01:09:55,986] the one line or the one paragraph that then they can orbit everything around.
+- [01:09:55,986 - 01:09:58,486] Once they get that clarity, I
+- [01:09:58,486 - 01:10:00,986] just see an explosion in momentum.
+- [01:10:00,986 - 01:10:02,986] I remember being on a date.
+- [01:10:02,986 - 01:10:06,486] On a date at the Carlisle Hotel and they have the they
+- [01:10:06,486 - 01:10:09,986] have the jazz in there and it's sort of going and bumping.
+- [01:10:09,986 - 01:10:12,986] The drinks are so expensive like I've never seen.
+- [01:10:12,986 - 01:10:14,986] But you were talking about that guy at
+- [01:10:14,986 - 01:10:16,986] Carnegie Hall and I had a very similar moment.
+- [01:10:16,986 - 01:10:18,986] Like if I wrote a short story,
+- [01:10:18,986 - 01:10:20,986] this is the story I would tell.
+- [01:10:20,986 - 01:10:23,986] There was one of the most beautiful women I've
+- [01:10:23,986 - 01:10:26,986] ever seen in my life sitting at the bar.
+- [01:10:26,986 - 01:10:29,986] And she was in this like tight black skirt.
+- [01:10:29,986 - 01:10:31,986] And I was like, what is going on here?
+- [01:10:31,986 - 01:10:34,986] And one of the guys sitting next to
+- [01:10:34,986 - 01:10:37,986] me goes, hey, I think that's just a prostitute.
+- [01:10:37,986 - 01:10:40,986] And I was just like, that's a prostitute?
+- [01:10:40,986 - 01:10:42,986] Like what is going on here?
+- [01:10:42,986 - 01:10:50,986] And my whole sense and sensibility of like what New York was, what was possible in the city, like the levels of
+- [01:10:50,986 - 01:10:58,986] society of being in this room and literally entering a world that I not only had never been in, but didn't know existed.
+- [01:10:58,986 - 01:10:59,986] Yeah, right.
+- [01:10:59,986 - 01:11:00,986] That was one of those doors for me.
+- [01:11:00,986 - 01:11:01,986] Yeah, that's nice.
+- [01:11:01,986 - 01:11:02,986] Yeah.
+- [01:11:02,986 - 01:11:03,986] Who is this woman?
+- [01:11:03,986 - 01:11:04,986] What is this club?
+- [01:11:04,986 - 01:11:06,986] Why is it the hand painted walls?
+- [01:11:06,986 - 01:11:08,986] And that's the door for me.
+- [01:11:08,986 - 01:11:09,986] Yeah.
+- [01:11:09,986 - 01:11:10,986] That's very funny.
+- [01:11:10,986 - 01:11:12,986] You know, it's a funny thing, man.
+- [01:11:12,986 - 01:11:13,986] It's a funny thing.
+- [01:11:13,986 - 01:11:17,986] Let's finish off by just talking about New York.
+- [01:11:17,986 - 01:11:22,986] I think that this is for a sense of place.
+- [01:11:22,986 - 01:11:26,986] You have a line where you talk about New York of being this,
+- [01:11:26,986 - 01:11:30,986] just this city of passions, you know, of you go to many cities.
+- [01:11:30,986 - 01:11:32,986] And they're just LA, sort
+- [01:11:32,986 - 01:11:34,986] of known as an entertainment city.
+- [01:11:34,986 - 01:11:37,986] I live in Austin, Texas, sort of barbecue and technology.
+- [01:11:37,986 - 01:11:39,986] But New York is somehow a hub for everything.
+- [01:11:39,986 - 01:11:40,986] Yeah.
+- [01:11:40,986 - 01:11:42,486] And how does that influence your
+- [01:11:42,486 - 01:11:43,986] writing, show up in your writing?
+- [01:11:43,986 - 01:11:46,486] And your description of what
+- [01:11:46,486 - 01:11:48,986] I said is a good one.
+- [01:11:48,986 - 01:11:51,986] You know, I really began thinking about when I wrote Rules
+- [01:11:51,986 - 01:11:54,986] of Civility, which is set in New York in the 30s.
+- [01:11:54,986 - 01:11:57,486] And that's where in writing
+- [01:11:57,486 - 01:11:59,986] that and thinking about that book.
+- [01:11:59,986 - 01:12:02,986] And about the lives of these characters in the
+- [01:12:02,986 - 01:12:05,986] late 30s, this young woman and Katie in 1938.
+- [01:12:05,986 - 01:12:08,986] It really sort of struck me for the first time that
+- [01:12:08,986 - 01:12:11,986] New York is, we always talk about it as a melting pot.
+- [01:12:11,986 - 01:12:15,986] And what we mean by that is ethnically and as a religious
+- [01:12:15,986 - 01:12:19,986] melting pot, an ethnic melting pot, and a melting pot of nationalities.
+- [01:12:19,986 - 01:12:22,486] But in a way of equal influence in the history of
+- [01:12:22,486 - 01:12:24,986] the city is that it is this melting pot of the passions.
+- [01:12:24,986 - 01:12:26,486] And by which I mean that there are a number,
+- [01:12:26,486 - 01:12:27,986] a large number of people who are in New York.
+- [01:12:27,986 - 01:12:28,986] And they're all from New York.
+- [01:12:28,986 - 01:12:29,986] And they're all from New York.
+- [01:12:29,986 - 01:12:30,986] And they're all from New York.
+- [01:12:30,986 - 01:12:34,486] And there's a large number of professional pursuits where New York City
+- [01:12:34,486 - 01:12:37,986] is the, if not the capital, then one of its key capitals.
+- [01:12:37,986 - 01:12:46,486] And that would be in journalism, in cuisine, in dance, in obviously Broadway
+- [01:12:46,486 - 01:12:54,986] theater and plays and musicals, in architecture, in finance, in the law, in advertising.
+- [01:12:54,986 - 01:12:56,986] Well, New York City is the capital of if
+- [01:12:56,986 - 01:12:58,986] not the, as you say, one of the capital.
+- [01:12:58,986 - 01:13:01,506] as you say, one of the two or three, or
+- [01:13:01,506 - 01:13:04,026] the capital of all those pursuits. And so what that
+- [01:13:04,026 - 01:13:06,716] means is that when you have a place where that
+- [01:13:06,716 - 01:13:09,406] is the capital of an endeavor, it means that young
+- [01:13:09,406 - 01:13:12,846] people every year come to pursue their dream
+- [01:13:12,846 - 01:13:16,286] in that endeavor. The young dancers, the young theater
+- [01:13:16,286 - 01:13:18,476] performers, the young chefs, the young ad execs, the
+- [01:13:18,476 - 01:13:20,666] young people who want to make it on Wall Street,
+- [01:13:20,666 - 01:13:24,286] the young models, whatever, they come. And because
+- [01:13:24,286 - 01:13:27,906] each of those fields draws on a very different
+- [01:13:27,906 - 01:13:30,816] kind of person, it means that if you look out
+- [01:13:30,816 - 01:13:33,726] at sort of the 25 to 30-year-old culture in New York
+- [01:13:33,726 - 01:13:35,846] City, it's people from all these different
+- [01:13:35,846 - 01:13:37,966] walks of life pursuing all these different dreams
+- [01:13:37,966 - 01:13:40,656] simultaneously in the same place, you know, with the
+- [01:13:40,656 - 01:13:43,346] same sort of ultimate hopes. And I think that
+- [01:13:43,346 - 01:13:46,336] adds this incredibly strange texture and a
+- [01:13:46,336 - 01:13:49,326] very exciting texture to New York City. And
+- [01:13:49,326 - 01:13:52,276] so it makes it great fun. And, you know,
+- [01:13:52,276 - 01:13:55,226] Rules of Civility is very much about that. Actually,
+- [01:13:56,546 - 01:13:57,606] that is a case where
+- [01:13:57,606 - 01:14:02,056] we're in the St. Regis Hotel right now, and the
+- [01:14:02,056 - 01:14:06,506] King Cole Bar, which is the bar with the mural in
+- [01:14:06,506 - 01:14:10,496] this hotel, is a key scene in Rules of Civility,
+- [01:14:10,496 - 01:14:14,486] you know, because it has that vibe of what you're
+- [01:14:14,486 - 01:14:16,656] describing at the Carlisle, same kind of vibe in
+- [01:14:16,656 - 01:14:18,826] terms of people, young people there, and it's kind
+- [01:14:18,826 - 01:14:21,456] of tourists, but also, you know, rich locals and
+- [01:14:21,456 - 01:14:24,086] finance guys and all kind of being the model, all
+- [01:14:24,086 - 01:14:25,686] kind of piled in there. And you
+- [01:14:25,686 - 01:14:27,286] sort of get the sense of the electric,
+- [01:14:27,606 - 01:14:31,966] electricity of the city, and that the man, Maxwell
+- [01:14:31,966 - 01:14:36,326] Parish is the muralist behind the bar of Old King
+- [01:14:36,326 - 01:14:38,316] Cole. You know, that's been there for a hundred
+- [01:14:38,316 - 01:14:40,306] years, right? And you think about that, like that,
+- [01:14:40,306 - 01:14:42,856] that the idea that the room just keeps changing,
+- [01:14:42,856 - 01:14:45,406] I mean, the room doesn't change, excuse me, the
+- [01:14:45,406 - 01:14:47,936] people, right? You know, like musical chairs,
+- [01:14:47,936 - 01:14:50,466] you're constantly, decade after decade, have a new
+- [01:14:50,466 - 01:14:53,596] group who's coming in and sitting behind the same bar
+- [01:14:53,596 - 01:14:56,726] and looking at the same mural with the same intentions.
+- [01:14:56,726 - 01:14:57,446] Like that's, you know, amazing.
+- [01:14:57,446 - 01:15:01,326] That's an amazing thing, you know, even to consider. You know, and
+- [01:15:01,326 - 01:15:05,206] Lincoln Highway is, has a portion of itself in New York City.
+- [01:15:05,206 - 01:15:09,666] And it was sort of fun, kind of fun to kind of, begins in
+- [01:15:09,666 - 01:15:14,126] the Midwest, comes through New York, and then, you know, ends up in the Adirondacks.
+- [01:15:14,126 - 01:15:18,826] And as I say, most of the short stories in the new collection are set in New York. So
+- [01:15:18,826 - 01:15:23,526] New York is, it's not the only thing I write about, but it is fun stomping ground, for sure.
+- [01:15:23,526 - 01:15:24,826] Hey, thank you so much for doing this.
+- [01:15:24,826 - 01:15:25,326] My pleasure.
+- [01:15:25,326 - 01:15:25,826] This is fun.
+- [01:15:25,826 - 01:15:27,406] Thanks so much, David. I really appreciate it. Thank you.
+- [01:15:27,446 - 01:15:27,946] Yeah.

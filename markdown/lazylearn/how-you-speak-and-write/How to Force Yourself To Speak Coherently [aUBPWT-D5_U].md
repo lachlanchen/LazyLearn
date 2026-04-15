@@ -1,0 +1,227 @@
+# Transcript
+
+Source: lazylearn/how-you-speak-and-write/How to Force Yourself To Speak Coherently [aUBPWT-D5_U].webm
+
+- [00:00:00,000 - 00:00:04,480] There is such thing as a mind to mouth connection.
+- [00:00:04,840 - 00:00:08,000] Being able to think and then say what you're thinking
+- [00:00:08,000 - 00:00:10,520] and still in the process of that sound coherent
+- [00:00:10,520 - 00:00:11,860] is a skillset.
+- [00:00:12,080 - 00:00:13,560] And just like any skill,
+- [00:00:13,880 - 00:00:16,960] your mind and mouth connection can be trained.
+- [00:00:17,400 - 00:00:18,980] So if you are really good at thinking,
+- [00:00:19,080 - 00:00:21,460] but you're not really good at speaking your thoughts,
+- [00:00:21,680 - 00:00:23,200] then what tends to happen is,
+- [00:00:23,820 - 00:00:26,280] what I'm trying to describe is there's like a,
+- [00:00:26,680 - 00:00:29,300] you know, it's kind of connected to your mouth
+- [00:00:29,300 - 00:00:30,880] and that's how I used to do it.
+- [00:00:31,200 - 00:00:32,940] I wasn't able to speak my thoughts
+- [00:00:32,940 - 00:00:35,140] and have it come across concise, clear and coherent.
+- [00:00:35,280 - 00:00:37,240] And if you ramble like this,
+- [00:00:37,320 - 00:00:39,800] especially in high stake moments like a team meeting
+- [00:00:39,800 - 00:00:41,700] or a performance review or a job interview,
+- [00:00:42,320 - 00:00:43,830] then you're not going to
+- [00:00:43,830 - 00:00:45,340] get the outcome that you desire.
+- [00:00:45,760 - 00:00:48,540] I've spent over a decade teaching communication skills
+- [00:00:48,540 - 00:00:49,700] to thousands of professionals
+- [00:00:49,700 - 00:00:51,160] who struggle with this specific thing.
+- [00:00:51,320 - 00:00:52,960] And in this video, I'm going
+- [00:00:52,960 - 00:00:54,600] to show you the one exercise
+- [00:00:54,600 - 00:00:57,060] that's had the biggest impact on myself
+- [00:00:57,060 - 00:00:58,260] and many of my students.
+- [00:00:58,260 - 00:00:59,280] To help them be able
+- [00:00:59,280 - 00:01:01,340] to strengthen their mind and mouth connection
+- [00:01:01,340 - 00:01:04,620] so they can speak their thoughts with ease.
+- [00:01:04,959 - 00:01:06,380] It's called the, wait for it,
+- [00:01:06,720 - 00:01:08,920] the random word generator exercise.
+- [00:01:09,400 - 00:01:11,300] I know, how creative of me.
+- [00:01:11,560 - 00:01:13,220] Go to a random word generator online,
+- [00:01:13,760 - 00:01:16,320] generate a random word and then speak on that topic.
+- [00:01:16,660 - 00:01:18,160] Once you know how this works
+- [00:01:18,160 - 00:01:19,660] and you do it just once,
+- [00:01:19,860 - 00:01:22,240] you immediately notice where you struggle
+- [00:01:22,240 - 00:01:23,580] and you want to do it
+- [00:01:23,580 - 00:01:24,920] again and again and again and again.
+- [00:01:25,120 - 00:01:27,300] This is all in the reps.
+- [00:01:27,300 - 00:01:28,560] And the more reps you do,
+- [00:01:28,560 - 00:01:30,250] the better you'll be able
+- [00:01:30,250 - 00:01:31,940] to speak your mind with clarity.
+- [00:01:31,940 - 00:01:33,640] So when your boss puts you on the spot
+- [00:01:33,640 - 00:01:35,640] and you have to speak about a certain topic
+- [00:01:35,640 - 00:01:37,440] or someone maybe pulls you aside
+- [00:01:37,440 - 00:01:38,840] and asks you a random question,
+- [00:01:38,840 - 00:01:44,840] you'll be able to speak your mind without lagging.
+- [00:01:44,840 - 00:01:46,080] This is the random generator
+- [00:01:46,080 - 00:01:48,440] and you can go to randomgenerator.com literally.
+- [00:01:48,440 - 00:01:50,040] And if you hit the blue button,
+- [00:01:50,040 - 00:01:52,040] it will generate a random word.
+- [00:01:52,040 - 00:01:54,040] So can you see the word to the right there?
+- [00:01:54,040 - 00:01:55,040] Right now it's cultural.
+- [00:01:55,040 - 00:01:55,940] I'll click a random word and
+- [00:01:55,940 - 00:01:56,840] then I'm going to talk on it.
+- [00:01:56,840 - 00:01:57,840] Here we go. Random word.
+- [00:01:57,840 - 00:01:58,440] Grave.
+- [00:01:58,440 - 00:02:01,320] Now I have to speak on the word grave
+- [00:02:01,320 - 00:02:03,320] for at least a minute to three minutes.
+- [00:02:05,600 - 00:02:08,680] I still remember there was a book that I read
+- [00:02:08,680 - 00:02:09,759] and the book said,
+- [00:02:10,840 - 00:02:15,840] the richest place on earth is the graveyard.
+- [00:02:17,579 - 00:02:18,500] And I was like, what?
+- [00:02:18,500 - 00:02:19,480] What does that even mean?
+- [00:02:19,480 - 00:02:20,720] That doesn't make sense.
+- [00:02:20,720 - 00:02:23,480] And then the author further explained that
+- [00:02:23,480 - 00:02:25,200] the reason why the graveyard
+- [00:02:25,200 - 00:02:26,920] is the richest place on earth
+- [00:02:26,920 - 00:02:28,280] is because so many people,
+- [00:02:28,280 - 00:02:32,960] live their lives in desperation.
+- [00:02:32,960 - 00:02:36,320] And they fear what other people think.
+- [00:02:36,320 - 00:02:37,920] And as a result, they
+- [00:02:37,920 - 00:02:39,520] don't bring their dreams to life.
+- [00:02:39,520 - 00:02:41,520] So when they die, all of their dreams,
+- [00:02:41,520 - 00:02:45,240] their ideas all die with them.
+- [00:02:45,240 - 00:02:46,440] So when you go to the graveyard,
+- [00:02:46,440 - 00:02:47,560] it's the richest place on earth.
+- [00:02:47,560 - 00:02:48,800] It's the wealthiest place on earth
+- [00:02:48,800 - 00:02:52,160] because there are inventions that were never invented
+- [00:02:52,160 - 00:02:55,040] because that person was scared of what other people think.
+- [00:02:55,040 - 00:02:58,240] There was impact that never was realized,
+- [00:02:58,240 - 00:03:00,580] because people didn't learn how to use their voice
+- [00:03:00,580 - 00:03:02,560] and bring their ideas to life.
+- [00:03:02,560 - 00:03:05,640] There are visions, there are dreams,
+- [00:03:05,640 - 00:03:08,160] there are gifts and talents that are all buried
+- [00:03:08,160 - 00:03:10,440] with the person who unfortunately died.
+- [00:03:11,640 - 00:03:13,080] And that has always stuck with me
+- [00:03:13,080 - 00:03:16,880] because I never thought about it that way.
+- [00:03:16,880 - 00:03:20,800] And it just goes to show the power of communication
+- [00:03:20,800 - 00:03:22,620] because even though that communication
+- [00:03:22,620 - 00:03:24,020] was in the written form,
+- [00:03:25,120 - 00:03:26,380] that book and then the
+- [00:03:26,380 - 00:03:27,640] book I read it from was,
+- [00:03:27,640 - 00:03:32,640] it's inspired millions of people around the world.
+- [00:03:35,940 - 00:03:39,559] And it just goes to show that communication,
+- [00:03:39,559 - 00:03:42,459] no matter verbal or written,
+- [00:03:42,459 - 00:03:45,100] it has the power to change the world
+- [00:03:45,100 - 00:03:47,239] because it was that metaphor alone.
+- [00:03:47,239 - 00:03:49,739] It was that analogy alone
+- [00:03:49,739 - 00:03:52,239] that made me rethink my life.
+- [00:03:53,959 - 00:03:55,739] I didn't want to go to the grave
+- [00:03:55,740 - 00:03:58,240] with all of my ideas, all
+- [00:03:58,240 - 00:04:00,740] of my dreams, all of my impact.
+- [00:04:02,680 - 00:04:06,180] I wanted to live full and die completely empty
+- [00:04:06,180 - 00:04:08,140] because I want my grave slot
+- [00:04:09,620 - 00:04:14,000] to be the poorest place in the graveyard.
+- [00:04:14,000 - 00:04:18,180] I want to live full and die completely empty.
+- [00:04:18,180 - 00:04:19,640] All right, so that's an example of me
+- [00:04:19,640 - 00:04:21,060] just speaking my mind, right?
+- [00:04:21,060 - 00:04:22,360] And you have to appreciate
+- [00:04:22,360 - 00:04:23,660] that while you're practicing this,
+- [00:04:23,660 - 00:04:27,100] it will never be crystal clear wisdom.
+- [00:04:27,100 - 00:04:29,000] Now this is you practicing speaking your mind.
+- [00:04:29,000 - 00:04:30,300] There are more techniques to
+- [00:04:30,300 - 00:04:31,600] be able to speak your mind
+- [00:04:31,600 - 00:04:33,480] in a more structured way.
+- [00:04:33,480 - 00:04:34,720] And that's by you learning
+- [00:04:34,720 - 00:04:36,600] how to use communication frameworks.
+- [00:04:36,600 - 00:04:39,260] I've recorded a free two hour training on this,
+- [00:04:39,260 - 00:04:41,660] which you can access via the link in the description
+- [00:04:41,660 - 00:04:42,980] or the pin comment below.
+- [00:04:42,980 - 00:04:45,620] And when you practice the random word generator exercise
+- [00:04:45,620 - 00:04:49,440] combined with the knowledge of communication frameworks,
+- [00:04:49,440 - 00:04:53,240] oh, you're going to become a communication master.
+- [00:04:53,240 - 00:04:54,580] So do check out the free training
+- [00:04:54,580 - 00:04:56,480] when you finish this video.
+- [00:04:56,480 - 00:04:57,370] I didn't know the word
+- [00:04:57,370 - 00:04:58,260] grave was going to come up.
+- [00:04:58,260 - 00:05:00,640] I had no idea that this is genuinely random.
+- [00:05:00,640 - 00:05:02,240] So then as a result, I
+- [00:05:02,240 - 00:05:03,840] was able to still be fairly eloquent.
+- [00:05:03,840 - 00:05:05,900] I was able to still be fairly concise
+- [00:05:05,900 - 00:05:08,460] and I was able to still be fairly coherent.
+- [00:05:09,300 - 00:05:10,520] The first time I did this,
+- [00:05:10,520 - 00:05:11,740] no way was it like this.
+- [00:05:11,740 - 00:05:12,900] I'll give you a sense of what it was like.
+- [00:05:12,900 - 00:05:13,680] The first time I did this,
+- [00:05:13,680 - 00:05:14,460] I'll go back to the screen.
+- [00:05:14,460 - 00:05:15,300] Let's get another one.
+- [00:05:15,300 - 00:05:16,700] I'll give you a sense of what it was like.
+- [00:05:16,700 - 00:05:18,100] It was like eliminate,
+- [00:05:22,520 - 00:05:23,160] eliminate,
+- [00:05:23,240 - 00:05:25,320] eliminating people, you know,
+- [00:05:25,320 - 00:05:29,320] in sports that sometimes happens because,
+- [00:05:31,100 - 00:05:31,920] you know, like dodge ball,
+- [00:05:31,920 - 00:05:32,800] someone throws a ball at
+- [00:05:32,800 - 00:05:33,680] you and then you get eliminated.
+- [00:05:33,680 - 00:05:36,880] You know, eliminate.
+- [00:05:38,440 - 00:05:41,300] You know, it's like game shows, people in game shows,
+- [00:05:42,160 - 00:05:44,400] you know, you get eliminated.
+- [00:05:44,400 - 00:05:45,520] And that's how I used to do it.
+- [00:05:45,520 - 00:05:46,960] And when you do it for the first time,
+- [00:05:46,960 - 00:05:48,100] it's going to be like that too.
+- [00:05:48,100 - 00:05:49,040] It's going to be like that too.
+- [00:05:49,040 - 00:05:50,600] And that's okay.
+- [00:05:50,600 - 00:05:51,690] Most people are not willing
+- [00:05:51,690 - 00:05:52,780] to pay the price of being
+- [00:05:53,240 - 00:05:55,400] crap to then ultimately become great.
+- [00:05:56,360 - 00:05:59,280] The reality is most people want to start out great.
+- [00:05:59,800 - 00:06:01,460] And then as a result, they don't start at all
+- [00:06:02,360 - 00:06:04,400] because it's impossible to start great.
+- [00:06:04,400 - 00:06:07,160] You must start poorly.
+- [00:06:07,520 - 00:06:09,560] Anything worth doing is worth doing poorly.
+- [00:06:09,560 - 00:06:11,000] Inside the stage community, we have
+- [00:06:11,000 - 00:06:12,440] an area called the practice lounge.
+- [00:06:12,740 - 00:06:14,870] So many students upload videos every
+- [00:06:14,870 - 00:06:17,000] single day of them doing the mind
+- [00:06:17,000 - 00:06:20,180] and mouth connection going, okay, the random word is monkey.
+- [00:06:20,540 - 00:06:21,920] Oh crap, I got to talk about monkey.
+- [00:06:21,920 - 00:06:22,960] And then they're talking about monkey.
+- [00:06:22,960 - 00:06:24,359] And you'll see their first video.
+- [00:06:24,359 - 00:06:25,479] You'll see their second video.
+- [00:06:25,479 - 00:06:27,520] You'll see their third video, fourth video.
+- [00:06:27,880 - 00:06:29,640] And you'll start to notice they
+- [00:06:29,640 - 00:06:31,400] get better and better and better.
+- [00:06:31,460 - 00:06:31,979] Why?
+- [00:06:32,260 - 00:06:34,670] Because they're starting to strengthen
+- [00:06:34,670 - 00:06:37,080] the mind and mouth connection.
+- [00:06:37,460 - 00:06:39,360] And if you don't practice, well,
+- [00:06:39,360 - 00:06:41,260] you'll never have that strong connection.
+- [00:06:41,719 - 00:06:43,079] And you will always forever be in
+- [00:06:43,079 - 00:06:44,440] a state where someone asks you a question.
+- [00:06:44,620 - 00:06:47,980] You know the answer, you know the answer in
+- [00:06:47,980 - 00:06:51,340] your mind, but then you go, well, I think it's,
+- [00:06:51,340 - 00:06:51,659] um,
+- [00:06:52,960 - 00:06:55,479] and then you just fall apart.
+- [00:06:55,840 - 00:06:57,340] Well, that's because the connection is not strong.
+- [00:06:57,340 - 00:06:58,419] It's not because you're not capable.
+- [00:06:58,419 - 00:07:01,089] It's not because you didn't know the answer, but rather because
+- [00:07:01,089 - 00:07:03,760] you haven't worked on a skill that has been holding you back.
+- [00:07:04,000 - 00:07:07,750] So I need you to understand that as you're going on the journey of strengthening your mind
+- [00:07:07,750 - 00:07:11,500] and mouth connection, please, please, please, please don't beat yourself up when you do the first one.
+- [00:07:11,500 - 00:07:12,640] And it's absolutely terrible.
+- [00:07:12,700 - 00:07:15,670] Record a video of yourself on your computer, and then you just do a selfie video
+- [00:07:15,670 - 00:07:18,640] and you go, all right, I'm about to hit, I'm about to hit the random word.
+- [00:07:18,640 - 00:07:19,719] So I'm genuinely going to do this.
+- [00:07:19,940 - 00:07:22,419] Click random words, show the word on the phone.
+- [00:07:22,719 - 00:07:22,940] And then go.
+- [00:07:22,960 - 00:07:24,370] All right, I'm going to
+- [00:07:24,370 - 00:07:25,780] talk about pigeons and then go.
+- [00:07:26,020 - 00:07:28,900] 99% of people won't do this exercise.
+- [00:07:29,060 - 00:07:33,179] So if you do it, post it on social media and tag
+- [00:07:33,179 - 00:07:37,299] me at ask Vin and hashtag the hashtag Vin's random word challenge.
+- [00:07:37,539 - 00:07:39,580] I know I'm just super creative.
+- [00:07:39,640 - 00:07:40,299] I'm amazing.
+- [00:07:41,219 - 00:07:41,919] And I'll check it out.
+- [00:07:41,919 - 00:07:42,880] I might even share it.
+- [00:07:43,179 - 00:07:46,229] And if, listen, you want to take this to the next
+- [00:07:46,229 - 00:07:49,280] level, then make sure you combine that exercise with communication frameworks.
+- [00:07:49,299 - 00:07:51,079] And if you want to access that free
+- [00:07:51,079 - 00:07:52,859] training, the link is just in the description.
+- [00:07:52,960 - 00:07:54,760] And I'll remind you of the quote again.
+- [00:07:55,000 - 00:07:56,739] In order for you to become great,
+- [00:07:56,739 - 00:07:58,479] you first must be a little bit crap.
+- [00:07:58,599 - 00:07:59,859] Or as I like to say,
+- [00:07:59,859 - 00:08:01,120] you must be a little bit shit.
+- [00:08:01,859 - 00:08:02,260] I know.
+- [00:08:02,680 - 00:08:03,359] Potty mouth.
+- [00:08:03,460 - 00:08:04,260] So naughty, Vin.
+- [00:08:04,260 - 00:08:04,799] So naughty.
+- [00:08:05,020 - 00:08:05,620] It's who I am.
+- [00:08:05,859 - 00:08:06,960] It's who I am.

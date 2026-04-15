@@ -1,0 +1,776 @@
+# Transcript
+
+Source: lazylearn/how-you-speak-and-write/16 - Harvard Thinking： How to Tell a Story [ZhVz6CYpjVI].webm
+
+- [00:00:00,000 - 00:00:02,250] If you want to write something that's going to
+- [00:00:02,250 - 00:00:04,500] affect people emotionally, you have to do it emotionally.
+- [00:00:05,000 - 00:00:06,460] And it has to cost you
+- [00:00:06,460 - 00:00:07,920] more than the time you're spending writing.
+- [00:00:08,160 - 00:00:11,200] It pushes me to my emotional and intellectual capabilities.
+- [00:00:11,420 - 00:00:15,990] I feel like when something is working, it is because all cylinders are firing
+- [00:00:15,990 - 00:00:20,560] and I am working at the very bleeding edge of what I am capable of.
+- [00:00:21,440 - 00:00:23,800] Storytelling is a huge part of the human experience.
+- [00:00:24,140 - 00:00:25,840] But how do you tell a good story?
+- [00:00:25,840 - 00:00:28,840] There's the cliché of a writer sitting at a desk
+- [00:00:28,840 - 00:00:31,840] wrestling with the page, trying to find their ever-evasive muse.
+- [00:00:32,340 - 00:00:34,840] There are elements of craft to consider, for sure.
+- [00:00:35,340 - 00:00:38,590] But for many authors, creativity comes from a place deep
+- [00:00:38,590 - 00:00:41,840] within themselves, and it looks different from writer to writer.
+- [00:00:42,840 - 00:00:46,840] So, what's the secret behind an unforgettable story?
+- [00:00:52,840 - 00:00:54,340] Welcome to Harvard Thinking, a podcast where
+- [00:00:54,340 - 00:00:55,840] the life of a writer is a mystery.
+- [00:00:56,340 - 00:00:58,340] Where the life of the mind meets everyday life.
+- [00:00:59,340 - 00:01:00,340] Today, I'm joined by…
+- [00:01:00,840 - 00:01:03,590] James Wood. I'm a professor of the practice
+- [00:01:03,590 - 00:01:06,340] of literary criticism at Harvard in the English department.
+- [00:01:06,840 - 00:01:09,840] He's also a literary critic for The New Yorker and
+- [00:01:09,840 - 00:01:12,840] the author of multiple books, including How Fiction Works. Then…
+- [00:01:13,340 - 00:01:16,340] Sam Marks. I am a senior lecturer in the English
+- [00:01:16,340 - 00:01:19,340] department in playwriting, and I also teach a TV writing class.
+- [00:01:19,840 - 00:01:21,840] For the past three years, he was
+- [00:01:21,840 - 00:01:23,840] also the director of creative writing. Then…
+- [00:01:24,340 - 00:01:25,340] Lauren Groff. I'm a novelist and writer.
+- [00:01:25,840 - 00:01:27,340] I'm a short story writer, and
+- [00:01:27,340 - 00:01:28,840] I own a bookstore in Gainesville, Florida.
+- [00:01:29,340 - 00:01:32,340] She was a 2018-2019 Radcliffe Fellow, and three of
+- [00:01:32,340 - 00:01:35,340] her novels have been finalists for the National Book Award.
+- [00:01:35,840 - 00:01:36,840] And our final guest…
+- [00:01:37,340 - 00:01:39,840] Nick White. I'm a short story writer and a novelist.
+- [00:01:40,340 - 00:01:41,840] He's also an associate senior
+- [00:01:41,840 - 00:01:43,340] lecturer on fiction at Harvard.
+- [00:01:44,340 - 00:01:46,340] And I'm Samantha Liney-Perfoss, your host
+- [00:01:46,340 - 00:01:48,340] and a writer for the Harvard Gazette.
+- [00:01:49,340 - 00:01:52,340] Today, we'll talk about storytelling with four writers, and
+- [00:01:52,340 - 00:01:55,340] how they take an idea and bring it to life.
+- [00:01:56,340 - 00:01:59,340] What is it that gets a story started for you?
+- [00:01:59,340 - 00:02:02,340] Is it an image or a character? Where do you begin?
+- [00:02:02,840 - 00:02:04,590] It depends on the situation
+- [00:02:04,590 - 00:02:06,340] and the story that's being told.
+- [00:02:06,840 - 00:02:09,090] So, sometimes it'll be something that I've
+- [00:02:09,090 - 00:02:11,340] been thinking about for a very long time.
+- [00:02:11,840 - 00:02:15,090] It doesn't become a story until I experience something or
+- [00:02:15,090 - 00:02:18,340] I read something else that collides with the initial idea,
+- [00:02:18,840 - 00:02:21,590] that sort of blooms into a story
+- [00:02:21,590 - 00:02:24,340] with urgency and density and gravity and weight.
+- [00:02:24,340 - 00:02:27,090] And after that happens, it takes a
+- [00:02:27,090 - 00:02:29,840] much longer time to build in the subconscious.
+- [00:02:30,340 - 00:02:33,590] To me, I often am thinking about a thing, an idea or
+- [00:02:33,590 - 00:02:36,840] a character or a moment or an experience, like, for a long time.
+- [00:02:37,340 - 00:02:39,590] But I think that the story itself
+- [00:02:39,590 - 00:02:41,840] doesn't actually happen until I start writing it.
+- [00:02:42,340 - 00:02:43,840] That's when it actually unfolds.
+- [00:02:44,340 - 00:02:47,090] I found that generally, like, writing is not successful for
+- [00:02:47,090 - 00:02:49,840] me if I'm like, oh, and then this crazy twist happens.
+- [00:02:50,340 - 00:02:51,840] Like, that's usually a disaster.
+- [00:02:51,840 - 00:02:54,090] And so it's a combination of something I've been thinking about for
+- [00:02:54,090 - 00:02:56,340] a long time and also the immediate thread of whatever is going.
+- [00:02:56,840 - 00:02:59,840] It's in some ways like I'm not a musician, but like a
+- [00:02:59,840 - 00:03:02,840] musician improvising, like you're searching for the right note or lick or whatever.
+- [00:03:03,340 - 00:03:05,090] And then you find the harmony and
+- [00:03:05,090 - 00:03:06,840] you kind of take it where it goes.
+- [00:03:07,340 - 00:03:08,840] I apologize to all the musicians out there who
+- [00:03:08,840 - 00:03:10,340] are like, this guy doesn't know what he's talking about.
+- [00:03:10,840 - 00:03:12,340] Yeah, I think I do a mix of both.
+- [00:03:12,840 - 00:03:17,090] There are still stories that I want to write that I think I've been thinking
+- [00:03:17,090 - 00:03:21,340] about for years that I just haven't figured out yet how to bring to the page.
+- [00:03:21,840 - 00:03:24,090] And then there are stories
+- [00:03:24,090 - 00:03:26,340] that come more easily to me.
+- [00:03:26,840 - 00:03:31,090] And then once I have what Anne Lamont calls that shitty first draft, I
+- [00:03:31,090 - 00:03:35,340] have something I can work with and shape once it's outside of my head.
+- [00:03:35,840 - 00:03:38,090] Because I think all my stories sound
+- [00:03:38,090 - 00:03:40,340] good to me when they're inside my head.
+- [00:03:40,840 - 00:03:44,090] And then when I put them in the cold, harsh light of the page
+- [00:03:44,090 - 00:03:47,340] and begin to go back and inspect it, I can see all its weaknesses.
+- [00:03:47,840 - 00:03:49,590] But then I have something
+- [00:03:49,590 - 00:03:51,340] tangible that I can work with.
+- [00:03:52,340 - 00:04:00,340] I think speaking in terms of like images or characters, oftentimes for me, I find writing begins with a particular character
+- [00:04:00,340 - 00:04:08,340] and then just figuring out what that character wants and what is getting in the way of what that character wants.
+- [00:04:08,840 - 00:04:14,589] I like this question because if I think of beginnings, literally for me, knowing what a
+- [00:04:14,589 - 00:04:20,339] first line might be or knowing what an ending might be is very helpful to me.
+- [00:04:20,339 - 00:04:22,839] I have much less experience than
+- [00:04:22,839 - 00:04:25,340] the other panelists in actually writing stories.
+- [00:04:25,840 - 00:04:26,590] For instance, I've never written
+- [00:04:26,590 - 00:04:27,340] a short story in my life.
+- [00:04:27,840 - 00:04:29,340] I don't think I could.
+- [00:04:29,840 - 00:04:39,590] But if I expand slightly the definition of a narrative to be, say, a nonfiction account or even stretching it a little bit here, even a review, it can
+- [00:04:39,590 - 00:04:49,340] be very helpful to me sometimes, even if I don't know what's going to go in the middle of something, to know where I'm beginning and where I'm ending.
+- [00:04:50,340 - 00:04:51,840] Just knowing where I'm ending can do it.
+- [00:04:52,840 - 00:04:54,340] Nick, you mentioned characters.
+- [00:04:54,840 - 00:05:01,090] There's this idea out there about how you might think of a character, but then once they exist, they take on a
+- [00:05:01,090 - 00:05:07,340] life of their own and they start to do things that you maybe didn't think they were going to do when you started.
+- [00:05:07,840 - 00:05:09,340] Do any of you find that to be true?
+- [00:05:09,840 - 00:05:11,340] Or in what ways do you wrestle
+- [00:05:11,340 - 00:05:12,840] with the character development within your stories?
+- [00:05:13,340 - 00:05:14,340] I love when that happens.
+- [00:05:14,840 - 00:05:15,840] I'm working on a novel right now.
+- [00:05:16,840 - 00:05:19,840] I have like things in the draft broadly outlined.
+- [00:05:20,340 - 00:05:25,340] But the sort of scenes that I begin to write sometimes, especially when I have two or more characters
+- [00:05:25,340 - 00:05:30,340] in a scene, it can sometimes, especially in those first drafts, feel a little bit like a science experiment.
+- [00:05:30,840 - 00:05:35,590] So seeing how these characters are going to spark off of each other or putting the character in a
+- [00:05:35,590 - 00:05:40,340] particular situation, it can be really exciting to sort of go with it and have a kind of like looseness.
+- [00:05:40,840 - 00:05:43,590] I'm currently reading that book, Tony at Random,
+- [00:05:43,590 - 00:05:46,340] which is about Toni Morrison being an editor.
+- [00:05:46,840 - 00:05:48,090] And there's somewhere in the book
+- [00:05:48,090 - 00:05:49,340] where they talk about how she,
+- [00:05:50,340 - 00:05:53,340] thinks about characters when she's writing as whispering over
+- [00:05:53,340 - 00:05:56,340] her ear and telling her like, oh, that's just right.
+- [00:05:56,840 - 00:05:57,340] That's right.
+- [00:05:57,840 - 00:05:58,340] Oh, nope.
+- [00:05:58,840 - 00:05:59,340] That's not good enough.
+- [00:05:59,840 - 00:06:00,340] That's not good enough.
+- [00:06:00,840 - 00:06:02,340] I wish I could experience characters like that.
+- [00:06:02,840 - 00:06:04,340] I think that's a beautiful way of thinking about it.
+- [00:06:04,840 - 00:06:05,340] Yeah.
+- [00:06:05,840 - 00:06:06,840] A lot of times when I write
+- [00:06:06,840 - 00:06:07,840] plays, like the characters, I don't see them.
+- [00:06:08,340 - 00:06:08,840] I hear them.
+- [00:06:09,340 - 00:06:10,840] It's an oral, a U R A L form.
+- [00:06:11,340 - 00:06:14,840] And I often feel like they've come or they've appeared in my head or my imagination
+- [00:06:14,840 - 00:06:18,340] or whatever the play for a reason, but I didn't might not know what it is.
+- [00:06:18,840 - 00:06:19,340] And so it's, let's see.
+- [00:06:19,840 - 00:06:20,590] I think it's a good way to
+- [00:06:20,590 - 00:06:21,340] think about where we all go together.
+- [00:06:21,840 - 00:06:22,840] I think it also varies.
+- [00:06:23,340 - 00:06:25,090] Like sometimes characters are incredibly strong and they're very
+- [00:06:25,090 - 00:06:26,840] clear and you have a really good sense of them.
+- [00:06:27,340 - 00:06:30,090] And then sometimes they're more hazy and you have to spend more time
+- [00:06:30,090 - 00:06:32,840] with them and like chip away or see how they reveal themselves to you.
+- [00:06:33,340 - 00:06:38,090] I think often we think of character as a fixed idea
+- [00:06:38,090 - 00:06:42,840] that we have of specific people, but everyone is an animal.
+- [00:06:43,340 - 00:06:46,090] And so I think character can
+- [00:06:46,090 - 00:06:48,840] shift radically depending on the environment.
+- [00:06:48,840 - 00:06:51,090] And so I think character can have
+- [00:06:51,090 - 00:06:53,340] the same people having a breakup scene.
+- [00:06:53,840 - 00:06:56,340] But if you have it on a beach versus on
+- [00:06:56,340 - 00:06:58,840] the top of Mount Everest, it's going to go very differently.
+- [00:06:59,340 - 00:07:06,840] So paying attention to not only whatever that is the inflexible center of what your conception of this person is, but
+- [00:07:06,840 - 00:07:14,340] also paying attention to the true animal nature of being a person in the world is really important at the same time.
+- [00:07:14,840 - 00:07:16,340] Lauren, there was an interview that you did.
+- [00:07:16,840 - 00:07:17,590] And you were describing your
+- [00:07:17,590 - 00:07:18,340] creative process as a nuclear fusion.
+- [00:07:19,340 - 00:07:21,090] I was wondering if you could talk a little bit
+- [00:07:21,090 - 00:07:22,840] more about that and what exactly that means for you.
+- [00:07:23,340 - 00:07:25,090] Yeah, it's really like my
+- [00:07:25,090 - 00:07:26,840] literature is born out of literature.
+- [00:07:27,340 - 00:07:29,590] And I think it's possible to write
+- [00:07:29,590 - 00:07:31,840] a novel without ever having read a novel.
+- [00:07:32,340 - 00:07:34,590] But I think it's very vanishingly rare and
+- [00:07:34,590 - 00:07:36,840] it probably would be a very bad book.
+- [00:07:37,340 - 00:07:37,840] Just my opinion.
+- [00:07:38,340 - 00:07:39,840] James can tell us whether or not that's true.
+- [00:07:40,340 - 00:07:44,090] But I think if you have speak yourself
+- [00:07:44,090 - 00:07:47,840] in literature, in ideas, in other people's voices.
+- [00:07:48,840 - 00:07:52,340] And you're listening to the ghost of George Eliot
+- [00:07:52,340 - 00:07:55,840] and Charles Dickens and Toni Morrison and Langston Hughes.
+- [00:07:56,340 - 00:07:58,340] You're going through your day listening to these things.
+- [00:07:58,840 - 00:08:01,340] Of course, it's going to be nuclear, right?
+- [00:08:01,840 - 00:08:04,340] Because your ideas are always going to explode
+- [00:08:04,340 - 00:08:06,840] when they come in contact with other people.
+- [00:08:07,340 - 00:08:11,840] So I think that is one of the great and moving
+- [00:08:11,840 - 00:08:16,340] joys and mysteries and beauties of living this life of writing.
+- [00:08:16,340 - 00:08:18,840] You are constantly surrounded by
+- [00:08:18,840 - 00:08:21,340] explosive ideas of other people.
+- [00:08:21,840 - 00:08:23,340] Can I just go back to the character thing?
+- [00:08:23,840 - 00:08:26,590] Aristotle basically wrote the Poetics, which is like a doctrine
+- [00:08:26,590 - 00:08:29,340] on how to write plays in a very specific way.
+- [00:08:29,840 - 00:08:30,340] But they're very influential.
+- [00:08:30,840 - 00:08:33,339] Puts characters subservient to action, right?
+- [00:08:33,839 - 00:08:35,589] So that anything that the character does that
+- [00:08:35,589 - 00:08:37,339] doesn't feed the action to him is extraneous.
+- [00:08:37,839 - 00:08:40,339] I don't think that we live in that model anymore.
+- [00:08:40,839 - 00:08:43,089] But there's a sort of spectrum I think of as
+- [00:08:43,089 - 00:08:45,339] like character driven versus plot driven and how that goes.
+- [00:08:46,340 - 00:08:48,340] And I think sometimes it seems dishonest if
+- [00:08:48,340 - 00:08:50,340] a character is shoehorned into the plot, right?
+- [00:08:50,840 - 00:08:52,840] But then also sometimes there's the experience of
+- [00:08:52,840 - 00:08:54,840] listening to characters where you're like, I don't care.
+- [00:08:55,340 - 00:08:55,840] What's the story?
+- [00:08:56,340 - 00:08:57,340] So I think it's like
+- [00:08:57,340 - 00:08:58,340] a, I think it's a balance.
+- [00:08:58,840 - 00:09:00,590] But Sam, the thing about
+- [00:09:00,590 - 00:09:02,340] the action and character breaking apart.
+- [00:09:02,840 - 00:09:06,090] Actually, if you think of a great deal of the
+- [00:09:06,090 - 00:09:09,340] kind of TV writing that I'm sure you would never do,
+- [00:09:09,840 - 00:09:12,840] but that is just the stuff that's out there
+- [00:09:12,840 - 00:09:15,840] now, an enormous amount of it is just simply,
+- [00:09:15,840 - 00:09:17,340] plotting for the sake of plotting.
+- [00:09:17,840 - 00:09:18,340] Yeah.
+- [00:09:18,840 - 00:09:22,090] With ridiculous twists and turns that even within the confines
+- [00:09:22,090 - 00:09:25,340] of the thriller genre don't really make any sense at all.
+- [00:09:25,840 - 00:09:29,090] And you'll sometimes encounter a piece by a student
+- [00:09:29,090 - 00:09:32,340] and it'll be trundling along and then suddenly in effect,
+- [00:09:32,840 - 00:09:35,090] they get into a spaceship and go off to Mars and
+- [00:09:35,090 - 00:09:37,340] you say, now, why did you do that thing on page eight?
+- [00:09:37,840 - 00:09:38,840] And they'll just say, I don't know.
+- [00:09:39,340 - 00:09:41,340] I just, because I can, I just felt like it.
+- [00:09:41,840 - 00:09:43,340] So this is a bit of a problem.
+- [00:09:43,840 - 00:09:45,340] I fully agree with that.
+- [00:09:45,840 - 00:09:49,840] I think that so many students and so many writers in general, like
+- [00:09:49,840 - 00:09:53,840] sometimes I think about writing as a process of confronting how you confront challenge.
+- [00:09:54,340 - 00:09:56,340] And I think often it's like, I want to quit.
+- [00:09:56,840 - 00:09:57,840] I want to take a break.
+- [00:09:58,340 - 00:09:59,340] I want to have a drink or whatever.
+- [00:09:59,840 - 00:10:01,340] I want to have a spaceship, right?
+- [00:10:01,840 - 00:10:04,840] I want someone to rescue me from the process of having to figure out
+- [00:10:04,840 - 00:10:07,840] what the heck I have to do because to figure it out is incredibly painstaking.
+- [00:10:08,340 - 00:10:08,840] Right.
+- [00:10:09,340 - 00:10:11,840] And that's the like cliche of the writer, like tearing their hair
+- [00:10:11,840 - 00:10:14,340] out or whatever, because it is hard to figure out what happens next.
+- [00:10:14,340 - 00:10:17,840] I'm now thinking of this story that ends with a character going
+- [00:10:17,840 - 00:10:21,340] off in a spaceship and what my response to the student would be.
+- [00:10:21,840 - 00:10:23,090] The story begins when they
+- [00:10:23,090 - 00:10:24,340] enter the spaceship and go off.
+- [00:10:24,840 - 00:10:26,840] Why are they, that's the beginning.
+- [00:10:27,340 - 00:10:31,340] I also liked what you said about a lot of times how we deal with conflict
+- [00:10:31,340 - 00:10:35,340] in our everyday lives is like related to how we do that in our writerly sense.
+- [00:10:35,840 - 00:10:39,340] I can feel that, but I also feel that there are ways in which I
+- [00:10:39,340 - 00:10:42,840] allow my characters to be much braver on the page than I am and much bolder.
+- [00:10:42,840 - 00:10:45,840] And I think that is a really great
+- [00:10:45,840 - 00:10:48,840] way to think about fiction and inhabiting characters.
+- [00:10:49,340 - 00:10:50,590] Have your characters do the
+- [00:10:50,590 - 00:10:51,840] thing that you're afraid to do.
+- [00:10:52,340 - 00:10:55,840] I think that is a really interesting prompt.
+- [00:10:56,340 - 00:10:58,590] That actually makes me think like we've talked
+- [00:10:58,590 - 00:11:00,840] about character driven, we've talked about plot driven.
+- [00:11:01,340 - 00:11:03,090] I'm also curious how much of it
+- [00:11:03,090 - 00:11:04,840] is like soul of the writer driven.
+- [00:11:05,340 - 00:11:07,090] How much of yourselves do you feel
+- [00:11:07,090 - 00:11:08,840] like you are putting into these stories?
+- [00:11:09,340 - 00:11:10,590] I think for me, my
+- [00:11:10,590 - 00:11:11,840] first novel was very much author-driven.
+- [00:11:11,840 - 00:11:14,340] It wasn't very much autobiographical, but it was
+- [00:11:14,340 - 00:11:16,840] also kind of like an alternative history for myself.
+- [00:11:17,340 - 00:11:21,090] It dealt a lot with conversion therapy and being gay
+- [00:11:21,090 - 00:11:24,840] from Mississippi and having a family that would not be accepting.
+- [00:11:25,340 - 00:11:29,090] And dealing with all of that mess and trauma on the page
+- [00:11:29,090 - 00:11:32,840] in a way that I felt unable to do in my real life.
+- [00:11:33,340 - 00:11:36,590] But I also have been thinking a lot about this because
+- [00:11:36,590 - 00:11:39,840] I've been talking to my students a lot about setting and place.
+- [00:11:39,840 - 00:11:44,340] And I find it really ironic that I spent
+- [00:11:44,340 - 00:11:48,840] so much of my time growing up in Mississippi.
+- [00:11:49,340 - 00:11:51,340] I'm from a really small town called Possum Neck.
+- [00:11:51,840 - 00:11:53,840] And I spent my whole life
+- [00:11:53,840 - 00:11:55,840] waiting to leave, couldn't wait to leave.
+- [00:11:56,340 - 00:11:58,590] And as soon as I leave the state, I
+- [00:11:58,590 - 00:12:00,840] immediately start trying to write my way back in.
+- [00:12:01,340 - 00:12:04,340] I do feel that tension a lot in my work.
+- [00:12:04,840 - 00:12:06,090] And I still set things in Mississippi
+- [00:12:06,090 - 00:12:07,340] and I go back and visit a lot.
+- [00:12:07,840 - 00:12:09,340] And that place has been very fruitful for me.
+- [00:12:09,840 - 00:12:11,340] And I'm grateful for whatever
+- [00:12:11,340 - 00:12:12,840] the river of my imagination is.
+- [00:12:13,340 - 00:12:15,090] I once had a writing teacher, Carol
+- [00:12:15,090 - 00:12:16,840] Maso, who's a fiction writer, who said,
+- [00:12:17,340 - 00:12:19,090] You can't make anyone a better writer. You
+- [00:12:19,090 - 00:12:20,840] can only help them get closer to their obsessions.
+- [00:12:21,340 - 00:12:23,590] And I feel like the more I write, not all
+- [00:12:23,590 - 00:12:25,840] of my plays are set in Harvard or New York.
+- [00:12:26,340 - 00:12:28,590] But even if I try to write something differently,
+- [00:12:28,590 - 00:12:30,840] I inevitably write about a version of the same thing.
+- [00:12:31,340 - 00:12:33,090] Which I don't think is bad. In some ways,
+- [00:12:33,090 - 00:12:34,840] I feel like I've succeeded on some of them.
+- [00:12:35,340 - 00:12:36,590] Not to say that you repeat yourself, but
+- [00:12:36,590 - 00:12:37,840] that you're working out some of the same questions.
+- [00:12:38,340 - 00:12:39,340] Right.
+- [00:12:39,840 - 00:12:41,090] Questions of the self, even if
+- [00:12:41,090 - 00:12:42,340] they take place in different settings.
+- [00:12:42,840 - 00:12:43,840] I also think it's interesting
+- [00:12:43,840 - 00:12:44,840] that you keep writing about Mississippi.
+- [00:12:45,340 - 00:12:47,090] I think it's like, we know these places
+- [00:12:47,090 - 00:12:48,840] are in our souls or our bones or whatever.
+- [00:12:49,340 - 00:12:50,840] And I think that those are
+- [00:12:50,840 - 00:12:52,340] assets as a writer, not bad things.
+- [00:12:52,840 - 00:12:56,340] I think you're writing from the deepest part of yourself.
+- [00:12:56,840 - 00:13:00,090] Even if you're writing something that is set on a
+- [00:13:00,090 - 00:13:03,340] spaceship, something that is so far from your lived experience,
+- [00:13:03,840 - 00:13:06,590] it's still autobiographical in a very real way, even if the
+- [00:13:06,590 - 00:13:09,340] contours of the story don't accord to the contours of your life.
+- [00:13:10,340 - 00:13:13,340] Because it's so deeply personal.
+- [00:13:13,840 - 00:13:19,340] Every character is a prismatic hologram of who you are.
+- [00:13:19,840 - 00:13:22,090] I love to play with the titration
+- [00:13:22,090 - 00:13:24,340] of closeness that I'm giving the reader.
+- [00:13:24,840 - 00:13:26,340] That this is a joyous thing to play with.
+- [00:13:26,840 - 00:13:31,090] The trick of writing something that is beyond your
+- [00:13:31,090 - 00:13:35,340] autobiographical details, but is still, it really feels deeply personal.
+- [00:13:35,840 - 00:13:39,340] That is a lot of very hard work for me.
+- [00:13:40,340 - 00:13:41,840] And it takes me a really
+- [00:13:41,840 - 00:13:43,340] long time to work myself into it.
+- [00:13:43,840 - 00:13:45,340] And I do it through the music of the line.
+- [00:13:45,840 - 00:13:48,590] I can only do it by
+- [00:13:48,590 - 00:13:51,340] playing and failing vastly, so often.
+- [00:13:51,840 - 00:13:55,090] And then finally finding a piece of music that
+- [00:13:55,090 - 00:13:58,340] corresponds to this story that I'm trying to tell.
+- [00:13:58,840 - 00:14:00,090] But I think all of it is
+- [00:14:00,090 - 00:14:01,340] the soul if you're doing it right.
+- [00:14:01,840 - 00:14:03,340] Lauren, I have a question for you.
+- [00:14:03,840 - 00:14:06,090] As you've been writing in historical
+- [00:14:06,090 - 00:14:08,340] periods, remote-ish from the contemporary recently,
+- [00:14:08,340 - 00:14:12,090] and whether you'd had the experience
+- [00:14:12,090 - 00:14:15,840] of recognizing an autobiographical motif or impulse,
+- [00:14:16,340 - 00:14:18,090] even if it seemed to be
+- [00:14:18,090 - 00:14:19,840] in a completely different fictional universe.
+- [00:14:20,340 - 00:14:22,840] Yeah, Marie de France et moi.
+- [00:14:23,340 - 00:14:26,340] I mean, every grandiose idea she had is my idea.
+- [00:14:26,840 - 00:14:27,840] That's me right there.
+- [00:14:28,340 - 00:14:30,840] And the girl in the Bastard Wilds, that's me.
+- [00:14:31,340 - 00:14:34,090] As a panicked young person alone, which
+- [00:14:34,090 - 00:14:36,840] I've been many times in the woods running.
+- [00:14:36,840 - 00:14:37,840] Like I've done that.
+- [00:14:38,340 - 00:14:41,840] Sometimes I access that, even if the people are distant
+- [00:14:41,840 - 00:14:45,340] from me in temporal terms or in even demographic terms.
+- [00:14:45,840 - 00:14:47,340] Like you find it through the body.
+- [00:14:47,840 - 00:14:49,590] You find it through the sensory
+- [00:14:49,590 - 00:14:51,340] information that you're getting from the world.
+- [00:14:51,840 - 00:14:54,090] I wrote a book about
+- [00:14:54,090 - 00:14:56,340] a 1960s utopian commune called Arcadia.
+- [00:14:56,840 - 00:15:00,590] I've never lived in a commune, but I have in
+- [00:15:00,590 - 00:15:04,340] fact actually held a handmade blue bowl filled with warm oatmeal.
+- [00:15:04,840 - 00:15:06,340] I know how that feels.
+- [00:15:06,840 - 00:15:09,590] And so that is me right there holding
+- [00:15:09,590 - 00:15:12,340] that when it's actually the character holding that, right?
+- [00:15:12,840 - 00:15:15,590] So you find the bodily information that allows
+- [00:15:15,590 - 00:15:18,340] you to access the rest of the world.
+- [00:15:18,840 - 00:15:20,340] Lauren, you mentioned failure.
+- [00:15:20,840 - 00:15:22,340] What does failure look like?
+- [00:15:22,840 - 00:15:26,090] It's so funny that we're doing this for the Harvard
+- [00:15:26,090 - 00:15:29,340] community because I think most people have never failed ever.
+- [00:15:29,840 - 00:15:31,840] And I love failure.
+- [00:15:32,340 - 00:15:35,340] I actually, like, I go after it.
+- [00:15:35,340 - 00:15:36,840] I have OCD.
+- [00:15:37,340 - 00:15:39,590] And so it's actually really hard for me
+- [00:15:39,590 - 00:15:41,840] to do something and let it be imperfect.
+- [00:15:42,340 - 00:15:47,590] I have developed a process which is insane, but it allows me to embrace failure in the
+- [00:15:47,590 - 00:15:52,840] way that a child would embrace failure if they're trying to build like a Lego castle, right?
+- [00:15:53,340 - 00:15:54,590] If it doesn't work, they just
+- [00:15:54,590 - 00:15:55,840] trash it and start over again.
+- [00:15:56,340 - 00:15:57,340] And it's just joyous.
+- [00:15:57,840 - 00:15:58,840] You're just playing.
+- [00:15:59,340 - 00:16:00,340] You're just figuring things out.
+- [00:16:00,840 - 00:16:01,840] It's delightful.
+- [00:16:02,340 - 00:16:03,840] So I'm purely analog, right?
+- [00:16:03,840 - 00:16:05,340] I only write with my pen.
+- [00:16:05,840 - 00:16:07,590] I don't write on a
+- [00:16:07,590 - 00:16:09,340] computer until the very, very end.
+- [00:16:09,840 - 00:16:11,840] I don't even read my drafts ever.
+- [00:16:12,340 - 00:16:13,590] I write a full draft and
+- [00:16:13,590 - 00:16:14,840] then I put it to the side.
+- [00:16:15,340 - 00:16:17,090] I start over again as many times
+- [00:16:17,090 - 00:16:18,840] as necessary because I'm actually embracing failure.
+- [00:16:19,340 - 00:16:21,090] I actually want to know the limits
+- [00:16:21,090 - 00:16:22,840] of my ability to tell this story.
+- [00:16:23,340 - 00:16:25,840] And then it starts to grow
+- [00:16:25,840 - 00:16:28,340] its own ability to tell itself eventually.
+- [00:16:28,840 - 00:16:30,340] If you do it enough
+- [00:16:30,340 - 00:16:31,840] times, then it's not me, right?
+- [00:16:32,340 - 00:16:33,340] I'm not the one writing it.
+- [00:16:33,840 - 00:16:36,840] I'm the book itself that has come up against all of these
+- [00:16:36,840 - 00:16:39,840] obstacles and is teaching me how to put it down on the page.
+- [00:16:40,340 - 00:16:42,590] Failure in our society has so
+- [00:16:42,590 - 00:16:44,840] many negative, so much negative baggage.
+- [00:16:45,340 - 00:16:50,340] But if you're thinking about it as pure play the whole way through until the story itself
+- [00:16:50,340 - 00:16:55,340] starts to talk to you and tell you what you need to do, then that's just pure joy.
+- [00:16:55,840 - 00:16:57,340] That's like sheer pleasure.
+- [00:16:57,840 - 00:17:00,840] And so I really love the failed draft.
+- [00:17:01,340 - 00:17:03,340] I love the first shitty thing.
+- [00:17:03,840 - 00:17:06,089] I don't want anyone to ever read
+- [00:17:06,089 - 00:17:08,339] because they couldn't because my handwriting is egregious.
+- [00:17:08,839 - 00:17:10,339] I let it all in.
+- [00:17:10,839 - 00:17:13,089] I let the failure in because
+- [00:17:13,089 - 00:17:15,339] it's how you understand the world.
+- [00:17:15,839 - 00:17:17,339] That's an amazing thing.
+- [00:17:17,839 - 00:17:22,089] Were you saying, Lauren, if you're 100 pages into a manuscript or even just
+- [00:17:22,089 - 00:17:26,339] 20 pages into a manuscript, you don't sit down and read that 20 pages.
+- [00:17:26,839 - 00:17:28,339] You just keep going.
+- [00:17:28,840 - 00:17:30,340] Oh, just a quick note for our listeners.
+- [00:17:30,840 - 00:17:33,340] Lauren is now holding up a notebook.
+- [00:17:33,840 - 00:17:35,340] This is what I'm working on now.
+- [00:17:35,840 - 00:17:38,340] And I'll never read it over again.
+- [00:17:38,840 - 00:17:40,340] It just doesn't it doesn't matter.
+- [00:17:40,840 - 00:17:41,340] Wow.
+- [00:17:41,840 - 00:17:42,340] That's amazing.
+- [00:17:42,840 - 00:17:43,340] Fascinating to us.
+- [00:17:43,840 - 00:17:44,840] The other two, Nick and
+- [00:17:44,840 - 00:17:45,840] Sam, do you work like that?
+- [00:17:46,840 - 00:17:50,090] I have yellow legal notepads that I write on when I'm
+- [00:17:50,090 - 00:17:53,340] like trying to just figure out the bones of the story.
+- [00:17:53,840 - 00:17:56,590] And then I'll go to the computer and I'll type up
+- [00:17:56,590 - 00:17:59,340] what I imagine is going to be like the first chapter.
+- [00:17:59,840 - 00:18:02,840] And then I'll print that out and set it aside.
+- [00:18:02,840 - 00:18:04,840] And look at it again.
+- [00:18:05,340 - 00:18:06,840] And then I'll make corrections on that.
+- [00:18:07,340 - 00:18:08,840] And then I'll open up another Word document.
+- [00:18:09,340 - 00:18:10,840] And I'll go back to the yellow legal pad.
+- [00:18:11,340 - 00:18:12,840] So I do like a mix of that.
+- [00:18:13,340 - 00:18:16,090] But I also find that when I'm working on a
+- [00:18:16,090 - 00:18:18,840] project, I carry it around with me everywhere I go.
+- [00:18:19,340 - 00:18:20,590] For me, writing is the
+- [00:18:20,590 - 00:18:21,840] stuff I do at my desk.
+- [00:18:22,340 - 00:18:22,840] Yes.
+- [00:18:23,340 - 00:18:24,840] But it's also the stuff
+- [00:18:24,840 - 00:18:26,340] I'm thinking about when I'm walking.
+- [00:18:26,840 - 00:18:27,840] My partner likes to say
+- [00:18:27,840 - 00:18:28,840] that I live in the clouds.
+- [00:18:29,340 - 00:18:30,590] And I think that is
+- [00:18:30,590 - 00:18:31,840] like something that I struggle with.
+- [00:18:31,840 - 00:18:33,840] It's like being present a lot of the
+- [00:18:33,840 - 00:18:35,840] time because I am thinking about the story.
+- [00:18:36,340 - 00:18:38,090] And the kind of ways in
+- [00:18:38,090 - 00:18:39,840] which I've written myself into a corner.
+- [00:18:40,340 - 00:18:43,090] Or things that I don't quite yet
+- [00:18:43,090 - 00:18:45,840] understand about a character or a situation.
+- [00:18:46,340 - 00:18:48,340] And it feels a lot like there's
+- [00:18:48,340 - 00:18:50,340] these little knots that I'm slowly untying.
+- [00:18:51,340 - 00:18:53,340] I think for me, time is a great teacher.
+- [00:18:53,840 - 00:18:56,590] When I'm drafting in the like heat of the
+- [00:18:56,590 - 00:18:59,340] draft, I can convince myself what I've written is brilliant.
+- [00:18:59,840 - 00:19:01,340] Then I go back the next day.
+- [00:19:01,340 - 00:19:03,840] And I look at it with perhaps more sober eyes.
+- [00:19:04,340 - 00:19:07,340] And I'm like, oh, this is not actually brilliant.
+- [00:19:07,840 - 00:19:10,340] I think that shitty first draft thing is accurate.
+- [00:19:10,840 - 00:19:12,340] It's like a weird altered state.
+- [00:19:12,840 - 00:19:14,840] Where it's like I'm writing and I don't really know.
+- [00:19:15,340 - 00:19:16,090] Like when I go back
+- [00:19:16,090 - 00:19:16,840] and I'm like, I wrote that?
+- [00:19:17,340 - 00:19:17,840] Oh, that's cool.
+- [00:19:18,340 - 00:19:19,840] Like literally, like I've forgotten what I've written.
+- [00:19:20,340 - 00:19:21,840] And then for me, I
+- [00:19:21,840 - 00:19:23,340] do that a couple of drafts.
+- [00:19:23,840 - 00:19:25,590] And then once you find what it is, then
+- [00:19:25,590 - 00:19:27,340] there's like a more of the craft comes in.
+- [00:19:27,840 - 00:19:29,090] Then I have to be like
+- [00:19:29,090 - 00:19:30,340] a different kind of writer for myself.
+- [00:19:30,340 - 00:19:32,340] What am I trying to do in this scene?
+- [00:19:32,840 - 00:19:33,840] What is it really about?
+- [00:19:34,340 - 00:19:34,840] And then molding it.
+- [00:19:35,340 - 00:19:37,840] But that first phase of just going
+- [00:19:37,840 - 00:19:40,340] is the hardest and most exciting thing.
+- [00:19:41,340 - 00:19:43,340] James, you mentioned about beginnings and
+- [00:19:43,340 - 00:19:45,340] trying to find the first sentence.
+- [00:19:45,840 - 00:19:47,340] And I was thinking a lot about that.
+- [00:19:47,840 - 00:19:51,590] And I often think that revision for me in the drafting process is
+- [00:19:51,590 - 00:19:55,340] a way of pulling it out of myself and where I'm the only reader.
+- [00:19:55,840 - 00:19:57,340] But start thinking about there's going
+- [00:19:57,340 - 00:19:58,840] to be other readers to this.
+- [00:19:58,840 - 00:20:00,840] And start thinking about like a reader.
+- [00:20:01,340 - 00:20:05,090] And one of the things that a writing teacher once told me about
+- [00:20:05,090 - 00:20:08,840] beginnings that I think is so important is that when you begin a story,
+- [00:20:09,340 - 00:20:11,090] you also through discourse begin to teach
+- [00:20:11,090 - 00:20:12,840] the reader how to read the story.
+- [00:20:13,340 - 00:20:16,090] And I feel like the process of revision is like
+- [00:20:16,090 - 00:20:18,840] thinking about that reader constantly and who that reader is.
+- [00:20:19,340 - 00:20:20,340] I love that.
+- [00:20:20,840 - 00:20:24,340] I was just so interested to hear from all
+- [00:20:24,340 - 00:20:27,840] of you because most of my writing is professionalized reviewing.
+- [00:20:27,840 - 00:20:30,340] This is like 4,000 words, 5,000 words at the most.
+- [00:20:30,840 - 00:20:32,840] And so it's completely different.
+- [00:20:33,340 - 00:20:35,590] And I tend to begin at
+- [00:20:35,590 - 00:20:37,840] the beginning and end at the end.
+- [00:20:38,340 - 00:20:40,840] And that means I obsessively
+- [00:20:40,840 - 00:20:43,340] have to get the beginning right.
+- [00:20:43,840 - 00:20:45,090] The first couple of paragraphs
+- [00:20:45,090 - 00:20:46,340] have to be the right ones.
+- [00:20:46,840 - 00:20:49,090] And once I've got that, then everything
+- [00:20:49,090 - 00:20:51,340] can flow and it flows fairly quickly.
+- [00:20:51,840 - 00:20:54,340] But that first bit can be extremely slow.
+- [00:20:54,840 - 00:20:56,340] Can I ask a question about your process, James?
+- [00:20:56,840 - 00:20:57,340] Let's say you're reading a novel.
+- [00:20:57,840 - 00:20:58,340] Yeah.
+- [00:20:58,840 - 00:21:00,840] What's the process of reading and synthesizing your
+- [00:21:00,840 - 00:21:02,840] experience to writing what you thought about it?
+- [00:21:03,340 - 00:21:06,840] So the first reading, like most of us, I'm sure I read with
+- [00:21:06,840 - 00:21:10,340] a pen in hand and I'm putting lines under things and dog-earing pages.
+- [00:21:10,840 - 00:21:13,340] But I try to just suspend judgment as much as
+- [00:21:13,340 - 00:21:15,840] possible and let the experience of the book have its way.
+- [00:21:16,340 - 00:21:18,590] And then when I go back to the things
+- [00:21:18,590 - 00:21:20,840] that I thought were interesting, why did I dog-ear that?
+- [00:21:21,340 - 00:21:23,090] Oh, there's that passage. I really liked
+- [00:21:23,090 - 00:21:24,840] that image or whatever it was, that word.
+- [00:21:25,340 - 00:21:26,840] And then when I'm doing that,
+- [00:21:26,840 - 00:21:29,340] I think I'm assembling some kind of argument.
+- [00:21:29,840 - 00:21:31,590] But I think that first reading, I
+- [00:21:31,590 - 00:21:33,340] try to be fairly open and innocent.
+- [00:21:33,840 - 00:21:36,090] That's how I tell my students to read each
+- [00:21:36,090 - 00:21:38,340] other's work in workshops, is read it at least twice.
+- [00:21:38,840 - 00:21:40,340] The first read is what I
+- [00:21:40,340 - 00:21:41,840] call the honeymoon read, where anything goes.
+- [00:21:42,340 - 00:21:44,090] This is just like a fun read. Let
+- [00:21:44,090 - 00:21:45,840] the piece just have its way with you.
+- [00:21:46,840 - 00:21:48,340] So what's after the honeymoon read?
+- [00:21:48,840 - 00:21:50,340] Well, then it's the seven-year itch.
+- [00:21:50,840 - 00:21:51,340] Where is it?
+- [00:21:51,840 - 00:21:53,340] It's the seven-year itch. Yeah, yeah, yeah.
+- [00:21:53,840 - 00:21:55,090] That's when you get the pen out and
+- [00:21:55,090 - 00:21:56,340] you start, like, that thing that you first read.
+- [00:21:56,840 - 00:22:00,590] And then you're like, oh, I just adored. You're like, dear God, does
+- [00:22:00,590 - 00:22:04,340] he have to use a conjunctive adverb every time he makes a contrasting point?
+- [00:22:04,840 - 00:22:07,090] James, I also, I was just thinking
+- [00:22:07,090 - 00:22:09,340] about what actually makes a good story?
+- [00:22:09,840 - 00:22:13,340] And is it possible to be objectively good?
+- [00:22:13,840 - 00:22:16,090] Or does the reader just bring so
+- [00:22:16,090 - 00:22:18,340] much of their own selves to a text?
+- [00:22:18,840 - 00:22:22,090] I know I have picked up titles
+- [00:22:22,090 - 00:22:25,340] that were raved about by critics or friends.
+- [00:22:25,340 - 00:22:27,340] And I get two chapters in and
+- [00:22:27,340 - 00:22:29,340] I'm like, it's just not for me.
+- [00:22:29,840 - 00:22:31,840] So as a professional critic, I'm
+- [00:22:31,840 - 00:22:33,840] wondering your take on that question.
+- [00:22:34,340 - 00:22:40,840] I would say, and I bet I'm joined here by everyone else, that I'm responding to and looking
+- [00:22:40,840 - 00:22:47,340] for a kind of vitality, a sort of just a sort of liveliness and life on the page.
+- [00:22:47,840 - 00:22:50,840] And in that sense, once you've got that,
+- [00:22:50,840 - 00:22:53,840] other questions like, is this a realist novel?
+- [00:22:53,840 - 00:22:55,340] Is this a postmodern experimental novel?
+- [00:22:55,840 - 00:22:57,340] Is it broken into numbered paragraphs?
+- [00:22:57,840 - 00:22:58,340] All that stuff.
+- [00:22:58,840 - 00:23:00,340] That's not to the point, is it?
+- [00:23:00,840 - 00:23:04,090] The thing that we're trying to feel and find
+- [00:23:04,090 - 00:23:07,340] is just something very alive that draws you in.
+- [00:23:07,840 - 00:23:13,590] I have a very strong memory of back in about 2011, standing in
+- [00:23:13,590 - 00:23:19,340] the kitchen at the kitchen counter and opening a package from Archipelago Books.
+- [00:23:19,840 - 00:23:21,590] And they had sent me just on
+- [00:23:21,590 - 00:23:23,340] spec the first volume of the book.
+- [00:23:23,840 - 00:23:26,340] And that's a cover of Canaris Guards, My Struggle.
+- [00:23:26,840 - 00:23:28,340] And I didn't know anything about it.
+- [00:23:28,840 - 00:23:29,840] I'd never heard of him.
+- [00:23:30,340 - 00:23:31,340] I knew nothing about it.
+- [00:23:31,840 - 00:23:33,090] And it was just like a little note saying,
+- [00:23:33,090 - 00:23:34,340] this seems like you might be interested in this.
+- [00:23:34,840 - 00:23:37,080] So I opened it and I just started reading it.
+- [00:23:37,840 - 00:23:39,840] And I was standing there for three or four pages.
+- [00:23:40,840 - 00:23:42,840] And I thought, this has something, this has it.
+- [00:23:43,840 - 00:23:45,340] It's drawing me in, it has real vitality.
+- [00:23:45,840 - 00:23:47,340] So above all, I'm just looking
+- [00:23:47,340 - 00:23:48,840] for that thing, the non deadness.
+- [00:23:49,840 - 00:23:50,590] When I pick up a book
+- [00:23:50,590 - 00:23:51,340] to read it, I am always,
+- [00:23:51,340 - 00:23:53,780] Always, I think, in the mindset where
+- [00:23:53,780 - 00:23:56,220] I am reading with my arms uncrossed.
+- [00:23:56,260 - 00:23:57,560] Like, I want to be impressed.
+- [00:23:57,679 - 00:23:58,939] I want to be taken somewhere.
+- [00:23:59,139 - 00:24:00,760] I want to sort of be drawn in.
+- [00:24:00,760 - 00:24:04,280] And I never underestimate a book or a
+- [00:24:04,280 - 00:24:07,800] story's power to just make me forget everything else.
+- [00:24:08,520 - 00:24:12,079] Thinking about that vitality or that life, I feel like that might be
+- [00:24:12,079 - 00:24:15,639] a sign that a story is working, either for you or just in general.
+- [00:24:15,640 - 00:24:18,570] As you are writing your own stories, how
+- [00:24:18,570 - 00:24:21,500] do you know whether or not it's working?
+- [00:24:22,060 - 00:24:24,660] If it comes close, you can feel it.
+- [00:24:24,700 - 00:24:26,480] It's almost like a vibrational thing.
+- [00:24:26,480 - 00:24:27,820] You're writing into it.
+- [00:24:27,920 - 00:24:29,760] It feels good, right?
+- [00:24:29,800 - 00:24:34,270] Even if it feels bad to write it, it feels good because you're coming
+- [00:24:34,270 - 00:24:38,740] as close as possible to this thing that you want so badly to do.
+- [00:24:39,260 - 00:24:41,700] And that doesn't mean that everyone who's going to read it is
+- [00:24:41,700 - 00:24:44,140] going to like it, right, or going to feel the same vibration.
+- [00:24:44,620 - 00:24:45,600] But you feel it.
+- [00:24:45,660 - 00:24:46,620] And you sense it.
+- [00:24:46,680 - 00:24:47,940] And you know that it's there.
+- [00:24:48,240 - 00:24:50,390] And it takes a very long time as a writer
+- [00:24:50,390 - 00:24:52,540] to actually develop a sense of that in your own work.
+- [00:24:53,120 - 00:24:55,890] I just really appreciate, Lauren, how much you talk about how
+- [00:24:55,890 - 00:24:58,660] things feel at the vibrations and the physical nature of it.
+- [00:24:58,880 - 00:25:01,940] I feel like you're talking about success at Harvard.
+- [00:25:02,060 - 00:25:03,670] And I think that a thing at Harvard,
+- [00:25:03,670 - 00:25:05,280] you're right, most of the students are very successful.
+- [00:25:05,700 - 00:25:08,290] And most of the success has come at an intellectual level
+- [00:25:08,290 - 00:25:10,880] as they plan their plays or their things in some ways.
+- [00:25:11,400 - 00:25:13,290] But I think just returning to feeling
+- [00:25:13,290 - 00:25:15,180] or vibrations, I just find it really useful.
+- [00:25:15,360 - 00:25:15,620] And I think I've learned a lot.
+- [00:25:15,620 - 00:25:16,719] I think I might use it in my class.
+- [00:25:16,879 - 00:25:17,280] That's all.
+- [00:25:17,659 - 00:25:18,199] And I'll credit you.
+- [00:25:18,300 - 00:25:18,719] I'll credit you.
+- [00:25:19,219 - 00:25:19,439] Good.
+- [00:25:19,659 - 00:25:22,479] Sometimes we do have to detach our intellect from the thing
+- [00:25:22,479 - 00:25:25,300] that we're trying to do because it's not all about intellect.
+- [00:25:25,500 - 00:25:28,739] Eventually, in the editing process, that's when we apply it.
+- [00:25:29,000 - 00:25:31,030] If you want to write something that's going to
+- [00:25:31,030 - 00:25:33,060] affect people emotionally, you have to do it emotionally.
+- [00:25:33,600 - 00:25:35,029] And it has to cost you
+- [00:25:35,029 - 00:25:36,459] more than the time you're spending writing.
+- [00:25:36,620 - 00:25:39,739] It pushes me to my emotional and intellectual capabilities.
+- [00:25:39,739 - 00:25:42,309] I feel like when something is working,
+- [00:25:42,309 - 00:25:44,879] it is because all cylinders are firing.
+- [00:25:44,880 - 00:25:46,960] And I am working at the very
+- [00:25:46,960 - 00:25:49,040] bleeding edge of what I am capable of.
+- [00:25:49,300 - 00:25:51,290] I'd also say, just as a tip, I don't
+- [00:25:51,290 - 00:25:53,280] know if it's useful for any of our listeners.
+- [00:25:53,580 - 00:25:57,080] First of all, I tend to just quietly read under
+- [00:25:57,080 - 00:26:00,580] my breath as I'm reading through a paragraph or two.
+- [00:26:00,840 - 00:26:02,440] I just, I quietly read it
+- [00:26:02,440 - 00:26:04,040] so that I can get a sense.
+- [00:26:04,400 - 00:26:07,100] But I also think, actually, just a more vocal
+- [00:26:07,100 - 00:26:09,800] version of that, of actually reading something out aloud.
+- [00:26:09,860 - 00:26:10,720] It's interesting, isn't it?
+- [00:26:10,720 - 00:26:12,720] When you read from your work in a
+- [00:26:12,720 - 00:26:14,720] bookshop, I don't know if others have had this.
+- [00:26:14,720 - 00:26:15,640] I've certainly had it.
+- [00:26:16,140 - 00:26:18,820] You agree to read a few pages, and
+- [00:26:18,820 - 00:26:21,500] suddenly you find you've edited out a sentence.
+- [00:26:22,140 - 00:26:25,320] It's like some weird kind of bullshit detector went off, and
+- [00:26:25,320 - 00:26:28,500] you thought, ah, I can't pull that one off on the room.
+- [00:26:28,920 - 00:26:31,160] And there's probably a good reason for that, right?
+- [00:26:31,180 - 00:26:33,150] And it should have been
+- [00:26:33,150 - 00:26:35,120] left out in the original book.
+- [00:26:35,300 - 00:26:37,860] So I just think that's the estranging thing.
+- [00:26:38,000 - 00:26:40,420] Always it's a kind of, you want estrangement, don't you?
+- [00:26:40,420 - 00:26:42,480] Because you're trying to split yourself into two.
+- [00:26:42,880 - 00:26:44,420] This other person, this colder.
+- [00:26:44,720 - 00:26:47,020] This person who is ready to murder
+- [00:26:47,020 - 00:26:49,320] the darlings will ideally read what you've written.
+- [00:26:49,480 - 00:26:50,760] And that's very difficult to do.
+- [00:26:51,480 - 00:26:53,040] Reading aloud is so important.
+- [00:26:53,540 - 00:26:58,620] I work in my office here at Lamont, and I'm sure that when I was back at OSU as
+- [00:26:58,620 - 00:27:03,700] a professor there, my colleagues who were nearby probably thought I was insane because I'm reading my stuff aloud.
+- [00:27:03,700 - 00:27:07,400] And it must appear that I am, in some ways, having a
+- [00:27:07,400 - 00:27:11,100] breakdown, especially depending on what part of the story or chapter I'm reading.
+- [00:27:11,180 - 00:27:11,980] But that is so true.
+- [00:27:12,480 - 00:27:14,700] James, you mentioned the phrase, murder your darlings.
+- [00:27:14,720 - 00:27:15,220] Mm-hmm.
+- [00:27:15,220 - 00:27:17,510] Just in case there's people listening who are
+- [00:27:17,510 - 00:27:19,800] not familiar with that because it sounds pretty morbid.
+- [00:27:19,800 - 00:27:24,170] But it's this idea that you may have these beloved passages or sentences or
+- [00:27:24,170 - 00:27:28,540] characters even, but you have to kill them for the greater good of the story.
+- [00:27:28,820 - 00:27:31,200] Does it get easier to murder your darlings?
+- [00:27:31,540 - 00:27:32,260] I think it does.
+- [00:27:32,500 - 00:27:38,540] I certainly have memories of being much younger and reacting badly to editors,
+- [00:27:38,540 - 00:27:44,580] possessively and somewhat neurotically, and storming around the house for a couple of days.
+- [00:27:44,720 - 00:27:48,050] And then I think just having enough of those experiences,
+- [00:27:48,050 - 00:27:51,380] you begin to realize that there is wisdom outside oneself.
+- [00:27:52,240 - 00:27:54,920] Editors have saved my ass so many times.
+- [00:27:55,100 - 00:27:58,380] I remember in a story for my story collection, my editor,
+- [00:27:58,380 - 00:28:01,660] Kate Napolitano, if you ever hear this, she was so brilliant.
+- [00:28:01,660 - 00:28:03,420] She had a great bullshit detector.
+- [00:28:03,540 - 00:28:05,660] I remember there was one line in one
+- [00:28:05,660 - 00:28:07,780] of my stories where I said, he wept.
+- [00:28:08,000 - 00:28:09,370] And she put a little note
+- [00:28:09,370 - 00:28:10,740] there that said, who is he, Jesus?
+- [00:28:11,320 - 00:28:13,220] And I just cut it out.
+- [00:28:13,280 - 00:28:14,580] And I was like, oh, I don't know.
+- [00:28:14,580 - 00:28:15,989] Like, I think I like this,
+- [00:28:15,989 - 00:28:17,399] but she's saying cut it out.
+- [00:28:17,419 - 00:28:18,080] And I cut it out.
+- [00:28:18,159 - 00:28:20,260] And then I go back and revisit the story.
+- [00:28:20,379 - 00:28:22,399] Like, it just works so much better.
+- [00:28:22,520 - 00:28:24,359] Like, everything she's ever told me to
+- [00:28:24,359 - 00:28:26,199] cut out, I have done and followed.
+- [00:28:26,360 - 00:28:27,879] And it made it so much better.
+- [00:28:27,879 - 00:28:30,229] I totally agree that murdering all
+- [00:28:30,229 - 00:28:32,580] of that gets so much easier.
+- [00:28:32,840 - 00:28:36,080] It becomes a sociopath almost for your bad lines.
+- [00:28:36,939 - 00:28:38,740] I have a little counter to this.
+- [00:28:39,020 - 00:28:39,939] Gentle pushback.
+- [00:28:40,399 - 00:28:41,760] Obviously, yes, kill your darlings.
+- [00:28:41,860 - 00:28:42,639] Yes, of course, edit.
+- [00:28:42,960 - 00:28:43,980] And it does get easier.
+- [00:28:43,980 - 00:28:44,960] I think that's true.
+- [00:28:45,420 - 00:28:47,810] That said, sometimes things are difficult and people don't
+- [00:28:47,810 - 00:28:50,200] like them, but it doesn't mean you should cut them.
+- [00:28:51,100 - 00:28:54,140] I'm not saying you need to be willfully difficult, but like that
+- [00:28:54,140 - 00:28:57,180] you do things that even though they may not be immediately appealing.
+- [00:28:57,460 - 00:28:57,820] Right.
+- [00:28:57,920 - 00:28:59,320] It goes back to the TV conversation.
+- [00:28:59,620 - 00:29:02,600] So much TV is bad because it's like always rewarding.
+- [00:29:02,600 - 00:29:03,640] And there's a place for that.
+- [00:29:03,780 - 00:29:04,850] But there's also a place
+- [00:29:04,850 - 00:29:05,920] for things that don't reward immediately.
+- [00:29:06,100 - 00:29:08,260] I'm just saying that in the killing
+- [00:29:08,260 - 00:29:10,420] of your darlings discussion, you have to balance.
+- [00:29:10,700 - 00:29:11,300] Do I need this?
+- [00:29:11,340 - 00:29:11,940] Is this bad?
+- [00:29:12,120 - 00:29:12,740] Who is this telling?
+- [00:29:12,740 - 00:29:13,960] And that's why it makes it hard.
+- [00:29:13,980 - 00:29:14,220] Right.
+- [00:29:14,220 - 00:29:15,780] Maybe I haven't done a good enough job
+- [00:29:15,780 - 00:29:17,340] of writing the thing I want to write.
+- [00:29:17,340 - 00:29:18,380] It's not that I should cut it.
+- [00:29:18,380 - 00:29:19,380] It's that I should write it better.
+- [00:29:19,660 - 00:29:20,580] That's the challenge.
+- [00:29:20,580 - 00:29:22,080] That's what good editing is.
+- [00:29:22,080 - 00:29:24,170] It's sort of sliding those moments where there's
+- [00:29:24,170 - 00:29:26,260] no life or there's less life than you need.
+- [00:29:26,260 - 00:29:28,340] It's not telling you to cut something.
+- [00:29:28,340 - 00:29:30,180] It's telling you it needs to be better.
+- [00:29:30,220 - 00:29:31,500] Everyone needs an editor.
+- [00:29:32,260 - 00:29:37,720] One of my greatest writing teachers, Michelle Herman, she had this famous mark that she would put on your stories and
+- [00:29:37,720 - 00:29:43,180] they were brackets and she would bracket a sentence and she would just write out on the side, do better here.
+- [00:29:43,180 - 00:29:43,340] Mm-hmm.
+- [00:29:43,340 - 00:29:43,620] Yeah.
+- [00:29:43,620 - 00:29:43,660] Yeah.
+- [00:29:43,660 - 00:29:43,920] Yeah.
+- [00:29:43,980 - 00:29:45,580] And it really worked.
+- [00:29:45,820 - 00:29:49,460] I'm having flashbacks to my early writing career and how a comment
+- [00:29:49,460 - 00:29:53,100] like that would have caused me to just have a total breakdown.
+- [00:29:53,100 - 00:29:55,620] And I would take it so personally.
+- [00:29:55,980 - 00:29:58,680] But I do think with experience and perspective,
+- [00:29:58,680 - 00:30:01,380] you realize that there's nothing to take personally.
+- [00:30:01,420 - 00:30:03,180] We all benefit from having
+- [00:30:03,180 - 00:30:04,940] other people weigh in on stuff.
+- [00:30:05,020 - 00:30:06,380] We all make bad art on
+- [00:30:06,380 - 00:30:07,740] the way to making good art.
+- [00:30:07,740 - 00:30:10,420] And I think like, it's just the way it is.
+- [00:30:10,780 - 00:30:12,220] As we wrap up this episode,
+- [00:30:12,220 - 00:30:13,660] do you have any advice for others?
+- [00:30:13,660 - 00:30:14,860] For other writers out there?
+- [00:30:15,220 - 00:30:18,660] One of the things I found has been very useful in
+- [00:30:18,660 - 00:30:22,100] talking to my students, especially when we're working on short stories.
+- [00:30:22,100 - 00:30:25,220] But more than ever, when we're working on novels
+- [00:30:25,220 - 00:30:28,340] is thinking about your process and thinking about your schedule.
+- [00:30:28,580 - 00:30:30,780] I'm teaching a novel workshop next semester.
+- [00:30:30,780 - 00:30:34,620] And one of the first things that we're going to do is talk
+- [00:30:34,620 - 00:30:38,460] about our schedule, making time for the practice of writing in our daily lives.
+- [00:30:38,460 - 00:30:40,900] And I think that has always been something
+- [00:30:40,900 - 00:30:43,340] that has saved me, even when I'm feeling stuck.
+- [00:30:43,340 - 00:30:47,899] I know that every Monday from seven in the morning to 10,
+- [00:30:47,899 - 00:30:52,459] I'm going to spend three hours that Monday thinking about my work.
+- [00:30:52,459 - 00:30:53,779] Even if I don't put a mark
+- [00:30:53,779 - 00:30:55,100] on the page, I'm still thinking about it.
+- [00:30:55,100 - 00:30:56,179] I'm still wrestling with it.
+- [00:30:56,179 - 00:30:59,759] I think Peter Ho Davies, who teaches at University of Michigan, talks about you don't
+- [00:30:59,759 - 00:31:03,340] have to write every day, but you still need to touch your work every day.
+- [00:31:03,820 - 00:31:08,460] And I think that is something that has always helped me when I feel
+- [00:31:08,460 - 00:31:13,100] like I'm failing and I don't know my way out of a particular story.
+- [00:31:13,100 - 00:31:19,379] My instinct, going back to what Sam said about like how we deal with conflict, is to run away,
+- [00:31:19,379 - 00:31:25,659] is to procrastinate, is to not, it's just watch a really bad television show or do something that's not writing.
+- [00:31:25,659 - 00:31:27,559] But that's the time when I need to
+- [00:31:27,559 - 00:31:29,459] go to the work and sit with it.
+- [00:31:29,459 - 00:31:33,020] Writing is more a verb than it is a noun.
+- [00:31:33,020 - 00:31:34,860] It's the process.
+- [00:31:34,860 - 00:31:38,219] What you're doing is like focused on the process.
+- [00:31:38,219 - 00:31:39,580] That's the art.
+- [00:31:39,580 - 00:31:41,320] And if you happen to have something at the end
+- [00:31:41,320 - 00:31:43,060] of it that other people don't have, that's the art.
+- [00:31:43,060 - 00:31:44,020] That's the art that other people can read.
+- [00:31:44,020 - 00:31:44,780] That's great.
+- [00:31:44,780 - 00:31:46,700] That allows you to do it again.
+- [00:31:46,700 - 00:31:48,400] I don't know if anybody ever gave
+- [00:31:48,400 - 00:31:50,100] this advice, but it feels like someone did.
+- [00:31:50,100 - 00:31:51,899] So I'm just going to go with it.
+- [00:31:51,899 - 00:31:55,179] There really are no rules, right?
+- [00:31:55,179 - 00:31:59,199] If you look at the great works of literature, Tolstoy
+- [00:31:59,199 - 00:32:03,220] does everything that he wants to do because he can, right?
+- [00:32:03,220 - 00:32:06,360] So it's really only the rules inherent to
+- [00:32:06,360 - 00:32:09,500] the story at hand that you need to discover.
+- [00:32:09,500 - 00:32:11,260] And then everything else you
+- [00:32:11,260 - 00:32:13,020] just figure out as you're going.
+- [00:32:13,060 - 00:32:15,320] So do not be hidebound, do
+- [00:32:15,320 - 00:32:17,580] not be rule-bound, do not be afraid.
+- [00:32:17,580 - 00:32:19,560] Go courageously into the work
+- [00:32:19,560 - 00:32:21,540] and the work will reward you.
+- [00:32:21,540 - 00:32:22,340] Lovely.
+- [00:32:22,340 - 00:32:23,500] I love that.
+- [00:32:23,500 - 00:32:25,419] Thank you all for joining me today.
+- [00:32:25,419 - 00:32:26,060] Thanks, Sam.
+- [00:32:26,060 - 00:32:26,980] Thank you.
+- [00:32:26,980 - 00:32:28,220] Thanks, Sam.
+- [00:32:30,659 - 00:32:31,940] Thanks for listening.
+- [00:32:31,940 - 00:32:35,140] To see a transcript of this episode or to
+- [00:32:35,140 - 00:32:38,340] listen to our other episodes, visit harvard.edu slash thinking.
+- [00:32:38,340 - 00:32:40,560] If you're a fan of this podcast and want to
+- [00:32:40,560 - 00:32:42,780] support our work, share it with a friend or colleague.
+- [00:32:42,780 - 00:32:46,120] This episode was hosted and produced by me, Samantha
+- [00:32:46,120 - 00:32:49,460] Liney-Parfos, with additional production and editing support from Sarah LaMotti.
+- [00:32:49,460 - 00:32:53,420] Editing by Ryan Mulcahy, Paul Mikushima, and Max Larkin.
+- [00:32:53,420 - 00:32:56,260] Original music and sound design by Noel Flatt.
+- [00:32:56,260 - 00:32:57,940] Produced by Harvard University.
+- [00:32:57,940 - 00:32:59,460] Copyright 2025.

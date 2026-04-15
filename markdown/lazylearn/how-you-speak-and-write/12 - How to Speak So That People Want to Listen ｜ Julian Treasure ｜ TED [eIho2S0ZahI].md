@@ -1,0 +1,291 @@
+# Transcript
+
+Source: lazylearn/how-you-speak-and-write/12 - How to Speak So That People Want to Listen ｜ Julian Treasure ｜ TED [eIho2S0ZahI].webm
+
+- [00:00:00,000 - 00:00:07,000] Tanya Cushman Reviewer Reviewer's Name
+- [00:00:14,080 - 00:00:16,000] The human voice.
+- [00:00:16,000 - 00:00:18,600] It's the instrument we all play.
+- [00:00:18,600 - 00:00:21,000] It's the most powerful sound in the world, probably.
+- [00:00:21,000 - 00:00:22,500] It's the only one that can start
+- [00:00:22,500 - 00:00:24,000] a war or say, I love you.
+- [00:00:24,000 - 00:00:25,500] And yet many people have
+- [00:00:25,500 - 00:00:27,000] the experience that when they speak,
+- [00:00:27,000 - 00:00:28,400] people don't listen to them.
+- [00:00:28,400 - 00:00:29,480] Why is that?
+- [00:00:29,480 - 00:00:31,480] How can we speak powerfully
+- [00:00:31,480 - 00:00:33,480] to make change in the world?
+- [00:00:33,480 - 00:00:34,880] What I'd like to suggest,
+- [00:00:34,880 - 00:00:36,280] there are a number of habits
+- [00:00:36,280 - 00:00:37,680] that we need to move away from.
+- [00:00:37,680 - 00:00:39,580] I've assembled for your pleasure
+- [00:00:39,580 - 00:00:41,480] here seven deadly sins of speaking.
+- [00:00:41,480 - 00:00:43,880] I'm not pretending this is an exhaustive list,
+- [00:00:43,880 - 00:00:46,880] but these seven, I think, are pretty large.
+- [00:00:46,880 - 00:00:49,080] Habits that we can all fall into.
+- [00:00:49,080 - 00:00:51,880] First, gossip.
+- [00:00:51,880 - 00:00:54,680] Speaking ill of somebody who's not present.
+- [00:00:54,680 - 00:00:56,680] Not a nice habit, and we know perfectly well
+- [00:00:56,680 - 00:00:58,880] the person gossiping five minutes later
+- [00:00:58,880 - 00:01:01,880] will be gossiping about us.
+- [00:01:01,880 - 00:01:03,480] Second, judging.
+- [00:01:03,480 - 00:01:05,680] We know people who are like this in conversation,
+- [00:01:05,680 - 00:01:07,480] and it's very hard to listen to somebody
+- [00:01:07,480 - 00:01:09,480] if you know that you're being judged
+- [00:01:09,480 - 00:01:12,480] and found wanting at the same time.
+- [00:01:12,480 - 00:01:14,480] Third, negativity.
+- [00:01:14,480 - 00:01:15,680] You can fall into this.
+- [00:01:15,680 - 00:01:17,280] My mother in the last years of her life
+- [00:01:17,280 - 00:01:19,480] became very, very negative, and it's hard to listen.
+- [00:01:19,480 - 00:01:20,980] I remember one day I said
+- [00:01:20,980 - 00:01:22,480] to her, it's October the 1st today,
+- [00:01:22,480 - 00:01:24,880] and she said, I know, isn't it dreadful?
+- [00:01:24,880 - 00:01:26,880] Laughter
+- [00:01:26,880 - 00:01:28,680] It's hard to listen when somebody's that angry.
+- [00:01:28,880 - 00:01:31,880] It's hard to listen when somebody's that negative.
+- [00:01:31,880 - 00:01:34,679] And another form of negativity, complaining.
+- [00:01:34,679 - 00:01:38,679] Well, this is the national art of the UK.
+- [00:01:38,679 - 00:01:39,679] It's our national sport.
+- [00:01:39,679 - 00:01:42,080] We complain about the weather, about sport, about politics,
+- [00:01:42,080 - 00:01:45,679] about everything, but actually complaining is viral misery.
+- [00:01:45,679 - 00:01:49,679] It's not spreading sunshine and lightness in the world.
+- [00:01:49,679 - 00:01:51,080] Excuses.
+- [00:01:51,080 - 00:01:52,280] We've all met this guy.
+- [00:01:52,280 - 00:01:53,880] Maybe we've all been this guy.
+- [00:01:53,880 - 00:01:56,679] Some people have a blame-thrower.
+- [00:01:56,679 - 00:01:57,880] They just pass it on to everybody else,
+- [00:01:57,880 - 00:01:59,679] and don't take responsibility for their actions.
+- [00:01:59,679 - 00:02:01,179] And again, hard to listen
+- [00:02:01,179 - 00:02:02,679] to somebody who's being like that.
+- [00:02:02,679 - 00:02:05,579] Penultimate, the sixth of
+- [00:02:05,579 - 00:02:08,479] the seven, embroidery, exaggeration.
+- [00:02:08,479 - 00:02:10,680] It demeans our language, actually, sometimes.
+- [00:02:10,680 - 00:02:14,079] For example, if I see something that really is awesome,
+- [00:02:14,079 - 00:02:15,480] what do I call it?
+- [00:02:15,480 - 00:02:18,079] Laughter
+- [00:02:18,079 - 00:02:20,480] And then, of course, this exaggeration becomes lying,
+- [00:02:20,480 - 00:02:21,480] out and out lying, and we
+- [00:02:21,480 - 00:02:22,480] don't want to listen to people
+- [00:02:22,480 - 00:02:24,480] we know are lying to us.
+- [00:02:24,480 - 00:02:27,680] And finally, dogmatism.
+- [00:02:27,680 - 00:02:31,280] The confusion of facts with opinions.
+- [00:02:31,280 - 00:02:32,980] When those two things get
+- [00:02:32,980 - 00:02:34,680] conflated, you're listening into the wind.
+- [00:02:34,680 - 00:02:36,680] You know, somebody is bombarding you with their opinions
+- [00:02:36,680 - 00:02:38,080] as if they were true.
+- [00:02:38,080 - 00:02:40,680] It's difficult to listen to that.
+- [00:02:40,680 - 00:02:43,880] So here they are, seven deadly sins of speaking.
+- [00:02:43,880 - 00:02:46,480] These are things I think we need to avoid.
+- [00:02:46,480 - 00:02:49,080] But is there a positive way to think about this?
+- [00:02:49,080 - 00:02:50,480] Yes, there is.
+- [00:02:50,480 - 00:02:52,580] I'd like to suggest that
+- [00:02:52,580 - 00:02:54,680] there are four really powerful cornerstones,
+- [00:02:54,680 - 00:02:57,480] foundations that we can stand on, if we want to,
+- [00:02:57,680 - 00:03:00,180] if we want our speech to be
+- [00:03:00,180 - 00:03:02,680] powerful and to make change in the world.
+- [00:03:02,680 - 00:03:04,680] Fortunately, these things spell a word.
+- [00:03:04,680 - 00:03:06,180] The word is hail, and it
+- [00:03:06,180 - 00:03:07,680] has a great definition as well.
+- [00:03:07,680 - 00:03:08,680] I'm not talking about the
+- [00:03:08,680 - 00:03:09,680] stuff that falls from the sky
+- [00:03:09,680 - 00:03:11,680] and hits you on the head.
+- [00:03:11,680 - 00:03:13,680] I'm talking about this definition, too.
+- [00:03:13,680 - 00:03:15,680] Greet or acclaim enthusiastically, which is, I think,
+- [00:03:15,680 - 00:03:17,180] how our words will be received
+- [00:03:17,180 - 00:03:18,680] if we stand on these four things.
+- [00:03:18,680 - 00:03:20,680] So what do they stand for?
+- [00:03:20,680 - 00:03:22,680] See if you can guess.
+- [00:03:22,680 - 00:03:25,680] The H, honesty, of course.
+- [00:03:25,680 - 00:03:26,680] Being true in what you say.
+- [00:03:26,680 - 00:03:28,680] Being straight and clear.
+- [00:03:28,680 - 00:03:30,680] The A is authenticity.
+- [00:03:30,680 - 00:03:32,680] Just being yourself.
+- [00:03:32,680 - 00:03:34,180] A friend of mine described it
+- [00:03:34,180 - 00:03:35,680] as standing in your own truth,
+- [00:03:35,680 - 00:03:37,680] which I think is a lovely way to put it.
+- [00:03:37,680 - 00:03:39,680] The I is integrity.
+- [00:03:39,680 - 00:03:40,680] Being your word.
+- [00:03:40,680 - 00:03:42,680] Actually doing what you say
+- [00:03:42,680 - 00:03:44,680] and being somebody people can trust.
+- [00:03:44,680 - 00:03:47,680] And the L is love.
+- [00:03:47,680 - 00:03:49,680] I don't mean romantic love, but
+- [00:03:49,680 - 00:03:51,680] I do mean wishing people well.
+- [00:03:51,680 - 00:03:52,680] For two reasons.
+- [00:03:52,680 - 00:03:54,180] First of all, I think absolute
+- [00:03:54,180 - 00:03:55,680] honesty may not be what we want.
+- [00:03:55,680 - 00:03:57,680] I mean, my goodness, you look ugly this morning.
+- [00:03:57,680 - 00:04:01,680] Perhaps that's not necessary.
+- [00:04:01,680 - 00:04:04,680] Tempered with love, of course, honesty is a great thing.
+- [00:04:04,680 - 00:04:07,680] But also, if you're really wishing somebody well,
+- [00:04:07,680 - 00:04:10,680] it's very hard to judge them at the same time.
+- [00:04:10,680 - 00:04:12,680] I'm not even sure you
+- [00:04:12,680 - 00:04:14,680] can do those two things simultaneously.
+- [00:04:14,680 - 00:04:16,680] So hail.
+- [00:04:16,680 - 00:04:18,180] Also, now that's what you say,
+- [00:04:18,180 - 00:04:19,680] and it's like the old song.
+- [00:04:19,680 - 00:04:20,680] It is what you say.
+- [00:04:20,680 - 00:04:22,680] It's also the way that you say it.
+- [00:04:22,680 - 00:04:23,680] You have an amazing toolbox.
+- [00:04:23,680 - 00:04:25,680] This instrument is incredible.
+- [00:04:25,680 - 00:04:27,180] And yet this is a toolbox
+- [00:04:27,180 - 00:04:28,680] that very few people have ever opened.
+- [00:04:28,680 - 00:04:30,180] I'd like to have a little
+- [00:04:30,180 - 00:04:31,680] rummage in there with you now.
+- [00:04:31,680 - 00:04:33,180] Just pull a few tools out that you
+- [00:04:33,180 - 00:04:34,680] might like to take away and play with,
+- [00:04:34,680 - 00:04:37,680] which will increase the power of your speaking.
+- [00:04:37,680 - 00:04:39,680] Register, for example.
+- [00:04:39,680 - 00:04:41,680] Now, falsetto register may not be
+- [00:04:41,680 - 00:04:43,680] very useful most of the time.
+- [00:04:43,680 - 00:04:45,680] But there's a register in between.
+- [00:04:45,680 - 00:04:47,180] I'm not going to get very technical about
+- [00:04:47,180 - 00:04:48,680] this for any of you who are voice coaches.
+- [00:04:48,680 - 00:04:50,680] You can locate your voice, however.
+- [00:04:50,680 - 00:04:52,180] So if I talk up here in
+- [00:04:52,180 - 00:04:53,680] my nose, you can hear the difference.
+- [00:04:53,680 - 00:04:54,680] If I go down here in my throat,
+- [00:04:54,680 - 00:04:56,680] which is where most of us
+- [00:04:56,680 - 00:04:58,680] speak from most of the time,
+- [00:04:58,680 - 00:05:00,680] but if you want weight, you need
+- [00:05:00,680 - 00:05:02,680] to go down here to the chest.
+- [00:05:02,680 - 00:05:04,680] You hear the difference?
+- [00:05:04,680 - 00:05:07,680] We vote for politicians with lower voices.
+- [00:05:07,680 - 00:05:08,680] It's true.
+- [00:05:08,680 - 00:05:13,680] Because we associate depth with power and with authority.
+- [00:05:13,680 - 00:05:15,680] That's register.
+- [00:05:15,680 - 00:05:17,680] And we have timbre.
+- [00:05:17,680 - 00:05:19,680] It's the way your voice feels.
+- [00:05:19,680 - 00:05:21,680] Again, the research shows that we
+- [00:05:21,680 - 00:05:23,680] prefer voices which are rich, smooth, warm,
+- [00:05:23,680 - 00:05:25,680] like hot chocolate.
+- [00:05:25,680 - 00:05:27,680] Well, if that's not you, that's
+- [00:05:27,680 - 00:05:29,680] not the end of the world.
+- [00:05:29,680 - 00:05:31,680] Because you can train.
+- [00:05:31,680 - 00:05:32,680] Go get a voice coach.
+- [00:05:32,680 - 00:05:34,180] And there are amazing things you
+- [00:05:34,180 - 00:05:35,680] can do with breathing, with posture,
+- [00:05:35,680 - 00:05:38,680] with exercises to improve the timbre of your voice.
+- [00:05:38,680 - 00:05:41,680] Then prosody. I love prosody.
+- [00:05:41,680 - 00:05:43,680] This is the sing-song, the meta-language that
+- [00:05:43,680 - 00:05:45,680] we use in order to impart meaning.
+- [00:05:45,680 - 00:05:47,680] It's route one for meaning in conversation.
+- [00:05:47,680 - 00:05:49,680] People who speak all on one note
+- [00:05:49,680 - 00:05:51,680] are really quite hard to listen to
+- [00:05:51,680 - 00:05:53,680] if they don't have any prosody.
+- [00:05:53,680 - 00:05:56,680] That's where the word monotonic
+- [00:05:56,680 - 00:05:59,680] comes from, or monotonous, monotone.
+- [00:05:59,680 - 00:06:02,680] Also, we have repetitive prosody now coming in,
+- [00:06:02,680 - 00:06:05,680] where every sentence ends as if it were a question.
+- [00:06:05,680 - 00:06:08,680] When it's actually not a question, it's a statement.
+- [00:06:10,680 - 00:06:12,680] And if you repeat that one over and over,
+- [00:06:12,680 - 00:06:14,180] it's actually restricting your
+- [00:06:14,180 - 00:06:15,680] ability to communicate through prosody,
+- [00:06:15,680 - 00:06:17,680] which I think is a shame.
+- [00:06:17,680 - 00:06:20,680] So let's try and break that habit.
+- [00:06:20,680 - 00:06:21,680] Pace.
+- [00:06:21,680 - 00:06:22,680] I can get very, very excited
+- [00:06:22,680 - 00:06:23,680] by saying something really, really good.
+- [00:06:23,680 - 00:06:24,680] I can do it really, really quickly.
+- [00:06:24,680 - 00:06:28,680] Or I can slow right down to emphasize.
+- [00:06:28,680 - 00:06:30,680] And at the end of that,
+- [00:06:30,680 - 00:06:32,680] of course, is our old friend silence.
+- [00:06:34,680 - 00:06:36,680] There's nothing wrong with a bit
+- [00:06:36,680 - 00:06:38,680] of silence in a talk, is there?
+- [00:06:38,680 - 00:06:41,680] We don't have to fill it with ums and ahs.
+- [00:06:41,680 - 00:06:43,680] It can be very powerful.
+- [00:06:43,680 - 00:06:45,180] Of course, pitch often goes
+- [00:06:45,180 - 00:06:46,680] along with pace to indicate arousal,
+- [00:06:46,680 - 00:06:48,680] but you can do it just with pitch.
+- [00:06:48,680 - 00:06:50,680] Where did you leave my keys?
+- [00:06:50,680 - 00:06:52,680] Where did you leave my keys?
+- [00:06:52,680 - 00:06:55,680] Slightly different meaning in those two deliveries.
+- [00:06:55,680 - 00:06:57,680] And finally, volume.
+- [00:06:57,680 - 00:07:01,680] I can get really excited by using volume.
+- [00:07:01,680 - 00:07:03,680] Sorry about that if I startled anybody.
+- [00:07:03,680 - 00:07:05,680] Or I can have you really
+- [00:07:05,680 - 00:07:07,680] pay attention by getting very quiet.
+- [00:07:07,680 - 00:07:10,680] Some people broadcast the whole time.
+- [00:07:10,680 - 00:07:11,680] Try not to do that.
+- [00:07:11,680 - 00:07:13,680] That's called sodcasting.
+- [00:07:15,680 - 00:07:17,680] Imposing your sound on people
+- [00:07:17,680 - 00:07:19,680] around you carelessly and inconsiderately.
+- [00:07:19,680 - 00:07:20,680] Not nice.
+- [00:07:20,680 - 00:07:21,680] Of course, where this all comes from,
+- [00:07:21,680 - 00:07:23,180] most of all, is when you've
+- [00:07:23,180 - 00:07:24,680] got something really important to do.
+- [00:07:24,680 - 00:07:26,180] It might be standing on a stage
+- [00:07:26,180 - 00:07:27,680] like this and giving a talk to people.
+- [00:07:27,680 - 00:07:31,180] It might be proposing marriage, asking for
+- [00:07:31,180 - 00:07:34,680] a raise, a wedding speech, whatever it is.
+- [00:07:34,680 - 00:07:36,680] If it's really important, you owe it
+- [00:07:36,680 - 00:07:38,680] to yourself to look at this toolbox
+- [00:07:38,680 - 00:07:41,680] and the engine that it's going to work on.
+- [00:07:41,680 - 00:07:44,680] And no engine works well without being warmed up.
+- [00:07:44,680 - 00:07:46,680] Warm up your voice.
+- [00:07:46,680 - 00:07:48,680] Actually, let me show you how to do that.
+- [00:07:48,680 - 00:07:50,680] Would you all like to stand up for a moment?
+- [00:07:51,680 - 00:07:54,680] I'm going to show you the six vocal warm-up exercises
+- [00:07:54,680 - 00:07:57,680] that I do before every talk I ever do.
+- [00:07:57,680 - 00:07:59,180] Any time you're going to
+- [00:07:59,180 - 00:08:00,680] talk to anybody important, do these.
+- [00:08:00,680 - 00:08:02,680] First, arms up.
+- [00:08:02,680 - 00:08:05,680] Deep breath in and sigh out.
+- [00:08:05,680 - 00:08:06,680] Like that.
+- [00:08:06,680 - 00:08:08,680] One more time.
+- [00:08:10,680 - 00:08:11,680] Very good.
+- [00:08:11,680 - 00:08:13,680] Now we're going to warm up our lips.
+- [00:08:13,680 - 00:08:15,680] And we're going to go bop,
+- [00:08:15,680 - 00:08:17,680] bop, bop, bop, bop, bop, bop, bop.
+- [00:08:17,680 - 00:08:18,680] Very good.
+- [00:08:18,680 - 00:08:19,680] And now,
+- [00:08:21,680 - 00:08:24,680] just like when you were a kid.
+- [00:08:24,680 - 00:08:26,680] Now your lips should be coming alive.
+- [00:08:26,680 - 00:08:29,680] We're going to do the tongue next with exaggerated
+- [00:08:29,680 - 00:08:32,679] la, la, la, la, la, la, la, la, la.
+- [00:08:32,679 - 00:08:33,679] Beautiful.
+- [00:08:33,679 - 00:08:34,679] You're getting really good at this.
+- [00:08:34,679 - 00:08:35,679] And then roll an R.
+- [00:08:37,679 - 00:08:39,679] That's like champagne for the tongue.
+- [00:08:39,679 - 00:08:41,679] Finally, and if I can only do
+- [00:08:41,679 - 00:08:43,679] one, the pros call this the siren.
+- [00:08:43,679 - 00:08:44,680] It's really good.
+- [00:08:44,680 - 00:08:46,680] It starts with we and goes to or.
+- [00:08:46,680 - 00:08:47,680] The we is high, the or is low.
+- [00:08:47,680 - 00:08:50,680] So you go, weeeeee.
+- [00:08:50,680 - 00:08:51,680] Or.
+- [00:08:51,680 - 00:08:52,680] Weeeeee.
+- [00:08:52,680 - 00:08:53,680] Fantastic.
+- [00:08:53,680 - 00:08:54,680] Give yourselves a round of applause.
+- [00:08:54,680 - 00:08:55,680] Take a seat.
+- [00:08:55,680 - 00:08:56,680] Thank you.
+- [00:08:57,680 - 00:08:58,680] Next time you speak, do those in advance.
+- [00:08:58,680 - 00:08:59,680] Now, let me just put this in context to close.
+- [00:08:59,680 - 00:09:00,680] This is a serious point here.
+- [00:09:00,680 - 00:09:01,680] This is where we are now, right?
+- [00:09:01,680 - 00:09:02,180] We speak not very well into people
+- [00:09:02,180 - 00:09:02,680] who simply aren't listening in an environment that's
+- [00:09:02,680 - 00:09:03,680] all about noise and bad acoustics.
+- [00:09:03,680 - 00:09:04,180] I have talked about that
+- [00:09:04,180 - 00:09:04,680] on this stage in different phases.
+- [00:09:04,680 - 00:09:05,180] What would the world be like if we
+- [00:09:05,180 - 00:09:05,680] were speaking powerfully to people who are not listening?
+- [00:09:05,680 - 00:09:06,680] I mean, I think that's a very important thing.
+- [00:09:06,680 - 00:09:07,680] I think that's a very important thing.
+- [00:09:07,680 - 00:09:08,680] I think that's a very important thing.
+- [00:09:08,680 - 00:09:09,680] I think that's a very important thing.
+- [00:09:09,680 - 00:09:10,680] I think that's a very important thing.
+- [00:09:10,680 - 00:09:11,680] I think that's a very important thing.
+- [00:09:11,680 - 00:09:12,680] I think that's a very important thing.
+- [00:09:12,680 - 00:09:14,670] In an environment that's all about noise
+- [00:09:14,670 - 00:09:16,660] and bad acoustics, I have talked about that
+- [00:09:16,660 - 00:09:19,239] on this stage in different phases.
+- [00:09:19,239 - 00:09:21,949] What would the world be like if we
+- [00:09:21,949 - 00:09:24,660] were speaking powerfully to people who are listening consciously
+- [00:09:24,660 - 00:09:27,739] in environments which were actually fit for
+- [00:09:27,739 - 00:09:30,819] purpose, or to make that a bit larger?
+- [00:09:30,819 - 00:09:33,599] What would the world be like if we
+- [00:09:33,599 - 00:09:36,380] were creating sound consciously and consuming sound consciously
+- [00:09:36,380 - 00:09:39,740] and designing all our environments consciously for sound?
+- [00:09:39,740 - 00:09:42,420] That would be a world that does sound beautiful.
+- [00:09:42,420 - 00:09:46,420] and one where understanding would be the norm.
+- [00:09:46,420 - 00:09:49,120] And that is an idea worth spreading.
+- [00:09:49,120 - 00:09:50,319] Thank you.

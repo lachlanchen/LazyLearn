@@ -1,0 +1,2358 @@
+# Transcript
+
+Source: lazylearn/how-you-speak-and-write/08 - Pulitzer Prize-Winner Explains His Writing Process — Richard Powers [QUDlpMN-f5w].webm
+
+- [00:00:00,000 - 00:00:02,260] Character is complex.
+- [00:00:02,260 - 00:00:04,400] And I would always challenge my students.
+- [00:00:04,400 - 00:00:07,640] I would say, push them to the wall.
+- [00:00:07,640 - 00:00:09,160] Push them to the wall.
+- [00:00:09,160 - 00:00:11,340] And that's where the drama of being alive is.
+- [00:00:11,340 - 00:00:13,520] Can you live with yourself if you
+- [00:00:13,520 - 00:00:16,880] have to do something that you ordinarily would hate to do?
+- [00:00:16,880 - 00:00:19,640] But the circumstance makes it necessary for you.
+- [00:00:19,640 - 00:00:21,800] So you got person against themselves,
+- [00:00:21,800 - 00:00:23,280] person against person.
+- [00:00:23,280 - 00:00:24,080] Is that it?
+- [00:00:24,080 - 00:00:25,280] No.
+- [00:00:25,280 - 00:00:27,320] There's a third level of drama.
+- [00:00:27,320 - 00:00:28,920] Tell me about these relationships
+- [00:00:28,920 - 00:00:29,940] with characters.
+- [00:00:29,940 - 00:00:34,420] So if character drives drama and voice drives character,
+- [00:00:34,420 - 00:00:36,400] what drives voice?
+- [00:00:36,400 - 00:00:39,200] And this might be lesson number one of craft.
+- [00:00:39,200 - 00:00:40,780] So when you're writing, what are you
+- [00:00:40,780 - 00:00:45,400] doing to make it feel alive?
+- [00:00:45,400 - 00:00:47,200] Read the first sentence again, because you'll
+- [00:00:47,200 - 00:00:49,100] see a little registral trick there.
+- [00:00:49,100 - 00:00:50,480] Tell me when to stop.
+- [00:00:50,480 - 00:00:52,780] Each child's tree has its own excellence.
+- [00:00:52,780 - 00:00:55,520] Stop.
+- [00:00:55,520 - 00:00:57,320] Richard Powers won the Pulitzer Prize
+- [00:00:57,320 - 00:00:58,900] for The Overstory in 2000.
+- [00:00:58,920 - 00:01:02,280] And next year, his place runs for four worldwide.
+- [00:01:08,280 - 00:01:09,480] Or the Bestclockwise.
+- [00:01:09,480 - 00:01:10,700] By the way, can you believe it?
+- [00:01:10,700 - 00:01:11,620] I raised my hand.
+- [00:01:11,620 - 00:01:16,840] My vaiila.
+- [00:01:16,840 - 00:01:21,120] I got a little bit redirected.
+- [00:01:21,120 - 00:01:23,760] But the thing about reading narrative is that it's
+- [00:01:23,760 - 00:01:25,140] about showing that you're not alone,
+- [00:01:25,140 - 00:01:27,220] and you're actually moving forward.
+- [00:01:27,220 - 00:01:28,680] And we learned this from our work.
+- [00:01:28,680 - 00:01:28,920] Hi.
+- [00:01:28,920 - 00:01:33,920] I want to show you how drama, conflict, voice, and dialogue
+- [00:01:33,920 - 00:01:35,920] can bring a character to life.
+- [00:01:35,920 - 00:01:37,920] So if you're somebody who's trying to write better stories
+- [00:01:37,920 - 00:01:40,920] and write with more life in your own work,
+- [00:01:40,920 - 00:01:42,920] well, you're going to love this conversation
+- [00:01:42,920 - 00:01:45,920] with Richard Powers.
+- [00:01:45,920 - 00:01:47,920] Character is complex,
+- [00:01:47,920 - 00:01:52,920] and we all do this in the course of our lives.
+- [00:01:52,920 - 00:01:57,920] You know, our brains have adapted
+- [00:01:57,920 - 00:02:02,920] to try to understand the hidden motivations of other people.
+- [00:02:02,920 - 00:02:06,920] In fact, when you talk to evolutionary biologists,
+- [00:02:06,920 - 00:02:08,920] there will be some who say,
+- [00:02:08,920 - 00:02:12,920] we needed the big brain because we were social.
+- [00:02:12,920 - 00:02:14,920] You know, we had...
+- [00:02:14,920 - 00:02:17,920] I mean, mammals have, by and large,
+- [00:02:17,920 - 00:02:20,920] solved a lot of the problems of predation,
+- [00:02:20,920 - 00:02:23,920] of avoiding prey, you know,
+- [00:02:23,920 - 00:02:26,920] responding flexibly to change.
+- [00:02:26,920 - 00:02:27,920] You know,
+- [00:02:27,920 - 00:02:30,920] you can get by on a lot less hardware,
+- [00:02:30,920 - 00:02:32,920] but what you need a lot of hardware for
+- [00:02:32,920 - 00:02:34,920] is keeping track of who's up and who's down,
+- [00:02:34,920 - 00:02:35,920] who's in and who's out,
+- [00:02:35,920 - 00:02:36,920] who owes a favor.
+- [00:02:36,920 - 00:02:37,920] All the interactions.
+- [00:02:37,920 - 00:02:38,920] That's right. That's right.
+- [00:02:38,920 - 00:02:41,920] So we're all novelists in our own lives.
+- [00:02:41,920 - 00:02:43,920] We're all saying,
+- [00:02:43,920 - 00:02:44,920] I...
+- [00:02:44,920 - 00:02:46,920] This guy is remembering
+- [00:02:46,920 - 00:02:49,920] what happened between us
+- [00:02:49,920 - 00:02:50,920] 20 years ago.
+- [00:02:50,920 - 00:02:51,920] Right.
+- [00:02:51,920 - 00:02:52,920] And he's holding a grudge,
+- [00:02:52,920 - 00:02:55,920] or I haven't seen her in a long time.
+- [00:02:55,920 - 00:02:56,920] I wonder if she's...
+- [00:02:56,920 - 00:02:59,920] I wonder if she's also a little bit nostalgic
+- [00:02:59,920 - 00:03:01,920] about the road that we did not take.
+- [00:03:01,920 - 00:03:03,920] You know, all those kinds of things
+- [00:03:03,920 - 00:03:05,920] that we do with each other all the time.
+- [00:03:05,920 - 00:03:07,920] Those are the underlying skills
+- [00:03:07,920 - 00:03:09,920] that we use to assemble character
+- [00:03:09,920 - 00:03:12,920] when we're creating stories.
+- [00:03:12,920 - 00:03:13,920] Hmm.
+- [00:03:13,920 - 00:03:15,920] Who's a character in a recent novel
+- [00:03:15,920 - 00:03:17,920] that you still feel like
+- [00:03:17,920 - 00:03:21,920] you have a really intimate relationship with?
+- [00:03:21,920 - 00:03:24,920] Well, I'm very close
+- [00:03:24,920 - 00:03:25,920] to the people in Playground City.
+- [00:03:25,920 - 00:03:28,920] I'm close to the people in Playground still.
+- [00:03:28,920 - 00:03:32,920] And one of the great joys
+- [00:03:32,920 - 00:03:33,920] of being a novelist
+- [00:03:33,920 - 00:03:36,920] is you get up in the morning and you say,
+- [00:03:36,920 - 00:03:38,920] how are they going to surprise me today?
+- [00:03:39,920 - 00:03:41,920] One of the great sadnesses of a novelist
+- [00:03:41,920 - 00:03:43,920] is you have to come to an end
+- [00:03:43,920 - 00:03:45,920] and you have to surrender the manuscript
+- [00:03:45,920 - 00:03:46,920] at some point,
+- [00:03:46,920 - 00:03:48,920] and it becomes this fixed thing.
+- [00:03:48,920 - 00:03:51,920] And yet your heart is still saying,
+- [00:03:51,920 - 00:03:52,920] did I do right by them?
+- [00:03:52,920 - 00:03:54,920] Hmm.
+- [00:03:54,920 - 00:03:57,920] Was there something else that they wanted or needed
+- [00:03:57,920 - 00:03:58,920] that I didn't get to?
+- [00:03:58,920 - 00:04:00,920] So, you know, there's an odd way
+- [00:04:00,920 - 00:04:02,920] in which the character lives on
+- [00:04:02,920 - 00:04:06,920] in your sense of potential or prospect
+- [00:04:06,920 - 00:04:08,920] as you're telling stories.
+- [00:04:08,920 - 00:04:11,920] But, you know, the two central protagonists
+- [00:04:11,920 - 00:04:13,920] in this book,
+- [00:04:13,920 - 00:04:16,920] Todd Keen,
+- [00:04:16,920 - 00:04:20,920] who is a Northside Chicagoan,
+- [00:04:20,920 - 00:04:22,920] white, privileged, wealthy,
+- [00:04:22,920 - 00:04:24,920] and Rafael,
+- [00:04:24,920 - 00:04:26,920] young black guy from the Southside
+- [00:04:26,920 - 00:04:29,920] who's coming from a very different socioeconomic stratum
+- [00:04:29,920 - 00:04:33,920] and whose personal history is very different than Todd's,
+- [00:04:33,920 - 00:04:35,920] in weird ways,
+- [00:04:35,920 - 00:04:38,920] I used them both as alter egos.
+- [00:04:38,920 - 00:04:39,920] Mm.
+- [00:04:39,920 - 00:04:43,920] You know, I used them almost psychoanalytically
+- [00:04:43,920 - 00:04:47,920] to get to various things in my personal past
+- [00:04:47,920 - 00:04:49,920] that I wanted still to work through
+- [00:04:49,920 - 00:04:52,920] here at the age of 67.
+- [00:04:52,920 - 00:04:54,920] I put them in colloquial terms.
+- [00:04:54,920 - 00:04:56,920] I put them in a way that I could
+- [00:04:56,920 - 00:04:58,920] say that they were in a collision with each other.
+- [00:04:58,920 - 00:05:00,920] Character leads naturally into drama
+- [00:05:00,920 - 00:05:02,920] in a way that we can talk about.
+- [00:05:02,920 - 00:05:04,920] But I let them collide.
+- [00:05:04,920 - 00:05:06,920] You know, they formed a friendship
+- [00:05:06,920 - 00:05:10,920] that was tight, dedicated,
+- [00:05:10,920 - 00:05:13,920] but also highly competitive
+- [00:05:13,920 - 00:05:17,920] and with a certain degree of wariness and distrust,
+- [00:05:17,920 - 00:05:22,920] a certain degree of ribbing
+- [00:05:22,920 - 00:05:25,920] and crap shoveling,
+- [00:05:25,920 - 00:05:27,920] as males do to each other.
+- [00:05:27,920 - 00:05:29,920] Um...
+- [00:05:29,920 - 00:05:33,920] And the drama that arose out of that
+- [00:05:33,920 - 00:05:36,920] was naturally a kind of extension
+- [00:05:36,920 - 00:05:40,920] of all the unfinished drama of my young life,
+- [00:05:40,920 - 00:05:44,920] you know, from the age of 10 to the age of 30
+- [00:05:44,920 - 00:05:46,920] and beyond.
+- [00:05:46,920 - 00:05:48,920] Character leads into drama.
+- [00:05:48,920 - 00:05:49,920] I think that's true.
+- [00:05:49,920 - 00:05:51,920] I mean, when we think of character,
+- [00:05:51,920 - 00:05:54,920] you know, I used to teach character
+- [00:05:54,920 - 00:05:57,920] using something like the Stanislavski method.
+- [00:05:57,920 - 00:05:59,920] I don't know if you've had writers
+- [00:05:59,920 - 00:06:01,920] who have approached it that way,
+- [00:06:01,920 - 00:06:06,920] but he was a great theoretician of acting
+- [00:06:06,920 - 00:06:08,920] and how to...
+- [00:06:08,920 - 00:06:11,920] An actor prepares, it's one of his works,
+- [00:06:11,920 - 00:06:15,920] and, you know, how to inhabit a role
+- [00:06:15,920 - 00:06:17,920] of someone on stage who isn't you.
+- [00:06:17,920 - 00:06:21,920] And how to locate in the world
+- [00:06:21,920 - 00:06:23,920] that role
+- [00:06:23,920 - 00:06:28,920] something in the core inner values of that character
+- [00:06:28,920 - 00:06:31,920] that you yourself can identify with.
+- [00:06:31,920 - 00:06:32,920] Mm.
+- [00:06:32,920 - 00:06:34,920] Knowing full well that you don't...
+- [00:06:34,920 - 00:06:36,920] You are not that person.
+- [00:06:36,920 - 00:06:38,920] You do not belong to that world.
+- [00:06:38,920 - 00:06:41,920] But somehow abstracting it enough
+- [00:06:41,920 - 00:06:45,920] so that you can use your own inner experiences
+- [00:06:45,920 - 00:06:47,920] and core inner values
+- [00:06:47,920 - 00:06:50,920] to inhabit and participate in that other character's...
+- [00:06:50,920 - 00:06:53,920] And of course, what an actor does to inhabit a role
+- [00:06:53,920 - 00:06:56,920] is not that different than what a novelist has to do
+- [00:06:56,920 - 00:06:58,920] to create a character.
+- [00:06:58,920 - 00:07:00,920] So, make this concrete for me.
+- [00:07:00,920 - 00:07:03,920] I don't know why I was thinking of Nemo.
+- [00:07:03,920 - 00:07:07,920] And Nemo is, you know, this little kid fish,
+- [00:07:07,920 - 00:07:09,920] and Nemo wants to get out... Right.
+- [00:07:09,920 - 00:07:11,920] ...and go do things, go explore the ocean.
+- [00:07:11,920 - 00:07:14,920] And then you have, what's his name, Marlin, the dad?
+- [00:07:14,920 - 00:07:15,920] Marlin, I think, is his name.
+- [00:07:15,920 - 00:07:18,920] Marlin is this super overprotective dad. Right.
+- [00:07:18,920 - 00:07:19,920] And Marlin has done very early on,
+- [00:07:19,920 - 00:07:20,920] and he's done very early in the movie,
+- [00:07:20,920 - 00:07:22,920] he's like, are you sure you want to go to school today?
+- [00:07:22,920 - 00:07:24,920] Because it's the first day of school.
+- [00:07:24,920 - 00:07:26,920] And he's trying to say, stay home, stay home,
+- [00:07:26,920 - 00:07:32,920] because he is this just gripping on the life of his young son.
+- [00:07:32,920 - 00:07:35,920] So, if we take that, tell me about what you're saying
+- [00:07:35,920 - 00:07:37,920] through the prism of those characters.
+- [00:07:37,920 - 00:07:39,920] So, I used to do this.
+- [00:07:39,920 - 00:07:43,920] And this also derives from the Stanislavski method,
+- [00:07:43,920 - 00:07:46,920] but I used to teach characterization as an onion.
+- [00:07:46,920 - 00:07:48,920] So, you have...
+- [00:07:49,920 - 00:07:51,920] On the outside of a person,
+- [00:07:51,920 - 00:07:53,920] I don't necessarily mean the outside
+- [00:07:53,920 - 00:07:55,920] in the way that they perform themselves in the world,
+- [00:07:55,920 - 00:07:58,920] because that's always a delicate and elaborate dance,
+- [00:07:58,920 - 00:08:02,920] hiding a lot of things, displaying a lot of things,
+- [00:08:02,920 - 00:08:05,920] you know, negotiating a lot of things.
+- [00:08:05,920 - 00:08:10,920] But in terms of the psychic economy of that character,
+- [00:08:10,920 - 00:08:14,920] in the outer shell are the traits.
+- [00:08:14,920 - 00:08:17,920] And he's got a green shirt on,
+- [00:08:17,920 - 00:08:19,920] it's got a little insignia,
+- [00:08:19,920 - 00:08:21,920] a nice haircut,
+- [00:08:21,920 - 00:08:23,920] you know, he holds one hand...
+- [00:08:23,920 - 00:08:25,920] You know, all the things that you can use
+- [00:08:25,920 - 00:08:29,920] to make a character visual and visible to the reader.
+- [00:08:29,920 - 00:08:34,920] But those traits come from somewhere, right?
+- [00:08:34,920 - 00:08:40,920] They derive from things that are farther in the interior of the onion.
+- [00:08:40,920 - 00:08:45,920] And beneath that level of surface,
+- [00:08:45,920 - 00:08:49,920] you know, physical traits or behavioral traits,
+- [00:08:49,920 - 00:08:52,920] you might have mannerisms.
+- [00:08:52,920 - 00:08:59,920] Like, he likes to unnerve people.
+- [00:08:59,920 - 00:09:02,920] Whenever somebody says something,
+- [00:09:02,920 - 00:09:03,920] instead of saying,
+- [00:09:03,920 - 00:09:05,920] no, right, he'll say,
+- [00:09:05,920 - 00:09:06,920] what do you mean by that?
+- [00:09:06,920 - 00:09:12,920] And that mannerism of challenging or subverting
+- [00:09:12,920 - 00:09:13,920] or undercutting somebody...
+- [00:09:13,920 - 00:09:17,920] Man, there's a sensitivity of awareness
+- [00:09:17,920 - 00:09:19,920] that you must have.
+- [00:09:19,920 - 00:09:21,920] You must really have to have.
+- [00:09:21,920 - 00:09:23,920] And is that something that you're cultivating?
+- [00:09:23,920 - 00:09:25,920] I think it can be cultivated,
+- [00:09:25,920 - 00:09:28,920] because I don't think I ever came by any of this naturally.
+- [00:09:28,920 - 00:09:30,920] You know, if you're talking about,
+- [00:09:30,920 - 00:09:34,920] you know, various distribution curves of people,
+- [00:09:34,920 - 00:09:37,920] some of whom have very high emotional intelligence,
+- [00:09:37,920 - 00:09:41,920] are immediately aligned with reading other people.
+- [00:09:41,920 - 00:09:42,920] And then other people,
+- [00:09:42,920 - 00:09:45,920] you know, the cliché is the other end of the spectrum
+- [00:09:45,920 - 00:09:47,920] are people who do better with machines
+- [00:09:47,920 - 00:09:49,920] or mathematical concepts.
+- [00:09:49,920 - 00:09:53,920] I'm probably on that side of that spectrum.
+- [00:09:53,920 - 00:09:56,920] But I do think we can all,
+- [00:09:56,920 - 00:09:58,920] we are all conversant,
+- [00:09:58,920 - 00:10:00,920] you know, to some degree,
+- [00:10:00,920 - 00:10:04,920] with finding, you know, equivalents and analogs
+- [00:10:04,920 - 00:10:06,920] across the ways of knowing the world.
+- [00:10:06,920 - 00:10:10,920] So the next level inside of mannerisms
+- [00:10:10,920 - 00:10:13,920] would be what I call core inner values.
+- [00:10:13,920 - 00:10:16,920] And I get this again from people
+- [00:10:16,920 - 00:10:19,920] who have done a lot of thinking,
+- [00:10:19,920 - 00:10:23,920] about the creation and inhabiting of characters.
+- [00:10:23,920 - 00:10:25,920] So, but by,
+- [00:10:25,920 - 00:10:30,920] a value has to be something like honesty,
+- [00:10:30,920 - 00:10:33,920] or fidelity,
+- [00:10:33,920 - 00:10:36,920] or perseverance, right?
+- [00:10:36,920 - 00:10:39,920] So we're now seeing,
+- [00:10:39,920 - 00:10:44,920] oh, the reason he holds his hand like that
+- [00:10:44,920 - 00:10:48,920] is he has a manner,
+- [00:10:49,920 - 00:10:52,920] where he wants to set other people at ease.
+- [00:10:52,920 - 00:10:56,920] And underneath that manner
+- [00:10:56,920 - 00:10:58,920] of wanting to set people at ease
+- [00:10:58,920 - 00:11:01,920] is the value of complicity,
+- [00:11:01,920 - 00:11:03,920] or attentiveness,
+- [00:11:03,920 - 00:11:05,920] or, you know, whatever it is.
+- [00:11:05,920 - 00:11:06,920] But you see how multiple values
+- [00:11:06,920 - 00:11:08,920] can drive the same mannerism.
+- [00:11:08,920 - 00:11:09,920] Multiple mannerisms can be,
+- [00:11:09,920 - 00:11:10,920] can lie behind the same trait.
+- [00:11:10,920 - 00:11:11,920] So you have to find,
+- [00:11:11,920 - 00:11:14,920] you have to find ways of making coherence
+- [00:11:14,920 - 00:11:17,920] so that the outward behavior of the person
+- [00:11:17,920 - 00:11:18,920] is both hiding
+- [00:11:18,920 - 00:11:21,920] and revealing things that they need,
+- [00:11:21,920 - 00:11:24,920] things that they want to preserve in the world.
+- [00:11:24,920 - 00:11:27,920] And I would always challenge my students,
+- [00:11:27,920 - 00:11:28,920] I would say,
+- [00:11:28,920 - 00:11:30,920] push them to the wall.
+- [00:11:30,920 - 00:11:31,920] Push them to the wall.
+- [00:11:31,920 - 00:11:32,920] Yeah, so I'd say,
+- [00:11:32,920 - 00:11:35,920] you know this guy is a good guy.
+- [00:11:35,920 - 00:11:38,920] You know he values honesty,
+- [00:11:38,920 - 00:11:41,920] but you know he also values fidelity.
+- [00:11:41,920 - 00:11:44,920] Now, put him in a place
+- [00:11:44,920 - 00:11:46,920] where he cannot have both.
+- [00:11:46,920 - 00:11:47,920] Mm-hmm.
+- [00:11:47,920 - 00:11:48,920] So now you've got to make a choice.
+- [00:11:48,920 - 00:11:49,920] Yes.
+- [00:11:49,920 - 00:11:51,920] What is your core inner value?
+- [00:11:51,920 - 00:11:53,920] And what one will fall by the wayside
+- [00:11:53,920 - 00:11:54,920] when push comes to shove
+- [00:11:54,920 - 00:11:56,920] because you've got to choose?
+- [00:11:56,920 - 00:11:57,920] Right.
+- [00:11:57,920 - 00:11:59,920] I mean, the scenarios are obvious.
+- [00:11:59,920 - 00:12:04,920] You know, your friend has just done something wrong.
+- [00:12:04,920 - 00:12:06,920] Do you go to him and say,
+- [00:12:06,920 - 00:12:09,920] look, man, you've got to pay for that.
+- [00:12:09,920 - 00:12:11,920] You have to own up to that.
+- [00:12:11,920 - 00:12:13,920] Or do you say, I'm a good, faithful friend.
+- [00:12:13,920 - 00:12:15,920] I, you know, I'm just going to do what I want.
+- [00:12:15,920 - 00:12:16,920] I'm going to do what I want.
+- [00:12:16,920 - 00:12:18,920] You know, I'm just going to support this guy.
+- [00:12:18,920 - 00:12:19,920] I'll be with you no matter what.
+- [00:12:19,920 - 00:12:20,920] Yeah.
+- [00:12:20,920 - 00:12:21,920] That's a story.
+- [00:12:21,920 - 00:12:23,920] In fact, that's 10,000 stories.
+- [00:12:23,920 - 00:12:24,920] Yeah.
+- [00:12:24,920 - 00:12:25,920] Right?
+- [00:12:25,920 - 00:12:27,920] So what I'm hearing you say is,
+- [00:12:27,920 - 00:12:29,920] you take these two values,
+- [00:12:29,920 - 00:12:30,920] and you take them to the extreme.
+- [00:12:30,920 - 00:12:33,920] You almost make somebody fight those two values internally.
+- [00:12:33,920 - 00:12:34,920] Yeah.
+- [00:12:34,920 - 00:12:35,920] What would it take?
+- [00:12:35,920 - 00:12:38,920] What situation or challenge would it take
+- [00:12:38,920 - 00:12:42,920] to force that person to have to jump ship from one
+- [00:12:42,920 - 00:12:44,920] and embrace the other?
+- [00:12:44,920 - 00:12:45,920] Now, that's drama.
+- [00:12:45,920 - 00:12:46,920] Yeah.
+- [00:12:46,920 - 00:12:49,920] And that's a very specific kind of drama.
+- [00:12:49,920 - 00:12:52,920] It's interior drama.
+- [00:12:52,920 - 00:12:55,920] And in the hierarchy of drama that I learned way back
+- [00:12:55,920 - 00:12:58,920] in grade school, back in the day,
+- [00:12:58,920 - 00:13:00,920] using very sexist language, that would be called
+- [00:13:00,920 - 00:13:03,920] a man versus himself.
+- [00:13:03,920 - 00:13:04,920] OK?
+- [00:13:04,920 - 00:13:10,920] And that fundamental kind of interior instability,
+- [00:13:10,920 - 00:13:15,920] you know, when I go out into the tumult of the world,
+- [00:13:15,920 - 00:13:18,920] my sense of self has to readjust.
+- [00:13:18,920 - 00:13:22,920] My sense of what I think was most important to me has to change.
+- [00:13:22,920 - 00:13:23,920] Mm-hmm.
+- [00:13:23,920 - 00:13:26,920] That's the classic psychological novel.
+- [00:13:26,920 - 00:13:30,920] How do we cope with the differences in the dramas inside our own head?
+- [00:13:30,920 - 00:13:33,920] Because look, you know, I don't want to have to choose
+- [00:13:33,920 - 00:13:35,920] between honesty and fidelity.
+- [00:13:35,920 - 00:13:37,920] I want to have both.
+- [00:13:37,920 - 00:13:39,920] Well, life doesn't always let you have both.
+- [00:13:39,920 - 00:13:40,920] Right.
+- [00:13:40,920 - 00:13:42,920] And that's where the drama of being alive is.
+- [00:13:42,920 - 00:13:44,920] Can you live with yourself if you have to do something?
+- [00:13:44,920 - 00:13:47,920] If you have to do something that you ordinarily would hate to do,
+- [00:13:47,920 - 00:13:50,920] but the circumstance makes it necessary for you?
+- [00:13:50,920 - 00:13:51,920] Yes.
+- [00:13:51,920 - 00:13:57,920] Now, I'm doing that, and David's doing that too.
+- [00:13:57,920 - 00:14:01,920] And here we are sitting in the same room, right?
+- [00:14:01,920 - 00:14:05,920] And you need something from me, and I need something from you.
+- [00:14:05,920 - 00:14:06,920] Right?
+- [00:14:06,920 - 00:14:10,920] You have core inner value that's very different than my core inner value.
+- [00:14:10,920 - 00:14:13,920] So November's coming up.
+- [00:14:13,920 - 00:14:19,920] Let's say for point of argument that my core inner value is equality,
+- [00:14:19,920 - 00:14:22,920] and your core inner value is freedom.
+- [00:14:22,920 - 00:14:24,920] And now we have to go to the election box,
+- [00:14:24,920 - 00:14:27,920] and we have to vote for one candidate.
+- [00:14:27,920 - 00:14:28,920] Mm-hmm.
+- [00:14:28,920 - 00:14:30,920] I can't believe what you're voting for.
+- [00:14:30,920 - 00:14:31,920] You see what I'm saying?
+- [00:14:31,920 - 00:14:33,920] Now we have interpersonal drama.
+- [00:14:33,920 - 00:14:36,920] Now we have the sociological novel or the political novel
+- [00:14:36,920 - 00:14:41,920] where I can make you completely sympathetic to the reader.
+- [00:14:41,920 - 00:14:42,920] Mm-hmm.
+- [00:14:42,920 - 00:14:43,920] And...
+- [00:14:43,920 - 00:14:46,920] I can make myself completely sympathetic to the reader.
+- [00:14:46,920 - 00:14:50,920] But now the reader's watching two people collide
+- [00:14:50,920 - 00:14:55,920] in a way where they, the reader, has to say who's right.
+- [00:14:55,920 - 00:14:58,920] The author doesn't necessarily have to say who's right,
+- [00:14:58,920 - 00:15:00,920] but the reader has to say,
+- [00:15:00,920 - 00:15:01,920] if that were me...
+- [00:15:01,920 - 00:15:02,920] Which would I do?
+- [00:15:02,920 - 00:15:04,920] How would I jump?
+- [00:15:04,920 - 00:15:05,920] I got to jump.
+- [00:15:05,920 - 00:15:06,920] Got to jump.
+- [00:15:06,920 - 00:15:08,920] Got to put a vote in the ballot box.
+- [00:15:08,920 - 00:15:10,920] So you got person against themselves,
+- [00:15:10,920 - 00:15:11,920] person against person.
+- [00:15:11,920 - 00:15:12,920] Right.
+- [00:15:12,920 - 00:15:13,860] Is that it?
+- [00:15:13,920 - 00:15:14,920] No.
+- [00:15:14,920 - 00:15:16,920] There's a third level of drama,
+- [00:15:16,920 - 00:15:19,920] which is that human beings
+- [00:15:19,920 - 00:15:23,920] want to have a certain story in the world.
+- [00:15:23,920 - 00:15:25,920] They want to have a project.
+- [00:15:25,920 - 00:15:26,920] They want to have...
+- [00:15:26,920 - 00:15:28,920] They have a conception
+- [00:15:28,920 - 00:15:31,920] of what a good life is
+- [00:15:31,920 - 00:15:36,920] and how we can best go about doing that on this Earth.
+- [00:15:36,920 - 00:15:39,920] The rest of the world,
+- [00:15:39,920 - 00:15:42,920] and it is a very large rest of the world,
+- [00:15:42,920 - 00:15:48,920] a very big, comprehensive and interconnected living planet,
+- [00:15:48,920 - 00:15:53,920] might be hostile to that idea of what it is that we want most.
+- [00:15:53,920 - 00:15:55,920] It might be at best indifferent to it,
+- [00:15:55,920 - 00:15:57,920] or it might be very sympathetic to it.
+- [00:15:57,920 - 00:16:02,920] But there is a battle between humans in the aggregate
+- [00:16:02,920 - 00:16:06,920] and a world of which humans are only a very tiny part.
+- [00:16:06,920 - 00:16:07,920] Mm-hmm.
+- [00:16:07,920 - 00:16:10,920] And that level you would call man against the elements
+- [00:16:10,920 - 00:16:11,920] or man against the universe.
+- [00:16:11,920 - 00:16:15,920] Or man against life.
+- [00:16:15,920 - 00:16:21,920] So you have the psychological component of all stories.
+- [00:16:21,920 - 00:16:25,920] You have the sociological or political element of all stories.
+- [00:16:25,920 - 00:16:27,920] But you also have this environmental
+- [00:16:27,920 - 00:16:30,920] or metaphysical element to all stories.
+- [00:16:30,920 - 00:16:31,920] Mm-hmm.
+- [00:16:31,920 - 00:16:33,920] Now, if I...
+- [00:16:33,920 - 00:16:39,920] You know, when I was reading everything I could get my hands on
+- [00:16:39,920 - 00:16:41,920] and deciding that I was going to give my life
+- [00:16:41,920 - 00:16:46,920] to this craft and this work,
+- [00:16:46,920 - 00:16:51,920] and I was reading especially contemporary novels
+- [00:16:51,920 - 00:16:54,920] in the 80s and in the 90s
+- [00:16:54,920 - 00:16:57,920] and even into the early 2000s,
+- [00:16:57,920 - 00:17:00,920] there were a lot, a lot of novels
+- [00:17:00,920 - 00:17:04,920] that were exceptionally good at psychology
+- [00:17:04,920 - 00:17:09,920] and very, very good at sociology and politics,
+- [00:17:09,920 - 00:17:14,920] but almost never ventured beyond the human world.
+- [00:17:14,920 - 00:17:15,920] Mm.
+- [00:17:15,920 - 00:17:18,920] Almost never introduced the idea
+- [00:17:18,920 - 00:17:22,920] that what we want out of our lives on this planet
+- [00:17:22,920 - 00:17:25,920] might not be commensurate with what the planet wants.
+- [00:17:25,920 - 00:17:29,920] So the whole third kind of drama
+- [00:17:29,920 - 00:17:32,920] was disappearing from literary fiction.
+- [00:17:32,920 - 00:17:38,920] We were getting extremely able and capable
+- [00:17:38,920 - 00:17:41,920] in our ability to tell stories about humans,
+- [00:17:41,920 - 00:17:46,920] but only as if humans were autonomous
+- [00:17:46,920 - 00:17:49,920] and inter... independent from everything else.
+- [00:17:49,920 - 00:17:50,920] Right.
+- [00:17:50,920 - 00:17:54,920] And it seemed to me that can't be right.
+- [00:17:54,920 - 00:17:58,920] And I started to look at the history of literary fiction
+- [00:17:58,920 - 00:18:00,920] and then the history of world literature
+- [00:18:00,920 - 00:18:03,920] even before the novel.
+- [00:18:03,920 - 00:18:07,920] And I was looking for that third kind of story.
+- [00:18:07,920 - 00:18:10,920] And I saw, I mean, you can think of great examples of it, right?
+- [00:18:10,920 - 00:18:13,920] I mean, if I said, tell me a book about man versus nature
+- [00:18:13,920 - 00:18:15,920] or man versus, you know, the gods
+- [00:18:15,920 - 00:18:17,920] or man versus the elements.
+- [00:18:17,920 - 00:18:19,920] Greek mythology, a bunch.
+- [00:18:19,920 - 00:18:20,920] All of it.
+- [00:18:20,920 - 00:18:23,920] Almost all mythological traditions.
+- [00:18:23,920 - 00:18:25,920] Now, bring it up to the present.
+- [00:18:25,920 - 00:18:26,920] What do you think, you know,
+- [00:18:26,920 - 00:18:30,920] what's the latest kind of great book in the American canon
+- [00:18:30,920 - 00:18:32,920] that you think really concerned,
+- [00:18:32,920 - 00:18:35,920] took seriously the idea of man versus nature?
+- [00:18:35,920 - 00:18:36,920] I have no idea.
+- [00:18:36,920 - 00:18:37,920] I don't know.
+- [00:18:37,920 - 00:18:38,920] You gotta go back a ways.
+- [00:18:38,920 - 00:18:39,920] Yeah.
+- [00:18:39,920 - 00:18:41,920] And you gotta go back to Moby Dick
+- [00:18:41,920 - 00:18:43,920] or you gotta go back to the frontier,
+- [00:18:43,920 - 00:18:44,920] American frontier novel.
+- [00:18:44,920 - 00:18:45,920] It's been that long, huh?
+- [00:18:45,920 - 00:18:47,920] Well, I mean, there are always exceptions.
+- [00:18:47,920 - 00:18:48,920] Sure.
+- [00:18:48,920 - 00:18:49,920] Right?
+- [00:18:49,920 - 00:18:50,920] But there's a dip.
+- [00:18:50,920 - 00:18:53,920] There's a real dip where, you know,
+- [00:18:53,920 - 00:18:57,920] from 1851 when Moby Dick's published
+- [00:18:57,920 - 00:19:02,920] to, you know, 1914,
+- [00:19:02,920 - 00:19:04,920] the start of the First World War,
+- [00:19:04,920 - 00:19:06,920] you see a trend for sure
+- [00:19:06,920 - 00:19:09,920] where that novel starts to seem quaint,
+- [00:19:09,920 - 00:19:12,920] like the battle against nature.
+- [00:19:12,920 - 00:19:14,920] You know, it's like Jack London, you know,
+- [00:19:14,920 - 00:19:16,920] it's well, you know,
+- [00:19:16,920 - 00:19:19,920] why doesn't it seem literary to us?
+- [00:19:19,920 - 00:19:24,920] Because I think the practitioners of storytelling
+- [00:19:24,920 - 00:19:27,920] were under the mistaken impression
+- [00:19:27,920 - 00:19:30,920] that man had defeated nature,
+- [00:19:30,920 - 00:19:33,920] that human beings had won that drama.
+- [00:19:33,920 - 00:19:35,920] And now we could invoke that drama,
+- [00:19:35,920 - 00:19:38,920] we could invoke that drama kind of nostalgically,
+- [00:19:38,920 - 00:19:40,920] but it wasn't a real issue in our lives anymore.
+- [00:19:40,920 - 00:19:43,920] Our technologies had gotten so powerful
+- [00:19:43,920 - 00:19:47,920] that it didn't seem like questions
+- [00:19:47,920 - 00:19:50,920] that we had to ask anymore.
+- [00:19:50,920 - 00:19:53,920] Now, what happens in the last couple decades
+- [00:19:53,920 - 00:19:55,920] is there's a growing awareness
+- [00:19:55,920 - 00:19:57,920] that we didn't win that war.
+- [00:19:57,920 - 00:19:59,920] In fact, we're losing that war.
+- [00:19:59,920 - 00:20:01,920] And we're in bad shape,
+- [00:20:01,920 - 00:20:02,920] not just on the climate front,
+- [00:20:02,920 - 00:20:04,920] but on the species extinction front.
+- [00:20:04,920 - 00:20:05,920] Yeah.
+- [00:20:05,920 - 00:20:08,920] And now that drama comes flooding back
+- [00:20:08,920 - 00:20:09,920] into the literary novel.
+- [00:20:09,920 - 00:20:13,920] It never left the novel of science fiction.
+- [00:20:13,920 - 00:20:17,920] It never left fantasy.
+- [00:20:17,920 - 00:20:21,920] I mean, fantasy is man against nature, right?
+- [00:20:21,920 - 00:20:24,920] It's telling that those things became second class,
+- [00:20:24,920 - 00:20:28,920] those genres became subordinate genres
+- [00:20:28,920 - 00:20:30,920] in the eyes of the people who wanted
+- [00:20:30,920 - 00:20:34,920] to be practitioners of literary fiction, right?
+- [00:20:34,920 - 00:20:40,920] But now, where it would have been strange for me in 1980
+- [00:20:40,920 - 00:20:43,920] to pick up a new literary fiction
+- [00:20:43,920 - 00:20:46,920] that had a lot of non-human elements in it,
+- [00:20:46,920 - 00:20:48,920] non-human agents or non-human concerns
+- [00:20:48,920 - 00:20:50,920] or taking place seriously
+- [00:20:50,920 - 00:20:53,920] or taking other kinds of creatures seriously,
+- [00:20:53,920 - 00:20:55,920] now it's rare to pick one up
+- [00:20:55,920 - 00:20:57,920] that isn't addressing this question
+- [00:20:57,920 - 00:20:59,920] of how are we going to stay here much longer.
+- [00:20:59,920 - 00:21:02,920] As you were thinking about the overstory
+- [00:21:02,920 - 00:21:04,920] and learning about trees
+- [00:21:04,920 - 00:21:07,920] and developing a kind of empathy for trees, right?
+- [00:21:07,920 - 00:21:09,920] I think of how big is the distance
+- [00:21:09,920 - 00:21:11,920] between you as the person
+- [00:21:11,920 - 00:21:15,920] and the, dare I say, consciousness of a tree.
+- [00:21:15,920 - 00:21:18,920] It almost felt like your mind
+- [00:21:18,920 - 00:21:22,920] and the consciousness of trees fused together.
+- [00:21:22,920 - 00:21:24,920] And I know that in your research process,
+- [00:21:24,920 - 00:21:27,920] you just spent a lot of time in the woods.
+- [00:21:27,920 - 00:21:29,920] And I would love to hear about that research,
+- [00:21:29,920 - 00:21:31,920] but even more fundamentally,
+- [00:21:31,920 - 00:21:33,920] how you developed that kind of empathy
+- [00:21:33,920 - 00:21:37,920] for trees and turning up the dial
+- [00:21:37,920 - 00:21:40,920] of just how real they were to you.
+- [00:21:40,920 - 00:21:45,920] I found that in old literature.
+- [00:21:45,920 - 00:21:51,920] You mentioned mythology, indigenous stories.
+- [00:21:51,920 - 00:21:54,920] And of course, I found it also
+- [00:21:54,920 - 00:22:02,920] by recovering my own earliest sense of narrative.
+- [00:22:03,920 - 00:22:09,920] So, you know, I've often said that young children
+- [00:22:09,920 - 00:22:12,920] are animists, you know,
+- [00:22:12,920 - 00:22:16,920] or, you know, they have,
+- [00:22:16,920 - 00:22:21,920] they take seriously these magical creatures around us.
+- [00:22:21,920 - 00:22:24,920] You know, I just looked at some crows flying past
+- [00:22:24,920 - 00:22:27,920] and looking at these marvelous locusts out of the window,
+- [00:22:27,920 - 00:22:30,920] you know, and a child could look at that
+- [00:22:30,920 - 00:22:33,920] and know that that creature,
+- [00:22:33,920 - 00:22:36,920] that creature is alive in really profound ways
+- [00:22:36,920 - 00:22:38,920] that adults now stop taking seriously.
+- [00:22:38,920 - 00:22:40,920] No, it's just wood. It's just wood.
+- [00:22:40,920 - 00:22:41,920] Right.
+- [00:22:41,920 - 00:22:45,920] So to go back to my own childhood pantheism
+- [00:22:45,920 - 00:22:48,920] and to go back to the stories
+- [00:22:48,920 - 00:22:51,920] that underwrite oral literature
+- [00:22:51,920 - 00:22:54,920] that know that you can't talk about human beings,
+- [00:22:54,920 - 00:22:56,920] you can't understand human beings,
+- [00:22:56,920 - 00:22:59,920] except in conversation with the neighbors,
+- [00:22:59,920 - 00:23:01,920] you know, with understanding them
+- [00:23:01,920 - 00:23:03,920] in the full context of who we're not.
+- [00:23:03,920 - 00:23:06,920] You know, and our fascination with the nonhuman world
+- [00:23:06,920 - 00:23:08,920] is that somehow we can see qualities
+- [00:23:08,920 - 00:23:11,920] in these other ways of being in the world
+- [00:23:11,920 - 00:23:13,920] that resonate with our own values.
+- [00:23:13,920 - 00:23:15,920] So to look at the nonhuman world
+- [00:23:15,920 - 00:23:17,920] is also to understand interior drama.
+- [00:23:17,920 - 00:23:18,920] Mm-hmm.
+- [00:23:18,920 - 00:23:21,920] So it's not just a question of giving trees voice.
+- [00:23:21,920 - 00:23:23,920] It's a question of remembering those voices
+- [00:23:23,920 - 00:23:27,920] inside human beings that were suppressed
+- [00:23:27,920 - 00:23:29,920] by this cultural colonialism that said,
+- [00:23:29,920 - 00:23:31,920] no, no, no, don't, you know,
+- [00:23:31,920 - 00:23:33,920] pay no attention to the world behind you.
+- [00:23:33,920 - 00:23:34,920] It's behind the curtain.
+- [00:23:34,920 - 00:23:36,920] It's just us.
+- [00:23:36,920 - 00:23:40,920] So to recover, to recover that amazement
+- [00:23:40,920 - 00:23:43,920] wasn't a separate thing than, you know,
+- [00:23:43,920 - 00:23:45,920] than to go deep into character.
+- [00:23:45,920 - 00:23:47,920] For me, for the creation of that book,
+- [00:23:47,920 - 00:23:49,920] they became the same enterprise.
+- [00:23:49,920 - 00:23:51,920] Well, what's wild about the overstory
+- [00:23:51,920 - 00:23:55,920] is how articulate you are about trees.
+- [00:23:55,920 - 00:23:57,920] Let me just read this.
+- [00:23:57,920 - 00:23:59,920] We found that trees could communicate
+- [00:23:59,920 - 00:24:01,920] over the air and through their roots.
+- [00:24:01,920 - 00:24:03,920] Common sense hooted us down.
+- [00:24:03,920 - 00:24:05,920] We found that trees take care of each other.
+- [00:24:05,920 - 00:24:07,920] Collective science dismissed the ideas.
+- [00:24:07,920 - 00:24:09,920] Outsiders discovered how seeds remember
+- [00:24:09,920 - 00:24:11,920] the seasons of their childhood
+- [00:24:11,920 - 00:24:13,920] and set buds accordingly.
+- [00:24:13,920 - 00:24:15,920] Outsiders discovered that trees sense
+- [00:24:15,920 - 00:24:17,920] the presence of other nearby life,
+- [00:24:17,920 - 00:24:19,920] that a tree learns to save water,
+- [00:24:19,920 - 00:24:21,920] that trees feed their young and synchronize their masts,
+- [00:24:21,920 - 00:24:23,920] and bank resources and warm kin
+- [00:24:23,920 - 00:24:25,920] and send out signals to wasps
+- [00:24:25,920 - 00:24:28,920] to come and save them from attacks.
+- [00:24:28,920 - 00:24:31,920] I mean, Richard, for somebody who didn't know
+- [00:24:31,920 - 00:24:33,920] a lot about trees before he started writing
+- [00:24:33,920 - 00:24:35,920] this book, to then getting to a place
+- [00:24:35,920 - 00:24:37,920] where you could see that, feel that,
+- [00:24:37,920 - 00:24:39,920] put that into language, and then do it
+- [00:24:39,920 - 00:24:41,920] lyrically and poetically,
+- [00:24:41,920 - 00:24:43,920] it's just astonishing.
+- [00:24:43,920 - 00:24:45,920] And I just need to understand
+- [00:24:45,920 - 00:24:47,920] how you did that.
+- [00:24:47,920 - 00:24:49,920] Well, my whole project from the beginning
+- [00:24:49,920 - 00:24:51,920] has been driven forward by these ways
+- [00:24:51,920 - 00:24:53,920] of knowing the world that we think
+- [00:24:53,920 - 00:24:55,920] are incompatible or inimical.
+- [00:24:55,920 - 00:24:57,920] You know, we're not all incompatible.
+- [00:24:57,920 - 00:24:59,920] We're incompatible in the sense that
+- [00:24:59,920 - 00:25:01,920] we're incompatible in the sense that
+- [00:25:01,920 - 00:25:03,920] we're incompatible in the sense that
+- [00:25:03,920 - 00:25:05,920] we're, you know, opposite
+- [00:25:05,920 - 00:25:07,920] or in opposition to each other.
+- [00:25:07,920 - 00:25:09,920] The way of knowing the world
+- [00:25:09,920 - 00:25:11,920] through empiricism and science
+- [00:25:11,920 - 00:25:13,920] and the way of knowing the world
+- [00:25:13,920 - 00:25:15,920] through intuition and the spirit,
+- [00:25:15,920 - 00:25:17,920] I think the greatest science writers
+- [00:25:17,920 - 00:25:19,920] know that these aren't really
+- [00:25:19,920 - 00:25:21,920] combating programs,
+- [00:25:21,920 - 00:25:23,920] know that these aren't really
+- [00:25:23,920 - 00:25:25,920] combating programs,
+- [00:25:25,920 - 00:25:27,920] that they actually are commensal,
+- [00:25:27,920 - 00:25:29,920] that they actually depend on one another.
+- [00:25:29,920 - 00:25:31,920] So, you know,
+- [00:25:31,920 - 00:25:33,920] I think that's the way
+- [00:25:33,920 - 00:25:35,920] that we're going to be
+- [00:25:35,920 - 00:25:37,920] in the future.
+- [00:25:37,920 - 00:25:39,920] So, in the passage that you read,
+- [00:25:39,920 - 00:25:41,920] this character Patricia Westerford,
+- [00:25:41,920 - 00:25:43,920] she's an outsider,
+- [00:25:43,920 - 00:25:45,920] and she's not afraid to anthropomorphize,
+- [00:25:45,920 - 00:25:47,920] which drives a lot of scientists nuts
+- [00:25:47,920 - 00:25:49,920] even now, although there are interesting
+- [00:25:49,920 - 00:25:51,920] ways in which that attitude is changing
+- [00:25:51,920 - 00:25:53,920] because it has prevented us from
+- [00:25:53,920 - 00:25:55,920] seeing certain things about
+- [00:25:55,920 - 00:25:57,920] the world beyond us.
+- [00:25:57,920 - 00:25:59,920] But she uses a vocabulary
+- [00:25:59,920 - 00:26:01,920] that's very lyrical and very poetic,
+- [00:26:01,920 - 00:26:03,920] very spiritual,
+- [00:26:03,920 - 00:26:05,920] and it's a very powerful
+- [00:26:05,920 - 00:26:07,920] way of thinking about
+- [00:26:07,920 - 00:26:09,920] the world beyond us.
+- [00:26:09,920 - 00:26:11,920] And so, in the passage that you read,
+- [00:26:11,920 - 00:26:13,920] has some kind of empirical backing
+- [00:26:13,920 - 00:26:15,920] in peer-reviewed journal articles
+- [00:26:15,920 - 00:26:17,920] that I researched when I was reading the book.
+- [00:26:17,920 - 00:26:19,920] So, to me, that's going to be our salvation.
+- [00:26:19,920 - 00:26:21,920] We have to know the world
+- [00:26:21,920 - 00:26:23,920] the way a scientist knows the world,
+- [00:26:23,920 - 00:26:25,920] and we have to know the world
+- [00:26:25,920 - 00:26:27,920] the way an animist or pantheist child
+- [00:26:27,920 - 00:26:29,920] knows the world.
+- [00:26:29,920 - 00:26:31,920] And if we can get those both going
+- [00:26:31,920 - 00:26:33,920] in our individual selves
+- [00:26:33,920 - 00:26:35,920] we can be sure that we're
+- [00:26:35,920 - 00:26:37,920] going to be able to
+- [00:26:37,920 - 00:26:39,920] move forward in our own lives.
+- [00:26:39,920 - 00:26:41,920] And I think that this is...
+- [00:26:41,920 - 00:26:43,920] So, I didn't grow up
+- [00:26:43,920 - 00:26:45,920] liking novels very much.
+- [00:26:45,920 - 00:26:47,920] I didn't read novels.
+- [00:26:47,920 - 00:26:49,920] It just wasn't super compelling to me.
+- [00:26:49,920 - 00:26:51,920] And reading this now,
+- [00:26:51,920 - 00:26:53,920] it's something about reading it out loud
+- [00:26:53,920 - 00:26:55,920] is really showing me
+- [00:26:55,920 - 00:26:57,920] what the novel can uniquely do.
+- [00:26:57,920 - 00:26:59,920] I'll read a little bit more.
+- [00:26:59,920 - 00:27:01,920] A forest knows things.
+- [00:27:01,920 - 00:27:03,920] They wire themselves up underground.
+- [00:27:03,920 - 00:27:05,920] Human brains aren't shaped to see.
+- [00:27:05,920 - 00:27:07,920] Root plasticity solving problems
+- [00:27:07,920 - 00:27:09,920] and making decisions.
+- [00:27:09,920 - 00:27:11,920] Fungal synapses.
+- [00:27:11,920 - 00:27:13,920] What else do you want to call it?
+- [00:27:13,920 - 00:27:15,920] Link enough trees together
+- [00:27:15,920 - 00:27:17,920] and a forest grows where?
+- [00:27:17,920 - 00:27:19,920] And, I mean, it almost brings tears to my eyes.
+- [00:27:19,920 - 00:27:21,920] And what it's doing is
+- [00:27:21,920 - 00:27:23,920] that language is
+- [00:27:23,920 - 00:27:25,920] giving life to something
+- [00:27:25,920 - 00:27:27,920] that I've seen 10,000 times.
+- [00:27:27,920 - 00:27:29,920] And like you were saying earlier,
+- [00:27:29,920 - 00:27:31,920] you just become an adult.
+- [00:27:31,920 - 00:27:33,920] You're like, ah, it's just a chunk of wood and some leaves.
+- [00:27:33,920 - 00:27:35,920] And you're giving them life
+- [00:27:35,920 - 00:27:37,920] and vitality again through the language.
+- [00:27:37,920 - 00:27:39,920] And that's the great grace
+- [00:27:39,920 - 00:27:41,920] of the form, the novel form.
+- [00:27:41,920 - 00:27:43,920] You could have come across those facts
+- [00:27:43,920 - 00:27:45,920] in a very well done
+- [00:27:45,920 - 00:27:47,920] popularization of the new forestry
+- [00:27:47,920 - 00:27:49,920] and, you know,
+- [00:27:49,920 - 00:27:51,920] all the discoveries about
+- [00:27:51,920 - 00:27:53,920] symbiotic relationships
+- [00:27:53,920 - 00:27:55,920] in a forest that have come
+- [00:27:55,920 - 00:27:57,920] over the last several decades.
+- [00:27:57,920 - 00:27:59,920] And you could have grasped them intellectually.
+- [00:27:59,920 - 00:28:01,920] But I think
+- [00:28:01,920 - 00:28:03,920] as psychologists,
+- [00:28:03,920 - 00:28:05,920] as psychologists know,
+- [00:28:05,920 - 00:28:07,920] the apprehension
+- [00:28:07,920 - 00:28:09,920] of fact
+- [00:28:09,920 - 00:28:11,920] and
+- [00:28:11,920 - 00:28:13,920] a shift
+- [00:28:13,920 - 00:28:15,920] in values
+- [00:28:15,920 - 00:28:17,920] are not the same thing.
+- [00:28:17,920 - 00:28:19,920] And that we can be
+- [00:28:19,920 - 00:28:21,920] seduced
+- [00:28:21,920 - 00:28:23,920] much more
+- [00:28:23,920 - 00:28:25,920] by emotion and affect
+- [00:28:25,920 - 00:28:27,920] and feeling
+- [00:28:27,920 - 00:28:29,920] than we can by statistics
+- [00:28:29,920 - 00:28:31,920] and graphs and arguments.
+- [00:28:31,920 - 00:28:33,920] In fact,
+- [00:28:33,920 - 00:28:35,920] emotion is interesting
+- [00:28:35,920 - 00:28:37,920] etymologically.
+- [00:28:37,920 - 00:28:39,920] So it means to move,
+- [00:28:39,920 - 00:28:41,920] to move someone.
+- [00:28:41,920 - 00:28:43,920] You know,
+- [00:28:43,920 - 00:28:45,920] to move through
+- [00:28:45,920 - 00:28:47,920] something.
+- [00:28:47,920 - 00:28:49,920] And this has been
+- [00:28:49,920 - 00:28:51,920] verified again in so many
+- [00:28:51,920 - 00:28:53,920] laboratories using so many
+- [00:28:53,920 - 00:28:55,920] experiments.
+- [00:28:55,920 - 00:28:57,920] But the smallest
+- [00:28:57,920 - 00:28:59,920] appeal to affect
+- [00:28:59,920 - 00:29:01,920] and to identification
+- [00:29:01,920 - 00:29:03,920] can make
+- [00:29:03,920 - 00:29:05,920] people do things
+- [00:29:05,920 - 00:29:07,920] that argument cannot.
+- [00:29:07,920 - 00:29:09,920] There's odd
+- [00:29:09,920 - 00:29:11,920] experiments that make you wonder
+- [00:29:11,920 - 00:29:13,920] how fragile
+- [00:29:13,920 - 00:29:15,920] and labile mankind is.
+- [00:29:15,920 - 00:29:17,920] Like,
+- [00:29:17,920 - 00:29:19,920] they'll have subjects
+- [00:29:19,920 - 00:29:21,920] reading two different
+- [00:29:21,920 - 00:29:23,920] texts or three different texts
+- [00:29:23,920 - 00:29:25,920] with control text and a
+- [00:29:25,920 - 00:29:27,920] text about, you know,
+- [00:29:27,920 - 00:29:29,920] a story about someone who does something
+- [00:29:29,920 - 00:29:31,920] good for someone else.
+- [00:29:31,920 - 00:29:33,920] And ostensibly the experiment
+- [00:29:33,920 - 00:29:35,920] is about comprehension.
+- [00:29:35,920 - 00:29:37,920] So someone reads some data
+- [00:29:37,920 - 00:29:39,920] and someone reads a control
+- [00:29:39,920 - 00:29:41,920] neutral narrative
+- [00:29:41,920 - 00:29:43,920] that has no bearing on, you know,
+- [00:29:43,920 - 00:29:45,920] the question of emotion.
+- [00:29:45,920 - 00:29:47,920] And someone reads a fictional passage
+- [00:29:47,920 - 00:29:49,920] that, you know,
+- [00:29:49,920 - 00:29:51,920] has the potential to
+- [00:29:51,920 - 00:29:53,920] move you.
+- [00:29:53,920 - 00:29:55,920] To break your heart, to make you cry a little bit.
+- [00:29:55,920 - 00:29:57,920] And the ostensible
+- [00:29:57,920 - 00:29:59,920] experiment is we want to test your reading comprehension.
+- [00:29:59,920 - 00:30:01,920] Please answer the following questions.
+- [00:30:01,920 - 00:30:03,920] So all three groups answer the following questions.
+- [00:30:03,920 - 00:30:05,920] And when you're done
+- [00:30:05,920 - 00:30:07,920] answering the questions, you know,
+- [00:30:07,920 - 00:30:09,920] please take your exams down the hall
+- [00:30:09,920 - 00:30:11,920] and deposit them at this door.
+- [00:30:11,920 - 00:30:13,920] And meanwhile,
+- [00:30:13,920 - 00:30:15,920] a confederate is walking down the hall
+- [00:30:15,920 - 00:30:17,920] in the other direction and they dump their
+- [00:30:17,920 - 00:30:19,920] pencils on the ground as if by accident.
+- [00:30:19,920 - 00:30:21,920] You know, they've got a bunch of
+- [00:30:21,920 - 00:30:23,920] they're carrying
+- [00:30:23,920 - 00:30:25,920] a bunch of goods and they
+- [00:30:25,920 - 00:30:27,920] make a mess.
+- [00:30:27,920 - 00:30:29,920] The group that has read
+- [00:30:29,920 - 00:30:31,920] the story
+- [00:30:31,920 - 00:30:33,920] is
+- [00:30:33,920 - 00:30:35,920] far more likely to stop and help
+- [00:30:35,920 - 00:30:37,920] the person who just
+- [00:30:37,920 - 00:30:39,920] dumped their goods all over the hallway.
+- [00:30:39,920 - 00:30:41,920] And it
+- [00:30:41,920 - 00:30:43,920] doesn't really have that much to do
+- [00:30:43,920 - 00:30:45,920] with, you know,
+- [00:30:45,920 - 00:30:47,920] with the temperaments of the individuals in that group.
+- [00:30:47,920 - 00:30:49,920] They've all been baseline shifted
+- [00:30:49,920 - 00:30:51,920] for a moment anyway
+- [00:30:51,920 - 00:30:53,920] to be more empathetic,
+- [00:30:53,920 - 00:30:55,920] to identify more with this person who's
+- [00:30:55,920 - 00:30:57,920] now in a moment of suffering.
+- [00:30:57,920 - 00:30:59,920] And that's what fiction does.
+- [00:30:59,920 - 00:31:01,920] It invites
+- [00:31:01,920 - 00:31:03,920] identification. It invites
+- [00:31:03,920 - 00:31:05,920] you to say, who would I be
+- [00:31:05,920 - 00:31:07,920] if I weren't myself but that guy?
+- [00:31:07,920 - 00:31:09,920] And simply
+- [00:31:09,920 - 00:31:11,920] the act of doing that
+- [00:31:13,920 - 00:31:15,920] increases your desire
+- [00:31:17,920 - 00:31:19,920] to be connected,
+- [00:31:19,920 - 00:31:21,920] to be empathetic,
+- [00:31:21,920 - 00:31:23,920] to be helpful to another person.
+- [00:31:23,920 - 00:31:25,920] Hey, I want to tell you about a new
+- [00:31:25,920 - 00:31:27,920] site that I built called Writing Examples.
+- [00:31:27,920 - 00:31:29,920] We take writers like
+- [00:31:29,920 - 00:31:31,920] Steinbeck, Orwell,
+- [00:31:31,920 - 00:31:33,920] Seinfeld, and break down what
+- [00:31:33,920 - 00:31:35,920] makes their writing so good.
+- [00:31:35,920 - 00:31:37,920] If that sounds like it's kind of your
+- [00:31:37,920 - 00:31:39,920] thing, well go to writingexamples.com.
+- [00:31:39,920 - 00:31:41,920] And if you go there,
+- [00:31:41,920 - 00:31:43,920] you enter your email, I'll send you my
+- [00:31:43,920 - 00:31:45,920] three favorite editions right away.
+- [00:31:45,920 - 00:31:47,920] Alright, back to the episode.
+- [00:31:47,920 - 00:31:49,920] As I was reading
+- [00:31:49,920 - 00:31:51,920] that, I started,
+- [00:31:51,920 - 00:31:53,920] I really felt how
+- [00:31:53,920 - 00:31:55,920] attentive you are to rhythm and pacing
+- [00:31:55,920 - 00:31:57,920] and language and the different
+- [00:31:57,920 - 00:31:59,920] hues of a paragraph.
+- [00:31:59,920 - 00:32:01,920] And I'm curious how
+- [00:32:01,920 - 00:32:03,920] you think about sentences and
+- [00:32:03,920 - 00:32:05,920] the way you write
+- [00:32:05,920 - 00:32:07,920] in order to create that effect in the reader.
+- [00:32:07,920 - 00:32:09,920] Yeah, so when you think about
+- [00:32:09,920 - 00:32:11,920] a good book, a good novel,
+- [00:32:11,920 - 00:32:13,920] there are a lot
+- [00:32:13,920 - 00:32:15,920] of dogs pulling
+- [00:32:15,920 - 00:32:17,920] the sled, you know, there are a lot of
+- [00:32:17,920 - 00:32:19,920] horses in harness. And some are,
+- [00:32:19,920 - 00:32:21,920] some of the concerns of
+- [00:32:21,920 - 00:32:23,920] crafting a novel are
+- [00:32:23,920 - 00:32:25,920] what I would call low level or very,
+- [00:32:25,920 - 00:32:27,920] very granular.
+- [00:32:27,920 - 00:32:29,920] Diction,
+- [00:32:29,920 - 00:32:31,920] register, syntax.
+- [00:32:31,920 - 00:32:33,920] And then, you know,
+- [00:32:33,920 - 00:32:35,920] you work up to the kinds of things
+- [00:32:35,920 - 00:32:37,920] that you're talking about, sentence level, pace,
+- [00:32:37,920 - 00:32:39,920] and cadence. And then the
+- [00:32:39,920 - 00:32:41,920] scene grows out of that. And how long
+- [00:32:41,920 - 00:32:43,920] should the scene be and what is the
+- [00:32:43,920 - 00:32:45,920] flow and the shape of the scene? What is
+- [00:32:45,920 - 00:32:47,920] the tempo of the scene? And those
+- [00:32:47,920 - 00:32:49,920] emerge out of the layers
+- [00:32:49,920 - 00:32:51,920] underneath.
+- [00:32:51,920 - 00:32:53,920] So you have a language as one
+- [00:32:53,920 - 00:32:55,920] way of, you know, as one of the
+- [00:32:55,920 - 00:32:57,920] dogs in the
+- [00:32:57,920 - 00:32:59,920] pulling sled. And you have
+- [00:32:59,920 - 00:33:01,920] drama and you have
+- [00:33:01,920 - 00:33:03,920] character. And you have
+- [00:33:03,920 - 00:33:05,920] form and you have structure. And
+- [00:33:05,920 - 00:33:07,920] different readers attach
+- [00:33:07,920 - 00:33:09,920] themselves more happily or more
+- [00:33:09,920 - 00:33:11,920] easily to different elements of fiction.
+- [00:33:11,920 - 00:33:13,920] Right. You know, like,
+- [00:33:13,920 - 00:33:15,920] people can come right out and say,
+- [00:33:15,920 - 00:33:17,920] I'm a character guy,
+- [00:33:17,920 - 00:33:19,920] you know, I just want to see if these people
+- [00:33:19,920 - 00:33:21,920] feel robust and vital and
+- [00:33:21,920 - 00:33:23,920] three-dimensional, you know. And
+- [00:33:23,920 - 00:33:25,920] the story,
+- [00:33:25,920 - 00:33:27,920] yeah, I'll read for plot,
+- [00:33:27,920 - 00:33:29,920] but it's basically,
+- [00:33:29,920 - 00:33:31,920] do I know this person, you know,
+- [00:33:31,920 - 00:33:33,920] can I recognize myself in this person?
+- [00:33:33,920 - 00:33:35,920] And there were other
+- [00:33:35,920 - 00:33:37,920] people, and for a long time I was in this
+- [00:33:37,920 - 00:33:39,920] category, I didn't
+- [00:33:39,920 - 00:33:41,920] care about characterization, I didn't care about
+- [00:33:41,920 - 00:33:43,920] plot, I didn't care, I just
+- [00:33:43,920 - 00:33:45,920] wanted beautiful language.
+- [00:33:45,920 - 00:33:47,920] That's how I am. Isn't that funny?
+- [00:33:47,920 - 00:33:49,920] You know, because
+- [00:33:49,920 - 00:33:51,920] identification with character is the dominant
+- [00:33:51,920 - 00:33:53,920] way of consuming a novel now,
+- [00:33:53,920 - 00:33:55,920] in this culture, at this moment,
+- [00:33:55,920 - 00:33:57,920] people can look at us
+- [00:33:57,920 - 00:33:59,920] and cite that fact
+- [00:33:59,920 - 00:34:01,920] as if it's a little freakish or a
+- [00:34:01,920 - 00:34:03,920] little offbeat. I like that and
+- [00:34:03,920 - 00:34:05,920] descriptiveness. Yeah, because
+- [00:34:05,920 - 00:34:07,920] setting a scene, you know,
+- [00:34:07,920 - 00:34:09,920] even before there are
+- [00:34:09,920 - 00:34:11,920] human agents or non-human agents in that
+- [00:34:11,920 - 00:34:13,920] scene, for me, can
+- [00:34:13,920 - 00:34:15,920] be, you know,
+- [00:34:15,920 - 00:34:17,920] some of the most glorious kinds of fictional
+- [00:34:17,920 - 00:34:19,920] experiences you can have. Whereas, if you
+- [00:34:19,920 - 00:34:21,920] go to an MFA program,
+- [00:34:21,920 - 00:34:23,920] you're likely to hear people say things like
+- [00:34:23,920 - 00:34:25,920] show, don't tell, which means
+- [00:34:25,920 - 00:34:27,920] don't spend a lot of time setting the
+- [00:34:27,920 - 00:34:29,920] scene, just get people in there doing things.
+- [00:34:29,920 - 00:34:31,920] So something is lost
+- [00:34:31,920 - 00:34:33,920] when you privilege one aspect
+- [00:34:33,920 - 00:34:35,920] of a fictional experience over all the others.
+- [00:34:35,920 - 00:34:37,920] I think the
+- [00:34:37,920 - 00:34:39,920] ideal strategy
+- [00:34:39,920 - 00:34:41,920] is getting all those elements
+- [00:34:41,920 - 00:34:43,920] pulling in the same direction
+- [00:34:43,920 - 00:34:45,920] and feeding
+- [00:34:45,920 - 00:34:47,920] on one another. So
+- [00:34:47,920 - 00:34:49,920] the question is, we talked about
+- [00:34:49,920 - 00:34:51,920] how drama grows
+- [00:34:51,920 - 00:34:53,920] out of character. Well, character
+- [00:34:53,920 - 00:34:55,920] grows out of voice.
+- [00:34:55,920 - 00:34:57,920] To a large extent,
+- [00:34:57,920 - 00:34:59,920] we come to know the people
+- [00:34:59,920 - 00:35:01,920] on the page
+- [00:35:01,920 - 00:35:03,920] by how they're explaining themselves.
+- [00:35:03,920 - 00:35:05,920] Sure. And how they're performing
+- [00:35:05,920 - 00:35:07,920] themselves for other people.
+- [00:35:07,920 - 00:35:09,920] And what they're asking from other people.
+- [00:35:09,920 - 00:35:11,920] So,
+- [00:35:11,920 - 00:35:13,920] the moment you hear somebody,
+- [00:35:13,920 - 00:35:15,920] you start to hear somebody, you can also start to
+- [00:35:15,920 - 00:35:17,920] see that person. Forrest Gump
+- [00:35:17,920 - 00:35:19,920] from a movie is
+- [00:35:19,920 - 00:35:21,920] a great example of just
+- [00:35:21,920 - 00:35:23,920] the way he speaks and
+- [00:35:23,920 - 00:35:25,920] the simplicity of his language
+- [00:35:25,920 - 00:35:27,920] is a place where voice
+- [00:35:27,920 - 00:35:29,920] really then leads to character.
+- [00:35:29,920 - 00:35:31,920] Yeah. So if
+- [00:35:31,920 - 00:35:33,920] if
+- [00:35:33,920 - 00:35:35,920] character drives drama
+- [00:35:35,920 - 00:35:37,920] and voice drives character,
+- [00:35:37,920 - 00:35:39,920] what drives voice?
+- [00:35:39,920 - 00:35:41,920] And the answer is
+- [00:35:41,920 - 00:35:43,920] you're starting to get down to the nuts and bolts of your
+- [00:35:43,920 - 00:35:45,920] tool chest, which is
+- [00:35:45,920 - 00:35:47,920] the words,
+- [00:35:47,920 - 00:35:49,920] the individual words, and the way
+- [00:35:49,920 - 00:35:51,920] they are
+- [00:35:51,920 - 00:35:53,920] aligned in a sentence.
+- [00:35:53,920 - 00:35:55,920] Right? So
+- [00:35:55,920 - 00:35:57,920] I'll do the first one first,
+- [00:35:57,920 - 00:35:59,920] although typically I would try
+- [00:35:59,920 - 00:36:01,920] with my students,
+- [00:36:01,920 - 00:36:03,920] I did it different ways in different years, but
+- [00:36:03,920 - 00:36:05,920] I would show the inseparability
+- [00:36:05,920 - 00:36:07,920] of these things. I'd show the questions
+- [00:36:07,920 - 00:36:09,920] of register and diction
+- [00:36:09,920 - 00:36:11,920] are also the questions of syntax
+- [00:36:11,920 - 00:36:13,920] and cadence and pacing. But
+- [00:36:13,920 - 00:36:15,920] the easy ones, the lowest
+- [00:36:15,920 - 00:36:17,920] level,
+- [00:36:17,920 - 00:36:19,920] is what is the
+- [00:36:19,920 - 00:36:21,920] register of that word
+- [00:36:21,920 - 00:36:23,920] and, you know, what does
+- [00:36:23,920 - 00:36:25,920] that word mean? And to answer
+- [00:36:25,920 - 00:36:27,920] those questions is far from
+- [00:36:27,920 - 00:36:29,920] trivial. When you say the register
+- [00:36:29,920 - 00:36:31,920] of a word, what do you mean by that?
+- [00:36:31,920 - 00:36:33,920] So, linguists will talk about
+- [00:36:33,920 - 00:36:35,920] the levels
+- [00:36:35,920 - 00:36:37,920] of speech that people
+- [00:36:37,920 - 00:36:39,920] use. And
+- [00:36:39,920 - 00:36:41,920] sometimes you'll see three.
+- [00:36:43,920 - 00:36:45,920] Casual in the middle,
+- [00:36:45,920 - 00:36:47,920] formal above it, and
+- [00:36:47,920 - 00:36:49,920] you know, down and dirty, you know,
+- [00:36:49,920 - 00:36:51,920] slangy
+- [00:36:51,920 - 00:36:53,920] at the bottom. Sure, yeah.
+- [00:36:53,920 - 00:36:55,920] And sometimes
+- [00:36:55,920 - 00:36:57,920] you'll see four. You know, you'll see different
+- [00:36:57,920 - 00:36:59,920] approaches to answering this question of
+- [00:36:59,920 - 00:37:01,920] how register works.
+- [00:37:01,920 - 00:37:03,920] But when you think of the various ways
+- [00:37:03,920 - 00:37:05,920] that you can say,
+- [00:37:05,920 - 00:37:07,920] hand me that. Right.
+- [00:37:07,920 - 00:37:09,920] Give me that. Yeah. Hey, will you please
+- [00:37:09,920 - 00:37:11,920] pass that? Yeah. Completely different. Yeah.
+- [00:37:11,920 - 00:37:13,920] And there are a dozen more.
+- [00:37:13,920 - 00:37:15,920] I mean, there's no end, actually, to the ways that
+- [00:37:15,920 - 00:37:17,920] you can say that. Yeah. I mean, you can
+- [00:37:17,920 - 00:37:19,920] literally just say, yo, and then
+- [00:37:19,920 - 00:37:21,920] point at it. That's correct.
+- [00:37:21,920 - 00:37:23,920] And you are
+- [00:37:23,920 - 00:37:25,920] performing a submit. You're
+- [00:37:25,920 - 00:37:27,920] requesting something specific that can
+- [00:37:27,920 - 00:37:29,920] be identified, but you're also
+- [00:37:29,920 - 00:37:31,920] sending signals beyond signals
+- [00:37:31,920 - 00:37:33,920] about who you are, about
+- [00:37:33,920 - 00:37:35,920] who you think the other person is,
+- [00:37:35,920 - 00:37:37,920] about the kinds of values that
+- [00:37:37,920 - 00:37:39,920] you want to manifest to the other person,
+- [00:37:39,920 - 00:37:41,920] about the kinds of values that you want to
+- [00:37:41,920 - 00:37:43,920] encourage or suppress in the other person.
+- [00:37:43,920 - 00:37:45,920] All of those come out of voice.
+- [00:37:45,920 - 00:37:47,920] And voice, again, is
+- [00:37:47,920 - 00:37:49,920] what words, what,
+- [00:37:49,920 - 00:37:51,920] how formal or
+- [00:37:51,920 - 00:37:53,920] informal are you
+- [00:37:53,920 - 00:37:55,920] going for in terms of your word
+- [00:37:55,920 - 00:37:57,920] choice? It would often
+- [00:37:57,920 - 00:37:59,920] be eye-opening to my students when I
+- [00:37:59,920 - 00:38:01,920] would come into class and I'd say, you know,
+- [00:38:01,920 - 00:38:03,920] because you're speakers of
+- [00:38:03,920 - 00:38:05,920] English, you
+- [00:38:05,920 - 00:38:07,920] have a kind of built-in
+- [00:38:07,920 - 00:38:09,920] bilingualism.
+- [00:38:09,920 - 00:38:11,920] And they'd say, what do you mean by that?
+- [00:38:11,920 - 00:38:13,920] I'd say,
+- [00:38:13,920 - 00:38:15,920] for historical reasons,
+- [00:38:17,920 - 00:38:19,920] you have the possibility
+- [00:38:19,920 - 00:38:21,920] of drawing
+- [00:38:21,920 - 00:38:23,920] on two completely
+- [00:38:23,920 - 00:38:25,920] different histories
+- [00:38:25,920 - 00:38:27,920] and origins of words
+- [00:38:27,920 - 00:38:29,920] in order to create
+- [00:38:29,920 - 00:38:31,920] registral and color effects.
+- [00:38:31,920 - 00:38:33,920] Are you talking about Latin and Anglo-Saxon?
+- [00:38:33,920 - 00:38:35,920] Absolutely.
+- [00:38:35,920 - 00:38:37,920] So, if
+- [00:38:37,920 - 00:38:39,920] you say I live in a mansion,
+- [00:38:39,920 - 00:38:41,920] right, or if you say
+- [00:38:41,920 - 00:38:43,920] I live in a house,
+- [00:38:43,920 - 00:38:45,920] why does one sound more expensive than
+- [00:38:45,920 - 00:38:47,920] the other? I mean, back
+- [00:38:47,920 - 00:38:49,920] all the way at the beginning, they were the same
+- [00:38:49,920 - 00:38:51,920] thing. Maison and, you know, our
+- [00:38:51,920 - 00:38:53,920] English house were the same thing.
+- [00:38:53,920 - 00:38:55,920] But, you know, because
+- [00:38:55,920 - 00:38:57,920] the Normans came over
+- [00:38:57,920 - 00:38:59,920] to England and conquered the
+- [00:38:59,920 - 00:39:01,920] local English people
+- [00:39:01,920 - 00:39:03,920] and set themselves up in court
+- [00:39:03,920 - 00:39:05,920] the
+- [00:39:05,920 - 00:39:07,920] Latinate through French
+- [00:39:07,920 - 00:39:09,920] words
+- [00:39:09,920 - 00:39:11,920] got a higher socioeconomic register.
+- [00:39:11,920 - 00:39:13,920] Ha ha, right.
+- [00:39:13,920 - 00:39:15,920] And so immediately
+- [00:39:15,920 - 00:39:17,920] the words you use
+- [00:39:17,920 - 00:39:19,920] talk about your class.
+- [00:39:19,920 - 00:39:21,920] And
+- [00:39:21,920 - 00:39:23,920] when my students would make
+- [00:39:23,920 - 00:39:25,920] this realization, it was like, wow,
+- [00:39:25,920 - 00:39:27,920] I've got some power that I didn't have
+- [00:39:27,920 - 00:39:29,920] before. Maybe I could hear it
+- [00:39:29,920 - 00:39:31,920] in my ear when somebody's
+- [00:39:31,920 - 00:39:33,920] being snooty or somebody's
+- [00:39:33,920 - 00:39:35,920] trying to establish their street cred.
+- [00:39:35,920 - 00:39:37,920] But now that I know
+- [00:39:37,920 - 00:39:39,920] the
+- [00:39:39,920 - 00:39:41,920] actual rules for making that work,
+- [00:39:41,920 - 00:39:43,920] my ear becomes better.
+- [00:39:43,920 - 00:39:45,920] Right? And
+- [00:39:45,920 - 00:39:47,920] the difference
+- [00:39:47,920 - 00:39:49,920] between freedom
+- [00:39:49,920 - 00:39:51,920] and liberty
+- [00:39:51,920 - 00:39:53,920] becomes more audible.
+- [00:39:53,920 - 00:39:55,920] Right. Right?
+- [00:39:55,920 - 00:39:57,920] So that's
+- [00:39:57,920 - 00:39:59,920] the word level considerations for
+- [00:39:59,920 - 00:40:01,920] voice. The other
+- [00:40:01,920 - 00:40:03,920] consideration is
+- [00:40:03,920 - 00:40:05,920] the sentence level.
+- [00:40:05,920 - 00:40:07,920] So, and I would try
+- [00:40:07,920 - 00:40:09,920] to teach this. It's a very
+- [00:40:09,920 - 00:40:11,920] complicated question because
+- [00:40:11,920 - 00:40:13,920] English grammar is not trivial
+- [00:40:13,920 - 00:40:15,920] and, but it's immensely flexible.
+- [00:40:15,920 - 00:40:17,920] And you can create all kinds
+- [00:40:17,920 - 00:40:19,920] of different palette effects and color effects
+- [00:40:19,920 - 00:40:21,920] by
+- [00:40:21,920 - 00:40:23,920] by using
+- [00:40:23,920 - 00:40:25,920] the flexible
+- [00:40:25,920 - 00:40:27,920] syntax and grammar of English.
+- [00:40:27,920 - 00:40:29,920] But I would say
+- [00:40:29,920 - 00:40:31,920] how can I teach to my students
+- [00:40:31,920 - 00:40:33,920] where they don't have to go back
+- [00:40:33,920 - 00:40:35,920] to this subject that they hated when they were
+- [00:40:35,920 - 00:40:37,920] in sixth grade, but they could
+- [00:40:37,920 - 00:40:39,920] get the meat and potatoes of it.
+- [00:40:39,920 - 00:40:41,920] And I was thinking, can I do
+- [00:40:41,920 - 00:40:43,920] 80% of the work
+- [00:40:43,920 - 00:40:45,920] with 80% of the effect with 20%
+- [00:40:45,920 - 00:40:47,920] of the grammar, you know? Sure.
+- [00:40:47,920 - 00:40:49,920] And so I boil it down to saying
+- [00:40:49,920 - 00:40:51,920] think about
+- [00:40:51,920 - 00:40:53,920] sentences as belonging
+- [00:40:53,920 - 00:40:55,920] basically to one of three classes.
+- [00:40:55,920 - 00:40:57,920] So
+- [00:40:57,920 - 00:40:59,920] the heart and soul of sentence, call it
+- [00:40:59,920 - 00:41:01,920] predication, is the main
+- [00:41:01,920 - 00:41:03,920] subject and the main verb.
+- [00:41:03,920 - 00:41:05,920] Every sentence has
+- [00:41:05,920 - 00:41:07,920] these. Now you might have
+- [00:41:07,920 - 00:41:09,920] an implied main subject
+- [00:41:09,920 - 00:41:11,920] and maybe an imperative
+- [00:41:11,920 - 00:41:13,920] verb where, you know,
+- [00:41:13,920 - 00:41:15,920] give me that would be an example, right?
+- [00:41:15,920 - 00:41:17,920] Give, the predication
+- [00:41:17,920 - 00:41:19,920] is you give me that.
+- [00:41:19,920 - 00:41:21,920] So the subject drops away
+- [00:41:21,920 - 00:41:23,920] and you just have the command.
+- [00:41:23,920 - 00:41:25,920] But every
+- [00:41:25,920 - 00:41:27,920] sentence is built around
+- [00:41:27,920 - 00:41:29,920] that kernel.
+- [00:41:29,920 - 00:41:31,920] If you can find on the page
+- [00:41:31,920 - 00:41:33,920] or in your ear that
+- [00:41:33,920 - 00:41:35,920] kernel, then you
+- [00:41:35,920 - 00:41:37,920] can build the sentence in the way
+- [00:41:37,920 - 00:41:39,920] that allows the sentence
+- [00:41:39,920 - 00:41:41,920] to recreate
+- [00:41:41,920 - 00:41:43,920] emotionally,
+- [00:41:43,920 - 00:41:45,920] prosodically,
+- [00:41:45,920 - 00:41:47,920] the mental state
+- [00:41:47,920 - 00:41:49,920] that the speaker is in, or
+- [00:41:49,920 - 00:41:51,920] that the narrator wants you to
+- [00:41:51,920 - 00:41:53,920] be in, in that the
+- [00:41:53,920 - 00:41:55,920] sentence starts to participate
+- [00:41:55,920 - 00:41:57,920] in the affect of the thing
+- [00:41:57,920 - 00:41:59,920] that it's describing, right?
+- [00:41:59,920 - 00:42:01,920] So if I start
+- [00:42:01,920 - 00:42:03,920] with my predication
+- [00:42:03,920 - 00:42:05,920] and I put in a lot of
+- [00:42:05,920 - 00:42:07,920] other modifiers, that
+- [00:42:07,920 - 00:42:09,920] creates a certain kind of syntax.
+- [00:42:09,920 - 00:42:11,920] He pointed
+- [00:42:11,920 - 00:42:13,920] the gun at his friend,
+- [00:42:13,920 - 00:42:15,920] right? There's
+- [00:42:15,920 - 00:42:17,920] a kind of front-loaded shock
+- [00:42:17,920 - 00:42:19,920] to that, right?
+- [00:42:19,920 - 00:42:21,920] Or the gun exploded
+- [00:42:21,920 - 00:42:23,920] and
+- [00:42:23,920 - 00:42:25,920] a whiff
+- [00:42:25,920 - 00:42:27,920] of smoke exited
+- [00:42:27,920 - 00:42:29,920] the barrel, you know. These are clauses
+- [00:42:29,920 - 00:42:31,920] that have the
+- [00:42:31,920 - 00:42:33,920] action up front, you know, the
+- [00:42:33,920 - 00:42:35,920] main subject, main verb get delivered like that,
+- [00:42:35,920 - 00:42:37,920] and then we see the consequences of those things.
+- [00:42:37,920 - 00:42:39,920] Now, that's a very different
+- [00:42:39,920 - 00:42:41,920] thing than delaying the predication
+- [00:42:41,920 - 00:42:43,920] after a lot of
+- [00:42:43,920 - 00:42:45,920] modifiers. So if you want
+- [00:42:45,920 - 00:42:47,920] to put the reader into an entirely
+- [00:42:47,920 - 00:42:49,920] opposite mental state,
+- [00:42:49,920 - 00:42:51,920] you could say,
+- [00:42:51,920 - 00:42:53,920] way back
+- [00:42:53,920 - 00:42:55,920] across the yard,
+- [00:42:55,920 - 00:42:57,920] near the fence,
+- [00:42:57,920 - 00:42:59,920] where a tiny brook
+- [00:42:59,920 - 00:43:01,920] ran along
+- [00:43:01,920 - 00:43:03,920] an old hedgerow
+- [00:43:03,920 - 00:43:05,920] she hid.
+- [00:43:05,920 - 00:43:07,920] Right?
+- [00:43:07,920 - 00:43:09,920] And of course,
+- [00:43:09,920 - 00:43:11,920] by having these modifiers
+- [00:43:11,920 - 00:43:13,920] first the reader is in this suspenseful state.
+- [00:43:13,920 - 00:43:15,920] Yeah, it's like, what are you going to say? What are you going to say?
+- [00:43:15,920 - 00:43:17,920] And
+- [00:43:17,920 - 00:43:19,920] she doesn't appear until the very end.
+- [00:43:19,920 - 00:43:21,920] So she is hidden from the reader
+- [00:43:21,920 - 00:43:23,920] in the sentence. Oh, wow,
+- [00:43:23,920 - 00:43:25,920] I did not catch that. Right? Yeah.
+- [00:43:25,920 - 00:43:27,920] In the same way that she's hidden
+- [00:43:27,920 - 00:43:29,920] in the physical spin. Ha ha ha,
+- [00:43:29,920 - 00:43:31,920] I did not catch that. You have to wait for it, wait for it.
+- [00:43:31,920 - 00:43:33,920] There she is.
+- [00:43:33,920 - 00:43:35,920] Right? Now the third way would be to split
+- [00:43:35,920 - 00:43:37,920] that predication down the middle and basically
+- [00:43:37,920 - 00:43:39,920] start with your subject
+- [00:43:39,920 - 00:43:41,920] and put a bunch of stuff in the middle
+- [00:43:41,920 - 00:43:43,920] and then a verb, you know.
+- [00:43:43,920 - 00:43:45,920] And you can do
+- [00:43:45,920 - 00:43:47,920] this for all kinds of reasons too. You can create suspense
+- [00:43:47,920 - 00:43:49,920] with that, you can create comedy
+- [00:43:49,920 - 00:43:51,920] with it, right?
+- [00:43:51,920 - 00:43:53,920] It's probably the rarest
+- [00:43:53,920 - 00:43:55,920] form. If you count the sentences
+- [00:43:55,920 - 00:43:57,920] in an average novel, most of them
+- [00:43:57,920 - 00:43:59,920] are going to be in the first
+- [00:43:59,920 - 00:44:01,920] species, you know, where the
+- [00:44:01,920 - 00:44:03,920] subject and verb are pretty up front.
+- [00:44:03,920 - 00:44:05,920] A smaller
+- [00:44:05,920 - 00:44:07,920] number are going to be this delayed predication
+- [00:44:07,920 - 00:44:09,920] and maybe the smallest.
+- [00:44:09,920 - 00:44:11,920] I don't know, I'd like to do that experiment
+- [00:44:11,920 - 00:44:13,920] sometime and actually get the data.
+- [00:44:13,920 - 00:44:15,920] But my intuition is that splitting
+- [00:44:15,920 - 00:44:17,920] the predication is the rarest,
+- [00:44:17,920 - 00:44:19,920] but it has a very powerful
+- [00:44:19,920 - 00:44:21,920] and, you know, not only
+- [00:44:21,920 - 00:44:23,920] the effect in itself can create
+- [00:44:23,920 - 00:44:25,920] these different forms of delay or suspense
+- [00:44:25,920 - 00:44:27,920] or intrigue,
+- [00:44:27,920 - 00:44:29,920] but using it
+- [00:44:29,920 - 00:44:31,920] inside a paragraph when you've just
+- [00:44:31,920 - 00:44:33,920] had three sentences
+- [00:44:33,920 - 00:44:35,920] of, you know,
+- [00:44:35,920 - 00:44:37,920] trailing sentence in a row,
+- [00:44:37,920 - 00:44:39,920] suddenly stopping and changing
+- [00:44:39,920 - 00:44:41,920] that, changing it up, it's like a key change
+- [00:44:41,920 - 00:44:43,920] in music or going to a different chord.
+- [00:44:43,920 - 00:44:45,920] Right. Tell me about
+- [00:44:45,920 - 00:44:47,920] writing descriptively because
+- [00:44:47,920 - 00:44:49,920] it's the kind of thing
+- [00:44:49,920 - 00:44:51,920] that people try to do and
+- [00:44:51,920 - 00:44:53,920] then all of a sudden they sound like they're trying too
+- [00:44:53,920 - 00:44:55,920] hard. And I want to read this sentence
+- [00:44:55,920 - 00:44:57,920] because I think it's a good example of
+- [00:44:57,920 - 00:44:59,920] how you write descriptively.
+- [00:44:59,920 - 00:45:01,920] And I want to hear how you think
+- [00:45:01,920 - 00:45:03,920] about doing this. You write,
+- [00:45:03,920 - 00:45:05,920] Each child's tree has its own
+- [00:45:05,920 - 00:45:07,920] excellence. The ash diamond
+- [00:45:07,920 - 00:45:09,920] shaped bark, the walnuts
+- [00:45:09,920 - 00:45:11,920] long compound leaves,
+- [00:45:11,920 - 00:45:13,920] the maples shower
+- [00:45:13,920 - 00:45:15,920] of helicopters, the vase-like
+- [00:45:15,920 - 00:45:17,920] spread of elm, the ironwoods
+- [00:45:17,920 - 00:45:19,920] fluted muscle.
+- [00:45:19,920 - 00:45:21,920] What's cool about that is I can see it, I can see it,
+- [00:45:21,920 - 00:45:23,920] I can see it, I can see it. You're almost
+- [00:45:23,920 - 00:45:25,920] cutting between
+- [00:45:25,920 - 00:45:27,920] different scenes. But I
+- [00:45:27,920 - 00:45:29,920] find that whenever I try to do that,
+- [00:45:29,920 - 00:45:31,920] the writing just sounds overdone.
+- [00:45:31,920 - 00:45:33,920] It's like, David, why are you trying so hard?
+- [00:45:33,920 - 00:45:35,920] Well, it's okay.
+- [00:45:35,920 - 00:45:37,920] It's okay to try hard because you always have an
+- [00:45:37,920 - 00:45:39,920] edit where you can make it look
+- [00:45:39,920 - 00:45:41,920] more effortless.
+- [00:45:41,920 - 00:45:43,920] And, you know, to
+- [00:45:43,920 - 00:45:45,920] push yourself
+- [00:45:45,920 - 00:45:47,920] in composition and say,
+- [00:45:47,920 - 00:45:49,920] let me make a note to myself about the
+- [00:45:49,920 - 00:45:51,920] kinds of effects that I'm
+- [00:45:51,920 - 00:45:53,920] going after.
+- [00:45:53,920 - 00:45:55,920] Maybe they're too obvious.
+- [00:45:55,920 - 00:45:57,920] Maybe, you know, maybe they're too blocked out.
+- [00:45:57,920 - 00:45:59,920] But at least you know now
+- [00:45:59,920 - 00:46:01,920] what effects it is
+- [00:46:01,920 - 00:46:03,920] that you're after. So think about that first draft
+- [00:46:03,920 - 00:46:05,920] as a note to yourself about,
+- [00:46:05,920 - 00:46:07,920] you know, about the psychic
+- [00:46:07,920 - 00:46:09,920] state that you want your sentence, your descriptions
+- [00:46:09,920 - 00:46:11,920] to participate in. Now when you go back,
+- [00:46:11,920 - 00:46:13,920] you can hide your footwork.
+- [00:46:13,920 - 00:46:15,920] And you can make it more elegant.
+- [00:46:15,920 - 00:46:17,920] You can take out the ones, the notes
+- [00:46:17,920 - 00:46:19,920] that are a bit too loud or that
+- [00:46:19,920 - 00:46:21,920] announce too clearly what your intentions
+- [00:46:21,920 - 00:46:23,920] are. But in that passage,
+- [00:46:23,920 - 00:46:25,920] you know, one of the tricks is that
+- [00:46:25,920 - 00:46:27,920] the idea
+- [00:46:27,920 - 00:46:29,920] in that passage is to make each
+- [00:46:29,920 - 00:46:31,920] species of tree vivid and distinct.
+- [00:46:31,920 - 00:46:33,920] To give them characteristics
+- [00:46:33,920 - 00:46:35,920] that are different from all the other
+- [00:46:35,920 - 00:46:37,920] trees. But to do
+- [00:46:37,920 - 00:46:39,920] it, I'm
+- [00:46:39,920 - 00:46:41,920] introducing, it's almost like
+- [00:46:41,920 - 00:46:43,920] going back to Patricia Westerford
+- [00:46:43,920 - 00:46:45,920] and saying, there's subtle
+- [00:46:45,920 - 00:46:47,920] little elements of anthropomorphism
+- [00:46:47,920 - 00:46:49,920] in that sentence or pantheism
+- [00:46:49,920 - 00:46:51,920] or animism in those descriptions.
+- [00:46:51,920 - 00:46:53,920] The ironwood's fluted muscle.
+- [00:46:53,920 - 00:46:55,920] Yeah. And now
+- [00:46:55,920 - 00:46:57,920] it's like that
+- [00:46:57,920 - 00:46:59,920] trunk that's so visually distinct
+- [00:46:59,920 - 00:47:01,920] in that tree
+- [00:47:01,920 - 00:47:03,920] now becomes like a weightless tree.
+- [00:47:03,920 - 00:47:05,920] You see it flexing and you can
+- [00:47:05,920 - 00:47:07,920] see the sinews.
+- [00:47:07,920 - 00:47:09,920] So it's a subtle invitation
+- [00:47:09,920 - 00:47:11,920] to elicit
+- [00:47:11,920 - 00:47:13,920] the animism in the reader.
+- [00:47:13,920 - 00:47:15,920] Oh yeah, I've looked at a tree
+- [00:47:15,920 - 00:47:17,920] and I've thought
+- [00:47:17,920 - 00:47:19,920] that tree is evil
+- [00:47:19,920 - 00:47:21,920] or that tree is
+- [00:47:21,920 - 00:47:23,920] shy or that, you know,
+- [00:47:23,920 - 00:47:25,920] all these projected emotions.
+- [00:47:25,920 - 00:47:27,920] Majestic. Right. Yeah.
+- [00:47:27,920 - 00:47:29,920] But read the first sentence again because
+- [00:47:29,920 - 00:47:31,920] you'll see a little registral trick there too.
+- [00:47:31,920 - 00:47:33,920] Okay, tell me when to stop.
+- [00:47:33,920 - 00:47:35,920] Each child's tree has its own
+- [00:47:35,920 - 00:47:37,920] excellence. Stop.
+- [00:47:37,920 - 00:47:39,920] Were you
+- [00:47:39,920 - 00:47:41,920] expecting that word as the final
+- [00:47:41,920 - 00:47:43,920] word of that clause? No.
+- [00:47:43,920 - 00:47:45,920] It's like
+- [00:47:45,920 - 00:47:47,920] a great
+- [00:47:47,920 - 00:47:49,920] song where
+- [00:47:49,920 - 00:47:51,920] you hear the phrase
+- [00:47:51,920 - 00:47:53,920] and you think you know the way the chords are going
+- [00:47:53,920 - 00:47:55,920] and then all of a sudden
+- [00:47:55,920 - 00:47:57,920] at the end of that phrase
+- [00:47:57,920 - 00:47:59,920] you hear a sudden and interesting
+- [00:47:59,920 - 00:48:01,920] change of color or change of
+- [00:48:01,920 - 00:48:03,920] instrumentation or change of pitch.
+- [00:48:03,920 - 00:48:05,920] The last thing you would
+- [00:48:05,920 - 00:48:07,920] think to apply to a tree
+- [00:48:07,920 - 00:48:09,920] would be some degree of excellence.
+- [00:48:09,920 - 00:48:11,920] Now
+- [00:48:11,920 - 00:48:13,920] I always think, you know,
+- [00:48:13,920 - 00:48:15,920] the beginning
+- [00:48:15,920 - 00:48:17,920] of a sentence and the end of a sentence
+- [00:48:17,920 - 00:48:19,920] are very powerful places
+- [00:48:19,920 - 00:48:21,920] to set a reader's
+- [00:48:21,920 - 00:48:23,920] expectation and then to surprise
+- [00:48:23,920 - 00:48:25,920] the reader's expectation.
+- [00:48:25,920 - 00:48:27,920] Each child's tree has its own
+- [00:48:27,920 - 00:48:29,920] degree of excellence.
+- [00:48:29,920 - 00:48:31,920] Right?
+- [00:48:31,920 - 00:48:33,920] And the reader's unconscious.
+- [00:48:33,920 - 00:48:35,920] Just reading along for the music of it
+- [00:48:35,920 - 00:48:37,920] and the color of it and the images
+- [00:48:37,920 - 00:48:39,920] being created.
+- [00:48:39,920 - 00:48:41,920] But the composer
+- [00:48:41,920 - 00:48:43,920] is saying
+- [00:48:45,920 - 00:48:47,920] that word raises
+- [00:48:47,920 - 00:48:49,920] the tension a little bit
+- [00:48:49,920 - 00:48:51,920] at the end of that sentence.
+- [00:48:51,920 - 00:48:53,920] And it's not
+- [00:48:53,920 - 00:48:55,920] the one that the...
+- [00:48:55,920 - 00:48:57,920] As we read along we're constantly saying
+- [00:48:57,920 - 00:48:59,920] what's coming next, what's coming next.
+- [00:48:59,920 - 00:49:01,920] We're like an AI.
+- [00:49:01,920 - 00:49:03,920] Right.
+- [00:49:03,920 - 00:49:05,920] We're like a most likely word.
+- [00:49:05,920 - 00:49:07,920] We're like a large language model.
+- [00:49:07,920 - 00:49:09,920] We have a model of the world.
+- [00:49:09,920 - 00:49:11,920] And as I add each new word
+- [00:49:11,920 - 00:49:13,920] to this sentence
+- [00:49:13,920 - 00:49:15,920] you are deciding
+- [00:49:15,920 - 00:49:17,920] which way I'm going to
+- [00:49:17,920 - 00:49:19,920] spin.
+- [00:49:19,920 - 00:49:21,920] Exactly.
+- [00:49:21,920 - 00:49:23,920] You got to...
+- [00:49:23,920 - 00:49:25,920] You can play off that expectation.
+- [00:49:25,920 - 00:49:27,920] You can set it in motion
+- [00:49:27,920 - 00:49:29,920] and then say, nope, this way, that way.
+- [00:49:29,920 - 00:49:31,920] So how is it different, say,
+- [00:49:31,920 - 00:49:33,920] when you're describing a person.
+- [00:49:33,920 - 00:49:35,920] But then you write,
+- [00:49:35,920 - 00:49:37,920] The farm was where Nick first started sketching.
+- [00:49:37,920 - 00:49:39,920] The pencil dreams of boys.
+- [00:49:39,920 - 00:49:41,920] Rockets, outlandish cars,
+- [00:49:41,920 - 00:49:43,920] massed armies,
+- [00:49:43,920 - 00:49:45,920] imaginary cities, more baroque with detail
+- [00:49:45,920 - 00:49:47,920] each year.
+- [00:49:47,920 - 00:49:49,920] Then wilder textures, directly observed.
+- [00:49:49,920 - 00:49:51,920] The forest of hairs on a caterpillar's back.
+- [00:49:51,920 - 00:49:53,920] And the stormy weather maps
+- [00:49:53,920 - 00:49:55,920] and the grain of floorboards.
+- [00:49:55,920 - 00:49:57,920] Yeah.
+- [00:49:57,920 - 00:49:59,920] And you know it's interesting to read something
+- [00:49:59,920 - 00:50:01,920] that I wrote
+- [00:50:01,920 - 00:50:03,920] now.
+- [00:50:03,920 - 00:50:05,920] Seven or eight years ago.
+- [00:50:05,920 - 00:50:07,920] I'm in a different place.
+- [00:50:07,920 - 00:50:09,920] The world is in a different place.
+- [00:50:09,920 - 00:50:11,920] That book exists and
+- [00:50:11,920 - 00:50:13,920] you know, its trajectory I could never
+- [00:50:13,920 - 00:50:15,920] have foreseen when I was working on it.
+- [00:50:15,920 - 00:50:17,920] And I'm listening to those phrases
+- [00:50:17,920 - 00:50:19,920] on the one hand, the way
+- [00:50:19,920 - 00:50:21,920] a brand new reader is listening to them.
+- [00:50:21,920 - 00:50:23,920] Because enough time has passed for me to
+- [00:50:23,920 - 00:50:25,920] forget what that passage,
+- [00:50:25,920 - 00:50:27,920] how that passage worked.
+- [00:50:27,920 - 00:50:29,920] So I hear that pencil, the pencil dreams of boys.
+- [00:50:29,920 - 00:50:31,920] And I don't know,
+- [00:50:31,920 - 00:50:33,920] it's an odd metaphor for me.
+- [00:50:33,920 - 00:50:35,920] I don't know if I can remember the word
+- [00:50:35,920 - 00:50:37,920] for a second.
+- [00:50:37,920 - 00:50:39,920] And then you get the catalogue of things that boys might sketch
+- [00:50:39,920 - 00:50:41,920] and oh the pencil dreams of boys.
+- [00:50:41,920 - 00:50:43,920] Well what's so cool about this is
+- [00:50:43,920 - 00:50:45,920] I put, it put me back
+- [00:50:45,920 - 00:50:47,920] to being a kid.
+- [00:50:47,920 - 00:50:49,920] I used to design airports in my room when I was a kid.
+- [00:50:49,920 - 00:50:51,920] So this is about rockets and outlandish cars.
+- [00:50:51,920 - 00:50:53,920] It has nothing to do with airplanes.
+- [00:50:53,920 - 00:50:55,920] But something about the similarity put me back
+- [00:50:55,920 - 00:50:57,920] to being an eight year old kid,
+- [00:50:57,920 - 00:50:59,920] kind of messing around and sketching around
+- [00:50:59,920 - 00:51:01,920] and designing baseball this
+- [00:51:01,920 - 00:51:03,920] and football that.
+- [00:51:03,920 - 00:51:05,920] And now that I'm rereading it,
+- [00:51:05,920 - 00:51:07,920] so much of what makes this resonate with me.
+- [00:51:07,920 - 00:51:09,920] Yeah, now you can look at the individual words
+- [00:51:09,920 - 00:51:11,920] and the syntax and say,
+- [00:51:11,920 - 00:51:13,920] what is he doing to put me in that mental state?
+- [00:51:13,920 - 00:51:15,920] Beyond the simple,
+- [00:51:15,920 - 00:51:17,920] literal conveyance of the sentence.
+- [00:51:17,920 - 00:51:19,920] I have to say,
+- [00:51:19,920 - 00:51:21,920] in all honesty,
+- [00:51:21,920 - 00:51:23,920] and this might be lesson number one of craft,
+- [00:51:23,920 - 00:51:25,920] I'm also listening and saying,
+- [00:51:25,920 - 00:51:27,920] no, I would do that differently now.
+- [00:51:27,920 - 00:51:29,920] Give me a red pen.
+- [00:51:29,920 - 00:51:31,920] You know, because that's writing.
+- [00:51:31,920 - 00:51:33,920] You are never going to be able
+- [00:51:33,920 - 00:51:35,920] to get that sentence done with it.
+- [00:51:35,920 - 00:51:37,920] Because you're a moving target,
+- [00:51:37,920 - 00:51:39,920] your reader is a moving target,
+- [00:51:39,920 - 00:51:41,920] the world is a moving target.
+- [00:51:41,920 - 00:51:43,920] You look at that sentence and you say,
+- [00:51:43,920 - 00:51:45,920] give me another shot at that.
+- [00:51:45,920 - 00:51:47,920] So, you know,
+- [00:51:47,920 - 00:51:49,920] when you say you look at your first draft
+- [00:51:49,920 - 00:51:51,920] and it's frustrating for you,
+- [00:51:51,920 - 00:51:53,920] I say that's not a bug,
+- [00:51:53,920 - 00:51:55,920] that's a feature.
+- [00:51:55,920 - 00:51:57,920] Let that frustration be another form
+- [00:51:57,920 - 00:51:59,920] of seeing your desire.
+- [00:51:59,920 - 00:52:01,920] So how many times do you rewrite those sentences?
+- [00:52:01,920 - 00:52:03,920] Oh, gosh.
+- [00:52:03,920 - 00:52:05,920] You know,
+- [00:52:05,920 - 00:52:07,920] when you're processing,
+- [00:52:07,920 - 00:52:09,920] it's hard to say 12 or 14.
+- [00:52:09,920 - 00:52:11,920] It's just continuous.
+- [00:52:11,920 - 00:52:13,920] It just keeps happening.
+- [00:52:13,920 - 00:52:15,920] Never ends.
+- [00:52:15,920 - 00:52:17,920] You know, you wake up the next day
+- [00:52:17,920 - 00:52:19,920] and you're reworking the previous day's material.
+- [00:52:19,920 - 00:52:21,920] And then you get to the end of the weekend
+- [00:52:21,920 - 00:52:23,920] and you've got a chapter and you read the chapter
+- [00:52:23,920 - 00:52:25,920] and you rework the chapter again.
+- [00:52:25,920 - 00:52:27,920] And then the whole book is finished
+- [00:52:27,920 - 00:52:29,920] and now you say it's time to go do a second draft.
+- [00:52:29,920 - 00:52:31,920] Well, that second draft is actually now,
+- [00:52:31,920 - 00:52:33,920] I think, a thousand times or more.
+- [00:52:33,920 - 00:52:35,920] You know, and then you send it off
+- [00:52:35,920 - 00:52:37,920] to your first readers
+- [00:52:37,920 - 00:52:39,920] and they say, eh,
+- [00:52:39,920 - 00:52:41,920] it got a little slow for me
+- [00:52:41,920 - 00:52:43,920] from 140 to 200, you know.
+- [00:52:43,920 - 00:52:45,920] And now you say, well, how do I pick the pace up?
+- [00:52:45,920 - 00:52:47,920] And you go back and you redraft it again.
+- [00:52:47,920 - 00:52:49,920] But all I'm saying is,
+- [00:52:49,920 - 00:52:51,920] accept that as part of the glory
+- [00:52:51,920 - 00:52:53,920] of the process of writing.
+- [00:52:53,920 - 00:52:55,920] Don't fight it as something
+- [00:52:55,920 - 00:52:57,920] you wish you could finally make it.
+- [00:52:57,920 - 00:52:59,920] You know,
+- [00:52:59,920 - 00:53:01,920] you wish you could finally make it
+- [00:53:01,920 - 00:53:03,920] right,
+- [00:53:03,920 - 00:53:05,920] because there's no final right.
+- [00:53:05,920 - 00:53:07,920] You know, I take this book
+- [00:53:07,920 - 00:53:09,920] that was published yesterday,
+- [00:53:09,920 - 00:53:11,920] I go behind the podium tonight,
+- [00:53:11,920 - 00:53:13,920] I start reading from it,
+- [00:53:13,920 - 00:53:15,920] I want to change it.
+- [00:53:15,920 - 00:53:17,920] Wow.
+- [00:53:17,920 - 00:53:19,920] When you get frustrated
+- [00:53:19,920 - 00:53:21,920] when you're writing
+- [00:53:21,920 - 00:53:23,920] and you're agitated or
+- [00:53:23,920 - 00:53:25,920] tense because you're not
+- [00:53:25,920 - 00:53:27,920] getting something right,
+- [00:53:27,920 - 00:53:29,920] what is the nature of the things
+- [00:53:29,920 - 00:53:31,920] that aren't quite right for you?
+- [00:53:31,920 - 00:53:33,920] Well, it could be anything.
+- [00:53:33,920 - 00:53:35,920] It could be deafness, you know, or...
+- [00:53:35,920 - 00:53:37,920] Deafness?
+- [00:53:37,920 - 00:53:39,920] Yeah, like I don't know
+- [00:53:39,920 - 00:53:41,920] what this person's trying to say
+- [00:53:41,920 - 00:53:43,920] or how they should be trying to say it.
+- [00:53:43,920 - 00:53:45,920] It could be a dramatic problem.
+- [00:53:45,920 - 00:53:47,920] Oh, my God, I just realized
+- [00:53:47,920 - 00:53:49,920] that I've been, you know,
+- [00:53:49,920 - 00:53:51,920] I've been counting on these two characters
+- [00:53:51,920 - 00:53:53,920] to be
+- [00:53:53,920 - 00:53:55,920] disagreeing about this matter,
+- [00:53:55,920 - 00:53:57,920] but now that I see them both in context,
+- [00:53:57,920 - 00:53:59,920] I'm not sure they would be.
+- [00:53:59,920 - 00:54:01,920] And I think that's the thing.
+- [00:54:01,920 - 00:54:03,920] So you could, you,
+- [00:54:03,920 - 00:54:05,920] you're constantly having
+- [00:54:05,920 - 00:54:07,920] to course correct.
+- [00:54:07,920 - 00:54:09,920] You're constantly having
+- [00:54:09,920 - 00:54:11,920] to discover the things that your
+- [00:54:11,920 - 00:54:13,920] unconscious knew.
+- [00:54:13,920 - 00:54:15,920] Sometimes you can't discover it.
+- [00:54:15,920 - 00:54:17,920] So the ways of going wrong are infinite.
+- [00:54:17,920 - 00:54:19,920] And the ways of going right
+- [00:54:19,920 - 00:54:21,920] are not final.
+- [00:54:21,920 - 00:54:23,920] So,
+- [00:54:23,920 - 00:54:25,920] ride it, you know.
+- [00:54:25,920 - 00:54:27,920] It's so definitely like surfing.
+- [00:54:27,920 - 00:54:29,920] For me,
+- [00:54:29,920 - 00:54:31,920] the craft
+- [00:54:31,920 - 00:54:33,920] tip here
+- [00:54:33,920 - 00:54:35,920] is relax.
+- [00:54:35,920 - 00:54:37,920] Forgive yourself.
+- [00:54:37,920 - 00:54:39,920] Know,
+- [00:54:39,920 - 00:54:41,920] because it always comes around
+- [00:54:41,920 - 00:54:43,920] to something more satisfying,
+- [00:54:43,920 - 00:54:45,920] that all you need to do
+- [00:54:45,920 - 00:54:47,920] is let it breathe a little bit.
+- [00:54:47,920 - 00:54:49,920] Go out, take a hike, you know,
+- [00:54:49,920 - 00:54:51,920] stand in front
+- [00:54:51,920 - 00:54:53,920] of a tree, you know, breathe
+- [00:54:53,920 - 00:54:55,920] the air, you know, drink the drink.
+- [00:54:55,920 - 00:54:57,920] Relax
+- [00:54:57,920 - 00:54:59,920] the perfectionism that says
+- [00:54:59,920 - 00:55:01,920] I need to get
+- [00:55:01,920 - 00:55:03,920] this in a perfect final state.
+- [00:55:03,920 - 00:55:05,920] Let it, let it be process.
+- [00:55:05,920 - 00:55:07,920] I want to talk about introductions.
+- [00:55:07,920 - 00:55:09,920] Just how you think about
+- [00:55:09,920 - 00:55:11,920] where these books begin.
+- [00:55:11,920 - 00:55:13,920] For Overstore, you write
+- [00:55:13,920 - 00:55:15,920] first there was nothing.
+- [00:55:15,920 - 00:55:17,920] Then there was everything.
+- [00:55:17,920 - 00:55:19,920] For Playground,
+- [00:55:19,920 - 00:55:21,920] before the Earth, before the Moon,
+- [00:55:21,920 - 00:55:23,920] before the stars, before the Sun,
+- [00:55:23,920 - 00:55:25,920] before the sky, even before the sea,
+- [00:55:25,920 - 00:55:27,920] there was only time
+- [00:55:27,920 - 00:55:29,920] and Ta-Aroa.
+- [00:55:29,920 - 00:55:31,920] Why do you choose those? How do you think
+- [00:55:31,920 - 00:55:33,920] about that? You're revealing
+- [00:55:33,920 - 00:55:35,920] something
+- [00:55:35,920 - 00:55:37,920] that I probably had
+- [00:55:37,920 - 00:55:39,920] never consciously articulated
+- [00:55:39,920 - 00:55:41,920] about what I like in
+- [00:55:41,920 - 00:55:43,920] beginnings.
+- [00:55:43,920 - 00:55:45,920] But I see it clearly in
+- [00:55:45,920 - 00:55:47,920] both of these. I want
+- [00:55:47,920 - 00:55:49,920] to situate my
+- [00:55:49,920 - 00:55:51,920] stories in a mythological framework.
+- [00:55:51,920 - 00:55:53,920] Yes. But I
+- [00:55:53,920 - 00:55:55,920] also, you know, I'm imitating a certain
+- [00:55:55,920 - 00:55:57,920] kind of cinematography too.
+- [00:55:57,920 - 00:55:59,920] Like
+- [00:55:59,920 - 00:56:01,920] a
+- [00:56:01,920 - 00:56:03,920] great films that
+- [00:56:03,920 - 00:56:05,920] start with a really distant
+- [00:56:05,920 - 00:56:07,920] wide establishing shot.
+- [00:56:07,920 - 00:56:09,920] Yep.
+- [00:56:09,920 - 00:56:11,920] And then, you know, go to a mid shot
+- [00:56:11,920 - 00:56:13,920] and then go to a close.
+- [00:56:13,920 - 00:56:15,920] In my ear, I want to
+- [00:56:15,920 - 00:56:17,920] say, here is
+- [00:56:17,920 - 00:56:19,920] the size of the canvas.
+- [00:56:21,920 - 00:56:23,920] Now we're going to explore this, but don't
+- [00:56:23,920 - 00:56:25,920] forget that the canvas is all
+- [00:56:25,920 - 00:56:27,920] the way out here.
+- [00:56:27,920 - 00:56:29,920] So if that opening
+- [00:56:29,920 - 00:56:31,920] can be kind of cosmic,
+- [00:56:31,920 - 00:56:33,920] then you earn
+- [00:56:33,920 - 00:56:35,920] the right to tell a local story
+- [00:56:35,920 - 00:56:37,920] and let it germinate
+- [00:56:37,920 - 00:56:39,920] and grow into
+- [00:56:39,920 - 00:56:41,920] the larger
+- [00:56:41,920 - 00:56:43,920] frame that you've set for the story.
+- [00:56:43,920 - 00:56:45,920] But I'll tell you,
+- [00:56:45,920 - 00:56:47,920] I love
+- [00:56:47,920 - 00:56:49,920] opening lines.
+- [00:56:49,920 - 00:56:51,920] I love looking at the books that I
+- [00:56:51,920 - 00:56:53,920] love and seeing how sometimes
+- [00:56:53,920 - 00:56:55,920] the entire book is contained in the
+- [00:56:55,920 - 00:56:57,920] microcosm of the first sentence or
+- [00:56:57,920 - 00:56:59,920] paragraph. All the conflicts,
+- [00:56:59,920 - 00:57:01,920] all the dramas, all the characterization,
+- [00:57:01,920 - 00:57:03,920] you know, are hinted at
+- [00:57:03,920 - 00:57:05,920] in a way that the reader can't possibly
+- [00:57:05,920 - 00:57:07,920] see or
+- [00:57:07,920 - 00:57:09,920] anticipate.
+- [00:57:09,920 - 00:57:11,920] I mean, Romeo and Juliet, two houses
+- [00:57:11,920 - 00:57:13,920] both alike in dignity in
+- [00:57:13,920 - 00:57:15,920] Feverona where we lay our scene.
+- [00:57:15,920 - 00:57:17,920] I mean, just right at the beginning of that,
+- [00:57:17,920 - 00:57:19,920] two people, they're
+- [00:57:19,920 - 00:57:21,920] very similar, but uh-oh,
+- [00:57:21,920 - 00:57:23,920] stuff's about to happen.
+- [00:57:23,920 - 00:57:25,920] It was the best of times, it was the worst
+- [00:57:25,920 - 00:57:27,920] of times. You know, all these lines that
+- [00:57:27,920 - 00:57:29,920] have become so classic because
+- [00:57:29,920 - 00:57:31,920] after the fact, retrocessions,
+- [00:57:31,920 - 00:57:33,920] respectively, we realize
+- [00:57:33,920 - 00:57:35,920] that's the story in a nutshell.
+- [00:57:35,920 - 00:57:37,920] But, you know, I search and search and
+- [00:57:37,920 - 00:57:39,920] search and I throw them out, I start again,
+- [00:57:39,920 - 00:57:41,920] I start somewhere else, and it's
+- [00:57:41,920 - 00:57:43,920] all good, you know, it's all
+- [00:57:43,920 - 00:57:45,920] discovery. The
+- [00:57:45,920 - 00:57:47,920] overstory line,
+- [00:57:47,920 - 00:57:49,920] first there was nothing,
+- [00:57:49,920 - 00:57:51,920] then there was everything.
+- [00:57:51,920 - 00:57:53,920] I mean, if you're not
+- [00:57:53,920 - 00:57:55,920] sympathetic, you could say
+- [00:57:55,920 - 00:57:57,920] that's kind of
+- [00:57:57,920 - 00:57:59,920] philosophical mumbo jumbo.
+- [00:57:59,920 - 00:58:01,920] And, you know,
+- [00:58:01,920 - 00:58:03,920] the Gospel of John works a little bit like that.
+- [00:58:03,920 - 00:58:05,920] It could be a little bit of a mystification,
+- [00:58:05,920 - 00:58:07,920] you know. What in the beginning was the
+- [00:58:07,920 - 00:58:09,920] Word, and the Word was with God, and the Word was God.
+- [00:58:09,920 - 00:58:11,920] Yeah. And these sort of
+- [00:58:11,920 - 00:58:13,920] linguistic
+- [00:58:13,920 - 00:58:15,920] play with the
+- [00:58:15,920 - 00:58:17,920] metaphysics of what's being expressed.
+- [00:58:17,920 - 00:58:19,920] Well, that line actually
+- [00:58:19,920 - 00:58:21,920] comes from
+- [00:58:21,920 - 00:58:23,920] one of the last
+- [00:58:23,920 - 00:58:25,920] sentences
+- [00:58:25,920 - 00:58:27,920] that a dear
+- [00:58:27,920 - 00:58:29,920] friend of mine and a brilliant American
+- [00:58:29,920 - 00:58:31,920] poet said on her deathbed.
+- [00:58:31,920 - 00:58:33,920] And as she was drifting
+- [00:58:33,920 - 00:58:35,920] in and out of consciousness,
+- [00:58:35,920 - 00:58:37,920] and, you know,
+- [00:58:37,920 - 00:58:39,920] her loved ones were standing by, and she
+- [00:58:39,920 - 00:58:41,920] would talk, and they would lean in, and
+- [00:58:41,920 - 00:58:43,920] what is she saying? You know,
+- [00:58:43,920 - 00:58:45,920] she said something, they couldn't
+- [00:58:45,920 - 00:58:47,920] hear her, and they leaned in, she
+- [00:58:47,920 - 00:58:49,920] said, first there was nothing.
+- [00:58:51,920 - 00:58:53,920] Then there was
+- [00:58:53,920 - 00:58:55,920] everything.
+- [00:58:55,920 - 00:58:57,920] And I thought, you know, what a better
+- [00:58:57,920 - 00:58:59,920] way to memorialize the life and work
+- [00:58:59,920 - 00:59:01,920] of this friend than to take that
+- [00:59:01,920 - 00:59:03,920] and promote it to the start of this book.
+- [00:59:03,920 - 00:59:05,920] If I remember
+- [00:59:05,920 - 00:59:07,920] correctly, you
+- [00:59:07,920 - 00:59:09,920] wanted to be a poet,
+- [00:59:09,920 - 00:59:11,920] or you were very interested in poetry early on? I still want to be a poet.
+- [00:59:11,920 - 00:59:13,920] You still want to be a poet. When I grow up,
+- [00:59:13,920 - 00:59:15,920] yeah, I may end up that way.
+- [00:59:15,920 - 00:59:17,920] I don't know. Yeah.
+- [00:59:17,920 - 00:59:19,920] But that's
+- [00:59:19,920 - 00:59:21,920] that's the place
+- [00:59:21,920 - 00:59:23,920] where those of us
+- [00:59:23,920 - 00:59:25,920] who love language first
+- [00:59:25,920 - 00:59:27,920] can focus
+- [00:59:27,920 - 00:59:29,920] on that as the primary
+- [00:59:29,920 - 00:59:31,920] pursuit. And there's also drama in
+- [00:59:31,920 - 00:59:33,920] poetry. There's voice, and there's characterization.
+- [00:59:33,920 - 00:59:35,920] There's structure, for sure, and form. We didn't even get
+- [00:59:35,920 - 00:59:37,920] to how drama
+- [00:59:37,920 - 00:59:39,920] generates form and structure.
+- [00:59:39,920 - 00:59:41,920] But in poetry, you see,
+- [00:59:41,920 - 00:59:43,920] most of your job
+- [00:59:43,920 - 00:59:45,920] is to create
+- [00:59:45,920 - 00:59:47,920] visceral
+- [00:59:47,920 - 00:59:49,920] sensations
+- [00:59:49,920 - 00:59:51,920] through the musicality of your words.
+- [00:59:51,920 - 00:59:53,920] I mean, there's
+- [00:59:53,920 - 00:59:55,920] there are a lot of other jobs that poets do, and
+- [00:59:55,920 - 00:59:57,920] of course, poetry itself is a moving
+- [00:59:57,920 - 00:59:59,920] target, and historically has been interested
+- [00:59:59,920 - 01:00:01,920] in different things at different times, and
+- [01:00:01,920 - 01:00:03,920] you know, what's considered the
+- [01:00:03,920 - 01:00:05,920] central preoccupation of poetry has changed
+- [01:00:05,920 - 01:00:07,920] so much, even in the course of my lifetime.
+- [01:00:09,920 - 01:00:11,920] But how does drama create form?
+- [01:00:11,920 - 01:00:13,920] Yeah.
+- [01:00:13,920 - 01:00:15,920] So, we've seen these three kinds of collisions.
+- [01:00:15,920 - 01:00:17,920] And in
+- [01:00:17,920 - 01:00:19,920] any collision, what you're
+- [01:00:19,920 - 01:00:21,920] talking about, the primary variable,
+- [01:00:21,920 - 01:00:23,920] is tension.
+- [01:00:23,920 - 01:00:25,920] In a collision, you go from a
+- [01:00:25,920 - 01:00:27,920] low tension state to a high tension state.
+- [01:00:27,920 - 01:00:29,920] Right?
+- [01:00:29,920 - 01:00:31,920] And then,
+- [01:00:31,920 - 01:00:33,920] you can relax that tension
+- [01:00:33,920 - 01:00:35,920] as the drama is resolved. And then
+- [01:00:35,920 - 01:00:37,920] it starts up again somewhere else, and the tension goes.
+- [01:00:37,920 - 01:00:39,920] So, you are dialing in and out
+- [01:00:39,920 - 01:00:41,920] of something that most
+- [01:00:41,920 - 01:00:43,920] of us can read
+- [01:00:43,920 - 01:00:45,920] intuitively as
+- [01:00:45,920 - 01:00:47,920] the stakes. Right?
+- [01:00:47,920 - 01:00:49,920] And what we call
+- [01:00:49,920 - 01:00:51,920] tension is the realization on the part
+- [01:00:51,920 - 01:00:53,920] of the protagonists that the stakes
+- [01:00:53,920 - 01:00:55,920] are going up.
+- [01:00:55,920 - 01:00:57,920] Now, when you think
+- [01:00:57,920 - 01:00:59,920] of form
+- [01:00:59,920 - 01:01:01,920] as trying to address
+- [01:01:01,920 - 01:01:03,920] the potentials and the problems
+- [01:01:03,920 - 01:01:05,920] of tension, now you're
+- [01:01:05,920 - 01:01:07,920] thinking, what does
+- [01:01:07,920 - 01:01:09,920] a writer want to do from
+- [01:01:09,920 - 01:01:11,920] page one to page four hundred
+- [01:01:11,920 - 01:01:13,920] to manipulate the
+- [01:01:13,920 - 01:01:15,920] tension in the reader?
+- [01:01:15,920 - 01:01:17,920] And of course, it's going
+- [01:01:17,920 - 01:01:19,920] up and down all the time, depending on the drama
+- [01:01:19,920 - 01:01:21,920] of individual scenes.
+- [01:01:21,920 - 01:01:23,920] But we have
+- [01:01:23,920 - 01:01:25,920] the ability to tell
+- [01:01:25,920 - 01:01:27,920] stories, you know, this
+- [01:01:27,920 - 01:01:29,920] weird adaptation that the human brain
+- [01:01:29,920 - 01:01:31,920] has for imagining
+- [01:01:31,920 - 01:01:33,920] creating imaginary spaces
+- [01:01:33,920 - 01:01:35,920] and saying, you know, what if
+- [01:01:35,920 - 01:01:37,920] this guy
+- [01:01:37,920 - 01:01:39,920] said this to this guy?
+- [01:01:39,920 - 01:01:41,920] Right? We
+- [01:01:41,920 - 01:01:43,920] know that when we tell even the simplest
+- [01:01:43,920 - 01:01:45,920] stories, there's a
+- [01:01:45,920 - 01:01:47,920] kind of structure that makes
+- [01:01:47,920 - 01:01:49,920] sense with regard to tension,
+- [01:01:49,920 - 01:01:51,920] and there's a kind of structure that doesn't
+- [01:01:51,920 - 01:01:53,920] make sense. If I said
+- [01:01:53,920 - 01:01:55,920] once upon a
+- [01:01:55,920 - 01:01:57,920] time, there was a prince,
+- [01:01:57,920 - 01:01:59,920] and the prince
+- [01:01:59,920 - 01:02:01,920] wrote out on his
+- [01:02:01,920 - 01:02:03,920] steed, and he
+- [01:02:03,920 - 01:02:05,920] killed the most
+- [01:02:05,920 - 01:02:07,920] challenging dragon in the country.
+- [01:02:09,920 - 01:02:11,920] And then, the next
+- [01:02:11,920 - 01:02:13,920] year, the prince rode out on his horse,
+- [01:02:13,920 - 01:02:15,920] and he killed
+- [01:02:15,920 - 01:02:17,920] a dragon that was somewhat
+- [01:02:17,920 - 01:02:19,920] challenging. Right.
+- [01:02:19,920 - 01:02:21,920] That wouldn't make any sense.
+- [01:02:21,920 - 01:02:23,920] You know, the finale
+- [01:02:23,920 - 01:02:25,920] being, and then he killed the easiest
+- [01:02:25,920 - 01:02:27,920] dragon in the country. It would never work like that.
+- [01:02:27,920 - 01:02:29,920] Makes no sense at all. So we have
+- [01:02:29,920 - 01:02:31,920] an intrinsic, which would
+- [01:02:31,920 - 01:02:33,920] actually, it would merit some
+- [01:02:33,920 - 01:02:35,920] investigation as to
+- [01:02:35,920 - 01:02:37,920] why that makes
+- [01:02:37,920 - 01:02:39,920] absolute sense to us
+- [01:02:39,920 - 01:02:41,920] to stack tension as a rising
+- [01:02:41,920 - 01:02:43,920] thing. You know,
+- [01:02:43,920 - 01:02:45,920] to think about that as a
+- [01:02:45,920 - 01:02:47,920] physiological thing, as
+- [01:02:47,920 - 01:02:49,920] part of this,
+- [01:02:49,920 - 01:02:51,920] you know,
+- [01:02:51,920 - 01:02:53,920] adaptive power that we have
+- [01:02:53,920 - 01:02:55,920] to intrigue other people with story.
+- [01:02:55,920 - 01:02:57,920] But a
+- [01:02:57,920 - 01:02:59,920] simple rising
+- [01:02:59,920 - 01:03:01,920] action isn't
+- [01:03:01,920 - 01:03:03,920] really the most satisfying kind of
+- [01:03:03,920 - 01:03:05,920] story anyway, especially for
+- [01:03:05,920 - 01:03:07,920] long form, right?
+- [01:03:07,920 - 01:03:09,920] So, you know,
+- [01:03:09,920 - 01:03:11,920] you have to sculpt
+- [01:03:11,920 - 01:03:13,920] that tension graph
+- [01:03:13,920 - 01:03:15,920] in a way that
+- [01:03:15,920 - 01:03:17,920] does justice to your characters,
+- [01:03:17,920 - 01:03:19,920] does justice to your readers'
+- [01:03:19,920 - 01:03:21,920] expectations, and keeps your readers
+- [01:03:21,920 - 01:03:23,920] intrigued. Because, you know,
+- [01:03:23,920 - 01:03:25,920] there's a certain
+- [01:03:25,920 - 01:03:27,920] kind of tension in just
+- [01:03:27,920 - 01:03:29,920] wanting to know what happens next.
+- [01:03:29,920 - 01:03:31,920] There's a certain kind of tension
+- [01:03:31,920 - 01:03:33,920] in knowing that there are mysteries early
+- [01:03:33,920 - 01:03:35,920] on in a story that you can't explain.
+- [01:03:35,920 - 01:03:37,920] And so there's that
+- [01:03:37,920 - 01:03:39,920] reverse anticipation of
+- [01:03:39,920 - 01:03:41,920] knowing that
+- [01:03:41,920 - 01:03:43,920] eventually you're going to get an
+- [01:03:43,920 - 01:03:45,920] explanation of something that right now
+- [01:03:45,920 - 01:03:47,920] is completely mysterious to you.
+- [01:03:47,920 - 01:03:49,920] So I would teach the tension
+- [01:03:49,920 - 01:03:51,920] graph as having
+- [01:03:51,920 - 01:03:53,920] four parts.
+- [01:03:53,920 - 01:03:55,920] A hook
+- [01:03:55,920 - 01:03:57,920] where at the beginning tension
+- [01:03:57,920 - 01:03:59,920] is just a little bit higher,
+- [01:03:59,920 - 01:04:01,920] artificially higher, right?
+- [01:04:01,920 - 01:04:03,920] In order to say
+- [01:04:03,920 - 01:04:05,920] here's what's,
+- [01:04:05,920 - 01:04:07,920] this is going to draw you into this world.
+- [01:04:07,920 - 01:04:09,920] There's some stakes early on that you're
+- [01:04:09,920 - 01:04:11,920] going to immediately be viscerally interested in.
+- [01:04:11,920 - 01:04:13,920] And once you
+- [01:04:13,920 - 01:04:15,920] get the reader hooked
+- [01:04:15,920 - 01:04:17,920] with that higher level of
+- [01:04:17,920 - 01:04:19,920] tension, you can relax
+- [01:04:19,920 - 01:04:21,920] the tension a little bit as you move into
+- [01:04:21,920 - 01:04:23,920] what I would call the exposition.
+- [01:04:23,920 - 01:04:25,920] Who's who? Who are
+- [01:04:25,920 - 01:04:27,920] they?
+- [01:04:27,920 - 01:04:29,920] What is the
+- [01:04:29,920 - 01:04:31,920] crisis? What is the
+- [01:04:31,920 - 01:04:33,920] stakes? Where are these
+- [01:04:33,920 - 01:04:35,920] people coming from? Getting everybody
+- [01:04:35,920 - 01:04:37,920] on stage.
+- [01:04:37,920 - 01:04:39,920] You've earned the
+- [01:04:39,920 - 01:04:41,920] ability to relax the tension
+- [01:04:41,920 - 01:04:43,920] and get everybody on stage
+- [01:04:43,920 - 01:04:45,920] because you've had that little bit of a
+- [01:04:45,920 - 01:04:47,920] bait and switch.
+- [01:04:47,920 - 01:04:49,920] Once
+- [01:04:49,920 - 01:04:51,920] the reader is oriented
+- [01:04:51,920 - 01:04:53,920] in this world, once a certain
+- [01:04:53,920 - 01:04:55,920] amount of things have been exposed,
+- [01:04:55,920 - 01:04:57,920] shown to be,
+- [01:04:57,920 - 01:04:59,920] then you can start to explore
+- [01:04:59,920 - 01:05:01,920] the instabilities of those people
+- [01:05:01,920 - 01:05:03,920] in that situation.
+- [01:05:03,920 - 01:05:05,920] Now we go back to drama and
+- [01:05:05,920 - 01:05:07,920] every value
+- [01:05:07,920 - 01:05:09,920] creates an unstable counter value
+- [01:05:09,920 - 01:05:11,920] and every
+- [01:05:11,920 - 01:05:13,920] contact with another human being
+- [01:05:13,920 - 01:05:15,920] creates an instability in what
+- [01:05:15,920 - 01:05:17,920] those people want and need.
+- [01:05:17,920 - 01:05:19,920] Now you go through
+- [01:05:19,920 - 01:05:21,920] the great middle part of the book
+- [01:05:21,920 - 01:05:23,920] which is the rising action.
+- [01:05:23,920 - 01:05:25,920] The stakes get higher.
+- [01:05:25,920 - 01:05:27,920] Every time something gets
+- [01:05:27,920 - 01:05:29,920] solved, it produces a larger instability
+- [01:05:29,920 - 01:05:31,920] because the ramifications
+- [01:05:31,920 - 01:05:33,920] of solving that
+- [01:05:33,920 - 01:05:35,920] first little episode
+- [01:05:35,920 - 01:05:37,920] are larger than the first episode
+- [01:05:37,920 - 01:05:39,920] itself. So you go up
+- [01:05:39,920 - 01:05:41,920] this ladder and you eventually
+- [01:05:41,920 - 01:05:43,920] reach, you can't,
+- [01:05:43,920 - 01:05:45,920] you hit the wall. You can't
+- [01:05:45,920 - 01:05:47,920] raise the stakes any farther. You've reached
+- [01:05:47,920 - 01:05:49,920] the ultimate dramatic conflict.
+- [01:05:49,920 - 01:05:51,920] That's the climax
+- [01:05:51,920 - 01:05:53,920] of the book.
+- [01:05:53,920 - 01:05:55,920] Now typically, we
+- [01:05:55,920 - 01:05:57,920] don't save that for the last page of the book.
+- [01:05:57,920 - 01:05:59,920] We have this
+- [01:05:59,920 - 01:06:01,920] follow on that says
+- [01:06:01,920 - 01:06:03,920] okay, now that you've
+- [01:06:03,920 - 01:06:05,920] seen the final jumps
+- [01:06:05,920 - 01:06:07,920] that everybody's made,
+- [01:06:07,920 - 01:06:09,920] now that you've seen what everybody has
+- [01:06:09,920 - 01:06:11,920] chosen as their core inner
+- [01:06:11,920 - 01:06:13,920] value and seen the way that they
+- [01:06:13,920 - 01:06:15,920] have to now live with the consequences
+- [01:06:15,920 - 01:06:17,920] of their choices,
+- [01:06:17,920 - 01:06:19,920] you release that back into the world.
+- [01:06:19,920 - 01:06:21,920] We use a French word for this in
+- [01:06:21,920 - 01:06:23,920] narratology, the denouement,
+- [01:06:23,920 - 01:06:25,920] which we think of as
+- [01:06:25,920 - 01:06:27,920] the revelation or the
+- [01:06:27,920 - 01:06:29,920] consequences.
+- [01:06:29,920 - 01:06:31,920] But it literally means the
+- [01:06:31,920 - 01:06:33,920] tying. So you've been wrenching
+- [01:06:33,920 - 01:06:35,920] the knot tighter and tighter and tighter. You
+- [01:06:35,920 - 01:06:37,920] get to the climax, it blows apart. And now
+- [01:06:37,920 - 01:06:39,920] what happens in the world
+- [01:06:39,920 - 01:06:41,920] suggests anyway the trajectory
+- [01:06:41,920 - 01:06:43,920] of these people who have gone
+- [01:06:43,920 - 01:06:45,920] through fire and now
+- [01:06:45,920 - 01:06:47,920] are different than they were before.
+- [01:06:47,920 - 01:06:49,920] In what ways are they different? In what ways
+- [01:06:49,920 - 01:06:51,920] will the world that they live in be different?
+- [01:06:51,920 - 01:06:53,920] We need enough of that to know what the
+- [01:06:53,920 - 01:06:55,920] final consequences of that climax
+- [01:06:55,920 - 01:06:57,920] would be. Have you
+- [01:06:57,920 - 01:06:59,920] picked up any similar tools
+- [01:06:59,920 - 01:07:01,920] for writing dialogue? Because dialogue
+- [01:07:01,920 - 01:07:03,920] is a representation
+- [01:07:03,920 - 01:07:05,920] of how people actually speak, but it
+- [01:07:05,920 - 01:07:07,920] isn't, it's far more efficient,
+- [01:07:07,920 - 01:07:09,920] dare I say, than actual human
+- [01:07:09,920 - 01:07:11,920] conversation. It's highly stylized.
+- [01:07:11,920 - 01:07:13,920] I mean, if you were to sit on the
+- [01:07:13,920 - 01:07:15,920] back of a bus here in the city
+- [01:07:15,920 - 01:07:17,920] and just transcribe the way that people
+- [01:07:17,920 - 01:07:19,920] talk to each other and try to pass that off on the
+- [01:07:19,920 - 01:07:21,920] page, you could make the claim,
+- [01:07:21,920 - 01:07:23,920] this is the most realistic dialogue you'll ever
+- [01:07:23,920 - 01:07:25,920] hear. It'd be terrible. It would be
+- [01:07:25,920 - 01:07:27,920] chaotic
+- [01:07:27,920 - 01:07:29,920] and incoherent and, you know,
+- [01:07:29,920 - 01:07:31,920] that we
+- [01:07:31,920 - 01:07:33,920] depend on certain conventions
+- [01:07:33,920 - 01:07:35,920] and
+- [01:07:35,920 - 01:07:37,920] by when we say real
+- [01:07:37,920 - 01:07:39,920] or vivid, we're
+- [01:07:39,920 - 01:07:41,920] not actually talking about
+- [01:07:41,920 - 01:07:43,920] empirically
+- [01:07:43,920 - 01:07:45,920] accurate. We're talking about
+- [01:07:45,920 - 01:07:47,920] the recognition of certain
+- [01:07:47,920 - 01:07:49,920] narrative expectations
+- [01:07:49,920 - 01:07:51,920] that we've learned from
+- [01:07:51,920 - 01:07:53,920] the kinds of fiction that are viable
+- [01:07:53,920 - 01:07:55,920] in our culture right now.
+- [01:07:55,920 - 01:07:57,920] Conventional dialogue, realistic
+- [01:07:57,920 - 01:07:59,920] dialogue, is the dialogue
+- [01:07:59,920 - 01:08:01,920] that knows how to manipulate the
+- [01:08:01,920 - 01:08:03,920] conventional expectations
+- [01:08:03,920 - 01:08:05,920] that have been established for dialogue
+- [01:08:05,920 - 01:08:07,920] at this moment. And
+- [01:08:07,920 - 01:08:09,920] you don't have to go back
+- [01:08:09,920 - 01:08:11,920] very far
+- [01:08:11,920 - 01:08:13,920] to start leaving
+- [01:08:13,920 - 01:08:15,920] your comfort zone
+- [01:08:15,920 - 01:08:17,920] in dialogue.
+- [01:08:17,920 - 01:08:19,920] If you're every day, if you're
+- [01:08:19,920 - 01:08:21,920] cutting your IT and you're just living on
+- [01:08:21,920 - 01:08:23,920] fiction that's been written in the
+- [01:08:23,920 - 01:08:25,920] last ten years and you're shaping your
+- [01:08:25,920 - 01:08:27,920] ear on those conventions
+- [01:08:27,920 - 01:08:29,920] and you go back 20 years or 40
+- [01:08:29,920 - 01:08:31,920] years or 100 years,
+- [01:08:31,920 - 01:08:33,920] you might say,
+- [01:08:33,920 - 01:08:35,920] people don't talk like
+- [01:08:35,920 - 01:08:37,920] that. But all you're
+- [01:08:37,920 - 01:08:39,920] saying is, I've lost my
+- [01:08:39,920 - 01:08:41,920] context, my
+- [01:08:41,920 - 01:08:43,920] decoder ring for
+- [01:08:43,920 - 01:08:45,920] understanding how
+- [01:08:45,920 - 01:08:47,920] these dialogues were. So when you're
+- [01:08:47,920 - 01:08:49,920] writing, what are you doing to
+- [01:08:49,920 - 01:08:51,920] make it
+- [01:08:51,920 - 01:08:53,920] feel alive
+- [01:08:53,920 - 01:08:55,920] without it feeling,
+- [01:08:55,920 - 01:08:57,920] like you said, empirically accurate
+- [01:08:57,920 - 01:08:59,920] to how people speak? I think you have to hear it
+- [01:08:59,920 - 01:09:01,920] out loud because I think that's the way that
+- [01:09:01,920 - 01:09:03,920] most readers
+- [01:09:03,920 - 01:09:05,920] are actually going to consume
+- [01:09:05,920 - 01:09:07,920] the narrative.
+- [01:09:07,920 - 01:09:09,920] When we read, we sub-vocalize.
+- [01:09:09,920 - 01:09:11,920] You're hearing it
+- [01:09:11,920 - 01:09:13,920] sub-vocally.
+- [01:09:13,920 - 01:09:15,920] And that's why sometimes
+- [01:09:15,920 - 01:09:17,920] for authors, it's tough
+- [01:09:17,920 - 01:09:19,920] to listen to their own audiobooks
+- [01:09:19,920 - 01:09:21,920] because
+- [01:09:21,920 - 01:09:23,920] they've just spent a couple of years
+- [01:09:23,920 - 01:09:25,920] sub-vocalizing all these characters
+- [01:09:27,920 - 01:09:29,920] and now they have to hear these
+- [01:09:29,920 - 01:09:31,920] characters literalized by some other
+- [01:09:31,920 - 01:09:33,920] voice actor. And they're going, no,
+- [01:09:33,920 - 01:09:35,920] no, no, that's not what I'm hearing in my head.
+- [01:09:35,920 - 01:09:37,920] You know.
+- [01:09:37,920 - 01:09:39,920] But to create
+- [01:09:39,920 - 01:09:41,920] dialogue that
+- [01:09:41,920 - 01:09:43,920] can elicit different kinds of emotions
+- [01:09:43,920 - 01:09:45,920] from people
+- [01:09:45,920 - 01:09:47,920] is always
+- [01:09:47,920 - 01:09:49,920] furthered, I think,
+- [01:09:49,920 - 01:09:51,920] by actually saying it out loud.
+- [01:09:51,920 - 01:09:53,920] And, you know,
+- [01:09:53,920 - 01:09:55,920] testing it in the
+- [01:09:55,920 - 01:09:57,920] crucible of your ear.
+- [01:09:57,920 - 01:09:59,920] Right? So that
+- [01:09:59,920 - 01:10:01,920] when your readers do the same
+- [01:10:01,920 - 01:10:03,920] thing, you at least have a little
+- [01:10:03,920 - 01:10:05,920] sense of
+- [01:10:05,920 - 01:10:07,920] the register, the tone,
+- [01:10:07,920 - 01:10:09,920] the color, the cadence,
+- [01:10:09,920 - 01:10:11,920] the realism, the
+- [01:10:11,920 - 01:10:13,920] socioeconomic accuracy
+- [01:10:13,920 - 01:10:15,920] of that dialogue. I have no sense for this.
+- [01:10:15,920 - 01:10:17,920] So, who is someone
+- [01:10:17,920 - 01:10:19,920] who you really admire
+- [01:10:19,920 - 01:10:21,920] with dialogue? And what
+- [01:10:21,920 - 01:10:23,920] is it that you admire
+- [01:10:23,920 - 01:10:25,920] about the way that they write it?
+- [01:10:25,920 - 01:10:27,920] That you're trying to chase
+- [01:10:27,920 - 01:10:29,920] or cultivate yourself?
+- [01:10:29,920 - 01:10:31,920] There are practitioners that are
+- [01:10:31,920 - 01:10:33,920] amazingly varied.
+- [01:10:33,920 - 01:10:35,920] Like, you can get a writer like
+- [01:10:35,920 - 01:10:37,920] Ann Patchett, who
+- [01:10:37,920 - 01:10:39,920] whose characters
+- [01:10:39,920 - 01:10:41,920] you even forget that they're
+- [01:10:41,920 - 01:10:43,920] characters. You know, because
+- [01:10:43,920 - 01:10:45,920] because she somehow can
+- [01:10:45,920 - 01:10:47,920] participate in the way that they
+- [01:10:47,920 - 01:10:49,920] speak so
+- [01:10:49,920 - 01:10:51,920] vividly
+- [01:10:51,920 - 01:10:53,920] and so virtuosically
+- [01:10:53,920 - 01:10:55,920] that the
+- [01:10:55,920 - 01:10:57,920] performance disappears entirely.
+- [01:10:57,920 - 01:10:59,920] And you just say,
+- [01:10:59,920 - 01:11:01,920] oh yeah, that's my
+- [01:11:01,920 - 01:11:03,920] character. That's, you know,
+- [01:11:03,920 - 01:11:05,920] the woman that I lived with for 11
+- [01:11:05,920 - 01:11:07,920] years. You know, you're doing all
+- [01:11:07,920 - 01:11:09,920] those things just through her ability
+- [01:11:09,920 - 01:11:11,920] to let them speak themselves
+- [01:11:11,920 - 01:11:13,920] to each other. But then you can also
+- [01:11:13,920 - 01:11:15,920] get a writer who's aesthetically
+- [01:11:15,920 - 01:11:17,920] completely different, like
+- [01:11:17,920 - 01:11:19,920] Don DeLille. And you
+- [01:11:19,920 - 01:11:21,920] can look at a book like White Noise
+- [01:11:21,920 - 01:11:23,920] and you can look at the dialogue in that
+- [01:11:23,920 - 01:11:25,920] book, which is crazy.
+- [01:11:25,920 - 01:11:27,920] And highly
+- [01:11:27,920 - 01:11:29,920] artificial in one
+- [01:11:29,920 - 01:11:31,920] sense of the word artifice.
+- [01:11:31,920 - 01:11:33,920] And yet you can say, this man
+- [01:11:33,920 - 01:11:35,920] has the best ear
+- [01:11:35,920 - 01:11:37,920] of any living writer because
+- [01:11:37,920 - 01:11:39,920] he somehow can get to the absurdity
+- [01:11:39,920 - 01:11:41,920] of the way that we talk
+- [01:11:41,920 - 01:11:43,920] through each other, you know, or
+- [01:11:43,920 - 01:11:45,920] uh
+- [01:11:45,920 - 01:11:47,920] away from each other.
+- [01:11:47,920 - 01:11:49,920] Yeah. You know, and it's
+- [01:11:49,920 - 01:11:51,920] it's not realism.
+- [01:11:51,920 - 01:11:53,920] It's, in some
+- [01:11:53,920 - 01:11:55,920] ways it's kind of surreal what
+- [01:11:55,920 - 01:11:57,920] he does with dialogue.
+- [01:11:57,920 - 01:11:59,920] But it's so
+- [01:11:59,920 - 01:12:01,920] real in
+- [01:12:01,920 - 01:12:03,920] terms of recognizing
+- [01:12:03,920 - 01:12:05,920] the crazy
+- [01:12:05,920 - 01:12:07,920] way that we play this language game
+- [01:12:07,920 - 01:12:09,920] with one another.
+- [01:12:09,920 - 01:12:11,920] Okay, so what I want to do is I want to pop between some
+- [01:12:11,920 - 01:12:13,920] different quotes. We'll kind of do a
+- [01:12:13,920 - 01:12:15,920] fire round quote parkour. First one.
+- [01:12:15,920 - 01:12:17,920] The best arguments in the world won't
+- [01:12:17,920 - 01:12:19,920] change a single person's mind.
+- [01:12:19,920 - 01:12:21,920] The only thing that can do that
+- [01:12:21,920 - 01:12:23,920] is a good story.
+- [01:12:23,920 - 01:12:25,920] I mean, in order to move somebody,
+- [01:12:25,920 - 01:12:27,920] you have to use emotions.
+- [01:12:27,920 - 01:12:29,920] Um,
+- [01:12:29,920 - 01:12:31,920] and we
+- [01:12:31,920 - 01:12:33,920] talked a great deal about
+- [01:12:33,920 - 01:12:35,920] those two different appeals.
+- [01:12:35,920 - 01:12:37,920] Uh, the appeal to logic
+- [01:12:37,920 - 01:12:39,920] and reason and rationality and the appeal to
+- [01:12:39,920 - 01:12:41,920] the guts. Yeah. Yeah.
+- [01:12:41,920 - 01:12:43,920] If you would
+- [01:12:43,920 - 01:12:45,920] learn the secrets of nature,
+- [01:12:45,920 - 01:12:47,920] you must practice more humanity.
+- [01:12:49,920 - 01:12:51,920] The secrets of nature are where
+- [01:12:51,920 - 01:12:53,920] the secrets of humanity
+- [01:12:53,920 - 01:12:55,920] arise.
+- [01:12:57,920 - 01:12:59,920] We can see one another.
+- [01:12:59,920 - 01:13:01,920] We can understand ourselves as
+- [01:13:01,920 - 01:13:03,920] individuals
+- [01:13:03,920 - 01:13:05,920] through the difference that we have
+- [01:13:05,920 - 01:13:07,920] looking at another person.
+- [01:13:07,920 - 01:13:09,920] But to understand what a human
+- [01:13:09,920 - 01:13:11,920] being is,
+- [01:13:11,920 - 01:13:13,920] we have to look at the more than human.
+- [01:13:13,920 - 01:13:15,920] The loneliness
+- [01:13:15,920 - 01:13:17,920] of writing is that you
+- [01:13:17,920 - 01:13:19,920] baffle your friends and change
+- [01:13:19,920 - 01:13:21,920] the lives of strangers.
+- [01:13:21,920 - 01:13:23,920] I find this
+- [01:13:23,920 - 01:13:25,920] true to the present day.
+- [01:13:25,920 - 01:13:27,920] You know, I can
+- [01:13:27,920 - 01:13:29,920] give the manuscript
+- [01:13:29,920 - 01:13:31,920] to my
+- [01:13:31,920 - 01:13:33,920] brother, and he can
+- [01:13:33,920 - 01:13:35,920] return it a couple of weeks later
+- [01:13:35,920 - 01:13:37,920] and say,
+- [01:13:37,920 - 01:13:39,920] interesting.
+- [01:13:39,920 - 01:13:41,920] And yet I can
+- [01:13:41,920 - 01:13:43,920] turn my phone on this morning
+- [01:13:43,920 - 01:13:45,920] and get an email
+- [01:13:45,920 - 01:13:47,920] saying, you don't know me,
+- [01:13:47,920 - 01:13:49,920] but
+- [01:13:49,920 - 01:13:51,920] I'm studying forestry now
+- [01:13:51,920 - 01:13:53,920] because of you.
+- [01:13:53,920 - 01:13:55,920] You know, what sense does that make?
+- [01:13:55,920 - 01:13:57,920] That's just crazy. Yeah.
+- [01:13:57,920 - 01:13:59,920] When you're sure of what you're looking at,
+- [01:13:59,920 - 01:14:01,920] look harder.
+- [01:14:01,920 - 01:14:03,920] Yeah, because when you're sure,
+- [01:14:03,920 - 01:14:05,920] you're not moving.
+- [01:14:05,920 - 01:14:07,920] And reality is always moving.
+- [01:14:07,920 - 01:14:09,920] Right?
+- [01:14:09,920 - 01:14:11,920] If you've arrived
+- [01:14:11,920 - 01:14:13,920] at a definitive, irrefutable
+- [01:14:13,920 - 01:14:15,920] point of view,
+- [01:14:15,920 - 01:14:17,920] it's because your point of view
+- [01:14:17,920 - 01:14:19,920] is stationary.
+- [01:14:19,920 - 01:14:21,920] And that's not going to help you survive
+- [01:14:21,920 - 01:14:23,920] in a world where all points of view
+- [01:14:23,920 - 01:14:25,920] are constantly moving.
+- [01:14:25,920 - 01:14:27,920] Interesting. When I read that,
+- [01:14:27,920 - 01:14:29,920] what I was thinking about was,
+- [01:14:29,920 - 01:14:31,920] I was just thinking of the overstory, and I was thinking of,
+- [01:14:31,920 - 01:14:35,920] the infinite number of things
+- [01:14:35,920 - 01:14:37,920] that nature will reveal to you
+- [01:14:37,920 - 01:14:39,920] if you sit and you stop
+- [01:14:39,920 - 01:14:41,920] and you look and look and look.
+- [01:14:41,920 - 01:14:43,920] Yeah. Attention is
+- [01:14:43,920 - 01:14:45,920] the most profound source of meaning
+- [01:14:45,920 - 01:14:47,920] that we can have.
+- [01:14:47,920 - 01:14:49,920] And
+- [01:14:49,920 - 01:14:51,920] before I wrote Overstory,
+- [01:14:53,920 - 01:14:55,920] I had a path that I would walk
+- [01:14:55,920 - 01:14:57,920] from my house to my office,
+- [01:14:57,920 - 01:14:59,920] and it looked something like this.
+- [01:14:59,920 - 01:15:01,920] Tree.
+- [01:15:01,920 - 01:15:03,920] Tree. Tree.
+- [01:15:03,920 - 01:15:05,920] And as I started
+- [01:15:05,920 - 01:15:07,920] to write Overstory,
+- [01:15:07,920 - 01:15:09,920] that path started to look like
+- [01:15:09,920 - 01:15:11,920] this. Red oak.
+- [01:15:11,920 - 01:15:13,920] Maple.
+- [01:15:13,920 - 01:15:15,920] Uh, hornbeam.
+- [01:15:15,920 - 01:15:17,920] Uh,
+- [01:15:17,920 - 01:15:19,920] and then,
+- [01:15:19,920 - 01:15:21,920] as I got deeper into
+- [01:15:21,920 - 01:15:23,920] Overstory, it was,
+- [01:15:23,920 - 01:15:25,920] oh, this guy.
+- [01:15:27,920 - 01:15:29,920] You know, it's not a red oak,
+- [01:15:29,920 - 01:15:31,920] it's this guy.
+- [01:15:31,920 - 01:15:33,920] He's doing something that I've not seen
+- [01:15:33,920 - 01:15:35,920] in the other red oaks in the neighborhood.
+- [01:15:35,920 - 01:15:37,920] Right? So the
+- [01:15:37,920 - 01:15:39,920] granularity, the particularity,
+- [01:15:39,920 - 01:15:41,920] the pleasure of the world
+- [01:15:41,920 - 01:15:43,920] depends on slowing
+- [01:15:43,920 - 01:15:45,920] down and looking harder.
+- [01:15:45,920 - 01:15:47,920] Yeah.
+- [01:15:47,920 - 01:15:49,920] We have this sense that structure is
+- [01:15:49,920 - 01:15:51,920] inimical to emotion.
+- [01:15:51,920 - 01:15:53,920] Or that systems are inimical to
+- [01:15:53,920 - 01:15:55,920] individuals. You know, that a book
+- [01:15:55,920 - 01:15:57,920] can either be a heart book or a head book.
+- [01:15:57,920 - 01:15:59,920] And my desire, of course,
+- [01:15:59,920 - 01:16:01,920] is to write something that's like us.
+- [01:16:01,920 - 01:16:03,920] Namely, an all-in-one.
+- [01:16:03,920 - 01:16:05,920] And I like this idea
+- [01:16:05,920 - 01:16:07,920] that you're getting at, which is
+- [01:16:07,920 - 01:16:09,920] that there can be novels of thinking, novels of
+- [01:16:09,920 - 01:16:11,920] feeling, novels of character, novels of
+- [01:16:11,920 - 01:16:13,920] ideas, and
+- [01:16:13,920 - 01:16:15,920] this is one of the
+- [01:16:15,920 - 01:16:17,920] major themes of this conversation
+- [01:16:17,920 - 01:16:19,920] is the fusion of
+- [01:16:19,920 - 01:16:21,920] maybe even the right side and the left side of the
+- [01:16:21,920 - 01:16:23,920] brain in the work that you're trying to do.
+- [01:16:23,920 - 01:16:25,920] The sled is only
+- [01:16:25,920 - 01:16:27,920] gonna move when all the dogs are
+- [01:16:27,920 - 01:16:29,920] in harness and they're all pulling in the same direction.
+- [01:16:29,920 - 01:16:31,920] But that's the craft
+- [01:16:31,920 - 01:16:33,920] of writing, to find a way
+- [01:16:33,920 - 01:16:35,920] in which all those different
+- [01:16:35,920 - 01:16:37,920] approaches, and it's
+- [01:16:37,920 - 01:16:39,920] far more than just head and heart. I mean,
+- [01:16:39,920 - 01:16:41,920] there are 300 regions
+- [01:16:41,920 - 01:16:43,920] of the brain, right?
+- [01:16:43,920 - 01:16:45,920] So, what
+- [01:16:45,920 - 01:16:47,920] you want to do is get all
+- [01:16:47,920 - 01:16:49,920] the elements in your
+- [01:16:49,920 - 01:16:51,920] repertoire
+- [01:16:51,920 - 01:16:53,920] chosen in such a way that they're
+- [01:16:53,920 - 01:16:55,920] supporting one another.
+- [01:16:55,920 - 01:16:57,920] That the levels are emerging from the
+- [01:16:57,920 - 01:16:59,920] decisions that you've made at the levels lower
+- [01:16:59,920 - 01:17:01,920] down, and they're all in harness.
+- [01:17:01,920 - 01:17:03,920] And in harmony.
+- [01:17:03,920 - 01:17:05,920] I want to end by
+- [01:17:05,920 - 01:17:07,920] hearing about some of the
+- [01:17:07,920 - 01:17:09,920] time that you've spent writing in solitude.
+- [01:17:09,920 - 01:17:11,920] You know, when you wrote Plowing in the
+- [01:17:11,920 - 01:17:13,920] Dark, you said, I even wish that I
+- [01:17:13,920 - 01:17:15,920] could have gone into a
+- [01:17:15,920 - 01:17:17,920] sensory deprivation tank.
+- [01:17:17,920 - 01:17:19,920] And it seems that
+- [01:17:19,920 - 01:17:21,920] solitude has been
+- [01:17:21,920 - 01:17:23,920] a major asset and strategy
+- [01:17:23,920 - 01:17:25,920] over your career.
+- [01:17:25,920 - 01:17:27,920] I agree with that,
+- [01:17:27,920 - 01:17:29,920] but I think
+- [01:17:29,920 - 01:17:31,920] I have to expand
+- [01:17:31,920 - 01:17:33,920] the formulation just a little bit.
+- [01:17:33,920 - 01:17:35,920] Moving in
+- [01:17:35,920 - 01:17:37,920] and out of solitude
+- [01:17:37,920 - 01:17:39,920] has been the strategy.
+- [01:17:39,920 - 01:17:41,920] Huh. Right?
+- [01:17:41,920 - 01:17:43,920] My composition process
+- [01:17:43,920 - 01:17:45,920] and certain
+- [01:17:45,920 - 01:17:47,920] amount of my revision
+- [01:17:47,920 - 01:17:49,920] needs
+- [01:17:49,920 - 01:17:51,920] to
+- [01:17:51,920 - 01:17:53,920] remove the
+- [01:17:53,920 - 01:17:55,920] overwhelming stimulus of the world
+- [01:17:55,920 - 01:17:57,920] in order to be able to
+- [01:17:57,920 - 01:17:59,920] create a richness
+- [01:17:59,920 - 01:18:01,920] in my own imagination.
+- [01:18:01,920 - 01:18:03,920] So, I write lying in bed.
+- [01:18:03,920 - 01:18:05,920] I'll pull the covers up.
+- [01:18:05,920 - 01:18:07,920] I'll dictate or I'll use a pen.
+- [01:18:07,920 - 01:18:09,920] You know, I'll turn the light out
+- [01:18:09,920 - 01:18:11,920] and do it in the dark.
+- [01:18:11,920 - 01:18:13,920] I'll look up at the bare ceiling
+- [01:18:13,920 - 01:18:15,920] as a way of
+- [01:18:15,920 - 01:18:17,920] repurposing
+- [01:18:17,920 - 01:18:19,920] all my sensory
+- [01:18:19,920 - 01:18:21,920] apparatus that would ordinarily be taken
+- [01:18:21,920 - 01:18:23,920] up with, you know,
+- [01:18:23,920 - 01:18:25,920] the
+- [01:18:25,920 - 01:18:27,920] amazing stimulus
+- [01:18:27,920 - 01:18:29,920] of the world.
+- [01:18:29,920 - 01:18:31,920] And now just going back
+- [01:18:31,920 - 01:18:33,920] in tranquility and recollecting
+- [01:18:33,920 - 01:18:35,920] places that I've been,
+- [01:18:35,920 - 01:18:37,920] things that I've known,
+- [01:18:37,920 - 01:18:39,920] crises that I've survived.
+- [01:18:39,920 - 01:18:41,920] So, that requires solitude.
+- [01:18:41,920 - 01:18:43,920] But if you stay
+- [01:18:43,920 - 01:18:45,920] solitary,
+- [01:18:45,920 - 01:18:47,920] you're gonna
+- [01:18:47,920 - 01:18:49,920] spin out of orbit eventually.
+- [01:18:49,920 - 01:18:51,920] Both literally and artistically.
+- [01:18:51,920 - 01:18:53,920] Because
+- [01:18:53,920 - 01:18:55,920] you won't have the world
+- [01:18:55,920 - 01:18:57,920] to test the products of your
+- [01:18:57,920 - 01:18:59,920] solitude against.
+- [01:18:59,920 - 01:19:01,920] So you start to make a
+- [01:19:01,920 - 01:19:03,920] character, you start to create a scene,
+- [01:19:03,920 - 01:19:05,920] and you
+- [01:19:05,920 - 01:19:07,920] need that sensory deprivation
+- [01:19:07,920 - 01:19:09,920] to get going and to get
+- [01:19:09,920 - 01:19:11,920] traction. But now
+- [01:19:11,920 - 01:19:13,920] it's gained enough
+- [01:19:13,920 - 01:19:15,920] complexity and momentum on its own.
+- [01:19:15,920 - 01:19:17,920] What you want to know now is,
+- [01:19:17,920 - 01:19:19,920] is it true? Does it
+- [01:19:19,920 - 01:19:21,920] resonate? And to do
+- [01:19:21,920 - 01:19:23,920] that, you gotta give up your solitude. You gotta
+- [01:19:23,920 - 01:19:25,920] go back down into the maelstrom.
+- [01:19:25,920 - 01:19:27,920] And I think so many
+- [01:19:27,920 - 01:19:29,920] creators talk
+- [01:19:29,920 - 01:19:31,920] about that. That
+- [01:19:31,920 - 01:19:33,920] is a boundary condition.
+- [01:19:33,920 - 01:19:35,920] You know, where you can control
+- [01:19:35,920 - 01:19:37,920] both
+- [01:19:37,920 - 01:19:39,920] the degree to which
+- [01:19:39,920 - 01:19:41,920] you can isolate and organize
+- [01:19:41,920 - 01:19:43,920] the complexities and the chaos of the
+- [01:19:43,920 - 01:19:45,920] world, and
+- [01:19:45,920 - 01:19:47,920] the degree to which you can plunge
+- [01:19:47,920 - 01:19:49,920] back into the bracing,
+- [01:19:49,920 - 01:19:51,920] rejuvenating, corrective
+- [01:19:51,920 - 01:19:53,920] of a story
+- [01:19:53,920 - 01:19:55,920] that you didn't tell.
+- [01:19:55,920 - 01:19:57,920] Yeah. And you have to play the one off the other.
+- [01:19:57,920 - 01:19:59,920] Well, it seems like you've really
+- [01:19:59,920 - 01:20:01,920] experimented with different forms of composition.
+- [01:20:01,920 - 01:20:03,920] Because you were just talking about
+- [01:20:03,920 - 01:20:05,920] speech,
+- [01:20:05,920 - 01:20:07,920] the typewriter or the keyboard,
+- [01:20:07,920 - 01:20:09,920] there's handwriting.
+- [01:20:09,920 - 01:20:11,920] How do you mix those and
+- [01:20:11,920 - 01:20:13,920] how does
+- [01:20:13,920 - 01:20:15,920] your language show up differently in
+- [01:20:15,920 - 01:20:17,920] different input formats?
+- [01:20:17,920 - 01:20:19,920] It's kind of scene dependent
+- [01:20:19,920 - 01:20:21,920] and book dependent to some extent.
+- [01:20:21,920 - 01:20:23,920] The ratio and
+- [01:20:23,920 - 01:20:25,920] what I go to
+- [01:20:25,920 - 01:20:27,920] at each moment.
+- [01:20:27,920 - 01:20:29,920] It's also dependent on my
+- [01:20:29,920 - 01:20:31,920] state of mind. But,
+- [01:20:31,920 - 01:20:33,920] I mean, think of it the way that a musician
+- [01:20:33,920 - 01:20:35,920] would use
+- [01:20:35,920 - 01:20:37,920] different instruments.
+- [01:20:37,920 - 01:20:39,920] You know, if you're writing a song,
+- [01:20:39,920 - 01:20:41,920] you might reach for a guitar for a
+- [01:20:41,920 - 01:20:43,920] certain kind of song. You might sit down at the
+- [01:20:43,920 - 01:20:45,920] piano for a different kind of song.
+- [01:20:45,920 - 01:20:47,920] Go out in the woods and
+- [01:20:47,920 - 01:20:49,920] sing a cappella for
+- [01:20:49,920 - 01:20:51,920] a new third kind of song.
+- [01:20:51,920 - 01:20:53,920] Or you might
+- [01:20:53,920 - 01:20:55,920] rotate.
+- [01:20:55,920 - 01:20:57,920] You might try
+- [01:20:57,920 - 01:20:59,920] different combinations in sequence or
+- [01:20:59,920 - 01:21:01,920] in parallel.
+- [01:21:01,920 - 01:21:03,920] I think the same for writing.
+- [01:21:03,920 - 01:21:05,920] I think the tools that we use to write,
+- [01:21:07,920 - 01:21:09,920] we reach for them when we need
+- [01:21:09,920 - 01:21:11,920] them, when we detect
+- [01:21:11,920 - 01:21:13,920] through our intuition
+- [01:21:13,920 - 01:21:15,920] or through our intellect
+- [01:21:15,920 - 01:21:17,920] that we need to slow down
+- [01:21:17,920 - 01:21:19,920] or be more quiet or speed up,
+- [01:21:19,920 - 01:21:21,920] be more lively.
+- [01:21:21,920 - 01:21:23,920] And each
+- [01:21:23,920 - 01:21:25,920] tool has its affordances and
+- [01:21:25,920 - 01:21:27,920] allows you to get to different places.
+- [01:21:27,920 - 01:21:29,920] Last question. Be
+- [01:21:29,920 - 01:21:31,920] as concrete as possible with
+- [01:21:31,920 - 01:21:33,920] your writing. How do you actually
+- [01:21:33,920 - 01:21:35,920] think about your day-to-day structure
+- [01:21:35,920 - 01:21:37,920] when you're writing in solitude? I mean, you were
+- [01:21:37,920 - 01:21:39,920] talking about, I have this image of you just
+- [01:21:39,920 - 01:21:41,920] pulling the covers over your head and being in there
+- [01:21:41,920 - 01:21:43,920] and letting your imagination wander.
+- [01:21:43,920 - 01:21:45,920] And do you set
+- [01:21:45,920 - 01:21:47,920] deadlines for yourself?
+- [01:21:47,920 - 01:21:49,920] How does that work? It's changed
+- [01:21:49,920 - 01:21:51,920] enormously over my 40 years and 14
+- [01:21:51,920 - 01:21:53,920] books. I
+- [01:21:53,920 - 01:21:55,920] have always been a person
+- [01:21:55,920 - 01:21:57,920] who's most alert in
+- [01:21:57,920 - 01:21:59,920] the morning.
+- [01:21:59,920 - 01:22:01,920] And, uh,
+- [01:22:01,920 - 01:22:03,920] I always, uh,
+- [01:22:03,920 - 01:22:05,920] for maybe the first 25,
+- [01:22:05,920 - 01:22:07,920] 30 years of my life, knew
+- [01:22:07,920 - 01:22:09,920] that I was going to get best results
+- [01:22:09,920 - 01:22:11,920] if I had
+- [01:22:11,920 - 01:22:13,920] breakfast, if I minimized my interaction
+- [01:22:13,920 - 01:22:15,920] with the world, resisted the attempt
+- [01:22:15,920 - 01:22:17,920] to, you know, the, uh,
+- [01:22:17,920 - 01:22:19,920] desire to read yesterday's
+- [01:22:19,920 - 01:22:21,920] news or, you know,
+- [01:22:21,920 - 01:22:23,920] to check my feeds,
+- [01:22:25,920 - 01:22:27,920] and simply get to work
+- [01:22:27,920 - 01:22:29,920] while
+- [01:22:29,920 - 01:22:31,920] my brain was freshest.
+- [01:22:31,920 - 01:22:33,920] And to, to stay
+- [01:22:33,920 - 01:22:35,920] there until I had a thousand words,
+- [01:22:35,920 - 01:22:37,920] that was the discipline.
+- [01:22:37,920 - 01:22:39,920] That was what shaped the day.
+- [01:22:39,920 - 01:22:41,920] I thought my job was
+- [01:22:41,920 - 01:22:43,920] getting a thousand words out every day.
+- [01:22:43,920 - 01:22:45,920] It worked
+- [01:22:45,920 - 01:22:47,920] well for a long, long time.
+- [01:22:47,920 - 01:22:49,920] Um, something
+- [01:22:49,920 - 01:22:51,920] happened. I became a different kind of writer.
+- [01:22:51,920 - 01:22:53,920] I can
+- [01:22:53,920 - 01:22:55,920] point to the moment where it started, and I can point
+- [01:22:55,920 - 01:22:57,920] to the moment where it started to accelerate.
+- [01:22:57,920 - 01:22:59,920] But basically,
+- [01:22:59,920 - 01:23:01,920] I now no longer see
+- [01:23:01,920 - 01:23:03,920] my day,
+- [01:23:03,920 - 01:23:05,920] my primary job,
+- [01:23:05,920 - 01:23:07,920] as getting a thousand words.
+- [01:23:07,920 - 01:23:09,920] I see
+- [01:23:09,920 - 01:23:11,920] my primary job
+- [01:23:11,920 - 01:23:13,920] as being
+- [01:23:13,920 - 01:23:15,920] in the world, the living
+- [01:23:15,920 - 01:23:17,920] world. So the first
+- [01:23:17,920 - 01:23:19,920] thing I will do in the morning is check
+- [01:23:19,920 - 01:23:21,920] the weather report.
+- [01:23:21,920 - 01:23:23,920] And the calendar.
+- [01:23:23,920 - 01:23:25,920] And ask
+- [01:23:25,920 - 01:23:27,920] myself, what's going on out there?
+- [01:23:27,920 - 01:23:29,920] At what elevation?
+- [01:23:29,920 - 01:23:31,920] And where's the show?
+- [01:23:31,920 - 01:23:33,920] And where can I learn something?
+- [01:23:33,920 - 01:23:35,920] And that's
+- [01:23:35,920 - 01:23:37,920] my primary accountability now.
+- [01:23:37,920 - 01:23:39,920] Uh, to see myself
+- [01:23:39,920 - 01:23:41,920] through the non-human world,
+- [01:23:41,920 - 01:23:43,920] to remember all of my experiences
+- [01:23:43,920 - 01:23:45,920] of my life,
+- [01:23:45,920 - 01:23:47,920] through having this extended final
+- [01:23:47,920 - 01:23:49,920] chapter of meditation and presence.
+- [01:23:49,920 - 01:23:51,920] And
+- [01:23:51,920 - 01:23:53,920] usually, it means
+- [01:23:53,920 - 01:23:55,920] that after a short time of being
+- [01:23:55,920 - 01:23:57,920] quickened and revived by
+- [01:23:57,920 - 01:23:59,920] uh, all these
+- [01:23:59,920 - 01:24:01,920] amazements happening all around me,
+- [01:24:01,920 - 01:24:03,920] without too much
+- [01:24:03,920 - 01:24:05,920] deliberation, something that might have taken
+- [01:24:05,920 - 01:24:07,920] me a lot of forced effort earlier
+- [01:24:07,920 - 01:24:09,920] in my career,
+- [01:24:09,920 - 01:24:11,920] sentences will start to come and
+- [01:24:11,920 - 01:24:13,920] scenes will start to come.
+- [01:24:13,920 - 01:24:15,920] And a lot of times, you know, I'll be four miles down
+- [01:24:15,920 - 01:24:17,920] a trail and realize I gotta get
+- [01:24:17,920 - 01:24:19,920] home as quickly as I can, cause I can't hold
+- [01:24:19,920 - 01:24:21,920] it all in my memory anymore.
+- [01:24:21,920 - 01:24:23,920] Uh, so, the
+- [01:24:23,920 - 01:24:25,920] the writing now
+- [01:24:25,920 - 01:24:27,920] is a supporting
+- [01:24:27,920 - 01:24:29,920] process
+- [01:24:29,920 - 01:24:31,920] for
+- [01:24:31,920 - 01:24:33,920] trying to keep me
+- [01:24:33,920 - 01:24:35,920] growing as a person in a
+- [01:24:35,920 - 01:24:37,920] world that keeps growing.
+- [01:24:37,920 - 01:24:39,920] That was such a fun
+- [01:24:39,920 - 01:24:41,920] interview. Thank you so much for doing this.
+- [01:24:41,920 - 01:24:43,920] Oh, my pleasure. It was great. It was great to meet you.
+- [01:24:43,920 - 01:24:45,920] Thanks, David. Yeah. Yeah.
