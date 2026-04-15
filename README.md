@@ -15,10 +15,21 @@
 
 **How to Speak and Write** is now the most prominent published book from this repo.
 
+![How to Speak and Write cover](docs/how-to-speak-and-write-cover.png)
+
 - Read the English local edition: [how-to-speak-and-write/how-to-speak-and-write.pdf](how-to-speak-and-write/how-to-speak-and-write.pdf)
 - Read the Traditional Chinese local edition: [how-to-speak-and-write/how-to-speak-and-write-zh.pdf](how-to-speak-and-write/how-to-speak-and-write-zh.pdf)
 - Read the Japanese local edition: [how-to-speak-and-write/how-to-speak-and-write-jp.pdf](how-to-speak-and-write/how-to-speak-and-write-jp.pdf)
 - Read the website edition: [learn.lazying.art/how-to-speak-and-write.pdf](https://learn.lazying.art/how-to-speak-and-write.pdf)
+
+## Dedicated Physics Book Repo
+
+There is also a separate repository dedicated to the Leonard Susskind lecture-note book collection.
+
+[![Classical Mechanics Stanford partial cover](https://github.com/lachlanchen/leonardsusskind/raw/main/figs/readme-covers/classical_mechanics_stanford_partial.png)](https://github.com/lachlanchen/leonardsusskind)
+
+- Browse the repo: [lachlanchen/leonardsusskind](https://github.com/lachlanchen/leonardsusskind)
+- Use that repo for the larger physics catalog, including classical mechanics, advanced quantum mechanics, particle physics, entanglement, and string theory
 
 ## Book Layout
 
