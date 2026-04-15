@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazylearn/justice-with-michael-sandel",
+  "transcript_rel": "lazylearn/justice-with-michael-sandel/013 - Justice with Michael Sandel - CCCB\uff1a  Bioethics\uff1a Designer children [aFcfygkMM0I].md",
+  "video_rel": "lazylearn/justice-with-michael-sandel/013 - Justice with Michael Sandel - CCCB\uff1a  Bioethics\uff1a Designer children [aFcfygkMM0I].mkv",
+  "lecture_number": 13,
+  "lecture_slug": "lecture_13",
+  "lecture_title": "Justice with Michael Sandel - CCCB\uff1a Bioethics\uff1a Designer children",
+  "assets": [
+    {
+      "name": "lecture_13_figure_02.png",
+      "timestamp_seconds": 34.25,
+      "timestamp_hhmmss": "00:00:34.250",
+      "source_candidate": "lecture_13_window_02_candidate_03_000034250.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "Candidate 03 is the clearest and most usable frame because it preserves the full symbolic layout without subtitle text covering the lower portion of the image. The icons are complete, centered, and easy to interpret as a left-to-right causal or narrative schematic.",
+      "subtitle_excerpt": "They sought out a sperm donor who was himself deaf",
+      "segment_start_seconds": 31.0,
+      "segment_start_hhmmss": "00:00:31.000",
+      "segment_end_seconds": 36.0,
+      "segment_end_hhmmss": "00:00:36.000",
+      "caption_hint": "Schematic of deaf couple, donor, and child"
+    }
+  ]
+}
