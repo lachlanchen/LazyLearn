@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazylearn/justice-with-michael-sandel",
+  "transcript_rel": "lazylearn/justice-with-michael-sandel/015 - Justice with Michael Sandel - BBC\uff1a Fair pay\uff1f [xKxta8FLTVY].md",
+  "video_rel": "lazylearn/justice-with-michael-sandel/015 - Justice with Michael Sandel - BBC\uff1a Fair pay\uff1f [xKxta8FLTVY].mkv",
+  "lecture_number": 15,
+  "lecture_slug": "lecture_15",
+  "lecture_title": "Justice with Michael Sandel - BBC\uff1a Fair pay\uff1f",
+  "assets": [
+    {
+      "name": "lecture_15_figure_01.png",
+      "timestamp_seconds": 3.247,
+      "timestamp_hhmmss": "00:00:03.247",
+      "source_candidate": "lecture_15_window_01_candidate_04_000003247.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "Candidate 04 is the clearest and most complete frame: it shows the full on-screen question and both answer choices without the lecturer blocking any text, making it the most useful visual record of the prompt structure at this moment.",
+      "subtitle_excerpt": "Is it fair that Wayne Rooney",
+      "segment_start_seconds": 0.0,
+      "segment_start_hhmmss": "00:00:00.000",
+      "segment_end_seconds": 3.69,
+      "segment_end_hhmmss": "00:00:03.690",
+      "caption_hint": "Wayne Rooney fair-pay poll"
+    }
+  ]
+}
