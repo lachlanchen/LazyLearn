@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>How to Speak and Write Reader</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Space+Grotesk:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../docs/styles.css" />
+  </head>
+  <body>
+    <div class="background-glow" aria-hidden="true"></div>
+    <main class="pdf-reader-page">
+      <section class="pdf-reader-shell">
+        <div class="pdf-reader-intro">
+          <p class="eyebrow">Publication Shelf</p>
+          <h1>How to Speak and Write</h1>
+          <p class="tagline">
+            Inline reader for the published editions stored in this folder.
+          </p>
+        </div>
+
+        <div class="pdf-reader-toolbar">
+          <div class="pdf-reader-language-group">
+            <a class="pdf-reader-chip" data-lang-link="en" href="?lang=en">English</a>
+            <a class="pdf-reader-chip" data-lang-link="zh" href="?lang=zh">Traditional Chinese</a>
+            <a class="pdf-reader-chip" data-lang-link="jp" href="?lang=jp">Japanese</a>
+          </div>
+          <div class="pdf-reader-actions">
+            <a class="pdf-reader-link" id="raw-pdf-link" href="how-to-speak-and-write.pdf" target="_blank" rel="noopener"
+              >Open raw PDF</a
+            >
+            <a class="pdf-reader-link" href="README.md">Open README</a>
+            <a class="pdf-reader-link" href="../docs/how-to-speak-and-write-reader.html">Open site reader</a>
+          </div>
+        </div>
+
+        <div class="pdf-reader-stage">
+          <iframe id="pdf-frame" title="How to Speak and Write PDF reader" src="how-to-speak-and-write.pdf"></iframe>
+          <p class="pdf-reader-fallback">
+            If the inline reader does not load, use
+            <a id="fallback-pdf-link" href="how-to-speak-and-write.pdf" target="_blank" rel="noopener">the direct PDF link</a>.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      const editions = {
+        en: {
+          label: "English",
+          pdf: "how-to-speak-and-write.pdf",
+        },
+        zh: {
+          label: "Traditional Chinese",
+          pdf: "how-to-speak-and-write-zh.pdf",
+        },
+        jp: {
+          label: "Japanese",
+          pdf: "how-to-speak-and-write-jp.pdf",
+        },
+      };
+
+      const params = new URLSearchParams(window.location.search);
+      const lang = editions[params.get("lang")] ? params.get("lang") : "en";
+      const edition = editions[lang];
+      const frame = document.getElementById("pdf-frame");
+      const rawLink = document.getElementById("raw-pdf-link");
+      const fallbackLink = document.getElementById("fallback-pdf-link");
+
+      document.title = `How to Speak and Write Reader · ${edition.label}`;
+      frame.src = edition.pdf;
+      rawLink.href = edition.pdf;
+      fallbackLink.href = edition.pdf;
+
+      document.querySelectorAll("[data-lang-link]").forEach((link) => {
+        if (link.dataset.langLink === lang) {
+          link.classList.add("is-active");
+          link.setAttribute("aria-current", "page");
+        }
+      });
+    </script>
+  </body>
+</html>

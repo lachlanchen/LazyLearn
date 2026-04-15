@@ -5,6 +5,7 @@ This folder is the publication shelf for the featured LazyLearn book
 
 ## Published Editions
 
+- Inline reader: [index.html](/home/lachlan/ProjectsLFS/LazyLearn/how-to-speak-and-write/index.html)
 - English: [how-to-speak-and-write.pdf](/home/lachlan/ProjectsLFS/LazyLearn/how-to-speak-and-write/how-to-speak-and-write.pdf)
 - Traditional Chinese: [how-to-speak-and-write-zh.pdf](/home/lachlan/ProjectsLFS/LazyLearn/how-to-speak-and-write/how-to-speak-and-write-zh.pdf)
 - Japanese: [how-to-speak-and-write-jp.pdf](/home/lachlan/ProjectsLFS/LazyLearn/how-to-speak-and-write/how-to-speak-and-write-jp.pdf)
