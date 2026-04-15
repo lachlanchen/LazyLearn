@@ -215,6 +215,11 @@ footer {
   backdrop-filter: blur(10px);
 }
 
+.featured-books-grid {
+  display: grid;
+  gap: 1.4rem;
+}
+
 .featured-book {
   display: grid;
   grid-template-columns: minmax(220px, 260px) minmax(0, 1fr);
@@ -979,6 +984,10 @@ html[dir="rtl"] #language-picker {
 }
 
 @media (max-width: 900px) {
+  .featured-books-grid {
+    grid-template-columns: 1fr;
+  }
+
   .featured-book {
     grid-template-columns: 1fr;
   }

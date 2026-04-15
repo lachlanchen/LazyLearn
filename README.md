@@ -24,6 +24,13 @@ Knowledge + skill, unrushed.
 - Read the Japanese local edition: [how-to-speak-and-write/how-to-speak-and-write-jp.pdf](how-to-speak-and-write/how-to-speak-and-write-jp.pdf)
 - Read the website edition: [learn.lazying.art/how-to-speak-and-write.pdf](https://learn.lazying.art/how-to-speak-and-write.pdf)
 
+**Justice with Michael Sandel** is also finished and published from the completed lecture pipeline.
+
+![Justice with Michael Sandel cover](docs/justice-with-michael-sandel-cover.png)
+
+- Read the English local edition: [justice-with-michael-sandel/justice-with-michael-sandel.pdf](justice-with-michael-sandel/justice-with-michael-sandel.pdf)
+- Read the website edition: [learn.lazying.art/justice-with-michael-sandel.pdf](https://learn.lazying.art/justice-with-michael-sandel.pdf)
+
 ## Dedicated Physics Book Repo
 
 There is also a separate repository dedicated to the Leonard Susskind lecture-note book collection.
