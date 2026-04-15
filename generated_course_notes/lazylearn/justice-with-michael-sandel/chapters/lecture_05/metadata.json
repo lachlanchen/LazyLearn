@@ -1,0 +1,38 @@
+{
+  "course_rel": "lazylearn/justice-with-michael-sandel",
+  "transcript_rel": "lazylearn/justice-with-michael-sandel/005 - Justice\uff1a What's The Right Thing To Do\uff1f Episode 05\uff1a \uff02HIRED GUNS\uff02 [8yT4RZy1t3s].md",
+  "video_rel": "lazylearn/justice-with-michael-sandel/005 - Justice\uff1a What's The Right Thing To Do\uff1f Episode 05\uff1a \uff02HIRED GUNS\uff02 [8yT4RZy1t3s].webm",
+  "lecture_number": 5,
+  "lecture_slug": "lecture_05",
+  "lecture_title": "Justice\uff1a What's The Right Thing To Do\uff1f Episode 05\uff1a \uff02HIRED GUNS\uff02",
+  "assets": [
+    {
+      "name": "lecture_05_figure_02.png",
+      "timestamp_seconds": 380.6,
+      "timestamp_hhmmss": "00:06:20.600",
+      "source_candidate": "lecture_05_window_02_candidate_01_000620600.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "Candidate 1 is the only frame with useful instructional content. It clearly shows the full on-screen slide layout and both listed recruitment options, which directly support the lecture's discussion structure at this moment. The other candidates are lecturer-only shots with no diagrammatic or note-worthy visual content.",
+      "subtitle_excerpt": "and whosoever numbers are drawn,",
+      "segment_start_seconds": 380.0,
+      "segment_start_hhmmss": "00:06:20.000",
+      "segment_end_seconds": 385.0,
+      "segment_end_hhmmss": "00:06:25.000",
+      "caption_hint": "recruitment options slide"
+    },
+    {
+      "name": "lecture_05_figure_03.png",
+      "timestamp_seconds": 2865.71,
+      "timestamp_hhmmss": "00:47:45.710",
+      "source_candidate": "lecture_05_window_06_candidate_02_004745710.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "This frame clearly preserves the full on-screen quotation in a stable, legible slide layout. The quote itself is the useful visual evidence here, and this candidate shows it completely with no lecturer occlusion or cropped text.",
+      "subtitle_excerpt": "what you draw from anonymous information. Bar\u0430\u0439\u0442\u0435",
+      "segment_start_seconds": 2864.38,
+      "segment_start_hhmmss": "00:47:44.380",
+      "segment_end_seconds": 2867.88,
+      "segment_end_hhmmss": "00:47:47.880",
+      "caption_hint": "quote condemning surrogacy as sale"
+    }
+  ]
+}
