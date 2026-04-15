@@ -1,0 +1,209 @@
+\chapter{The Moral Side of Murder}
+
+These notes follow Michael Sandel's opening lecture in \emph{Justice}, in the LazyLearn track curated by LazyingArt LLC. We begin exactly where the lecture begins: not with doctrine, but with a story that forces judgment before vocabulary. From there the argument unfolds by controlled variation. One structural feature changes, then another; a simple numerical maxim first appears to guide us, then breaks apart; only after that pressure has been felt does Sandel step back to name consequentialist and categorical moral reasoning, widen the frame to the purpose of political philosophy, and return after a pause to Bentham, utility, and the real-life stress test of \emph{The Queen v. Dudley and Stephens}. The formulas below are editorial shorthand for the lecture's numerical backbone. They are not board equations, and they are used only to make explicit the one-versus-many structure that the lecture itself keeps before us.
+
+\section{Opening the Course Through the Trolley Problem}
+
+Sandel's first move is deliberate. He tells us that the course is about justice, and then, instead of defining justice, he begins with a runaway trolley. The trolley is hurtling down the track. Five workers stand ahead. The brakes do not work. At the last moment we notice a side track with one worker on it, and we discover that the steering still functions. The first question is immediate: what is the right thing to do?
+
+The class is polled before any theory is named. Only a handful would continue straight. The overwhelming majority would turn. If we introduce a compact notation for the outcomes, the structure of the case may be written as
+\begin{align}
+a_{\text{turn}} &: (N_{\text{die}},N_{\text{live}}) = (1,5), \\
+a_{\text{straight}} &: (N_{\text{die}},N_{\text{live}}) = (5,1).
+\end{align}
+The point of the poll is not to collect opinions. It is to force reasons into the open. Sandel immediately asks the majority why they would turn. The dominant answer is plain: it cannot be right to kill five when one could be killed instead. A student then generalizes the same style of reasoning to another tragic emergency, invoking the passengers on Flight 93. The guiding thought is the same: if fewer can be killed rather than more, that seems the better course.
+
+But Sandel does not leave the matter there. He asks those in the minority to speak. Their objection is not numerical but moral in kind: perhaps this same logic, detached from limits, is the logic that can justify horrors on a larger scale. The lecture has therefore already produced two things that matter for the rest of the chapter. First, a simple maxim has emerged:
+\begin{equation}
+\text{better that one should die so that five should live.}
+\end{equation}
+Second, a worry has appeared alongside it: perhaps there are some ways of saving the many that are already morally corrupted, even before we total up the results.
+
+\section{Trolley, Fat Man, and the Breakdown of a Simple Maxim}
+
+Sandel's next move is exact. He does not abandon the one-versus-five structure. He changes a single feature. This time we are not the driver but an onlooker standing on a bridge above the track. The trolley again rushes toward five workers. Standing beside us is a large man whose body, if pushed onto the track, would stop the trolley and save the five.
+
+If we look only at the immediate arithmetic, the structure has not changed:
+\begin{align}
+a_{\text{push}} &: (N_{\text{die}},N_{\text{live}}) = (1,5), \\
+a_{\text{refrain}} &: (N_{\text{die}},N_{\text{live}}) = (5,1).
+\end{align}
+Yet the class no longer reacts as it did in the driver's case. Most of those willing to turn the trolley are unwilling to push the man. The lecture now acquires its first real engine: comparative case variation.
+
+\paragraph{Worked example.}
+To isolate the force of the simple maxim, we may introduce a deliberately crude proxy for pure outcome-counting:
+\begin{equation}
+U_{\text{proxy}}(a) = N_{\text{live}} - N_{\text{die}}.
+\end{equation}
+Then the driver's case and the bridge case are numerically indistinguishable:
+\begin{align}
+U_{\text{proxy}}(a_{\text{turn}}) &= 5-1 = 4, &
+U_{\text{proxy}}(a_{\text{straight}}) &= 1-5 = -4, \\
+U_{\text{proxy}}(a_{\text{push}}) &= 5-1 = 4, &
+U_{\text{proxy}}(a_{\text{refrain}}) &= 1-5 = -4.
+\end{align}
+
+\begin{proposition}
+A rule that depends only on the immediate headcount \((N_{\text{die}},N_{\text{live}})\) cannot explain the difference between turning the trolley and pushing the man.
+\end{proposition}
+
+\begin{proof}
+In both cases the intervention produces \((1,5)\), while the failure to intervene produces \((5,1)\). Any rule sensitive only to those ordered pairs must therefore rank the two interventions alike. Since the class does not rank them alike, some feature other than the immediate numerical outcome must matter.
+\end{proof}
+
+That is precisely what Sandel draws out in the discussion. Students try several distinctions. Perhaps pushing is more active. Perhaps the man on the bridge was not already part of the danger. Perhaps steering a threat differs from using a person as the very means by which the rescue is accomplished. Sandel then makes the problem harder, not easier, by introducing a trap-door variation: suppose the man could be dropped by turning a wheel. Even then the class still recoils. The tactile push is not the whole story.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Why does turning the trolley seem permissible while pushing the fat man does not?
+
+\paragraph{Answer.} The lecture does not settle the matter with a single formula, but it does clarify the terrain. The difference cannot lie in arithmetic, because the arithmetic has been held fixed. Nor can it lie simply in physical contact, because the trap-door variation preserves the sense that something has gone wrong even when no hands are used. What survives the exchange is a more general thought: our judgments are tracking not only outcomes but also the kind of act being performed. In the driver's case we redirect a threat already in motion. In the bridge case we make an otherwise uninvolved person the instrument of rescue. That clarification is not the final theory, but it is enough to move the lecture forward. The simple maxim has been exposed as too simple.
+
+\section{Doctor, Triage, and Transplant}
+
+The lecture now leaves tracks and bridges but keeps the same numerical pressure. In an emergency room six patients arrive after a terrible accident. Five are moderately injured; one is severely injured. The doctor can spend the day treating the one, in which case the five will die, or treat the five, in which case the one will die. Here most of the class again follows the numbers.
+
+The second medical case is more disturbing. A transplant surgeon has five patients, each needing a different organ. No donors are available. A healthy man in the next room came only for a checkup. If his organs are taken, he dies and the five live.
+
+In the same ordered-pair notation, the two medical cases may be set out as
+\begin{align}
+a_{\text{treat one}} &: (N_{\text{die}},N_{\text{live}}) = (5,1), &
+a_{\text{treat five}} &: (N_{\text{die}},N_{\text{live}}) = (1,5), \\
+a_{\text{do not harvest}} &: (N_{\text{die}},N_{\text{live}}) = (5,1), &
+a_{\text{harvest}} &: (N_{\text{die}},N_{\text{live}}) = (1,5).
+\end{align}
+Once again the numerical structure remains constant while the moral response changes. Most are willing to let the one severely injured patient die in order to save the five. Very few are willing to kill the healthy patient for organs.
+
+This sequence matters for two reasons. First, it shows Sandel varying the case without letting us forget the arithmetic. Second, it shows that the arithmetic is no longer doing all the explanatory work. The lecture is not yet arguing for a full theory. It is building a pattern of judgments that any adequate theory will have to explain.
+
+There is even a brief moment of comic resistance. One student proposes a way around the transplant case: take the first of the five dying patients and use that patient's remaining healthy organs to save the other four. Sandel praises the ingenuity and immediately rejects it, because it destroys the philosophical point. The point of the case is not to optimize organ logistics. It is to hold the one-versus-five structure steady while changing the character of the act.
+
+\section{Two Moral Logics Emerge}
+
+At this stage Sandel performs the lecture's first explicit consolidation. He steps back from the stories and asks what kinds of reasons have already begun to emerge from the discussion.
+
+\begin{definition}
+Consequentialist moral reasoning judges an act by its consequences, that is, by the state of the world the act brings about.
+\end{definition}
+
+\begin{definition}
+Categorical moral reasoning holds that some acts are wrong in themselves, regardless of the aggregate consequences they produce.
+\end{definition}
+
+The first of these captures the thought that drove the majority in the original trolley case: if five can live rather than die, that fact seems decisive. The lecture's shorthand for this temptation is simple and memorable: better that five should live, even if one must die. The second captures the hesitation that emerged in the bridge and transplant cases: perhaps there are acts that remain wrong even when their outcome looks numerically superior.
+
+Sandel does not present these as abstract textbook categories dropped onto the cases from above. He presents them as names for patterns already visible in the room. That is important to the lecture's rhythm. The concepts are earned before they are labeled.
+
+This is also the point at which Bentham and Kant first appear on the horizon. Bentham stands for the most influential form of consequentialist reasoning, Kant for one of the most influential forms of categorical reasoning. The chapter should preserve that order: first the cases, then the unstable intuitions, then the names.
+
+\section{Why Philosophy Matters, and Why It Disturbs}
+
+From here the lecture widens dramatically. Sandel looks beyond the opening cases to the course as a whole. The syllabus includes Aristotle, Locke, Kant, Mill, and others; but it also includes contemporary disputes over equality, affirmative action, speech, marriage, military service, and public life more broadly. The books are not there to sit at a distance from politics. The politics are there to show what is at stake in the books.
+
+Then comes the warning. Philosophy does not work by adding new information to a stable picture. It works by making the familiar strange. That is why the trolley and doctor cases are not disposable amusements. They are miniature demonstrations of the larger enterprise. We take something that feels obvious in one setting, move it slightly, and discover that we are no longer sure what we believe.
+
+Sandel emphasizes two risks.
+
+\begin{itemize}
+\item There is a personal risk. Once a moral assumption has been genuinely unsettled, it cannot simply be returned to its old innocence.
+\item There is a political risk. Philosophical reflection may initially make us less comfortable with convention, less secure in inherited judgments, and therefore less effective in a straightforward practical sense.
+\end{itemize}
+
+This is where the lecture's tone changes. The course is not being sold as a quick improvement in citizenship. Sandel even entertains the possibility that philosophy may first make us worse citizens before it makes us better ones, because it distances us from settled assumptions. He reaches back to Socrates and Callicles to dramatize the point: there has always been a complaint that philosophy takes us away from active life, into argument, hesitation, and unsettling scrutiny.
+
+The natural temptation in response is skepticism. Perhaps these questions never end because there are no answers to be had. Sandel rejects that move. The persistence of moral disagreement is not proof that reflection is useless. It is evidence that the questions are unavoidable. We live some answer to them every day, whether or not we have put that answer into words. The goal of the course is therefore not calm consensus but the awakening of what Sandel calls the restlessness of reason.
+
+\section{Bentham, Utility, and the Return to Method}
+
+After this pause the lecture deliberately rewinds. Sandel reminds the audience what the first half has already done, both methodologically and substantively. The method is worth stating carefully because it governs the whole course.
+
+\begin{enumerate}
+\item We begin with judgments about particular cases.
+\item We articulate the reasons or principles that seem to lie behind those judgments.
+\item We confront those principles with new cases.
+\item We revise judgments and principles in light of one another, under the pressure to bring them into alignment.
+\end{enumerate}
+
+Only after this recap does Bentham enter as a systematic thinker. Sandel now gives explicit philosophical form to the outcome-based reasoning that has already been visible in the cases. Bentham's central claim is that the right thing to do, individually or collectively, is to maximize utility. What is utility? Sandel's answer comes in paired verbal formulas:
+\begin{align}
+\text{utility} &= \text{pleasure} - \text{pain}, \\
+               &= \text{happiness} - \text{suffering}.
+\end{align}
+If we introduce a minimal notation to compress this idea, we may write
+\begin{equation}
+U(a) = H(a) - S(a),
+\end{equation}
+where \(H(a)\) is the happiness resulting from act \(a\) and \(S(a)\) is the suffering it produces. Then Bentham's directive becomes
+\begin{equation}
+a^\ast = \underset{a}{\mathrm{arg\,max}}\; U(a).
+\end{equation}
+
+\begin{remark}
+These formulas are cautious transcript-based reconstructions. No board equation survives for this lecture, and Sandel states Bentham's view in words rather than symbols. The notation is included only to make the lecture's structure more explicit.
+\end{remark}
+
+Bentham's route to the principle matters. He begins from the claim that human beings are governed by two sovereign masters, pain and pleasure. Since we seek pleasure and avoid pain, morality and legislation should be organized around the balance of the two. In slogan form, utilitarianism becomes the greatest good for the greatest number. If one wants a compact symbolic rendering of that slogan, one may write
+\begin{equation}
+a^\ast = \underset{a}{\mathrm{arg\,max}}\; \sum_i u_i(a),
+\end{equation}
+but the lecture does not depend on any elaborate calculus. What matters is the guiding thought: the best act is the act that brings about the best aggregate condition.
+
+\section{Dudley and Stevens: Necessity, Lottery, and Consent}
+
+With Bentham's principle now named, Sandel turns to a real legal case: \emph{The Queen v. Dudley and Stephens}. This shift from hypothetical puzzle to actual disaster is a major hinge in the lecture. The pattern is familiar, but the emotional temperature is higher. Four men survive a shipwreck in a lifeboat. Their food is nearly gone. There is no fresh water. Richard Parker, the cabin boy, grows ill after drinking sea water and appears close to death. Dudley proposes a lottery. Brooks refuses. No lottery is held. The next day Dudley kills Parker, and the survivors sustain themselves on his body until rescue comes.
+
+Before taking up the arguments, it is useful to set the major sacrificial cases from the lecture alongside one another.
+
+\begin{table}[h]
+\centering
+\[
+\begin{array}{l|l|l|l}
+\text{Case} & \text{Intervention} & (N_{\text{die}},N_{\text{live}}) & \text{Dominant reaction} \\ \hline
+\text{Trolley driver} & a_{\text{turn}} & (1,5) & \text{Turn} \\
+\text{Bridge onlooker} & a_{\text{push}} & (1,5) & \text{Do not push} \\
+\text{Emergency triage} & a_{\text{treat five}} & (1,5) & \text{Treat the five} \\
+\text{Transplant surgeon} & a_{\text{harvest}} & (1,5) & \text{Do not harvest} \\
+\text{Dudley-Stevens defense} & a_{\text{kill Parker}} & (1,3) & \text{Majority condemn}
+\end{array}
+\]
+\end{table}
+
+The defense is necessity. Better that one should die so that three could survive. In the most compressed numerical form, the defense proposes
+\begin{equation}
+a_{\text{kill Parker}} : (N_{\text{die}},N_{\text{live}}) = (1,3).
+\end{equation}
+But here the lecture becomes more subtle than a simple headcount. Unlike the trolley case, the alternative outcome is not known in advance. Rescue may come soon or not at all. The defense therefore depends on a conjecture about consequences:
+\begin{equation}
+U(a_{\text{kill Parker}}) \stackrel{?}{>} U(a_{\text{wait}}).
+\end{equation}
+Some students then broaden the utilitarian frame in explicitly Benthamite fashion. It is not merely three lives against one. The three survivors have families and dependents waiting back home; Parker is an orphan. If welfare is what matters, then perhaps the benefit of preserving the three is larger than the bare arithmetic first suggests.
+
+Sandel, however, does not let this utilitarian case stand unopposed. He polls the room as though we were the jury, while bracketing the legal question and focusing on moral permissibility. A sizable majority condemns the killing. He then lets the minority speak first. Necessity, desperation, survival, and even later productive social contribution are all invoked in Parker's place. Only then does he turn to the prosecution. Some object that no human being has the authority to decide another's fate in this way. Others maintain, more categorically, that murder remains murder.
+
+\subsection{Question \& Answer}
+
+\paragraph{Question.} Would a lottery, or Parker's consent, make the killing morally permissible?
+
+\paragraph{Answer.} This is where the lecture becomes especially careful. Sandel does not treat lottery and consent as identical. He lets them appear one after the other, and the difference matters.
+
+\begin{enumerate}
+\item \textbf{Necessity.} The first defense is the strongest consequentialist one: in desperate circumstances, one death may preserve several lives, and perhaps that is enough.
+\item \textbf{Fair procedure.} The next thought is that perhaps the real wrong in the actual case lies in the unilateral choice. A lottery would at least count everyone equally and prevent one party from deciding that his own life matters more.
+\item \textbf{Consent.} The strongest modifier is then introduced by the class itself: if Parker freely agreed, would the moral status of the act change because the sacrifice became, in some sense, his own?
+\end{enumerate}
+
+The lecture's answer is again not a final theorem but a clarified map of positions. Some students are moved by lottery or consent. They think the moral problem lies largely in the absence of consultation or procedure. Others are not moved. They insist that consent under such circumstances may be coerced, that a fair procedure can still generate an unjust act, and that even if self-sacrifice is admirable, it does not follow that someone else may perform the killing. The categorical objection therefore survives every attempt to soften the case.
+
+Sandel's final step is to gather the discussion into three precise philosophical questions.
+
+\begin{enumerate}
+\item If killing is categorically wrong, is that because persons have rights that cannot be reduced to welfare?
+\item Why should agreement to a fair procedure justify the outcome of that procedure?
+\item What moral work does consent do, and why does it seem capable of transforming an act that would otherwise be wrong?
+\end{enumerate}
+
+The lecture ends by sharpening these questions rather than by resolving them. That is exactly right. Dudley and Stephens is not merely one more example. It is the point at which necessity, utility, fairness, rights, and consent are all forced into the same frame.
+
+\section{Summary}
+
+This first lecture establishes both the method and the ambition of the course. We begin with cases, not doctrines. We are polled before we are instructed. We then watch a simple one-versus-many maxim travel from case to case until it no longer explains our own judgments. Out of that instability emerge two rival moral logics: consequentialist reasoning, which looks to outcomes, and categorical reasoning, which holds that some acts are wrong in themselves. The course then pauses to explain why philosophy matters, returns with a more explicit account of Bentham's utilitarianism, and finally tests that account against the lifeboat case of Dudley and Stephens. The result is not a settled answer. It is a better question: whether aggregate welfare can justify sacrifice, whether fair procedure can license a deadly outcome, and what consent can and cannot do in moral life.
