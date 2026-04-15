@@ -1,0 +1,1361 @@
+# Transcript
+
+Source: 004 - Justice： What's The Right Thing To Do？ Episode 04： ＂THIS LAND IS MY LAND＂ [MGyygiXMzRk].webm
+
+- [00:00:00,000 - 00:00:05,000] Funding for this program is provided by
+- [00:00:05,000 - 00:00:09,000] Additional funding provided by
+- [00:00:30,000 - 00:00:34,000] Today we turn to John Locke.
+- [00:00:39,000 - 00:00:42,500] On the face of it, Locke
+- [00:00:42,500 - 00:00:46,000] is a powerful ally of the libertarian.
+- [00:00:46,000 - 00:00:53,000] First, he believes, as libertarians today maintain,
+- [00:00:53,000 - 00:00:58,000] that there are certain fundamental individual rights
+- [00:00:58,000 - 00:01:00,000] that are not just for the libertarian.
+- [00:01:00,000 - 00:01:03,000] They are so important that no government,
+- [00:01:03,000 - 00:01:05,000] even a representative government,
+- [00:01:05,000 - 00:01:08,000] even a democratically elected government,
+- [00:01:08,000 - 00:01:12,000] can override them.
+- [00:01:12,000 - 00:01:15,500] Not only that, he believes
+- [00:01:15,500 - 00:01:19,000] that those fundamental rights include
+- [00:01:19,000 - 00:01:28,000] a natural right to life, liberty, and property.
+- [00:01:28,000 - 00:01:30,000] And, furthermore,
+- [00:01:30,000 - 00:01:36,000] he argues that the right to property
+- [00:01:36,000 - 00:01:42,000] is not just the creation of government or of law.
+- [00:01:42,000 - 00:01:46,000] The right to property is a natural right
+- [00:01:46,000 - 00:01:51,000] in the sense that it is pre-political.
+- [00:01:51,000 - 00:01:54,500] It is a right that
+- [00:01:54,500 - 00:01:58,000] attaches to individuals as human beings.
+- [00:01:58,000 - 00:01:59,000] Even before,
+- [00:01:59,000 - 00:02:02,000] even before government comes on the scene,
+- [00:02:02,000 - 00:02:06,000] even before parliaments and legislatures enact laws
+- [00:02:06,000 - 00:02:10,000] to define rights and to enforce them.
+- [00:02:10,000 - 00:02:12,000] Locke says in order to think about
+- [00:02:12,000 - 00:02:15,000] what it means to have a natural right,
+- [00:02:15,000 - 00:02:20,000] we have to imagine the way things are
+- [00:02:20,000 - 00:02:26,000] before government, before law.
+- [00:02:26,000 - 00:02:28,000] And that's what Locke means by the state of nature.
+- [00:02:29,000 - 00:02:34,000] He says the state of
+- [00:02:34,000 - 00:02:39,000] nature is a state of liberty.
+- [00:02:39,000 - 00:02:42,000] Human beings are free and equal beings.
+- [00:02:42,000 - 00:02:46,000] There is no natural hierarchy.
+- [00:02:46,000 - 00:02:47,500] It's not the case that some
+- [00:02:47,500 - 00:02:49,000] people are born to be kings
+- [00:02:49,000 - 00:02:53,000] and others are born to be serfs.
+- [00:02:53,000 - 00:02:56,000] We are free and equal in the state of nature.
+- [00:02:56,000 - 00:02:58,000] And yet,
+- [00:02:59,000 - 00:03:02,000] he makes the point that there's a difference
+- [00:03:02,000 - 00:03:09,000] between a state of liberty and a state of license.
+- [00:03:09,000 - 00:03:10,000] And the reason is that
+- [00:03:10,000 - 00:03:11,000] even in the state of nature,
+- [00:03:11,000 - 00:03:12,000] there is a kind of law.
+- [00:03:12,000 - 00:03:15,000] It's not the kind of law that legislatures enact.
+- [00:03:15,000 - 00:03:19,000] It's a law of nature.
+- [00:03:19,000 - 00:03:24,000] And this law of nature constrains what we can do
+- [00:03:24,000 - 00:03:26,000] even though we're free,
+- [00:03:26,000 - 00:03:28,000] even though we're in the state of nature.
+- [00:03:29,000 - 00:03:33,000] Well, what are the constraints?
+- [00:03:33,000 - 00:03:38,000] The only constraint given by the law of nature
+- [00:03:38,000 - 00:03:43,000] is that the rights we have,
+- [00:03:43,000 - 00:03:45,000] the natural rights we have,
+- [00:03:45,000 - 00:03:49,000] we can't give up.
+- [00:03:49,000 - 00:03:53,000] Nor can we take them from somebody else.
+- [00:03:53,000 - 00:03:55,000] Under the law of nature,
+- [00:03:55,000 - 00:03:58,000] I'm not free to take somebody else's life
+- [00:03:58,000 - 00:04:02,000] or liberty or property.
+- [00:04:02,000 - 00:04:09,000] Nor am I free to take my own life
+- [00:04:09,000 - 00:04:12,000] or liberty or property.
+- [00:04:12,000 - 00:04:14,000] Even though I'm free,
+- [00:04:14,000 - 00:04:17,000] I'm not free to violate the law of nature.
+- [00:04:17,000 - 00:04:19,000] I'm not free to take my own life
+- [00:04:19,000 - 00:04:22,000] or to sell myself into slavery
+- [00:04:22,000 - 00:04:24,000] or to give to somebody else
+- [00:04:24,000 - 00:04:28,000] arbitrary absolute power over me.
+- [00:04:28,000 - 00:04:30,000] So where does this constraint,
+- [00:04:30,000 - 00:04:32,000] you may think it's a fairly minimal constraint,
+- [00:04:32,000 - 00:04:35,000] but where does it come from?
+- [00:04:35,000 - 00:04:39,000] Well, Locke tells us where it comes from.
+- [00:04:39,000 - 00:04:42,000] And he gives two answers.
+- [00:04:42,000 - 00:04:45,000] Here's the first answer.
+- [00:04:45,000 - 00:04:47,000] For men,
+- [00:04:47,000 - 00:04:50,000] being all the workmanship
+- [00:04:50,000 - 00:04:54,000] of one omnipotent and infinitely wise maker,
+- [00:04:54,000 - 00:04:56,000] namely God,
+- [00:04:56,000 - 00:04:58,000] they are his property.
+- [00:04:58,000 - 00:05:00,000] Whose workmanship they are
+- [00:05:00,000 - 00:05:02,000] made to last during his,
+- [00:05:02,000 - 00:05:05,000] not one another's, pleasure.
+- [00:05:05,000 - 00:05:07,000] So one answer to the question is
+- [00:05:07,000 - 00:05:10,000] why can't I give up my natural rights
+- [00:05:10,000 - 00:05:12,000] to life, liberty, and property is,
+- [00:05:12,000 - 00:05:18,000] well, they're not strictly speaking yours.
+- [00:05:18,000 - 00:05:24,000] After all, you are the creature of God.
+- [00:05:24,000 - 00:05:28,000] God has a bigger property right in us.
+- [00:05:28,000 - 00:05:31,000] A prior property right.
+- [00:05:31,000 - 00:05:33,000] Now you might say that's
+- [00:05:33,000 - 00:05:35,000] an unsatisfying, unconvincing answer,
+- [00:05:35,000 - 00:05:38,000] at least for those who don't believe in God.
+- [00:05:38,000 - 00:05:41,000] What did Locke have to say to them?
+- [00:05:41,000 - 00:05:44,000] Well, here's where Locke appeals to the idea
+- [00:05:44,000 - 00:05:47,000] of reason.
+- [00:05:47,000 - 00:05:50,000] And this is the idea
+- [00:05:50,000 - 00:05:52,000] that if we properly reflect
+- [00:05:52,000 - 00:05:55,000] on what it means to be free,
+- [00:05:55,000 - 00:05:57,000] we will be led to the conclusion
+- [00:05:57,000 - 00:05:59,000] that freedom can't just be
+- [00:05:59,000 - 00:06:02,000] a matter of doing whatever we want.
+- [00:06:02,000 - 00:06:04,000] I think this is what Locke means
+- [00:06:04,000 - 00:06:06,000] when he says,
+- [00:06:06,000 - 00:06:08,000] the state of nature has a law of nature
+- [00:06:08,000 - 00:06:10,000] to govern it which obliges everyone.
+- [00:06:10,000 - 00:06:14,000] And reason, which is that law,
+- [00:06:14,000 - 00:06:16,000] teaches mankind who will but consult it
+- [00:06:16,000 - 00:06:19,000] that all being equal and independent,
+- [00:06:19,000 - 00:06:21,000] no one ought to harm another in his life,
+- [00:06:21,000 - 00:06:24,000] health, liberty, or possessions.
+- [00:06:24,000 - 00:06:27,000] This leads to a point
+- [00:06:27,000 - 00:06:29,000] where Locke's idea of
+- [00:06:29,000 - 00:06:33,000] reason is a puzzling, paradoxical feature
+- [00:06:33,000 - 00:06:36,000] of Locke's account of rights.
+- [00:06:36,000 - 00:06:38,000] Familiar in one sense,
+- [00:06:38,000 - 00:06:42,000] but strange in another.
+- [00:06:42,000 - 00:06:44,000] It's the idea that our natural rights
+- [00:06:44,000 - 00:06:46,000] are unalienable.
+- [00:06:46,000 - 00:06:48,000] What does unalienable mean?
+- [00:06:48,000 - 00:06:49,000] It's not for us to alienate them
+- [00:06:49,000 - 00:06:50,000] or to give them up,
+- [00:06:50,000 - 00:06:51,000] to give them away,
+- [00:06:51,000 - 00:06:52,000] to trade them away,
+- [00:06:52,000 - 00:06:54,000] to sell them.
+- [00:06:54,000 - 00:06:56,000] Consider an airline ticket.
+- [00:06:56,000 - 00:06:58,000] Or tickets to the Patriots
+- [00:06:58,000 - 00:07:00,000] or to the Red Sox.
+- [00:07:00,000 - 00:07:03,000] Non-transferable tickets
+- [00:07:03,000 - 00:07:06,000] are unalienable.
+- [00:07:06,000 - 00:07:09,000] I own them in the limited sense
+- [00:07:09,000 - 00:07:11,000] that I can use them for myself,
+- [00:07:11,000 - 00:07:13,000] but I can't trade them away.
+- [00:07:13,000 - 00:07:14,000] So in one sense,
+- [00:07:14,000 - 00:07:16,000] an unalienable right,
+- [00:07:16,000 - 00:07:18,000] a non-transferable right,
+- [00:07:18,000 - 00:07:21,000] makes something I own
+- [00:07:21,000 - 00:07:25,000] less fully mine.
+- [00:07:25,000 - 00:07:27,000] But in another sense
+- [00:07:27,000 - 00:07:30,000] of unalienable rights,
+- [00:07:30,000 - 00:07:32,000] especially where we're thinking
+- [00:07:32,000 - 00:07:34,000] about life, liberty, and property,
+- [00:07:34,000 - 00:07:39,000] for a right to be unalienable
+- [00:07:39,000 - 00:07:40,000] makes it more deeply,
+- [00:07:40,000 - 00:07:42,000] more profoundly mine.
+- [00:07:42,000 - 00:07:44,000] And that's Locke's sense
+- [00:07:44,000 - 00:07:47,000] of unalienable.
+- [00:07:47,000 - 00:07:49,000] We see it in the American Declaration
+- [00:07:49,000 - 00:07:50,000] of Independence.
+- [00:07:50,000 - 00:07:52,000] Thomas Jefferson drew on this idea
+- [00:07:52,000 - 00:07:53,000] of Locke.
+- [00:07:53,000 - 00:07:55,000] Unalienable rights,
+- [00:07:55,000 - 00:07:57,000] to life, liberty,
+- [00:07:57,000 - 00:07:59,000] and as Jefferson amended Locke,
+- [00:07:59,000 - 00:08:01,000] to the pursuit of happiness.
+- [00:08:01,000 - 00:08:04,000] Unalienable rights.
+- [00:08:04,000 - 00:08:07,000] Rights that are so
+- [00:08:07,000 - 00:08:10,000] essentially mine
+- [00:08:10,000 - 00:08:12,000] that even I can't trade them away
+- [00:08:12,000 - 00:08:17,000] or give them up.
+- [00:08:17,000 - 00:08:18,000] So these are the rights we have
+- [00:08:18,000 - 00:08:20,000] in the state of nature
+- [00:08:20,000 - 00:08:23,000] before there is any government.
+- [00:08:23,000 - 00:08:25,000] In the case of life and property,
+- [00:08:25,000 - 00:08:27,000] I can't take my own life,
+- [00:08:27,000 - 00:08:29,000] I can't sell myself into slavery
+- [00:08:29,000 - 00:08:30,000] any more than I can take
+- [00:08:30,000 - 00:08:31,000] somebody else's life
+- [00:08:31,000 - 00:08:32,000] or take someone else
+- [00:08:32,000 - 00:08:36,000] as a slave by force.
+- [00:08:36,000 - 00:08:37,000] But how does that work
+- [00:08:37,000 - 00:08:39,000] in the case of property?
+- [00:08:39,000 - 00:08:40,000] Because it's essential
+- [00:08:40,000 - 00:08:42,000] to Locke's case
+- [00:08:42,000 - 00:08:44,000] that private property
+- [00:08:44,000 - 00:08:47,000] can arise
+- [00:08:47,000 - 00:08:50,000] even before there is any government.
+- [00:08:50,000 - 00:08:52,000] How can there be a right
+- [00:08:52,000 - 00:08:54,000] to private property
+- [00:08:54,000 - 00:08:59,000] even before there is any government?
+- [00:08:59,000 - 00:09:01,000] Locke's famous answer
+- [00:09:01,000 - 00:09:04,000] comes in section 27.
+- [00:09:04,000 - 00:09:06,000] Every man has a property
+- [00:09:06,000 - 00:09:08,000] in his own person.
+- [00:09:08,000 - 00:09:09,000] This nobody has any right to
+- [00:09:09,000 - 00:09:12,000] but himself.
+- [00:09:12,000 - 00:09:13,000] The labor of his body
+- [00:09:13,000 - 00:09:15,000] and the work of his hands,
+- [00:09:15,000 - 00:09:16,000] we may say,
+- [00:09:16,000 - 00:09:19,000] are properly his.
+- [00:09:19,000 - 00:09:22,000] So he moves
+- [00:09:22,000 - 00:09:23,000] as the libertarians later
+- [00:09:23,000 - 00:09:25,000] would move
+- [00:09:25,000 - 00:09:26,000] from the idea
+- [00:09:26,000 - 00:09:29,000] that we own ourselves,
+- [00:09:29,000 - 00:09:30,000] that we have property
+- [00:09:30,000 - 00:09:32,000] in our persons,
+- [00:09:32,000 - 00:09:33,000] to the closely connected idea
+- [00:09:33,000 - 00:09:36,000] that we own our own labor.
+- [00:09:36,000 - 00:09:37,000] And from that
+- [00:09:37,000 - 00:09:39,000] to the further claim
+- [00:09:39,000 - 00:09:41,000] that whatever we mix
+- [00:09:41,000 - 00:09:43,000] our labor with
+- [00:09:43,000 - 00:09:45,000] that is unowned
+- [00:09:45,000 - 00:09:49,000] becomes our property.
+- [00:09:49,000 - 00:09:50,000] Whatever he removes out of the state
+- [00:09:50,000 - 00:09:51,000] that nature has provided
+- [00:09:51,000 - 00:09:53,000] and left it in,
+- [00:09:53,000 - 00:09:55,000] he has mixed his labor with
+- [00:09:55,000 - 00:09:56,000] and joined it to something
+- [00:09:56,000 - 00:09:58,000] that is his own
+- [00:09:58,000 - 00:10:01,000] and thereby makes it his property.
+- [00:10:01,000 - 00:10:04,000] Why?
+- [00:10:04,000 - 00:10:06,000] Because the labor
+- [00:10:06,000 - 00:10:08,000] is the unquestionable property
+- [00:10:08,000 - 00:10:09,000] of the laborer
+- [00:10:09,000 - 00:10:12,000] and therefore no one
+- [00:10:12,000 - 00:10:13,000] but the laborer
+- [00:10:13,000 - 00:10:14,000] can have a right
+- [00:10:14,000 - 00:10:16,000] to what is joined to
+- [00:10:16,000 - 00:10:18,000] or mixed with
+- [00:10:18,000 - 00:10:20,000] his labor.
+- [00:10:20,000 - 00:10:22,000] And then he adds this important provision,
+- [00:10:22,000 - 00:10:24,000] at least where there is enough
+- [00:10:24,000 - 00:10:26,000] and is good left in common
+- [00:10:26,000 - 00:10:28,000] for others.
+- [00:10:28,000 - 00:10:31,000] But we not only
+- [00:10:31,000 - 00:10:33,000] acquire a property
+- [00:10:33,000 - 00:10:35,000] in the fruits of the earth,
+- [00:10:35,000 - 00:10:37,000] in the deer that we hunt,
+- [00:10:37,000 - 00:10:40,000] in the fish that we catch,
+- [00:10:40,000 - 00:10:42,000] but also
+- [00:10:42,000 - 00:10:44,000] if we till and plow
+- [00:10:44,000 - 00:10:45,000] and enclose the land
+- [00:10:45,000 - 00:10:48,000] and grow potatoes,
+- [00:10:48,000 - 00:10:50,000] we own not only the potatoes
+- [00:10:50,000 - 00:10:51,000] but the land,
+- [00:10:51,000 - 00:10:53,000] the earth.
+- [00:10:53,000 - 00:10:55,000] As much land
+- [00:10:55,000 - 00:10:56,000] as a man tills,
+- [00:10:56,000 - 00:10:57,000] plants, improves,
+- [00:10:57,000 - 00:10:58,000] cultivates,
+- [00:10:58,000 - 00:11:00,000] and can use,
+- [00:11:00,000 - 00:11:01,000] the product of
+- [00:11:01,000 - 00:11:03,000] so much is his property.
+- [00:11:03,000 - 00:11:05,000] He by his labor
+- [00:11:05,000 - 00:11:06,000] encloses it
+- [00:11:06,000 - 00:11:09,000] from the commons.
+- [00:11:09,000 - 00:11:11,000] So,
+- [00:11:11,000 - 00:11:14,000] the idea that rights are unalienable
+- [00:11:14,000 - 00:11:15,000] seems to distance Locke
+- [00:11:15,000 - 00:11:17,000] from the libertarian.
+- [00:11:17,000 - 00:11:19,000] The libertarian wants to say
+- [00:11:19,000 - 00:11:21,000] we have an absolute property
+- [00:11:21,000 - 00:11:23,000] right in ourselves
+- [00:11:23,000 - 00:11:25,000] and therefore we can do with ourselves
+- [00:11:25,000 - 00:11:26,000] whatever we want.
+- [00:11:26,000 - 00:11:29,000] Locke is not a sturdy ally
+- [00:11:29,000 - 00:11:31,000] for that view.
+- [00:11:31,000 - 00:11:32,000] In fact, he says if you take
+- [00:11:32,000 - 00:11:34,000] natural rights seriously,
+- [00:11:34,000 - 00:11:35,000] you'll be led to the idea
+- [00:11:35,000 - 00:11:37,000] that there are certain constraints
+- [00:11:37,000 - 00:11:38,000] on what we can do
+- [00:11:38,000 - 00:11:39,000] with our natural rights,
+- [00:11:39,000 - 00:11:41,000] constraints given
+- [00:11:41,000 - 00:11:43,000] either by God
+- [00:11:43,000 - 00:11:44,000] or by reason,
+- [00:11:44,000 - 00:11:45,000] reflecting on what it means
+- [00:11:45,000 - 00:11:46,000] really to be free.
+- [00:11:46,000 - 00:11:50,000] And really to be free
+- [00:11:50,000 - 00:11:52,000] means recognizing
+- [00:11:52,000 - 00:11:54,000] that our rights are unalienable.
+- [00:11:54,000 - 00:11:55,000] So here's the difference
+- [00:11:55,000 - 00:11:56,000] between Locke and the libertarians,
+- [00:11:56,000 - 00:11:58,000] but when it comes
+- [00:11:58,000 - 00:11:59,000] to Locke's account
+- [00:11:59,000 - 00:12:01,000] of private property,
+- [00:12:01,000 - 00:12:03,000] he begins to look again
+- [00:12:03,000 - 00:12:06,000] like a pretty good ally.
+- [00:12:06,000 - 00:12:07,000] Because his argument
+- [00:12:07,000 - 00:12:08,000] for private property
+- [00:12:08,000 - 00:12:09,000] begins with the idea
+- [00:12:09,000 - 00:12:10,000] that we are the proprietors
+- [00:12:10,000 - 00:12:12,000] of our own person
+- [00:12:12,000 - 00:12:14,000] and therefore of our labor,
+- [00:12:14,000 - 00:12:15,000] and therefore of the fruits
+- [00:12:15,000 - 00:12:16,000] of our labor,
+- [00:12:16,000 - 00:12:18,000] including not only the things
+- [00:12:18,000 - 00:12:20,000] we get,
+- [00:12:20,000 - 00:12:23,000] which we gather
+- [00:12:23,000 - 00:12:24,000] and hunt
+- [00:12:24,000 - 00:12:27,000] in the state of nature,
+- [00:12:27,000 - 00:12:28,000] but also we acquire
+- [00:12:28,000 - 00:12:29,000] a property right
+- [00:12:29,000 - 00:12:30,000] in the land that we enclose
+- [00:12:30,000 - 00:12:34,000] and cultivate and improve.
+- [00:12:34,000 - 00:12:35,000] There are some examples
+- [00:12:35,000 - 00:12:36,000] that can bring out
+- [00:12:36,000 - 00:12:40,000] the moral intuition
+- [00:12:40,000 - 00:12:42,000] that our labor
+- [00:12:42,000 - 00:12:43,000] can take something
+- [00:12:43,000 - 00:12:45,000] that is unowned
+- [00:12:45,000 - 00:12:48,000] and make it ours.
+- [00:12:48,000 - 00:12:49,000] Though sometimes there are disputes
+- [00:12:49,000 - 00:12:50,000] about this.
+- [00:12:50,000 - 00:12:55,000] There's a debate
+- [00:12:55,000 - 00:12:58,000] among rich countries
+- [00:12:58,000 - 00:12:59,000] and developing countries
+- [00:12:59,000 - 00:13:01,000] about trade-related
+- [00:13:01,000 - 00:13:03,000] intellectual property rights.
+- [00:13:03,000 - 00:13:05,000] It came to a head recently
+- [00:13:05,000 - 00:13:08,000] over drug patent laws.
+- [00:13:08,000 - 00:13:09,000] Western countries,
+- [00:13:09,000 - 00:13:11,000] and especially the United States,
+- [00:13:11,000 - 00:13:12,000] say we have a big
+- [00:13:12,000 - 00:13:13,000] pharmaceutical industry
+- [00:13:13,000 - 00:13:16,000] that develops new drugs.
+- [00:13:16,000 - 00:13:19,000] We want all countries
+- [00:13:19,000 - 00:13:21,000] in the world to agree
+- [00:13:21,000 - 00:13:24,000] to respect the patents.
+- [00:13:24,000 - 00:13:25,000] Then there came along
+- [00:13:25,000 - 00:13:26,000] the AIDS crisis
+- [00:13:26,000 - 00:13:29,000] in South Africa.
+- [00:13:29,000 - 00:13:33,000] And the American AIDS drugs
+- [00:13:33,000 - 00:13:36,000] were hugely expensive,
+- [00:13:36,000 - 00:13:38,000] far more than could be afforded
+- [00:13:38,000 - 00:13:40,000] by most Africans.
+- [00:13:40,000 - 00:13:41,000] So the South African government
+- [00:13:41,000 - 00:13:43,000] said we are going to begin
+- [00:13:43,000 - 00:13:45,000] to buy a generic version
+- [00:13:45,000 - 00:13:48,000] of the AIDS antiretroviral
+- [00:13:48,000 - 00:13:52,000] drug at a tiny fraction
+- [00:13:52,000 - 00:13:53,000] of the cost
+- [00:13:53,000 - 00:13:54,000] because we can find
+- [00:13:54,000 - 00:13:57,000] an Indian manufacturing company
+- [00:13:57,000 - 00:13:58,000] that figures out
+- [00:13:58,000 - 00:14:00,000] how the thing is made
+- [00:14:00,000 - 00:14:03,000] and produces it.
+- [00:14:03,000 - 00:14:04,000] And for a tiny fraction
+- [00:14:04,000 - 00:14:05,000] of the cost,
+- [00:14:05,000 - 00:14:06,000] we can save lives
+- [00:14:06,000 - 00:14:08,000] if we don't respect that patent.
+- [00:14:08,000 - 00:14:10,000] And then the American government
+- [00:14:10,000 - 00:14:12,000] said, no, here's a company
+- [00:14:12,000 - 00:14:16,000] that invested research
+- [00:14:16,000 - 00:14:17,000] and created this.
+- [00:14:17,000 - 00:14:18,000] Right?
+- [00:14:18,000 - 00:14:19,000] And they said,
+- [00:14:19,000 - 00:14:20,000] we're going to buy
+- [00:14:20,000 - 00:14:21,000] a generic drug.
+- [00:14:21,000 - 00:14:22,000] You can't just start
+- [00:14:22,000 - 00:14:24,000] mass producing these drugs
+- [00:14:24,000 - 00:14:26,000] without paying a licensing fee.
+- [00:14:26,000 - 00:14:29,000] So there was a dispute.
+- [00:14:29,000 - 00:14:31,000] And the US,
+- [00:14:31,000 - 00:14:32,000] the pharmaceutical companies
+- [00:14:32,000 - 00:14:34,000] sued the South African government
+- [00:14:34,000 - 00:14:36,000] to try to prevent their buying
+- [00:14:36,000 - 00:14:38,000] the cheap, generic,
+- [00:14:38,000 - 00:14:39,000] as they saw it,
+- [00:14:39,000 - 00:14:44,000] pirated version of an AIDS drug.
+- [00:14:44,000 - 00:14:45,000] And eventually,
+- [00:14:45,000 - 00:14:47,000] the pharmaceutical industry
+- [00:14:47,000 - 00:14:49,000] gave in and said,
+- [00:14:49,000 - 00:14:50,000] all right, you can do that.
+- [00:14:50,000 - 00:14:51,000] But this dispute
+- [00:14:51,000 - 00:14:53,000] about what the rules
+- [00:14:53,000 - 00:14:55,000] of property should be,
+- [00:14:55,000 - 00:14:57,000] of intellectual property,
+- [00:14:57,000 - 00:15:00,000] of drug patenting,
+- [00:15:00,000 - 00:15:01,000] in a way,
+- [00:15:01,000 - 00:15:02,000] is the last frontier
+- [00:15:02,000 - 00:15:04,000] of the state of nature
+- [00:15:04,000 - 00:15:05,000] because among nations
+- [00:15:05,000 - 00:15:08,000] where there is no uniform law
+- [00:15:08,000 - 00:15:09,000] of patent rights
+- [00:15:09,000 - 00:15:11,000] and property rights,
+- [00:15:11,000 - 00:15:12,000] it's up for grabs
+- [00:15:12,000 - 00:15:15,000] until, by some act of consent,
+- [00:15:15,000 - 00:15:17,000] some international agreement
+- [00:15:17,000 - 00:15:20,000] that people enter into
+- [00:15:20,000 - 00:15:26,000] some settled rules.
+- [00:15:26,000 - 00:15:29,000] What about Locke's account
+- [00:15:29,000 - 00:15:31,000] of private property
+- [00:15:31,000 - 00:15:32,000] and how it can arise
+- [00:15:32,000 - 00:15:34,000] before government
+- [00:15:34,000 - 00:15:36,000] and before law comes on the scene?
+- [00:15:36,000 - 00:15:40,000] Is it successful?
+- [00:15:40,000 - 00:15:41,000] How many think
+- [00:15:41,000 - 00:15:43,000] it's pretty persuasive?
+- [00:15:43,000 - 00:15:46,000] Raise your hand.
+- [00:15:46,000 - 00:15:50,000] How many don't find it persuasive?
+- [00:15:50,000 - 00:15:51,000] All right, let's hear
+- [00:15:51,000 - 00:15:53,000] for some critics.
+- [00:15:53,000 - 00:15:56,000] What is wrong with Locke's account
+- [00:15:56,000 - 00:15:57,000] of how private property
+- [00:15:57,000 - 00:16:00,000] can arise without consent?
+- [00:16:00,000 - 00:16:02,000] Yes.
+- [00:16:02,000 - 00:16:03,000] Yeah.
+- [00:16:03,000 - 00:16:05,000] I think it justifies
+- [00:16:05,000 - 00:16:06,000] European cultural norms
+- [00:16:06,000 - 00:16:07,000] as far as,
+- [00:16:07,000 - 00:16:08,000] when you look at
+- [00:16:08,000 - 00:16:09,000] how Native Americans
+- [00:16:09,000 - 00:16:10,000] may not have cultivated
+- [00:16:10,000 - 00:16:11,000] American land,
+- [00:16:11,000 - 00:16:13,000] but by their arrival
+- [00:16:13,000 - 00:16:15,000] in the Americas,
+- [00:16:15,000 - 00:16:17,000] that contributed
+- [00:16:17,000 - 00:16:18,000] to the development of America,
+- [00:16:18,000 - 00:16:19,000] which wouldn't have otherwise
+- [00:16:19,000 - 00:16:20,000] necessarily happened then
+- [00:16:20,000 - 00:16:23,000] or by that specific group.
+- [00:16:23,000 - 00:16:24,000] So you think
+- [00:16:24,000 - 00:16:25,000] that this is a defense,
+- [00:16:25,000 - 00:16:27,000] this defense of private property
+- [00:16:27,000 - 00:16:28,000] in land?
+- [00:16:28,000 - 00:16:29,000] Yes, because it complicates
+- [00:16:29,000 - 00:16:31,000] original acquisition
+- [00:16:31,000 - 00:16:32,000] if you only cite
+- [00:16:32,000 - 00:16:34,000] the arrival of foreigners
+- [00:16:34,000 - 00:16:35,000] that cultivated the land.
+- [00:16:35,000 - 00:16:36,000] I see.
+- [00:16:36,000 - 00:16:37,000] And what's your name?
+- [00:16:37,000 - 00:16:38,000] Rochelle.
+- [00:16:38,000 - 00:16:39,000] Rochelle?
+- [00:16:39,000 - 00:16:40,000] Yeah.
+- [00:16:40,000 - 00:16:41,000] Rochelle says,
+- [00:16:41,000 - 00:16:44,000] this account of how property arises
+- [00:16:44,000 - 00:16:47,000] would fit what was going on
+- [00:16:47,000 - 00:16:49,000] in North America
+- [00:16:49,000 - 00:16:55,000] during the time of the European settlement.
+- [00:16:55,000 - 00:16:58,000] Do you think, Rochelle,
+- [00:16:58,000 - 00:17:01,000] that it's a way of defending
+- [00:17:01,000 - 00:17:04,000] the appropriation of the land?
+- [00:17:04,000 - 00:17:06,000] Indeed, because he's also
+- [00:17:06,000 - 00:17:10,000] justifying the Glorious Revolution,
+- [00:17:10,000 - 00:17:11,000] so I don't think it's inconceivable
+- [00:17:11,000 - 00:17:14,000] that he's also justifying colonization.
+- [00:17:14,000 - 00:17:17,000] Well, that's an interesting
+- [00:17:17,000 - 00:17:19,000] historical suggestion,
+- [00:17:19,000 - 00:17:20,000] and I think there's a lot
+- [00:17:20,000 - 00:17:22,000] to be said for it.
+- [00:17:22,000 - 00:17:24,000] What do you think of the validity
+- [00:17:24,000 - 00:17:26,000] of his argument, though?
+- [00:17:26,000 - 00:17:28,000] Because if you're right
+- [00:17:28,000 - 00:17:29,000] that this would justify
+- [00:17:29,000 - 00:17:32,000] the taking of land in North America
+- [00:17:32,000 - 00:17:34,000] from Native Americans
+- [00:17:34,000 - 00:17:37,000] who didn't enclose it,
+- [00:17:37,000 - 00:17:39,000] if it's a good argument,
+- [00:17:39,000 - 00:17:40,000] then Locke's given us
+- [00:17:40,000 - 00:17:41,000] a justification for that.
+- [00:17:41,000 - 00:17:43,000] If it's a bad argument,
+- [00:17:43,000 - 00:17:46,000] then Locke's given us
+- [00:17:46,000 - 00:17:48,000] a mere rationalization
+- [00:17:48,000 - 00:17:52,000] that isn't morally defensible.
+- [00:17:52,000 - 00:17:54,000] I'm leaning to the second one.
+- [00:17:54,000 - 00:17:55,000] You're leaning toward the second.
+- [00:17:55,000 - 00:17:57,000] But that's my opinion as well.
+- [00:17:57,000 - 00:17:58,000] All right, well then,
+- [00:17:58,000 - 00:18:02,000] let's hear if there's a defender
+- [00:18:02,000 - 00:18:05,000] of Locke's account of private property,
+- [00:18:05,000 - 00:18:06,000] and it would be interesting
+- [00:18:06,000 - 00:18:10,000] if they could address Rochelle's worry
+- [00:18:10,000 - 00:18:11,000] that this is just a way
+- [00:18:11,000 - 00:18:13,000] of defending the,
+- [00:18:13,000 - 00:18:14,000] of appropriation of land
+- [00:18:14,000 - 00:18:16,000] by the American colonists
+- [00:18:16,000 - 00:18:18,000] from the Native Americans
+- [00:18:18,000 - 00:18:19,000] who didn't enclose it.
+- [00:18:19,000 - 00:18:22,000] Is there someone who will defend Locke
+- [00:18:22,000 - 00:18:24,000] on that point?
+- [00:18:27,000 - 00:18:28,000] You ready?
+- [00:18:28,000 - 00:18:29,000] Are you going to defend Locke?
+- [00:18:29,000 - 00:18:31,000] You're accusing him of justifying
+- [00:18:31,000 - 00:18:33,000] the European, basically, massacre
+- [00:18:33,000 - 00:18:34,000] of the Native Americans.
+- [00:18:34,000 - 00:18:36,000] But who says he's defending it?
+- [00:18:36,000 - 00:18:39,000] Maybe the European colonization isn't right.
+- [00:18:39,000 - 00:18:41,000] You know, maybe it's the state of war
+- [00:18:41,000 - 00:18:42,000] that he talked about
+- [00:18:42,000 - 00:18:45,000] in his second treatise, you know?
+- [00:18:45,000 - 00:18:48,000] So the wars between the Native Americans
+- [00:18:48,000 - 00:18:53,000] and the colonists, the settlers,
+- [00:18:53,000 - 00:18:56,000] that might have been the state of war
+- [00:18:56,000 - 00:18:58,000] that we can only emerge from
+- [00:18:58,000 - 00:19:01,000] by an agreement or an act of consent,
+- [00:19:01,000 - 00:19:03,000] and that's what would have been required
+- [00:19:03,000 - 00:19:04,000] fairly to resolve it.
+- [00:19:04,000 - 00:19:05,000] Yeah, and both sides would
+- [00:19:05,000 - 00:19:06,000] have had to agree to it
+- [00:19:06,000 - 00:19:08,000] and carry it out and everything.
+- [00:19:08,000 - 00:19:10,000] But what about, and what's your name?
+- [00:19:10,000 - 00:19:11,000] Dan.
+- [00:19:11,000 - 00:19:14,000] Dan, what about, Rochelle says,
+- [00:19:14,000 - 00:19:19,000] this argument in Section 27 and then in 32
+- [00:19:19,000 - 00:19:23,000] about appropriating land,
+- [00:19:23,000 - 00:19:25,000] that argument, if it's valid,
+- [00:19:25,000 - 00:19:29,000] would justify the settlers appropriating that land
+- [00:19:29,000 - 00:19:32,000] and excluding others from it.
+- [00:19:32,000 - 00:19:34,000] Do you think that argument's a good argument?
+- [00:19:34,000 - 00:19:36,000] Well, doesn't it kind of imply
+- [00:19:36,000 - 00:19:39,000] that the Native Americans hadn't already done that?
+- [00:19:41,000 - 00:19:44,000] Well, the Native Americans, as hunter-gatherers,
+- [00:19:44,000 - 00:19:47,000] didn't actually enclose, enclose land.
+- [00:19:47,000 - 00:19:51,000] So I think Rochelle is onto something there.
+- [00:19:51,000 - 00:19:53,000] What I want to, I'd like to...
+- [00:19:53,000 - 00:19:54,000] Go ahead, Dan.
+- [00:19:54,000 - 00:19:56,000] At the same time, he's saying that
+- [00:19:56,000 - 00:19:58,000] just by picking an acorn or taking an apple
+- [00:19:58,000 - 00:19:59,500] or maybe killing a buffalo
+- [00:19:59,500 - 00:20:01,000] on a certain amount of land,
+- [00:20:01,000 - 00:20:03,000] that makes it yours because it's your labor
+- [00:20:03,000 - 00:20:05,000] and that's, you know, your labor
+- [00:20:05,000 - 00:20:06,000] would enclose that land.
+- [00:20:06,000 - 00:20:08,000] So by that definition,
+- [00:20:08,000 - 00:20:10,000] maybe they didn't have fences around,
+- [00:20:10,000 - 00:20:12,000] around little plots of land but didn't...
+- [00:20:12,000 - 00:20:13,000] They were using it.
+- [00:20:13,000 - 00:20:15,000] Yeah, by Locke's definition.
+- [00:20:15,000 - 00:20:16,000] So maybe by Locke's definition,
+- [00:20:16,000 - 00:20:19,000] the Native Americans could have claimed their property right
+- [00:20:19,000 - 00:20:20,000] in the land itself.
+- [00:20:20,000 - 00:20:23,000] But they just didn't have Locke on their side,
+- [00:20:23,000 - 00:20:24,000] as she points out.
+- [00:20:24,000 - 00:20:26,000] Okay, that's good.
+- [00:20:26,000 - 00:20:28,000] One more defender of Locke.
+- [00:20:28,000 - 00:20:30,000] Go ahead.
+- [00:20:30,000 - 00:20:32,000] Well, I mean, just to defend Locke,
+- [00:20:32,000 - 00:20:34,000] he does say that there are some,
+- [00:20:34,000 - 00:20:37,000] sometimes in which you can't take another person's land.
+- [00:20:37,000 - 00:20:39,000] For example, you can't acquire land
+- [00:20:39,000 - 00:20:40,000] that,
+- [00:20:40,000 - 00:20:41,000] that is common property.
+- [00:20:41,000 - 00:20:42,000] See, people in,
+- [00:20:42,000 - 00:20:43,000] in terms of American Indians,
+- [00:20:43,000 - 00:20:45,000] I feel like they already have civilizations themselves
+- [00:20:45,000 - 00:20:47,000] and they were using land in common.
+- [00:20:47,000 - 00:20:48,000] So it's kind of like what,
+- [00:20:48,000 - 00:20:50,000] an analogy to what he was talking about with like,
+- [00:20:50,000 - 00:20:52,000] the common English property.
+- [00:20:52,000 - 00:20:55,000] You can't take land that everybody's sharing in common.
+- [00:20:55,000 - 00:20:56,000] Oh, that's interesting.
+- [00:20:56,000 - 00:20:57,000] And also you can't,
+- [00:20:57,000 - 00:21:00,000] you can't take land unless you make sure that there's
+- [00:21:00,000 - 00:21:01,500] as much land as possible left
+- [00:21:01,500 - 00:21:03,000] for other people to take as well.
+- [00:21:03,000 - 00:21:05,000] So if you're taking common,
+- [00:21:05,000 - 00:21:06,500] so you have to make
+- [00:21:06,500 - 00:21:08,000] sure that whenever you take land
+- [00:21:08,000 - 00:21:09,000] or that there's enough land,
+- [00:21:09,000 - 00:21:11,000] that there's enough left for other people to use.
+- [00:21:11,000 - 00:21:13,000] That's just as good as the land that you took.
+- [00:21:13,000 - 00:21:14,000] So.
+- [00:21:14,000 - 00:21:15,000] That's, it's, it's true.
+- [00:21:15,000 - 00:21:17,000] Locke says there has to be this
+- [00:21:17,000 - 00:21:19,000] right to private property in the earth
+- [00:21:19,000 - 00:21:22,000] is subject to the provision that there be as much
+- [00:21:22,000 - 00:21:24,000] and as good left for others.
+- [00:21:24,000 - 00:21:25,000] What's your name?
+- [00:21:25,000 - 00:21:26,000] Right.
+- [00:21:26,000 - 00:21:27,000] I'm Fang.
+- [00:21:27,000 - 00:21:29,000] So Fang in a way agrees with Dan
+- [00:21:29,000 - 00:21:31,000] that maybe there is a claim within Locke's framework
+- [00:21:31,000 - 00:21:35,000] that could be developed on behalf of the Native Americans.
+- [00:21:35,000 - 00:21:39,000] Here's the further question.
+- [00:21:39,000 - 00:21:45,000] If the right to private property is natural,
+- [00:21:45,000 - 00:21:47,000] not conventional,
+- [00:21:47,000 - 00:21:50,000] if it's something that we acquire
+- [00:21:50,000 - 00:21:53,000] even before we agree to government,
+- [00:21:53,000 - 00:21:56,000] how does that right constrain
+- [00:21:56,000 - 00:21:59,000] what a legitimate government can do?
+- [00:21:59,000 - 00:22:03,000] In order for us to be able to do that,
+- [00:22:03,000 - 00:22:08,000] in order finally to see whether is,
+- [00:22:08,000 - 00:22:13,000] whether Locke is an ally or potentially a critic
+- [00:22:13,000 - 00:22:17,000] of the libertarian idea of the state,
+- [00:22:17,000 - 00:22:20,000] we have to ask what becomes of our natural rights
+- [00:22:20,000 - 00:22:23,000] once we enter into society.
+- [00:22:23,000 - 00:22:24,500] We know that the way we
+- [00:22:24,500 - 00:22:26,000] enter into society is by consent,
+- [00:22:26,000 - 00:22:28,000] by agreement.
+- [00:22:28,000 - 00:22:30,000] To leave the state of nature
+- [00:22:30,000 - 00:22:32,000] and to be governed by the majority.
+- [00:22:32,000 - 00:22:33,000] And by consent.
+- [00:22:33,000 - 00:22:34,000] And by a system of laws.
+- [00:22:34,000 - 00:22:36,000] Human laws.
+- [00:22:36,000 - 00:22:40,000] But those human laws
+- [00:22:40,000 - 00:22:43,000] are only legitimate
+- [00:22:43,000 - 00:22:47,000] if they respect our natural rights.
+- [00:22:47,000 - 00:22:50,000] If they respect our unalienable rights
+- [00:22:50,000 - 00:22:54,000] to life, liberty, and property.
+- [00:22:54,000 - 00:22:57,000] No parliament,
+- [00:22:57,000 - 00:22:59,000] no legislature,
+- [00:22:59,000 - 00:23:02,000] however democratic its credentials,
+- [00:23:02,000 - 00:23:09,000] can legitimately violate our natural rights.
+- [00:23:09,000 - 00:23:12,000] This idea
+- [00:23:12,000 - 00:23:15,000] that no law can violate our right
+- [00:23:15,000 - 00:23:18,000] to life, liberty, and property would seem
+- [00:23:18,000 - 00:23:24,000] to support the idea of a government so limited
+- [00:23:24,000 - 00:23:26,500] that it would gladden the
+- [00:23:26,500 - 00:23:29,000] heart of the libertarian after all.
+- [00:23:29,000 - 00:23:31,000] But
+- [00:23:31,000 - 00:23:35,000] those hearts should not be so quickly gladdened.
+- [00:23:35,000 - 00:23:37,000] Because even though
+- [00:23:37,000 - 00:23:39,000] for Locke,
+- [00:23:39,000 - 00:23:41,000] the law of nature persists
+- [00:23:41,000 - 00:23:44,000] once government arrives,
+- [00:23:44,000 - 00:23:48,000] even though Locke insists on limited government,
+- [00:23:48,000 - 00:23:52,000] government limited by the end for which it was created,
+- [00:23:52,000 - 00:23:54,000] namely the preservation of property,
+- [00:23:54,000 - 00:23:55,000] even so,
+- [00:23:55,000 - 00:23:57,000] there's an important sense
+- [00:23:57,000 - 00:24:00,000] in which what counts as my property
+- [00:24:00,000 - 00:24:07,000] what counts as respecting my life and liberty
+- [00:24:07,000 - 00:24:12,000] are for the government to define.
+- [00:24:12,000 - 00:24:17,000] That there be property,
+- [00:24:17,000 - 00:24:19,000] that there be respect
+- [00:24:19,000 - 00:24:22,000] for life and liberty
+- [00:24:22,000 - 00:24:26,000] is what limits government.
+- [00:24:26,000 - 00:24:28,000] But what counts
+- [00:24:28,000 - 00:24:33,000] as respecting my life
+- [00:24:33,000 - 00:24:36,000] and respecting my property,
+- [00:24:36,000 - 00:24:39,000] that is for governments
+- [00:24:39,000 - 00:24:42,000] to decide and to define.
+- [00:24:42,000 - 00:24:45,000] How can that be?
+- [00:24:45,000 - 00:24:48,000] Is Locke contradicting himself?
+- [00:24:48,000 - 00:24:52,000] Or is there an important distinction here?
+- [00:24:52,000 - 00:24:55,000] In order to answer that question,
+- [00:24:55,000 - 00:24:57,000] which will decide Locke's fit with the law,
+- [00:24:57,000 - 00:25:00,000] Locke's fit with the libertarian view,
+- [00:25:00,000 - 00:25:02,000] we need to look closely
+- [00:25:02,000 - 00:25:05,000] at what legitimate government looks like for Locke,
+- [00:25:05,000 - 00:25:07,000] and we turn to that next time.
+- [00:25:14,000 - 00:25:18,000] Nikolai, if you didn't think you'd get caught,
+- [00:25:18,000 - 00:25:21,000] would you pay your taxes?
+- [00:25:21,000 - 00:25:25,000] Um, I don't think so.
+- [00:25:25,000 - 00:25:26,000] I would,
+- [00:25:26,000 - 00:25:29,000] I would rather have a system, personally,
+- [00:25:29,000 - 00:25:31,000] that I would, that I could give money
+- [00:25:31,000 - 00:25:34,000] to exactly those sections of the government
+- [00:25:34,000 - 00:25:35,000] that I support,
+- [00:25:35,000 - 00:25:38,000] and not just blanket support everything.
+- [00:25:38,000 - 00:25:40,000] You'd rather be in the state of nature,
+- [00:25:40,000 - 00:25:42,000] at least on April 15th.
+- [00:25:49,000 - 00:25:52,000] Last time,
+- [00:25:52,000 - 00:25:54,000] we began
+- [00:25:54,000 - 00:25:57,000] to discuss Locke's state of nature,
+- [00:25:57,000 - 00:26:00,000] his account of private property,
+- [00:26:00,000 - 00:26:05,000] his theory of legitimate government,
+- [00:26:05,000 - 00:26:07,000] which is government based on consent
+- [00:26:07,000 - 00:26:10,000] and also limited government.
+- [00:26:10,000 - 00:26:14,000] Locke believes in certain fundamental rights
+- [00:26:14,000 - 00:26:17,000] that constrain what government can do,
+- [00:26:17,000 - 00:26:21,000] and he believes that those rights are natural rights,
+- [00:26:21,000 - 00:26:23,000] not rights that flow from law.
+- [00:26:23,000 - 00:26:25,000] Or from government.
+- [00:26:25,000 - 00:26:28,000] And so Locke's great
+- [00:26:28,000 - 00:26:32,000] philosophical experiment is to see
+- [00:26:32,000 - 00:26:34,000] if he can give an account
+- [00:26:34,000 - 00:26:36,000] of how there could be
+- [00:26:36,000 - 00:26:38,000] a right to private property
+- [00:26:38,000 - 00:26:40,000] without consent
+- [00:26:40,000 - 00:26:43,000] before government
+- [00:26:43,000 - 00:26:45,000] and legislators arrive on the scene
+- [00:26:45,000 - 00:26:47,000] to define property.
+- [00:26:47,000 - 00:26:49,000] That's his question.
+- [00:26:49,000 - 00:26:50,000] That's his claim.
+- [00:26:50,000 - 00:26:52,000] There is a way, Locke argues,
+- [00:26:52,000 - 00:26:54,000] to create property,
+- [00:26:54,000 - 00:26:57,000] not just in the things we gather and hunt,
+- [00:26:57,000 - 00:26:59,000] but in the land itself.
+- [00:26:59,000 - 00:27:01,000] Provided there is enough
+- [00:27:01,000 - 00:27:04,000] and is good luck for others.
+- [00:27:04,000 - 00:27:07,000] Today I want to turn to the question
+- [00:27:07,000 - 00:27:08,000] of consent,
+- [00:27:08,000 - 00:27:11,000] which is Locke's second big idea.
+- [00:27:11,000 - 00:27:13,000] Private property is one,
+- [00:27:13,000 - 00:27:15,000] consent is the other.
+- [00:27:18,000 - 00:27:21,000] What is the work of consent?
+- [00:27:21,000 - 00:27:25,000] People here have been invoking
+- [00:27:25,000 - 00:27:28,000] the idea of consent since we began,
+- [00:27:28,000 - 00:27:30,000] since the first week.
+- [00:27:30,000 - 00:27:32,000] You remember when we were talking about
+- [00:27:32,000 - 00:27:34,000] pushing the fat man off the bridge,
+- [00:27:34,000 - 00:27:35,000] someone said,
+- [00:27:35,000 - 00:27:38,000] but he didn't agree to sacrifice himself.
+- [00:27:38,000 - 00:27:41,000] It would be different if he consented.
+- [00:27:41,000 - 00:27:45,000] Or when we were talking about the cabin boy,
+- [00:27:45,000 - 00:27:48,000] killing and eating the cabin boy.
+- [00:27:48,000 - 00:27:49,000] Some people said,
+- [00:27:49,000 - 00:27:50,000] well,
+- [00:27:50,000 - 00:27:52,000] if they had consented to a lottery,
+- [00:27:52,000 - 00:27:53,000] it would be different,
+- [00:27:53,000 - 00:27:55,000] then it would be all right.
+- [00:27:55,000 - 00:27:57,000] So consent has come up a lot,
+- [00:27:57,000 - 00:27:59,000] and here in John Locke,
+- [00:27:59,000 - 00:28:04,000] we have one of the great philosophers of consent.
+- [00:28:04,000 - 00:28:08,000] Consent is an obvious, familiar idea
+- [00:28:08,000 - 00:28:10,000] in moral and political philosophy.
+- [00:28:10,000 - 00:28:13,000] Locke says that legitimate government
+- [00:28:13,000 - 00:28:15,000] is government founded on consent,
+- [00:28:15,000 - 00:28:18,000] and who nowadays would disagree with him?
+- [00:28:18,000 - 00:28:22,000] Sometimes when the ideas of political philosophers
+- [00:28:22,000 - 00:28:27,000] are as familiar as Locke's ideas about consent,
+- [00:28:27,000 - 00:28:29,000] it's hard to make sense of them,
+- [00:28:29,000 - 00:28:32,000] or at least to find them very interesting.
+- [00:28:32,000 - 00:28:34,000] But there are some puzzles,
+- [00:28:34,000 - 00:28:36,000] some strange features
+- [00:28:36,000 - 00:28:39,000] of Locke's account of consent
+- [00:28:39,000 - 00:28:42,000] as the basis of legitimate government,
+- [00:28:42,000 - 00:28:45,000] and that's what I'd like to take up today.
+- [00:28:45,000 - 00:28:47,000] One way to look at it,
+- [00:28:47,000 - 00:28:51,000] one way of testing
+- [00:28:51,000 - 00:28:54,000] the plausibility of Locke's idea of consent,
+- [00:28:54,000 - 00:28:59,000] and also of probing some of its perplexities,
+- [00:28:59,000 - 00:29:04,000] is to ask just what a legitimate government
+- [00:29:04,000 - 00:29:07,000] founded on consent can do,
+- [00:29:07,000 - 00:29:11,000] what are its powers according to Locke?
+- [00:29:11,000 - 00:29:14,000] Well, in order to answer that question,
+- [00:29:14,000 - 00:29:17,000] it helps to,
+- [00:29:17,000 - 00:29:20,000] remember what the state of nature is like.
+- [00:29:20,000 - 00:29:22,000] Remember, the state of nature
+- [00:29:22,000 - 00:29:26,000] is the condition that we decide to leave,
+- [00:29:26,000 - 00:29:30,000] and that's what gives rise to consent.
+- [00:29:30,000 - 00:29:32,000] Why not stay there?
+- [00:29:32,000 - 00:29:35,000] Why bother with government at all?
+- [00:29:35,000 - 00:29:38,000] Well, what's Locke's answer to that question?
+- [00:29:38,000 - 00:29:41,000] He says there are some inconveniences
+- [00:29:41,000 - 00:29:42,000] in the state of nature,
+- [00:29:42,000 - 00:29:45,000] but what are those inconveniences?
+- [00:29:45,000 - 00:29:46,000] The main inconvenience
+- [00:29:46,000 - 00:29:50,000] is that everyone
+- [00:29:50,000 - 00:29:54,000] can enforce the law of nature.
+- [00:29:54,000 - 00:29:56,000] Everyone is an enforcer,
+- [00:29:56,000 - 00:29:59,000] or what Locke calls the executor
+- [00:29:59,000 - 00:30:02,000] of the state of nature.
+- [00:30:02,000 - 00:30:06,000] And he means executor literally.
+- [00:30:06,000 - 00:30:10,000] If someone violates the law of nature,
+- [00:30:10,000 - 00:30:13,000] he's an aggressor,
+- [00:30:13,000 - 00:30:16,000] he's beyond reason,
+- [00:30:16,000 - 00:30:20,000] and you can punish him.
+- [00:30:20,000 - 00:30:23,000] And you don't have to be too careful or fine
+- [00:30:23,000 - 00:30:25,000] about gradations of punishment
+- [00:30:25,000 - 00:30:26,000] in the state of nature.
+- [00:30:26,000 - 00:30:28,000] You can kill him.
+- [00:30:28,000 - 00:30:29,000] You can certainly kill someone
+- [00:30:29,000 - 00:30:33,000] who comes after you,
+- [00:30:33,000 - 00:30:35,000] tries to murder you.
+- [00:30:35,000 - 00:30:37,000] That's self-defense.
+- [00:30:37,000 - 00:30:38,000] But the enforcement power,
+- [00:30:38,000 - 00:30:39,000] the right to punish,
+- [00:30:39,000 - 00:30:41,000] everyone can do the punishing
+- [00:30:41,000 - 00:30:43,000] in the state of nature.
+- [00:30:43,000 - 00:30:45,000] And not only can you punish with death
+- [00:30:45,000 - 00:30:48,000] people who come after you,
+- [00:30:48,000 - 00:30:51,000] seeking to take your life,
+- [00:30:51,000 - 00:30:53,000] you can also punish a thief
+- [00:30:53,000 - 00:30:55,000] who tries to steal your goods,
+- [00:30:55,000 - 00:30:58,000] because that also counts as aggression
+- [00:30:58,000 - 00:31:01,000] against the law of nature.
+- [00:31:01,000 - 00:31:03,000] If someone has stolen
+- [00:31:03,000 - 00:31:05,000] from a third party,
+- [00:31:05,000 - 00:31:07,000] you can go after him.
+- [00:31:07,000 - 00:31:09,000] Why is this?
+- [00:31:09,000 - 00:31:11,000] Well, violations of the law of nature
+- [00:31:11,000 - 00:31:14,000] are an act of aggression.
+- [00:31:14,000 - 00:31:15,000] There is no police force,
+- [00:31:15,000 - 00:31:16,000] there are no judges,
+- [00:31:16,000 - 00:31:18,000] no juries.
+- [00:31:18,000 - 00:31:20,000] So everyone is the judge
+- [00:31:20,000 - 00:31:24,000] in his or her own case.
+- [00:31:24,000 - 00:31:26,000] And Locke observes that
+- [00:31:26,000 - 00:31:27,000] when people are the judges
+- [00:31:27,000 - 00:31:28,000] of their own cases,
+- [00:31:28,000 - 00:31:32,000] they tend to get carried away.
+- [00:31:32,000 - 00:31:35,000] And this gives rise to the inconvenience
+- [00:31:35,000 - 00:31:38,000] in the state of nature.
+- [00:31:38,000 - 00:31:40,000] People overshoot the mark.
+- [00:31:40,000 - 00:31:41,000] There's aggression.
+- [00:31:41,000 - 00:31:44,000] There's punishment.
+- [00:31:44,000 - 00:31:45,000] And before you know it,
+- [00:31:45,000 - 00:31:47,000] everybody is insecure
+- [00:31:47,000 - 00:31:50,000] in the enjoyment
+- [00:31:50,000 - 00:31:52,000] of his or her unalienable rights
+- [00:31:52,000 - 00:31:56,000] to life, liberty, and property.
+- [00:31:56,000 - 00:31:58,000] Now he describes in pretty harsh
+- [00:31:58,000 - 00:32:02,000] and even grim terms
+- [00:32:02,000 - 00:32:04,000] what you can do to people
+- [00:32:04,000 - 00:32:07,000] who violate the law of nature.
+- [00:32:07,000 - 00:32:09,000] One may destroy a man
+- [00:32:09,000 - 00:32:11,000] who makes war upon him
+- [00:32:11,000 - 00:32:12,000] for the same reason
+- [00:32:12,000 - 00:32:14,000] that he may kill a wolf
+- [00:32:14,000 - 00:32:16,000] or a lion.
+- [00:32:16,000 - 00:32:18,000] Such men have no other rule
+- [00:32:18,000 - 00:32:20,000] but that of force and violence.
+- [00:32:20,000 - 00:32:21,000] Listen to this.
+- [00:32:21,000 - 00:32:23,000] And so may be treated
+- [00:32:23,000 - 00:32:25,000] as beasts of prey
+- [00:32:25,000 - 00:32:29,000] those dangerous and noxious creatures
+- [00:32:29,000 - 00:32:31,000] that will be sure to destroy you
+- [00:32:31,000 - 00:32:33,000] if you fall into their power.
+- [00:32:33,000 - 00:32:36,000] So kill them first.
+- [00:32:36,000 - 00:32:39,000] So what starts out
+- [00:32:39,000 - 00:32:42,000] as a seemingly benign
+- [00:32:42,000 - 00:32:44,000] state of nature
+- [00:32:44,000 - 00:32:45,000] where everyone's free
+- [00:32:45,000 - 00:32:47,000] and yet where there is a law
+- [00:32:47,000 - 00:32:49,000] and the law respects people's rights
+- [00:32:49,000 - 00:32:51,000] and those rights are so powerful
+- [00:32:51,000 - 00:32:52,000] that they're unalienable,
+- [00:32:52,000 - 00:32:54,000] what starts out
+- [00:32:54,000 - 00:32:57,000] looking very benign
+- [00:32:57,000 - 00:32:59,000] once you look closer
+- [00:32:59,000 - 00:33:01,000] is pretty fierce
+- [00:33:01,000 - 00:33:03,000] and filled with violence
+- [00:33:03,000 - 00:33:07,000] and that's why people want to leave.
+- [00:33:07,000 - 00:33:09,000] How do they leave?
+- [00:33:09,000 - 00:33:12,000] Well, here's where consent comes in.
+- [00:33:12,000 - 00:33:14,000] The only way to escape
+- [00:33:14,000 - 00:33:16,000] from the state of nature
+- [00:33:16,000 - 00:33:20,000] is to undertake
+- [00:33:20,000 - 00:33:23,000] an act of consent
+- [00:33:23,000 - 00:33:25,000] where you agree
+- [00:33:25,000 - 00:33:29,000] to give up the enforcement power
+- [00:33:29,000 - 00:33:32,000] and to create a government
+- [00:33:32,000 - 00:33:34,000] or a community
+- [00:33:34,000 - 00:33:36,000] where there will be
+- [00:33:36,000 - 00:33:38,000] a legislature
+- [00:33:38,000 - 00:33:40,000] to make law
+- [00:33:40,000 - 00:33:42,000] and where everyone
+- [00:33:42,000 - 00:33:44,000] agrees in advance,
+- [00:33:44,000 - 00:33:46,000] everyone who enters,
+- [00:33:46,000 - 00:33:47,000] agrees in advance
+- [00:33:47,000 - 00:33:49,000] to abide by whatever
+- [00:33:49,000 - 00:33:51,000] the majority decides.
+- [00:33:51,000 - 00:33:52,000] But then the question,
+- [00:33:52,000 - 00:33:53,000] and this is our question
+- [00:33:53,000 - 00:33:54,000] and here's where I want
+- [00:33:54,000 - 00:33:55,000] to get your views,
+- [00:33:55,000 - 00:33:56,000] then the question is
+- [00:33:56,000 - 00:33:59,000] what powers,
+- [00:33:59,000 - 00:34:02,000] what can the majority decide?
+- [00:34:02,000 - 00:34:04,000] Now here it gets tricky
+- [00:34:04,000 - 00:34:06,000] for Locke
+- [00:34:06,000 - 00:34:07,000] because you remember
+- [00:34:07,000 - 00:34:08,000] alongside the whole story
+- [00:34:08,000 - 00:34:09,000] about consent
+- [00:34:09,000 - 00:34:11,000] and majority rule
+- [00:34:11,000 - 00:34:14,000] there are these natural rights,
+- [00:34:14,000 - 00:34:15,000] the law of nature,
+- [00:34:15,000 - 00:34:17,000] these unalienable rights
+- [00:34:17,000 - 00:34:18,000] and you remember
+- [00:34:18,000 - 00:34:20,000] they don't disappear
+- [00:34:20,000 - 00:34:22,000] when people
+- [00:34:22,000 - 00:34:23,000] join together
+- [00:34:23,000 - 00:34:26,000] to create a civil society.
+- [00:34:26,000 - 00:34:29,000] So even once the majority is in charge
+- [00:34:29,000 - 00:34:32,000] the majority can't violate
+- [00:34:32,000 - 00:34:36,000] your inalienable rights,
+- [00:34:36,000 - 00:34:38,000] can't violate your fundamental right
+- [00:34:38,000 - 00:34:40,000] to life, liberty and property.
+- [00:34:41,000 - 00:34:45,000] So here's the puzzle.
+- [00:34:45,000 - 00:34:46,000] How much power
+- [00:34:46,000 - 00:34:48,000] does the majority have?
+- [00:34:48,000 - 00:34:50,000] How limited is the government
+- [00:34:50,000 - 00:34:55,000] created by consent?
+- [00:34:55,000 - 00:34:57,000] It's limited by
+- [00:34:57,000 - 00:35:00,000] the obligation
+- [00:35:00,000 - 00:35:01,000] on the part of the majority
+- [00:35:01,000 - 00:35:02,000] to respect
+- [00:35:02,000 - 00:35:06,000] and to enforce
+- [00:35:06,000 - 00:35:08,000] the fundamental natural rights
+- [00:35:08,000 - 00:35:09,000] of the citizens.
+- [00:35:09,000 - 00:35:10,000] They don't give those up,
+- [00:35:10,000 - 00:35:11,000] we don't give those up
+- [00:35:11,000 - 00:35:13,000] when we enter government.
+- [00:35:13,000 - 00:35:14,000] That's this powerful idea
+- [00:35:14,000 - 00:35:17,000] taken over from Locke
+- [00:35:17,000 - 00:35:18,000] by Jefferson
+- [00:35:18,000 - 00:35:22,000] in the Declaration.
+- [00:35:22,000 - 00:35:24,000] Unalienable rights.
+- [00:35:24,000 - 00:35:27,000] So let's go to our two cases.
+- [00:35:27,000 - 00:35:28,000] Remember Michael Jordan,
+- [00:35:28,000 - 00:35:29,000] Bill Gates,
+- [00:35:29,000 - 00:35:31,000] the libertarian objection
+- [00:35:31,000 - 00:35:33,000] to taxation for redistribution.
+- [00:35:33,000 - 00:35:34,000] Well what about
+- [00:35:34,000 - 00:35:36,000] Locke's limited government?
+- [00:35:36,000 - 00:35:37,000] Is there anyone who thinks
+- [00:35:37,000 - 00:35:40,000] that Locke
+- [00:35:40,000 - 00:35:43,000] does give grounds
+- [00:35:43,000 - 00:35:46,000] for opposing taxation
+- [00:35:46,000 - 00:35:50,000] for redistribution?
+- [00:35:50,000 - 00:35:52,000] Anybody?
+- [00:35:52,000 - 00:35:54,000] Go ahead.
+- [00:35:54,000 - 00:35:55,000] If you,
+- [00:35:55,000 - 00:35:56,000] if the majority rules
+- [00:35:56,000 - 00:35:58,000] that there should be taxation,
+- [00:35:58,000 - 00:36:00,000] even if the minority
+- [00:36:00,000 - 00:36:02,000] should still not have to be taxed
+- [00:36:02,000 - 00:36:04,000] because that's taking away property
+- [00:36:04,000 - 00:36:08,000] which is one of the rights of nature.
+- [00:36:08,000 - 00:36:10,000] Alright, so,
+- [00:36:10,000 - 00:36:12,000] and what's your name?
+- [00:36:12,000 - 00:36:13,000] Ben.
+- [00:36:13,000 - 00:36:14,000] Ben.
+- [00:36:14,000 - 00:36:15,000] So,
+- [00:36:15,000 - 00:36:17,000] if the majority taxed,
+- [00:36:17,000 - 00:36:22,000] taxes the minority,
+- [00:36:22,000 - 00:36:24,000] without the consent of the minority
+- [00:36:24,000 - 00:36:27,000] to that particular tax law,
+- [00:36:27,000 - 00:36:29,000] it does amount to a taking
+- [00:36:29,000 - 00:36:30,000] of their property
+- [00:36:30,000 - 00:36:32,000] without their consent
+- [00:36:32,000 - 00:36:34,000] and it would seem that
+- [00:36:34,000 - 00:36:37,000] Locke should object to that.
+- [00:36:37,000 - 00:36:39,000] You're not going to object to that?
+- [00:36:39,000 - 00:36:41,000] Do you want some textual support
+- [00:36:41,000 - 00:36:42,000] for your view,
+- [00:36:42,000 - 00:36:44,000] for your reading of Locke, Ben?
+- [00:36:44,000 - 00:36:45,000] Alright.
+- [00:36:45,000 - 00:36:47,000] I brought some along
+- [00:36:47,000 - 00:36:49,000] just in case you raised it.
+- [00:36:52,000 - 00:36:53,000] If you've got,
+- [00:36:53,000 - 00:36:54,000] if you have your texts,
+- [00:36:54,000 - 00:36:55,000] look at 138,
+- [00:36:55,000 - 00:36:57,000] passage 138.
+- [00:36:57,000 - 00:36:59,000] The supreme power,
+- [00:36:59,000 - 00:37:01,000] by which Locke means the legislature,
+- [00:37:01,000 - 00:37:02,000] cannot take from any man
+- [00:37:02,000 - 00:37:04,000] any part of his property
+- [00:37:04,000 - 00:37:06,000] without his own consent.
+- [00:37:06,000 - 00:37:08,000] For the preservation of property
+- [00:37:08,000 - 00:37:10,000] being the end of government,
+- [00:37:10,000 - 00:37:12,000] and that for which men enter into society,
+- [00:37:12,000 - 00:37:15,000] it necessarily supposes and requires
+- [00:37:15,000 - 00:37:17,000] that people should have property.
+- [00:37:17,000 - 00:37:18,000] That was the whole reason
+- [00:37:18,000 - 00:37:20,000] for entering society in the first place,
+- [00:37:20,000 - 00:37:21,000] to protect the right to property.
+- [00:37:21,000 - 00:37:23,000] And when Locke speaks about
+- [00:37:23,000 - 00:37:24,000] the right to property,
+- [00:37:24,000 - 00:37:26,000] he often uses that
+- [00:37:26,000 - 00:37:28,000] as a kind of global term
+- [00:37:28,000 - 00:37:30,000] for the whole category,
+- [00:37:30,000 - 00:37:32,000] the right to life, liberty, and property.
+- [00:37:34,000 - 00:37:37,000] So, that part of Locke
+- [00:37:37,000 - 00:37:39,000] at beginning of 138
+- [00:37:39,000 - 00:37:42,000] seems to support Ben's reading.
+- [00:37:42,000 - 00:37:45,000] But what about the part of 138
+- [00:37:45,000 - 00:37:48,000] if you keep reading?
+- [00:37:48,000 - 00:37:50,000] Men, therefore, in society,
+- [00:37:50,000 - 00:37:52,000] having property,
+- [00:37:52,000 - 00:37:54,000] they have such a right to the goods
+- [00:37:54,000 - 00:37:57,000] which by the law of the community
+- [00:37:57,000 - 00:37:59,000] are theirs.
+- [00:37:59,000 - 00:38:01,000] Look at this.
+- [00:38:01,000 - 00:38:03,000] And that no one can take from them
+- [00:38:03,000 - 00:38:05,000] without their consent.
+- [00:38:05,000 - 00:38:07,000] And then at the end,
+- [00:38:07,000 - 00:38:09,000] of this passage, he says,
+- [00:38:09,000 - 00:38:11,000] so it's a mistake to think
+- [00:38:11,000 - 00:38:12,000] that the legislative power
+- [00:38:12,000 - 00:38:13,000] can do what it will
+- [00:38:13,000 - 00:38:15,000] and dispose of the estates
+- [00:38:15,000 - 00:38:17,000] of the subject arbitrarily
+- [00:38:17,000 - 00:38:19,000] or take any part of them at pleasure.
+- [00:38:20,000 - 00:38:22,000] Here's what's elusive.
+- [00:38:24,000 - 00:38:26,000] On the one hand, he says,
+- [00:38:26,000 - 00:38:28,000] the government can't take your property
+- [00:38:28,000 - 00:38:29,000] without your consent.
+- [00:38:29,000 - 00:38:30,000] He's clear about that.
+- [00:38:31,000 - 00:38:33,000] But then he goes on to say,
+- [00:38:33,000 - 00:38:35,000] I mean, that's the natural right to property.
+- [00:38:35,000 - 00:38:37,000] But then it seems to me
+- [00:38:37,000 - 00:38:39,000] that property, what counts as property,
+- [00:38:39,000 - 00:38:41,000] is not natural but conventional,
+- [00:38:41,000 - 00:38:43,000] defined by the government.
+- [00:38:45,000 - 00:38:47,000] The goods which by the law
+- [00:38:47,000 - 00:38:50,000] of the community are theirs.
+- [00:38:52,000 - 00:38:53,000] And the plot thickens
+- [00:38:53,000 - 00:38:57,000] if you look ahead to section 140.
+- [00:38:57,000 - 00:38:59,000] In 140, he says,
+- [00:38:59,000 - 00:39:00,000] governments can't be supported
+- [00:39:00,000 - 00:39:01,000] without great charge.
+- [00:39:01,000 - 00:39:03,000] Government is expensive.
+- [00:39:03,000 - 00:39:05,000] And it's fit that everyone
+- [00:39:05,000 - 00:39:06,000] who enjoys his share of the protection
+- [00:39:06,000 - 00:39:08,000] should pay out of his estate.
+- [00:39:10,000 - 00:39:12,000] And then here's the crucial line.
+- [00:39:12,000 - 00:39:15,000] But still it must be with his own consent,
+- [00:39:16,000 - 00:39:18,000] i.e. the consent of the majority,
+- [00:39:19,000 - 00:39:20,000] giving it either by themselves
+- [00:39:20,000 - 00:39:22,000] or through their representatives.
+- [00:39:22,000 - 00:39:25,000] So what is Locke actually saying?
+- [00:39:27,000 - 00:39:30,000] Property is natural in one sense,
+- [00:39:30,000 - 00:39:32,000] but conventional in another.
+- [00:39:32,000 - 00:39:34,000] It's natural in the sense that
+- [00:39:34,000 - 00:39:35,000] we have a fundamental right,
+- [00:39:35,000 - 00:39:38,000] we have a fundamental, unalienable right,
+- [00:39:38,000 - 00:39:40,000] that there be property,
+- [00:39:40,000 - 00:39:42,000] that the institution of property
+- [00:39:42,000 - 00:39:45,000] exist and be respected by the government.
+- [00:39:45,000 - 00:39:48,000] So an arbitrary taking of property
+- [00:39:48,000 - 00:39:52,000] would be a violation of the law of nature
+- [00:39:52,000 - 00:39:55,000] and would be illegitimate.
+- [00:39:55,000 - 00:39:57,000] But it's a further question,
+- [00:39:57,000 - 00:40:00,000] here's the conventional aspect of property,
+- [00:40:00,000 - 00:40:01,000] it's a further question,
+- [00:40:01,000 - 00:40:04,000] what counts as property,
+- [00:40:04,000 - 00:40:06,000] how it's defined,
+- [00:40:06,000 - 00:40:09,000] and what counts as taking property,
+- [00:40:09,000 - 00:40:12,000] and that's up to the government.
+- [00:40:12,000 - 00:40:14,000] So the consent,
+- [00:40:14,000 - 00:40:18,000] here we're coming back to our question,
+- [00:40:18,000 - 00:40:21,000] what is the work of consent?
+- [00:40:21,000 - 00:40:24,000] What it takes for taxation to be legitimate
+- [00:40:24,000 - 00:40:27,000] is that it be by consent,
+- [00:40:27,000 - 00:40:30,000] not the consent of Bill Gates himself
+- [00:40:30,000 - 00:40:32,000] if he's the one who has to pay the tax,
+- [00:40:32,000 - 00:40:36,000] but by the consent that he and we,
+- [00:40:36,000 - 00:40:38,000] all of us within the society gave
+- [00:40:38,000 - 00:40:40,000] when we emerged from the state of nature
+- [00:40:40,000 - 00:40:42,000] and created the government
+- [00:40:42,000 - 00:40:45,000] in the first place.
+- [00:40:45,000 - 00:40:49,000] It's the collective consent.
+- [00:40:49,000 - 00:40:53,000] And by that reading,
+- [00:40:53,000 - 00:40:58,000] it looks like consent is doing a whole lot
+- [00:40:58,000 - 00:41:01,000] and the limited government consent creates
+- [00:41:01,000 - 00:41:06,000] isn't all that limited.
+- [00:41:06,000 - 00:41:08,000] Does anyone want to respond to that
+- [00:41:08,000 - 00:41:11,000] or have a question about that?
+- [00:41:11,000 - 00:41:13,000] Go ahead.
+- [00:41:13,000 - 00:41:15,000] Stand up.
+- [00:41:15,000 - 00:41:18,000] Well, I'm just wondering what Locke's view is
+- [00:41:18,000 - 00:41:22,000] on once you have a government that's already in place,
+- [00:41:22,000 - 00:41:25,000] whether it is possible for people
+- [00:41:25,000 - 00:41:27,000] who are born into that government
+- [00:41:27,000 - 00:41:30,000] to then leave and return to the state of nature.
+- [00:41:30,000 - 00:41:32,000] I mean, I don't think that
+- [00:41:32,000 - 00:41:34,000] Locke mentioned that at all in the...
+- [00:41:34,000 - 00:41:36,000] What do you think?
+- [00:41:36,000 - 00:41:40,000] Well, I think as the convention,
+- [00:41:40,000 - 00:41:44,000] it would be very difficult to leave the government
+- [00:41:44,000 - 00:41:49,000] because you are no longer...
+- [00:41:49,000 - 00:41:50,500] because nobody else is just
+- [00:41:50,500 - 00:41:52,000] living in the state of nature.
+- [00:41:52,000 - 00:41:57,000] Everybody else is now governed by this legislature.
+- [00:41:57,000 - 00:41:59,000] What would it mean today, you're asking,
+- [00:41:59,000 - 00:42:00,000] and what's the answer?
+- [00:42:00,000 - 00:42:01,000] What's your name?
+- [00:42:01,000 - 00:42:02,000] Nicola.
+- [00:42:02,000 - 00:42:03,000] Nicola.
+- [00:42:03,000 - 00:42:04,000] To leave the state...
+- [00:42:04,000 - 00:42:07,000] Suppose you wanted to leave civil society today.
+- [00:42:07,000 - 00:42:09,000] You want to withdraw your consent
+- [00:42:09,000 - 00:42:11,000] and return to the state of nature.
+- [00:42:11,000 - 00:42:13,000] Well, because you didn't actually consent to it.
+- [00:42:13,000 - 00:42:14,000] You were just born into it.
+- [00:42:14,000 - 00:42:18,000] It was your ancestors who joined.
+- [00:42:18,000 - 00:42:19,000] Right.
+- [00:42:19,000 - 00:42:20,000] So...
+- [00:42:20,000 - 00:42:23,000] You didn't sign the social contract.
+- [00:42:23,000 - 00:42:24,000] I didn't sign it.
+- [00:42:24,000 - 00:42:25,000] Exactly.
+- [00:42:25,000 - 00:42:26,000] All right.
+- [00:42:26,000 - 00:42:28,000] So what does Locke say there?
+- [00:42:28,000 - 00:42:29,000] Yeah.
+- [00:42:29,000 - 00:42:31,000] I don't think Locke says
+- [00:42:31,000 - 00:42:33,000] that you have to sign anything.
+- [00:42:33,000 - 00:42:34,000] I think that he says
+- [00:42:34,000 - 00:42:35,000] that it's kind of implied consent.
+- [00:42:35,000 - 00:42:37,000] And by leaving and taking government services,
+- [00:42:37,000 - 00:42:39,000] you are implying that you are consenting
+- [00:42:39,000 - 00:42:41,000] to the government taking things from you.
+- [00:42:41,000 - 00:42:42,000] All right.
+- [00:42:42,000 - 00:42:43,000] So implied consent,
+- [00:42:43,000 - 00:42:45,000] that's a partial answer to this challenge.
+- [00:42:45,000 - 00:42:47,000] Now, you may not think that implied consent
+- [00:42:47,000 - 00:42:49,000] is as good as the real thing.
+- [00:42:49,000 - 00:42:51,000] Is that what you're shaking your head about, Nicola?
+- [00:42:51,000 - 00:42:52,000] Speak up.
+- [00:42:52,000 - 00:42:54,000] Stand up and speak up.
+- [00:42:54,000 - 00:42:56,000] I don't think that necessarily
+- [00:42:56,000 - 00:42:58,000] just by utilizing the government's...
+- [00:42:58,000 - 00:43:05,000] you know, various resources that we are necessarily implying
+- [00:43:05,000 - 00:43:07,500] that we agree with the
+- [00:43:07,500 - 00:43:10,000] way that this government was formed.
+- [00:43:10,000 - 00:43:12,500] Or that we have consented to
+- [00:43:12,500 - 00:43:15,000] actually join into the social contract.
+- [00:43:15,000 - 00:43:18,000] So you don't think the idea of implied consent
+- [00:43:18,000 - 00:43:21,000] is strong enough to generate any obligation at all
+- [00:43:21,000 - 00:43:23,000] to obey the government?
+- [00:43:23,000 - 00:43:25,000] Not necessarily, no.
+- [00:43:25,000 - 00:43:28,000] Nicola, if you didn't think you'd get caught,
+- [00:43:28,000 - 00:43:31,000] would you pay your taxes?
+- [00:43:31,000 - 00:43:33,000] Um...
+- [00:43:33,000 - 00:43:35,000] I don't think so.
+- [00:43:35,000 - 00:43:39,000] I would rather have a system, personally,
+- [00:43:39,000 - 00:43:42,000] that I could give money to
+- [00:43:42,000 - 00:43:45,000] exactly those sections of the government
+- [00:43:45,000 - 00:43:46,000] that I support,
+- [00:43:46,000 - 00:43:49,000] and not just blanket support everything.
+- [00:43:49,000 - 00:43:51,000] You'd rather be in the state of nature,
+- [00:43:51,000 - 00:43:53,000] at least on April 15th.
+- [00:43:57,000 - 00:43:58,000] But, Nicola,
+- [00:43:58,000 - 00:44:00,000] what I'm trying to get at is,
+- [00:44:00,000 - 00:44:02,000] do you consider that you're under no obligation
+- [00:44:02,000 - 00:44:05,000] since you haven't actually entered into any act of consent,
+- [00:44:05,000 - 00:44:07,000] but for prudential reasons,
+- [00:44:07,000 - 00:44:08,000] you do what you're supposed
+- [00:44:08,000 - 00:44:09,000] to do according to the law?
+- [00:44:09,000 - 00:44:11,000] Exactly.
+- [00:44:11,000 - 00:44:13,000] If you look at it that way,
+- [00:44:13,000 - 00:44:15,000] then you're violating another one of Locke's treatises,
+- [00:44:15,000 - 00:44:18,000] which is that you can't take anything from anyone else.
+- [00:44:18,000 - 00:44:22,000] Like, you can't take the government services
+- [00:44:22,000 - 00:44:24,000] and then not give them anything in return.
+- [00:44:24,000 - 00:44:25,500] If you want to go
+- [00:44:25,500 - 00:44:27,000] live in the state of nature,
+- [00:44:27,000 - 00:44:28,000] that's fine,
+- [00:44:28,000 - 00:44:30,000] but you can't take anything for the government
+- [00:44:30,000 - 00:44:31,000] because by the government's terms,
+- [00:44:31,000 - 00:44:32,500] which are the only terms under
+- [00:44:32,500 - 00:44:34,000] which you can enter the agreement,
+- [00:44:34,000 - 00:44:35,000] say that you have to
+- [00:44:35,000 - 00:44:36,000] pay taxes to take those things.
+- [00:44:36,000 - 00:44:38,000] So you're saying that Nicola can
+- [00:44:38,000 - 00:44:40,000] go back into the state of nature
+- [00:44:40,000 - 00:44:41,000] if she wants to,
+- [00:44:41,000 - 00:44:43,000] but she can't drive on Mass Ave.
+- [00:44:43,000 - 00:44:44,000] Exactly.
+- [00:44:44,000 - 00:44:48,000] I want to raise the stakes beyond using Mass Ave.
+- [00:44:48,000 - 00:44:49,000] Yes.
+- [00:44:49,000 - 00:44:51,000] And even beyond taxation.
+- [00:44:51,000 - 00:44:53,000] What about life?
+- [00:44:53,000 - 00:44:55,000] What about military conscription?
+- [00:44:55,000 - 00:44:56,000] Yes.
+- [00:44:56,000 - 00:44:58,000] What do you say? Stand up.
+- [00:44:58,000 - 00:45:00,000] First of all, we have to
+- [00:45:00,000 - 00:45:02,000] remember that sending people to war
+- [00:45:02,000 - 00:45:05,000] is not necessarily implying that they'll die.
+- [00:45:05,000 - 00:45:08,000] I mean, obviously, you're not raising their chances here,
+- [00:45:08,000 - 00:45:11,000] but it's not a death penalty.
+- [00:45:11,000 - 00:45:13,000] So if you're going to
+- [00:45:13,000 - 00:45:15,000] discuss whether or not military conscription
+- [00:45:15,000 - 00:45:19,000] is equivalent to suppressing people's right to life,
+- [00:45:19,000 - 00:45:21,000] you shouldn't approach it that way.
+- [00:45:21,000 - 00:45:25,000] Secondly, the real problem here is Locke has this view
+- [00:45:25,000 - 00:45:28,000] about consent and natural rights.
+- [00:45:28,000 - 00:45:30,000] But you're not allowed to
+- [00:45:30,000 - 00:45:32,000] give up your natural rights either.
+- [00:45:32,000 - 00:45:34,500] So the real question is, you know,
+- [00:45:34,500 - 00:45:37,000] how does he himself figure it out
+- [00:45:37,000 - 00:45:39,500] between I agree to give up
+- [00:45:39,500 - 00:45:42,000] my life, give up my property,
+- [00:45:42,000 - 00:45:44,000] when he talks about taxes
+- [00:45:44,000 - 00:45:46,000] or military conscription for the fact,
+- [00:45:46,000 - 00:45:49,000] but I guess Locke would be against suicide.
+- [00:45:49,000 - 00:45:51,000] And that's still, you know, my own consent.
+- [00:45:51,000 - 00:45:53,000] I agree to taking my life.
+- [00:45:53,000 - 00:45:54,000] Eric.
+- [00:45:54,000 - 00:45:56,000] So Eric brings us back to
+- [00:45:56,000 - 00:45:58,000] the puzzle we've been wrestling with
+- [00:45:58,000 - 00:46:00,000] since we started reading Locke.
+- [00:46:00,000 - 00:46:04,000] On the one hand, we have these unalienable rights
+- [00:46:04,000 - 00:46:06,000] to life, liberty, and property,
+- [00:46:06,000 - 00:46:08,000] which means that even we don't
+- [00:46:08,000 - 00:46:10,000] have the power to give them up.
+- [00:46:10,000 - 00:46:14,000] And that's what creates the limits on legitimate government.
+- [00:46:14,000 - 00:46:17,000] It's not what we consent to that limits government.
+- [00:46:17,000 - 00:46:20,000] It's what we lack the power
+- [00:46:20,000 - 00:46:23,000] to give away when we consent.
+- [00:46:24,000 - 00:46:31,000] That's the point at the heart of Locke's whole account
+- [00:46:31,000 - 00:46:34,000] of legitimate government.
+- [00:46:34,000 - 00:46:36,500] But now you say, well, if
+- [00:46:36,500 - 00:46:39,000] we can't give up our own life,
+- [00:46:39,000 - 00:46:41,000] if we can't commit suicide,
+- [00:46:41,000 - 00:46:43,000] if we can't give up our right to property,
+- [00:46:43,000 - 00:46:44,500] how can we then agree
+- [00:46:44,500 - 00:46:46,000] to be bound by a majority
+- [00:46:46,000 - 00:46:49,000] that will force us to sacrifice
+- [00:46:49,000 - 00:46:52,000] our lives or give up our property?
+- [00:46:52,000 - 00:46:54,000] Is Locke at all convinced?
+- [00:46:54,000 - 00:46:56,000] Does Locke have a way out of this?
+- [00:46:56,000 - 00:47:04,000] Or is he basically sanctioning an all-powerful government,
+- [00:47:04,000 - 00:47:09,000] despite everything he says about unalienable rights?
+- [00:47:09,000 - 00:47:11,000] Does he have a way out of it?
+- [00:47:11,000 - 00:47:13,000] Who would speak here in defense of Locke
+- [00:47:13,000 - 00:47:16,000] or make sense, find a way out of this predicament?
+- [00:47:16,000 - 00:47:17,000] All right, go ahead.
+- [00:47:17,000 - 00:47:19,000] I feel like there's a general distinction to be made
+- [00:47:19,000 - 00:47:22,000] between the right to life that individuals possess
+- [00:47:22,000 - 00:47:24,000] and the fact that a government
+- [00:47:24,000 - 00:47:28,000] cannot take away a single individual's right to life.
+- [00:47:28,000 - 00:47:31,000] I think if you look at conscription as the government
+- [00:47:31,000 - 00:47:34,000] picking out certain individuals to go fight in war,
+- [00:47:34,000 - 00:47:36,000] then that would be a violation
+- [00:47:36,000 - 00:47:38,000] of their natural right to life.
+- [00:47:38,000 - 00:47:41,000] On the other hand, if you have conscription,
+- [00:47:41,000 - 00:47:43,000] let's say a lottery, for example,
+- [00:47:43,000 - 00:47:45,500] then in that case, I
+- [00:47:45,500 - 00:47:48,000] would view that as the population
+- [00:47:48,000 - 00:47:49,500] picking their representatives to defend
+- [00:47:49,500 - 00:47:51,000] them in the case of war.
+- [00:47:51,000 - 00:47:52,500] The idea being that since the
+- [00:47:52,500 - 00:47:54,000] whole population cannot go out there
+- [00:47:54,000 - 00:47:56,000] to defend its own right to property,
+- [00:47:56,000 - 00:47:58,000] it picks its own representatives through a process
+- [00:47:58,000 - 00:48:00,000] that's essentially random.
+- [00:48:00,000 - 00:48:03,000] And then these sort of elected representatives
+- [00:48:03,000 - 00:48:06,000] go out and fight for the rights of the people.
+- [00:48:06,000 - 00:48:08,000] It works very similar,
+- [00:48:08,000 - 00:48:11,000] it works just like an elected government, in my opinion.
+- [00:48:11,000 - 00:48:14,000] All right, so an elected government can conscript citizens
+- [00:48:14,000 - 00:48:17,000] to go out and defend the way of life,
+- [00:48:17,000 - 00:48:22,000] the community that makes the enjoyment of rights possible?
+- [00:48:22,000 - 00:48:23,000] I think so.
+- [00:48:23,000 - 00:48:25,000] I think it can, because to
+- [00:48:25,000 - 00:48:27,000] me it seems that it's very similar
+- [00:48:27,000 - 00:48:31,000] to the process of electing representatives to a legislature.
+- [00:48:31,000 - 00:48:38,000] Although here, it's as if the government is electing
+- [00:48:38,000 - 00:48:42,000] by conscription certain citizens to go
+- [00:48:42,000 - 00:48:46,000] die for the sake of the whole.
+- [00:48:46,000 - 00:48:48,500] Is that consistent with respect
+- [00:48:48,500 - 00:48:51,000] for a natural right to liberty?
+- [00:48:51,000 - 00:48:53,000] Well, what I would say there is,
+- [00:48:53,000 - 00:48:56,000] there is a distinction between picking out individuals
+- [00:48:56,000 - 00:49:01,000] and having a random choice of individuals.
+- [00:49:01,000 - 00:49:03,000] Between picking out, let me make sure,
+- [00:49:03,000 - 00:49:05,000] between picking out individuals.
+- [00:49:05,000 - 00:49:06,000] Well, by...
+- [00:49:06,000 - 00:49:07,000] Let me, what's your name?
+- [00:49:07,000 - 00:49:08,000] Gokul.
+- [00:49:08,000 - 00:49:10,000] Gokul says there's a
+- [00:49:10,000 - 00:49:12,000] difference between picking out individuals
+- [00:49:12,000 - 00:49:14,000] to lay down their lives,
+- [00:49:14,000 - 00:49:17,000] and having a general law,
+- [00:49:17,000 - 00:49:21,000] I think this is the answer Locke would give, actually.
+- [00:49:21,000 - 00:49:23,000] Gokul.
+- [00:49:23,000 - 00:49:25,000] Locke is against arbitrary government.
+- [00:49:25,000 - 00:49:28,000] He's against the arbitrary taking.
+- [00:49:28,000 - 00:49:30,000] The singling out of Bill Gates
+- [00:49:30,000 - 00:49:32,000] to finance the war in Iraq.
+- [00:49:32,000 - 00:49:35,000] He's against singling out a particular citizen,
+- [00:49:35,000 - 00:49:37,000] or group of people,
+- [00:49:37,000 - 00:49:39,000] to go off and fight.
+- [00:49:39,000 - 00:49:42,000] But if there's a general law,
+- [00:49:42,000 - 00:49:45,000] such that the government's choice,
+- [00:49:45,000 - 00:49:49,000] the majority's action is non-arbitrary,
+- [00:49:49,000 - 00:49:52,000] it doesn't really amount to a violation
+- [00:49:52,000 - 00:49:58,000] of people's basic rights.
+- [00:49:58,000 - 00:50:00,000] What does count as a violation
+- [00:50:00,000 - 00:50:02,000] is an arbitrary taking,
+- [00:50:02,000 - 00:50:04,000] because that would essentially say,
+- [00:50:04,000 - 00:50:06,000] not only to Bill Gates, but to everyone,
+- [00:50:06,000 - 00:50:08,000] there is no rule of law.
+- [00:50:08,000 - 00:50:11,000] There is no institution of property.
+- [00:50:11,000 - 00:50:14,000] Because at the whim of the king,
+- [00:50:14,000 - 00:50:16,000] or for that matter, of the parliament,
+- [00:50:16,000 - 00:50:20,000] we can name you, or you,
+- [00:50:20,000 - 00:50:22,000] to give up your rights,
+- [00:50:22,000 - 00:50:23,000] or your property,
+- [00:50:23,000 - 00:50:25,000] or to give up your life.
+- [00:50:25,000 - 00:50:27,500] But so long as there
+- [00:50:27,500 - 00:50:30,000] is a non-arbitrary rule of law,
+- [00:50:30,000 - 00:50:33,000] then,
+- [00:50:33,000 - 00:50:35,000] it's permissible.
+- [00:50:35,000 - 00:50:37,000] Now you may say this doesn't amount
+- [00:50:37,000 - 00:50:40,000] to a very limited government.
+- [00:50:40,000 - 00:50:42,000] And the libertarian may complain
+- [00:50:42,000 - 00:50:46,000] that Locke is not such a terrific ally after all.
+- [00:50:46,000 - 00:50:48,000] The libertarian has two grounds
+- [00:50:48,000 - 00:50:50,000] for disappointment in Locke.
+- [00:50:50,000 - 00:50:52,000] First,
+- [00:50:52,000 - 00:50:55,000] that the rights are unalienable,
+- [00:50:55,000 - 00:50:58,000] and therefore I don't really own myself after all.
+- [00:50:58,000 - 00:51:00,000] I can't dispose of my life,
+- [00:51:00,000 - 00:51:02,000] or my liberty, or my property,
+- [00:51:02,000 - 00:51:05,000] in a way that violates my rights.
+- [00:51:05,000 - 00:51:07,000] That's disappointment number one.
+- [00:51:07,000 - 00:51:09,000] Disappointment number two,
+- [00:51:09,000 - 00:51:11,000] once there is a legitimate government
+- [00:51:11,000 - 00:51:13,000] based on consent,
+- [00:51:13,000 - 00:51:16,000] the only limits for Locke
+- [00:51:16,000 - 00:51:20,000] are limits on arbitrary takings
+- [00:51:20,000 - 00:51:21,000] of life,
+- [00:51:21,000 - 00:51:22,000] or of liberty,
+- [00:51:22,000 - 00:51:24,000] or of property.
+- [00:51:24,000 - 00:51:25,000] But if the majority decides,
+- [00:51:25,000 - 00:51:27,000] if the majority promulgates
+- [00:51:27,000 - 00:51:31,000] a generally applicable law,
+- [00:51:31,000 - 00:51:33,000] and if it votes
+- [00:51:33,000 - 00:51:36,000] duly, according to fair procedures,
+- [00:51:36,000 - 00:51:39,000] then there is no violation.
+- [00:51:39,000 - 00:51:41,000] Whether it's a system of taxation,
+- [00:51:41,000 - 00:51:44,000] or a system of conscription.
+- [00:51:44,000 - 00:51:47,000] So it's clear that Locke
+- [00:51:47,000 - 00:51:50,000] is worried about the absolute arbitrary power
+- [00:51:50,000 - 00:51:53,000] of kings.
+- [00:51:53,000 - 00:51:55,000] But it's also true,
+- [00:51:55,000 - 00:51:58,000] and here's the darker side of Locke,
+- [00:51:58,000 - 00:52:00,000] that this great theorist of consent
+- [00:52:00,000 - 00:52:02,000] came up with a theory of private property
+- [00:52:02,000 - 00:52:06,000] that didn't require consent.
+- [00:52:06,000 - 00:52:08,000] That may,
+- [00:52:08,000 - 00:52:09,500] and this goes back to
+- [00:52:09,500 - 00:52:11,000] the point Rochelle made last time,
+- [00:52:11,000 - 00:52:16,000] may have had something to do with Locke's second concern,
+- [00:52:16,000 - 00:52:18,000] which was America.
+- [00:52:18,000 - 00:52:19,000] You remember,
+- [00:52:19,000 - 00:52:21,000] when he talks about the state of nature,
+- [00:52:21,000 - 00:52:25,000] he's not talking about an imaginary place.
+- [00:52:25,000 - 00:52:27,000] In the beginning, he says,
+- [00:52:27,000 - 00:52:29,000] all the world was America.
+- [00:52:29,000 - 00:52:31,000] And what was going on in America?
+- [00:52:31,000 - 00:52:35,000] The settlers were enclosing land
+- [00:52:35,000 - 00:52:40,000] and engaged in wars with the Native Americans.
+- [00:52:40,000 - 00:52:43,000] Locke, who was an administrator
+- [00:52:43,000 - 00:52:46,000] of one of the colonies,
+- [00:52:46,000 - 00:52:48,000] may have been as interested
+- [00:52:48,000 - 00:52:51,000] in providing a justification
+- [00:52:51,000 - 00:52:53,000] for private property through enclosure
+- [00:52:53,000 - 00:52:55,000] without consent,
+- [00:52:55,000 - 00:52:57,000] through enclosure and cultivation,
+- [00:52:57,000 - 00:53:01,000] as he was with developing a theory
+- [00:53:01,000 - 00:53:04,000] of government based on consent
+- [00:53:04,000 - 00:53:06,000] that would reign in kings
+- [00:53:06,000 - 00:53:09,000] and arbitrary rulers.
+- [00:53:09,000 - 00:53:11,000] The question we're left with,
+- [00:53:11,000 - 00:53:14,000] the fundamental question we still haven't answered is,
+- [00:53:14,000 - 00:53:16,000] what then becomes of consent?
+- [00:53:16,000 - 00:53:18,000] What work can it do?
+- [00:53:18,000 - 00:53:20,000] What is its moral force?
+- [00:53:20,000 - 00:53:23,000] What are the limits of consent?
+- [00:53:23,000 - 00:53:25,000] Consent matters not only for governments,
+- [00:53:25,000 - 00:53:28,000] but also for markets.
+- [00:53:28,000 - 00:53:30,000] And beginning next time,
+- [00:53:30,000 - 00:53:32,000] we're going to take up questions
+- [00:53:32,000 - 00:53:34,000] of the limits of consent
+- [00:53:34,000 - 00:53:37,000] in the buying and selling of goods.
+- [00:53:46,000 - 00:53:47,000] Don't miss the chance to interact online
+- [00:53:47,000 - 00:53:49,000] with other viewers of Justice.
+- [00:53:49,000 - 00:53:50,000] Join the conversation.
+- [00:53:50,000 - 00:53:51,000] Take a pop quiz.
+- [00:53:51,000 - 00:53:53,000] Watch lectures you've missed
+- [00:53:53,000 - 00:53:54,000] and learn a lot more.
+- [00:53:54,000 - 00:53:56,000] Visit justiceharvard.org.
+- [00:53:56,000 - 00:53:57,000] It's the right thing to do.
+- [00:54:17,000 - 00:54:29,000] It's the right thing to do.
+- [00:54:29,000 - 00:54:38,000] It's the right thing to do.
+- [00:54:38,000 - 00:54:41,000] Funding for this program is provided by...
+- [00:54:41,000 - 00:54:45,000] Additional funding provided by...
+- [00:54:45,000 - 00:54:47,000] The U.S. Department of State.
+- [00:54:47,000 - 00:54:49,000] The U.S. Department of State.
+- [00:54:49,000 - 00:54:51,000] The U.S. Department of State.

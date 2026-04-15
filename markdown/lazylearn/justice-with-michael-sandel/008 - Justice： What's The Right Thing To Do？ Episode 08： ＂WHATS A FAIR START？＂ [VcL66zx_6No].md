@@ -1,0 +1,1184 @@
+# Transcript
+
+Source: 008 - Justice： What's The Right Thing To Do？ Episode 08： ＂WHATS A FAIR START？＂ [VcL66zx_6No].webm
+
+- [00:00:00,000 - 00:00:05,000] Funding for this program is provided by
+- [00:00:05,000 - 00:00:09,000] Additional funding provided by
+- [00:00:09,000 - 00:00:13,000] The National Bank of Canada
+- [00:00:13,000 - 00:00:17,000] www.nasa.gov
+- [00:00:17,000 - 00:00:21,000] The National Bank of Canada
+- [00:00:21,000 - 00:00:25,000] www.nasa.gov
+- [00:00:25,000 - 00:00:29,000] The National Bank of Canada
+- [00:00:29,000 - 00:00:35,000] Today, we turn to the question of distributive justice.
+- [00:00:35,000 - 00:00:39,000] How should income and wealth and power
+- [00:00:39,000 - 00:00:41,640] power and opportunities be distributed?
+- [00:00:41,640 - 00:00:44,820] According to what principles?
+- [00:00:44,820 - 00:00:49,340] John Rawls offers a detailed answer to that question.
+- [00:00:49,340 - 00:00:51,440] And we're going to examine and assess his answer
+- [00:00:51,440 - 00:00:53,720] to that question today.
+- [00:00:53,720 - 00:00:55,720] We put ourselves in a
+- [00:00:55,720 - 00:00:57,720] position to do so last time
+- [00:00:59,420 - 00:01:02,760] by trying to make sense of why he thinks
+- [00:01:02,760 - 00:01:06,920] that principles of justice are best derived
+- [00:01:13,380 - 00:01:15,840] from a hypothetical contract.
+- [00:01:15,840 - 00:01:19,440] And what matters is that the hypothetical contract
+- [00:01:19,440 - 00:01:23,600] be carried out in an original position of equality
+- [00:01:23,600 - 00:01:27,600] behind what Rawls calls the veil of ignorance.
+- [00:01:29,520 - 00:01:31,259] So that much is clear.
+- [00:01:32,760 - 00:01:36,760] All right, then let's turn to the principles
+- [00:01:39,640 - 00:01:41,720] that Rawls says would be
+- [00:01:41,720 - 00:01:43,800] chosen behind the veil of ignorance.
+- [00:01:52,380 - 00:01:55,880] First he considers some of the major alternatives.
+- [00:01:55,880 - 00:01:58,780] What about utilitarianism?
+- [00:01:58,780 - 00:02:02,500] Would the people in the original position choose to govern,
+- [00:02:02,760 - 00:02:07,000] their collective lives, utilitarian principles,
+- [00:02:07,000 - 00:02:09,639] the greatest good for the greatest number?
+- [00:02:09,639 - 00:02:13,880] No, they wouldn't, Rawls says.
+- [00:02:13,880 - 00:02:18,680] And the reason is that behind the veil of ignorance,
+- [00:02:18,680 - 00:02:23,680] everyone knows that once the veil goes up
+- [00:02:23,680 - 00:02:27,680] and real life begins, we
+- [00:02:27,680 - 00:02:31,680] will each want to be respected
+- [00:02:31,680 - 00:02:32,680] with dignity.
+- [00:02:32,680 - 00:02:35,680] Even if we turn out to
+- [00:02:35,680 - 00:02:38,680] be a member of a minority,
+- [00:02:38,680 - 00:02:42,680] we don't want to be oppressed.
+- [00:02:42,680 - 00:02:47,680] And so we would agree to reject utilitarianism
+- [00:02:50,680 - 00:02:53,680] and instead to adopt as our first principle
+- [00:02:53,680 - 00:02:56,680] equal basic liberties, fundamental
+- [00:02:56,680 - 00:02:59,680] rights to freedom of speech,
+- [00:02:59,680 - 00:03:00,680] freedom of assembly, and freedom of the people.
+- [00:03:01,680 - 00:03:03,680] A new world, a new society, religious liberty,
+- [00:03:03,680 - 00:03:05,680] freedom of conscience, and the like.
+- [00:03:05,680 - 00:03:08,680] We wouldn't want to take the
+- [00:03:08,680 - 00:03:11,680] chance that we would wind up
+- [00:03:11,680 - 00:03:19,680] as members of an oppressed or a despised minority
+- [00:03:19,680 - 00:03:23,680] with the majority tyrannizing over us.
+- [00:03:23,680 - 00:03:27,680] And so Rawls says utilitarianism would be rejected.
+- [00:03:31,680 - 00:03:36,320] Utilitarianism makes the mistake, Rawls writes, of
+- [00:03:36,320 - 00:03:40,960] forgetting, or at least not taking seriously,
+- [00:03:40,960 - 00:03:44,720] the distinction between persons.
+- [00:03:44,720 - 00:03:46,790] And in the original position behind the
+- [00:03:46,790 - 00:03:48,860] veil of ignorance, we would recognize that and
+- [00:03:48,860 - 00:03:52,380] reject utilitarianism.
+- [00:03:52,380 - 00:03:55,560] We wouldn't trade off our fundamental
+- [00:03:55,560 - 00:03:58,740] rights and liberties for any economic advantages.
+- [00:03:58,740 - 00:04:03,580] That's the first principle.
+- [00:04:03,580 - 00:04:06,270] Second principle has to do
+- [00:04:06,270 - 00:04:08,960] with social and economic inequalities.
+- [00:04:08,960 - 00:04:10,860] What would we agree to?
+- [00:04:10,860 - 00:04:13,870] Remember, we don't know whether we're going to
+- [00:04:13,870 - 00:04:16,880] wind up being rich or poor, healthy or
+- [00:04:16,880 - 00:04:18,740] unhealthy.
+- [00:04:18,740 - 00:04:21,100] We don't know what kind of family we're
+- [00:04:21,100 - 00:04:23,460] going to come from, whether we're going to inherit
+- [00:04:23,460 - 00:04:26,000] millions or whether we will
+- [00:04:26,000 - 00:04:28,540] come from an impoverished family.
+- [00:04:28,540 - 00:04:28,640] Okay?
+- [00:04:28,740 - 00:04:34,960] So we might, at first thought, say,
+- [00:04:34,960 - 00:04:41,180] well, let's require an equal distribution of income
+- [00:04:41,180 - 00:04:47,340] and wealth, just to be on the safe side.
+- [00:04:47,340 - 00:04:52,240] But then we would realize that we could
+- [00:04:52,240 - 00:04:57,140] do better than that, even if we're unlucky and
+- [00:04:57,140 - 00:04:58,540] wind up at the bottom.
+- [00:04:58,740 - 00:05:02,890] We could do better if we
+- [00:05:02,890 - 00:05:07,040] agree to a qualified principle of equality.
+- [00:05:07,040 - 00:05:10,510] Rawls calls it the difference principle, a
+- [00:05:10,510 - 00:05:13,980] principle that says only those social and
+- [00:05:13,980 - 00:05:18,260] economic inequalities will be permitted that work
+- [00:05:18,260 - 00:05:22,540] to the benefit of the least well-off.
+- [00:05:22,540 - 00:05:28,220] So we wouldn't reject all inequality of income and wealth.
+- [00:05:28,220 - 00:05:31,910] We would allow some, but the test would be,
+- [00:05:31,910 - 00:05:35,600] do they work to the benefit of everyone, including
+- [00:05:35,600 - 00:05:40,660] those, or as he specifies the
+- [00:05:40,660 - 00:05:45,720] principle, especially those at the bottom.
+- [00:05:45,720 - 00:05:47,880] Only those inequalities would be accepted behind
+- [00:05:47,880 - 00:05:50,040] the veil of ignorance, and so Rawls
+- [00:05:50,040 - 00:05:54,030] argues, only those inequalities that work to
+- [00:05:54,030 - 00:05:58,020] the benefit of the least well-off are just.
+- [00:05:58,020 - 00:06:02,460] We talked about the examples of Michael Jordan
+- [00:06:02,460 - 00:06:06,900] making $31 million a year, of Bill Gates having
+- [00:06:06,900 - 00:06:11,880] a fortune in the tens of billions.
+- [00:06:11,880 - 00:06:14,330] Would those inequalities be
+- [00:06:14,330 - 00:06:16,780] permitted under the difference principle?
+- [00:06:16,780 - 00:06:20,200] Only if they were part of a
+- [00:06:20,200 - 00:06:23,620] system, those wage differentials, that actually work to
+- [00:06:23,620 - 00:06:25,520] the advantage of the least well-off.
+- [00:06:25,520 - 00:06:27,820] Well, what would that system be?
+- [00:06:27,820 - 00:06:57,060] Only if they were part of theigs part of the
+- [00:06:57,060 - 00:06:57,580] difference principle, for example.
+- [00:06:57,580 - 00:07:03,140] Let me hear what you think about Rawls' claim that
+- [00:07:03,140 - 00:07:08,700] these two principles would be chosen behind the veil of ignorance.
+- [00:07:09,520 - 00:07:13,500] Is there anyone who disagrees that they would be chosen?
+- [00:07:15,000 - 00:07:16,350] All right, let's start up in the
+- [00:07:16,350 - 00:07:17,700] balcony if that's all right. Go ahead.
+- [00:07:18,039 - 00:07:21,479] Okay, your argument depends upon us believing that we
+- [00:07:21,479 - 00:07:24,919] would argue and set policy or justice from a bottom,
+- [00:07:24,920 - 00:07:27,390] for the disadvantaged, and I just don't see
+- [00:07:27,390 - 00:07:29,860] from a proof standpoint where we've proven that.
+- [00:07:29,960 - 00:07:30,740] Why not the top?
+- [00:07:31,260 - 00:07:32,620] Right, and what's your name?
+- [00:07:32,960 - 00:07:33,200] Mike.
+- [00:07:33,700 - 00:07:35,020] Mike, all right, good question.
+- [00:07:37,160 - 00:07:39,220] Put yourself behind the veil of ignorance.
+- [00:07:40,080 - 00:07:41,400] Enter into the thought experiment.
+- [00:07:43,440 - 00:07:45,180] What principles would you choose?
+- [00:07:45,920 - 00:07:46,880] How would you think it through?
+- [00:07:47,940 - 00:07:50,210] Well, I would say things like even Harvard's
+- [00:07:50,210 - 00:07:52,480] existence is an example of preaching toward the top
+- [00:07:52,480 - 00:07:54,580] because Harvard takes the top academics.
+- [00:07:54,580 - 00:07:55,580] And I didn't know when I
+- [00:07:55,580 - 00:07:56,580] was born how smart I would be,
+- [00:07:56,580 - 00:07:58,330] but I worked my life to
+- [00:07:58,330 - 00:08:00,080] get to a place of this caliber.
+- [00:08:00,080 - 00:08:02,450] Now, if you'd said Harvard's going to
+- [00:08:02,450 - 00:08:04,820] randomly take 1,600 people of absolutely no qualification,
+- [00:08:04,820 - 00:08:06,320] we'd all be saying, well,
+- [00:08:06,320 - 00:08:07,820] there's not much to work for.
+- [00:08:09,820 - 00:08:11,820] And so what principle would you choose?
+- [00:08:12,820 - 00:08:14,820] In that situation, I would say a merit-based one,
+- [00:08:14,820 - 00:08:16,820] one where I don't necessarily know what I have,
+- [00:08:16,820 - 00:08:18,820] but I'd rather have a system
+- [00:08:18,820 - 00:08:20,820] that rewards me based on my efforts.
+- [00:08:21,820 - 00:08:23,820] So you, Mike, behind the veil of ignorance,
+- [00:08:24,580 - 00:08:27,580] would choose a merit-based system where
+- [00:08:27,580 - 00:08:30,580] people are rewarded according to their efforts.
+- [00:08:30,580 - 00:08:32,579] All right, fair enough.
+- [00:08:32,579 - 00:08:34,579] What would you say? Go ahead.
+- [00:08:34,579 - 00:08:38,579] My question is if the merit-based argument is based
+- [00:08:38,579 - 00:08:42,579] on when everyone is at a level of equality,
+- [00:08:42,579 - 00:08:49,579] where from that position you're rewarded to where you get,
+- [00:08:49,579 - 00:08:54,579] or is it regardless of what advantages you may have?
+- [00:08:54,580 - 00:08:56,580] When you began your education
+- [00:08:56,580 - 00:08:58,580] to get where you are here?
+- [00:08:59,580 - 00:09:01,580] I think the question you're asking is saying,
+- [00:09:01,580 - 00:09:03,080] if you want to look
+- [00:09:03,080 - 00:09:04,580] at whatever utilitarianism policy it is,
+- [00:09:04,580 - 00:09:06,580] do we want to maximize world wealth?
+- [00:09:06,580 - 00:09:09,080] And I think a system that rewards merit
+- [00:09:09,080 - 00:09:11,580] is the one that we've pretty much all established
+- [00:09:11,580 - 00:09:13,580] is what is best for all of us.
+- [00:09:13,580 - 00:09:15,080] Despite the fact that some of
+- [00:09:15,080 - 00:09:16,580] us may be in the second percentile
+- [00:09:16,580 - 00:09:18,580] and some may be in the 98th percentile,
+- [00:09:18,580 - 00:09:20,580] at the end of the day
+- [00:09:20,580 - 00:09:22,580] it lifts that lowest base level,
+- [00:09:22,580 - 00:09:24,580] a community that rewards merit.
+- [00:09:24,580 - 00:09:27,580] And that's effort as opposed to innate differences.
+- [00:09:27,580 - 00:09:30,080] But I don't understand
+- [00:09:30,080 - 00:09:32,580] how you're rewarding someone's efforts
+- [00:09:32,580 - 00:09:36,580] who clearly has had, not you but maybe myself,
+- [00:09:36,580 - 00:09:39,580] advantages throughout to get where I am here.
+- [00:09:39,580 - 00:09:41,580] I mean, I can't say that somebody else
+- [00:09:41,580 - 00:09:43,580] who maybe worked as hard as I did
+- [00:09:43,580 - 00:09:45,580] would have had the same opportunity
+- [00:09:45,580 - 00:09:47,580] to come to a school like this.
+- [00:09:47,580 - 00:09:50,580] All right, let's look at that point. What's your name?
+- [00:09:50,580 - 00:09:51,580] Kate.
+- [00:09:51,580 - 00:09:53,580] Kate, you suspect that the,
+- [00:09:53,580 - 00:09:58,580] that the ability to get into top schools
+- [00:09:58,580 - 00:10:05,580] may largely depend on coming from an affluent family,
+- [00:10:05,580 - 00:10:09,580] having a favorable back, family background,
+- [00:10:09,580 - 00:10:12,580] social, cultural, economic advantages and so on?
+- [00:10:12,580 - 00:10:14,580] I mean economic, but yes, social, cultural,
+- [00:10:14,580 - 00:10:16,580] all of those advantages for sure.
+- [00:10:16,580 - 00:10:19,580] Someone did a study of
+- [00:10:19,580 - 00:10:22,580] the 146 selective colleges and universities
+- [00:10:22,580 - 00:10:25,580] in the United States.
+- [00:10:25,580 - 00:10:28,080] And they looked at the
+- [00:10:28,080 - 00:10:30,580] students in those colleges and universities
+- [00:10:30,580 - 00:10:34,580] to try to find out what their background was,
+- [00:10:34,580 - 00:10:37,580] their economic background.
+- [00:10:37,580 - 00:10:41,580] What percentage do you think come from the bottom quarter
+- [00:10:41,580 - 00:10:44,580] of the income scale?
+- [00:10:44,580 - 00:10:46,580] You know what the figure is?
+- [00:10:46,580 - 00:10:49,080] Only 3% of students at
+- [00:10:49,080 - 00:10:51,580] the most selective colleges and universities
+- [00:10:51,580 - 00:10:54,580] come from poor backgrounds.
+- [00:10:54,580 - 00:11:00,580] Over 70% come from affluent families.
+- [00:11:00,580 - 00:11:03,080] Let's go one step further then
+- [00:11:03,080 - 00:11:05,580] and try to address Mike's challenge.
+- [00:11:05,580 - 00:11:11,580] Rawls actually has two arguments, not one,
+- [00:11:11,580 - 00:11:15,580] in favor of his principles of justice,
+- [00:11:15,580 - 00:11:18,580] and in particular of the difference principle.
+- [00:11:18,580 - 00:11:21,580] One argument is the official argument.
+- [00:11:21,580 - 00:11:24,580] What would be chosen behind the veil of ignorance?
+- [00:11:24,580 - 00:11:28,580] Some people challenge that argument saying,
+- [00:11:28,580 - 00:11:33,580] maybe people would want to take their chances.
+- [00:11:33,580 - 00:11:37,580] Maybe people would be gamblers behind the veil of ignorance,
+- [00:11:37,580 - 00:11:41,580] hoping that they would wind up on top.
+- [00:11:41,580 - 00:11:44,580] That's one challenge that has been put to Rawls.
+- [00:11:44,580 - 00:11:48,580] But backing up the argument from the original position
+- [00:11:48,580 - 00:11:50,580] is a second argument.
+- [00:11:50,580 - 00:11:54,580] And that is a straightforwardly moral argument.
+- [00:11:54,580 - 00:11:57,580] And it goes like this.
+- [00:11:57,580 - 00:11:59,580] It says,
+- [00:11:59,580 - 00:12:03,580] the distribution of income and wealth and opportunities
+- [00:12:03,580 - 00:12:09,580] should not be based on factors
+- [00:12:09,580 - 00:12:13,580] for which people can claim no credit.
+- [00:12:13,580 - 00:12:16,580] It shouldn't be based on factors that are arbitrary
+- [00:12:16,580 - 00:12:19,580] from a moral point of view.
+- [00:12:19,580 - 00:12:23,580] Rawls illustrates this by considering
+- [00:12:23,580 - 00:12:28,580] several rival theories of justice.
+- [00:12:30,580 - 00:12:34,580] He begins with the theory of justice
+- [00:12:34,580 - 00:12:37,580] that most everyone these days would reject.
+- [00:12:39,580 - 00:12:41,580] A feudal aristocracy.
+- [00:12:41,580 - 00:12:46,580] What's wrong with the allocation of life prospects
+- [00:12:46,580 - 00:12:48,580] in a feudal aristocracy?
+- [00:12:49,580 - 00:12:50,580] Rawls says,
+- [00:12:50,580 - 00:12:52,580] well, the thing that's obviously wrong about it
+- [00:12:52,580 - 00:12:56,580] is that people's life prospects are determined
+- [00:12:56,580 - 00:12:59,580] by the accident of birth.
+- [00:12:59,580 - 00:13:00,580] Are you born to a noble family
+- [00:13:00,580 - 00:13:03,580] or to the family of peasants and serfs?
+- [00:13:03,580 - 00:13:04,580] And that's it.
+- [00:13:04,580 - 00:13:05,580] You can't rise.
+- [00:13:05,580 - 00:13:07,580] It's not your doing where you wind up
+- [00:13:07,580 - 00:13:11,580] or what opportunities you have.
+- [00:13:11,580 - 00:13:15,580] But that's arbitrary from a moral point of view.
+- [00:13:15,580 - 00:13:18,580] And so that objection to feudal aristocracy,
+- [00:13:18,580 - 00:13:25,580] leads and historically has led people to say,
+- [00:13:25,580 - 00:13:28,580] careers should be open to talents.
+- [00:13:28,580 - 00:13:31,580] There should be formal equality of opportunity
+- [00:13:31,580 - 00:13:34,580] regardless of the accident of birth.
+- [00:13:34,580 - 00:13:37,580] Every person should be free to strive,
+- [00:13:37,580 - 00:13:42,580] to work, to apply for any job in the society.
+- [00:13:42,580 - 00:13:45,580] And then, if you open up jobs
+- [00:13:45,580 - 00:13:47,580] and you allow people to apply,
+- [00:13:47,580 - 00:13:49,580] and to work as hard as they can,
+- [00:13:49,580 - 00:13:53,580] then the results are just.
+- [00:13:53,580 - 00:13:56,580] So it's more or less the libertarian system
+- [00:13:56,580 - 00:13:58,580] that we've discussed in earlier weeks.
+- [00:13:58,580 - 00:14:00,580] What does Rawls think about this?
+- [00:14:00,580 - 00:14:02,580] He says it's an improvement.
+- [00:14:02,580 - 00:14:06,580] It's an improvement because it doesn't take as fixed
+- [00:14:06,580 - 00:14:09,580] the accident of birth.
+- [00:14:09,580 - 00:14:12,580] But even with formal equality of opportunity,
+- [00:14:12,580 - 00:14:16,580] the libertarian conception doesn't extend that
+- [00:14:16,580 - 00:14:20,580] doesn't extend its insight far enough.
+- [00:14:20,580 - 00:14:24,580] Because if you let everybody run the race,
+- [00:14:24,580 - 00:14:27,580] everybody can enter the race,
+- [00:14:27,580 - 00:14:31,580] but some people start at different starting points,
+- [00:14:31,580 - 00:14:34,580] that race isn't going to be fair.
+- [00:14:34,580 - 00:14:35,580] Intuitively, he says,
+- [00:14:35,580 - 00:14:38,580] the most obvious injustice of this system
+- [00:14:38,580 - 00:14:40,580] is that it permits distributive shares
+- [00:14:40,580 - 00:14:42,580] to be improperly influenced by factors
+- [00:14:42,580 - 00:14:45,580] arbitrary from a moral point of view,
+- [00:14:45,580 - 00:14:48,580] such as whether you got a good education or not,
+- [00:14:48,580 - 00:14:51,580] whether you grew up in a family that supported you
+- [00:14:51,580 - 00:14:53,580] and developed in you a work ethic
+- [00:14:53,580 - 00:14:56,580] and gave you the opportunities.
+- [00:14:56,580 - 00:15:01,580] So that suggests moving to a system of fair
+- [00:15:01,580 - 00:15:03,580] equality of opportunity,
+- [00:15:03,580 - 00:15:06,580] and that's really the system that Mike was advocating
+- [00:15:06,580 - 00:15:07,580] earlier on.
+- [00:15:07,580 - 00:15:10,580] What we might call a merit-based system,
+- [00:15:10,580 - 00:15:12,580] a meritocratic system.
+- [00:15:12,580 - 00:15:14,580] In a fair meritocracy,
+- [00:15:14,580 - 00:15:17,580] the society sets up institutions
+- [00:15:17,580 - 00:15:20,580] to bring everyone to the same starting point
+- [00:15:20,580 - 00:15:23,580] before the race begins.
+- [00:15:23,580 - 00:15:26,580] Equal educational opportunities,
+- [00:15:26,580 - 00:15:30,580] Head Start programs, for example,
+- [00:15:30,580 - 00:15:35,580] support for schools in impoverished neighborhoods,
+- [00:15:35,580 - 00:15:39,580] so that everyone, regardless of their family background,
+- [00:15:39,580 - 00:15:43,580] has a genuinely fair opportunity,
+- [00:15:43,580 - 00:15:47,580] everyone starts from the same starting line.
+- [00:15:47,580 - 00:15:50,580] Well, what does Rawls think about
+- [00:15:50,580 - 00:15:52,580] the meritocratic system?
+- [00:15:55,580 - 00:15:57,580] Even that, he says,
+- [00:15:57,580 - 00:16:00,580] doesn't go far enough in remedying
+- [00:16:00,580 - 00:16:02,580] or addressing
+- [00:16:02,580 - 00:16:05,580] the moral arbitrariness
+- [00:16:07,580 - 00:16:09,580] of the natural lottery.
+- [00:16:10,580 - 00:16:11,580] Because if you bring everyone
+- [00:16:11,580 - 00:16:13,580] to the same starting point,
+- [00:16:13,580 - 00:16:17,580] and begin the race,
+- [00:16:17,580 - 00:16:20,580] who's going to win the race?
+- [00:16:20,580 - 00:16:22,580] Who would win?
+- [00:16:22,580 - 00:16:25,580] To use the runner's example.
+- [00:16:25,580 - 00:16:28,580] The fastest runners would win.
+- [00:16:28,580 - 00:16:31,580] But is it their doing
+- [00:16:31,580 - 00:16:33,580] that they happen to be blessed
+- [00:16:33,580 - 00:16:36,580] with the athletic prowess to run fast?
+- [00:16:41,580 - 00:16:42,580] So Rawls says,
+- [00:16:42,580 - 00:16:46,580] even the principle of meritocracy,
+- [00:16:46,580 - 00:16:49,580] where you bring everyone to the same starting point,
+- [00:16:49,580 - 00:16:52,580] may eliminate the influence of social contingencies
+- [00:16:52,580 - 00:16:53,580] and upbringing,
+- [00:16:53,580 - 00:16:55,580] but it still permits the distribution
+- [00:16:55,580 - 00:16:57,580] of wealth and income to be determined
+- [00:16:57,580 - 00:16:59,580] by the natural distribution
+- [00:16:59,580 - 00:17:02,580] of abilities and talents.
+- [00:17:02,580 - 00:17:04,579] And so he thinks
+- [00:17:04,579 - 00:17:05,579] that the principle of eliminating
+- [00:17:05,579 - 00:17:07,579] morally arbitrary influences
+- [00:17:07,579 - 00:17:09,579] in the distribution of income and wealth
+- [00:17:09,579 - 00:17:11,579] requires going beyond
+- [00:17:11,579 - 00:17:14,579] what Mike favors,
+- [00:17:14,579 - 00:17:17,579] the meritocratic system.
+- [00:17:17,579 - 00:17:20,579] Now, how do you go beyond?
+- [00:17:20,579 - 00:17:23,579] If you bring everyone to the same starting point,
+- [00:17:23,579 - 00:17:25,579] and you're still bothered by the fact
+- [00:17:25,579 - 00:17:26,579] that some are fast runners
+- [00:17:26,579 - 00:17:28,580] and some are not fast runners,
+- [00:17:28,580 - 00:17:30,580] what can you do?
+- [00:17:30,580 - 00:17:32,580] Well, some critics
+- [00:17:32,580 - 00:17:35,580] of a more egalitarian conception
+- [00:17:35,580 - 00:17:37,580] say the only thing you can do
+- [00:17:37,580 - 00:17:40,580] is handicap the fast runners.
+- [00:17:40,580 - 00:17:42,580] Make them wear lead shoes.
+- [00:17:42,580 - 00:17:44,580] But who wants to do that?
+- [00:17:46,580 - 00:17:47,580] That would defeat the whole point
+- [00:17:47,580 - 00:17:49,580] of running the race.
+- [00:17:50,580 - 00:17:52,580] But Rawls says,
+- [00:17:52,580 - 00:17:53,580] you don't have to have
+- [00:17:53,580 - 00:17:55,580] a kind of leveling equality
+- [00:17:55,580 - 00:17:57,580] if you want to go beyond
+- [00:17:57,580 - 00:17:59,580] a meritocratic conception.
+- [00:17:59,580 - 00:18:01,580] You permit,
+- [00:18:01,580 - 00:18:03,580] you even encourage,
+- [00:18:03,580 - 00:18:06,580] those who may be gifted
+- [00:18:06,580 - 00:18:08,580] to exercise their talents.
+- [00:18:08,580 - 00:18:10,580] But what you do,
+- [00:18:10,580 - 00:18:12,580] is you change the terms
+- [00:18:12,580 - 00:18:14,580] on which people are entitled
+- [00:18:14,580 - 00:18:16,580] to the fruits of the exercise
+- [00:18:16,580 - 00:18:18,580] of those talents.
+- [00:18:18,580 - 00:18:19,580] And that really is what
+- [00:18:19,580 - 00:18:21,580] the difference principle is.
+- [00:18:21,580 - 00:18:24,580] You establish a principle that says,
+- [00:18:24,580 - 00:18:25,580] people may benefit
+- [00:18:25,580 - 00:18:28,580] from their good fortune,
+- [00:18:28,580 - 00:18:31,580] from their luck in the genetic lottery,
+- [00:18:31,580 - 00:18:33,580] but only on terms
+- [00:18:33,580 - 00:18:34,580] that work to the advantage
+- [00:18:34,580 - 00:18:35,580] of the least well-off.
+- [00:18:35,580 - 00:18:38,580] And so, for example,
+- [00:18:40,580 - 00:18:42,580] Michael Jordan can make
+- [00:18:42,580 - 00:18:43,580] $31 million,
+- [00:18:43,580 - 00:18:46,580] but only under a system
+- [00:18:46,580 - 00:18:48,580] that taxes away
+- [00:18:48,580 - 00:18:49,580] a chunk of that
+- [00:18:49,580 - 00:18:51,580] to help those who lack
+- [00:18:51,580 - 00:18:52,580] the basketball skills
+- [00:18:52,580 - 00:18:54,580] that he's blessed with.
+- [00:18:55,580 - 00:18:57,580] Likewise, Bill Gates,
+- [00:18:57,580 - 00:18:59,580] he can make his billions,
+- [00:18:59,580 - 00:19:01,580] but he can't think that he somehow
+- [00:19:01,580 - 00:19:04,580] morally deserves those billions.
+- [00:19:05,580 - 00:19:07,580] Those who have been favored by nature
+- [00:19:08,580 - 00:19:10,580] may gain from their good fortune,
+- [00:19:10,580 - 00:19:11,580] but only on terms
+- [00:19:11,580 - 00:19:12,580] that improve the situation
+- [00:19:12,580 - 00:19:14,580] of those who have lost out.
+- [00:19:14,580 - 00:19:16,580] That's the difference principle.
+- [00:19:16,580 - 00:19:17,580] And it's an argument
+- [00:19:17,580 - 00:19:19,580] from moral arbitrariness.
+- [00:19:19,580 - 00:19:21,580] Rawls claims that if you're bothered
+- [00:19:21,580 - 00:19:23,580] by basing distributive shares
+- [00:19:23,580 - 00:19:24,580] on factors arbitrary
+- [00:19:24,580 - 00:19:26,580] from a moral point of view,
+- [00:19:26,580 - 00:19:27,580] you don't just reject
+- [00:19:27,580 - 00:19:28,580] a feudal aristocracy
+- [00:19:28,580 - 00:19:31,580] for a free market.
+- [00:19:31,580 - 00:19:35,580] You don't even rest content
+- [00:19:35,580 - 00:19:37,580] with a meritocratic system
+- [00:19:37,580 - 00:19:38,580] that brings everyone
+- [00:19:38,580 - 00:19:40,580] to the same starting point.
+- [00:19:40,580 - 00:19:42,580] You set up a system
+- [00:19:42,580 - 00:19:43,580] where everyone,
+- [00:19:43,580 - 00:19:45,580] including those at the bottom,
+- [00:19:45,580 - 00:19:46,580] benefit from the exercise
+- [00:19:46,580 - 00:19:47,580] of the talents
+- [00:19:47,580 - 00:19:48,580] held by those
+- [00:19:48,580 - 00:19:51,580] who happen to be lucky.
+- [00:19:51,580 - 00:19:53,580] What do you think?
+- [00:19:53,580 - 00:19:55,580] Is that persuasive?
+- [00:19:57,580 - 00:19:59,580] Who finds that argument
+- [00:19:59,580 - 00:20:00,580] unpersuasive,
+- [00:20:00,580 - 00:20:01,580] the argument
+- [00:20:01,580 - 00:20:03,580] from moral arbitrariness?
+- [00:20:03,580 - 00:20:05,580] Yes?
+- [00:20:05,580 - 00:20:08,580] I think that in the egalitarian
+- [00:20:08,580 - 00:20:09,580] proposition,
+- [00:20:09,580 - 00:20:11,580] the more talented people,
+- [00:20:11,580 - 00:20:12,580] I think it's very optimistic
+- [00:20:12,580 - 00:20:14,580] to think that they would still
+- [00:20:14,580 - 00:20:16,580] work really hard
+- [00:20:16,580 - 00:20:17,580] even if they knew
+- [00:20:17,580 - 00:20:19,580] that part of what they made
+- [00:20:19,580 - 00:20:20,580] would be given away.
+- [00:20:20,580 - 00:20:22,580] So I think that the only way
+- [00:20:22,580 - 00:20:24,580] for the more talented people
+- [00:20:24,580 - 00:20:25,580] to exercise their talents
+- [00:20:25,580 - 00:20:27,580] to the best of their ability
+- [00:20:27,580 - 00:20:29,580] is in the meritocracy.
+- [00:20:29,580 - 00:20:30,580] And in a meritocracy,
+- [00:20:30,580 - 00:20:31,580] what's your name?
+- [00:20:31,580 - 00:20:32,580] Kate.
+- [00:20:32,580 - 00:20:33,580] Kate.
+- [00:20:33,580 - 00:20:34,580] Does it bother you?
+- [00:20:34,580 - 00:20:37,580] And Mike, does it bother you?
+- [00:20:37,580 - 00:20:38,580] I think that the more talented
+- [00:20:38,580 - 00:20:39,580] people,
+- [00:20:39,580 - 00:20:40,580] the more talented they are,
+- [00:20:40,580 - 00:20:41,580] the more talented they are
+- [00:20:41,580 - 00:20:42,580] in the meritocracy.
+- [00:20:42,580 - 00:20:43,580] And I think that
+- [00:20:43,580 - 00:20:44,580] in a meritocratic system,
+- [00:20:44,580 - 00:20:45,580] even with fair equality
+- [00:20:45,580 - 00:20:47,580] of opportunity,
+- [00:20:47,580 - 00:20:48,580] people get ahead,
+- [00:20:48,580 - 00:20:49,580] people get rewards
+- [00:20:49,580 - 00:20:51,580] that they don't deserve
+- [00:20:51,580 - 00:20:52,580] simply because they happen
+- [00:20:52,580 - 00:20:54,580] to be naturally gifted.
+- [00:20:54,580 - 00:20:56,580] What about that?
+- [00:20:56,580 - 00:20:59,580] I think that it is arbitrary
+- [00:20:59,580 - 00:21:01,580] and obviously it's arbitrary,
+- [00:21:01,580 - 00:21:03,580] but I think that they're,
+- [00:21:03,580 - 00:21:04,580] that correcting for it
+- [00:21:04,580 - 00:21:06,580] would be detrimental
+- [00:21:06,580 - 00:21:07,580] and unlike...
+- [00:21:07,580 - 00:21:08,580] Because it would reduce
+- [00:21:08,580 - 00:21:09,580] the value of the race.
+- [00:21:09,580 - 00:21:10,580] Yeah.
+- [00:21:10,580 - 00:21:11,580] Mike, what do you say?
+- [00:21:11,580 - 00:21:12,580] We're all sitting in this room
+- [00:21:12,580 - 00:21:14,580] and we have undeserved,
+- [00:21:14,580 - 00:21:15,580] we have undeserved glory
+- [00:21:15,580 - 00:21:16,580] of some sort
+- [00:21:16,580 - 00:21:17,580] so you should not be satisfied
+- [00:21:17,580 - 00:21:19,580] with the process of your life
+- [00:21:19,580 - 00:21:20,580] because you have not created
+- [00:21:20,580 - 00:21:21,580] any of this.
+- [00:21:21,580 - 00:21:22,580] And I think from a standpoint
+- [00:21:22,580 - 00:21:23,580] of not just this room
+- [00:21:23,580 - 00:21:24,580] us being upset,
+- [00:21:24,580 - 00:21:26,580] but from a societal standpoint,
+- [00:21:26,580 - 00:21:27,580] we should have some kind of
+- [00:21:27,580 - 00:21:29,580] a gut reaction to that feeling
+- [00:21:29,580 - 00:21:30,580] that, you know,
+- [00:21:30,580 - 00:21:31,580] the guy who runs the race,
+- [00:21:31,580 - 00:21:32,580] he doesn't,
+- [00:21:32,580 - 00:21:33,580] he actually harms us
+- [00:21:33,580 - 00:21:34,580] as opposed to maybe makes me
+- [00:21:34,580 - 00:21:35,580] run that last 10 yards faster
+- [00:21:35,580 - 00:21:37,580] and that makes the guy behind me
+- [00:21:37,580 - 00:21:38,580] run 10 yards faster
+- [00:21:38,580 - 00:21:39,580] and the guy behind him
+- [00:21:39,580 - 00:21:40,580] 10 yards faster.
+- [00:21:40,580 - 00:21:41,580] All right, so Mike,
+- [00:21:41,580 - 00:21:42,580] let me ask you,
+- [00:21:42,580 - 00:21:43,580] you talked about effort before.
+- [00:21:43,580 - 00:21:44,580] Effort.
+- [00:21:44,580 - 00:21:47,580] Do you think when people work hard
+- [00:21:47,580 - 00:21:49,580] to get ahead and succeed
+- [00:21:49,580 - 00:21:52,580] that they deserve the rewards
+- [00:21:52,580 - 00:21:54,580] that go with effort?
+- [00:21:54,580 - 00:21:55,580] Isn't that the idea
+- [00:21:55,580 - 00:21:56,580] behind your defense of...
+- [00:21:56,580 - 00:21:57,580] I mean, of course,
+- [00:21:57,580 - 00:21:58,580] bring Michael Jordan here,
+- [00:21:58,580 - 00:21:59,580] I'm sure you can get him,
+- [00:21:59,580 - 00:22:00,580] and have him come
+- [00:22:00,580 - 00:22:01,580] and defend himself
+- [00:22:01,580 - 00:22:02,580] about why he makes $31 million
+- [00:22:02,580 - 00:22:03,580] and I think what you're going
+- [00:22:03,580 - 00:22:04,580] to realize is his life
+- [00:22:04,580 - 00:22:05,580] was a very, very tough one
+- [00:22:05,580 - 00:22:06,580] to get to the top
+- [00:22:06,580 - 00:22:07,580] and that we are very,
+- [00:22:07,580 - 00:22:08,580] very proud of him
+- [00:22:08,580 - 00:22:09,580] for basically being
+- [00:22:09,580 - 00:22:10,580] the majority oppressing
+- [00:22:10,580 - 00:22:11,580] the minority in a different light.
+- [00:22:11,580 - 00:22:12,580] It's very easy to pick on him.
+- [00:22:12,580 - 00:22:13,580] All right.
+- [00:22:13,580 - 00:22:14,580] Very easy.
+- [00:22:14,580 - 00:22:15,580] Effort.
+- [00:22:15,580 - 00:22:16,580] You know what?
+- [00:22:17,580 - 00:22:18,580] All right, you've got...
+- [00:22:18,580 - 00:22:19,580] I've got a few.
+- [00:22:19,580 - 00:22:20,580] You've persuaded a lot of people.
+- [00:22:20,580 - 00:22:21,580] I've got a few,
+- [00:22:21,580 - 00:22:22,580] but that's about it.
+- [00:22:22,580 - 00:22:23,580] Effort.
+- [00:22:23,580 - 00:22:24,580] You know what
+- [00:22:24,580 - 00:22:27,580] Raul's answer to that is?
+- [00:22:27,580 - 00:22:29,580] Even the effort
+- [00:22:29,580 - 00:22:32,580] that some people expend,
+- [00:22:32,580 - 00:22:33,580] conscientious driving,
+- [00:22:33,580 - 00:22:35,580] the work ethic,
+- [00:22:35,580 - 00:22:37,580] even effort depends a lot
+- [00:22:37,580 - 00:22:38,580] on fortunate results
+- [00:22:38,580 - 00:22:40,580] and family circumstances
+- [00:22:40,580 - 00:22:41,580] for which you,
+- [00:22:41,580 - 00:22:42,580] we,
+- [00:22:42,580 - 00:22:44,580] can claim no credit.
+- [00:22:44,580 - 00:22:46,580] Now, let's...
+- [00:22:46,580 - 00:22:48,580] Wait, we're going to let...
+- [00:22:48,580 - 00:22:50,580] Let's do the test.
+- [00:22:50,580 - 00:22:52,580] Let's do a test here.
+- [00:22:52,580 - 00:22:54,580] Never mind economic class.
+- [00:22:54,580 - 00:22:55,580] Those differences
+- [00:22:55,580 - 00:22:56,580] are very significant.
+- [00:22:56,580 - 00:22:58,580] Put those aside.
+- [00:22:58,580 - 00:23:01,580] Psychologists say that birth order
+- [00:23:01,580 - 00:23:03,580] makes a lot of difference
+- [00:23:03,580 - 00:23:04,580] in work ethic,
+- [00:23:04,580 - 00:23:07,580] striving, effort.
+- [00:23:07,580 - 00:23:08,580] How many here...
+- [00:23:08,580 - 00:23:09,580] Raise your hand,
+- [00:23:09,580 - 00:23:10,580] those of you here
+- [00:23:10,580 - 00:23:13,580] who are first in birth order.
+- [00:23:17,580 - 00:23:19,580] I am too, by the way.
+- [00:23:22,580 - 00:23:24,580] Mike, I noticed you raised your hand.
+- [00:23:27,580 - 00:23:29,580] If the case
+- [00:23:29,580 - 00:23:32,580] for the meritocratic conception
+- [00:23:32,580 - 00:23:35,580] is that effort should be rewarded,
+- [00:23:35,580 - 00:23:36,580] doesn't Raul's answer
+- [00:23:36,580 - 00:23:38,580] have a point
+- [00:23:38,580 - 00:23:40,580] that even effort,
+- [00:23:40,580 - 00:23:41,580] striving,
+- [00:23:41,580 - 00:23:42,580] work ethic
+- [00:23:42,580 - 00:23:44,580] is largely shaped
+- [00:23:44,580 - 00:23:47,580] even by birth order?
+- [00:23:47,580 - 00:23:49,580] Is it your doing?
+- [00:23:49,580 - 00:23:50,580] Mike, is it your doing
+- [00:23:50,580 - 00:23:53,580] that you were first in birth order?
+- [00:23:53,580 - 00:23:56,580] Then why, Raul says,
+- [00:23:56,580 - 00:23:58,580] of course not.
+- [00:23:58,580 - 00:24:01,580] So why should income and wealth
+- [00:24:01,580 - 00:24:04,580] and opportunities in life
+- [00:24:04,580 - 00:24:05,580] be based on birth order?
+- [00:24:05,580 - 00:24:07,580] Why should the birth order
+- [00:24:07,580 - 00:24:09,580] be based on factors
+- [00:24:09,580 - 00:24:11,580] arbitrary from a moral point of view?
+- [00:24:11,580 - 00:24:14,580] That's a challenge that he puts
+- [00:24:14,580 - 00:24:18,580] to market societies,
+- [00:24:18,580 - 00:24:21,580] but also
+- [00:24:21,580 - 00:24:23,580] to those of us
+- [00:24:23,580 - 00:24:25,580] at places like this.
+- [00:24:25,580 - 00:24:26,580] A question to think about
+- [00:24:26,580 - 00:24:27,580] for next time.
+- [00:24:35,580 - 00:24:38,580] A justice of the United States Supreme Court.
+- [00:24:38,580 - 00:24:41,580] What do they make?
+- [00:24:41,580 - 00:24:45,580] It's just under $200,000.
+- [00:24:45,580 - 00:24:47,580] But there's another judge
+- [00:24:47,580 - 00:24:48,580] who makes a lot more
+- [00:24:48,580 - 00:24:50,580] than Sandra Day O'Connor.
+- [00:24:52,580 - 00:24:53,580] Do you know who it is?
+- [00:24:53,580 - 00:24:54,580] Judge Judy.
+- [00:24:54,580 - 00:24:55,580] Judge Judy.
+- [00:24:55,580 - 00:24:56,580] How did you know that?
+- [00:24:58,580 - 00:24:59,580] Judge Judy.
+- [00:24:59,580 - 00:25:00,580] Do you know how much she makes?
+- [00:25:01,580 - 00:25:03,580] $25 million.
+- [00:25:03,580 - 00:25:04,580] Now,
+- [00:25:04,580 - 00:25:06,580] is that just?
+- [00:25:06,580 - 00:25:07,580] Is it fair?
+- [00:25:11,580 - 00:25:13,580] We ended last time
+- [00:25:13,580 - 00:25:15,580] with that remarkable poll.
+- [00:25:15,580 - 00:25:16,580] Do you remember?
+- [00:25:18,580 - 00:25:20,580] The poll about birth order?
+- [00:25:23,580 - 00:25:25,580] What percentage of people
+- [00:25:27,580 - 00:25:28,580] in this room
+- [00:25:29,580 - 00:25:30,580] raised their hands?
+- [00:25:32,580 - 00:25:33,580] Was it
+- [00:25:33,580 - 00:25:35,580] to say that they were the first born?
+- [00:25:38,580 - 00:25:40,580] 75, 80 percent?
+- [00:25:43,580 - 00:25:45,580] And what was the significance of that
+- [00:25:45,580 - 00:25:47,580] if you're thinking about these theories
+- [00:25:47,580 - 00:25:48,580] of distributive justice?
+- [00:25:50,580 - 00:25:52,580] Remember,
+- [00:25:52,580 - 00:25:54,580] we were discussing
+- [00:25:56,580 - 00:25:57,580] three different theories
+- [00:25:57,580 - 00:25:59,580] of distributive justice.
+- [00:25:59,580 - 00:26:00,580] Three different ways
+- [00:26:00,580 - 00:26:01,580] of answering the question,
+- [00:26:01,580 - 00:26:02,580] how should individuals,
+- [00:26:02,580 - 00:26:03,580] how should the population,
+- [00:26:03,580 - 00:26:04,580] how should income and wealth
+- [00:26:04,580 - 00:26:06,580] and opportunities
+- [00:26:06,580 - 00:26:07,580] and the good things in life
+- [00:26:07,580 - 00:26:08,580] be distributed?
+- [00:26:09,580 - 00:26:10,580] And so far,
+- [00:26:10,580 - 00:26:12,580] we've looked at the libertarian answer
+- [00:26:13,580 - 00:26:14,580] that says the just system
+- [00:26:14,580 - 00:26:15,580] of distribution
+- [00:26:16,580 - 00:26:18,580] is a system of free exchange,
+- [00:26:18,580 - 00:26:20,580] a free market economy,
+- [00:26:20,580 - 00:26:22,580] against a background
+- [00:26:23,580 - 00:26:25,580] of formal equality,
+- [00:26:25,580 - 00:26:26,580] which simply means
+- [00:26:26,580 - 00:26:28,580] that jobs and careers
+- [00:26:28,580 - 00:26:29,580] are open to anyone.
+- [00:26:29,580 - 00:26:30,580] We've looked at the libertarian answer,
+- [00:26:31,580 - 00:26:32,580] which is that
+- [00:26:32,580 - 00:26:33,580] the system of just distribution
+- [00:26:33,580 - 00:26:34,580] is the one that results
+- [00:26:34,580 - 00:26:35,580] from free exchange,
+- [00:26:35,580 - 00:26:36,580] free exchange,
+- [00:26:36,580 - 00:26:37,580] free exchange.
+- [00:26:37,580 - 00:26:38,580] Then,
+- [00:26:38,580 - 00:26:39,580] Rawls says
+- [00:26:39,580 - 00:26:40,580] that the free market economy
+- [00:26:40,580 - 00:26:41,580] is the one that results
+- [00:26:41,580 - 00:26:42,580] from free exchange,
+- [00:26:42,580 - 00:26:43,580] free exchange.
+- [00:26:43,580 - 00:26:44,580] Rawls says
+- [00:26:44,580 - 00:26:45,580] this represents an improvement
+- [00:26:45,580 - 00:26:46,580] over aristocratic
+- [00:26:46,580 - 00:26:48,580] and caste systems
+- [00:26:49,580 - 00:26:50,580] because everyone can compete
+- [00:26:50,580 - 00:26:51,580] for every job,
+- [00:26:51,580 - 00:26:52,580] careers,
+- [00:26:52,580 - 00:26:53,580] open talents.
+- [00:26:54,580 - 00:26:55,580] And beyond that,
+- [00:26:55,580 - 00:26:56,580] the just distribution
+- [00:26:56,580 - 00:26:57,580] is the one that results
+- [00:26:57,580 - 00:26:58,580] from free exchange,
+- [00:26:58,580 - 00:27:04,310] is formal equality, jobs open to everyone, the
+- [00:27:04,310 - 00:27:10,040] result is not going to be fair. It
+- [00:27:10,040 - 00:27:12,930] will be biased in favor of those
+- [00:27:12,930 - 00:27:15,820] who happen to be born to affluent families,
+- [00:27:15,820 - 00:27:19,320] who happen to have the benefit
+- [00:27:19,320 - 00:27:22,820] of good educational opportunities. And that
+- [00:27:22,820 - 00:27:27,920] accident of birth is not a just
+- [00:27:27,920 - 00:27:33,020] basis for distributing life chances. And so
+- [00:27:33,020 - 00:27:39,000] many people who notice this unfairness, Rawls
+- [00:27:39,000 - 00:27:44,980] argues, are led to embrace a system
+- [00:27:44,980 - 00:27:48,579] of fair equality of opportunity.
+- [00:27:48,579 - 00:27:52,179] That leads to the meritocratic system.
+- [00:27:52,820 - 00:27:56,570] Fair equality of opportunity. But Rawls says,
+- [00:27:56,570 - 00:28:00,320] even if you bring everyone to the
+- [00:28:00,320 - 00:28:04,570] same starting point in the race, what's
+- [00:28:04,570 - 00:28:08,820] going to happen? Who's going to win? The
+- [00:28:08,820 - 00:28:12,400] fastest runners. So once you're troubled
+- [00:28:12,400 - 00:28:15,980] by basing distributive shares on morally
+- [00:28:15,980 - 00:28:19,390] arbitrary contingencies, you should, if
+- [00:28:19,390 - 00:28:22,800] you reason it through, be careful
+- [00:28:22,800 - 00:28:24,800] about what you're doing. And that's what he
+- [00:28:24,800 - 00:28:26,800] carried all the way to what Rawls calls
+- [00:28:26,800 - 00:28:29,300] the democratic conception, a
+- [00:28:29,300 - 00:28:31,800] more egalitarian conception of distributive
+- [00:28:31,800 - 00:28:35,800] justice that he defines by the difference
+- [00:28:35,800 - 00:28:39,800] principle. Now he doesn't say that the
+- [00:28:39,800 - 00:28:42,800] only way to remedy or to
+- [00:28:42,800 - 00:28:45,800] compensate for differences in natural talents and
+- [00:28:45,800 - 00:28:49,300] abilities is to have a kind of
+- [00:28:49,300 - 00:28:52,800] leveling equality, a guaranteed equality of outcome.
+- [00:28:52,800 - 00:28:57,800] But he does say there's another way
+- [00:28:57,800 - 00:29:02,800] to deal with these contingencies. People may gain,
+- [00:29:02,800 - 00:29:05,800] may benefit from their good fortune, but only
+- [00:29:05,800 - 00:29:08,800] on terms that work to the advantage of the
+- [00:29:08,800 - 00:29:12,800] least well-off. And so we can test how
+- [00:29:12,800 - 00:29:16,800] this theory actually works by thinking about some
+- [00:29:16,800 - 00:29:21,800] pay differentials that arise in our society.
+- [00:29:22,800 - 00:29:25,300] What does the average school teacher make
+- [00:29:25,300 - 00:29:27,800] in the United States, do you suppose?
+- [00:29:27,800 - 00:29:30,800] Roughly?
+- [00:29:30,800 - 00:29:34,300] It's a little more, 40, 42,000. What about
+- [00:29:34,300 - 00:29:37,800] David Letterman? How much do you think David
+- [00:29:37,800 - 00:29:44,800] Letterman makes? More than a school teacher?
+- [00:29:44,800 - 00:29:47,800] Thirty-one million dollars. David Letterman. Is
+- [00:29:47,800 - 00:29:50,800] that fair? That David Letterman, the
+- [00:29:50,800 - 00:29:53,300] David Letterman makes that much more than
+- [00:29:53,300 - 00:29:55,800] a school teacher. Well, Rawls' answer would
+- [00:29:55,800 - 00:29:59,800] be, it depends whether the basic structure of
+- [00:29:59,800 - 00:30:03,800] society is designed in such a way that
+- [00:30:03,800 - 00:30:06,300] Letterman's thirty-one million dollars is subject
+- [00:30:06,300 - 00:30:08,800] to taxation so that some of those
+- [00:30:08,800 - 00:30:13,300] earnings are taken to work for the advantage
+- [00:30:13,300 - 00:30:17,800] of the least well-off. One other example of
+- [00:30:17,800 - 00:30:18,800] a pay differential.
+- [00:30:20,800 - 00:30:26,800] A justice of the United States Supreme Court.
+- [00:30:26,800 - 00:30:32,800] What do they make? It's just under $200,000.
+- [00:30:32,800 - 00:30:37,800] Here's Sandra Day O'Connor, for example. There
+- [00:30:37,800 - 00:30:42,800] she is. But there's another judge who makes
+- [00:30:42,800 - 00:30:45,800] a lot more than Sandra Day
+- [00:30:45,800 - 00:30:48,800] O'Connor. Do you know who it is?
+- [00:30:48,800 - 00:30:49,800] Judge Judy.
+- [00:30:49,800 - 00:30:50,800] Judge Judy.
+- [00:30:50,800 - 00:30:54,300] Judge Judy. How did you know that? You
+- [00:30:54,300 - 00:30:57,800] watch? You know, but you've heard. You're right.
+- [00:30:57,800 - 00:31:02,300] Judge Judy. Do you know how much
+- [00:31:02,300 - 00:31:06,800] she makes? There she is. Twenty-five, twenty-five million
+- [00:31:06,800 - 00:31:13,300] dollars. Now, is that just? Is it fair?
+- [00:31:13,300 - 00:31:19,800] Well, the answer is it depends whether the basic
+- [00:31:19,800 - 00:31:23,300] structure of society is designed in such a
+- [00:31:23,300 - 00:31:26,800] way that the tax credit system is designed
+- [00:31:26,800 - 00:31:29,800] to support the most well-off.
+- [00:31:29,800 - 00:31:35,800] Now, let's talk about this.
+- [00:31:35,800 - 00:31:41,800] Let's talk about the basic structure of society.
+- [00:31:41,800 - 00:31:44,800] I'm going to talk about this in a different way.
+- [00:31:44,800 - 00:31:45,300] You know, I'm going to talk
+- [00:31:45,300 - 00:31:45,800] about this in a different way.
+- [00:31:45,800 - 00:31:46,800] I'm going to talk about this in a different way.
+- [00:31:46,800 - 00:31:47,800] Let's talk about this in a different way.
+- [00:31:47,800 - 00:31:50,180] and a TV judge, the
+- [00:31:50,180 - 00:31:52,560] one Marcus watches all the time.
+- [00:31:54,100 - 00:31:56,090] What I want to do
+- [00:31:56,090 - 00:31:58,080] now is return to these theories
+- [00:31:58,080 - 00:32:03,260] and to examine the objections
+- [00:32:03,260 - 00:32:10,080] to Rawls' more egalitarian theory,
+- [00:32:10,840 - 00:32:11,740] the difference principle.
+- [00:32:12,560 - 00:32:15,700] There are at least three objections.
+- [00:32:17,800 - 00:32:19,840] To Rawls' difference principle.
+- [00:32:21,639 - 00:32:25,320] One of them came up last time in the discussion,
+- [00:32:25,520 - 00:32:27,180] and a number of you raised this worry.
+- [00:32:28,040 - 00:32:29,159] What about incentives?
+- [00:32:31,040 - 00:32:33,880] Isn't there the risk if taxes
+- [00:32:33,880 - 00:32:36,720] reach 70, 80, 90% marginal rate
+- [00:32:36,720 - 00:32:41,040] that Michael Jordan won't play basketball?
+- [00:32:42,720 - 00:32:47,379] That David Letterman won't do late night comedy?
+- [00:32:47,800 - 00:32:52,380] Or that CEOs will go
+- [00:32:52,380 - 00:32:56,960] into some other line of work?
+- [00:32:57,639 - 00:33:01,240] Now, who among those who are defenders of Rawls,
+- [00:33:01,639 - 00:33:06,240] who has an answer to this objection
+- [00:33:06,240 - 00:33:08,060] about the need for incentives?
+- [00:33:10,639 - 00:33:11,360] Yes.
+- [00:33:12,040 - 00:33:12,440] Go ahead.
+- [00:33:12,680 - 00:33:13,139] Stand up.
+- [00:33:13,139 - 00:33:13,240] Thank you.
+- [00:33:14,940 - 00:33:17,780] Rawls' idea is that there should,
+- [00:33:17,800 - 00:33:19,180] there should only be so much difference
+- [00:33:19,180 - 00:33:22,240] that it helps the least well-off the most.
+- [00:33:23,000 - 00:33:25,399] So if there's too much equality,
+- [00:33:25,780 - 00:33:27,400] then the least well-off might not
+- [00:33:27,400 - 00:33:29,020] be able to watch late night TV
+- [00:33:29,020 - 00:33:30,900] or might not have a job
+- [00:33:30,900 - 00:33:32,780] because their CEO doesn't want to work.
+- [00:33:33,560 - 00:33:35,860] So you need to find the correct balance
+- [00:33:35,860 - 00:33:38,720] where taxation still leaves enough incentive
+- [00:33:38,720 - 00:33:41,940] for the least well-off to benefit from the talents.
+- [00:33:42,180 - 00:33:42,440] Good.
+- [00:33:42,620 - 00:33:43,340] And what's your name?
+- [00:33:43,639 - 00:33:43,940] Tim.
+- [00:33:44,180 - 00:33:44,460] Tim.
+- [00:33:44,460 - 00:33:45,340] All right.
+- [00:33:45,600 - 00:33:46,879] So Tim is saying, in effect,
+- [00:33:46,880 - 00:33:49,620] that Rawls takes account of incentives
+- [00:33:49,620 - 00:33:52,500] and could allow for pay differentials
+- [00:33:52,500 - 00:33:56,480] and for some adjustment in the tax rate
+- [00:33:56,480 - 00:33:58,280] to take account of incentives.
+- [00:33:58,740 - 00:33:59,960] But, Tim points out,
+- [00:34:00,820 - 00:34:04,120] the standpoint from which
+- [00:34:04,120 - 00:34:08,540] the question of incentives needs to be considered
+- [00:34:08,540 - 00:34:10,810] is not the effect on the
+- [00:34:10,810 - 00:34:13,080] total size of the economic pie,
+- [00:34:14,020 - 00:34:15,880] but instead from the standpoint of the effect
+- [00:34:15,880 - 00:34:16,219] of the economic pie.
+- [00:34:16,219 - 00:34:16,400] Of the economic pie.
+- [00:34:16,400 - 00:34:16,440] Of the economic pie.
+- [00:34:16,440 - 00:34:16,860] Of the economic pie.
+- [00:34:16,860 - 00:34:18,659] Of incentives or disincentives
+- [00:34:18,659 - 00:34:21,340] on the well-being of those at the bottom.
+- [00:34:22,800 - 00:34:23,320] Right?
+- [00:34:24,239 - 00:34:24,760] Good.
+- [00:34:24,880 - 00:34:25,260] Thank you.
+- [00:34:25,320 - 00:34:26,840] I think that is what Rawls would say.
+- [00:34:27,659 - 00:34:31,639] In fact, if you look in section 17,
+- [00:34:33,020 - 00:34:36,139] where he describes the difference principle,
+- [00:34:38,719 - 00:34:42,540] he allows for incentives.
+- [00:34:43,540 - 00:34:45,880] The naturally advantaged are not to gain.
+- [00:34:45,880 - 00:34:46,380] The naturally advantaged are not to gain.
+- [00:34:46,380 - 00:34:46,880] The naturally advantaged are not to gain.
+- [00:34:46,880 - 00:34:48,620] Merely because they are more gifted,
+- [00:34:48,620 - 00:34:51,820] but only to cover the cost of training and education
+- [00:34:51,820 - 00:34:53,860] and for using their endowments
+- [00:34:53,860 - 00:34:56,840] in ways that help the less fortunate as well.
+- [00:34:56,980 - 00:34:58,280] So you can have incentives.
+- [00:34:58,820 - 00:35:00,360] You can adjust the tax rate
+- [00:35:00,360 - 00:35:04,160] if taking too much from David Letterman
+- [00:35:04,160 - 00:35:06,080] or from Michael Jordan
+- [00:35:06,080 - 00:35:07,400] or from Bill Gates
+- [00:35:07,400 - 00:35:12,140] winds up actually hurting those at the bottom.
+- [00:35:12,620 - 00:35:13,600] That's the test.
+- [00:35:16,380 - 00:35:18,240] So incentives,
+- [00:35:18,940 - 00:35:21,060] that's not a decisive objection
+- [00:35:21,060 - 00:35:23,220] against Rawls' difference principle.
+- [00:35:24,340 - 00:35:27,220] But there are two weightier,
+- [00:35:27,520 - 00:35:29,020] more difficult objections.
+- [00:35:31,180 - 00:35:32,560] One of them
+- [00:35:32,560 - 00:35:36,760] comes
+- [00:35:36,760 - 00:35:41,240] from defenders of a meritocratic conception.
+- [00:35:42,780 - 00:35:44,660] The argument that says,
+- [00:35:44,660 - 00:35:46,120] what about effort?
+- [00:35:46,380 - 00:35:49,380] What about people working hard,
+- [00:35:49,380 - 00:35:52,380] having a right to what they earn
+- [00:35:52,380 - 00:35:54,380] because they've deserved it,
+- [00:35:54,380 - 00:35:55,380] they've worked hard for it?
+- [00:35:55,380 - 00:36:00,380] That's the objection from effort and moral desert.
+- [00:36:00,380 - 00:36:04,380] Then there's another objection
+- [00:36:04,380 - 00:36:09,380] that comes from libertarians.
+- [00:36:09,380 - 00:36:16,380] And this objection has to do with reasserting the idea,
+- [00:36:16,380 - 00:36:18,380] of self-ownership.
+- [00:36:18,380 - 00:36:23,380] Doesn't the difference principle,
+- [00:36:23,380 - 00:36:26,380] by treating our natural talents and endowments
+- [00:36:26,380 - 00:36:28,380] as common assets,
+- [00:36:30,380 - 00:36:35,380] doesn't that violate the idea that we own ourselves?
+- [00:36:35,380 - 00:36:38,380] Now, let me deal first
+- [00:36:39,380 - 00:36:41,880] with the objection that
+- [00:36:41,880 - 00:36:44,380] comes from the libertarian direction.
+- [00:36:44,380 - 00:36:46,380] Milton Friedman writes,
+- [00:36:46,380 - 00:36:48,380] in his book, Free to Choose,
+- [00:36:48,380 - 00:36:50,380] life is not fair.
+- [00:36:50,380 - 00:36:52,380] And it's tempting to believe
+- [00:36:52,380 - 00:36:54,380] that government can rectify
+- [00:36:54,380 - 00:36:56,380] what nature has spawned.
+- [00:36:56,380 - 00:36:58,380] But his answer is,
+- [00:36:58,380 - 00:37:02,380] the only way to try to rectify that
+- [00:37:02,380 - 00:37:06,380] is to have a leveling equality of outcome,
+- [00:37:06,380 - 00:37:09,380] everyone finishing the race at the same point,
+- [00:37:09,380 - 00:37:11,380] and the government
+- [00:37:11,380 - 00:37:13,380] is going to have to be able to do that.
+- [00:37:14,380 - 00:37:17,380] And that would be a disaster.
+- [00:37:19,380 - 00:37:23,380] This is an easy argument to answer.
+- [00:37:23,380 - 00:37:26,380] And Rawls addresses it
+- [00:37:28,380 - 00:37:31,380] in one of the most powerful passages,
+- [00:37:31,380 - 00:37:33,380] I think, of the theory of justice.
+- [00:37:33,380 - 00:37:36,380] It's in section 17.
+- [00:37:36,380 - 00:37:39,380] The natural distribution,
+- [00:37:39,380 - 00:37:41,380] and here he's talking about the natural distribution
+- [00:37:41,380 - 00:37:43,380] of talents and endowments,
+- [00:37:43,380 - 00:37:46,380] is neither just nor unjust.
+- [00:37:46,380 - 00:37:48,380] Nor is it unjust that persons are born into society
+- [00:37:48,380 - 00:37:50,380] at some particular position.
+- [00:37:50,380 - 00:37:52,380] These are simply natural facts.
+- [00:37:52,380 - 00:37:54,380] What is just and unjust
+- [00:37:54,380 - 00:37:57,380] is the way that institutions deal with these facts.
+- [00:37:59,380 - 00:38:01,380] That's his answer
+- [00:38:01,380 - 00:38:04,380] to libertarian laissez-faire economists
+- [00:38:04,380 - 00:38:06,380] like Milton Friedman who say,
+- [00:38:06,380 - 00:38:09,380] life is unfair, but get over it.
+- [00:38:09,380 - 00:38:12,380] Get over it, and let's see if we can
+- [00:38:12,380 - 00:38:15,380] at least maximize the benefits that flow from it.
+- [00:38:17,380 - 00:38:20,380] But the more powerful libertarian objection to Rawls
+- [00:38:20,380 - 00:38:23,380] is not from the libertarian economists
+- [00:38:23,380 - 00:38:25,380] like Milton Friedman.
+- [00:38:25,380 - 00:38:29,380] It's from the argument about self-ownership,
+- [00:38:29,380 - 00:38:32,380] developed, as we saw, in Nozick.
+- [00:38:35,380 - 00:38:37,380] And from that point of view,
+- [00:38:37,380 - 00:38:40,380] yes, it might be a good thing
+- [00:38:40,380 - 00:38:42,380] to create Head Start programs
+- [00:38:42,380 - 00:38:44,380] and public schools
+- [00:38:44,380 - 00:38:46,380] so that everyone can go to a decent school
+- [00:38:46,380 - 00:38:49,380] and start the race at the same starting line.
+- [00:38:49,380 - 00:38:51,380] That might be good.
+- [00:38:51,380 - 00:38:55,380] But if you tax people to create public schools,
+- [00:38:55,380 - 00:38:57,380] if you tax people
+- [00:38:57,380 - 00:38:59,380] against their will,
+- [00:38:59,380 - 00:39:02,380] you coerce them.
+- [00:39:02,380 - 00:39:04,380] It's a form of theft.
+- [00:39:04,380 - 00:39:07,380] If you take some of Letterman's 31 million,
+- [00:39:07,380 - 00:39:09,380] tax it away to support
+- [00:39:09,380 - 00:39:11,380] public schools
+- [00:39:11,380 - 00:39:13,380] against his will,
+- [00:39:13,380 - 00:39:16,380] the state is really doing no better
+- [00:39:16,380 - 00:39:19,380] than stealing from him.
+- [00:39:19,380 - 00:39:21,380] It's coercion.
+- [00:39:21,380 - 00:39:23,380] And the reason is,
+- [00:39:23,380 - 00:39:26,380] we have to think of ourselves
+- [00:39:26,380 - 00:39:29,380] as owning our talents and endowments.
+- [00:39:29,380 - 00:39:32,380] Because otherwise, we're back to just using people
+- [00:39:32,380 - 00:39:34,380] and coercing people.
+- [00:39:34,380 - 00:39:37,380] That's the libertarian reply.
+- [00:39:37,380 - 00:39:38,380] What's Rawls's answer?
+- [00:39:38,380 - 00:39:41,380] What's Rawls's answer to that objection?
+- [00:39:47,380 - 00:39:52,380] He doesn't address the idea of self-ownership directly.
+- [00:39:52,380 - 00:39:54,380] But the effect,
+- [00:39:54,380 - 00:39:56,380] the moral weight of his argument
+- [00:39:56,380 - 00:39:59,380] for the difference principle is,
+- [00:39:59,380 - 00:40:01,380] maybe we don't own ourselves
+- [00:40:01,380 - 00:40:04,380] in that thoroughgoing sense after all.
+- [00:40:05,380 - 00:40:07,380] Now, he says this doesn't mean
+- [00:40:07,380 - 00:40:09,380] that the state
+- [00:40:09,380 - 00:40:11,380] is an owner in me
+- [00:40:11,380 - 00:40:13,380] in the sense that it can simply
+- [00:40:13,380 - 00:40:16,380] commandeer my life.
+- [00:40:16,380 - 00:40:18,380] Because remember, the first principle
+- [00:40:18,380 - 00:40:22,380] we would agree to behind the veil of ignorance
+- [00:40:22,380 - 00:40:26,380] is the principle of equal basic liberties.
+- [00:40:26,380 - 00:40:28,380] Freedom of speech, religious liberty,
+- [00:40:28,380 - 00:40:32,380] freedom of conscience, and the like.
+- [00:40:32,380 - 00:40:35,380] So the only respect
+- [00:40:35,380 - 00:40:42,380] in which the idea of self-ownership must give way
+- [00:40:42,380 - 00:40:47,380] comes when we're thinking about whether
+- [00:40:47,380 - 00:40:50,380] I own myself in the sense that
+- [00:40:50,380 - 00:40:54,380] I have a privileged claim
+- [00:40:54,380 - 00:40:56,380] on the benefits that come
+- [00:40:56,380 - 00:40:58,380] from the exercise of my talents
+- [00:40:58,380 - 00:41:00,380] in a market economy.
+- [00:41:00,380 - 00:41:03,380] And Rawls says, on reflection, we don't.
+- [00:41:03,380 - 00:41:05,380] We can define that as,
+- [00:41:05,380 - 00:41:07,380] we can defend rights,
+- [00:41:07,380 - 00:41:09,380] we can respect the individual,
+- [00:41:09,380 - 00:41:14,380] we can uphold human dignity
+- [00:41:14,380 - 00:41:19,380] without embracing the idea of self-possession.
+- [00:41:22,380 - 00:41:26,380] That, in effect, is his reply
+- [00:41:26,380 - 00:41:28,380] to the libertarian.
+- [00:41:28,380 - 00:41:30,380] I want to turn now
+- [00:41:30,380 - 00:41:32,380] to his reply to the defender
+- [00:41:32,380 - 00:41:34,380] of a meritocratic conception,
+- [00:41:34,380 - 00:41:36,380] who invokes effort
+- [00:41:36,380 - 00:41:39,380] as the basis of moral desert.
+- [00:41:39,380 - 00:41:46,380] People who work hard to develop their talents
+- [00:41:46,380 - 00:41:49,380] deserve the benefits
+- [00:41:49,380 - 00:41:52,380] that come from the exercise of their talents.
+- [00:41:52,380 - 00:41:54,380] Well, we've already seen
+- [00:41:54,380 - 00:41:57,380] the beginning of Rawls's answer
+- [00:41:57,380 - 00:41:59,380] to that question,
+- [00:41:59,380 - 00:42:01,380] and it goes back to that
+- [00:42:01,380 - 00:42:03,380] poll we took about birth order.
+- [00:42:03,380 - 00:42:07,380] His first answer is,
+- [00:42:07,380 - 00:42:10,380] even the work ethic,
+- [00:42:10,380 - 00:42:13,380] even the willingness to strive conscientiously,
+- [00:42:13,380 - 00:42:16,380] depends on all sorts of family circumstances
+- [00:42:16,380 - 00:42:18,380] and social and cultural contingencies
+- [00:42:18,380 - 00:42:21,380] for which we can claim no credit.
+- [00:42:21,380 - 00:42:23,380] You can't claim credit for the fact that
+- [00:42:23,380 - 00:42:26,380] you, most of you, most of us,
+- [00:42:26,380 - 00:42:28,380] happen to be first in birth order,
+- [00:42:28,380 - 00:42:32,380] and that for some complex psychological and social reasons,
+- [00:42:32,380 - 00:42:34,380] that seems to be associated
+- [00:42:34,380 - 00:42:38,380] with striving, with achieving, with effort.
+- [00:42:38,380 - 00:42:41,380] That's one answer.
+- [00:42:41,380 - 00:42:44,380] There's a second answer.
+- [00:42:44,380 - 00:42:49,380] Those of you who invoke effort,
+- [00:42:49,380 - 00:42:52,380] you don't really believe
+- [00:42:52,380 - 00:42:56,380] that moral desert attaches to effort.
+- [00:42:56,380 - 00:42:58,380] Take two construction workers.
+- [00:42:58,380 - 00:42:59,880] One is strong and can
+- [00:42:59,880 - 00:43:01,380] raise four walls in an hour.
+- [00:43:01,380 - 00:43:05,380] Without even breaking a sweat.
+- [00:43:05,380 - 00:43:09,380] And another construction worker is small and scrawny,
+- [00:43:09,380 - 00:43:13,380] and has to spend three days
+- [00:43:13,380 - 00:43:16,380] to do the same amount of work.
+- [00:43:16,380 - 00:43:18,380] No defender of meritocracy
+- [00:43:18,380 - 00:43:20,380] is going to look at the effort
+- [00:43:20,380 - 00:43:22,380] of that weak and scrawny construction worker
+- [00:43:22,380 - 00:43:26,380] and say, therefore, he deserves to make more.
+- [00:43:26,380 - 00:43:28,380] So it isn't really effort.
+- [00:43:28,380 - 00:43:30,380] This is the second reply.
+- [00:43:30,380 - 00:43:33,380] To the meritocratic claim.
+- [00:43:33,380 - 00:43:36,380] It isn't really effort
+- [00:43:36,380 - 00:43:38,380] that the defender of meritocracy
+- [00:43:38,380 - 00:43:43,380] believes is the moral basis
+- [00:43:43,380 - 00:43:45,380] of distributive shares.
+- [00:43:45,380 - 00:43:46,380] It's contribution.
+- [00:43:46,380 - 00:43:49,380] How much do you contribute?
+- [00:43:49,380 - 00:43:52,380] But contribution takes us straight back
+- [00:43:52,380 - 00:43:55,380] to our natural talents and abilities.
+- [00:43:55,380 - 00:43:57,380] Not just effort.
+- [00:43:57,380 - 00:43:59,380] And it's not our doing,
+- [00:43:59,380 - 00:44:02,380] how we came into the possession of those talents
+- [00:44:02,380 - 00:44:05,380] in the first place.
+- [00:44:05,380 - 00:44:08,380] All right, suppose you accepted these arguments.
+- [00:44:08,380 - 00:44:10,380] That effort isn't everything.
+- [00:44:10,380 - 00:44:12,380] That contribution matters
+- [00:44:12,380 - 00:44:17,380] from the standpoint of the meritocratic conception.
+- [00:44:17,380 - 00:44:24,380] That effort even isn't our own doing.
+- [00:44:24,380 - 00:44:26,380] Does that mean...
+- [00:44:26,380 - 00:44:28,380] The objection continues.
+- [00:44:28,380 - 00:44:31,380] Does that mean that according to Rawls,
+- [00:44:31,380 - 00:44:34,380] moral desert has nothing to do
+- [00:44:34,380 - 00:44:39,380] with distributive justice?
+- [00:44:39,380 - 00:44:41,380] Well, yes.
+- [00:44:41,380 - 00:44:45,380] Distributive justice is not about moral desert.
+- [00:44:45,380 - 00:44:48,380] Now, here, Rawls introduces
+- [00:44:48,380 - 00:44:51,380] an important and a tricky distinction.
+- [00:44:51,380 - 00:44:54,380] It's between moral desert on the one hand
+- [00:44:54,380 - 00:44:58,380] and entitlements to legitimate expectations
+- [00:44:58,380 - 00:45:00,380] on the other.
+- [00:45:00,380 - 00:45:02,380] What is the difference between
+- [00:45:02,380 - 00:45:06,380] moral deserts and entitlements?
+- [00:45:06,380 - 00:45:08,380] Consider two different games.
+- [00:45:08,380 - 00:45:11,380] A game of chance and a game of skill.
+- [00:45:11,380 - 00:45:15,380] Take a game of pure chance.
+- [00:45:15,380 - 00:45:18,380] Say I play the Massachusetts State Lottery
+- [00:45:18,380 - 00:45:22,380] and my number comes up.
+- [00:45:22,380 - 00:45:27,380] I'm entitled to my winnings.
+- [00:45:27,380 - 00:45:30,380] But even though I'm entitled to my winnings,
+- [00:45:30,380 - 00:45:32,380] there's no sense in which,
+- [00:45:32,380 - 00:45:35,380] because it's just a game of luck,
+- [00:45:35,380 - 00:45:38,380] no sense in which I morally deserve
+- [00:45:38,380 - 00:45:40,380] to win in the first place.
+- [00:45:40,380 - 00:45:42,380] That's an entitlement.
+- [00:45:42,380 - 00:45:44,380] Now, contrast the lottery
+- [00:45:44,380 - 00:45:47,380] with a different kind of game,
+- [00:45:47,380 - 00:45:50,380] a game of skill.
+- [00:45:50,380 - 00:45:57,380] Now, imagine the Boston Red Sox
+- [00:45:57,380 - 00:46:00,380] winning the World Series.
+- [00:46:00,380 - 00:46:02,380] When they win,
+- [00:46:02,380 - 00:46:05,380] they're entitled to the trophy,
+- [00:46:05,380 - 00:46:08,380] but it can be always asked
+- [00:46:08,380 - 00:46:10,380] of a game of skill,
+- [00:46:10,380 - 00:46:13,380] did they deserve to win?
+- [00:46:13,380 - 00:46:15,380] It's always possible in principle
+- [00:46:15,380 - 00:46:18,380] to distinguish
+- [00:46:18,380 - 00:46:20,380] what someone's entitled to
+- [00:46:20,380 - 00:46:23,380] under the rules
+- [00:46:23,380 - 00:46:25,380] and whether they deserve to win
+- [00:46:25,380 - 00:46:26,380] in the first place.
+- [00:46:26,380 - 00:46:28,380] That's an antecedent standard,
+- [00:46:28,380 - 00:46:31,380] moral desert.
+- [00:46:31,380 - 00:46:35,380] Now, Rawls says distributive justice
+- [00:46:35,380 - 00:46:38,380] is not a matter of moral desert,
+- [00:46:38,380 - 00:46:41,380] though it is a matter of entitlements
+- [00:46:41,380 - 00:46:44,380] to legitimate expectations.
+- [00:46:44,380 - 00:46:47,380] Here's where he explains it.
+- [00:46:47,380 - 00:46:51,380] A just scheme answers
+- [00:46:51,380 - 00:46:54,380] to what men are entitled to.
+- [00:46:54,380 - 00:46:55,380] It satisfies
+- [00:46:55,380 - 00:46:57,380] their legitimate expectations
+- [00:46:57,380 - 00:47:01,380] as founded upon social institutions.
+- [00:47:01,380 - 00:47:03,380] But what they are entitled to
+- [00:47:03,380 - 00:47:05,380] is not proportional to,
+- [00:47:05,380 - 00:47:06,380] nor dependent on,
+- [00:47:06,380 - 00:47:09,380] their intrinsic worth.
+- [00:47:09,380 - 00:47:11,380] The principles of justice
+- [00:47:11,380 - 00:47:13,380] that regulate the basic structure
+- [00:47:13,380 - 00:47:15,380] do not mention moral desert,
+- [00:47:15,380 - 00:47:17,380] and there is no tendency
+- [00:47:17,380 - 00:47:19,380] for distributive shares
+- [00:47:19,380 - 00:47:22,380] to correspond to it.
+- [00:47:22,380 - 00:47:25,380] Why does Rawls make this distinction?
+- [00:47:25,380 - 00:47:28,380] What morally is at stake?
+- [00:47:28,380 - 00:47:30,380] One thing morally at stake
+- [00:47:30,380 - 00:47:32,380] is the whole question of effort
+- [00:47:32,380 - 00:47:34,380] that we've already discussed.
+- [00:47:34,380 - 00:47:37,380] But there's a second contingency,
+- [00:47:37,380 - 00:47:40,380] a second source of moral arbitrariness
+- [00:47:40,380 - 00:47:42,380] that goes beyond the question
+- [00:47:42,380 - 00:47:44,380] of whether it's to my credit
+- [00:47:44,380 - 00:47:45,380] that I have the talents
+- [00:47:45,380 - 00:47:48,380] that enable me to get ahead.
+- [00:47:48,380 - 00:47:51,380] And that has to do with the contingency
+- [00:47:51,380 - 00:47:53,380] that I live in a society
+- [00:47:53,380 - 00:47:55,380] that happens to be a society
+- [00:47:55,380 - 00:47:58,380] that is able to prize my talents.
+- [00:48:00,380 - 00:48:03,380] The fact that David Letterman
+- [00:48:03,380 - 00:48:07,380] lives in a society that puts a great premium,
+- [00:48:07,380 - 00:48:09,380] puts a great value
+- [00:48:09,380 - 00:48:12,380] on a certain type of smirky joke,
+- [00:48:14,380 - 00:48:16,380] that's not his doing.
+- [00:48:16,380 - 00:48:17,380] He's lucky that he happens to live
+- [00:48:17,380 - 00:48:19,380] in such a society.
+- [00:48:22,380 - 00:48:24,380] But this is a second contingency.
+- [00:48:24,380 - 00:48:27,380] This isn't something that we can claim credit for.
+- [00:48:27,380 - 00:48:31,380] Even if I had sole unproblematic claim
+- [00:48:31,380 - 00:48:34,380] to my talents and to my effort,
+- [00:48:34,380 - 00:48:36,380] it would still be the case
+- [00:48:36,380 - 00:48:37,380] that the benefits I get
+- [00:48:37,380 - 00:48:39,380] from exercising those talents
+- [00:48:39,380 - 00:48:42,380] depend on factors
+- [00:48:42,380 - 00:48:46,380] that are arbitrary from a moral point of view.
+- [00:48:46,380 - 00:48:49,380] What my talents will reap in a market economy,
+- [00:48:49,380 - 00:48:51,380] what does that depend on?
+- [00:48:51,380 - 00:48:53,380] What other people happen to want or like
+- [00:48:53,380 - 00:48:54,380] in this society?
+- [00:48:54,380 - 00:48:57,380] It depends on the law of supply and demand.
+- [00:48:57,380 - 00:48:59,380] That's not my doing.
+- [00:48:59,380 - 00:49:02,380] Certainly not the basis for moral desert.
+- [00:49:04,380 - 00:49:07,380] What counts as contributing
+- [00:49:07,380 - 00:49:10,380] depends on the qualities
+- [00:49:10,380 - 00:49:13,380] that this or that society happens to prize.
+- [00:49:13,380 - 00:49:16,380] Most of us are fortunate to possess,
+- [00:49:16,380 - 00:49:19,380] in large measure, for whatever reason,
+- [00:49:19,380 - 00:49:21,380] the qualities that our society
+- [00:49:21,380 - 00:49:24,380] happens to prize.
+- [00:49:24,380 - 00:49:27,380] The qualities that enable us
+- [00:49:27,380 - 00:49:30,380] to provide what society wants.
+- [00:49:31,380 - 00:49:33,380] In a capitalist society,
+- [00:49:33,380 - 00:49:35,380] it helps to have entrepreneurial drive.
+- [00:49:35,380 - 00:49:37,380] In a bureaucratic society,
+- [00:49:37,380 - 00:49:39,380] it helps to get on easily and smoothly
+- [00:49:39,380 - 00:49:41,380] with superiors.
+- [00:49:41,380 - 00:49:44,380] In a mass democratic society,
+- [00:49:44,380 - 00:49:47,380] it helps to look good on television
+- [00:49:47,380 - 00:49:50,380] and to speak in short, superficial sound bites.
+- [00:49:51,380 - 00:49:54,380] In a litigious society,
+- [00:49:54,380 - 00:49:56,380] it helps to go to law school
+- [00:49:56,380 - 00:49:58,380] and to have the talents
+- [00:49:58,380 - 00:50:00,380] to do well on LSATs.
+- [00:50:00,380 - 00:50:03,380] But none of this is our doing.
+- [00:50:03,380 - 00:50:05,380] Suppose that we with our talents inhabited
+- [00:50:05,380 - 00:50:08,380] not our society, technologically advanced,
+- [00:50:08,380 - 00:50:10,380] highly litigious,
+- [00:50:10,380 - 00:50:13,380] but a hunting society or a warrior society.
+- [00:50:13,380 - 00:50:15,380] What would become of our talents then?
+- [00:50:15,380 - 00:50:18,380] They wouldn't get us very far.
+- [00:50:18,380 - 00:50:20,380] No doubt some of us would develop other talents.
+- [00:50:20,380 - 00:50:23,380] Some of us would develop others.
+- [00:50:23,380 - 00:50:26,380] But would we be less worthy?
+- [00:50:26,380 - 00:50:29,380] Would we be less virtuous?
+- [00:50:29,380 - 00:50:31,380] Would we be less meritorious
+- [00:50:31,380 - 00:50:33,380] if we lived in that kind of society
+- [00:50:33,380 - 00:50:35,380] rather than in ours?
+- [00:50:35,380 - 00:50:38,380] Rawls' answer is no.
+- [00:50:38,380 - 00:50:40,380] We might make less money,
+- [00:50:40,380 - 00:50:43,380] and properly so.
+- [00:50:43,380 - 00:50:46,380] But while we would be entitled to less,
+- [00:50:46,380 - 00:50:49,380] we would be no less worthy,
+- [00:50:49,380 - 00:50:52,380] no less deserving than we are now.
+- [00:50:52,380 - 00:50:54,380] And here's the point.
+- [00:50:54,380 - 00:50:57,380] The same could be said of those in our society
+- [00:50:57,380 - 00:51:00,380] who happen to hold less prestigious positions,
+- [00:51:00,380 - 00:51:03,380] who happen to have fewer of the talents
+- [00:51:03,380 - 00:51:07,380] that our society happens to reward.
+- [00:51:07,380 - 00:51:11,380] So here's the moral import of the distinction
+- [00:51:11,380 - 00:51:14,380] between moral desert and entitlements
+- [00:51:14,380 - 00:51:16,380] to legitimate expectations.
+- [00:51:16,380 - 00:51:19,380] We are entitled to the benefits,
+- [00:51:19,380 - 00:51:21,380] but the rules of the game promise
+- [00:51:21,380 - 00:51:23,380] for the exercise of our talents.
+- [00:51:23,380 - 00:51:26,380] But it's a mistake and a conceit
+- [00:51:26,380 - 00:51:29,380] to suppose that we deserve in the first place
+- [00:51:29,380 - 00:51:31,380] a society that values the qualities
+- [00:51:31,380 - 00:51:35,380] we happen to have in abundance.
+- [00:51:35,380 - 00:51:37,380] Now we've been talking here
+- [00:51:37,380 - 00:51:40,380] about income and wealth.
+- [00:51:40,380 - 00:51:44,380] What about opportunities and honors?
+- [00:51:44,380 - 00:51:48,380] What about the distribution of access,
+- [00:51:48,380 - 00:51:54,380] of seats in elite colleges and universities?
+- [00:51:54,380 - 00:51:58,380] It's true.
+- [00:51:58,380 - 00:52:02,380] All of you, most of you first born,
+- [00:52:02,380 - 00:52:05,380] worked hard, strived,
+- [00:52:05,380 - 00:52:12,380] developed your talents to get here.
+- [00:52:12,380 - 00:52:15,380] But Rawls asks, in effect,
+- [00:52:15,380 - 00:52:18,380] what is the moral status of your claim?
+- [00:52:18,380 - 00:52:21,380] To the benefits that attach
+- [00:52:21,380 - 00:52:24,380] to the opportunities you have.
+- [00:52:24,380 - 00:52:31,380] Are seats in colleges and universities
+- [00:52:31,380 - 00:52:34,380] a matter, a kind of reward,
+- [00:52:34,380 - 00:52:37,380] an honor for those who deserve them
+- [00:52:37,380 - 00:52:40,380] because they've worked so hard?
+- [00:52:40,380 - 00:52:42,380] Or are those seats,
+- [00:52:42,380 - 00:52:45,380] those opportunities and honors
+- [00:52:45,380 - 00:52:48,380] entitlements to legitimate expectations,
+- [00:52:48,380 - 00:52:55,380] that depend for their justification
+- [00:52:55,380 - 00:53:01,380] on those of us who enjoy them,
+- [00:53:01,380 - 00:53:04,380] doing so in a way
+- [00:53:04,380 - 00:53:08,380] that works to the benefit
+- [00:53:08,380 - 00:53:10,380] of those at the bottom of society?
+- [00:53:10,380 - 00:53:12,380] That's the question
+- [00:53:12,380 - 00:53:15,380] that Rawls's difference principle poses.
+- [00:53:15,380 - 00:53:18,380] It's a question that can be asked
+- [00:53:18,380 - 00:53:20,380] of the earnings of Michael Jordan
+- [00:53:20,380 - 00:53:22,380] and David Letterman
+- [00:53:22,380 - 00:53:24,380] and Judge Judy,
+- [00:53:24,380 - 00:53:27,380] but it's also a question that can be asked
+- [00:53:27,380 - 00:53:30,380] of opportunities
+- [00:53:30,380 - 00:53:33,380] to go to
+- [00:53:33,380 - 00:53:35,380] the top colleges and universities.
+- [00:53:35,380 - 00:53:37,380] And that's a debate
+- [00:53:37,380 - 00:53:39,380] that comes out
+- [00:53:39,380 - 00:53:41,380] when we turn to the question of affirmative action
+- [00:53:41,380 - 00:53:43,380] next time.
+- [00:53:48,380 - 00:53:50,380] Thank you.
+- [00:54:18,380 - 00:54:47,380] Funding for this program
+- [00:54:47,380 - 00:54:49,380] is provided by...
+- [00:54:50,380 - 00:54:52,380] Additional funding provided by...

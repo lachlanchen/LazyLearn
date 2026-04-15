@@ -1,0 +1,1258 @@
+# Transcript
+
+Source: 011 - Justice： What's The Right Thing To Do？ Episode 11： ＂THE CLAIMS OF COMMUNITY＂ [iOotE9_OGGs].webm
+
+- [00:00:00,000 - 00:00:05,000] Funding for this program is provided by
+- [00:00:05,000 - 00:00:09,000] Additional funding provided by
+- [00:00:30,000 - 00:00:35,000] Today we turn to Kant's reply to Aristotle.
+- [00:00:35,000 - 00:00:43,000] Kant thinks that Aristotle just made a mistake.
+- [00:00:43,000 - 00:00:46,500] It's one thing, Kant says, to
+- [00:00:46,500 - 00:00:50,000] support a fair framework of rights
+- [00:00:50,000 - 00:00:53,000] within which people can pursue their
+- [00:00:53,000 - 00:00:56,000] own conceptions of the good life.
+- [00:00:56,000 - 00:00:59,000] It's something else,
+- [00:00:59,000 - 00:01:00,000] it's something that runs down the line,
+- [00:01:00,000 - 00:01:02,500] it's the risk of coercion to
+- [00:01:02,500 - 00:01:05,000] base law or principles of justice
+- [00:01:05,000 - 00:01:09,000] on any particular conception of the good life.
+- [00:01:09,000 - 00:01:10,000] You remember Aristotle says,
+- [00:01:10,000 - 00:01:12,000] in order to investigate the ideal constitution,
+- [00:01:12,000 - 00:01:14,000] we have first to figure
+- [00:01:14,000 - 00:01:16,000] out the best way to live.
+- [00:01:16,000 - 00:01:18,000] Kant would reject that idea.
+- [00:01:18,000 - 00:01:20,500] He says that constitutions and laws
+- [00:01:20,500 - 00:01:23,000] and rights should not embody or affirm
+- [00:01:23,000 - 00:01:27,000] or promote any particular way of life.
+- [00:01:27,000 - 00:01:29,000] That's at odds with freedom.
+- [00:01:29,000 - 00:01:30,000] For Aristotle.
+- [00:01:30,000 - 00:01:33,000] The whole point of law,
+- [00:01:33,000 - 00:01:36,000] the purpose of the polis,
+- [00:01:36,000 - 00:01:39,000] is to shape character,
+- [00:01:39,000 - 00:01:41,000] to cultivate the virtue of citizens,
+- [00:01:41,000 - 00:01:43,000] to inculcate civic excellence,
+- [00:01:43,000 - 00:01:45,000] to make possible a good way of life.
+- [00:01:45,000 - 00:01:48,000] That's what he tells us in the politics.
+- [00:01:48,000 - 00:01:51,000] For Kant, on the other hand,
+- [00:01:51,000 - 00:01:53,000] the purpose of law,
+- [00:01:53,000 - 00:01:55,000] the point of a constitution,
+- [00:01:55,000 - 00:01:59,000] is not to inculcate or to promote virtue,
+- [00:01:59,000 - 00:02:02,000] it's to set up a fair framework of rights
+- [00:02:02,000 - 00:02:06,000] within which citizens may be free to pursue
+- [00:02:06,000 - 00:02:10,000] their own conceptions of the good for themselves.
+- [00:02:10,000 - 00:02:15,000] So we see the difference in their theories of justice,
+- [00:02:15,000 - 00:02:19,000] we see the difference in their account of law,
+- [00:02:19,000 - 00:02:21,000] or the role of a constitution,
+- [00:02:21,000 - 00:02:23,000] the point of politics,
+- [00:02:23,000 - 00:02:25,000] and underlying these differences
+- [00:02:25,000 - 00:02:26,500] are two different accounts of what
+- [00:02:26,500 - 00:02:28,000] it means to be a good person.
+- [00:02:29,000 - 00:02:32,000] To be a free person.
+- [00:02:32,000 - 00:02:35,000] For Aristotle,
+- [00:02:35,000 - 00:02:39,000] we're free insofar as we have the capacity
+- [00:02:39,000 - 00:02:41,000] to realize our potential.
+- [00:02:41,000 - 00:02:46,000] And that leads us to the question of fit.
+- [00:02:46,000 - 00:02:48,000] Fit between persons and the
+- [00:02:48,000 - 00:02:50,000] roles that are appropriate to them.
+- [00:02:50,000 - 00:02:53,000] Figuring out what I'm cut out for.
+- [00:02:53,000 - 00:02:55,000] That's what it means to lead a free life.
+- [00:02:55,000 - 00:02:58,000] To live up to my potential.
+- [00:02:59,000 - 00:03:01,000] Kant rejects that idea
+- [00:03:01,000 - 00:03:03,000] and instead substitutes his
+- [00:03:03,000 - 00:03:06,000] famously demanding notion of freedom
+- [00:03:06,000 - 00:03:09,000] as the capacity to act autonomously.
+- [00:03:09,000 - 00:03:14,000] Freedom means acting according to a law I give myself.
+- [00:03:14,000 - 00:03:16,000] Freedom as autonomy.
+- [00:03:16,000 - 00:03:19,000] Part of the appeal,
+- [00:03:19,000 - 00:03:22,000] part of the moral force
+- [00:03:22,000 - 00:03:25,000] of the view of Kant and of Rawls
+- [00:03:25,000 - 00:03:28,000] consists in
+- [00:03:28,000 - 00:03:31,000] the conception of the person
+- [00:03:31,000 - 00:03:34,000] as a free and independent self
+- [00:03:34,000 - 00:03:38,000] capable of choosing his or her own ends.
+- [00:03:42,000 - 00:03:46,000] The image of the self as free and independent
+- [00:03:46,000 - 00:03:48,000] offers, if you think about it,
+- [00:03:48,000 - 00:03:50,000] a powerful, liberating vision
+- [00:03:50,000 - 00:03:52,000] because what it says is
+- [00:03:52,000 - 00:03:54,000] that as free moral persons
+- [00:03:54,000 - 00:03:56,000] we are not bound
+- [00:03:56,000 - 00:03:59,000] by any ties
+- [00:03:59,000 - 00:04:00,000] of history
+- [00:04:00,000 - 00:04:02,000] or of tradition
+- [00:04:02,000 - 00:04:04,000] or of inherited status
+- [00:04:04,000 - 00:04:07,000] that we haven't chosen for ourselves.
+- [00:04:09,000 - 00:04:12,000] And so we're unbound by any moral ties
+- [00:04:12,000 - 00:04:15,000] prior to our choosing them.
+- [00:04:15,000 - 00:04:17,000] And that means
+- [00:04:19,000 - 00:04:22,000] that means that we are
+- [00:04:23,000 - 00:04:26,000] free and independent sovereigns
+- [00:04:26,000 - 00:04:29,000] and we are free and independent sovereign selves.
+- [00:04:29,000 - 00:04:31,000] We're the authors of the only obligations
+- [00:04:31,000 - 00:04:33,000] that constrain us.
+- [00:04:37,000 - 00:04:40,000] The communitarian critics
+- [00:04:40,000 - 00:04:43,000] of Kantian and Rawlsian liberalism
+- [00:04:43,000 - 00:04:45,000] acknowledge that there is something
+- [00:04:45,000 - 00:04:47,000] powerful and inspiring
+- [00:04:47,000 - 00:04:49,000] in that account of freedom,
+- [00:04:49,000 - 00:04:52,000] the free, independent, choosing self.
+- [00:04:52,000 - 00:04:53,000] But they argue
+- [00:04:53,000 - 00:04:55,000] that it misses something.
+- [00:04:56,000 - 00:04:58,000] It misses a whole dimension
+- [00:04:58,000 - 00:05:01,000] of moral life and even political life.
+- [00:05:01,000 - 00:05:03,000] It can't make sense of our moral experience
+- [00:05:03,000 - 00:05:05,000] because it can't account
+- [00:05:05,000 - 00:05:09,000] for certain moral and political obligations
+- [00:05:09,000 - 00:05:12,000] that we commonly recognize and even prize.
+- [00:05:13,000 - 00:05:15,000] And these include obligations of membership,
+- [00:05:15,000 - 00:05:17,000] loyalty, solidarity,
+- [00:05:17,000 - 00:05:19,000] and other moral ties
+- [00:05:19,000 - 00:05:21,000] that may claim us for reasons
+- [00:05:21,000 - 00:05:22,000] that we can't trace
+- [00:05:22,000 - 00:05:24,000] to an act of consent.
+- [00:05:25,000 - 00:05:27,000] Alasdair MacIntyre
+- [00:05:30,000 - 00:05:32,000] gives an account
+- [00:05:34,000 - 00:05:37,000] what he calls a narrative conception
+- [00:05:37,000 - 00:05:38,000] of the self.
+- [00:05:38,000 - 00:05:39,000] It's a different account
+- [00:05:39,000 - 00:05:41,000] of the self.
+- [00:05:44,000 - 00:05:46,000] Human beings are essentially
+- [00:05:46,000 - 00:05:48,000] storytelling creatures,
+- [00:05:48,000 - 00:05:50,000] MacIntyre argues.
+- [00:05:50,000 - 00:05:53,000] That means I can only answer the question
+- [00:05:53,000 - 00:05:55,000] what am I to do
+- [00:05:55,000 - 00:05:57,000] if I can answer the prior question
+- [00:05:57,000 - 00:05:59,000] of what story or stories
+- [00:05:59,000 - 00:06:02,000] do I find myself apart?
+- [00:06:02,000 - 00:06:04,000] That's what he means by
+- [00:06:04,000 - 00:06:07,000] the narrative conception of the self.
+- [00:06:07,000 - 00:06:09,000] What does this have to do
+- [00:06:09,000 - 00:06:11,000] with the idea of community
+- [00:06:11,000 - 00:06:13,000] and belonging?
+- [00:06:13,000 - 00:06:15,000] MacIntyre says this,
+- [00:06:15,000 - 00:06:18,000] once you accept this narrative aspect
+- [00:06:18,000 - 00:06:19,000] of moral reflection,
+- [00:06:19,000 - 00:06:21,000] you will notice
+- [00:06:21,000 - 00:06:23,000] that we can never seek for the good
+- [00:06:23,000 - 00:06:25,000] or exercise the virtues
+- [00:06:25,000 - 00:06:27,000] only as individuals.
+- [00:06:27,000 - 00:06:29,000] We all approach our circumstance
+- [00:06:29,000 - 00:06:32,000] as bearers of particular social identities.
+- [00:06:32,000 - 00:06:34,000] I am someone's son or daughter,
+- [00:06:34,000 - 00:06:36,000] a citizen of this or that city.
+- [00:06:36,000 - 00:06:38,000] I belong to this clan,
+- [00:06:38,000 - 00:06:39,000] that tribe,
+- [00:06:39,000 - 00:06:40,000] this nation.
+- [00:06:40,000 - 00:06:42,000] Hence, MacIntyre argues,
+- [00:06:42,000 - 00:06:43,000] what is good for me
+- [00:06:43,000 - 00:06:45,000] is to be a part of the community.
+- [00:06:45,000 - 00:06:46,000] And that's what he means
+- [00:06:46,000 - 00:06:48,000] by the narrative conception of the self.
+- [00:06:48,000 - 00:06:50,000] What is good for me
+- [00:06:50,000 - 00:06:51,000] has to be the good
+- [00:06:51,000 - 00:06:54,000] for someone who inhabits these roles.
+- [00:06:54,000 - 00:06:56,000] I inherit from the past
+- [00:06:56,000 - 00:06:59,000] of my family, my city, my tribe, my nation,
+- [00:06:59,000 - 00:07:02,000] a variety of debts, inheritances,
+- [00:07:02,000 - 00:07:04,000] expectations and obligations.
+- [00:07:04,000 - 00:07:08,000] These constitute the given of my life,
+- [00:07:08,000 - 00:07:10,000] my moral starting point.
+- [00:07:10,000 - 00:07:13,000] This is, in part, what gives my life
+- [00:07:13,000 - 00:07:16,000] its moral particularity.
+- [00:07:16,000 - 00:07:18,000] That's the narrative conception
+- [00:07:18,000 - 00:07:21,000] of the self.
+- [00:07:21,000 - 00:07:25,000] And it's a conception that sees the self
+- [00:07:25,000 - 00:07:28,000] as claimed or encumbered,
+- [00:07:28,000 - 00:07:31,000] at least to some extent,
+- [00:07:31,000 - 00:07:35,000] by the history, the tradition,
+- [00:07:35,000 - 00:07:39,000] the communities of which it's a part.
+- [00:07:39,000 - 00:07:41,000] We can't make sense of our lives,
+- [00:07:41,000 - 00:07:43,000] not only as a psychological matter,
+- [00:07:43,000 - 00:07:44,000] but also as a moral matter
+- [00:07:44,000 - 00:07:46,000] in thinking what we ought to do
+- [00:07:46,000 - 00:07:48,000] without attending
+- [00:07:48,000 - 00:07:51,000] to these features about us.
+- [00:07:51,000 - 00:07:54,000] Now, McIntyre recognizes
+- [00:07:54,000 - 00:07:56,000] that this narrative account,
+- [00:07:56,000 - 00:08:00,000] this picture of the encumbered self,
+- [00:08:00,000 - 00:08:03,000] puts his account at odds with
+- [00:08:03,000 - 00:08:08,000] contemporary liberalism and individualism.
+- [00:08:08,000 - 00:08:10,000] From the standpoint of individualism,
+- [00:08:10,000 - 00:08:15,000] I am what I myself choose to be.
+- [00:08:15,000 - 00:08:17,000] I may biologically be my father's son,
+- [00:08:17,000 - 00:08:19,000] but I can't be held responsible
+- [00:08:19,000 - 00:08:21,000] for what he did
+- [00:08:21,000 - 00:08:23,000] unless I choose to assume
+- [00:08:23,000 - 00:08:25,000] such responsibility.
+- [00:08:25,000 - 00:08:27,000] I can't be held responsible
+- [00:08:27,000 - 00:08:29,000] for what my country does
+- [00:08:29,000 - 00:08:30,000] or has done
+- [00:08:30,000 - 00:08:32,000] unless I choose to assume
+- [00:08:32,000 - 00:08:34,000] such responsibility.
+- [00:08:34,000 - 00:08:36,000] But McIntyre says this reflects
+- [00:08:36,000 - 00:08:40,000] a certain kind of moral shallowness,
+- [00:08:40,000 - 00:08:42,000] even blindness.
+- [00:08:42,000 - 00:08:44,000] It's a blindness at odds with the full measure
+- [00:08:44,000 - 00:08:46,000] of responsibility,
+- [00:08:46,000 - 00:08:48,000] which sometimes he says involves
+- [00:08:48,000 - 00:08:50,000] collective responsibility
+- [00:08:50,000 - 00:08:52,000] or responsibilities that may flow
+- [00:08:52,000 - 00:08:54,000] from historic memories.
+- [00:08:54,000 - 00:08:56,000] And he gives some examples.
+- [00:08:56,000 - 00:08:58,000] Such individualism is expressed
+- [00:08:58,000 - 00:09:01,000] by those contemporary Americans
+- [00:09:01,000 - 00:09:03,000] who deny any responsibility
+- [00:09:03,000 - 00:09:05,000] for the effects of slavery
+- [00:09:05,000 - 00:09:07,000] upon black Americans, saying,
+- [00:09:07,000 - 00:09:09,000] I never owned any slaves.
+- [00:09:09,000 - 00:09:11,000] Or the young German
+- [00:09:11,000 - 00:09:14,000] who believes that having been born
+- [00:09:14,000 - 00:09:16,000] after 1945
+- [00:09:16,000 - 00:09:18,000] means that what Nazis did to Jews
+- [00:09:18,000 - 00:09:20,000] has no moral relevance
+- [00:09:20,000 - 00:09:21,000] to his relationship
+- [00:09:21,000 - 00:09:26,000] to his Jewish contemporaries.
+- [00:09:26,000 - 00:09:29,000] McIntyre says all of these attitudes
+- [00:09:29,000 - 00:09:32,000] of historical amnesia
+- [00:09:32,000 - 00:09:36,000] amount to a kind of moral abdication.
+- [00:09:36,000 - 00:09:40,000] Once you see that who we are
+- [00:09:40,000 - 00:09:42,000] and what it means
+- [00:09:42,000 - 00:09:44,000] to sort out our obligations
+- [00:09:44,000 - 00:09:46,000] can't be separated,
+- [00:09:46,000 - 00:09:49,000] from the life histories
+- [00:09:49,000 - 00:09:51,000] that define us.
+- [00:09:51,000 - 00:09:53,000] The contrast, he says,
+- [00:09:53,000 - 00:09:55,000] with the narrative account is clear.
+- [00:09:55,000 - 00:09:57,000] For the story of my life
+- [00:09:57,000 - 00:09:59,000] is always embedded in the story
+- [00:09:59,000 - 00:10:00,000] of those communities
+- [00:10:00,000 - 00:10:02,000] from which I derive my identity.
+- [00:10:02,000 - 00:10:03,000] I am born with a past
+- [00:10:03,000 - 00:10:05,000] and to try to cut myself off
+- [00:10:05,000 - 00:10:06,000] from that past
+- [00:10:06,000 - 00:10:10,000] is to deform my present relationships.
+- [00:10:10,000 - 00:10:13,000] So there you have in McIntyre
+- [00:10:13,000 - 00:10:15,000] a strong statement of the idea
+- [00:10:15,000 - 00:10:19,000] that the self can't be detached,
+- [00:10:19,000 - 00:10:21,000] shouldn't be detached
+- [00:10:21,000 - 00:10:25,000] from its particular ties of membership,
+- [00:10:25,000 - 00:10:30,000] history, story, narrative.
+- [00:10:30,000 - 00:10:33,000] Now I want to get your reactions
+- [00:10:33,000 - 00:10:37,000] to the communitarian critique
+- [00:10:37,000 - 00:10:39,000] of the individualist
+- [00:10:39,000 - 00:10:41,000] or the voluntarist,
+- [00:10:41,000 - 00:10:43,000] the unencumbered self.
+- [00:10:43,000 - 00:10:45,000] But let's make it clear
+- [00:10:45,000 - 00:10:46,000] and concrete
+- [00:10:46,000 - 00:10:47,000] so that you can react
+- [00:10:47,000 - 00:10:49,000] to more than just the theory of it
+- [00:10:49,000 - 00:10:51,000] by looking at
+- [00:10:51,000 - 00:10:53,000] the two different accounts
+- [00:10:53,000 - 00:10:55,000] of moral and political obligation
+- [00:10:55,000 - 00:10:56,000] that arise
+- [00:10:56,000 - 00:10:58,000] depending on which of these conceptions
+- [00:10:58,000 - 00:10:59,000] of the person
+- [00:10:59,000 - 00:11:04,000] one accepts.
+- [00:11:04,000 - 00:11:06,000] On the liberal conception,
+- [00:11:06,000 - 00:11:09,000] moral and political obligations arise
+- [00:11:09,000 - 00:11:12,000] in one of two ways.
+- [00:11:12,000 - 00:11:14,000] There are natural duties
+- [00:11:14,000 - 00:11:17,000] that we owe human beings as such,
+- [00:11:17,000 - 00:11:20,000] duties of respect for persons qua persons.
+- [00:11:20,000 - 00:11:24,000] These obligations are universal.
+- [00:11:24,000 - 00:11:27,000] Then, as Rawls points out,
+- [00:11:27,000 - 00:11:31,000] there are also voluntary obligations,
+- [00:11:31,000 - 00:11:32,000] obligations that we owe
+- [00:11:32,000 - 00:11:34,000] to particular others
+- [00:11:34,000 - 00:11:38,000] insofar as we have agreed,
+- [00:11:38,000 - 00:11:41,000] whether through a promise
+- [00:11:41,000 - 00:11:44,000] or a deal or a contract.
+- [00:11:44,000 - 00:11:46,000] Now the issue between
+- [00:11:46,000 - 00:11:52,000] the liberal and communitarian accounts of the self,
+- [00:11:52,000 - 00:11:58,000] is there another category of obligation or not?
+- [00:11:58,000 - 00:12:00,000] The communitarian says there is.
+- [00:12:00,000 - 00:12:01,000] There is a third category
+- [00:12:01,000 - 00:12:04,000] that might be called obligations of solidarity
+- [00:12:04,000 - 00:12:06,000] or loyalty or membership.
+- [00:12:06,000 - 00:12:09,000] The communitarian argues that
+- [00:12:09,000 - 00:12:11,000] construing all obligations,
+- [00:12:11,000 - 00:12:14,000] as either natural duties
+- [00:12:14,000 - 00:12:16,000] or voluntary obligations,
+- [00:12:16,000 - 00:12:18,000] fails to capture obligations
+- [00:12:18,000 - 00:12:21,000] of membership or solidarity.
+- [00:12:21,000 - 00:12:23,000] Loyalties whose moral force
+- [00:12:23,000 - 00:12:25,000] consists partly in the fact
+- [00:12:25,000 - 00:12:27,000] that living by them
+- [00:12:27,000 - 00:12:30,000] is inseparable from understanding ourselves
+- [00:12:30,000 - 00:12:33,000] as the particular persons we are.
+- [00:12:33,000 - 00:12:35,000] What would be some examples?
+- [00:12:35,000 - 00:12:37,000] And then I want to see
+- [00:12:37,000 - 00:12:39,000] how you would react to them.
+- [00:12:39,000 - 00:12:40,000] Examples.
+- [00:12:40,000 - 00:12:45,000] Examples of obligations of membership
+- [00:12:45,000 - 00:12:48,000] that are particular
+- [00:12:48,000 - 00:12:51,000] but don't necessarily flow from consent
+- [00:12:51,000 - 00:12:54,000] but rather from membership,
+- [00:12:54,000 - 00:13:00,000] narrative, community, one's situation.
+- [00:13:00,000 - 00:13:01,000] The most common examples
+- [00:13:01,000 - 00:13:04,000] are ones to do with the family.
+- [00:13:04,000 - 00:13:06,000] The relation between parents and children,
+- [00:13:06,000 - 00:13:08,000] for example.
+- [00:13:08,000 - 00:13:15,000] Suppose there were two children drowning.
+- [00:13:15,000 - 00:13:17,000] You could save only one of them.
+- [00:13:17,000 - 00:13:18,000] One was your child,
+- [00:13:18,000 - 00:13:22,000] the other was a stranger's child.
+- [00:13:22,000 - 00:13:24,000] Would you have an obligation
+- [00:13:24,000 - 00:13:26,000] to flip a coin?
+- [00:13:26,000 - 00:13:30,000] Or would there be something morally obtuse
+- [00:13:30,000 - 00:13:33,000] if you didn't rush to save your child?
+- [00:13:33,000 - 00:13:34,000] Now you may say,
+- [00:13:34,000 - 00:13:36,000] well, parents have agreed
+- [00:13:36,000 - 00:13:37,000] to have their children.
+- [00:13:37,000 - 00:13:39,000] So take the other case.
+- [00:13:39,000 - 00:13:41,000] The case of children's obligation
+- [00:13:41,000 - 00:13:42,000] for their parents.
+- [00:13:42,000 - 00:13:45,000] Now we don't choose our parents.
+- [00:13:45,000 - 00:13:47,000] We don't even choose to have parents.
+- [00:13:47,000 - 00:13:49,000] There is that asymmetry.
+- [00:13:49,000 - 00:13:50,000] And yet,
+- [00:13:50,000 - 00:13:54,000] consider two aging parents,
+- [00:13:54,000 - 00:13:56,000] one of them yours,
+- [00:13:56,000 - 00:13:59,000] the other a stranger's.
+- [00:13:59,000 - 00:14:00,000] Doesn't it make moral sense
+- [00:14:00,000 - 00:14:03,000] to think that you have a greater obligation
+- [00:14:03,000 - 00:14:05,000] to look after your aged parent
+- [00:14:05,000 - 00:14:06,000] than to flip a coin?
+- [00:14:06,000 - 00:14:09,000] Or to help the strangers?
+- [00:14:09,000 - 00:14:13,000] Now, is this traceable to consent?
+- [00:14:13,000 - 00:14:15,000] Not likely.
+- [00:14:15,000 - 00:14:20,000] Or take a couple of political examples.
+- [00:14:20,000 - 00:14:23,000] During World War II,
+- [00:14:23,000 - 00:14:26,000] French resistance pilots
+- [00:14:26,000 - 00:14:29,000] flew bombing raids over occupied France.
+- [00:14:29,000 - 00:14:31,000] One day,
+- [00:14:31,000 - 00:14:34,000] one of the pilots received his targets
+- [00:14:34,000 - 00:14:35,000] and noticed
+- [00:14:35,000 - 00:14:39,000] that the village he was being asked to bomb
+- [00:14:39,000 - 00:14:42,000] was his home village.
+- [00:14:42,000 - 00:14:44,000] He refused,
+- [00:14:44,000 - 00:14:46,000] not disputing that it was as necessary
+- [00:14:46,000 - 00:14:49,000] as the target he bombed yesterday.
+- [00:14:49,000 - 00:14:50,000] He refused on the ground
+- [00:14:50,000 - 00:14:52,000] that he couldn't bring himself.
+- [00:14:52,000 - 00:14:55,000] It would be a special moral crime
+- [00:14:55,000 - 00:14:57,000] for him to bomb his people,
+- [00:14:57,000 - 00:15:01,000] even in a cause that he supported,
+- [00:15:01,000 - 00:15:04,000] the cause of liberating France.
+- [00:15:04,000 - 00:15:07,000] Now, do we admire that?
+- [00:15:07,000 - 00:15:08,000] If we do,
+- [00:15:08,000 - 00:15:10,000] the communitarian argues,
+- [00:15:10,000 - 00:15:13,000] it's because we do recognize
+- [00:15:13,000 - 00:15:16,000] obligations of solidarity.
+- [00:15:16,000 - 00:15:18,000] Take another example.
+- [00:15:18,000 - 00:15:19,000] Some years ago,
+- [00:15:19,000 - 00:15:22,000] there was a famine in Ethiopia.
+- [00:15:22,000 - 00:15:26,000] Hundreds of thousands of people were starving.
+- [00:15:26,000 - 00:15:29,000] The Israeli government organized an airlift
+- [00:15:29,000 - 00:15:32,000] to rescue Ethiopian Jews.
+- [00:15:32,000 - 00:15:33,000] They didn't have the capacity
+- [00:15:33,000 - 00:15:36,000] to rescue everyone in Ethiopia.
+- [00:15:36,000 - 00:15:40,000] They rescued several hundred Ethiopian Jews.
+- [00:15:40,000 - 00:15:42,000] Now,
+- [00:15:42,000 - 00:15:43,000] what's your moral assessment?
+- [00:15:43,000 - 00:15:46,000] Is that a kind of
+- [00:15:46,000 - 00:15:49,000] morally troubling partiality?
+- [00:15:49,000 - 00:15:51,000] A kind of prejudice?
+- [00:15:51,000 - 00:15:53,000] Or,
+- [00:15:53,000 - 00:15:56,000] as the Israeli government thought,
+- [00:15:56,000 - 00:16:01,000] is there a special obligation of solidarity
+- [00:16:01,000 - 00:16:07,000] that this airlift properly responded to?
+- [00:16:07,000 - 00:16:09,000] Well, that takes us to the broader question
+- [00:16:09,000 - 00:16:10,000] of patriotism.
+- [00:16:10,000 - 00:16:12,000] What, morally speaking,
+- [00:16:12,000 - 00:16:16,000] is to be said for patriotism?
+- [00:16:16,000 - 00:16:18,000] There are two towns named Franklin.
+- [00:16:18,000 - 00:16:19,000] One is Franklin, Texas,
+- [00:16:19,000 - 00:16:21,000] and the other is just across the Rio Grande River,
+- [00:16:21,000 - 00:16:24,000] Franklin, Mexico.
+- [00:16:24,000 - 00:16:25,000] What is the moral significance
+- [00:16:25,000 - 00:16:28,000] of national boundaries?
+- [00:16:28,000 - 00:16:29,000] Why is it,
+- [00:16:29,000 - 00:16:30,000] or is it the case,
+- [00:16:30,000 - 00:16:32,000] that we as Americans
+- [00:16:32,000 - 00:16:34,000] have a greater responsibility
+- [00:16:34,000 - 00:16:35,000] for the health and the education
+- [00:16:35,000 - 00:16:37,000] and the welfare and public provision
+- [00:16:37,000 - 00:16:41,000] for people who live in Franklin, Texas,
+- [00:16:41,000 - 00:16:44,000] than equally needy people
+- [00:16:44,000 - 00:16:45,000] just across the river
+- [00:16:45,000 - 00:16:48,000] living in Franklin, Mexico?
+- [00:16:48,000 - 00:16:51,000] According to the communitarian account,
+- [00:16:51,000 - 00:16:53,000] membership does matter.
+- [00:16:53,000 - 00:16:57,000] And the reason patriotism
+- [00:16:57,000 - 00:16:59,000] is at least potentially a virtue
+- [00:16:59,000 - 00:17:01,000] is that it is an expression
+- [00:17:01,000 - 00:17:07,000] of the obligations of citizenship.
+- [00:17:07,000 - 00:17:10,000] How many are sympathetic to the idea
+- [00:17:10,000 - 00:17:14,000] that there is this third category of obligation,
+- [00:17:14,000 - 00:17:19,000] the obligations of solidarity or membership?
+- [00:17:19,000 - 00:17:24,000] How many are sympathetic to that idea?
+- [00:17:24,000 - 00:17:27,000] And how many are critical of that idea?
+- [00:17:27,000 - 00:17:29,000] How many think all obligations
+- [00:17:29,000 - 00:17:31,000] can be accounted for
+- [00:17:31,000 - 00:17:33,000] in the first two ways?
+- [00:17:33,000 - 00:17:36,000] All right, let's hear from the critics
+- [00:17:36,000 - 00:17:39,000] of the communitarian idea first.
+- [00:17:39,000 - 00:17:43,000] Yes.
+- [00:17:43,000 - 00:17:45,000] My biggest concern with
+- [00:17:45,000 - 00:17:47,000] the idea of having obligations
+- [00:17:47,000 - 00:17:49,000] because you're a member of something
+- [00:17:49,000 - 00:17:51,000] or because of solidarity
+- [00:17:51,000 - 00:17:53,000] is that it seems that
+- [00:17:53,000 - 00:17:55,000] if you accept those obligations
+- [00:17:55,000 - 00:17:57,000] as being sort of morally binding,
+- [00:17:57,000 - 00:17:59,000] then there's a greater current
+- [00:17:59,000 - 00:18:01,000] of overlapping obligations,
+- [00:18:01,000 - 00:18:05,000] a greater occurrence of good versus good.
+- [00:18:05,000 - 00:18:08,000] And I don't know if this sort of framework
+- [00:18:08,000 - 00:18:10,000] allows us to choose between them.
+- [00:18:10,000 - 00:18:12,000] Good. And what's your name?
+- [00:18:12,000 - 00:18:13,000] Patrick.
+- [00:18:13,000 - 00:18:18,000] So you worry that if we recognize
+- [00:18:18,000 - 00:18:21,000] obligations of membership or solidarity,
+- [00:18:21,000 - 00:18:24,000] since we inhabit different communities,
+- [00:18:24,000 - 00:18:26,000] their claims might conflict.
+- [00:18:26,000 - 00:18:28,000] And what would we do
+- [00:18:28,000 - 00:18:34,000] if we have competing obligations?
+- [00:18:34,000 - 00:18:36,000] Yes.
+- [00:18:36,000 - 00:18:38,000] Well, one solution is that
+- [00:18:38,000 - 00:18:40,000] we could view ourselves as
+- [00:18:40,000 - 00:18:44,000] ultimately members of the human community
+- [00:18:44,000 - 00:18:46,000] and that then within that
+- [00:18:46,000 - 00:18:48,000] we have all these smaller spheres
+- [00:18:48,000 - 00:18:50,000] of that, you know, I am American
+- [00:18:50,000 - 00:18:52,000] or I am a student at Harvard.
+- [00:18:52,000 - 00:18:57,000] And so the most important community
+- [00:18:57,000 - 00:19:00,000] to be obligated to
+- [00:19:00,000 - 00:19:03,000] is the community of human beings.
+- [00:19:03,000 - 00:19:07,000] And then from there you can sort of evaluate
+- [00:19:07,000 - 00:19:09,000] which other ones are most important to you.
+- [00:19:09,000 - 00:19:11,000] So the most universal...
+- [00:19:11,000 - 00:19:12,000] And what's your name?
+- [00:19:12,000 - 00:19:13,000] Nicola.
+- [00:19:13,000 - 00:19:16,000] So Nicola, you say the most universal community
+- [00:19:16,000 - 00:19:19,000] we inhabit, the community of humankind,
+- [00:19:19,000 - 00:19:21,000] always takes precedence.
+- [00:19:21,000 - 00:19:22,000] Yes.
+- [00:19:22,000 - 00:19:24,000] Patrick, are you satisfied?
+- [00:19:24,000 - 00:19:25,000] No.
+- [00:19:25,000 - 00:19:26,000] No.
+- [00:19:26,210 - 00:19:27,010] 謝謝
+- [00:19:27,010 - 00:19:28,170] Why not?
+- [00:19:28,170 - 00:19:30,650] It seems rather arbitrary that we should choose
+- [00:19:30,650 - 00:19:35,090] the universal obligation over the more specific obligation.
+- [00:19:36,030 - 00:19:39,470] I might also say that I should be obligated first
+- [00:19:39,470 - 00:19:41,030] to the most specific of my obligations.
+- [00:19:41,030 - 00:19:43,160] For instance, take my family
+- [00:19:43,160 - 00:19:45,290] as a small unit of solidarity.
+- [00:19:45,290 - 00:19:49,110] Perhaps I should be first obligated to that unit,
+- [00:19:49,110 - 00:19:51,550] and then perhaps to the unit of my town,
+- [00:19:51,550 - 00:19:53,690] and then my country, and then the human race.
+- [00:19:53,690 - 00:19:54,910] Good, thank you.
+- [00:19:54,910 - 00:19:58,030] I want to hear from another critic
+- [00:19:58,030 - 00:20:00,150] of the communitarian view.
+- [00:20:00,150 - 00:20:03,470] We have the objection, well, what if goods collide?
+- [00:20:04,590 - 00:20:06,590] Who objects to the whole idea of it?
+- [00:20:06,590 - 00:20:09,529] Who sees patriotism as just a kind of prejudice
+- [00:20:09,529 - 00:20:11,270] that ideally we should overcome?
+- [00:20:15,529 - 00:20:16,529] Yes.
+- [00:20:16,529 - 00:20:19,730] Patriotism reflects a community membership.
+- [00:20:19,730 - 00:20:22,630] That's a given.
+- [00:20:22,630 - 00:20:24,590] I think the problem is that
+- [00:20:24,910 - 00:20:29,910] whereas some memberships are natural narratives,
+- [00:20:31,529 - 00:20:36,530] the narrative of citizenship is a constructed one,
+- [00:20:37,090 - 00:20:38,910] and I think a false one,
+- [00:20:38,910 - 00:20:43,549] because as the river is just a historical accident,
+- [00:20:43,549 - 00:20:45,910] it makes no sense that because the lottery of birth
+- [00:20:45,910 - 00:20:49,769] threw me into the United States as opposed to Mexico,
+- [00:20:49,769 - 00:20:50,929] that that's the membership that
+- [00:20:50,929 - 00:20:52,090] I should be a part of.
+- [00:20:52,090 - 00:20:53,490] Good, and what's your name?
+- [00:20:53,490 - 00:20:54,910] Elizabeth. Elizabeth.
+- [00:20:54,910 - 00:20:55,910] Who has a reply?
+- [00:20:55,910 - 00:20:56,910] Yes.
+- [00:20:56,910 - 00:20:59,910] I think in general, we have to ask,
+- [00:20:59,910 - 00:21:04,910] where do our moral obligations arise from anyway?
+- [00:21:04,910 - 00:21:08,530] And I think basically there'd be two places
+- [00:21:08,530 - 00:21:09,530] from which they could arise.
+- [00:21:09,530 - 00:21:12,530] One would be kin, and another one would be reciprocity.
+- [00:21:12,530 - 00:21:15,530] And the closer you are associated to other people,
+- [00:21:15,530 - 00:21:17,530] there's a natural reciprocity there
+- [00:21:17,530 - 00:21:21,530] in terms of having interactions with those people.
+- [00:21:21,530 - 00:21:22,500] You interact with the neighbors,
+- [00:21:22,500 - 00:21:23,470] you interact with your friends,
+- [00:21:23,470 - 00:21:24,530] you interact with your friends.
+- [00:21:24,530 - 00:21:26,530] You interact with the neighbors on your street,
+- [00:21:26,530 - 00:21:27,530] with the other people in your country
+- [00:21:27,530 - 00:21:28,530] through economic arrangements.
+- [00:21:28,530 - 00:21:30,530] But I don't know, and you don't know those people
+- [00:21:30,530 - 00:21:32,530] in Franklin, Texas, any more than you know
+- [00:21:32,530 - 00:21:35,529] the people in Franklin, Mexico, do you?
+- [00:21:35,529 - 00:21:37,529] Presumably, you're naturally more connected
+- [00:21:37,529 - 00:21:39,529] with the people in your own country
+- [00:21:39,529 - 00:21:41,529] in terms of interaction and trade
+- [00:21:41,529 - 00:21:43,529] than you are with people in other countries.
+- [00:21:43,529 - 00:21:44,529] Good. Who else?
+- [00:21:44,529 - 00:21:46,529] Go ahead.
+- [00:21:46,529 - 00:21:48,529] Yeah, I think that a
+- [00:21:48,529 - 00:21:50,529] lot of the basis for patriotism
+- [00:21:50,529 - 00:21:52,529] can be compared to school spirit
+- [00:21:52,529 - 00:21:54,529] or even house spirit that we see
+- [00:21:54,530 - 00:21:56,530] here where freshmen are sorted into houses
+- [00:21:56,530 - 00:21:58,530] and then within a day they have developed
+- [00:21:58,530 - 00:22:01,530] some sort of attachment or pride associated with that house.
+- [00:22:01,530 - 00:22:03,030] And so I think that
+- [00:22:03,030 - 00:22:04,530] we can probably draw a distinction
+- [00:22:04,530 - 00:22:08,530] between a moral obligation for communitarian beliefs
+- [00:22:08,530 - 00:22:11,530] and sort of just a sentimental emotional attachment.
+- [00:22:11,530 - 00:22:14,530] Good. Wait. Stay there. What's your name?
+- [00:22:14,530 - 00:22:15,530] Rena.
+- [00:22:15,530 - 00:22:18,530] What about, go back to my example about the obligation
+- [00:22:18,530 - 00:22:20,530] of the child to the parent.
+- [00:22:20,530 - 00:22:21,530] Would you say the same thing there?
+- [00:22:21,530 - 00:22:22,530] It's just a, may or
+- [00:22:22,530 - 00:22:23,530] may not be a sentimental thing,
+- [00:22:23,530 - 00:22:25,530] but it has no moral weight?
+- [00:22:25,530 - 00:22:29,530] Well, I mean, I'm not entirely certain that accident
+- [00:22:29,530 - 00:22:33,530] in the initial stage is something that will preclude,
+- [00:22:33,530 - 00:22:35,530] like, moral obligations later.
+- [00:22:35,530 - 00:22:38,030] So, you know, just because we
+- [00:22:38,030 - 00:22:40,530] are randomly sorted into a house
+- [00:22:40,530 - 00:22:43,530] or just because we don't choose who our parents are
+- [00:22:43,530 - 00:22:44,530] or what country we're born into
+- [00:22:44,530 - 00:22:47,530] doesn't necessarily mean that we won't, like,
+- [00:22:47,530 - 00:22:50,030] develop an obligation based on
+- [00:22:50,030 - 00:22:52,530] some type of benefit, I guess.
+- [00:22:52,530 - 00:22:53,530] Just sort of a...
+- [00:22:53,530 - 00:22:57,530] So your obligation to your aged parent
+- [00:22:57,530 - 00:23:02,530] that's greater than to aged parents around the world
+- [00:23:02,530 - 00:23:08,530] is only because and insofar as you're repaying a benefit
+- [00:23:08,530 - 00:23:11,530] that your parent gave you when you were growing up?
+- [00:23:11,530 - 00:23:13,530] Yeah, I mean, I would say that
+- [00:23:13,530 - 00:23:15,530] if you look at cases of adoption
+- [00:23:15,530 - 00:23:18,530] where, you know, you have a biological parent somewhere else
+- [00:23:18,530 - 00:23:19,530] that you don't interact with,
+- [00:23:19,530 - 00:23:20,530] and then you have a parent,
+- [00:23:20,530 - 00:23:23,530] you know, who adopted you, most people would say that,
+- [00:23:23,530 - 00:23:25,030] if you had to pick between
+- [00:23:25,030 - 00:23:26,530] them in the case of, you know,
+- [00:23:26,530 - 00:23:29,530] aging parents, that your obligation would lie more
+- [00:23:29,530 - 00:23:31,530] with the person who raised you
+- [00:23:31,530 - 00:23:34,530] and who had exchanges with you meaningfully.
+- [00:23:34,530 - 00:23:36,530] May I ask you one more question about the parent?
+- [00:23:36,530 - 00:23:37,530] Sure.
+- [00:23:37,530 - 00:23:40,030] Do you think that a person
+- [00:23:40,030 - 00:23:42,530] with a bad parent owes them less?
+- [00:23:42,530 - 00:23:45,529] I don't know, because I've never had a bad parent.
+- [00:23:52,530 - 00:23:54,530] I think that's a good place to end.
+- [00:23:54,530 - 00:23:55,530] Thank you.
+- [00:23:55,530 - 00:23:56,530] We'll continue with this next time.
+- [00:23:56,530 - 00:23:57,530] Thank you.
+- [00:24:01,530 - 00:24:03,530] If I were working on
+- [00:24:03,530 - 00:24:05,530] an ECK problem set, for example,
+- [00:24:05,530 - 00:24:08,530] and I saw that my roommate was cheating,
+- [00:24:08,530 - 00:24:10,530] that might be a bad thing for him to do,
+- [00:24:10,530 - 00:24:12,530] but I wouldn't turn him in.
+- [00:24:12,530 - 00:24:13,530] You would not turn him in?
+- [00:24:13,530 - 00:24:15,530] I wouldn't turn him in, and I think that,
+- [00:24:15,530 - 00:24:17,530] I would argue that's the right thing to do
+- [00:24:17,530 - 00:24:19,530] because of my obligation to him, you know.
+- [00:24:19,530 - 00:24:21,530] You don't have a duty to tell the truth,
+- [00:24:21,530 - 00:24:23,530] to report someone who cheated.
+- [00:24:26,530 - 00:24:30,530] Today, I'd like to take,
+- [00:24:30,530 - 00:24:33,530] I'd like to consider the strongest objections to the idea
+- [00:24:33,530 - 00:24:37,530] that there are obligations of solidarity or membership.
+- [00:24:37,530 - 00:24:40,530] Then I want to see if
+- [00:24:40,530 - 00:24:43,530] those objections can be met successfully.
+- [00:24:43,530 - 00:24:45,530] One objection emerged in the discussion last time.
+- [00:24:45,530 - 00:24:48,530] Patrick said, well,
+- [00:24:48,530 - 00:24:51,530] if obligations flow away,
+- [00:24:51,530 - 00:24:54,530] if we go from community membership and identity,
+- [00:24:54,530 - 00:24:56,530] we inhabit multiple communities,
+- [00:24:56,530 - 00:25:00,030] doesn't that mean that
+- [00:25:00,030 - 00:25:03,530] our obligations will sometimes conflict?
+- [00:25:03,530 - 00:25:06,530] So that's one possible objection.
+- [00:25:06,530 - 00:25:10,530] And then Rena said,
+- [00:25:10,530 - 00:25:16,530] these examples meant to bring out the moral force
+- [00:25:16,530 - 00:25:20,530] of solidarity and membership,
+- [00:25:20,530 - 00:25:23,530] examples about parents and children,
+- [00:25:23,530 - 00:25:25,530] about the French resistance fighter
+- [00:25:25,530 - 00:25:29,530] asked to bomb his own village in drawing back,
+- [00:25:29,530 - 00:25:33,530] about the airlift by Israel of Ethiopian Jews.
+- [00:25:33,530 - 00:25:36,530] These examples, they may be intuitively evocative,
+- [00:25:36,530 - 00:25:39,530] Rena said, but really they're pointing to
+- [00:25:39,530 - 00:25:42,530] matters of emotion, matters of sentiment,
+- [00:25:42,530 - 00:25:47,530] not true moral obligations.
+- [00:25:47,530 - 00:25:52,530] And then there were a number of objections,
+- [00:25:52,530 - 00:25:56,530] not necessarily to patriotism as such,
+- [00:25:56,530 - 00:26:00,530] but to patriotism understood as
+- [00:26:00,530 - 00:26:05,530] an obligation of solidarity and membership
+- [00:26:05,530 - 00:26:08,530] beyond consent.
+- [00:26:08,530 - 00:26:11,530] This objection
+- [00:26:11,530 - 00:26:14,530] allowed that there can be obligations
+- [00:26:14,530 - 00:26:17,530] to the communities we inhabit, including
+- [00:26:17,530 - 00:26:19,530] obligations of patriotism,
+- [00:26:19,530 - 00:26:22,530] but this objection argued that
+- [00:26:22,530 - 00:26:25,530] all of the obligations of patriotism
+- [00:26:25,530 - 00:26:27,530] or of community or membership
+- [00:26:27,530 - 00:26:31,530] are actually based on liberal ideas
+- [00:26:31,530 - 00:26:35,530] and perfectly compatible with them.
+- [00:26:35,530 - 00:26:38,530] Consent, either implicit or explicit,
+- [00:26:38,530 - 00:26:41,530] or reciprocity.
+- [00:26:41,530 - 00:26:44,530] Julia Rathow, for example, on the website
+- [00:26:44,530 - 00:26:47,530] said that liberalism can indeed be
+- [00:26:47,530 - 00:26:53,530] endorsed patriotism as a voluntary moral obligation.
+- [00:26:53,530 - 00:26:55,530] Patriotism and familial love
+- [00:26:55,530 - 00:26:58,530] both fall under this category,
+- [00:26:58,530 - 00:27:00,530] because after all, Julia points out,
+- [00:27:00,530 - 00:27:03,530] the Kantian framework allows people free reign
+- [00:27:03,530 - 00:27:06,530] to choose to express virtues such as these
+- [00:27:06,530 - 00:27:10,530] if they want to.
+- [00:27:10,530 - 00:27:12,530] So you don't need the idea
+- [00:27:12,530 - 00:27:15,530] of a nonvoluntary particular moral obligation
+- [00:27:15,530 - 00:27:21,530] to capture the moral force of community values.
+- [00:27:21,530 - 00:27:23,530] Where's Julia?
+- [00:27:23,530 - 00:27:24,530] Okay.
+- [00:27:24,530 - 00:27:27,530] So, did I summarize that fairly?
+- [00:27:27,530 - 00:27:28,530] There is action.
+- [00:27:28,530 - 00:27:30,530] Julia actually is in line with
+- [00:27:30,530 - 00:27:35,530] what Rawls says about this very topic.
+- [00:27:35,530 - 00:27:37,530] You weren't aware of that.
+- [00:27:37,530 - 00:27:39,530] You came up with it on your own.
+- [00:27:39,530 - 00:27:41,530] That's pretty good.
+- [00:27:41,530 - 00:27:44,530] Rawls says, when he's discussing political obligation,
+- [00:27:44,530 - 00:27:48,530] he says it's one thing if someone runs for office
+- [00:27:48,530 - 00:27:50,530] or enlists in the military.
+- [00:27:50,530 - 00:27:52,530] They're making a voluntary choice.
+- [00:27:52,530 - 00:27:54,530] But Rawls says there is, I believe,
+- [00:27:54,530 - 00:27:57,530] no political obligation, strictly speaking,
+- [00:27:57,530 - 00:28:00,530] for citizens generally,
+- [00:28:00,530 - 00:28:03,530] because it's not clear what is the requisite binding action
+- [00:28:03,530 - 00:28:05,530] and who has performed it.
+- [00:28:05,530 - 00:28:08,530] So Rawls acknowledges
+- [00:28:08,530 - 00:28:11,530] that for ordinary citizens,
+- [00:28:11,530 - 00:28:14,530] there is no political obligation
+- [00:28:14,530 - 00:28:20,530] except insofar as some particular citizen
+- [00:28:20,530 - 00:28:23,530] willingly, through an act of consent,
+- [00:28:23,530 - 00:28:27,530] undertakes or chooses such an obligation.
+- [00:28:27,530 - 00:28:30,530] That's in line with Julia's point.
+- [00:28:30,530 - 00:28:32,530] It's related to another objection
+- [00:28:32,530 - 00:28:35,530] that people have raised,
+- [00:28:35,530 - 00:28:38,530] which is it's perfectly possible
+- [00:28:38,530 - 00:28:40,530] to recognize particular obligations
+- [00:28:40,530 - 00:28:43,530] to one's family or to one's country,
+- [00:28:43,530 - 00:28:46,530] provided honoring those obligations
+- [00:28:46,530 - 00:28:50,530] doesn't require you to violate any of the natural duties
+- [00:28:50,530 - 00:28:53,530] or requirements of universal respect
+- [00:28:53,530 - 00:28:55,530] for persons qua persons.
+- [00:28:55,530 - 00:28:57,530] So that's consistent with the idea
+- [00:28:57,530 - 00:29:01,530] that we can choose, if we want to,
+- [00:29:01,530 - 00:29:03,530] to express a loyalty to our country
+- [00:29:03,530 - 00:29:05,530] or to our people or to our family,
+- [00:29:05,530 - 00:29:08,530] provided we don't do any injustice
+- [00:29:08,530 - 00:29:11,530] within the framework, acknowledging the priority,
+- [00:29:11,530 - 00:29:12,530] that is,
+- [00:29:12,530 - 00:29:15,530] that we have universal duties.
+- [00:29:15,530 - 00:29:17,530] The one objection that I didn't mention
+- [00:29:17,530 - 00:29:19,530] is the view of those who say
+- [00:29:19,530 - 00:29:21,530] that obligations of membership
+- [00:29:21,530 - 00:29:23,530] really are a kind of collective selfishness.
+- [00:29:23,530 - 00:29:25,530] Why should we honor them?
+- [00:29:25,530 - 00:29:28,530] Isn't it just a kind of prejudice?
+- [00:29:28,530 - 00:29:30,530] So what I'd like to do,
+- [00:29:30,530 - 00:29:34,530] perhaps if those of you who have agreed,
+- [00:29:34,530 - 00:29:36,530] who wrote and who have agreed
+- [00:29:36,530 - 00:29:39,530] to press these objections,
+- [00:29:39,530 - 00:29:41,530] perhaps if you could gather down
+- [00:29:41,530 - 00:29:43,530] all together, we'll form a team,
+- [00:29:43,530 - 00:29:45,530] as we did once before,
+- [00:29:45,530 - 00:29:47,530] and we'll see if you can respond
+- [00:29:47,530 - 00:29:50,530] to those who want to defend
+- [00:29:50,530 - 00:29:55,530] patriotism conceived as a communal obligation.
+- [00:29:55,530 - 00:30:00,530] Now, there were a number of people
+- [00:30:00,530 - 00:30:04,530] who argued in defense
+- [00:30:04,530 - 00:30:06,530] of patriotism
+- [00:30:06,530 - 00:30:10,530] as the communitarian view conceives it.
+- [00:30:10,530 - 00:30:14,530] So let me go down now and join the critics,
+- [00:30:14,530 - 00:30:16,530] the critics of communitarianism,
+- [00:30:16,530 - 00:30:19,530] if there's a microphone that we could use somewhere.
+- [00:30:19,530 - 00:30:21,530] Okay, thanks, Kate.
+- [00:30:23,530 - 00:30:26,530] Who, as the critics of patriotism,
+- [00:30:26,530 - 00:30:28,530] communal patriotism,
+- [00:30:28,530 - 00:30:30,530] gather their forces here?
+- [00:30:31,530 - 00:30:33,530] Patrick, if you want to, you can join as well,
+- [00:30:33,530 - 00:30:35,530] or Rena, others who have spoken
+- [00:30:35,530 - 00:30:38,530] or addressed this question are free to join in.
+- [00:30:38,530 - 00:30:40,530] But I would like to hear now
+- [00:30:40,530 - 00:30:44,530] from those of you who defend patriotism
+- [00:30:44,530 - 00:30:49,530] and defend it as a moral obligation
+- [00:30:49,530 - 00:30:53,530] that can't be translated back into
+- [00:30:53,530 - 00:30:57,530] purely consent-based terms,
+- [00:30:57,530 - 00:31:01,530] can't be translated into liberal terms.
+- [00:31:01,530 - 00:31:05,530] Where's A.J. Kumar?
+- [00:31:05,530 - 00:31:08,530] A.J., everybody seems to know you.
+- [00:31:08,530 - 00:31:09,530] All right.
+- [00:31:09,530 - 00:31:10,530] Let's hear from A.J.
+- [00:31:10,530 - 00:31:11,530] You said,
+- [00:31:11,530 - 00:31:12,530] in the same way I feel
+- [00:31:12,530 - 00:31:13,530] I owe more to my family
+- [00:31:13,530 - 00:31:15,530] than to the general community,
+- [00:31:15,530 - 00:31:16,530] I owe more to my country
+- [00:31:16,530 - 00:31:18,530] than to humanity in general,
+- [00:31:18,530 - 00:31:22,530] because my country holds a great stake in my identity.
+- [00:31:22,530 - 00:31:26,530] It is not prejudice for me to love my country
+- [00:31:26,530 - 00:31:28,530] unless it is prejudice for me
+- [00:31:28,530 - 00:31:31,530] to love my parents more than somebody else's.
+- [00:31:31,530 - 00:31:34,530] So, A.J., what would you say to this group?
+- [00:31:34,530 - 00:31:36,530] Stand up.
+- [00:31:36,530 - 00:31:38,530] I think that there's some fundamental
+- [00:31:38,530 - 00:31:41,530] moral obligation that comes from
+- [00:31:41,530 - 00:31:43,530] a communitarian responsibility
+- [00:31:43,530 - 00:31:45,530] to people and groups that form your identity.
+- [00:31:45,530 - 00:31:47,030] I mean, even, like, I'll
+- [00:31:47,030 - 00:31:48,530] give the example that, you know,
+- [00:31:48,530 - 00:31:50,030] there are a lot of
+- [00:31:50,030 - 00:31:51,530] things about our government right now
+- [00:31:51,530 - 00:31:53,530] that I'm not in favor of,
+- [00:31:53,530 - 00:31:55,030] but part of my identity is
+- [00:31:55,030 - 00:31:56,530] that America values a free society
+- [00:31:56,530 - 00:31:59,530] where we can object to certain things,
+- [00:31:59,530 - 00:32:02,530] and I think that's an expression of patriotism as well.
+- [00:32:02,530 - 00:32:05,530] And, you know, I go back to the parent example,
+- [00:32:05,530 - 00:32:07,530] or even at Harvard, I think, you know,
+- [00:32:07,530 - 00:32:09,030] I owe more to my roommates
+- [00:32:09,030 - 00:32:10,530] because they make up my identity
+- [00:32:10,530 - 00:32:12,530] than I do to the Harvard community as a whole,
+- [00:32:12,530 - 00:32:14,530] and I think that applies to our country
+- [00:32:14,530 - 00:32:16,530] because there are certain things that growing up here,
+- [00:32:16,530 - 00:32:18,530] yes, we can't choose it, we can't choose our parents,
+- [00:32:18,530 - 00:32:20,030] things like that, but it
+- [00:32:20,030 - 00:32:21,530] makes up part of our identity.
+- [00:32:21,530 - 00:32:24,530] Okay, who would like to take that on?
+- [00:32:24,530 - 00:32:26,530] Ike?
+- [00:32:26,530 - 00:32:29,530] Yeah, about the obligation to others
+- [00:32:29,530 - 00:32:33,530] simply by virtue of being in their, their,
+- [00:32:33,530 - 00:32:35,530] being influenced by them.
+- [00:32:35,530 - 00:32:36,530] I'm a German citizen,
+- [00:32:36,530 - 00:32:39,530] and if I had been born 80 years earlier,
+- [00:32:39,530 - 00:32:42,530] then I would have been a citizen of Nazi Germany,
+- [00:32:42,530 - 00:32:45,030] and for some reason, I just don't
+- [00:32:45,030 - 00:32:47,530] think that I would have to feel obligated
+- [00:32:47,530 - 00:32:50,530] towards Germany because I had
+- [00:32:50,530 - 00:32:53,530] benefited from actions of Nazis.
+- [00:32:53,530 - 00:32:55,530] I mean, I guess my response to that would be
+- [00:32:55,530 - 00:32:57,530] you have hundreds of thousands of
+- [00:32:57,530 - 00:32:59,530] protesters in the United States right now
+- [00:32:59,530 - 00:33:01,530] who hold up signs that say peace is patriotic,
+- [00:33:01,530 - 00:33:02,530] and I'm sure there are people in
+- [00:33:02,530 - 00:33:03,530] this room who don't agree with that.
+- [00:33:03,530 - 00:33:04,530] I personally do,
+- [00:33:04,530 - 00:33:06,530] and I would say that they're strongly opposed
+- [00:33:06,530 - 00:33:08,530] to rejecting to basically everything the
+- [00:33:08,530 - 00:33:10,530] Bush administration is doing right now,
+- [00:33:10,530 - 00:33:13,530] but they still consider themselves loving their country
+- [00:33:13,530 - 00:33:15,030] because they're furthering the cause of what
+- [00:33:15,030 - 00:33:16,530] they see as best for the country,
+- [00:33:16,530 - 00:33:18,030] and I tend to agree
+- [00:33:18,030 - 00:33:19,530] with that as a patriotic movement.
+- [00:33:19,530 - 00:33:21,530] Well, but how's that then,
+- [00:33:21,530 - 00:33:23,530] how do you still favor your country?
+- [00:33:23,530 - 00:33:25,530] How's that still patriotic?
+- [00:33:25,530 - 00:33:28,530] I mean, isn't that more a sentimental attachment?
+- [00:33:28,530 - 00:33:30,530] Where's the obligation there?
+- [00:33:30,530 - 00:33:31,530] Reina?
+- [00:33:31,530 - 00:33:33,530] Yeah, not to bring this back to John Locke,
+- [00:33:33,530 - 00:33:34,530] but I would like to
+- [00:33:34,530 - 00:33:35,530] bring this back to John Locke.
+- [00:33:36,530 - 00:33:40,530] I mean, in his conception of, you know,
+- [00:33:40,530 - 00:33:42,530] when people join society,
+- [00:33:42,530 - 00:33:44,530] there's still some outlet.
+- [00:33:44,530 - 00:33:47,530] Like, if you're not satisfied with your society,
+- [00:33:47,530 - 00:33:49,530] you know, you do have a means of exit,
+- [00:33:49,530 - 00:33:51,030] even though we had a lot of
+- [00:33:51,030 - 00:33:52,530] concerns about how you're born in it
+- [00:33:52,530 - 00:33:53,530] and it's not very feasible,
+- [00:33:53,530 - 00:33:54,530] he still provides that option.
+- [00:33:54,530 - 00:33:56,530] If we want to say that your
+- [00:33:56,530 - 00:33:58,530] obligation to society is a moral one,
+- [00:33:58,530 - 00:34:00,530] that means that prior to knowing exactly
+- [00:34:00,530 - 00:34:02,530] what that society's going to be like
+- [00:34:02,530 - 00:34:05,530] or what your position's going to be in that society,
+- [00:34:05,530 - 00:34:08,530] that means that you have a binding obligation to, like,
+- [00:34:08,530 - 00:34:11,530] a completely unknown body that could be, you know,
+- [00:34:11,530 - 00:34:13,530] completely foreign to all of your personal beliefs
+- [00:34:13,530 - 00:34:15,530] or, you know, what you would hold to be correct.
+- [00:34:15,530 - 00:34:17,030] Do you think that that
+- [00:34:17,030 - 00:34:18,530] kind of communal obligation or patriotism
+- [00:34:18,530 - 00:34:23,530] means writing the community a blank moral check?
+- [00:34:23,530 - 00:34:24,530] Basically, yeah.
+- [00:34:24,530 - 00:34:27,530] Like, I think that we can, you know,
+- [00:34:27,530 - 00:34:30,530] I think it's reasonable to say that as you grow
+- [00:34:30,530 - 00:34:32,530] and as you develop within that community,
+- [00:34:32,530 - 00:34:33,530] that you acquire some type
+- [00:34:33,530 - 00:34:34,530] of obligation based on reciprocity,
+- [00:34:34,530 - 00:34:35,530] but to say that you
+- [00:34:35,530 - 00:34:36,530] have a moral obligation, I think,
+- [00:34:36,530 - 00:34:39,530] requires a stronger justification.
+- [00:34:39,530 - 00:34:40,530] Good.
+- [00:34:40,530 - 00:34:41,530] Who else?
+- [00:34:41,530 - 00:34:42,530] Anyone else like to address that?
+- [00:34:42,530 - 00:34:44,530] I guess we could say that you could argue
+- [00:34:44,530 - 00:34:46,530] that you're morally obliged to society
+- [00:34:46,530 - 00:34:48,530] by the fact that there is this reciprocity.
+- [00:34:48,530 - 00:34:50,530] I think it's the idea that, you know,
+- [00:34:50,530 - 00:34:52,530] we participate in society, we pay our taxes, we vote.
+- [00:34:52,530 - 00:34:54,030] This is why we could say
+- [00:34:54,030 - 00:34:55,530] that we owe something to society.
+- [00:34:55,530 - 00:34:57,530] But beyond that, I don't think there's anything inherent
+- [00:34:57,530 - 00:34:59,030] in the fact that we
+- [00:34:59,030 - 00:35:00,530] are members of the society itself
+- [00:35:00,530 - 00:35:01,530] that we owe it anything.
+- [00:35:01,530 - 00:35:04,530] I think insofar as the society gives us a voice,
+- [00:35:04,530 - 00:35:07,530] gives us something, gives us protection, safety, security,
+- [00:35:07,530 - 00:35:09,530] then we owe the society something,
+- [00:35:09,530 - 00:35:12,530] but nothing beyond what we give the society.
+- [00:35:12,530 - 00:35:14,530] Who wants to take that on?
+- [00:35:14,530 - 00:35:16,530] Rahul?
+- [00:35:16,530 - 00:35:20,530] I don't think we give the community
+- [00:35:20,530 - 00:35:23,530] a blank moral check in that sense.
+- [00:35:23,530 - 00:35:25,530] I think we only give it a blank moral check
+- [00:35:25,530 - 00:35:29,530] when we abdicate our sense of civic responsibility
+- [00:35:29,530 - 00:35:32,530] and when we say that the debate doesn't matter
+- [00:35:32,530 - 00:35:34,530] because patriotism is a vice.
+- [00:35:34,530 - 00:35:36,530] I think that patriotism is important
+- [00:35:36,530 - 00:35:38,530] because it gives us a sense of community,
+- [00:35:38,530 - 00:35:40,530] a sense of common civic virtue
+- [00:35:40,530 - 00:35:42,530] that we can engage in the issues.
+- [00:35:42,530 - 00:35:44,530] Even if you don't agree with
+- [00:35:44,530 - 00:35:46,530] the way the government is acting,
+- [00:35:46,530 - 00:35:48,530] you can still love your country
+- [00:35:48,530 - 00:35:50,530] and hate the way it's acting.
+- [00:35:50,530 - 00:35:53,530] And I think because out of that love of country,
+- [00:35:53,530 - 00:35:56,530] you can debate with other people
+- [00:35:56,530 - 00:35:58,530] and have respect for their views,
+- [00:35:58,530 - 00:36:00,530] but still engage in the debate.
+- [00:36:00,530 - 00:36:02,530] If you just say that,
+- [00:36:02,530 - 00:36:04,530] you know, patriotism is a vice,
+- [00:36:04,530 - 00:36:06,030] you drop out of that
+- [00:36:06,030 - 00:36:07,530] debate and you cede the ground
+- [00:36:07,530 - 00:36:09,530] to people who are more fundamentalist,
+- [00:36:09,530 - 00:36:10,530] who have a stronger view,
+- [00:36:10,530 - 00:36:13,530] and who may coerce the community.
+- [00:36:13,530 - 00:36:16,530] Instead, we should engage the other members of the community
+- [00:36:16,530 - 00:36:19,530] on that same moral ground.
+- [00:36:19,530 - 00:36:22,530] Well, now this, what we hear from Ajay and Rahul
+- [00:36:22,530 - 00:36:25,530] is a very pluralistic, argumentative,
+- [00:36:25,530 - 00:36:28,530] critically-minded patriotism,
+- [00:36:28,530 - 00:36:31,530] whereas what we hear from Ike
+- [00:36:31,530 - 00:36:33,530] and the critics of patriotism here
+- [00:36:33,530 - 00:36:37,530] is the worry that to take patriotic obligation
+- [00:36:37,530 - 00:36:40,530] in a communal way, seriously,
+- [00:36:40,530 - 00:36:43,530] involves a kind of loyalty
+- [00:36:43,530 - 00:36:46,530] that doesn't let us just pick and choose
+- [00:36:46,530 - 00:36:50,530] among the beliefs or actions or practices of our country.
+- [00:36:50,530 - 00:36:54,530] What more, what's left of loyalty
+- [00:36:54,530 - 00:36:58,530] if all we're talking about,
+- [00:36:58,530 - 00:37:01,530] Ajay and Rahul, if all we're talking about
+- [00:37:01,530 - 00:37:03,530] is loyalty to principles of justice
+- [00:37:03,530 - 00:37:07,530] that may happen to be embodied in our community
+- [00:37:07,530 - 00:37:09,530] or not, as the case may be,
+- [00:37:09,530 - 00:37:12,530] and if not, then we can reject its course.
+- [00:37:12,530 - 00:37:15,530] I don't know, I've sort of given a reply.
+- [00:37:15,530 - 00:37:16,530] I got carried away, I'm sorry.
+- [00:37:16,530 - 00:37:18,530] Who would like...
+- [00:37:18,530 - 00:37:19,530] Go ahead, Julia.
+- [00:37:19,530 - 00:37:22,530] Yeah, I think that patriotism,
+- [00:37:22,530 - 00:37:23,530] you need to define what that is.
+- [00:37:23,530 - 00:37:25,530] It sounds like, you know, you would normally think
+- [00:37:25,530 - 00:37:27,530] that we are given a more weak definition here,
+- [00:37:27,530 - 00:37:28,530] patriotism, amongst us,
+- [00:37:28,530 - 00:37:30,530] but it almost sounds like your definition is merely
+- [00:37:30,530 - 00:37:32,530] to have some sort of civic involvement in debating
+- [00:37:32,530 - 00:37:33,530] within your society,
+- [00:37:33,530 - 00:37:35,530] and I think that that kind of undermines
+- [00:37:35,530 - 00:37:37,530] maybe some of the moral worth of patriotism
+- [00:37:37,530 - 00:37:39,530] as a virtue as well.
+- [00:37:39,530 - 00:37:40,530] I think if you can consent
+- [00:37:40,530 - 00:37:41,530] to a stronger form of patriotism
+- [00:37:41,530 - 00:37:45,530] if you want, that's a stronger, I guess, moral obligation
+- [00:37:45,530 - 00:37:47,530] than even what you're suggesting.
+- [00:37:47,530 - 00:37:51,530] What we really need to sharpen the issue
+- [00:37:51,530 - 00:37:57,530] is an example from the defenders of communitarianism
+- [00:37:57,530 - 00:38:02,530] of a case where loyalty can actually compete with
+- [00:38:02,530 - 00:38:08,530] and possibly outweigh universal principles of justice.
+- [00:38:08,530 - 00:38:09,530] Isn't that what...
+- [00:38:09,530 - 00:38:12,530] That's the test they really need to meet, isn't it?
+- [00:38:12,530 - 00:38:15,530] All right, so that's the test you need to meet,
+- [00:38:15,530 - 00:38:19,530] or any among you who would like to defend
+- [00:38:19,530 - 00:38:22,530] obligations of membership or solidarity
+- [00:38:22,530 - 00:38:28,530] independent of ones that happen to embody just principles.
+- [00:38:28,530 - 00:38:32,530] Who has an example of a kind of loyalty
+- [00:38:32,530 - 00:38:40,530] that can and should compete with universal moral claims,
+- [00:38:40,530 - 00:38:42,530] respect for persons?
+- [00:38:42,530 - 00:38:44,530] Go ahead.
+- [00:38:44,530 - 00:38:46,530] Yeah, if I were working on
+- [00:38:46,530 - 00:38:48,530] an EC problem set, for example,
+- [00:38:48,530 - 00:38:50,530] and I saw that my roommate was cheating,
+- [00:38:50,530 - 00:38:53,530] that might be a bad thing for him to do,
+- [00:38:53,530 - 00:38:55,530] but I wouldn't turn him in.
+- [00:38:55,530 - 00:38:56,530] You would not turn him in?
+- [00:38:56,530 - 00:38:58,530] I wouldn't turn him in, and I think that...
+- [00:38:58,530 - 00:38:59,530] I would argue that's the right thing to do
+- [00:38:59,530 - 00:39:01,530] because of my obligation to him, you know?
+- [00:39:01,530 - 00:39:02,530] It may be wrong,
+- [00:39:02,530 - 00:39:03,530] but that's what I would do,
+- [00:39:03,530 - 00:39:04,530] and I think that's what
+- [00:39:04,530 - 00:39:05,530] most people would do as well.
+- [00:39:05,530 - 00:39:06,530] All right, that's...
+- [00:39:06,530 - 00:39:08,530] Now, there's a fair test.
+- [00:39:08,530 - 00:39:10,530] He's not slipping out by saying
+- [00:39:10,530 - 00:39:12,530] he's invoking in the name of community
+- [00:39:12,530 - 00:39:15,530] some universal principles of justice.
+- [00:39:15,530 - 00:39:16,530] What's your name?
+- [00:39:16,530 - 00:39:17,530] Stay there.
+- [00:39:17,530 - 00:39:18,530] What's your name?
+- [00:39:18,530 - 00:39:19,530] It's Dan.
+- [00:39:19,530 - 00:39:20,530] Dan?
+- [00:39:20,530 - 00:39:23,530] So what do people think about Dan's case?
+- [00:39:23,530 - 00:39:25,530] That's a harder case for
+- [00:39:25,530 - 00:39:27,530] the ethic of loyalty, isn't it?
+- [00:39:27,530 - 00:39:30,530] But a truer test?
+- [00:39:30,530 - 00:39:31,530] How many agree with Dan's case?
+- [00:39:31,530 - 00:39:32,530] Yes.
+- [00:39:32,530 - 00:39:37,530] How many disagree with Dan?
+- [00:39:37,530 - 00:39:39,530] So loyalty...
+- [00:39:39,530 - 00:39:43,530] Dan, loyalty has its part of sense.
+- [00:39:43,530 - 00:39:51,530] How many disagree with Dan?
+- [00:39:51,530 - 00:39:53,530] Peggy?
+- [00:39:53,530 - 00:39:55,530] Well, I agree with Dan,
+- [00:39:55,530 - 00:39:57,530] but I agree that it's a choice that we make,
+- [00:39:57,530 - 00:39:59,530] but it's not necessarily right or wrong.
+- [00:39:59,530 - 00:40:01,530] I mean, I'm agreeing that I'm going to make
+- [00:40:01,530 - 00:40:03,530] that choice because I'm going to choose my roommate,
+- [00:40:03,530 - 00:40:08,530] but I also recognize that that choice isn't morally right.
+- [00:40:08,530 - 00:40:10,530] So you're still translating...
+- [00:40:10,530 - 00:40:12,530] Even Dan's loyalty, you're saying,
+- [00:40:12,530 - 00:40:14,530] well, that's a matter of choice,
+- [00:40:14,530 - 00:40:18,530] but what's the right thing to do?
+- [00:40:18,530 - 00:40:20,530] Most people put up their hands saying
+- [00:40:20,530 - 00:40:24,530] Dan would be right to stand by his roommate
+- [00:40:24,530 - 00:40:26,530] and not turn him in.
+- [00:40:31,530 - 00:40:33,530] Yes, go ahead.
+- [00:40:33,530 - 00:40:35,530] Also, I think as a roommate,
+- [00:40:35,530 - 00:40:37,530] you have insider information,
+- [00:40:37,530 - 00:40:39,530] and that might not be something you want to use.
+- [00:40:39,530 - 00:40:43,530] That might be something unfair to hold against.
+- [00:40:43,530 - 00:40:45,530] You know, you're spending that much time with a roommate.
+- [00:40:45,530 - 00:40:48,530] Obviously, you're going to learn things about him,
+- [00:40:48,530 - 00:40:50,530] and I don't think it's fair to reveal that
+- [00:40:50,530 - 00:40:53,530] to a greater community.
+- [00:40:53,530 - 00:40:55,530] But it's loyalty, Wojtek.
+- [00:40:55,530 - 00:40:57,530] You agree with Dan that loyalty
+- [00:40:57,530 - 00:40:59,530] is the ethic at stake here.
+- [00:40:59,530 - 00:41:00,530] Absolutely.
+- [00:41:00,530 - 00:41:02,530] You don't have a duty to tell the truth,
+- [00:41:02,530 - 00:41:04,530] to report someone who cheated?
+- [00:41:04,530 - 00:41:08,530] Not if you've been advantaged
+- [00:41:08,530 - 00:41:10,530] into getting that kind of information.
+- [00:41:10,530 - 00:41:15,530] Before our critics of patriotism leave,
+- [00:41:15,530 - 00:41:17,530] I want to give you another version,
+- [00:41:17,530 - 00:41:20,530] a more public example of what we'll...
+- [00:41:20,530 - 00:41:23,530] I guess we should call it Dan's dilemma.
+- [00:41:23,530 - 00:41:25,530] Dan's dilemma of loyalty.
+- [00:41:25,530 - 00:41:27,030] And I want to get
+- [00:41:27,030 - 00:41:28,530] the reaction of people to this.
+- [00:41:28,530 - 00:41:30,530] This came up a few years ago,
+- [00:41:30,530 - 00:41:32,530] in Massachusetts.
+- [00:41:32,530 - 00:41:34,530] Does anyone know who this man is?
+- [00:41:34,530 - 00:41:36,530] Billy Bulger.
+- [00:41:36,530 - 00:41:38,530] Billy Bulger, that's right.
+- [00:41:38,530 - 00:41:39,530] Who is Billy Bulger?
+- [00:41:39,530 - 00:41:41,530] He was president of the Massachusetts State Senate
+- [00:41:41,530 - 00:41:42,530] for many years,
+- [00:41:42,530 - 00:41:45,530] one of the most powerful politicians in Massachusetts.
+- [00:41:45,530 - 00:41:47,530] And then he became president
+- [00:41:47,530 - 00:41:49,530] of the University of Massachusetts.
+- [00:41:49,530 - 00:41:51,530] Now, Billy Bulger,
+- [00:41:51,530 - 00:41:53,530] did you hear the story about him
+- [00:41:53,530 - 00:41:56,530] that bears on Dan's dilemma?
+- [00:41:56,530 - 00:41:59,530] Billy Bulger has a brother
+- [00:41:59,530 - 00:42:01,530] named Whitey Bulger.
+- [00:42:01,530 - 00:42:04,530] And this is Whitey Bulger.
+- [00:42:07,530 - 00:42:09,530] His brother, Whitey,
+- [00:42:09,530 - 00:42:12,530] is on the FBI's most wanted list,
+- [00:42:12,530 - 00:42:18,530] alleged to be a notorious gang leader in Boston,
+- [00:42:18,530 - 00:42:21,530] responsible for many murders,
+- [00:42:21,530 - 00:42:24,530] and now a fugitive from justice.
+- [00:42:24,530 - 00:42:28,530] But when the U.S. Attorney,
+- [00:42:28,530 - 00:42:32,530] they called Billy Bulger,
+- [00:42:32,530 - 00:42:35,530] then the president of the University of Massachusetts,
+- [00:42:35,530 - 00:42:37,530] before the grand jury,
+- [00:42:37,530 - 00:42:40,530] and wanted information on the whereabouts of his brother,
+- [00:42:40,530 - 00:42:42,530] this fugitive.
+- [00:42:42,530 - 00:42:46,530] And he refused to give it.
+- [00:42:46,530 - 00:42:48,530] U.S. Attorney said,
+- [00:42:48,530 - 00:42:50,530] just to be clear, Mr. Bulger,
+- [00:42:50,530 - 00:42:52,530] you feel more loyalty to your brother
+- [00:42:52,530 - 00:42:56,530] than to the people of the Commonwealth of Massachusetts?
+- [00:42:56,530 - 00:42:58,530] And here's what Billy Bulger said,
+- [00:42:58,530 - 00:43:00,530] I never thought of it that way,
+- [00:43:00,530 - 00:43:02,530] but I do have a loyalty to my brother.
+- [00:43:02,530 - 00:43:04,530] I care about him.
+- [00:43:04,530 - 00:43:07,530] I hope that I'm never helpful to anyone against him.
+- [00:43:07,530 - 00:43:09,530] I don't have an obligation
+- [00:43:09,530 - 00:43:12,530] to help anyone catch my brother.
+- [00:43:14,530 - 00:43:16,530] Dan, you would agree.
+- [00:43:16,530 - 00:43:19,530] How many would agree with the position
+- [00:43:19,530 - 00:43:21,530] of Billy Bulger?
+- [00:43:21,530 - 00:43:26,530] Let me give one other example,
+- [00:43:26,530 - 00:43:28,530] and then we'll let the critics reply,
+- [00:43:28,530 - 00:43:30,530] the critics of loyalty,
+- [00:43:30,530 - 00:43:32,530] as we'll describe it.
+- [00:43:32,530 - 00:43:35,530] Here's an even more fateful example
+- [00:43:35,530 - 00:43:38,530] from a figure in American history,
+- [00:43:38,530 - 00:43:41,530] Robert E. Lee.
+- [00:43:41,530 - 00:43:43,530] Now, Robert E. Lee,
+- [00:43:43,530 - 00:43:45,530] on the eve of the Civil War,
+- [00:43:45,530 - 00:43:47,530] was an officer of the Union Army.
+- [00:43:47,530 - 00:43:49,530] He opposed secession,
+- [00:43:49,530 - 00:43:51,530] in fact regarded it as treason.
+- [00:43:51,530 - 00:43:54,530] When war loomed,
+- [00:43:54,530 - 00:43:56,530] Lincoln offered Lee
+- [00:43:56,530 - 00:43:58,530] to be the commanding general
+- [00:43:58,530 - 00:44:00,530] of the Union Army,
+- [00:44:00,530 - 00:44:03,530] and Lee refused,
+- [00:44:03,530 - 00:44:06,530] and he described in a letter to his sons
+- [00:44:06,530 - 00:44:08,530] why he refused.
+- [00:44:08,530 - 00:44:10,530] With all my devotion to the Union, he wrote,
+- [00:44:10,530 - 00:44:12,530] I have not been able to make up my mind
+- [00:44:12,530 - 00:44:15,530] to raise my hand against my relatives,
+- [00:44:15,530 - 00:44:18,530] my children, my home.
+- [00:44:18,530 - 00:44:20,530] By which he meant Virginia.
+- [00:44:20,530 - 00:44:21,530] The Union Army
+- [00:44:21,530 - 00:44:23,530] is a state of war.
+- [00:44:23,530 - 00:44:25,530] The Union is dissolved.
+- [00:44:25,530 - 00:44:27,530] I shall return to my native state
+- [00:44:27,530 - 00:44:29,530] and share the miseries of my people,
+- [00:44:29,530 - 00:44:31,530] save in her defense,
+- [00:44:31,530 - 00:44:34,530] I will draw my sword no more.
+- [00:44:34,530 - 00:44:36,530] Now here's a real test,
+- [00:44:36,530 - 00:44:38,530] Dan,
+- [00:44:38,530 - 00:44:41,530] for your principle of loyalty.
+- [00:44:41,530 - 00:44:43,530] Because here
+- [00:44:43,530 - 00:44:46,530] is the cause of the war against,
+- [00:44:46,530 - 00:44:47,530] not only to save the Union,
+- [00:44:47,530 - 00:44:49,530] but against slavery.
+- [00:44:49,530 - 00:44:50,530] And Lee
+- [00:44:50,530 - 00:44:57,530] will continue to
+- [00:44:57,530 - 00:44:59,530] destroy Virginia
+- [00:44:59,530 - 00:45:02,530] even though he doesn't share
+- [00:45:02,530 - 00:45:04,530] the desire of the Southern states to secede.
+- [00:45:04,530 - 00:45:06,530] Now the communitarian would say
+- [00:45:06,530 - 00:45:09,530] there is something admirable in that,
+- [00:45:09,530 - 00:45:12,530] whether or not the decision was ultimately right,
+- [00:45:12,530 - 00:45:13,530] there's something admirable.
+- [00:45:13,530 - 00:45:16,530] And the communitarian would say
+- [00:45:16,530 - 00:45:17,530] we can't even make sense.
+- [00:45:17,530 - 00:45:19,530] Rena, we can't make sense
+- [00:45:19,530 - 00:45:22,410] that the claim of loyalty arising from
+- [00:45:22,410 - 00:45:25,290] his sense of narrative of who he is,
+- [00:45:25,290 - 00:45:30,030] is a moral, not just sentimental, emotional tug.
+- [00:45:30,030 - 00:45:33,850] Alright, who would like to respond to Dan's
+- [00:45:33,850 - 00:45:37,350] loyalty, to Billy Bulger's loyalty,
+- [00:45:37,350 - 00:45:39,200] or to Robert E. Lee's loyalty
+- [00:45:39,200 - 00:45:41,050] to Virginia? What do you say, Julia?
+- [00:45:41,050 - 00:45:42,930] Okay, well, I think that this
+- [00:45:42,930 - 00:45:44,810] is, these are some classic examples of,
+- [00:45:44,810 - 00:45:46,590] you know, multiple spheres of influence
+- [00:45:46,590 - 00:45:48,370] and that you have conflicting communities
+- [00:45:48,370 - 00:45:48,810] that
+- [00:45:48,810 - 00:45:50,470] your family and your country. I think
+- [00:45:50,470 - 00:45:52,130] that's one reason why the idea of
+- [00:45:52,130 - 00:45:54,279] choice in your obligation is so
+- [00:45:54,279 - 00:45:56,429] important because how else can you
+- [00:45:56,429 - 00:45:58,299] resolve this? You have, if you're morally
+- [00:45:58,299 - 00:46:00,169] obligated and there's no way out of this
+- [00:46:00,169 - 00:46:03,450] need for loyalty to both communities, you're
+- [00:46:03,450 - 00:46:05,390] trapped, there's nothing you can do.
+- [00:46:05,390 - 00:46:07,330] You have to make a choice and
+- [00:46:07,330 - 00:46:09,400] I think that being able to
+- [00:46:09,400 - 00:46:11,470] choose based on other characteristics and merely,
+- [00:46:11,470 - 00:46:12,870] you know, the arbitrary fact that you're
+- [00:46:12,870 - 00:46:14,270] a member of this community is important.
+- [00:46:14,270 - 00:46:17,649] Otherwise it's left, I guess, randomness. Well,
+- [00:46:17,649 - 00:46:18,750] Julia, the issue isn't
+- [00:46:18,750 - 00:46:21,970] whether these, whether Dan makes a choice
+- [00:46:21,970 - 00:46:23,930] or Billy Bulger or Robert E. Lee. Of
+- [00:46:23,930 - 00:46:25,890] course they make a choice. The question is
+- [00:46:25,890 - 00:46:29,930] on what grounds, on what principle should they choose?
+- [00:46:29,930 - 00:46:31,580] The communitarian doesn't deny that there's
+- [00:46:31,580 - 00:46:33,230] a choice to be made, the question
+- [00:46:33,230 - 00:46:34,230] is
+- [00:46:34,230 - 00:46:37,550] which choice, on what grounds and should loyalty
+- [00:46:37,550 - 00:46:40,930] as such weigh?
+- [00:46:40,930 - 00:46:44,890] Andre, now you want to, all right go ahead.
+- [00:46:44,890 - 00:46:46,740] What do you say? Well I, one of
+- [00:46:46,740 - 00:46:48,590] the things we've noticed in three examples, on the
+- [00:46:48,590 - 00:46:51,600] is that the people have all chosen the most immediate
+- [00:46:51,600 - 00:46:54,610] community of which they're a part, the more local one,
+- [00:46:54,610 - 00:46:56,409] and I think there's something to be
+- [00:46:56,409 - 00:46:58,209] said for that. It's not just random.
+- [00:46:58,409 - 00:47:01,439] I mean, there doesn't seem to be a conflict because they
+- [00:47:01,439 - 00:47:04,470] know which one is more important, and it's their family over
+- [00:47:05,090 - 00:47:08,310] the ECTEN class, their state over their country,
+- [00:47:08,310 - 00:47:11,530] and their family over the Commonwealth of Massachusetts.
+- [00:47:12,330 - 00:47:14,139] So I think that's the
+- [00:47:14,139 - 00:47:15,949] answer to which is more important.
+- [00:47:15,950 - 00:47:19,010] You think that the local, the more
+- [00:47:19,010 - 00:47:22,070] particular, is always the weightier morally, Andre?
+- [00:47:22,130 - 00:47:23,350] Well, I mean, there seems to
+- [00:47:23,350 - 00:47:24,570] be a trend in the three cases.
+- [00:47:24,570 - 00:47:27,470] I would agree with that, I think, and I think
+- [00:47:27,470 - 00:47:30,370] most of us would agree that your family takes precedence over
+- [00:47:31,370 - 00:47:33,370] the United States, perhaps.
+- [00:47:34,610 - 00:47:36,610] Which is why you go with Dan.
+- [00:47:37,490 - 00:47:41,890] Dan, loyalty to the roommate over ECTEN and the truth.
+- [00:47:42,430 - 00:47:44,430] Yeah, exactly.
+- [00:47:44,430 - 00:47:46,430] I would, because I mean...
+- [00:47:46,430 - 00:47:50,810] I mean truth telling, not the truth of ECTEN.
+- [00:47:51,390 - 00:47:52,390] Yes.
+- [00:47:52,390 - 00:47:54,390] All right, so we understand.
+- [00:47:55,950 - 00:47:57,310] Yes.
+- [00:47:57,310 - 00:48:00,340] But on the same example in terms of family, you had cases
+- [00:48:00,340 - 00:48:03,370] in the Civil War where brother was pitted against brother on both sides
+- [00:48:03,370 - 00:48:06,370] of the war, where they chose country instead of family.
+- [00:48:06,390 - 00:48:08,810] So I think the exact same war shows that
+- [00:48:09,030 - 00:48:11,720] different people have different means of making these choices, and that
+- [00:48:11,720 - 00:48:14,410] there is no one set of values or one set of
+- [00:48:14,430 - 00:48:15,910] morality that
+- [00:48:15,910 - 00:48:19,700] communitarians can stick to. And personally, I think that's the biggest problem
+- [00:48:19,700 - 00:48:23,490] with communitarians, that we don't have one set of standard moral obligations.
+- [00:48:23,490 - 00:48:25,490] And tell me your name.
+- [00:48:25,750 - 00:48:27,750] Samantha.
+- [00:48:27,750 - 00:48:31,900] So, Samantha, you agree with Patrick, Patrick's point the other day,
+- [00:48:31,900 - 00:48:36,050] that there may be, if we allow obligations to be defined by
+- [00:48:36,390 - 00:48:38,630] community identification or membership,
+- [00:48:39,470 - 00:48:43,870] they may conflict, they may overlap, they may compete,
+- [00:48:44,430 - 00:48:46,430] and there is no clear principle.
+- [00:48:47,430 - 00:48:50,290] Andre says there's a clear principle, the most particular.
+- [00:48:50,890 - 00:48:53,520] The other day, Nicola, who is sitting
+- [00:48:53,520 - 00:48:56,150] over here, where's Nicola, said the most universal.
+- [00:48:57,370 - 00:48:59,370] You're saying, Samantha,
+- [00:49:00,210 - 00:49:02,840] the scale of the community as
+- [00:49:02,840 - 00:49:05,470] such can't be the decisive moral factor.
+- [00:49:05,670 - 00:49:09,670] So there has to be some other moral judgment.
+- [00:49:12,670 - 00:49:14,410] All right, let's first, let's...
+- [00:49:14,430 - 00:49:18,350] let our critics of communal patriotism, let's express our
+- [00:49:18,350 - 00:49:22,270] appreciation and thank them for their having stood up and
+- [00:49:23,550 - 00:49:26,210] responded to these arguments to find the issue.
+- [00:49:27,890 - 00:49:31,690] Let's turn to the implications for justice
+- [00:49:31,690 - 00:49:35,490] of the positions that we've heard discussed here.
+- [00:49:39,130 - 00:49:44,190] One of the worries underlying these multiple objections
+- [00:49:44,430 - 00:49:47,470] to the idea of loyalty or
+- [00:49:47,470 - 00:49:50,510] membership as having independent moral weight
+- [00:49:51,510 - 00:49:55,130] is that it seems to argue that there
+- [00:49:55,130 - 00:49:58,750] is no way of finding principles of justice
+- [00:49:59,470 - 00:50:01,470] that are detached from
+- [00:50:02,990 - 00:50:04,990] conceptions of the good life as
+- [00:50:05,570 - 00:50:10,150] they may be lived in any particular community.
+- [00:50:11,650 - 00:50:13,890] Suppose the communitarian argument is right.
+- [00:50:13,890 - 00:50:15,850] Suppose the priority of the right
+- [00:50:15,850 - 00:50:17,810] over the good can't be sustained.
+- [00:50:18,710 - 00:50:20,710] Suppose instead
+- [00:50:21,030 - 00:50:25,670] that justice and rights unavoidably are bound up with
+- [00:50:26,770 - 00:50:28,770] conceptions of the good.
+- [00:50:29,530 - 00:50:31,530] Does that mean that
+- [00:50:32,110 - 00:50:34,110] justice is
+- [00:50:34,290 - 00:50:35,790] simply a
+- [00:50:35,790 - 00:50:39,760] creature of convention of the values that happen to
+- [00:50:39,760 - 00:50:43,730] prevail in any given community at any given time?
+- [00:50:43,890 - 00:50:48,230] One of the writings we have among
+- [00:50:48,230 - 00:50:52,570] the communitarian critics is by Michael Walser.
+- [00:50:54,610 - 00:50:57,310] He draws the implications of justice this way.
+- [00:50:58,490 - 00:51:00,690] Justice is relative to social
+- [00:51:00,690 - 00:51:02,890] meanings. A given society is just
+- [00:51:03,770 - 00:51:07,020] if its substantive life has lived in a certain
+- [00:51:07,020 - 00:51:10,270] way, in a way that is faithful to the shared
+- [00:51:10,990 - 00:51:12,990] understandings of the members.
+- [00:51:13,890 - 00:51:15,890] So,
+- [00:51:15,890 - 00:51:19,510] Walser's account seems to bear out the worry
+- [00:51:20,970 - 00:51:25,240] that if we can't find independent principles of justice, independent that
+- [00:51:25,240 - 00:51:29,510] is from conceptions of the good that prevail in any given community,
+- [00:51:31,610 - 00:51:34,430] that we're simply left with justice
+- [00:51:34,430 - 00:51:37,250] being a matter of fidelity or faithfulness
+- [00:51:38,490 - 00:51:41,050] to the shared understandings or values or
+- [00:51:41,050 - 00:51:43,610] conventions that prevail in any given society.
+- [00:51:43,890 - 00:51:45,890] at any given time.
+- [00:51:48,510 - 00:51:54,830] But is that an adequate way of thinking about justice?
+- [00:51:59,830 - 00:52:03,110] Well, let's take a look at a short
+- [00:52:04,450 - 00:52:07,510] clip from the documentary Eyes on the Prize.
+- [00:52:08,470 - 00:52:11,110] Goes back in the 1950s in the South.
+- [00:52:11,930 - 00:52:13,690] Here are some
+- [00:52:13,690 - 00:52:19,670] situated American southerners who believe in the
+- [00:52:19,670 - 00:52:25,650] tradition in the shared understandings of segregation.
+- [00:52:25,650 - 00:52:33,690] Listen to the arguments they make about loyalty and tradition and see if they
+- [00:52:33,690 - 00:52:41,730] don't make you uneasy about tying arguments about justice to the shared understandings or traditions.
+- [00:52:41,730 - 00:52:45,190] that prevail in any given society at the moment.
+- [00:52:45,190 - 00:52:46,190] Let's run the clip.
+- [00:52:48,190 - 00:52:52,290] This land is composed of two different cultures.
+- [00:52:53,190 - 00:52:55,550] A white culture and a colored culture.
+- [00:52:55,550 - 00:52:58,610] And I've lived close to them all my life.
+- [00:52:59,910 - 00:53:02,050] But I'm told now that we
+- [00:53:02,050 - 00:53:04,190] mistreated them and that we must change.
+- [00:53:04,510 - 00:53:07,730] And these changes are coming faster than I expected.
+- [00:53:08,970 - 00:53:10,290] And I'm required to
+- [00:53:10,290 - 00:53:14,640] make decisions on a basis of a
+- [00:53:14,640 - 00:53:18,990] new way of thinking and it's difficult.
+- [00:53:18,990 - 00:53:20,490] It's difficult for me.
+- [00:53:20,490 - 00:53:22,889] It's difficult for all southerners.
+- [00:53:24,250 - 00:53:26,250] Well, there you have it.
+- [00:53:26,690 - 00:53:30,790] Narrative selves, situated selves, invoking tradition.
+- [00:53:33,330 - 00:53:35,249] Doesn't that show us
+- [00:53:35,249 - 00:53:37,689] that justice can't be tied to the
+- [00:53:37,689 - 00:53:40,130] shared understandings of goods that prevail in
+- [00:53:40,290 - 00:53:42,530] any given community at any given time?
+- [00:53:42,530 - 00:53:45,380] Or is there a way of
+- [00:53:45,380 - 00:53:48,230] rescuing that claim from this example?
+- [00:53:48,230 - 00:53:50,230] Think about that question and
+- [00:53:50,230 - 00:53:52,230] we'll return to it next time.
+- [00:53:52,230 - 00:53:56,730] Don't miss the chance to interact
+- [00:53:56,730 - 00:54:01,230] online with other viewers of Justice.
+- [00:54:01,230 - 00:54:03,230] Join the conversation. Take a pop quiz.
+- [00:54:03,230 - 00:54:06,230] Watch lectures you've missed and learn a lot more.
+- [00:54:06,230 - 00:54:09,230] Visit JusticeHarvard.org. It's the right thing to do.
+- [00:54:10,290 - 00:54:14,060] Have fun trying to close up on
+- [00:54:14,060 - 00:54:17,830] your favorite막ع McDowell on how things are.
+- [00:54:17,830 - 00:54:18,690] Well we've spent a full month of July,
+- [00:54:18,690 - 00:54:19,890] amidst one-and-a-half of elastic
+- [00:54:19,890 - 00:54:20,730] God speed events.
+- [00:54:20,730 - 00:54:21,450] All allowed to not meet
+- [00:54:21,450 - 00:54:21,790] one-and-a-half-year-olds and
+- [00:54:21,790 - 00:54:23,850] and somebody you never met,
+- [00:54:23,850 - 00:54:25,030] and you can't capture the
+- [00:54:25,030 - 00:54:25,750] gradual change is
+- [00:54:25,750 - 00:54:26,590] unpredictable and
+- [00:54:26,590 - 00:54:26,990] this might mean
+- [00:54:26,990 - 00:54:27,690] reaching out to
+- [00:54:27,690 - 00:54:28,450] justice fighters and
+- [00:54:28,990 - 00:54:31,370] facing criticism that
+- [00:54:31,390 - 00:54:32,030] as aenerga
+- [00:54:32,030 - 00:54:33,030] enters June because
+- [00:54:33,030 - 00:54:34,050] we cannot
+- [00:54:34,050 - 00:54:35,070] watershift
+- [00:54:35,070 - 00:54:35,630] the
+- [00:54:35,630 - 00:54:36,410] national
+- [00:54:36,410 - 00:54:37,350] advocacy
+- [00:54:37,350 - 00:54:38,050] of national
+- [00:54:38,050 - 00:54:38,730] march
+- [00:54:38,730 - 00:54:39,830] otto
+- [00:54:40,290 - 00:54:53,930] Funding for this program is provided by...
+- [00:54:53,930 - 00:54:55,810] Additional funding provided by...

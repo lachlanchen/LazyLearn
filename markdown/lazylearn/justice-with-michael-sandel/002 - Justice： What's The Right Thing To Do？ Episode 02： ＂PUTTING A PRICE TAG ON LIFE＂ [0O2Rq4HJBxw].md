@@ -1,0 +1,1065 @@
+# Transcript
+
+Source: 002 - Justice： What's The Right Thing To Do？ Episode 02： ＂PUTTING A PRICE TAG ON LIFE＂ [0O2Rq4HJBxw].webm
+
+- [00:00:00,000 - 00:00:05,000] Funding for this program is provided by...
+- [00:00:05,000 - 00:00:08,000] Additional funding provided by...
+- [00:00:08,000 - 00:00:10,000] And provided by...
+- [00:00:29,000 - 00:00:33,000] Last time, we argued about the case
+- [00:00:33,000 - 00:00:37,000] of the Queen versus Dudley and Stevens.
+- [00:00:38,000 - 00:00:43,000] The lifeboat case. The case of cannibalism at sea.
+- [00:00:43,000 - 00:00:49,000] And with the arguments about the lifeboat in mind,
+- [00:00:49,000 - 00:00:51,000] the arguments for and against what
+- [00:00:51,000 - 00:00:53,000] Dudley and Stevens did in mind,
+- [00:00:53,000 - 00:00:56,500] let's turn back to the philosophy,
+- [00:00:56,500 - 00:01:00,000] the utilitarian philosophy of Jeremy Bentham.
+- [00:01:01,000 - 00:01:04,000] Bentham was born in England in 1748.
+- [00:01:04,000 - 00:01:07,000] At the age of 12, he went to Oxford.
+- [00:01:07,000 - 00:01:08,000] At 15, he went to London.
+- [00:01:08,000 - 00:01:10,000] At 16, he went to law school.
+- [00:01:10,000 - 00:01:12,500] He was admitted to the bar at
+- [00:01:12,500 - 00:01:15,000] age 19, but he never practiced law.
+- [00:01:15,000 - 00:01:18,500] Instead, he devoted his life
+- [00:01:18,500 - 00:01:22,000] to jurisprudence and moral philosophy.
+- [00:01:22,000 - 00:01:25,000] Last time, we began to
+- [00:01:25,000 - 00:01:28,000] consider Bentham's version of utilitarianism.
+- [00:01:28,000 - 00:01:33,000] The main idea is simply stated, and it's this.
+- [00:01:33,000 - 00:01:35,000] The highest principle of morality,
+- [00:01:35,000 - 00:01:37,000] whether personal or political morality,
+- [00:01:37,000 - 00:01:41,500] is to maximize the general
+- [00:01:41,500 - 00:01:46,000] welfare, or the collective happiness,
+- [00:01:46,000 - 00:01:50,000] or the overall balance of pleasure over pain.
+- [00:01:50,000 - 00:01:56,000] In a phrase, maximize utility.
+- [00:01:56,000 - 00:01:58,000] Bentham arrives at this principle
+- [00:01:58,000 - 00:02:00,000] by the following line of reasoning.
+- [00:02:00,000 - 00:02:03,000] We're all governed by pain and pleasure.
+- [00:02:03,000 - 00:02:05,000] They are our sovereign masters.
+- [00:02:05,000 - 00:02:06,500] And so any moral system
+- [00:02:06,500 - 00:02:08,000] has to take account of them.
+- [00:02:08,000 - 00:02:10,000] How best to take account?
+- [00:02:10,000 - 00:02:12,000] By maximizing.
+- [00:02:12,000 - 00:02:15,000] And this leads to the principle of
+- [00:02:15,000 - 00:02:18,000] the greatest good for the greatest number.
+- [00:02:18,000 - 00:02:22,000] What exactly should we maximize?
+- [00:02:22,000 - 00:02:28,000] Bentham tells us, happiness, or more precisely, utility.
+- [00:02:28,000 - 00:02:32,000] Maximizing utility is a principle not only for individuals,
+- [00:02:32,000 - 00:02:34,000] but also for communities and for legislators.
+- [00:02:34,000 - 00:02:38,000] What, after all, is a community?
+- [00:02:38,000 - 00:02:40,000] Bentham asks.
+- [00:02:40,000 - 00:02:44,000] It's the sum of the individuals who comprise it.
+- [00:02:44,000 - 00:02:47,000] And that's why, in deciding the best policy,
+- [00:02:47,000 - 00:02:49,000] in deciding what the law should be,
+- [00:02:49,000 - 00:02:52,000] in deciding what's just,
+- [00:02:52,000 - 00:02:56,000] citizens and legislators should ask themselves the question,
+- [00:02:56,000 - 00:02:58,500] if we add up all
+- [00:02:58,500 - 00:03:01,000] of the benefits of this policy,
+- [00:03:01,000 - 00:03:03,000] and so on,
+- [00:03:03,000 - 00:03:08,000] and subtract all of the costs,
+- [00:03:08,000 - 00:03:13,000] the right thing to do is the one that maximizes
+- [00:03:13,000 - 00:03:20,000] the balance of happiness over suffering.
+- [00:03:20,000 - 00:03:23,000] That's what it means to maximize utility.
+- [00:03:23,000 - 00:03:27,000] Now, today, I want to see
+- [00:03:27,000 - 00:03:31,000] whether you agree or disagree with it.
+- [00:03:31,000 - 00:03:34,000] And it often goes, this utilitarian logic,
+- [00:03:34,000 - 00:03:37,000] under the name of cost-benefit analysis,
+- [00:03:37,000 - 00:03:40,500] which is used by companies
+- [00:03:40,500 - 00:03:44,000] and by governments all the time.
+- [00:03:44,000 - 00:03:47,000] And what it involves is placing a value,
+- [00:03:47,000 - 00:03:51,000] usually a dollar value, to stand for utility
+- [00:03:51,000 - 00:03:56,000] on the costs and the benefits of various proposals.
+- [00:03:56,000 - 00:03:59,000] Recently, in the Czech Republic,
+- [00:03:59,000 - 00:04:01,000] there was a proposal to
+- [00:04:01,000 - 00:04:03,000] increase the excise tax on smoking.
+- [00:04:03,000 - 00:04:08,000] Philip Morris, the tobacco company,
+- [00:04:08,000 - 00:04:11,000] does huge business in the Czech Republic.
+- [00:04:11,000 - 00:04:15,000] They commissioned a study, a cost-benefit analysis,
+- [00:04:15,000 - 00:04:18,000] of smoking in the Czech Republic.
+- [00:04:18,000 - 00:04:22,000] And what their cost-benefit analysis found
+- [00:04:22,000 - 00:04:29,000] was the government gains by having Czech citizens smoke.
+- [00:04:29,000 - 00:04:32,000] Now, how do they gain?
+- [00:04:32,000 - 00:04:36,000] It's true that there are negative effects
+- [00:04:36,000 - 00:04:39,000] to the public finance of the Czech government,
+- [00:04:39,000 - 00:04:42,000] because there are increased healthcare costs
+- [00:04:42,000 - 00:04:47,000] for people who develop smoking-related diseases.
+- [00:04:47,000 - 00:04:50,000] On the other hand, there were positive effects,
+- [00:04:50,000 - 00:04:52,500] and those were added up on
+- [00:04:52,500 - 00:04:55,000] the other side of the ledger.
+- [00:04:55,000 - 00:04:58,000] The positive effects included, for the most part,
+- [00:04:58,000 - 00:05:02,000] the various tax revenues that the government derives
+- [00:05:02,000 - 00:05:04,000] from the sale of cigarette products,
+- [00:05:04,000 - 00:05:07,000] but it also included healthcare savings to the government
+- [00:05:07,000 - 00:05:09,000] when people die early,
+- [00:05:09,000 - 00:05:11,000] pension savings, you don't have
+- [00:05:11,000 - 00:05:13,000] to pay pensions for as long,
+- [00:05:13,000 - 00:05:19,000] and also savings in housing costs for the elderly.
+- [00:05:19,000 - 00:05:21,000] And when all of the
+- [00:05:21,000 - 00:05:23,000] costs and benefits were added up,
+- [00:05:23,000 - 00:05:27,000] the Philip Morris study found
+- [00:05:27,000 - 00:05:30,000] that there is a net public finance gain
+- [00:05:30,000 - 00:05:36,000] in the Czech Republic of $147 million.
+- [00:05:36,000 - 00:05:38,500] And given the savings in
+- [00:05:38,500 - 00:05:41,000] housing and healthcare and pension costs,
+- [00:05:41,000 - 00:05:46,000] the government enjoys the savings of over $1,200
+- [00:05:46,000 - 00:05:52,000] for each person who dies prematurely due to smoking.
+- [00:05:52,000 - 00:05:54,000] Cost-benefit analysis.
+- [00:05:54,000 - 00:05:56,000] Now,
+- [00:05:56,000 - 00:05:59,000] those among you who are defenders of utilitarianism
+- [00:05:59,000 - 00:06:02,000] may think that this is an unfair test.
+- [00:06:02,000 - 00:06:05,000] Philip Morris was pilloried in the press
+- [00:06:05,000 - 00:06:10,000] and they issued an apology for this heartless calculation.
+- [00:06:10,000 - 00:06:13,000] You may say that what's missing here
+- [00:06:13,000 - 00:06:16,000] is something that the utilitarian can easily incorporate,
+- [00:06:16,000 - 00:06:18,000] namely,
+- [00:06:18,000 - 00:06:21,000] the value to the person and to the families
+- [00:06:21,000 - 00:06:25,000] of those who die from lung cancer.
+- [00:06:25,000 - 00:06:28,000] What about the value of life?
+- [00:06:28,000 - 00:06:32,000] Some cost-benefit analyses incorporate
+- [00:06:32,000 - 00:06:36,000] a measure for the value of life.
+- [00:06:36,000 - 00:06:38,000] One of the most famous of these
+- [00:06:38,000 - 00:06:41,000] involved the Ford Pinto case.
+- [00:06:41,000 - 00:06:43,000] Did any of you read about that?
+- [00:06:43,000 - 00:06:45,000] This was back in the 1970s.
+- [00:06:45,000 - 00:06:47,000] Do you remember what the Ford Pinto was,
+- [00:06:47,000 - 00:06:49,000] that kind of car? Anybody?
+- [00:06:49,000 - 00:06:53,000] It was a small car, a subcompact car, very popular.
+- [00:06:53,000 - 00:06:56,000] But it had one problem,
+- [00:06:56,000 - 00:06:57,500] which is the fuel tank was
+- [00:06:57,500 - 00:06:59,000] at the back of the car,
+- [00:06:59,000 - 00:07:03,000] and in rear collisions the fuel tank exploded.
+- [00:07:03,000 - 00:07:06,000] And some people were killed,
+- [00:07:06,000 - 00:07:09,000] and some severely injured.
+- [00:07:09,000 - 00:07:14,000] Victims of these injuries took Ford to court to sue.
+- [00:07:14,000 - 00:07:17,000] And in the court case it turned out
+- [00:07:17,000 - 00:07:20,000] that Ford had long been a fan of the car,
+- [00:07:20,000 - 00:07:23,000] and that Ford had been a fan of the car
+- [00:07:23,000 - 00:07:27,000] since known about the vulnerable fuel tank,
+- [00:07:27,000 - 00:07:30,000] and had done a cost-benefit analysis
+- [00:07:30,000 - 00:07:33,000] to determine whether it would be worth it
+- [00:07:33,000 - 00:07:36,000] to put in a special shield
+- [00:07:36,000 - 00:07:38,000] that would protect the fuel tank
+- [00:07:38,000 - 00:07:40,000] and prevent it from exploding.
+- [00:07:40,000 - 00:07:43,000] They did a cost-benefit analysis.
+- [00:07:43,000 - 00:07:46,000] The cost per part
+- [00:07:46,000 - 00:07:50,000] to increase the safety of the Pinto,
+- [00:07:50,000 - 00:07:53,000] they calculated at $11 per part.
+- [00:07:53,000 - 00:07:56,000] And here's,
+- [00:07:56,000 - 00:07:59,000] this was the cost-benefit analysis
+- [00:07:59,000 - 00:08:02,000] that emerged in the trial.
+- [00:08:02,000 - 00:08:05,000] $11 per part
+- [00:08:05,000 - 00:08:09,000] at 12.5 million cars and trucks
+- [00:08:09,000 - 00:08:14,000] came to a total cost of $137 million
+- [00:08:14,000 - 00:08:17,000] to improve the safety.
+- [00:08:17,000 - 00:08:20,000] But then they calculated the benefits
+- [00:08:20,000 - 00:08:23,000] of spending all this money on a safer car.
+- [00:08:23,000 - 00:08:26,000] And they counted 180 deaths,
+- [00:08:26,000 - 00:08:28,000] and they assigned a dollar value,
+- [00:08:28,000 - 00:08:31,000] $200,000 per death.
+- [00:08:31,000 - 00:08:34,000] 180 injuries,
+- [00:08:37,000 - 00:08:39,000] And then the cost to repair,
+- [00:08:39,000 - 00:08:41,000] the replacement cost for 2,000 vehicles
+- [00:08:41,000 - 00:08:44,000] that would be destroyed without the safety device,
+- [00:08:44,000 - 00:08:47,000] $700 per vehicle.
+- [00:08:47,000 - 00:08:50,000] So the benefits
+- [00:08:50,000 - 00:08:52,000] turned out to be only
+- [00:08:52,000 - 00:08:54,000] $49.5 million.
+- [00:08:54,000 - 00:08:58,000] And so they didn't install the device.
+- [00:08:58,000 - 00:09:00,000] Needless to say,
+- [00:09:00,000 - 00:09:02,000] when this memo
+- [00:09:02,000 - 00:09:04,000] of the Ford Motor Company's
+- [00:09:04,000 - 00:09:09,000] cost-benefit analysis came out in the trial,
+- [00:09:09,000 - 00:09:11,000] it appalled the jurors
+- [00:09:11,000 - 00:09:16,000] who awarded a huge settlement.
+- [00:09:16,000 - 00:09:18,000] Is this a counterexample
+- [00:09:18,000 - 00:09:21,000] to the utilitarian idea of calculating?
+- [00:09:21,000 - 00:09:26,000] Ford included a measure of the value of life.
+- [00:09:26,000 - 00:09:29,000] Now, who here wants to defend
+- [00:09:29,000 - 00:09:31,000] cost-benefit analysis
+- [00:09:31,000 - 00:09:35,000] from this apparent counterexample?
+- [00:09:35,000 - 00:09:38,000] Who has a defense?
+- [00:09:38,000 - 00:09:41,000] Or do you think this completely destroys
+- [00:09:41,000 - 00:09:45,000] the whole utilitarian calculus?
+- [00:09:45,000 - 00:09:47,000] Yes.
+- [00:09:47,000 - 00:09:49,000] Well, I think that, once again,
+- [00:09:49,000 - 00:09:51,000] they've made the same mistake
+- [00:09:51,000 - 00:09:52,000] that they did,
+- [00:09:52,000 - 00:09:54,000] that they assigned a dollar value to human life.
+- [00:09:54,000 - 00:09:55,000] And once again,
+- [00:09:55,000 - 00:09:56,000] they failed to take account things like
+- [00:09:56,000 - 00:09:58,000] suffering and emotional losses by the families.
+- [00:09:58,000 - 00:10:00,000] I mean, families lost earnings,
+- [00:10:00,000 - 00:10:02,000] but they also lost a loved one.
+- [00:10:02,000 - 00:10:06,000] And that is more valued than $200,000.
+- [00:10:06,000 - 00:10:07,000] Right.
+- [00:10:07,000 - 00:10:08,000] And wait, wait, wait.
+- [00:10:08,000 - 00:10:09,000] That's good.
+- [00:10:09,000 - 00:10:10,000] What's your name?
+- [00:10:10,000 - 00:10:11,000] Julia Roto.
+- [00:10:11,000 - 00:10:12,000] So if 200,000, Julie,
+- [00:10:12,000 - 00:10:15,000] is too low a figure,
+- [00:10:15,000 - 00:10:18,000] because it doesn't include the loss of a loved one
+- [00:10:18,000 - 00:10:20,000] and the loss of those years of life,
+- [00:10:20,000 - 00:10:23,000] what would be, what do you think,
+- [00:10:23,000 - 00:10:26,000] would be a more accurate number?
+- [00:10:26,000 - 00:10:28,000] I don't believe I could give a number.
+- [00:10:28,000 - 00:10:30,000] I think that this sort of analysis
+- [00:10:30,000 - 00:10:32,000] shouldn't be applied to issues of human life.
+- [00:10:32,000 - 00:10:34,000] I think it can't be used monetarily.
+- [00:10:34,000 - 00:10:38,000] So they didn't just put too low a number,
+- [00:10:38,000 - 00:10:39,000] Julie says.
+- [00:10:39,000 - 00:10:41,000] They were wrong to try
+- [00:10:41,000 - 00:10:43,000] to put any number at all.
+- [00:10:43,000 - 00:10:46,000] All right, let's hear someone who...
+- [00:10:46,000 - 00:10:49,000] You have to adjust your position.
+- [00:10:49,000 - 00:10:51,000] You have to adjust for inflation.
+- [00:10:57,000 - 00:10:58,000] All right.
+- [00:10:58,000 - 00:10:59,000] Fair enough.
+- [00:10:59,000 - 00:11:02,000] So what would the number be now?
+- [00:11:02,000 - 00:11:07,000] This was 30, this was 35 years ago.
+- [00:11:07,000 - 00:11:10,000] $2 million.
+- [00:11:10,000 - 00:11:11,000] You would put $2 million.
+- [00:11:11,000 - 00:11:13,000] And what's your name?
+- [00:11:13,000 - 00:11:17,000] Wojtek says we have to allow for inflation.
+- [00:11:17,000 - 00:11:18,000] We should be more generous.
+- [00:11:18,000 - 00:11:19,000] We should be more generous.
+- [00:11:19,000 - 00:11:20,000] Then would you be satisfied
+- [00:11:20,000 - 00:11:22,500] that this is the right
+- [00:11:22,500 - 00:11:25,000] way of thinking about the question?
+- [00:11:25,000 - 00:11:27,000] I guess, unfortunately, it is.
+- [00:11:27,000 - 00:11:32,000] For there needs to be a number put somewhere.
+- [00:11:32,000 - 00:11:34,000] Like, I'm not sure what that number would be,
+- [00:11:34,000 - 00:11:38,000] but I do agree that there could possibly be
+- [00:11:38,000 - 00:11:40,000] a number put on human life.
+- [00:11:40,000 - 00:11:41,000] All right.
+- [00:11:41,000 - 00:11:43,000] So Wojtek says,
+- [00:11:43,000 - 00:11:46,000] and here he disagrees with Julie.
+- [00:11:46,000 - 00:11:48,000] Julie says we can't put a number on human life.
+- [00:11:48,000 - 00:11:51,000] For the purpose of a cost-benefit analysis.
+- [00:11:51,000 - 00:11:53,000] Wojtek says we have to,
+- [00:11:53,000 - 00:11:59,000] because we have to make decisions somehow.
+- [00:11:59,000 - 00:12:01,000] What do other people think about this?
+- [00:12:01,000 - 00:12:03,000] Is there anyone prepared
+- [00:12:03,000 - 00:12:05,000] to defend cost-benefit analysis here?
+- [00:12:05,000 - 00:12:08,000] As accurate, as desirable?
+- [00:12:08,000 - 00:12:09,000] Yes?
+- [00:12:09,000 - 00:12:10,000] Go ahead.
+- [00:12:10,000 - 00:12:12,000] I think that if Ford and other car companies
+- [00:12:12,000 - 00:12:14,000] didn't use cost-benefit analysis,
+- [00:12:14,000 - 00:12:16,000] they'd eventually go out of business
+- [00:12:16,000 - 00:12:17,000] because they wouldn't be able to be profitable.
+- [00:12:17,000 - 00:12:18,500] And millions of people wouldn't
+- [00:12:18,500 - 00:12:20,000] be able to use their cars
+- [00:12:20,000 - 00:12:22,000] to get to jobs, to put food on the table,
+- [00:12:22,000 - 00:12:24,000] to feed their children.
+- [00:12:24,000 - 00:12:27,000] So I think that if cost-benefit analysis isn't employed,
+- [00:12:27,000 - 00:12:32,000] the greater good is sacrificed in this case.
+- [00:12:32,000 - 00:12:33,000] All right.
+- [00:12:33,000 - 00:12:34,000] Let me ask, what's your name?
+- [00:12:34,000 - 00:12:35,000] Raul.
+- [00:12:35,000 - 00:12:37,000] Raul.
+- [00:12:37,000 - 00:12:39,000] There was recently a study done about cell phone use
+- [00:12:39,000 - 00:12:42,000] by a driver when people are driving a car.
+- [00:12:42,000 - 00:12:45,000] And there's a debate whether that should be banned.
+- [00:12:45,000 - 00:12:46,000] Yeah.
+- [00:12:46,000 - 00:12:54,000] And the figure was that some 2,000 people die
+- [00:12:54,000 - 00:13:00,000] as a result of accidents each year using cell phones.
+- [00:13:00,000 - 00:13:03,000] And yet, the cost-benefit analysis,
+- [00:13:03,000 - 00:13:05,000] which was done by the
+- [00:13:05,000 - 00:13:07,000] Center for Risk Analysis at Harvard,
+- [00:13:07,000 - 00:13:09,500] found that if you look at
+- [00:13:09,500 - 00:13:12,000] the benefits of the cell phone use
+- [00:13:12,000 - 00:13:15,000] and you put some value on the life,
+- [00:13:15,000 - 00:13:18,000] it comes out about the same.
+- [00:13:18,000 - 00:13:20,000] Because of the enormous economic benefit
+- [00:13:20,000 - 00:13:23,000] of enabling people to take advantage of their time,
+- [00:13:23,000 - 00:13:25,000] not waste time, be able to make deals
+- [00:13:25,000 - 00:13:29,000] and talk to friends and so on while they're driving.
+- [00:13:29,000 - 00:13:32,000] Doesn't that suggest that it's a mistake
+- [00:13:32,000 - 00:13:34,000] to try to put monetary
+- [00:13:34,000 - 00:13:36,000] figures on questions of human life?
+- [00:13:36,000 - 00:13:40,000] Well, I think that if the great majority of people
+- [00:13:40,000 - 00:13:43,000] try to derive maximum utility out of a service
+- [00:13:43,000 - 00:13:45,000] like using cell phones,
+- [00:13:45,000 - 00:13:48,000] and the convenience that cell phones provide,
+- [00:13:48,000 - 00:13:53,000] that sacrifice is necessary for satisfaction to occur.
+- [00:13:53,000 - 00:13:55,000] You're an outright utilitarian.
+- [00:13:55,000 - 00:13:59,000] Yes. Okay.
+- [00:13:59,000 - 00:14:01,000] All right. Then one last question, Raul.
+- [00:14:01,000 - 00:14:03,000] Okay.
+- [00:14:03,000 - 00:14:05,000] And I put this to Wojtek.
+- [00:14:05,000 - 00:14:08,000] What dollar figure should be put on human life
+- [00:14:08,000 - 00:14:12,000] to decide whether to ban the use of cell phones?
+- [00:14:12,000 - 00:14:14,000] Well, I don't want to arbitrarily
+- [00:14:14,000 - 00:14:16,000] calculate a figure.
+- [00:14:16,000 - 00:14:18,000] I mean, right now, I think that...
+- [00:14:20,000 - 00:14:22,000] You want to take it under advisement?
+- [00:14:22,000 - 00:14:24,000] Yeah, I'll take it under advisement.
+- [00:14:24,000 - 00:14:26,000] But what, roughly speaking, would it be?
+- [00:14:26,000 - 00:14:28,000] You've got 2,300 deaths.
+- [00:14:28,000 - 00:14:30,000] You've got to assign a dollar value
+- [00:14:30,000 - 00:14:32,000] to know whether you want to prevent those deaths
+- [00:14:32,000 - 00:14:34,000] by banning the use of cell phones in cars.
+- [00:14:34,000 - 00:14:35,000] Okay.
+- [00:14:35,000 - 00:14:38,000] So what would your hunch be?
+- [00:14:38,000 - 00:14:39,000] How much?
+- [00:14:39,000 - 00:14:41,000] A million? Two million?
+- [00:14:41,000 - 00:14:43,000] Two million was Wojtek's figure.
+- [00:14:43,000 - 00:14:44,000] Yeah.
+- [00:14:44,000 - 00:14:45,000] Is that about right?
+- [00:14:45,000 - 00:14:46,000] Maybe a million.
+- [00:14:46,000 - 00:14:47,000] A million?
+- [00:14:47,000 - 00:14:48,000] Yeah.
+- [00:14:50,000 - 00:14:51,000] You know the...
+- [00:14:51,000 - 00:14:52,000] That's good. Thank you.
+- [00:14:52,000 - 00:14:54,000] Okay.
+- [00:14:54,000 - 00:14:56,000] So these are some of the controversies
+- [00:14:56,000 - 00:14:59,000] that arise these days from cost-benefit analysis,
+- [00:14:59,000 - 00:15:03,000] especially those that involve placing a dollar value
+- [00:15:03,000 - 00:15:06,000] on everything to be added up.
+- [00:15:06,000 - 00:15:09,000] Well, now I want to turn to your objections.
+- [00:15:09,000 - 00:15:11,000] To your objections not necessarily
+- [00:15:11,000 - 00:15:13,000] to cost-benefit analysis,
+- [00:15:13,000 - 00:15:16,000] but to the cost-benefit analysis specifically,
+- [00:15:16,000 - 00:15:18,000] because that's just one version
+- [00:15:18,000 - 00:15:22,000] of the utilitarian logic in practice today,
+- [00:15:22,000 - 00:15:25,000] but to the theory as a whole,
+- [00:15:25,000 - 00:15:30,000] to the idea that the right thing to do,
+- [00:15:30,000 - 00:15:34,000] the just basis for policy and law,
+- [00:15:34,000 - 00:15:40,000] is to maximize utility.
+- [00:15:40,000 - 00:15:42,000] How many disagree with the utilitarian...
+- [00:15:42,000 - 00:15:48,000] approach to law and to the common good?
+- [00:15:48,000 - 00:15:52,000] How many agree with it?
+- [00:15:52,000 - 00:15:55,000] So more agree than disagree.
+- [00:15:55,000 - 00:15:58,000] So let's hear from the critics.
+- [00:15:58,000 - 00:15:59,000] Yes.
+- [00:15:59,000 - 00:16:02,000] My main issue with it is that I feel like
+- [00:16:02,000 - 00:16:06,000] you can't say that just because someone's in the minority,
+- [00:16:06,000 - 00:16:09,000] what they want and need is less valuable
+- [00:16:09,000 - 00:16:11,000] than someone who's in the majority.
+- [00:16:11,000 - 00:16:13,000] So I guess I have an issue with the idea
+- [00:16:13,000 - 00:16:16,000] that the greatest good for the greatest number is okay,
+- [00:16:16,000 - 00:16:18,000] because there's still...
+- [00:16:18,000 - 00:16:21,000] What about the people who are in the lesser number?
+- [00:16:21,000 - 00:16:22,000] Like, it's not fair to them.
+- [00:16:22,000 - 00:16:23,500] They didn't have any say
+- [00:16:23,500 - 00:16:25,000] in where they wanted to be.
+- [00:16:25,000 - 00:16:27,000] All right. That's an interesting objection.
+- [00:16:27,000 - 00:16:30,000] You're worried about the effect on the minority.
+- [00:16:30,000 - 00:16:32,000] Yes.
+- [00:16:32,000 - 00:16:33,000] What's your name, by the way?
+- [00:16:33,000 - 00:16:35,000] Anna.
+- [00:16:35,000 - 00:16:37,000] Who has an answer to Anna's worry
+- [00:16:37,000 - 00:16:39,000] about the effect on the minority?
+- [00:16:39,000 - 00:16:40,000] What do you say to Anna?
+- [00:16:40,000 - 00:16:43,000] She said that the minorities value less.
+- [00:16:43,000 - 00:16:45,000] I don't think that's the case,
+- [00:16:45,000 - 00:16:47,000] because individually the minority's value
+- [00:16:47,000 - 00:16:50,000] is just the same as the individual of the majority.
+- [00:16:50,000 - 00:16:54,000] It's just that the numbers outweigh the minority.
+- [00:16:54,000 - 00:16:56,000] And, I mean, at a certain
+- [00:16:56,000 - 00:16:58,000] point, you have to make a decision,
+- [00:16:58,000 - 00:17:00,000] and I'm sorry for the minority,
+- [00:17:00,000 - 00:17:04,000] but sometimes it's for the general, for the greater good.
+- [00:17:04,000 - 00:17:06,000] For the greater good. Anna, what do you say?
+- [00:17:06,000 - 00:17:07,000] What's your name?
+- [00:17:07,000 - 00:17:08,000] Youngda.
+- [00:17:08,000 - 00:17:09,000] What do you say to Youngda?
+- [00:17:09,000 - 00:17:10,000] Youngda.
+- [00:17:10,000 - 00:17:13,000] Youngda says you just have to add up people's preferences,
+- [00:17:13,000 - 00:17:17,000] and those in the minority do have their preferences weighed.
+- [00:17:17,000 - 00:17:18,500] Can you give an example of
+- [00:17:18,500 - 00:17:20,000] the kind of thing you're worried about
+- [00:17:20,000 - 00:17:23,000] when you say you're worried about utilitarianism
+- [00:17:23,000 - 00:17:27,000] violating the concern or respect due the minority?
+- [00:17:27,000 - 00:17:28,000] Okay.
+- [00:17:28,000 - 00:17:29,000] Can you give an example?
+- [00:17:29,000 - 00:17:30,500] So, well, with any of
+- [00:17:30,500 - 00:17:32,000] the cases that we've talked about,
+- [00:17:32,000 - 00:17:35,000] like for the shipwreck one,
+- [00:17:35,000 - 00:17:39,000] I think the boy who was eaten still had
+- [00:17:39,000 - 00:17:40,500] as much of a right
+- [00:17:40,500 - 00:17:42,000] to live as the other people,
+- [00:17:42,000 - 00:17:49,000] and just because he was the minority in that case,
+- [00:17:49,000 - 00:17:51,000] the one who maybe had less
+- [00:17:51,000 - 00:17:53,000] of a chance to keep living,
+- [00:17:53,000 - 00:17:55,500] that doesn't mean that the others
+- [00:17:55,500 - 00:17:58,000] automatically have a right to eat him
+- [00:17:58,000 - 00:18:00,500] just because it would give a greater
+- [00:18:00,500 - 00:18:03,000] amount of people a chance to live.
+- [00:18:03,000 - 00:18:05,500] So there may be certain
+- [00:18:05,500 - 00:18:08,000] rights that the minority members have,
+- [00:18:08,000 - 00:18:10,000] that the individual has,
+- [00:18:10,000 - 00:18:15,000] that shouldn't be traded off for the sake of utility.
+- [00:18:15,000 - 00:18:18,000] Yes, Anna?
+- [00:18:18,000 - 00:18:21,000] Youngda, this would be a test for you.
+- [00:18:21,000 - 00:18:24,000] Back in ancient Rome,
+- [00:18:24,000 - 00:18:26,500] they threw Christians to the
+- [00:18:26,500 - 00:18:29,000] lions in the Colosseum for sport.
+- [00:18:29,000 - 00:18:33,000] If you think how the utilitarian calculus would go,
+- [00:18:33,000 - 00:18:35,500] yes, the Christian thrown to
+- [00:18:35,500 - 00:18:38,000] the lions suffers enormous, excruciating pain.
+- [00:18:38,000 - 00:18:42,000] But look at the collective ecstasy of the Romans.
+- [00:18:45,000 - 00:18:47,000] Youngda?
+- [00:18:48,000 - 00:18:52,000] Well, in that time,
+- [00:18:52,000 - 00:18:56,000] in modern day of time,
+- [00:18:56,000 - 00:18:58,500] to give a number to the
+- [00:18:58,500 - 00:19:01,000] happiness given to the people watching,
+- [00:19:01,000 - 00:19:07,000] I don't think any policy maker would say
+- [00:19:07,000 - 00:19:11,000] the suffering of one person is much, much,
+- [00:19:11,000 - 00:19:14,000] in comparison to the happiness gained.
+- [00:19:14,000 - 00:19:16,000] No, but you have to admit
+- [00:19:16,000 - 00:19:18,000] that if there were enough
+- [00:19:18,000 - 00:19:20,000] Romans delirious enough with happiness,
+- [00:19:20,000 - 00:19:23,000] it would outweigh even the most excruciating pain
+- [00:19:23,000 - 00:19:26,000] of a handful of Christians thrown to the lion.
+- [00:19:28,000 - 00:19:30,500] So we really have here
+- [00:19:30,500 - 00:19:33,000] two different objections to utilitarianism.
+- [00:19:33,000 - 00:19:36,000] One has to do with whether utilitarianism,
+- [00:19:36,000 - 00:19:42,000] adequately respects individual rights or minority rights.
+- [00:19:42,000 - 00:19:45,500] And the other has to do
+- [00:19:45,500 - 00:19:49,000] with the whole idea of aggregating utility
+- [00:19:49,000 - 00:19:53,000] or preferences or values.
+- [00:19:53,000 - 00:19:56,500] Is it possible to aggregate all
+- [00:19:56,500 - 00:20:00,000] values to translate them into dollar terms?
+- [00:20:00,000 - 00:20:04,000] There was, in the 1930s,
+- [00:20:04,000 - 00:20:05,000] a very important argument.
+- [00:20:05,000 - 00:20:09,000] And a psychologist who tried
+- [00:20:09,000 - 00:20:13,000] to address this second question,
+- [00:20:13,000 - 00:20:18,000] he tried to prove what utilitarianism assumes,
+- [00:20:18,000 - 00:20:24,000] that it is possible to translate all goods, all values,
+- [00:20:24,000 - 00:20:28,000] all human concerns into a single uniform measure.
+- [00:20:28,000 - 00:20:31,000] And he did this by conducting
+- [00:20:31,000 - 00:20:34,000] a survey of young recipients of relief.
+- [00:20:34,000 - 00:20:37,000] This was in the 1930s.
+- [00:20:37,000 - 00:20:39,000] And he asked them,
+- [00:20:39,000 - 00:20:42,000] he gave them a list of unpleasant experiences.
+- [00:20:42,000 - 00:20:43,000] And he asked them,
+- [00:20:43,000 - 00:20:45,000] how much would you have to
+- [00:20:45,000 - 00:20:47,000] be paid to undergo the following experiences?
+- [00:20:47,000 - 00:20:50,000] And he kept track.
+- [00:20:50,000 - 00:20:51,000] For example,
+- [00:20:51,000 - 00:20:54,000] how much would you have to be paid
+- [00:20:54,000 - 00:20:57,000] to have one upper front tooth pulled out?
+- [00:20:57,000 - 00:21:00,000] Or how much would you have to be
+- [00:21:00,000 - 00:21:03,000] paid to have one little toe cut off?
+- [00:21:04,000 - 00:21:10,000] Or to eat a live earthworm six inches long?
+- [00:21:10,000 - 00:21:12,000] Or to live the rest of
+- [00:21:12,000 - 00:21:14,000] your life on a farm in Kansas?
+- [00:21:19,000 - 00:21:21,500] Or to choke a stray cat
+- [00:21:21,500 - 00:21:24,000] to death with your bare hands?
+- [00:21:24,000 - 00:21:26,500] Now what do you suppose was
+- [00:21:26,500 - 00:21:29,000] the most expensive item on that list?
+- [00:21:29,000 - 00:21:33,000] Kansas?
+- [00:21:33,000 - 00:21:41,000] You're right, it was Kansas.
+- [00:21:41,000 - 00:21:50,000] For Kansas, people said they'd have to be paid $300,000.
+- [00:21:50,000 - 00:21:56,000] What do you think,
+- [00:21:56,000 - 00:21:57,000] what do you think,
+- [00:21:57,000 - 00:21:58,000] what do you think,
+- [00:21:58,000 - 00:21:59,000] what do you think,
+- [00:21:59,000 - 00:22:02,000] what do you think was the next most expensive?
+- [00:22:02,000 - 00:22:04,000] Not the cat.
+- [00:22:04,000 - 00:22:07,000] Not the tooth.
+- [00:22:07,000 - 00:22:10,000] Not the toe.
+- [00:22:10,000 - 00:22:12,000] The worm.
+- [00:22:16,000 - 00:22:19,000] People said you'd have to pay
+- [00:22:19,000 - 00:22:22,000] them $100,000 to eat the worm.
+- [00:22:22,000 - 00:22:26,000] What do you think was the least expensive item?
+- [00:22:26,000 - 00:22:28,000] Not the cat.
+- [00:22:28,000 - 00:22:30,000] Not the cat.
+- [00:22:30,000 - 00:22:31,000] The tooth.
+- [00:22:31,000 - 00:22:32,000] The tooth.
+- [00:22:32,000 - 00:22:35,500] During the Depression, people were willing to
+- [00:22:35,500 - 00:22:39,000] have their tooth pulled for only $4,500.
+- [00:22:39,000 - 00:22:48,000] Now, here's what Thorndike concluded from his study.
+- [00:22:48,000 - 00:22:51,500] Any want or satisfaction which exists, exists
+- [00:22:51,500 - 00:22:55,000] in some amount and is therefore measurable.
+- [00:22:55,000 - 00:22:59,500] The life of a dog or a cat or
+- [00:22:59,500 - 00:23:04,000] a chicken consists of appetites, cravings, desires, and their gratifications.
+- [00:23:04,000 - 00:23:08,000] So does the life of human beings,
+- [00:23:08,000 - 00:23:12,000] though the appetites and desires are more complicated.
+- [00:23:12,000 - 00:23:16,000] But what about Thorndike's study?
+- [00:23:16,000 - 00:23:24,000] Does it support Bentham's idea that all goods, all values,
+- [00:23:24,000 - 00:23:28,000] are captured according to a single uniform measure of value?
+- [00:23:28,000 - 00:23:30,500] Or does the preposterous character of
+- [00:23:30,500 - 00:23:33,000] those different items on the list
+- [00:23:33,000 - 00:23:38,000] suggest the opposite conclusion that maybe,
+- [00:23:38,000 - 00:23:44,000] whether we're talking about life or Kansas or the worm,
+- [00:23:44,000 - 00:23:49,000] maybe the things we value and cherish can't be
+- [00:23:49,000 - 00:23:54,000] captured according to a single uniform measure of value.
+- [00:23:54,000 - 00:23:58,000] And if they can't, what are the
+- [00:23:58,000 - 00:24:02,000] consequences for the utilitarian theory of morality?
+- [00:24:02,000 - 00:24:05,000] That's a question we'll continue with next time.
+- [00:24:13,000 - 00:24:15,000] All right, now let's take
+- [00:24:15,000 - 00:24:17,000] the other part of the poll.
+- [00:24:17,000 - 00:24:23,000] Which is the highest experience or pleasure?
+- [00:24:23,000 - 00:24:26,000] How many say Shakespeare?
+- [00:24:31,000 - 00:24:35,000] How many say Fear Factor?
+- [00:24:38,000 - 00:24:41,000] No, you can't be serious. Really?
+- [00:24:46,000 - 00:24:52,000] Last time, last time we began to consider some objections.
+- [00:24:53,000 - 00:24:58,000] To Jeremy Bentham's version of utilitarianism.
+- [00:25:01,000 - 00:25:06,000] People raised two objections in the discussion we had.
+- [00:25:08,000 - 00:25:12,000] The first was the objection, the claim,
+- [00:25:12,000 - 00:25:15,500] that utilitarianism, by concerning itself with
+- [00:25:15,500 - 00:25:19,000] the greatest good for the greatest number,
+- [00:25:19,000 - 00:25:22,000] fails adequately to respect individual values.
+- [00:25:23,000 - 00:25:31,000] Today we have debates about torture and terrorism.
+- [00:25:31,000 - 00:25:34,500] Suppose a suspected terrorist
+- [00:25:34,500 - 00:25:38,000] was apprehended on September 10th.
+- [00:25:38,000 - 00:25:44,500] And you had reason to believe that the suspect had crucial
+- [00:25:44,500 - 00:25:51,000] information about an impending terrorist attack that would kill over 3,000 people.
+- [00:25:51,000 - 00:25:55,000] And you couldn't extract the information.
+- [00:25:55,000 - 00:25:58,500] Would it be just to torture
+- [00:25:58,500 - 00:26:02,000] the suspect to get the information?
+- [00:26:02,000 - 00:26:07,000] Or do you say no, there is a
+- [00:26:07,000 - 00:26:12,000] categorical moral duty of respect for individual rights?
+- [00:26:12,000 - 00:26:15,500] In a way, we're back to the questions
+- [00:26:15,500 - 00:26:19,000] we started with about trolley cars and organ transplants.
+- [00:26:19,000 - 00:26:20,000] So that's the first issue.
+- [00:26:20,000 - 00:26:24,000] And you remember we considered
+- [00:26:24,000 - 00:26:28,000] some examples of cost-benefit analysis.
+- [00:26:28,000 - 00:26:33,000] But a lot of people were unhappy with cost-benefit analysis
+- [00:26:33,000 - 00:26:35,000] when it came to placing
+- [00:26:35,000 - 00:26:37,000] a dollar value on human life.
+- [00:26:37,000 - 00:26:43,000] And so that led us to the second objection.
+- [00:26:43,000 - 00:26:48,000] It questioned whether it's possible to translate all values
+- [00:26:48,000 - 00:26:52,000] into a single uniform measure of value.
+- [00:26:52,000 - 00:26:54,500] It asks, in other words,
+- [00:26:54,500 - 00:26:57,000] whether all values are commensurable.
+- [00:26:57,000 - 00:27:02,000] Let me give you one other example of an experience.
+- [00:27:02,000 - 00:27:04,000] This actually is a true story.
+- [00:27:04,000 - 00:27:07,000] It comes from personal experience.
+- [00:27:07,000 - 00:27:11,500] That raises a question, at least, about whether all
+- [00:27:11,500 - 00:27:16,000] values can be translated without loss into utilitarian terms.
+- [00:27:18,000 - 00:27:21,500] Some years ago, when I was a
+- [00:27:21,500 - 00:27:25,000] graduate student, I was at Oxford in England,
+- [00:27:25,000 - 00:27:28,000] and they had men's and women's colleges.
+- [00:27:28,000 - 00:27:30,000] They weren't yet mixed.
+- [00:27:30,000 - 00:27:33,500] And the women's colleges had
+- [00:27:33,500 - 00:27:37,000] rules against overnight male guests.
+- [00:27:37,000 - 00:27:40,500] By the 1970s, these rules
+- [00:27:40,500 - 00:27:44,000] were rarely enforced and easily violated.
+- [00:27:44,000 - 00:27:46,000] Or so I was told.
+- [00:27:48,000 - 00:27:51,500] By the late 1970s, when I was
+- [00:27:51,500 - 00:27:55,000] there, pressure grew to relax these rules,
+- [00:27:55,000 - 00:27:58,000] and it became the subject of debate
+- [00:27:58,000 - 00:28:01,000] among the faculty at St. Anne's College,
+- [00:28:01,000 - 00:28:03,000] which was one of these all-women's colleges.
+- [00:28:03,000 - 00:28:07,000] The older women on the faculty were traditionalists.
+- [00:28:07,000 - 00:28:12,000] They were opposed to change on conventional moral grounds.
+- [00:28:12,000 - 00:28:15,000] But times had changed, and they were embarrassed
+- [00:28:15,000 - 00:28:18,000] to give the true groundwork.
+- [00:28:18,000 - 00:28:20,500] The men's colleges were not the only ones
+- [00:28:20,500 - 00:28:23,000] to change on conventional moral grounds for their objection.
+- [00:28:23,000 - 00:28:25,500] And so they translated
+- [00:28:25,500 - 00:28:28,000] their arguments into utilitarian terms.
+- [00:28:28,000 - 00:28:31,000] If men stay overnight, they argued
+- [00:28:31,000 - 00:28:34,000] the costs to the college will increase.
+- [00:28:34,000 - 00:28:36,000] How, you might wonder?
+- [00:28:36,000 - 00:28:39,000] Well, they'll want to take baths, and
+- [00:28:39,000 - 00:28:42,000] that'll use up hot water, they said.
+- [00:28:42,000 - 00:28:44,500] Furthermore, they argued, we'll have
+- [00:28:44,500 - 00:28:47,000] to replace the mattresses more often.
+- [00:28:48,000 - 00:28:50,000] They met these arguments
+- [00:28:50,000 - 00:28:52,000] by adopting the following compromise.
+- [00:28:52,000 - 00:28:55,000] Each woman could have a maximum
+- [00:28:55,000 - 00:28:58,000] of three overnight male guests each week.
+- [00:29:01,000 - 00:29:03,000] They didn't say whether it had to
+- [00:29:03,000 - 00:29:05,000] be the same one or three different.
+- [00:29:05,000 - 00:29:08,000] Provided, and this was the compromise,
+- [00:29:08,000 - 00:29:11,500] provided the guest paid 50 pence
+- [00:29:11,500 - 00:29:15,000] to defray the cost to the college.
+- [00:29:15,000 - 00:29:17,000] The next day,
+- [00:29:17,000 - 00:29:21,000] the national headline in the national newspaper read,
+- [00:29:21,000 - 00:29:29,000] St. Anne's girls, 50 pence a night.
+- [00:29:29,000 - 00:29:32,500] Another illustration of the
+- [00:29:32,500 - 00:29:36,000] difficulty of translating all values,
+- [00:29:36,000 - 00:29:39,000] in this case a certain idea of virtue,
+- [00:29:39,000 - 00:29:42,000] into utilitarian terms.
+- [00:29:42,000 - 00:29:46,000] So, that's all to illustrate
+- [00:29:46,000 - 00:29:50,000] the second objection to utilitarianism,
+- [00:29:50,000 - 00:29:52,000] at least the part of that objection
+- [00:29:52,000 - 00:29:57,000] that questions whether utilitarianism is right
+- [00:29:57,000 - 00:30:02,000] to assume that we can assume the uniformity of value,
+- [00:30:02,000 - 00:30:05,000] the commensurability of all values,
+- [00:30:05,000 - 00:30:08,000] and translate all moral
+- [00:30:08,000 - 00:30:11,000] considerations into dollars or money.
+- [00:30:11,000 - 00:30:15,000] But there is a second aspect to this worry
+- [00:30:15,000 - 00:30:19,000] about aggregating values and preferences.
+- [00:30:19,000 - 00:30:26,000] Why should we weigh all preferences that people have
+- [00:30:26,000 - 00:30:29,000] without assessing whether they're
+- [00:30:29,000 - 00:30:32,000] good preferences or bad preferences?
+- [00:30:32,000 - 00:30:36,000] Shouldn't we distinguish between
+- [00:30:36,000 - 00:30:40,000] higher pleasures and lower pleasures?
+- [00:30:40,000 - 00:30:45,000] Now, part of the appeal of not making any claims
+- [00:30:45,000 - 00:30:47,000] about qualitative distinctions,
+- [00:30:47,000 - 00:30:49,000] about the worth of people's preferences,
+- [00:30:49,000 - 00:30:52,000] part of the appeal is
+- [00:30:52,000 - 00:30:55,000] that it is nonjudgmental and egalitarian.
+- [00:30:55,000 - 00:30:58,000] The Benthamite utilitarian says,
+- [00:30:58,000 - 00:31:00,000] everybody's preferences count,
+- [00:31:00,000 - 00:31:04,000] and they count regardless of what people want,
+- [00:31:04,000 - 00:31:08,000] regardless of what makes different people happy.
+- [00:31:08,000 - 00:31:13,000] For Bentham, all that matters, you'll remember,
+- [00:31:13,000 - 00:31:15,500] are the intensity and the
+- [00:31:15,500 - 00:31:18,000] duration of a pleasure or pain.
+- [00:31:18,000 - 00:31:21,000] The so-called higher pleasures or nobler virtues
+- [00:31:21,000 - 00:31:24,000] are simply those, according to Bentham,
+- [00:31:24,000 - 00:31:29,000] that produce stronger, longer pleasure.
+- [00:31:29,000 - 00:31:32,000] He had a famous phrase to express this idea.
+- [00:31:32,000 - 00:31:35,000] The quantity of pleasure being equal,
+- [00:31:35,000 - 00:31:39,000] pushpin is as good as poetry.
+- [00:31:39,000 - 00:31:41,000] What was pushpin?
+- [00:31:41,000 - 00:31:43,000] It was some kind of a child's game,
+- [00:31:43,000 - 00:31:44,000] like tiddlywinks.
+- [00:31:44,000 - 00:31:48,000] Pushpin is as good as poetry, Bentham says.
+- [00:31:48,000 - 00:31:51,000] And lying behind this idea, I think,
+- [00:31:51,000 - 00:31:54,000] is the claim, the intuition,
+- [00:31:54,000 - 00:31:57,000] that it's a presumption to judge
+- [00:31:57,000 - 00:32:00,000] whose pleasures are intrinsically
+- [00:32:00,000 - 00:32:03,000] higher or worthier or better.
+- [00:32:03,000 - 00:32:08,000] And there is something attractive in this refusal to judge.
+- [00:32:08,000 - 00:32:12,000] After all, some people like Mozart, others, Madonna.
+- [00:32:12,000 - 00:32:17,000] Some people like ballet, others, bowling.
+- [00:32:17,000 - 00:32:20,000] Who's to say, Bentham might argue,
+- [00:32:20,000 - 00:32:23,000] who's to say which of these pleasures,
+- [00:32:23,000 - 00:32:30,000] whose pleasures, are higher, worthier, nobler than others?
+- [00:32:30,000 - 00:32:36,000] But is that right?
+- [00:32:36,000 - 00:32:40,000] This refusal to make qualitative distinctions.
+- [00:32:40,000 - 00:32:45,000] Can we altogether dispense with the idea
+- [00:32:45,000 - 00:32:47,000] that certain things we take pleasure in
+- [00:32:47,000 - 00:32:53,000] are better or worthier than others?
+- [00:32:53,000 - 00:32:54,500] Think back to the case
+- [00:32:54,500 - 00:32:56,000] of the Romans and the Colosseum.
+- [00:32:56,000 - 00:32:59,000] One thing that troubled people about that practice
+- [00:32:59,000 - 00:33:01,500] is that it seemed to
+- [00:33:01,500 - 00:33:04,000] violate the rights of the Christian.
+- [00:33:04,000 - 00:33:07,000] Another way of objecting to what's going on there
+- [00:33:07,000 - 00:33:10,000] is that the pleasure that the Romans take
+- [00:33:10,000 - 00:33:13,000] in this bloody spectacle,
+- [00:33:13,000 - 00:33:19,000] should that pleasure, which is a base kind of corrupt,
+- [00:33:19,000 - 00:33:21,000] degrading pleasure,
+- [00:33:21,000 - 00:33:25,000] should that even be valorized or weighed
+- [00:33:25,000 - 00:33:34,000] in deciding what the general welfare is?
+- [00:33:34,000 - 00:33:39,000] So here are the objections to Bentham's utilitarianism.
+- [00:33:39,000 - 00:33:43,000] And now we turn to someone who tried to respond
+- [00:33:43,000 - 00:33:45,000] to those objections,
+- [00:33:45,000 - 00:33:50,000] a later-day utilitarian, John Stuart Mill.
+- [00:33:50,000 - 00:33:54,000] So what we need to examine now
+- [00:33:54,000 - 00:33:59,000] is whether John Stuart Mill had a convincing reply
+- [00:33:59,000 - 00:34:05,000] to these objections to utilitarianism.
+- [00:34:05,000 - 00:34:08,000] John Stuart Mill was born in 1806.
+- [00:34:08,000 - 00:34:13,000] His father, James Mill, was a disciple of Bentham's.
+- [00:34:13,000 - 00:34:17,000] And James Mill set about giving his son,
+- [00:34:17,000 - 00:34:20,000] John Stuart Mill, a model education.
+- [00:34:20,000 - 00:34:23,000] He was a child prodigy, John Stuart Mill.
+- [00:34:23,000 - 00:34:25,000] He knew Latin at the age of, sorry,
+- [00:34:25,000 - 00:34:27,000] Greek at the age of three, Latin at eight,
+- [00:34:27,000 - 00:34:33,000] and age 10, he wrote a history of Roman law.
+- [00:34:33,000 - 00:34:37,000] At age 20, he had a nervous breakdown.
+- [00:34:38,000 - 00:34:43,000] This left him in a depression for five years.
+- [00:34:43,000 - 00:34:44,500] But at age 25, what helped
+- [00:34:44,500 - 00:34:46,000] lift him out of this depression
+- [00:34:46,000 - 00:34:49,000] is that he met Harriet Taylor.
+- [00:34:49,000 - 00:34:51,000] She and Mill got married.
+- [00:34:51,000 - 00:34:53,000] They lived happily ever after.
+- [00:34:53,000 - 00:34:56,000] And it was under her influence
+- [00:34:56,000 - 00:35:01,000] that John Stuart Mill tried to humanize utilitarianism.
+- [00:35:01,000 - 00:35:04,000] What Mill tried to do was to see
+- [00:35:04,000 - 00:35:08,000] whether the utilitarian calculus could be enlarged
+- [00:35:08,000 - 00:35:14,000] and modified to accommodate humanitarian concerns
+- [00:35:14,000 - 00:35:19,000] like the concern to respect individual rights
+- [00:35:19,000 - 00:35:22,000] and also to address the distinction
+- [00:35:22,000 - 00:35:25,000] between higher and lower pleasures.
+- [00:35:25,000 - 00:35:30,000] In 1859, Mill wrote a famous book on liberty,
+- [00:35:30,000 - 00:35:32,000] the main point of which was the importance
+- [00:35:32,000 - 00:35:35,000] of defending individual rights and minority rights.
+- [00:35:35,000 - 00:35:37,000] And in 1861,
+- [00:35:38,000 - 00:35:40,000] toward the end of his life,
+- [00:35:40,000 - 00:35:41,500] he wrote the book we
+- [00:35:41,500 - 00:35:43,000] read as part of this course,
+- [00:35:43,000 - 00:35:45,000] Utilitarianism.
+- [00:35:45,000 - 00:35:47,000] He makes it clear that utility
+- [00:35:47,000 - 00:35:49,000] is the only standard of morality,
+- [00:35:49,000 - 00:35:51,000] in his view.
+- [00:35:51,000 - 00:35:54,000] So he's not challenging Bentham's premise.
+- [00:35:54,000 - 00:35:56,000] He's affirming it.
+- [00:35:56,000 - 00:35:57,000] He says very explicitly,
+- [00:35:57,000 - 00:36:00,000] the sole evidence it is possible to produce
+- [00:36:00,000 - 00:36:02,000] that anything is desirable
+- [00:36:02,000 - 00:36:06,000] is that people actually do desire it.
+- [00:36:06,000 - 00:36:08,000] So he stays with the idea
+- [00:36:08,000 - 00:36:11,000] that de facto, actual, empirical desires
+- [00:36:11,000 - 00:36:15,000] are the only basis for moral judgment.
+- [00:36:15,000 - 00:36:18,000] But then, on page eight,
+- [00:36:18,000 - 00:36:20,000] also in chapter two,
+- [00:36:20,000 - 00:36:23,000] he argues that it is possible for a utilitarian
+- [00:36:23,000 - 00:36:27,000] to distinguish higher from lower pleasures.
+- [00:36:27,000 - 00:36:32,000] Now, those of you who have read Mill already,
+- [00:36:32,000 - 00:36:34,000] how, according to him,
+- [00:36:34,000 - 00:36:36,000] is it possible to draw that distinction?
+- [00:36:36,000 - 00:36:39,000] How can a utilitarian
+- [00:36:39,000 - 00:36:42,000] distinguish qualitatively higher pleasures
+- [00:36:42,000 - 00:36:47,000] from lesser ones, base ones, unworthy ones?
+- [00:36:47,000 - 00:36:48,000] Yes?
+- [00:36:48,000 - 00:36:50,000] If you've tried both of them,
+- [00:36:50,000 - 00:36:54,000] and you prefer the higher one naturally, always.
+- [00:36:54,000 - 00:36:56,000] That's great. That's right.
+- [00:36:56,000 - 00:36:57,000] What's your name?
+- [00:36:57,000 - 00:36:58,000] John.
+- [00:36:58,000 - 00:37:01,000] So, as John points out,
+- [00:37:01,000 - 00:37:04,000] Mill says, here's the test.
+- [00:37:04,000 - 00:37:06,000] Since we can't step outside
+- [00:37:06,000 - 00:37:10,000] actual desires, actual preferences,
+- [00:37:10,000 - 00:37:13,000] that would violate utilitarian premises.
+- [00:37:13,000 - 00:37:16,000] The only test
+- [00:37:16,000 - 00:37:20,000] of whether a pleasure is higher or lower
+- [00:37:20,000 - 00:37:24,000] is whether someone who has experienced both
+- [00:37:24,000 - 00:37:27,000] would prefer it.
+- [00:37:27,000 - 00:37:31,000] And here, in chapter two,
+- [00:37:31,000 - 00:37:33,000] we see the passage where Mill makes the point
+- [00:37:33,000 - 00:37:35,000] that John just described.
+- [00:37:35,000 - 00:37:39,000] Of two pleasures, if there be one to which all,
+- [00:37:39,000 - 00:37:43,000] or almost all, who have experience of both,
+- [00:37:43,000 - 00:37:45,000] give a decided preference,
+- [00:37:45,000 - 00:37:47,000] irrespective of any feeling of
+- [00:37:47,000 - 00:37:49,000] moral obligation to prefer it,
+- [00:37:49,000 - 00:37:52,000] in other words, no outside, no independent standard,
+- [00:37:52,000 - 00:37:57,000] then that is the more desirable pleasure.
+- [00:37:57,000 - 00:37:59,000] What do people think about that argument?
+- [00:37:59,000 - 00:38:01,000] Does that...
+- [00:38:01,000 - 00:38:03,000] Does it succeed?
+- [00:38:03,000 - 00:38:05,000] How many think that it does succeed?
+- [00:38:05,000 - 00:38:08,000] Of arguing within utilitarian terms
+- [00:38:08,000 - 00:38:11,000] for a distinction between higher and lower pleasures?
+- [00:38:11,000 - 00:38:17,000] How many think it doesn't succeed?
+- [00:38:17,000 - 00:38:20,000] I want to hear your reasons.
+- [00:38:20,000 - 00:38:23,000] But before we give the reasons,
+- [00:38:23,000 - 00:38:26,000] let's do an experiment
+- [00:38:26,000 - 00:38:31,000] of Mill's claim.
+- [00:38:31,000 - 00:38:33,000] In order to do this experiment,
+- [00:38:33,000 - 00:38:41,000] we're going to look at three short excerpts
+- [00:38:41,000 - 00:38:44,000] of popular entertainment.
+- [00:38:44,000 - 00:38:48,000] The first one is a Hamlet soliloquy.
+- [00:38:48,000 - 00:38:53,000] It'll be followed by two other experiences.
+- [00:38:55,000 - 00:38:57,000] See what you think.
+- [00:38:57,000 - 00:39:00,000] What a piece of work is a man.
+- [00:39:00,000 - 00:39:02,000] How noble in reason.
+- [00:39:02,000 - 00:39:04,000] How infinite in faculties.
+- [00:39:04,000 - 00:39:05,000] In form and moving.
+- [00:39:05,000 - 00:39:07,000] How express and admirable.
+- [00:39:07,000 - 00:39:09,000] In action, how like an angel.
+- [00:39:09,000 - 00:39:11,000] In apprehension, how like a god.
+- [00:39:11,000 - 00:39:13,000] The beauty of the world.
+- [00:39:13,000 - 00:39:15,000] The paragon of animals.
+- [00:39:15,000 - 00:39:17,000] And yet to me,
+- [00:39:17,000 - 00:39:20,000] what is this quintessence of dust?
+- [00:39:20,000 - 00:39:22,000] Man delights not me.
+- [00:39:32,000 - 00:39:42,000] Imagine a world
+- [00:39:42,000 - 00:39:45,000] where your greatest fears become reality.
+- [00:39:45,000 - 00:39:47,000] Ow, they're biting me!
+- [00:39:47,000 - 00:39:49,000] Each show, six contestants from around the country
+- [00:39:49,000 - 00:39:52,000] battle each other in three extreme stunts.
+- [00:39:52,000 - 00:39:54,000] These stunts are designed to challenge the contestants
+- [00:39:54,000 - 00:39:58,000] both physically and mentally.
+- [00:39:58,000 - 00:40:01,000] Six contestants, three stunts,
+- [00:40:01,000 - 00:40:03,000] one winner.
+- [00:40:03,000 - 00:40:04,000] Yes!
+- [00:40:04,000 - 00:40:06,000] Fear Factor.
+- [00:40:16,000 - 00:40:18,000] Hi, diddly-ho, pedal to the metalophiles.
+- [00:40:18,000 - 00:40:21,000] Landers, since when do you like anything cool?
+- [00:40:21,000 - 00:40:23,000] Well, I don't care for the speed,
+- [00:40:23,000 - 00:40:25,000] but I can't get enough of that safety gear.
+- [00:40:25,000 - 00:40:27,000] Helmets, roll bars, caution flags.
+- [00:40:27,000 - 00:40:29,000] I like the fresh air
+- [00:40:29,000 - 00:40:31,000] and looking at the poor people in the infield.
+- [00:40:31,000 - 00:40:48,200] I like the
+- [00:40:48,200 - 00:40:53,100] I don't even have to
+- [00:40:53,100 - 00:40:58,000] ask which one you like most.
+- [00:40:58,000 - 00:40:59,000] The Simpsons.
+- [00:40:59,000 - 00:41:01,000] The Simpsons.
+- [00:41:01,000 - 00:41:03,000] How many like The Simpsons most?
+- [00:41:05,000 - 00:41:07,000] How many Shakespeare?
+- [00:41:10,000 - 00:41:12,000] What about Fear Factor?
+- [00:41:12,000 - 00:41:14,000] How many preferred Fear Factor?
+- [00:41:16,000 - 00:41:17,000] Really?
+- [00:41:21,000 - 00:41:26,000] People overwhelmingly like The Simpsons better
+- [00:41:26,000 - 00:41:29,000] than Shakespeare.
+- [00:41:29,000 - 00:41:31,000] All right, now let's take
+- [00:41:31,000 - 00:41:33,000] the other part of the poll.
+- [00:41:33,000 - 00:41:39,000] Which is the highest experience or pleasure?
+- [00:41:39,000 - 00:41:43,000] How many say Shakespeare?
+- [00:41:48,000 - 00:41:51,000] How many say Fear Factor?
+- [00:41:51,000 - 00:41:55,000] No, you can't be serious.
+- [00:41:55,000 - 00:41:57,000] Really?
+- [00:41:57,000 - 00:41:59,000] What?
+- [00:41:59,000 - 00:42:01,000] All right, go ahead.
+- [00:42:01,000 - 00:42:02,000] You can say it.
+- [00:42:02,000 - 00:42:04,000] I found that one the most entertaining.
+- [00:42:04,000 - 00:42:07,000] I know, but which do you think was the worthiest,
+- [00:42:07,000 - 00:42:08,000] the noblest experience?
+- [00:42:08,000 - 00:42:10,000] I know you found it the most entertaining.
+- [00:42:10,000 - 00:42:13,000] If something is good just because it is pleasurable,
+- [00:42:13,000 - 00:42:15,000] what does it matter whether you
+- [00:42:15,000 - 00:42:17,000] have sort of an abstract idea
+- [00:42:17,000 - 00:42:18,500] of whether it is good
+- [00:42:18,500 - 00:42:20,000] by someone else's sense or not?
+- [00:42:20,000 - 00:42:21,500] All right, so you come
+- [00:42:21,500 - 00:42:23,000] down in the straight Benthamite side.
+- [00:42:23,000 - 00:42:24,000] Who's the best?
+- [00:42:24,000 - 00:42:26,000] Who's to judge?
+- [00:42:26,000 - 00:42:28,000] And why should we judge?
+- [00:42:28,000 - 00:42:30,000] Apart from just registering
+- [00:42:30,000 - 00:42:32,000] and aggregating de facto preferences.
+- [00:42:32,000 - 00:42:33,000] All right, that's fair enough.
+- [00:42:33,000 - 00:42:34,000] What's your name?
+- [00:42:34,000 - 00:42:35,000] Nate.
+- [00:42:35,000 - 00:42:36,000] Nate?
+- [00:42:36,000 - 00:42:37,000] Okay, fair enough.
+- [00:42:37,000 - 00:42:40,000] All right, so how many think The Simpsons is actually,
+- [00:42:40,000 - 00:42:44,000] apart from liking it, is actually the higher experience?
+- [00:42:44,000 - 00:42:47,000] Higher than Shakespeare.
+- [00:42:47,000 - 00:42:49,000] All right, let's see the vote for Shakespeare again.
+- [00:42:49,000 - 00:42:51,000] How many think Shakespeare is higher?
+- [00:42:51,000 - 00:42:52,000] All right.
+- [00:42:52,000 - 00:42:53,000] So why is it?
+- [00:42:54,000 - 00:42:56,000] Ideally, I'd like to hear from someone.
+- [00:42:56,000 - 00:43:01,000] Is there someone who thinks Shakespeare is highest,
+- [00:43:01,000 - 00:43:06,000] but who preferred watching The Simpsons?
+- [00:43:06,000 - 00:43:08,000] Yes.
+- [00:43:08,000 - 00:43:10,000] Like, I guess just sitting watching The Simpsons,
+- [00:43:10,000 - 00:43:11,000] it's entertaining because they make
+- [00:43:11,000 - 00:43:12,000] jokes and they make us laugh,
+- [00:43:12,000 - 00:43:14,000] but like someone has to tell
+- [00:43:14,000 - 00:43:16,000] us that Shakespeare was this great writer.
+- [00:43:16,000 - 00:43:17,000] We had to be taught how
+- [00:43:17,000 - 00:43:18,000] to read him, how to understand him.
+- [00:43:18,000 - 00:43:19,500] We had to be taught how
+- [00:43:19,500 - 00:43:21,000] to kind of take in Rembrandt,
+- [00:43:21,000 - 00:43:22,000] how to analyze a painting.
+- [00:43:22,000 - 00:43:24,000] Well, let me, what's your name?
+- [00:43:24,000 - 00:43:25,000] Anisha.
+- [00:43:25,000 - 00:43:27,000] Anisha, when you say someone
+- [00:43:27,000 - 00:43:29,000] told you that Shakespeare is better.
+- [00:43:29,000 - 00:43:30,000] Right.
+- [00:43:30,000 - 00:43:33,000] Are you accepting it on blind faith?
+- [00:43:33,000 - 00:43:35,000] You voted that Shakespeare is higher
+- [00:43:35,000 - 00:43:37,000] only because the culture tells you that
+- [00:43:37,000 - 00:43:40,000] or teachers tell you that, or
+- [00:43:40,000 - 00:43:43,000] do you actually agree with that yourself?
+- [00:43:43,000 - 00:43:46,000] Well, in the sense of Shakespeare, no,
+- [00:43:46,000 - 00:43:49,000] but earlier you made an example of Rembrandt.
+- [00:43:49,000 - 00:43:51,500] I feel like I would enjoy reading a comic
+- [00:43:51,500 - 00:43:54,000] book more than I would enjoy kind of analyzing Shakespeare.
+- [00:43:54,000 - 00:43:54,500] I would enjoy reading a comic book
+- [00:43:54,500 - 00:43:55,000] more than I would enjoy reading Rembrandt
+- [00:43:55,000 - 00:43:57,000] because someone told me it was great, you know?
+- [00:43:57,000 - 00:43:58,000] Right.
+- [00:43:58,000 - 00:44:00,500] So some of this seems to be you're
+- [00:44:00,500 - 00:44:03,000] suggesting a kind of cultural convention and pressure.
+- [00:44:03,000 - 00:44:08,000] We're told what books, what works of art are great.
+- [00:44:08,000 - 00:44:10,000] Who else?
+- [00:44:10,000 - 00:44:15,000] Yes.
+- [00:44:15,000 - 00:44:17,000] Although I enjoyed watching The Simpsons
+- [00:44:17,000 - 00:44:19,000] more in this particular moment in Justice,
+- [00:44:19,000 - 00:44:20,500] if I were to spend
+- [00:44:20,500 - 00:44:22,000] the rest of my life considering
+- [00:44:22,000 - 00:44:26,000] the three different video clips shown,
+- [00:44:26,000 - 00:44:29,500] I would not want to spend that remainder
+- [00:44:29,500 - 00:44:33,000] of my life considering the latter two clips.
+- [00:44:33,000 - 00:44:36,000] I think I would derive more pleasure from
+- [00:44:36,000 - 00:44:39,000] being able to branch out in my own mind,
+- [00:44:39,000 - 00:44:44,000] sort of considering more deep pleasures, more deep thoughts.
+- [00:44:44,000 - 00:44:46,000] And tell me your name.
+- [00:44:46,000 - 00:44:47,000] Joe.
+- [00:44:47,000 - 00:44:48,000] Joe.
+- [00:44:48,000 - 00:44:49,500] So if you had to
+- [00:44:49,500 - 00:44:51,000] spend the rest of your life
+- [00:44:51,000 - 00:44:57,000] on a farm in Kansas with only Shakespeare
+- [00:44:57,000 - 00:45:01,000] or the collected episodes of The Simpsons,
+- [00:45:01,000 - 00:45:06,000] you would prefer Shakespeare?
+- [00:45:06,000 - 00:45:09,000] What do you conclude from
+- [00:45:09,000 - 00:45:12,000] that about John Stuart Mill's test?
+- [00:45:12,000 - 00:45:16,000] That the test of a higher pleasure is
+- [00:45:16,000 - 00:45:20,000] whether people who have experienced both prefer it.
+- [00:45:20,000 - 00:45:23,000] Can I cite another example briefly?
+- [00:45:23,000 - 00:45:24,000] Yeah.
+- [00:45:24,000 - 00:45:26,000] In biology, neurobiology last year we were
+- [00:45:26,000 - 00:45:28,000] told of a rat who was tested
+- [00:45:28,000 - 00:45:30,500] a particular center in the brain where
+- [00:45:30,500 - 00:45:33,000] the rat was able to stimulate its brain
+- [00:45:33,000 - 00:45:36,000] and cause itself intense pleasure repeatedly.
+- [00:45:36,000 - 00:45:39,000] The rat did not eat or drink until it died.
+- [00:45:39,000 - 00:45:42,000] So the rat was clearly experiencing intense pleasure.
+- [00:45:42,000 - 00:45:44,000] Now if you ask me right now
+- [00:45:44,000 - 00:45:46,000] if I would rather experience intense pleasure
+- [00:45:46,000 - 00:45:49,000] or have a full lifetime of higher pleasure,
+- [00:45:49,000 - 00:45:52,000] I would consider intense pleasure to be low pleasure.
+- [00:45:52,000 - 00:45:54,000] I would right now enjoy intense pleasure.
+- [00:45:54,000 - 00:45:56,000] But, yes I would.
+- [00:45:56,000 - 00:45:59,000] I certainly would.
+- [00:45:59,000 - 00:46:02,500] But over a lifetime, I think, I would
+- [00:46:02,500 - 00:46:06,000] think almost a complete majority here would agree
+- [00:46:06,000 - 00:46:09,000] that they would rather be a human with
+- [00:46:09,000 - 00:46:12,000] higher pleasure than be that rat with intense pleasure
+- [00:46:12,000 - 00:46:15,000] for a momentary period of time.
+- [00:46:15,000 - 00:46:17,000] Now in answer to your question,
+- [00:46:17,000 - 00:46:18,000] Right.
+- [00:46:18,000 - 00:46:21,000] I think this proves that, or I won't say proves,
+- [00:46:21,000 - 00:46:24,500] I think the conclusion is that Mill's theory
+- [00:46:24,500 - 00:46:28,000] that when a majority of people are asked
+- [00:46:28,000 - 00:46:31,000] what they would rather do,
+- [00:46:31,000 - 00:46:33,500] they will answer that they would
+- [00:46:33,500 - 00:46:36,000] rather engage in a higher pleasure.
+- [00:46:36,000 - 00:46:37,500] So you think that this supports Mill,
+- [00:46:37,500 - 00:46:39,000] you think Mill is onto something here?
+- [00:46:39,000 - 00:46:40,000] I do.
+- [00:46:40,000 - 00:46:41,000] Alright.
+- [00:46:41,000 - 00:46:44,000] Is there anyone who disagrees with Joe
+- [00:46:44,000 - 00:46:47,000] and who thinks that our experiment disproves
+- [00:46:47,000 - 00:46:50,000] Mill's test?
+- [00:46:50,000 - 00:46:52,500] Shows that that's not an adequate
+- [00:46:52,500 - 00:46:55,000] way that you can't distinguish higher pleasures
+- [00:46:55,000 - 00:46:58,000] within the utilitarian framework?
+- [00:47:01,000 - 00:47:02,000] Yes.
+- [00:47:02,000 - 00:47:08,000] If whatever is good is truly just whatever people prefer,
+- [00:47:08,000 - 00:47:11,000] it's truly relative and there's no objective definition,
+- [00:47:11,000 - 00:47:13,000] then there will be some
+- [00:47:13,000 - 00:47:15,000] society where people prefer Simpsons more.
+- [00:47:15,000 - 00:47:18,000] Anyone can appreciate the Simpsons,
+- [00:47:18,000 - 00:47:19,500] but I think it does take
+- [00:47:19,500 - 00:47:21,000] education to appreciate Shakespeare as much.
+- [00:47:21,000 - 00:47:22,000] Alright.
+- [00:47:22,000 - 00:47:24,000] You're saying it takes
+- [00:47:24,000 - 00:47:26,000] education to appreciate higher things.
+- [00:47:26,000 - 00:47:27,000] True.
+- [00:47:27,000 - 00:47:31,000] Mill's point is that the higher pleasures
+- [00:47:31,000 - 00:47:35,000] do require cultivation and appreciation and education.
+- [00:47:35,000 - 00:47:37,000] He doesn't dispute that.
+- [00:47:37,000 - 00:47:43,000] But once having been cultivated and educated,
+- [00:47:43,000 - 00:47:45,500] people will see, not only see
+- [00:47:45,500 - 00:47:48,000] the difference between higher and lower pleasures,
+- [00:47:48,000 - 00:47:55,000] but will actually prefer the higher to the lower.
+- [00:47:55,000 - 00:47:59,000] You find this famous passage from John Stuart Mill,
+- [00:47:59,000 - 00:48:02,000] it is better to be a
+- [00:48:02,000 - 00:48:05,000] human being dissatisfied than a pig satisfied.
+- [00:48:05,000 - 00:48:10,000] Better to be Socrates dissatisfied than a fool satisfied.
+- [00:48:10,000 - 00:48:13,000] And if the fool or the pig,
+- [00:48:13,000 - 00:48:15,000] are of a different opinion,
+- [00:48:15,000 - 00:48:17,500] it is because they only
+- [00:48:17,500 - 00:48:20,000] know their side of the question.
+- [00:48:20,000 - 00:48:24,000] So here you have an attempt
+- [00:48:24,000 - 00:48:28,000] to distinguish higher from lower pleasures.
+- [00:48:28,000 - 00:48:31,000] So going to an art museum or being a
+- [00:48:31,000 - 00:48:34,000] couch potato and swilling beer watching television at home.
+- [00:48:34,000 - 00:48:40,000] Sometimes Mill agrees we might succumb to the temptation
+- [00:48:40,000 - 00:48:43,000] to do the latter, to be couch potatoes.
+- [00:48:43,000 - 00:48:47,000] But even when we do that,
+- [00:48:47,000 - 00:48:50,000] out of indolence and sloth,
+- [00:48:50,000 - 00:48:53,000] we know that the pleasure we get
+- [00:48:53,000 - 00:48:58,000] gazing at Rembrandts in the museum is actually higher.
+- [00:48:58,000 - 00:49:02,000] Because we've experienced both.
+- [00:49:02,000 - 00:49:06,000] And it is a higher pleasure gazing at Rembrandts
+- [00:49:06,000 - 00:49:10,000] because it engages our higher human faculties.
+- [00:49:10,000 - 00:49:12,000] What about Mill's attempt
+- [00:49:12,000 - 00:49:18,000] to reply to the objection about individual rights?
+- [00:49:18,000 - 00:49:25,000] In a way, he uses the same kind of argument.
+- [00:49:25,000 - 00:49:28,000] And this comes out in chapter five.
+- [00:49:28,000 - 00:49:31,000] He says, I dispute the pretensions of any theory
+- [00:49:31,000 - 00:49:34,000] which sets up an imaginary standard of justice
+- [00:49:34,000 - 00:49:39,000] not grounded on utility,
+- [00:49:39,000 - 00:49:45,000] but still he considers justice grounded on utility
+- [00:49:45,000 - 00:49:48,000] to be what he calls the chief part
+- [00:49:48,000 - 00:49:51,000] and incomparably the most sacred
+- [00:49:51,000 - 00:49:54,000] and binding part of all morality.
+- [00:49:54,000 - 00:49:56,000] So justice is higher.
+- [00:49:56,000 - 00:49:59,000] Individual rights are privileged.
+- [00:49:59,000 - 00:50:01,500] But not for reasons
+- [00:50:01,500 - 00:50:04,000] that depart from utilitarian assumptions.
+- [00:50:04,000 - 00:50:08,000] Justice is a name for certain moral requirements
+- [00:50:08,000 - 00:50:10,000] which, regarded collectively,
+- [00:50:10,000 - 00:50:14,000] stand higher in the scale of social utility
+- [00:50:14,000 - 00:50:20,000] and are therefore of more paramount obligation
+- [00:50:20,000 - 00:50:22,000] than any others.
+- [00:50:22,000 - 00:50:26,000] So justice is sacred, it's prior, it's privileged.
+- [00:50:26,000 - 00:50:28,000] It isn't something that can easily
+- [00:50:28,000 - 00:50:30,000] be traded off against lesser things.
+- [00:50:30,000 - 00:50:35,000] But the reason is ultimately, Mill claims,
+- [00:50:35,000 - 00:50:37,000] a utilitarian reason,
+- [00:50:37,000 - 00:50:43,000] once you consider the long-run interests of humankind,
+- [00:50:43,000 - 00:50:47,000] of all of us as progressive beings.
+- [00:50:47,000 - 00:50:50,000] If we do justice and if we respect rights,
+- [00:50:50,000 - 00:50:52,500] society as a whole will be
+- [00:50:52,500 - 00:50:55,000] better off in the long run.
+- [00:50:55,000 - 00:50:57,000] Well, is that convincing?
+- [00:50:57,000 - 00:51:01,000] Or is Mill actually, without admitting it,
+- [00:51:01,000 - 00:51:06,000] stepping outside utilitarian considerations
+- [00:51:06,000 - 00:51:12,000] in arguing for qualitatively higher pleasures
+- [00:51:12,000 - 00:51:18,000] and for sacred or especially important individual rights?
+- [00:51:18,000 - 00:51:21,000] We haven't fully answered that question
+- [00:51:21,000 - 00:51:23,500] because to answer that question in
+- [00:51:23,500 - 00:51:26,000] the case of rights and justice
+- [00:51:26,000 - 00:51:30,000] will require that we explore other ways,
+- [00:51:30,000 - 00:51:33,000] non-utilitarian ways,
+- [00:51:33,000 - 00:51:36,000] of accounting for the basis of rights.
+- [00:51:36,000 - 00:51:40,000] And then asking whether they succeed.
+- [00:51:40,000 - 00:51:42,000] As for Jeremy Bentham,
+- [00:51:42,000 - 00:51:46,000] who launched utilitarianism
+- [00:51:46,000 - 00:51:50,000] as a doctrine in moral and legal philosophy,
+- [00:51:50,000 - 00:51:54,000] Bentham died in 1832 at the age of 85.
+- [00:51:54,000 - 00:51:55,500] But if you go to
+- [00:51:55,500 - 00:51:57,000] London, you can visit him today,
+- [00:51:57,000 - 00:51:59,000] literally.
+- [00:51:59,000 - 00:52:01,000] He provided in his will
+- [00:52:01,000 - 00:52:05,000] that his body be preserved, embalmed, and displayed
+- [00:52:05,000 - 00:52:07,000] in the University of London,
+- [00:52:07,000 - 00:52:10,000] where he still presides in a glass case
+- [00:52:10,000 - 00:52:12,000] with a wax head,
+- [00:52:12,000 - 00:52:14,000] dressed in his actual clothing.
+- [00:52:14,000 - 00:52:16,000] You see, before he died,
+- [00:52:16,000 - 00:52:18,000] Bentham addressed himself
+- [00:52:18,000 - 00:52:21,000] to a question consistent with his philosophy.
+- [00:52:21,000 - 00:52:23,500] Of what use could a
+- [00:52:23,500 - 00:52:26,000] dead man be to the living?
+- [00:52:26,000 - 00:52:28,000] One use, he said, would
+- [00:52:28,000 - 00:52:30,000] be to make one's corpse available
+- [00:52:30,000 - 00:52:32,000] to the study of anatomy.
+- [00:52:32,000 - 00:52:35,000] In the case of great philosophers,
+- [00:52:35,000 - 00:52:37,000] however,
+- [00:52:37,000 - 00:52:38,000] better yet,
+- [00:52:38,000 - 00:52:40,000] to preserve one's physical presence
+- [00:52:40,000 - 00:52:44,000] in order to inspire future generations of thinkers.
+- [00:52:44,000 - 00:52:47,000] You want to see what Bentham looks like, stuffed?
+- [00:52:47,000 - 00:52:50,000] Here's what he looks like.
+- [00:52:50,000 - 00:52:52,000] There he is.
+- [00:52:52,000 - 00:52:55,000] Now, if you look closely,
+- [00:52:55,000 - 00:52:57,000] you will notice
+- [00:52:57,000 - 00:53:01,000] that the embalming of his actual head
+- [00:53:01,000 - 00:53:02,000] was not a success.
+- [00:53:02,000 - 00:53:05,000] So they substituted a waxed head
+- [00:53:05,000 - 00:53:10,000] and at the bottom, for verisimilitude,
+- [00:53:10,000 - 00:53:13,000] you can actually see his actual head
+- [00:53:13,000 - 00:53:15,000] on a plate.
+- [00:53:16,000 - 00:53:17,000] You see it?
+- [00:53:17,000 - 00:53:19,000] Right there.
+- [00:53:21,000 - 00:53:25,000] So, what's the moral of the story?
+- [00:53:25,000 - 00:53:29,000] The moral of the story...
+- [00:53:29,000 - 00:53:30,500] By the way, they bring him
+- [00:53:30,500 - 00:53:32,000] out during meetings of the board
+- [00:53:32,000 - 00:53:33,000] at University College London,
+- [00:53:33,000 - 00:53:35,000] and the minutes record him
+- [00:53:35,000 - 00:53:37,000] as present but not voting.
+- [00:53:40,000 - 00:53:42,000] Here is a philosopher,
+- [00:53:42,000 - 00:53:44,000] in life and in death,
+- [00:53:44,000 - 00:53:46,000] who adhered
+- [00:53:46,000 - 00:53:48,000] to the principles
+- [00:53:48,000 - 00:53:49,000] of his philosophy.
+- [00:53:49,000 - 00:53:51,000] We'll continue with rights next time.
+- [00:54:05,000 - 00:54:07,000] For more, visit justiceharvard.org.
+- [00:54:07,000 - 00:54:09,000] It's the right thing to do.
+- [00:54:35,000 - 00:54:37,000] They're for this right.
+- [00:54:37,000 - 00:54:39,480] These investments are in the state...
+- [00:54:39,480 - 00:54:41,000] BIPE
+- [00:54:41,000 - 00:54:42,000] Stuff Up
+- [00:54:42,000 - 00:55:01,000] Street
+- [00:55:01,000 - 00:55:01,500] It's the right thing to do.
+- [00:55:01,500 - 00:55:04,360] S dizung
+- [00:55:05,000 - 00:55:07,060] you

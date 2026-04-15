@@ -1,0 +1,145 @@
+# Transcript
+
+Source: 016 - Justice with Michael Sandel - BBC：  Justice： Torture and human dignity [7FR-FuhN2HM].webm
+
+- [00:00:00,000 - 00:00:03,150] Kant's emphasis on human dignity has led him
+- [00:00:03,150 - 00:00:06,300] to be called the father of human rights,
+- [00:00:06,820 - 00:00:09,560] and his influence remains strong in modern Germany.
+- [00:00:10,400 - 00:00:14,350] The first article of the Constitution declares that
+- [00:00:14,350 - 00:00:18,300] human dignity shall be inviolable, never to be compromised.
+- [00:00:20,680 - 00:00:24,170] But what happens when respecting someone's dignity prevents
+- [00:00:24,170 - 00:00:27,660] us from acting to save an innocent life?
+- [00:00:27,660 - 00:00:34,860] In 2002, Jakob von Metzler, the 11-year-old son
+- [00:00:34,860 - 00:00:42,060] of a prominent German banking family, was kidnapped.
+- [00:00:43,520 - 00:00:46,730] A few days later, the police arrested Magnus
+- [00:00:46,730 - 00:00:49,940] Gaffgen, after he had collected the ransom money.
+- [00:00:50,540 - 00:00:53,840] But he refused to say where his victim was hidden.
+- [00:00:55,340 - 00:00:57,640] The deputy police chief of Frankfurt.
+- [00:00:57,660 - 00:01:01,080] He told this kidnapper that if he
+- [00:01:01,080 - 00:01:04,500] doesn't tell where the child is hidden,
+- [00:01:04,660 - 00:01:07,080] he would suffer in a
+- [00:01:07,080 - 00:01:09,500] way that he cannot even imagine.
+- [00:01:11,259 - 00:01:13,420] He threatened him with torture.
+- [00:01:15,420 - 00:01:16,800] The threat worked.
+- [00:01:18,259 - 00:01:20,329] Gaffgen admitted that he had already
+- [00:01:20,329 - 00:01:22,400] killed the boy and hidden the body.
+- [00:01:25,039 - 00:01:27,400] He was given a life sentence for murder.
+- [00:01:27,660 - 00:01:32,660] But remarkably, the deputy police chief was also
+- [00:01:32,660 - 00:01:37,660] prosecuted and convicted of violating the kidnapper's rights.
+- [00:01:41,259 - 00:01:43,259] You're trying to save an innocent child, and
+- [00:01:43,259 - 00:01:45,259] here you have the criminal who kidnapped him.
+- [00:01:45,259 - 00:01:48,759] The argument against it is that there
+- [00:01:48,759 - 00:01:52,259] are some inherent qualities in a person
+- [00:01:52,259 - 00:01:54,759] that the person cannot forfeit even
+- [00:01:54,759 - 00:01:57,259] by doing the worst deeds possible.
+- [00:01:57,660 - 00:02:03,160] According to Kantian ethics, you're not allowed to just use a
+- [00:02:03,160 - 00:02:08,660] person, to just abuse him, to hurt him, to torture him,
+- [00:02:08,660 - 00:02:11,160] in order to get something out of him,
+- [00:02:11,160 - 00:02:13,660] even if the purpose of this was good.
+- [00:02:13,660 - 00:02:16,660] Because that's using a person as a
+- [00:02:16,660 - 00:02:19,660] means, rather than respecting him as an end.
+- [00:02:19,660 - 00:02:20,660] Exactly.
+- [00:02:20,660 - 00:02:22,660] Even though he's a criminal, a kidnapper.
+- [00:02:22,660 - 00:02:23,960] Even though it's a criminal, even though we
+- [00:02:23,960 - 00:02:25,260] think he didn't really act terribly, you know, nice,
+- [00:02:25,260 - 00:02:26,260] even though he's a criminal, even though we
+- [00:02:26,260 - 00:02:27,260] think he didn't really act terribly, you know, nice,
+- [00:02:27,660 - 00:02:28,160] even though he's a criminal, even
+- [00:02:28,160 - 00:02:28,660] though he's a criminal, you know, nice,
+- [00:02:28,660 - 00:02:30,160] and he didn't really have
+- [00:02:30,160 - 00:02:31,660] much dignity in his own actions,
+- [00:02:31,660 - 00:02:33,160] why should you treat him,
+- [00:02:33,160 - 00:02:34,660] you know, with respect and dignity?
+- [00:02:34,660 - 00:02:35,660] Exactly.
+- [00:02:35,660 - 00:02:37,660] You are not allowed to treat a
+- [00:02:37,660 - 00:02:39,660] person as a means for another end.
+- [00:02:39,660 - 00:02:41,660] Now, here's what a utilitarian would say.
+- [00:02:41,660 - 00:02:44,660] A utilitarian would say,
+- [00:02:44,660 - 00:02:50,660] you've defended Kant, on his categorical principle,
+- [00:02:50,660 - 00:02:53,660] but you've just shown what's
+- [00:02:53,660 - 00:02:56,660] morally absurd about the Kantian position.
+- [00:02:56,660 - 00:02:57,160] But you've just shown what's
+- [00:02:57,160 - 00:02:57,660] morally absurd about the Kantian position.
+- [00:02:57,660 - 00:03:02,300] Within the utilitarian way of thinking about
+- [00:03:02,300 - 00:03:06,940] moral issues or moral cases, you cannot distinguish
+- [00:03:06,940 - 00:03:10,009] in the end anymore what kind of action
+- [00:03:10,009 - 00:03:13,079] is good and what kind of action is bad.
+- [00:03:13,079 - 00:03:16,200] It's totally relative.
+- [00:03:16,200 - 00:03:18,730] In some instances it's good to torture,
+- [00:03:18,730 - 00:03:21,260] in other instances it's not good to torture.
+- [00:03:21,260 - 00:03:23,220] What about respect for human dignity?
+- [00:03:23,220 - 00:03:25,060] Well, again, I would say what about
+- [00:03:25,060 - 00:03:26,900] respect for the dignity of the child?
+- [00:03:26,900 - 00:03:30,900] I mean, here's a child who is locked up
+- [00:03:30,900 - 00:03:34,900] somewhere, going to die slowly from hunger and thirst.
+- [00:03:34,900 - 00:03:36,510] There's no way that's a dignified
+- [00:03:36,510 - 00:03:38,120] thing to do to the child.
+- [00:03:38,120 - 00:03:41,080] As a utilitarian, I would say, if I know that
+- [00:03:41,080 - 00:03:44,040] I can save the child and I don't, then I'm
+- [00:03:44,040 - 00:03:46,760] responsible for that child's death.
+- [00:03:46,760 - 00:03:49,500] And that's what, in my view, Kantians
+- [00:03:49,500 - 00:03:52,240] refuse to acknowledge, their responsibility for the
+- [00:03:52,240 - 00:03:54,960] things that they don't do that could save lives.
+- [00:03:54,960 - 00:03:56,840] Now, in the German case...
+- [00:03:56,840 - 00:03:59,500] The kidnapping case, they were confident
+- [00:03:59,500 - 00:04:02,160] that they had identified the perpetrator.
+- [00:04:02,160 - 00:04:05,410] Let's assume that's the case, but the
+- [00:04:05,410 - 00:04:08,660] perpetrator still won't talk, even under torture.
+- [00:04:08,660 - 00:04:15,300] But he would talk if you tortured his 14-year-old daughter.
+- [00:04:15,300 - 00:04:16,300] Would you do it?
+- [00:04:16,300 - 00:04:18,519] I mean, that would be a much harder
+- [00:04:18,519 - 00:04:20,740] case, you know, in an emotional level, I think,
+- [00:04:20,740 - 00:04:23,010] to torture someone who you know has done
+- [00:04:23,010 - 00:04:25,280] something horrible is something that you can psychologically
+- [00:04:25,280 - 00:04:26,840] come at more easily than to torture.
+- [00:04:26,840 - 00:04:30,119] I mean, you can torture somebody who's completely innocent.
+- [00:04:30,119 - 00:04:33,239] So if it's simply the one-on-one case here,
+- [00:04:33,239 - 00:04:36,359] I would say no, because the child that you're
+- [00:04:36,359 - 00:04:38,919] torturing is just as innocent as the child who's dying.
+- [00:04:38,919 - 00:04:40,340] But if there are 10 children who are...
+- [00:04:40,340 - 00:04:44,129] But if you up the numbers, I suppose I'm
+- [00:04:44,129 - 00:04:47,919] going to come under a lot of pressure, and perhaps
+- [00:04:47,919 - 00:04:50,229] I will say, I don't know if I could do
+- [00:04:50,229 - 00:04:52,539] it, but perhaps I would say, if you really knew
+- [00:04:52,539 - 00:04:54,349] that that was going to get
+- [00:04:54,349 - 00:04:56,159] the information to save the 10 children.
+- [00:04:56,159 - 00:04:56,719] Yeah.
+- [00:04:56,840 - 00:04:59,200] Then you would...
+- [00:04:59,200 - 00:05:00,880] Then the right thing to do would
+- [00:05:00,880 - 00:05:02,560] be to torture one to save 10.
+- [00:05:02,560 - 00:05:04,780] Even an innocent girl?
+- [00:05:04,780 - 00:05:07,140] She's innocent, but so are the 10 innocent, of course.
+- [00:05:07,140 - 00:05:08,140] And it's a matter of numbers.
+- [00:05:08,140 - 00:05:10,419] And it's a matter of numbers in the end.
+- [00:05:10,419 - 00:05:15,249] As a war reporter, I have
+- [00:05:15,249 - 00:05:20,080] to say, you know, I can see...
+- [00:05:20,080 - 00:05:22,399] I speak to people who were
+- [00:05:22,399 - 00:05:24,719] victims of this kind of thinking.
+- [00:05:24,719 - 00:05:25,840] You know, if you...
+- [00:05:25,840 - 00:05:26,840] If you...
+- [00:05:26,840 - 00:05:31,930] If you talk to people who were tortured,
+- [00:05:31,930 - 00:05:37,020] badly tortured, exactly with that kind of argument,
+- [00:05:37,020 - 00:05:41,920] it's so evident why you need Kantian thinking
+- [00:05:41,920 - 00:05:46,820] as the guidance, per se, to stop people from
+- [00:05:46,820 - 00:05:49,419] thinking they could use others as a means.
+- [00:05:49,419 - 00:05:51,080] It's for me, that's...
+- [00:05:51,080 - 00:05:53,239] You know, it's...
+- [00:05:53,239 - 00:05:54,739] I see on every single
+- [00:05:54,739 - 00:05:56,239] trip I make to whichever country.
+- [00:05:56,240 - 00:06:00,800] Wherever I speak to people who, you know,
+- [00:06:00,800 - 00:06:05,360] were abused, who were tortured, who were mistreated
+- [00:06:05,360 - 00:06:08,060] with such kind of argument that it's...
+- [00:06:08,060 - 00:06:09,060] It's full purpose.
+- [00:06:09,060 - 00:06:12,360] There's a good end to this.
+- [00:06:12,360 - 00:06:15,180] There's a reason why we could torture people.
+- [00:06:15,180 - 00:06:17,020] It's devastating to see that.
+- [00:06:17,020 - 00:06:18,020] So I'm...
+- [00:06:18,020 - 00:06:19,020] You know, I'm deep...
+- [00:06:19,020 - 00:06:22,320] I'm deeply convinced that Kantian thinking is...
+- [00:06:22,320 - 00:06:24,240] Is the best guidance we have to protect human rights.
+- [00:06:24,240 - 00:06:25,240] And I think that's...
+- [00:06:25,240 - 00:06:26,240] I think that's...
+- [00:06:26,240 - 00:06:27,240] I think that's the key to our rights.
+- [00:06:27,240 - 00:06:31,240] The von Metzler case prompted much
+- [00:06:31,240 - 00:06:35,240] debate over Germany's constitutional commitment to
+- [00:06:35,240 - 00:06:36,240] human dignity.

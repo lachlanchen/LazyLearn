@@ -1,0 +1,5540 @@
+1
+00:00:00,000 --> 00:00:05,000
+Funding for this program is provided by
+
+2
+00:00:05,000 --> 00:00:09,000
+Additional funding provided by
+
+3
+00:00:09,000 --> 00:00:30,000
+The U.S. Department of Education
+
+4
+00:00:30,000 --> 00:00:32,500
+We ended last time talking about
+
+5
+00:00:32,500 --> 00:00:35,000
+the narrative conception of the self.
+
+6
+00:00:35,000 --> 00:00:39,000
+We were testing the narrative conception
+
+7
+00:00:39,000 --> 00:00:42,500
+of the self and the idea
+
+8
+00:00:42,500 --> 00:00:46,000
+of obligations of solidarity or membership
+
+9
+00:00:46,000 --> 00:00:50,000
+that did not flow from consent
+
+10
+00:00:50,000 --> 00:00:53,000
+that claimed us for reasons unrelated
+
+11
+00:00:53,000 --> 00:00:56,000
+to a contract or an agreement
+
+12
+00:00:56,000 --> 00:00:59,000
+or a choice we may have made.
+
+13
+00:00:59,000 --> 00:01:02,000
+And we were debating among ourselves whether
+
+14
+00:01:02,000 --> 00:01:05,000
+there are any obligations of this kind
+
+15
+00:01:05,000 --> 00:01:07,000
+or whether all apparent
+
+16
+00:01:07,000 --> 00:01:09,000
+obligations of solidarity and membership
+
+17
+00:01:09,000 --> 00:01:14,000
+can be translated into consent or reciprocity
+
+18
+00:01:14,000 --> 00:01:19,000
+or a universal duty that we owe persons qua persons.
+
+19
+00:01:19,000 --> 00:01:23,000
+And then there were those who defended
+
+20
+00:01:23,000 --> 00:01:27,000
+the idea of loyalty and of patriotism.
+
+21
+00:01:27,000 --> 00:01:30,500
+So the idea of loyalty
+
+22
+00:01:30,500 --> 00:01:34,000
+and of solidarity and of membership
+
+23
+00:01:34,000 --> 00:01:36,000
+gathered a certain kind of
+
+24
+00:01:36,000 --> 00:01:38,000
+intuitive moral force in our discussion.
+
+25
+00:01:39,000 --> 00:01:42,000
+And then, as we concluded,
+
+26
+00:01:42,000 --> 00:01:45,000
+we considered what seems to be
+
+27
+00:01:45,000 --> 00:01:48,000
+a pretty powerful counter-example to that idea.
+
+28
+00:01:48,000 --> 00:01:52,000
+Namely, the film of those
+
+29
+00:01:52,000 --> 00:01:56,000
+southern segregationists in the 1950s.
+
+30
+00:01:56,000 --> 00:02:02,000
+And they talked all about their traditions, their history,
+
+31
+00:02:02,000 --> 00:02:04,000
+the way in which their identities
+
+32
+00:02:04,000 --> 00:02:06,000
+were bound up with their life history.
+
+33
+00:02:06,000 --> 00:02:08,000
+Do you remember that?
+
+34
+00:02:08,000 --> 00:02:11,000
+And what flowed from that history,
+
+35
+00:02:11,000 --> 00:02:13,500
+from that narrative sense of
+
+36
+00:02:13,500 --> 00:02:16,000
+identity for those southern segregationists?
+
+37
+00:02:16,000 --> 00:02:19,000
+They said we have to defend our way of life.
+
+38
+00:02:19,000 --> 00:02:21,500
+Is this a fatal or
+
+39
+00:02:21,500 --> 00:02:24,000
+a decisive objection to the idea
+
+40
+00:02:24,000 --> 00:02:26,000
+of the narrative conception of the self?
+
+41
+00:02:26,000 --> 00:02:29,000
+That's the question we were left with.
+
+42
+00:02:29,000 --> 00:02:32,000
+What I would like to do today
+
+43
+00:02:32,000 --> 00:02:33,500
+is to advance an argument and
+
+44
+00:02:33,500 --> 00:02:35,000
+see what you make of it.
+
+45
+00:02:35,000 --> 00:02:37,000
+And let me tell you what that argument is.
+
+46
+00:02:38,000 --> 00:02:43,000
+I would like to defend
+
+47
+00:02:43,000 --> 00:02:47,000
+the narrative conception of the person
+
+48
+00:02:47,000 --> 00:02:51,000
+as against the voluntrous conception.
+
+49
+00:02:51,000 --> 00:02:55,000
+I would like to defend
+
+50
+00:02:55,000 --> 00:02:57,500
+the idea that there are
+
+51
+00:02:57,500 --> 00:03:00,000
+obligations of solidarity or membership.
+
+52
+00:03:00,000 --> 00:03:04,000
+Then, I want to suggest
+
+53
+00:03:04,000 --> 00:03:07,000
+that there being such obligations,
+
+54
+00:03:08,000 --> 00:03:11,000
+lends force to the idea,
+
+55
+00:03:11,000 --> 00:03:13,000
+when we turn to justice,
+
+56
+00:03:13,000 --> 00:03:15,000
+that arguments about justice
+
+57
+00:03:15,000 --> 00:03:19,000
+can't be detached, cannot be detached after all,
+
+58
+00:03:19,000 --> 00:03:22,000
+from questions of the good.
+
+59
+00:03:22,000 --> 00:03:26,000
+But I wanted to distinguish two different ways
+
+60
+00:03:26,000 --> 00:03:30,000
+in which justice might be tied to the good
+
+61
+00:03:30,000 --> 00:03:33,000
+and argue for one of them.
+
+62
+00:03:33,000 --> 00:03:35,000
+Now, the voluntrous conception of
+
+63
+00:03:35,000 --> 00:03:37,000
+the person of Kant and Rawls,
+
+64
+00:03:37,000 --> 00:03:40,000
+we saw was powerful and liberating.
+
+65
+00:03:40,000 --> 00:03:44,000
+A further appeal is its universal aspiration.
+
+66
+00:03:46,000 --> 00:03:49,000
+The idea of treating persons as persons,
+
+67
+00:03:49,000 --> 00:03:53,000
+without prejudice, without discrimination.
+
+68
+00:03:55,000 --> 00:03:59,000
+And I think that's what led some among us
+
+69
+00:03:59,000 --> 00:04:01,000
+to argue that, okay, maybe
+
+70
+00:04:01,000 --> 00:04:03,000
+there are obligations of membership,
+
+71
+00:04:03,000 --> 00:04:05,000
+but they are always subordinate,
+
+72
+00:04:05,000 --> 00:04:07,000
+they must always be subordinate.
+
+73
+00:04:07,000 --> 00:04:09,000
+To the duties that we
+
+74
+00:04:09,000 --> 00:04:11,000
+have to human beings as such,
+
+75
+00:04:11,000 --> 00:04:13,000
+the universal duties.
+
+76
+00:04:13,000 --> 00:04:16,000
+But is that right?
+
+77
+00:04:16,000 --> 00:04:23,000
+If our encompassing loyalties should always take precedence
+
+78
+00:04:23,000 --> 00:04:26,000
+over more particular ones,
+
+79
+00:04:26,000 --> 00:04:30,000
+then the distinction between friends and strangers
+
+80
+00:04:30,000 --> 00:04:32,000
+should ideally be overcome.
+
+81
+00:04:32,000 --> 00:04:35,000
+Our special concern for the welfare of friends
+
+82
+00:04:35,000 --> 00:04:36,000
+would be a kind of prejudice.
+
+83
+00:04:36,000 --> 00:04:41,000
+A measure of our distance from universal human concern.
+
+84
+00:04:41,000 --> 00:04:46,000
+But if you look closely at that idea,
+
+85
+00:04:46,000 --> 00:04:49,000
+what kind of a moral universe,
+
+86
+00:04:49,000 --> 00:04:53,000
+what kind of moral imagination would that lead you to?
+
+87
+00:04:56,000 --> 00:04:59,000
+The enlightenment philosopher Montesquieu
+
+88
+00:04:59,000 --> 00:05:02,000
+gives perhaps the most powerful,
+
+89
+00:05:02,000 --> 00:05:05,000
+and I think ultimately the most honest account
+
+90
+00:05:05,000 --> 00:05:09,000
+of where this relentless,
+
+91
+00:05:09,000 --> 00:05:12,000
+universalizing tendency
+
+92
+00:05:12,000 --> 00:05:15,000
+leads the moral imagination.
+
+93
+00:05:15,000 --> 00:05:17,000
+Here's how Montesquieu put it.
+
+94
+00:05:17,000 --> 00:05:18,000
+He said,
+
+95
+00:05:18,000 --> 00:05:20,000
+a truly virtuous man
+
+96
+00:05:20,000 --> 00:05:22,000
+would come to the aid of the most distant stranger
+
+97
+00:05:22,000 --> 00:05:25,000
+as quickly as to his own friend.
+
+98
+00:05:25,000 --> 00:05:26,000
+And then he adds,
+
+99
+00:05:26,000 --> 00:05:28,000
+listen to this,
+
+100
+00:05:28,000 --> 00:05:31,000
+if men were perfectly virtuous,
+
+101
+00:05:31,000 --> 00:05:33,000
+they wouldn't have friends.
+
+102
+00:05:35,000 --> 00:05:38,000
+But it's difficult to imagine a world
+
+103
+00:05:38,000 --> 00:05:40,000
+in which persons were so virtuous
+
+104
+00:05:40,000 --> 00:05:42,000
+that they had no friends,
+
+105
+00:05:42,000 --> 00:05:45,000
+only a universal disposition to friendliness.
+
+106
+00:05:45,000 --> 00:05:49,000
+The problem isn't simply
+
+107
+00:05:49,000 --> 00:05:52,000
+that such a world would be difficult to bring about,
+
+108
+00:05:52,000 --> 00:05:55,000
+that it's unrealistic.
+
+109
+00:05:55,000 --> 00:05:58,000
+The deeper problem is that
+
+110
+00:05:58,000 --> 00:06:00,000
+such a world would be difficult to recognize
+
+111
+00:06:00,000 --> 00:06:03,000
+as a human world.
+
+112
+00:06:03,000 --> 00:06:05,000
+The love of humanity is a noble secret,
+
+113
+00:06:05,000 --> 00:06:08,000
+and it's not just a sentimental sentiment.
+
+114
+00:06:08,000 --> 00:06:10,000
+But most of the time,
+
+115
+00:06:10,000 --> 00:06:13,000
+we live our lives by smaller solidarities.
+
+116
+00:06:14,000 --> 00:06:16,000
+This may reflect certain limits
+
+117
+00:06:16,000 --> 00:06:19,000
+to the bounds of moral sympathy,
+
+118
+00:06:19,000 --> 00:06:20,000
+but more important,
+
+119
+00:06:20,000 --> 00:06:22,000
+it reflects the fact
+
+120
+00:06:22,000 --> 00:06:24,000
+that we learn to love humanity,
+
+121
+00:06:24,000 --> 00:06:26,000
+not in general,
+
+122
+00:06:26,000 --> 00:06:29,000
+but through its particular expressions.
+
+123
+00:06:30,000 --> 00:06:33,000
+So, these are some considerations.
+
+124
+00:06:33,000 --> 00:06:35,000
+They're not knock-down arguments.
+
+125
+00:06:35,000 --> 00:06:37,000
+But moral philosophy
+
+126
+00:06:37,000 --> 00:06:39,000
+can't offer knock-down arguments,
+
+127
+00:06:39,000 --> 00:06:41,000
+but considerations
+
+128
+00:06:41,000 --> 00:06:44,000
+of the kinds that we've been discussing
+
+129
+00:06:44,000 --> 00:06:47,000
+and arguing about all along.
+
+130
+00:06:47,000 --> 00:06:50,000
+Well, suppose that's right.
+
+131
+00:06:50,000 --> 00:06:52,000
+One way of assessing whether this picture
+
+132
+00:06:52,000 --> 00:06:54,000
+of the person and of obligation is right
+
+133
+00:06:54,000 --> 00:06:59,000
+is to see what are its consequences for justice.
+
+134
+00:07:00,000 --> 00:07:03,000
+And here's where it confronts a serious problem.
+
+135
+00:07:03,000 --> 00:07:04,000
+And here we go back to our Southern segment,
+
+136
+00:07:04,000 --> 00:07:07,000
+back to our Southern segregationists.
+
+137
+00:07:07,000 --> 00:07:09,000
+They felt the weight of history.
+
+138
+00:07:09,000 --> 00:07:12,000
+Do we admire their character,
+
+139
+00:07:12,000 --> 00:07:13,000
+these segregationists,
+
+140
+00:07:13,000 --> 00:07:16,000
+who wanted to preserve their way of life?
+
+141
+00:07:16,000 --> 00:07:19,000
+Are we committed to saying,
+
+142
+00:07:19,000 --> 00:07:22,000
+if we accept the idea of solidarity and membership,
+
+143
+00:07:22,000 --> 00:07:25,000
+are we committed to saying
+
+144
+00:07:25,000 --> 00:07:28,000
+that justice is tied to the good
+
+145
+00:07:28,000 --> 00:07:31,000
+in the sense that justice means
+
+146
+00:07:31,000 --> 00:07:33,000
+whatever a particular community or tradition
+
+147
+00:07:33,000 --> 00:07:35,000
+says it means,
+
+148
+00:07:35,000 --> 00:07:38,000
+including those Southern segregationists?
+
+149
+00:07:41,000 --> 00:07:43,000
+Here it's important to distinguish
+
+150
+00:07:43,000 --> 00:07:46,000
+two different ways
+
+151
+00:07:46,000 --> 00:07:50,000
+in which justice can be tied to the good.
+
+152
+00:07:50,000 --> 00:07:52,000
+One is a relativist way.
+
+153
+00:07:52,000 --> 00:07:55,000
+That's the way that says
+
+154
+00:07:55,000 --> 00:07:56,000
+to think about rights,
+
+155
+00:07:56,000 --> 00:07:58,000
+to think about justice,
+
+156
+00:07:58,000 --> 00:08:01,000
+look to the values that happen to prevail
+
+157
+00:08:01,000 --> 00:08:02,000
+in any given community
+
+158
+00:08:02,000 --> 00:08:05,000
+at any given time.
+
+159
+00:08:05,000 --> 00:08:10,000
+Don't judge them by some outside standard,
+
+160
+00:08:10,000 --> 00:08:12,000
+but instead conceive justice
+
+161
+00:08:12,000 --> 00:08:13,000
+as a matter of being faithful
+
+162
+00:08:13,000 --> 00:08:15,000
+to the shared understandings
+
+163
+00:08:15,000 --> 00:08:18,000
+of a particular tradition.
+
+164
+00:08:18,000 --> 00:08:20,000
+But there's a problem with this way
+
+165
+00:08:20,000 --> 00:08:23,000
+of tying justice to the good.
+
+166
+00:08:23,000 --> 00:08:26,000
+The problem is that it makes justice
+
+167
+00:08:26,000 --> 00:08:29,000
+wholly conventional,
+
+168
+00:08:29,000 --> 00:08:31,000
+a product of circumstance.
+
+169
+00:08:31,000 --> 00:08:33,000
+And this deprives justice
+
+170
+00:08:33,000 --> 00:08:36,000
+of its critical character.
+
+171
+00:08:36,000 --> 00:08:38,000
+But there is a second way
+
+172
+00:08:38,000 --> 00:08:41,000
+in which justice can be tied with
+
+173
+00:08:41,000 --> 00:08:43,000
+or bound up with the good.
+
+174
+00:08:43,000 --> 00:08:46,000
+On this second non-relativist way
+
+175
+00:08:46,000 --> 00:08:49,000
+of linking justice with conceptions of the good,
+
+176
+00:08:49,000 --> 00:08:51,000
+principles of justice depend
+
+177
+00:08:51,000 --> 00:08:52,000
+for their justification
+
+178
+00:08:52,000 --> 00:08:54,000
+not on the values that happen to prevail
+
+179
+00:08:54,000 --> 00:08:57,000
+at any given moment in a certain place,
+
+180
+00:08:57,000 --> 00:08:59,000
+but instead on the moral worth
+
+181
+00:08:59,000 --> 00:09:00,000
+or the intrinsic value
+
+182
+00:09:00,000 --> 00:09:03,000
+of the ends rights serve.
+
+183
+00:09:03,000 --> 00:09:05,000
+On this non-relativist view,
+
+184
+00:09:05,000 --> 00:09:07,000
+the case for recognizing a right
+
+185
+00:09:07,000 --> 00:09:09,000
+depends on showing that it honors
+
+186
+00:09:09,000 --> 00:09:12,000
+or advances some important human good.
+
+187
+00:09:12,000 --> 00:09:15,000
+This second way of tying justice
+
+188
+00:09:15,000 --> 00:09:17,000
+to the good is not,
+
+189
+00:09:17,000 --> 00:09:18,000
+strictly speaking,
+
+190
+00:09:18,000 --> 00:09:20,000
+communitarian,
+
+191
+00:09:20,000 --> 00:09:22,000
+if by communitarian you mean
+
+192
+00:09:22,000 --> 00:09:24,000
+just giving over to a particular
+
+193
+00:09:24,000 --> 00:09:26,000
+individual or a particular group
+
+194
+00:09:26,000 --> 00:09:27,000
+of people.
+
+195
+00:09:27,000 --> 00:09:28,000
+It's a way of tying justice
+
+196
+00:09:28,000 --> 00:09:29,000
+to the good,
+
+197
+00:09:29,000 --> 00:09:32,000
+or to a particular community,
+
+198
+00:09:32,000 --> 00:09:34,000
+the definition of justice.
+
+199
+00:09:36,000 --> 00:09:38,000
+Now what I would like to suggest
+
+200
+00:09:38,000 --> 00:09:39,000
+that of these two different ways
+
+201
+00:09:39,000 --> 00:09:42,000
+of linking justice to the good,
+
+202
+00:09:42,000 --> 00:09:45,000
+the first is insufficient.
+
+203
+00:09:45,000 --> 00:09:47,000
+Because the first leaves justice
+
+204
+00:09:47,000 --> 00:09:50,000
+the creature of convention.
+
+205
+00:09:50,000 --> 00:09:53,000
+It doesn't give us enough moral resources
+
+206
+00:09:53,000 --> 00:09:55,000
+to respond to those southern segregationists
+
+207
+00:09:55,000 --> 00:09:57,000
+who invoke their way of life,
+
+208
+00:09:57,000 --> 00:09:58,000
+their traditions,
+
+209
+00:09:58,000 --> 00:10:01,000
+their way of doing things.
+
+210
+00:10:05,000 --> 00:10:07,000
+But if justice is bound up
+
+211
+00:10:07,000 --> 00:10:09,000
+with the good in a non-relativist way,
+
+212
+00:10:09,000 --> 00:10:11,000
+there's a big challenge,
+
+213
+00:10:11,000 --> 00:10:14,000
+a big question to answer.
+
+214
+00:10:14,000 --> 00:10:17,000
+How can we reason about the good?
+
+215
+00:10:19,000 --> 00:10:21,000
+What about the fact that people
+
+216
+00:10:21,000 --> 00:10:24,000
+hold different conceptions of the good,
+
+217
+00:10:24,000 --> 00:10:26,000
+different ideas about the purposes
+
+218
+00:10:26,000 --> 00:10:28,000
+of key social institutions?
+
+219
+00:10:28,000 --> 00:10:31,000
+Different ideas about what social goods
+
+220
+00:10:31,000 --> 00:10:33,000
+and human goods are worthy of honor
+
+221
+00:10:33,000 --> 00:10:35,000
+and recognition?
+
+222
+00:10:35,000 --> 00:10:38,000
+We live in a pluralist society.
+
+223
+00:10:38,000 --> 00:10:40,000
+People disagree about the good.
+
+224
+00:10:40,000 --> 00:10:41,000
+That's one of the incentives
+
+225
+00:10:41,000 --> 00:10:43,000
+to try to find principles of justice
+
+226
+00:10:43,000 --> 00:10:45,000
+and rights that don't depend
+
+227
+00:10:45,000 --> 00:10:48,000
+on any particular ends or purposes
+
+228
+00:10:48,000 --> 00:10:50,000
+or goods.
+
+229
+00:10:50,000 --> 00:10:53,000
+So is there a way to reason about the good?
+
+230
+00:10:53,000 --> 00:10:57,000
+Before addressing that question,
+
+231
+00:10:57,000 --> 00:11:00,000
+I want to address a slightly easier question.
+
+232
+00:11:00,000 --> 00:11:03,000
+Is it necessary, is it unavoidable
+
+233
+00:11:03,000 --> 00:11:05,000
+when arguing about justice
+
+234
+00:11:05,000 --> 00:11:07,000
+to argue about the good?
+
+235
+00:11:07,000 --> 00:11:10,000
+And my answer to that question is yes.
+
+236
+00:11:10,000 --> 00:11:11,000
+It's unavoidable.
+
+237
+00:11:11,000 --> 00:11:13,000
+It's necessary.
+
+238
+00:11:13,000 --> 00:11:15,000
+So for the remainder of today,
+
+239
+00:11:15,000 --> 00:11:16,000
+I want to take up,
+
+240
+00:11:16,000 --> 00:11:20,000
+I want to try to advance that claim.
+
+241
+00:11:20,000 --> 00:11:22,000
+That reasoning about the good,
+
+242
+00:11:22,000 --> 00:11:24,000
+about purposes and ends
+
+243
+00:11:24,000 --> 00:11:26,000
+is inevitable.
+
+244
+00:11:26,000 --> 00:11:28,000
+And that reasoning about the good
+
+245
+00:11:28,000 --> 00:11:30,000
+and ends is an unavoidable feature
+
+246
+00:11:30,000 --> 00:11:32,000
+of arguing about justice.
+
+247
+00:11:32,000 --> 00:11:34,000
+It's necessary.
+
+248
+00:11:34,000 --> 00:11:36,000
+Let me see if I can establish that.
+
+249
+00:11:36,000 --> 00:11:38,000
+And for that, I'd like for us
+
+250
+00:11:38,000 --> 00:11:42,000
+to begin a discussion of same-sex marriage.
+
+251
+00:11:42,000 --> 00:11:46,000
+Now, same-sex marriage draws on,
+
+252
+00:11:46,000 --> 00:11:50,000
+implicates deeply contested
+
+253
+00:11:50,000 --> 00:11:54,000
+and controversial ideas
+
+254
+00:11:54,000 --> 00:11:57,000
+religiously.
+
+255
+00:11:57,000 --> 00:12:00,000
+And so there's a powerful incentive
+
+256
+00:12:00,000 --> 00:12:03,000
+to embrace a conception of justice
+
+257
+00:12:03,000 --> 00:12:04,000
+or of rights
+
+258
+00:12:04,000 --> 00:12:06,000
+that doesn't require the society as a whole
+
+259
+00:12:06,000 --> 00:12:09,000
+to pass judgment, one way or another,
+
+260
+00:12:09,000 --> 00:12:13,000
+on those hotly contested
+
+261
+00:12:13,000 --> 00:12:15,000
+moral and religious questions
+
+262
+00:12:15,000 --> 00:12:18,000
+about the moral permissibility of homosexuality,
+
+263
+00:12:18,000 --> 00:12:21,000
+about the proper ends of marriage
+
+264
+00:12:21,000 --> 00:12:23,000
+as a social institution.
+
+265
+00:12:23,000 --> 00:12:25,000
+So clearly, if there's an incentive
+
+266
+00:12:25,000 --> 00:12:27,000
+to resolve this question,
+
+267
+00:12:27,000 --> 00:12:28,000
+to define people's rights
+
+268
+00:12:28,000 --> 00:12:30,000
+in a way that doesn't require
+
+269
+00:12:30,000 --> 00:12:31,000
+the society as a whole
+
+270
+00:12:31,000 --> 00:12:34,000
+to sort out those moral and religious disputes,
+
+271
+00:12:34,000 --> 00:12:37,000
+that would be very attractive.
+
+272
+00:12:37,000 --> 00:12:39,000
+So what I would like to do now
+
+273
+00:12:39,000 --> 00:12:42,000
+is to see, using the same-sex marriage case,
+
+274
+00:12:42,000 --> 00:12:44,000
+whether it's possible
+
+275
+00:12:44,000 --> 00:12:47,000
+to detach one's views
+
+276
+00:12:47,000 --> 00:12:50,000
+about the moral permissibility of homosexuality
+
+277
+00:12:50,000 --> 00:12:52,000
+and about the purpose,
+
+278
+00:12:52,000 --> 00:12:54,000
+the end of marriage,
+
+279
+00:12:54,000 --> 00:12:57,000
+to detach those questions
+
+280
+00:12:57,000 --> 00:12:59,000
+from the question of whether the state
+
+281
+00:12:59,000 --> 00:13:02,000
+should recognize same-sex marriage or not.
+
+282
+00:13:02,000 --> 00:13:05,000
+So let's begin.
+
+283
+00:13:05,000 --> 00:13:07,000
+I would like to begin
+
+284
+00:13:07,000 --> 00:13:09,000
+by hearing the arguments of those
+
+285
+00:13:09,000 --> 00:13:11,000
+who believe that there should be
+
+286
+00:13:11,000 --> 00:13:13,000
+no same-sex marriage,
+
+287
+00:13:13,000 --> 00:13:15,000
+but that the state should only recognize
+
+288
+00:13:15,000 --> 00:13:18,000
+marriage between a man and a woman.
+
+289
+00:13:18,000 --> 00:13:19,000
+Do I have volunteers?
+
+290
+00:13:19,000 --> 00:13:20,000
+I had two.
+
+291
+00:13:20,000 --> 00:13:22,000
+There were two people I had
+
+292
+00:13:22,000 --> 00:13:25,000
+and I asked people who had voiced their views already
+
+293
+00:13:25,000 --> 00:13:27,000
+on the Justice blog,
+
+294
+00:13:27,000 --> 00:13:29,000
+Mark Luff and Ryan McCaffrey.
+
+295
+00:13:29,000 --> 00:13:31,000
+Where are you?
+
+296
+00:13:31,000 --> 00:13:32,000
+Okay.
+
+297
+00:13:32,000 --> 00:13:33,000
+Mark?
+
+298
+00:13:33,000 --> 00:13:34,000
+And where's Ryan?
+
+299
+00:13:34,000 --> 00:13:35,000
+All right.
+
+300
+00:13:35,000 --> 00:13:38,000
+Let's go first to Mark.
+
+301
+00:13:38,000 --> 00:13:40,000
+I have sort of a teleological understanding
+
+302
+00:13:40,000 --> 00:13:43,000
+of the purpose of sex
+
+303
+00:13:43,000 --> 00:13:45,000
+and the purpose of marriage.
+
+304
+00:13:45,000 --> 00:13:48,000
+And I think that for people like myself
+
+305
+00:13:48,000 --> 00:13:50,000
+who are a Christian
+
+306
+00:13:50,000 --> 00:13:52,000
+and also a Catholic,
+
+307
+00:13:52,000 --> 00:13:55,000
+the purpose of sex is,
+
+308
+00:13:55,000 --> 00:13:59,000
+one, for its procreative uses
+
+309
+00:13:59,000 --> 00:14:02,000
+and two, for a unifying purpose
+
+310
+00:14:02,000 --> 00:14:04,000
+between a man and a woman
+
+311
+00:14:04,000 --> 00:14:07,000
+within the institution of marriage.
+
+312
+00:14:07,000 --> 00:14:09,000
+You have a certain conception
+
+313
+00:14:09,000 --> 00:14:11,000
+of the purpose or the telos
+
+314
+00:14:11,000 --> 00:14:13,000
+of human sexuality,
+
+315
+00:14:13,000 --> 00:14:16,000
+which is bound up with procreation
+
+316
+00:14:16,000 --> 00:14:18,000
+as well as union.
+
+317
+00:14:18,000 --> 00:14:20,000
+And the essence of marriage,
+
+318
+00:14:20,000 --> 00:14:22,000
+the purpose of marriage,
+
+319
+00:14:22,000 --> 00:14:24,000
+as a social institution,
+
+320
+00:14:24,000 --> 00:14:28,000
+is to give expression to that telos
+
+321
+00:14:28,000 --> 00:14:30,000
+and to honor that purpose,
+
+322
+00:14:30,000 --> 00:14:33,000
+namely the procreative purpose of marriage.
+
+323
+00:14:33,000 --> 00:14:36,000
+Is that a fair summary of your view?
+
+324
+00:14:36,000 --> 00:14:37,000
+Yeah.
+
+325
+00:14:37,000 --> 00:14:38,000
+Where is Ryan?
+
+326
+00:14:38,000 --> 00:14:39,000
+Go ahead.
+
+327
+00:14:39,000 --> 00:14:42,000
+Do you agree more or less with Mark's reasons?
+
+328
+00:14:42,000 --> 00:14:45,000
+Yes, I agree.
+
+329
+00:14:45,000 --> 00:14:49,000
+I think that the ideal of marriage
+
+330
+00:14:49,000 --> 00:14:51,000
+involves procreation.
+
+331
+00:14:51,000 --> 00:14:53,000
+And it's fine that, you know,
+
+332
+00:14:53,000 --> 00:14:55,000
+homosexuals would go off
+
+333
+00:14:55,000 --> 00:14:58,000
+and cohabitate with each other,
+
+334
+00:14:58,000 --> 00:15:00,000
+but the government doesn't have a responsibility
+
+335
+00:15:00,000 --> 00:15:01,000
+to encourage that.
+
+336
+00:15:01,000 --> 00:15:02,000
+All right.
+
+337
+00:15:02,000 --> 00:15:05,000
+So the government should not encourage
+
+338
+00:15:05,000 --> 00:15:06,000
+homosexual behavior
+
+339
+00:15:06,000 --> 00:15:10,000
+by conferring the recognition of marriage.
+
+340
+00:15:10,000 --> 00:15:11,000
+Yeah.
+
+341
+00:15:11,000 --> 00:15:13,000
+It would be wrong to outlaw it,
+
+342
+00:15:13,000 --> 00:15:15,000
+but encouraging it is not necessary.
+
+343
+00:15:15,000 --> 00:15:17,000
+Who has a reply?
+
+344
+00:15:21,000 --> 00:15:23,000
+Yes.
+
+345
+00:15:25,000 --> 00:15:26,000
+Hannah.
+
+346
+00:15:26,000 --> 00:15:28,000
+I'd just like to ask a question to Mark.
+
+347
+00:15:28,000 --> 00:15:30,000
+Let's say you got married to a woman,
+
+348
+00:15:30,000 --> 00:15:32,000
+you did not have sex with her before marriage,
+
+349
+00:15:32,000 --> 00:15:34,000
+and then when you became married,
+
+350
+00:15:34,000 --> 00:15:37,000
+it became evident that you were an infertile couple.
+
+351
+00:15:37,000 --> 00:15:38,000
+Do you think that it should be illegal
+
+352
+00:15:38,000 --> 00:15:40,000
+for you to engage in sex
+
+353
+00:15:40,000 --> 00:15:43,000
+if children will not result from that act?
+
+354
+00:15:43,000 --> 00:15:45,000
+Yeah, I think that it is moral,
+
+355
+00:15:45,000 --> 00:15:48,000
+and that's why I gave the twofold purpose.
+
+356
+00:15:48,000 --> 00:15:50,000
+So, like, a woman, say,
+
+357
+00:15:50,000 --> 00:15:52,000
+I think older couples can get married,
+
+358
+00:15:52,000 --> 00:15:55,000
+a woman who's beyond...
+
+359
+00:15:55,000 --> 00:15:57,000
+who's already had menopause
+
+360
+00:15:57,000 --> 00:15:58,000
+and who can't have a child,
+
+361
+00:15:58,000 --> 00:16:02,000
+because I think that sex has these...
+
+362
+00:16:02,000 --> 00:16:04,000
+it has purposes beyond procreation.
+
+363
+00:16:04,000 --> 00:16:05,000
+I hate to be uncouth,
+
+364
+00:16:05,000 --> 00:16:08,000
+but have you ever engaged in masturbation?
+
+365
+00:16:08,000 --> 00:16:09,000
+No.
+
+366
+00:16:09,000 --> 00:16:10,000
+Yeah.
+
+367
+00:16:10,000 --> 00:16:11,000
+You don't...
+
+368
+00:16:11,000 --> 00:16:13,000
+You don't have to answer that.
+
+369
+00:16:13,000 --> 00:16:14,000
+You can...
+
+370
+00:16:14,000 --> 00:16:15,000
+Well, yeah, I think...
+
+371
+00:16:15,000 --> 00:16:16,000
+All right.
+
+372
+00:16:16,000 --> 00:16:17,000
+Just a minute.
+
+373
+00:16:17,000 --> 00:16:18,000
+No.
+
+374
+00:16:18,000 --> 00:16:19,000
+Make your...
+
+375
+00:16:19,000 --> 00:16:20,000
+Make your...
+
+376
+00:16:20,000 --> 00:16:21,000
+Make your argument.
+
+377
+00:16:21,000 --> 00:16:22,000
+No, I'd like to respond to that.
+
+378
+00:16:22,000 --> 00:16:23,000
+No, I think...
+
+379
+00:16:23,000 --> 00:16:24,000
+Wait.
+
+380
+00:16:24,000 --> 00:16:25,000
+Look, we've...
+
+381
+00:16:25,000 --> 00:16:26,000
+We've done pretty well
+
+382
+00:16:26,000 --> 00:16:27,000
+over a whole semester,
+
+383
+00:16:27,000 --> 00:16:28,000
+and we're doing pretty well now,
+
+384
+00:16:28,000 --> 00:16:29,000
+dealing with questions
+
+385
+00:16:29,000 --> 00:16:30,000
+that most people think
+
+386
+00:16:30,000 --> 00:16:31,000
+can't even be discussed
+
+387
+00:16:31,000 --> 00:16:32,000
+in a university setting.
+
+388
+00:16:32,000 --> 00:16:33,000
+And, Hannah, you've got...
+
+389
+00:16:33,000 --> 00:16:34,000
+You have a powerful point.
+
+390
+00:16:34,000 --> 00:16:35,000
+Make that point
+
+391
+00:16:35,000 --> 00:16:36,000
+as a general argument
+
+392
+00:16:36,000 --> 00:16:37,000
+rather than...
+
+393
+00:16:38,000 --> 00:16:39,000
+Rather than...
+
+394
+00:16:39,000 --> 00:16:40,000
+Okay.
+
+395
+00:16:40,000 --> 00:16:41,000
+...as a general argument
+
+396
+00:16:41,000 --> 00:16:42,000
+rather than...
+
+397
+00:16:42,000 --> 00:16:43,000
+Okay.
+
+398
+00:16:43,000 --> 00:16:44,000
+...as a general argument
+
+399
+00:16:44,000 --> 00:16:45,000
+rather than...
+
+400
+00:16:45,000 --> 00:16:46,000
+Okay.
+
+401
+00:16:46,000 --> 00:16:47,000
+...rather than...
+
+402
+00:16:47,000 --> 00:16:48,000
+Okay.
+
+403
+00:16:48,000 --> 00:16:49,000
+...rather than...
+
+404
+00:16:49,000 --> 00:16:50,000
+Okay.
+
+405
+00:16:50,000 --> 00:16:51,000
+...rather than as an interrogative.
+
+406
+00:16:51,000 --> 00:16:52,000
+Okay.
+
+407
+00:16:52,000 --> 00:16:53,000
+But make the point.
+
+408
+00:16:53,000 --> 00:16:54,000
+What's the...
+
+409
+00:16:54,000 --> 00:16:55,000
+What's the principle
+
+410
+00:16:55,000 --> 00:16:56,000
+that you're appealing?
+
+411
+00:16:56,000 --> 00:16:57,000
+Okay.
+
+412
+00:16:57,000 --> 00:16:58,000
+What's the argument
+
+413
+00:16:58,000 --> 00:16:59,000
+you have in mind?
+
+414
+00:16:59,000 --> 00:17:00,000
+All right.
+
+415
+00:17:00,000 --> 00:17:01,000
+Well, biblically...
+
+416
+00:17:01,000 --> 00:17:02,000
+Put it in the third person...
+
+417
+00:17:02,000 --> 00:17:03,000
+Yeah.
+
+418
+00:17:03,000 --> 00:17:04,000
+Okay.
+
+419
+00:17:04,000 --> 00:17:05,000
+...rather than...
+
+420
+00:17:05,000 --> 00:17:06,000
+Okay.
+
+421
+00:17:06,000 --> 00:17:07,000
+...rather than...
+
+422
+00:17:07,000 --> 00:17:08,000
+Okay.
+
+423
+00:17:08,000 --> 00:17:09,000
+...rather than in the second person.
+
+424
+00:17:09,000 --> 00:17:10,000
+Okay.
+
+425
+00:17:10,000 --> 00:17:11,000
+Sure.
+
+426
+00:17:11,000 --> 00:17:12,000
+Make...
+
+427
+00:17:12,000 --> 00:17:13,000
+Make the argument.
+
+428
+00:17:13,000 --> 00:17:14,000
+Go ahead.
+
+429
+00:17:14,000 --> 00:17:15,000
+Okay.
+
+430
+00:17:15,000 --> 00:17:16,000
+Okay.
+
+431
+00:17:16,000 --> 00:17:17,000
+Biblically, masturbation
+
+432
+00:17:17,000 --> 00:17:18,000
+or onanism
+
+433
+00:17:18,000 --> 00:17:19,000
+is not permissible
+
+434
+00:17:19,000 --> 00:17:20,000
+because it's, you know,
+
+435
+00:17:20,000 --> 00:17:21,000
+there's something wrong with sex
+
+436
+00:17:21,000 --> 00:17:22,000
+if it doesn't produce children
+
+437
+00:17:22,000 --> 00:17:23,000
+or reinforce the marriage bond.
+
+438
+00:17:23,000 --> 00:17:24,000
+Right.
+
+439
+00:17:24,000 --> 00:17:25,000
+But then how can you say
+
+440
+00:17:25,000 --> 00:17:26,000
+that there's something wrong
+
+441
+00:17:26,000 --> 00:17:27,000
+that, you know,
+
+442
+00:17:27,000 --> 00:17:28,000
+masturbation is permissible
+
+443
+00:17:28,000 --> 00:17:29,000
+if masturbation obviously
+
+444
+00:17:29,000 --> 00:17:30,000
+is not going to, you know,
+
+445
+00:17:30,000 --> 00:17:31,000
+create a child?
+
+446
+00:17:31,000 --> 00:17:32,000
+Yeah.
+
+447
+00:17:32,000 --> 00:17:33,000
+I think marriage
+
+448
+00:17:33,000 --> 00:17:34,000
+is society's way
+
+449
+00:17:34,000 --> 00:17:35,000
+to create this separate institution
+
+450
+00:17:35,000 --> 00:17:36,000
+where they say,
+
+451
+00:17:36,000 --> 00:17:37,000
+this is what we hold as a virtue.
+
+452
+00:17:37,000 --> 00:17:38,000
+Yes, every day we fall short
+
+453
+00:17:38,000 --> 00:17:39,000
+and people fall short
+
+454
+00:17:39,000 --> 00:17:40,000
+in so many different other ways.
+
+455
+00:17:40,000 --> 00:17:41,000
+But I think
+
+456
+00:17:41,000 --> 00:17:42,000
+that's the way
+
+457
+00:17:42,000 --> 00:17:43,000
+that we're supposed to be.
+
+458
+00:17:43,000 --> 00:17:44,000
+And I think
+
+459
+00:17:44,000 --> 00:17:45,000
+that's the way
+
+460
+00:17:45,000 --> 00:17:46,000
+that we're supposed to be.
+
+461
+00:17:46,000 --> 00:17:47,000
+And I think
+
+462
+00:17:47,000 --> 00:17:48,000
+that's the way
+
+463
+00:17:48,000 --> 00:17:49,000
+that we're supposed to be.
+
+464
+00:17:49,000 --> 00:17:50,000
+But I think
+
+465
+00:17:50,000 --> 00:17:52,000
+that if you personally fall short
+
+466
+00:17:52,000 --> 00:17:55,000
+in some moral sphere as we all do,
+
+467
+00:17:55,000 --> 00:17:57,000
+that doesn't take the right
+
+468
+00:17:57,000 --> 00:17:59,000
+of you to argue.
+
+469
+00:17:59,000 --> 00:18:00,000
+Alright.
+
+470
+00:18:00,000 --> 00:18:01,000
+I want you,
+
+471
+00:18:01,000 --> 00:18:02,000
+you to stay there.
+
+472
+00:18:02,000 --> 00:18:03,000
+I want to bring in
+
+473
+00:18:03,000 --> 00:18:04,000
+some other voices
+
+474
+00:18:04,000 --> 00:18:05,000
+and we'll continue.
+
+475
+00:18:05,000 --> 00:18:06,000
+Stay there if you would.
+
+476
+00:18:06,000 --> 00:18:07,000
+Okay.
+
+477
+00:18:07,000 --> 00:18:08,000
+Go ahead.
+
+478
+00:18:08,000 --> 00:18:09,000
+I think
+
+479
+00:18:09,000 --> 00:18:10,000
+that the response
+
+480
+00:18:10,000 --> 00:18:11,000
+to the masturbate...
+
+481
+00:18:11,000 --> 00:18:12,000
+Tell us your...
+
+482
+00:18:12,000 --> 00:18:13,000
+My name's Steve.
+
+483
+00:18:13,000 --> 00:18:14,000
+Steve.
+
+484
+00:18:14,000 --> 00:18:15,000
+The response
+
+485
+00:18:15,000 --> 00:18:16,000
+to the masturbation is,
+
+486
+00:18:16,000 --> 00:18:17,000
+it's not something
+
+487
+00:18:17,000 --> 00:18:18,000
+that's permissible.
+
+488
+00:18:18,000 --> 00:18:19,000
+I don't think anyone
+
+489
+00:18:19,000 --> 00:18:22,000
+that homosexual sex is impermissible.
+
+490
+00:18:22,000 --> 00:18:23,500
+It's just that society has no
+
+491
+00:18:23,500 --> 00:18:25,000
+place in letting you marry yourself
+
+492
+00:18:25,000 --> 00:18:28,000
+if masturbation is something that you do.
+
+493
+00:18:28,000 --> 00:18:31,000
+Well, alright, Hannah.
+
+494
+00:18:33,000 --> 00:18:35,000
+Alright, Steve has drawn...
+
+495
+00:18:35,000 --> 00:18:38,000
+Alright, that's a good argument.
+
+496
+00:18:38,000 --> 00:18:40,000
+Steve has drawn our attention to the
+
+497
+00:18:40,000 --> 00:18:42,000
+fact that there are two issues here.
+
+498
+00:18:42,000 --> 00:18:44,000
+One of them is the
+
+499
+00:18:44,000 --> 00:18:46,000
+moral permissibility of various practices.
+
+500
+00:18:46,000 --> 00:18:49,000
+The other is the fit between certain practices,
+
+501
+00:18:49,000 --> 00:18:52,000
+whatever their moral permissibility,
+
+502
+00:18:52,000 --> 00:18:55,000
+with the honor or recognition that
+
+503
+00:18:55,000 --> 00:18:58,000
+the state should accord in allowing marriage.
+
+504
+00:18:58,000 --> 00:19:01,000
+So Steve has a pretty good counterargument.
+
+505
+00:19:01,000 --> 00:19:04,000
+What do you say to Steve?
+
+506
+00:19:04,000 --> 00:19:06,500
+Well, I think that it's clear
+
+507
+00:19:06,500 --> 00:19:09,000
+that human sexuality is something that is,
+
+508
+00:19:09,000 --> 00:19:12,000
+you know, inherent in, I believe, most people.
+
+509
+00:19:12,000 --> 00:19:14,000
+And it's not something you can avoid.
+
+510
+00:19:14,000 --> 00:19:16,000
+And masturbation, I mean, yeah, you can,
+
+511
+00:19:16,000 --> 00:19:18,000
+you can't marry yourself,
+
+512
+00:19:18,000 --> 00:19:19,000
+but I don't think that
+
+513
+00:19:19,000 --> 00:19:20,000
+takes away from the fact that,
+
+514
+00:19:20,000 --> 00:19:23,000
+you know, homosexuals are people too.
+
+515
+00:19:23,000 --> 00:19:25,000
+And I just, I can't understand why
+
+516
+00:19:25,000 --> 00:19:27,000
+they wouldn't be able to marry each other.
+
+517
+00:19:27,000 --> 00:19:29,000
+If you want to marry yourself,
+
+518
+00:19:29,000 --> 00:19:30,500
+I mean, I don't know
+
+519
+00:19:30,500 --> 00:19:32,000
+if you can legally do that.
+
+520
+00:19:34,000 --> 00:19:36,000
+That's fine, but I don't think that...
+
+521
+00:19:36,000 --> 00:19:38,000
+Wait, wait, wait, wait, wait.
+
+522
+00:19:38,000 --> 00:19:40,000
+Now here we're deciding,
+
+523
+00:19:40,000 --> 00:19:42,000
+here we're deliberating as if
+
+524
+00:19:42,000 --> 00:19:44,000
+legislators what the law should be.
+
+525
+00:19:44,000 --> 00:19:46,000
+So you said, Steve, that's fine.
+
+526
+00:19:46,000 --> 00:19:48,500
+Does that mean as a legislator you
+
+527
+00:19:48,500 --> 00:19:51,000
+would vote for a law of marriage
+
+528
+00:19:51,000 --> 00:19:54,500
+that would be so broad that
+
+529
+00:19:54,500 --> 00:19:58,000
+it would let people marry themselves?
+
+530
+00:19:58,000 --> 00:20:02,000
+Well, I mean, that's really beyond the pale of, like,
+
+531
+00:20:02,000 --> 00:20:05,000
+anything that would really happen, but I don't think that...
+
+532
+00:20:05,000 --> 00:20:06,000
+But in principle.
+
+533
+00:20:06,000 --> 00:20:07,000
+Yeah, in principle.
+
+534
+00:20:07,000 --> 00:20:08,000
+Yes?
+
+535
+00:20:08,000 --> 00:20:09,000
+Yeah, sure, I mean, if Steve wants to marry himself,
+
+536
+00:20:09,000 --> 00:20:11,000
+I'm not going to stop him.
+
+537
+00:20:11,000 --> 00:20:12,000
+I think that there's...
+
+538
+00:20:12,000 --> 00:20:13,500
+And you would confer state
+
+539
+00:20:13,500 --> 00:20:15,000
+recognition on that solo marriage?
+
+540
+00:20:15,000 --> 00:20:16,000
+Sure.
+
+541
+00:20:16,000 --> 00:20:17,500
+And while we're at it,
+
+542
+00:20:17,500 --> 00:20:19,000
+what about consensual polygamous marriages?
+
+543
+00:20:19,000 --> 00:20:20,500
+I actually think that if
+
+544
+00:20:20,500 --> 00:20:22,000
+the male and the female are...
+
+545
+00:20:22,000 --> 00:20:24,000
+If the wives and the man and
+
+546
+00:20:24,000 --> 00:20:26,000
+the husband or the husbands and the wife
+
+547
+00:20:26,000 --> 00:20:28,000
+are consenting, it should be permissible.
+
+548
+00:20:28,000 --> 00:20:29,000
+Who else?
+
+549
+00:20:29,000 --> 00:20:31,000
+I know there are a lot of people who...
+
+550
+00:20:31,000 --> 00:20:32,000
+Yes, okay, down here.
+
+551
+00:20:32,000 --> 00:20:33,000
+Stand up and tell us your name.
+
+552
+00:20:33,000 --> 00:20:34,000
+Victoria.
+
+553
+00:20:34,000 --> 00:20:35,000
+Victoria.
+
+554
+00:20:35,000 --> 00:20:37,000
+So we're talking about the
+
+555
+00:20:37,000 --> 00:20:39,000
+theological reasoning here for marriage,
+
+556
+00:20:39,000 --> 00:20:41,000
+and I think that's a really good question.
+
+557
+00:20:41,000 --> 00:20:43,000
+I think that's a really good question.
+
+558
+00:20:43,000 --> 00:20:44,000
+I think that's a really good question.
+
+559
+00:20:44,000 --> 00:20:45,000
+I think that's a really good question.
+
+560
+00:20:45,000 --> 00:20:46,000
+I think that's a really good question.
+
+561
+00:20:46,000 --> 00:20:47,000
+I think that's a really good question.
+
+562
+00:20:47,000 --> 00:20:48,000
+I think that's a really good question.
+
+563
+00:20:48,000 --> 00:20:49,250
+But I think the problem is that
+
+564
+00:20:49,250 --> 00:20:50,500
+we're talking about it within the Catholic viewpoint,
+
+565
+00:20:50,500 --> 00:20:53,000
+whereas the theological and the point to
+
+566
+00:20:53,000 --> 00:20:55,500
+marriage for another religion or someone who's
+
+567
+00:20:55,500 --> 00:20:57,470
+an atheist could be completely different, and
+
+568
+00:20:57,470 --> 00:20:59,440
+the government doesn't have a right to
+
+569
+00:20:59,440 --> 00:21:03,110
+impose the theological reasoning for Catholicism on
+
+570
+00:21:03,110 --> 00:21:06,780
+everyone in the state, which is what my
+
+571
+00:21:06,780 --> 00:21:09,780
+problem is with not allowing same-sex marriage.
+
+572
+00:21:09,780 --> 00:21:11,390
+Because I mean, your beliefs
+
+573
+00:21:11,390 --> 00:21:13,000
+are your beliefs, and that's fine.
+
+574
+00:21:13,000 --> 00:21:18,000
+but civil union is not marriage within the Catholic Church.
+
+575
+00:21:18,000 --> 00:21:20,500
+And the state has a right to
+
+576
+00:21:20,500 --> 00:21:23,000
+recognize a civil union between whoever it wants,
+
+577
+00:21:23,000 --> 00:21:26,000
+but does not have a right to impose the beliefs
+
+578
+00:21:26,000 --> 00:21:29,000
+of a certain minority or majority or whoever it is,
+
+579
+00:21:29,000 --> 00:21:33,000
+based on a religion within our state.
+
+580
+00:21:33,000 --> 00:21:35,000
+All right, Victoria, good. A question.
+
+581
+00:21:35,000 --> 00:21:39,500
+Do you think the state should recognize same-sex marriage
+
+582
+00:21:39,500 --> 00:21:44,000
+or just same-sex civil unions as something short of marriage?
+
+583
+00:21:44,000 --> 00:21:48,000
+Well, I think that the state doesn't have a
+
+584
+00:21:48,000 --> 00:21:52,000
+right to recognize it as marriage within a church,
+
+585
+00:21:52,000 --> 00:21:54,000
+because that is not their place.
+
+586
+00:21:54,000 --> 00:21:57,000
+But whereas civil union, I see civil union as
+
+587
+00:21:57,000 --> 00:22:00,000
+essentially the same thing, except not under a religion.
+
+588
+00:22:00,000 --> 00:22:01,500
+And the state has a
+
+589
+00:22:01,500 --> 00:22:03,000
+right to recognize a civil union.
+
+590
+00:22:03,000 --> 00:22:04,000
+All right.
+
+591
+00:22:04,000 --> 00:22:04,500
+So Victoria's argument is that the state should
+
+592
+00:22:04,500 --> 00:22:05,000
+recognize a civil union as something short of marriage,
+
+593
+00:22:05,000 --> 00:22:08,000
+but the state's argument is that the state should not try
+
+594
+00:22:08,000 --> 00:22:11,000
+to decide the question of what the telos of marriage is.
+
+595
+00:22:11,000 --> 00:22:15,000
+That's only something that religious communities can decide.
+
+596
+00:22:17,000 --> 00:22:19,000
+Who else?
+
+597
+00:22:21,000 --> 00:22:24,500
+My point is I don't see why we
+
+598
+00:22:24,500 --> 00:22:28,000
+feel like state should recognize marriages at all.
+
+599
+00:22:28,000 --> 00:22:31,000
+So I'm like one of these 70 people
+
+600
+00:22:31,000 --> 00:22:34,000
+who voted state should not recognize any marriages,
+
+601
+00:22:34,000 --> 00:22:37,500
+because I believe it is a union between a
+
+602
+00:22:37,500 --> 00:22:41,000
+male and a female or two males or two females.
+
+603
+00:22:41,000 --> 00:22:43,500
+But there is no reason to ask state
+
+604
+00:22:43,500 --> 00:22:46,000
+to give permission to me to unite myself.
+
+605
+00:22:46,000 --> 00:22:49,500
+And some might say that if state
+
+606
+00:22:49,500 --> 00:22:53,000
+recognizes these marriages, it will help children.
+
+607
+00:22:53,000 --> 00:22:56,000
+It will have a binding effect.
+
+608
+00:22:56,000 --> 00:22:57,500
+But in reality, I don't think
+
+609
+00:22:57,500 --> 00:22:59,000
+it actually has a binding effect.
+
+610
+00:22:59,000 --> 00:23:00,000
+All right. Tell us your name.
+
+611
+00:23:00,000 --> 00:23:01,000
+Cezanne.
+
+612
+00:23:01,000 --> 00:23:01,500
+So Victoria and Cezanne's comment is that, you know,
+
+613
+00:23:01,500 --> 00:23:02,000
+we have a lot of problems with our marriage.
+
+614
+00:23:02,000 --> 00:23:03,000
+We have a lot of problems with our marriage.
+
+615
+00:23:03,000 --> 00:23:06,000
+Victoria and Cezanne's comments differ
+
+616
+00:23:06,000 --> 00:23:09,000
+from earlier parts of the conversation.
+
+617
+00:23:09,000 --> 00:23:15,500
+They say the state shouldn't be in the business of honoring or recognizing
+
+618
+00:23:15,500 --> 00:23:22,000
+or affirming any particular telos or purpose of marriage or of human sexuality.
+
+619
+00:23:22,000 --> 00:23:25,500
+And Cezanne is among those who says, therefore, maybe the state
+
+620
+00:23:25,500 --> 00:23:29,000
+should get out of the business of recognizing marriage at all.
+
+621
+00:23:29,000 --> 00:23:31,000
+Here's the question.
+
+622
+00:23:31,000 --> 00:23:41,500
+Unless you adopt Cezanne's position, no state recognition of any kind of marriage, is it possible to choose between, to decide
+
+623
+00:23:41,500 --> 00:23:52,000
+the question of same-sex marriage without taking a stand on the moral and religious controversy over the proper telos of marriage?
+
+624
+00:23:52,000 --> 00:23:53,000
+Thank you very much to
+
+625
+00:23:53,000 --> 00:23:54,000
+all of you who have participated.
+
+626
+00:23:54,000 --> 00:23:56,000
+We'll pick this up next time.
+
+627
+00:23:56,000 --> 00:23:57,000
+You did a great job.
+
+628
+00:24:01,000 --> 00:24:03,000
+Thank you.
+
+629
+00:24:03,000 --> 00:24:12,500
+When we first came together some 13 weeks ago, I tried to warn you that once the
+
+630
+00:24:12,500 --> 00:24:22,000
+familiar turns strange, once we begin to reflect on our circumstance, it's never quite the same again.
+
+631
+00:24:22,000 --> 00:24:24,500
+I hope you have by now experienced
+
+632
+00:24:24,500 --> 00:24:27,000
+at least a little of this unease.
+
+633
+00:24:27,000 --> 00:24:29,000
+Because this is the
+
+634
+00:24:29,000 --> 00:24:31,000
+tension that animates critical reflection.
+
+635
+00:24:31,000 --> 00:24:33,000
+And political improvement.
+
+636
+00:24:33,000 --> 00:24:36,000
+And maybe even the moral life as well.
+
+637
+00:24:40,000 --> 00:24:43,000
+We have two remaining questions to answer.
+
+638
+00:24:43,000 --> 00:24:48,500
+First, is it necessary, is it unavoidable to take
+
+639
+00:24:48,500 --> 00:24:54,000
+up questions of the good life and thinking about justice?
+
+640
+00:24:54,000 --> 00:24:55,000
+Yes.
+
+641
+00:24:55,000 --> 00:25:00,000
+And is it possible to reason about justice?
+
+642
+00:25:00,000 --> 00:25:02,000
+Yes, I think so.
+
+643
+00:25:02,000 --> 00:25:06,500
+Let me try to develop
+
+644
+00:25:06,500 --> 00:25:11,000
+those answers to those two questions.
+
+645
+00:25:11,000 --> 00:25:15,500
+Now, as a way of addressing those questions, we
+
+646
+00:25:15,500 --> 00:25:20,000
+began last time to discuss the question of same-sex marriage.
+
+647
+00:25:20,000 --> 00:25:23,000
+And we heard from those
+
+648
+00:25:23,000 --> 00:25:26,000
+who argued against same-sex marriage.
+
+649
+00:25:26,000 --> 00:25:26,500
+On the grounds that the purpose or telos of marriage, the
+
+650
+00:25:26,500 --> 00:25:27,000
+purpose of same-sex marriage, is to be a form of self-denial.
+
+651
+00:25:27,000 --> 00:25:27,500
+And we heard from those
+
+652
+00:25:27,500 --> 00:25:28,000
+who argued against same-sex marriage.
+
+653
+00:25:28,000 --> 00:25:33,500
+On the grounds that the purpose or telos
+
+654
+00:25:33,500 --> 00:25:39,000
+of marriage, is at least in part, procreation.
+
+655
+00:25:39,000 --> 00:25:43,000
+The bearing and raising of children.
+
+656
+00:25:43,000 --> 00:25:49,000
+And then there were those who defended same-sex marriage.
+
+657
+00:25:49,000 --> 00:25:52,000
+And they contested that account of
+
+658
+00:25:52,000 --> 00:25:55,000
+the purpose or telos of marriage.
+
+659
+00:25:55,000 --> 00:25:57,000
+Arguing.
+
+660
+00:25:57,000 --> 00:26:02,500
+We don't require, as a condition of heterosexual
+
+661
+00:26:02,500 --> 00:26:08,000
+marriage, that couples be able or willing to procreate.
+
+662
+00:26:08,000 --> 00:26:14,000
+We allow infertile couples to marry.
+
+663
+00:26:14,000 --> 00:26:18,000
+This is Hannah's point in the exchange with Mark.
+
+664
+00:26:18,000 --> 00:26:22,000
+But then there was another position.
+
+665
+00:26:22,000 --> 00:26:26,000
+Expressed at the end of our discussion by Victoria.
+
+666
+00:26:27,000 --> 00:26:32,000
+Who argued, we shouldn't try to decide this question.
+
+667
+00:26:32,000 --> 00:26:35,000
+We shouldn't, at least at the level
+
+668
+00:26:35,000 --> 00:26:38,000
+of the state, at the level of law,
+
+669
+00:26:38,000 --> 00:26:41,500
+try to come to any agreement
+
+670
+00:26:41,500 --> 00:26:45,000
+on those questions about the good.
+
+671
+00:26:45,000 --> 00:26:48,500
+Because we live in a pluralist society
+
+672
+00:26:48,500 --> 00:26:52,000
+where people have different moral and religious convictions.
+
+673
+00:26:52,000 --> 00:26:56,000
+And so we should try to make law,
+
+674
+00:26:56,000 --> 00:26:58,000
+and the framework of rights,
+
+675
+00:26:58,000 --> 00:27:02,000
+neutral with respect to these
+
+676
+00:27:02,000 --> 00:27:06,000
+competing moral and religious views.
+
+677
+00:27:06,000 --> 00:27:08,000
+Now it's interesting that others,
+
+678
+00:27:08,000 --> 00:27:10,000
+some others,
+
+679
+00:27:10,000 --> 00:27:14,000
+who favor the idea of neutrality,
+
+680
+00:27:14,000 --> 00:27:17,000
+argued not in favor of restricting
+
+681
+00:27:17,000 --> 00:27:20,000
+marriage to a man and a woman.
+
+682
+00:27:20,000 --> 00:27:23,000
+Nor in favor of permitting same-sex marriage.
+
+683
+00:27:23,000 --> 00:27:25,000
+They argued,
+
+684
+00:27:25,000 --> 00:27:27,000
+in the name of neutrality,
+
+685
+00:27:27,000 --> 00:27:30,000
+for a third possibility.
+
+686
+00:27:30,000 --> 00:27:32,000
+Which is that government
+
+687
+00:27:32,000 --> 00:27:34,000
+get out of the business
+
+688
+00:27:34,000 --> 00:27:36,000
+of recognizing any kind of marriage.
+
+689
+00:27:36,000 --> 00:27:38,000
+That was the third possibility.
+
+690
+00:27:38,000 --> 00:27:41,000
+Now,
+
+691
+00:27:41,000 --> 00:27:44,000
+Andrea Mayrose
+
+692
+00:27:44,000 --> 00:27:47,000
+had an interesting contribution to this debate.
+
+693
+00:27:47,000 --> 00:27:49,000
+She had a rejoinder
+
+694
+00:27:49,000 --> 00:27:51,000
+to people who argue for neutrality.
+
+695
+00:27:51,000 --> 00:27:53,000
+Where is Andrea?
+
+696
+00:27:53,000 --> 00:27:54,000
+All right.
+
+697
+00:27:54,000 --> 00:27:56,000
+Andrea, would you be willing,
+
+698
+00:27:56,000 --> 00:27:58,000
+share with us the view,
+
+699
+00:27:58,000 --> 00:28:00,000
+if we can get you a microphone.
+
+700
+00:28:00,000 --> 00:28:04,000
+Share with us your view.
+
+701
+00:28:04,000 --> 00:28:07,000
+Why do you think that
+
+702
+00:28:07,000 --> 00:28:09,000
+it's a mistake
+
+703
+00:28:09,000 --> 00:28:12,000
+for the state to try to be neutral
+
+704
+00:28:12,000 --> 00:28:14,000
+on moral and even
+
+705
+00:28:14,000 --> 00:28:16,000
+religious questions like same-sex marriage?
+
+706
+00:28:16,000 --> 00:28:20,000
+I don't know that it is possible because people's lives
+
+707
+00:28:20,000 --> 00:28:23,000
+are completely embedded in how they view the world.
+
+708
+00:28:23,000 --> 00:28:26,000
+And maybe I just agree with Aristotle
+
+709
+00:28:26,000 --> 00:28:28,000
+that the role of the government
+
+710
+00:28:28,000 --> 00:28:31,000
+is helping people live in a sort of,
+
+711
+00:28:31,000 --> 00:28:33,000
+like having a collective understanding
+
+712
+00:28:33,000 --> 00:28:36,000
+of what is wrong and what is right.
+
+713
+00:28:36,000 --> 00:28:37,000
+Is it possible,
+
+714
+00:28:37,000 --> 00:28:39,000
+and one could ask the same question of abortion
+
+715
+00:28:39,000 --> 00:28:42,000
+that we've been asking of same-sex marriage.
+
+716
+00:28:42,000 --> 00:28:44,000
+Do you think it's possible
+
+717
+00:28:44,000 --> 00:28:47,000
+to decide whether abortion should be
+
+718
+00:28:47,000 --> 00:28:50,000
+permitted or prohibited
+
+719
+00:28:50,000 --> 00:28:52,000
+without taking into account
+
+720
+00:28:52,000 --> 00:28:54,000
+or without taking a stand
+
+721
+00:28:54,000 --> 00:28:56,000
+or making a judgment
+
+722
+00:28:56,000 --> 00:28:59,000
+about the moral permissibility of abortion?
+
+723
+00:28:59,000 --> 00:29:00,000
+No, I don't think it is.
+
+724
+00:29:00,000 --> 00:29:01,000
+And I think that's why it's such a controversy
+
+725
+00:29:01,000 --> 00:29:04,000
+because people are so deeply committed to
+
+726
+00:29:04,000 --> 00:29:06,000
+like their fundamental beliefs about
+
+727
+00:29:06,000 --> 00:29:09,000
+whether a fetus is a life or if it isn't.
+
+728
+00:29:09,000 --> 00:29:12,000
+So, if I believe that like a fetus
+
+729
+00:29:12,000 --> 00:29:13,000
+is a living being
+
+730
+00:29:13,000 --> 00:29:15,000
+and has rights
+
+731
+00:29:15,000 --> 00:29:17,000
+and has like fundamentally the right to live,
+
+732
+00:29:17,000 --> 00:29:19,000
+then it's very hard for me to say,
+
+733
+00:29:19,000 --> 00:29:20,000
+but I can put that aside
+
+734
+00:29:20,000 --> 00:29:21,000
+and let you do what you want.
+
+735
+00:29:21,000 --> 00:29:23,000
+Because that's like me saying,
+
+736
+00:29:23,000 --> 00:29:24,000
+well, despite my beliefs,
+
+737
+00:29:24,000 --> 00:29:25,000
+I'm going to let you commit
+
+738
+00:29:25,000 --> 00:29:27,000
+what to me is murder.
+
+739
+00:29:27,000 --> 00:29:29,000
+So, I mean, that's just,
+
+740
+00:29:29,000 --> 00:29:30,000
+that's just one.
+
+741
+00:29:30,000 --> 00:29:31,000
+All right, and the analogy
+
+742
+00:29:31,000 --> 00:29:33,000
+in the same-sex marriage case is
+
+743
+00:29:33,000 --> 00:29:37,000
+you said you're a defender of same-sex marriage.
+
+744
+00:29:37,000 --> 00:29:38,000
+Yes.
+
+745
+00:29:38,000 --> 00:29:40,000
+But you only came to that view
+
+746
+00:29:40,000 --> 00:29:44,000
+once you were persuaded
+
+747
+00:29:44,000 --> 00:29:46,000
+on the underlying moral question.
+
+748
+00:29:46,000 --> 00:29:48,000
+Right. Well, I think particularly in the US,
+
+749
+00:29:48,000 --> 00:29:50,000
+so many people's beliefs are driven
+
+750
+00:29:50,000 --> 00:29:52,000
+by their religious beliefs.
+
+751
+00:29:52,000 --> 00:29:53,000
+And like Mark the other day,
+
+752
+00:29:53,000 --> 00:29:55,000
+I'm Christian, I'm Catholic,
+
+753
+00:29:55,000 --> 00:29:57,000
+and I had to decide for myself
+
+754
+00:29:57,000 --> 00:29:58,000
+like on a lot of thought,
+
+755
+00:29:58,000 --> 00:29:59,000
+a lot of prayer,
+
+756
+00:29:59,000 --> 00:30:01,000
+a lot of conversations with other people
+
+757
+00:30:01,000 --> 00:30:03,000
+that I disagreed with the Catholic standpoint
+
+758
+00:30:03,000 --> 00:30:05,000
+that homosexuality itself isn't a sin.
+
+759
+00:30:05,000 --> 00:30:08,000
+And once I came to that sort of conclusion
+
+760
+00:30:08,000 --> 00:30:10,000
+in my personal relationship with God,
+
+761
+00:30:10,000 --> 00:30:12,000
+like, I mean, that sounds hokey, right?
+
+762
+00:30:12,000 --> 00:30:13,000
+That's like, oh, religious.
+
+763
+00:30:13,000 --> 00:30:14,000
+But a lot of people are religious
+
+764
+00:30:14,000 --> 00:30:15,000
+and that's where they draw their beliefs
+
+765
+00:30:15,000 --> 00:30:17,000
+and their views from.
+
+766
+00:30:17,000 --> 00:30:18,000
+That's when I could say,
+
+767
+00:30:18,000 --> 00:30:20,000
+yeah, I'm down with the state saying,
+
+768
+00:30:20,000 --> 00:30:23,000
+go same-sex marriage because I'm okay with that.
+
+769
+00:30:23,000 --> 00:30:25,000
+And I think that's morally okay.
+
+770
+00:30:25,000 --> 00:30:27,000
+Good. Thank you.
+
+771
+00:30:27,000 --> 00:30:30,000
+Now, who would like to reply,
+
+772
+00:30:30,000 --> 00:30:34,000
+if you can perhaps hang on there for a moment,
+
+773
+00:30:34,000 --> 00:30:39,000
+who would like to reply to Andrea's idea
+
+774
+00:30:39,000 --> 00:30:41,000
+that in order to decide the question
+
+775
+00:30:41,000 --> 00:30:43,000
+of same-sex marriage,
+
+776
+00:30:43,000 --> 00:30:46,000
+it's necessary to sort out the question
+
+777
+00:30:46,000 --> 00:30:50,000
+about the moral status of homosexuality
+
+778
+00:30:50,000 --> 00:30:54,000
+and figuring out the purpose, the telos,
+
+779
+00:30:54,000 --> 00:30:56,000
+the proper end of marriage.
+
+780
+00:30:56,000 --> 00:31:03,000
+Who disagrees with Andrea on that point?
+
+781
+00:31:03,000 --> 00:31:04,000
+Yes.
+
+782
+00:31:04,000 --> 00:31:06,000
+Well, I think you absolutely can separate
+
+783
+00:31:06,000 --> 00:31:08,000
+your moral opinion
+
+784
+00:31:08,000 --> 00:31:10,000
+and what you think the law should be.
+
+785
+00:31:10,000 --> 00:31:13,000
+For example, I think abortion
+
+786
+00:31:13,000 --> 00:31:17,000
+is unequivocally morally wrong,
+
+787
+00:31:17,000 --> 00:31:19,000
+but I do not believe that illegalizing abortion
+
+788
+00:31:19,000 --> 00:31:21,000
+makes it go away.
+
+789
+00:31:21,000 --> 00:31:23,000
+I don't believe illegalizing abortion stops it,
+
+790
+00:31:23,000 --> 00:31:25,000
+and therefore I am pro-choice,
+
+791
+00:31:25,000 --> 00:31:27,000
+and I do believe the woman should have the choice
+
+792
+00:31:27,000 --> 00:31:29,000
+as it gives them more safety,
+
+793
+00:31:29,000 --> 00:31:32,000
+just as maybe morally,
+
+794
+00:31:32,000 --> 00:31:34,000
+I don't want to get married to a man,
+
+795
+00:31:34,000 --> 00:31:37,000
+but I'm not going to try to, you know,
+
+796
+00:31:37,000 --> 00:31:39,000
+impede someone else's freedom
+
+797
+00:31:39,000 --> 00:31:41,000
+to do what they wish to do
+
+798
+00:31:41,000 --> 00:31:43,000
+in terms of the law.
+
+799
+00:31:43,000 --> 00:31:45,000
+Andrea?
+
+800
+00:31:45,000 --> 00:31:48,000
+Whether the law makes something legal or illegal,
+
+801
+00:31:48,000 --> 00:31:52,000
+it's implicitly approving or disapproving something.
+
+802
+00:31:52,000 --> 00:31:55,000
+So if you say, like, by making abortion legal,
+
+803
+00:31:55,000 --> 00:31:57,000
+we're saying it's okay.
+
+804
+00:31:57,000 --> 00:31:59,000
+As a society, collectively, we're saying
+
+805
+00:31:59,000 --> 00:32:02,000
+it's okay with us in our society
+
+806
+00:32:02,000 --> 00:32:04,000
+to abort a fetus.
+
+807
+00:32:04,000 --> 00:32:07,000
+If we make it legal, if we make it illegal,
+
+808
+00:32:07,000 --> 00:32:09,000
+then we're saying collectively as a society,
+
+809
+00:32:09,000 --> 00:32:10,000
+it's not okay.
+
+810
+00:32:10,000 --> 00:32:12,000
+And that's why societies have different beliefs.
+
+811
+00:32:12,000 --> 00:32:13,000
+Tell us your name.
+
+812
+00:32:13,000 --> 00:32:14,000
+My name is Daniel.
+
+813
+00:32:14,000 --> 00:32:15,000
+Daniel, what do you say?
+
+814
+00:32:15,000 --> 00:32:17,000
+Are we saying collectively that it's okay?
+
+815
+00:32:17,000 --> 00:32:19,000
+Are we saying that collectively we don't want women
+
+816
+00:32:19,000 --> 00:32:21,000
+who are going to have an abortion anyway
+
+817
+00:32:21,000 --> 00:32:22,000
+to go to clinics in the side alleys
+
+818
+00:32:22,000 --> 00:32:25,000
+and have, you know, unsafe conditions?
+
+819
+00:32:25,000 --> 00:32:28,000
+All right, bring it to the same-sex marriage case.
+
+820
+00:32:28,000 --> 00:32:30,000
+Why don't you have to decide that which position
+
+821
+00:32:30,000 --> 00:32:33,000
+you're in favor of same-sex marriage, Daniel,
+
+822
+00:32:33,000 --> 00:32:34,000
+being legally permitted?
+
+823
+00:32:34,000 --> 00:32:36,000
+I think it absolutely should be legally permitted
+
+824
+00:32:36,000 --> 00:32:37,000
+because it's not something telling
+
+825
+00:32:37,000 --> 00:32:38,000
+me that I need to have,
+
+826
+00:32:38,000 --> 00:32:40,000
+I need to marry a man.
+
+827
+00:32:40,000 --> 00:32:41,000
+I absolutely don't, I don't see,
+
+828
+00:32:41,000 --> 00:32:42,500
+if two men are consenting
+
+829
+00:32:42,500 --> 00:32:44,000
+adults and want to get married,
+
+830
+00:32:44,000 --> 00:32:46,000
+I don't see how I could even object to that.
+
+831
+00:32:46,000 --> 00:32:47,000
+All right.
+
+832
+00:32:47,000 --> 00:32:48,000
+There's no harm.
+
+833
+00:32:48,000 --> 00:32:50,000
+There's no harm done either way,
+
+834
+00:32:50,000 --> 00:32:53,000
+even if it is morally wrong according to me.
+
+835
+00:32:53,000 --> 00:32:54,000
+All right.
+
+836
+00:32:54,000 --> 00:32:58,000
+Let me turn to the way the Massachusetts court
+
+837
+00:32:58,000 --> 00:33:01,000
+who made this landmark ruling in the same-sex marriage case
+
+838
+00:33:01,000 --> 00:33:04,000
+grappled with the very issue that Andrea and Dan
+
+839
+00:33:04,000 --> 00:33:07,000
+have been discussing here.
+
+840
+00:33:07,000 --> 00:33:09,000
+Thanks to both of you very much.
+
+841
+00:33:09,000 --> 00:33:10,000
+What did the courts say?
+
+842
+00:33:10,000 --> 00:33:12,000
+This was in the Goodridge case
+
+843
+00:33:12,000 --> 00:33:16,000
+which required the state of Massachusetts
+
+844
+00:33:16,000 --> 00:33:21,000
+to extend marriage to same-sex couples.
+
+845
+00:33:21,000 --> 00:33:26,000
+The court started out, well, the court was conflicted.
+
+846
+00:33:26,000 --> 00:33:28,000
+If you read that opinion carefully,
+
+847
+00:33:28,000 --> 00:33:32,000
+the court was conflicted as between the two positions
+
+848
+00:33:32,000 --> 00:33:36,000
+we've just been hearing,
+
+849
+00:33:36,000 --> 00:33:39,000
+defended by Andrea and by Dan.
+
+850
+00:33:39,000 --> 00:33:40,000
+The court begins,
+
+851
+00:33:40,000 --> 00:33:44,000
+and this is Chief Justice Margaret Marshall's opinion,
+
+852
+00:33:44,000 --> 00:33:46,000
+it begins with an attempt
+
+853
+00:33:46,000 --> 00:33:48,000
+at liberal neutrality.
+
+854
+00:33:48,000 --> 00:33:50,000
+Many people hold deep-seated religious,
+
+855
+00:33:50,000 --> 00:33:52,000
+moral, and ethical convictions
+
+856
+00:33:52,000 --> 00:33:54,000
+that marriage should be limited to the union
+
+857
+00:33:54,000 --> 00:33:56,000
+of one man and one woman
+
+858
+00:33:56,000 --> 00:33:59,000
+and that homosexual conduct is immoral.
+
+859
+00:33:59,000 --> 00:34:01,000
+Many hold equally strong religious, moral,
+
+860
+00:34:01,000 --> 00:34:02,000
+and ethical convictions
+
+861
+00:34:02,000 --> 00:34:05,000
+that same-sex couples are entitled to be married,
+
+862
+00:34:05,000 --> 00:34:08,000
+that homosexual persons should be treated no differently
+
+863
+00:34:08,000 --> 00:34:10,000
+than their heterosexual neighbors.
+
+864
+00:34:10,000 --> 00:34:11,000
+This is the court.
+
+865
+00:34:11,000 --> 00:34:15,000
+Neither view answers the question before us.
+
+866
+00:34:15,000 --> 00:34:17,000
+What is at stake is, quote,
+
+867
+00:34:17,000 --> 00:34:20,000
+respect for individual autonomy
+
+868
+00:34:20,000 --> 00:34:22,000
+and equality under law.
+
+869
+00:34:22,000 --> 00:34:26,000
+At stake is an individual freely choosing
+
+870
+00:34:26,000 --> 00:34:29,000
+the person with whom to share an exclusive commitment.
+
+871
+00:34:29,000 --> 00:34:32,000
+In other words, at issue is not
+
+872
+00:34:32,000 --> 00:34:34,000
+the moral worth of the choice
+
+873
+00:34:34,000 --> 00:34:37,000
+but the right of the individual to make it.
+
+874
+00:34:39,000 --> 00:34:42,000
+So this is the liberal neutral strand
+
+875
+00:34:42,000 --> 00:34:44,000
+in the court opinion,
+
+876
+00:34:44,000 --> 00:34:45,000
+the voluntrous strand,
+
+877
+00:34:45,000 --> 00:34:49,000
+the one that emphasizes autonomy, choice, consent.
+
+878
+00:34:52,000 --> 00:34:54,000
+But the court seemed to realize
+
+879
+00:34:54,000 --> 00:34:57,000
+that the liberal case, the neutral case,
+
+880
+00:34:57,000 --> 00:34:59,000
+for recognizing same-sex marriage
+
+881
+00:34:59,000 --> 00:35:01,000
+doesn't succeed,
+
+882
+00:35:01,000 --> 00:35:03,000
+doesn't get you all the way to that position
+
+883
+00:35:03,000 --> 00:35:05,000
+because if it were only a matter
+
+884
+00:35:05,000 --> 00:35:08,000
+of respect for individual autonomy,
+
+885
+00:35:08,000 --> 00:35:11,000
+if government were truly neutral
+
+886
+00:35:11,000 --> 00:35:13,000
+on the moral worth
+
+887
+00:35:13,000 --> 00:35:16,000
+of voluntary intimate relationships,
+
+888
+00:35:16,000 --> 00:35:21,000
+then it should adopt a different policy,
+
+889
+00:35:21,000 --> 00:35:24,000
+which is to remove government
+
+890
+00:35:24,000 --> 00:35:27,000
+and the state altogether
+
+891
+00:35:27,000 --> 00:35:30,000
+from according recognition
+
+892
+00:35:30,000 --> 00:35:32,000
+to certain associations,
+
+893
+00:35:32,000 --> 00:35:34,000
+certain kinds of unions,
+
+894
+00:35:34,000 --> 00:35:36,000
+rather than others.
+
+895
+00:35:36,000 --> 00:35:39,000
+If government really must be neutral,
+
+896
+00:35:39,000 --> 00:35:43,000
+then the consistent position,
+
+897
+00:35:43,000 --> 00:35:45,000
+is what we here have been describing
+
+898
+00:35:45,000 --> 00:35:47,000
+as the third position,
+
+899
+00:35:47,000 --> 00:35:49,000
+the one defended in the article
+
+900
+00:35:49,000 --> 00:35:50,000
+by Michael Kinsley,
+
+901
+00:35:50,000 --> 00:35:54,000
+who argues for the abolition of marriage
+
+902
+00:35:54,000 --> 00:35:56,000
+at least as a state function.
+
+903
+00:35:56,000 --> 00:35:58,000
+Perhaps a better term for this
+
+904
+00:35:58,000 --> 00:36:01,000
+is the disestablishment of religion.
+
+905
+00:36:01,000 --> 00:36:04,000
+This is Kinsley's proposal.
+
+906
+00:36:04,000 --> 00:36:07,000
+He points out that the reason
+
+907
+00:36:07,000 --> 00:36:11,000
+for the opposition to same-sex marriage
+
+908
+00:36:11,000 --> 00:36:13,000
+is that it would go beyond
+
+909
+00:36:13,000 --> 00:36:15,000
+neutral toleration
+
+910
+00:36:15,000 --> 00:36:17,000
+and give same-sex marriage
+
+911
+00:36:17,000 --> 00:36:19,000
+a government stamp of approval.
+
+912
+00:36:19,000 --> 00:36:21,000
+That's at the heart of the dispute.
+
+913
+00:36:21,000 --> 00:36:24,000
+In Aristotle's terms,
+
+914
+00:36:24,000 --> 00:36:26,000
+at issue here is the proper distribution
+
+915
+00:36:26,000 --> 00:36:28,000
+of offices and honors,
+
+916
+00:36:28,000 --> 00:36:31,000
+a matter of social recognition.
+
+917
+00:36:31,000 --> 00:36:35,000
+Same-sex marriage can't be justified
+
+918
+00:36:35,000 --> 00:36:37,000
+on the basis of liberal neutrality
+
+919
+00:36:37,000 --> 00:36:38,000
+or nondiscrimination
+
+920
+00:36:38,000 --> 00:36:40,000
+or autonomy rights alone,
+
+921
+00:36:40,000 --> 00:36:42,000
+because the question at stake
+
+922
+00:36:42,000 --> 00:36:44,000
+in the public debate
+
+923
+00:36:44,000 --> 00:36:45,000
+is whether same-sex unions
+
+924
+00:36:45,000 --> 00:36:46,000
+have moral worth,
+
+925
+00:36:46,000 --> 00:36:48,000
+whether they're worthy of honor
+
+926
+00:36:48,000 --> 00:36:49,000
+and recognition,
+
+927
+00:36:49,000 --> 00:36:51,000
+and whether they fit the purpose
+
+928
+00:36:51,000 --> 00:36:55,000
+of the social institution of marriage.
+
+929
+00:36:55,000 --> 00:36:57,000
+So, Kinsley says,
+
+930
+00:36:57,000 --> 00:36:59,000
+you want to be neutral?
+
+931
+00:36:59,000 --> 00:37:01,000
+Then let churches
+
+932
+00:37:01,000 --> 00:37:03,000
+and other religious institutions
+
+933
+00:37:03,000 --> 00:37:05,000
+offer marriage ceremonies.
+
+934
+00:37:05,000 --> 00:37:08,000
+Let department stores and casinos
+
+935
+00:37:08,000 --> 00:37:10,000
+get into the act if they want to.
+
+936
+00:37:10,000 --> 00:37:11,000
+This is Kinsley.
+
+937
+00:37:11,000 --> 00:37:13,000
+Let couples celebrate their union
+
+938
+00:37:13,000 --> 00:37:15,000
+in any way they choose
+
+939
+00:37:15,000 --> 00:37:17,000
+and consider themselves married
+
+940
+00:37:17,000 --> 00:37:19,000
+whenever they want.
+
+941
+00:37:19,000 --> 00:37:21,000
+And if three people want to get married,
+
+942
+00:37:21,000 --> 00:37:24,000
+or if one person wants to marry
+
+943
+00:37:24,000 --> 00:37:27,000
+himself or herself,
+
+944
+00:37:27,000 --> 00:37:28,000
+and someone else wants to conduct
+
+945
+00:37:28,000 --> 00:37:29,000
+a ceremony for them
+
+946
+00:37:29,000 --> 00:37:31,000
+and declare them married,
+
+947
+00:37:31,000 --> 00:37:32,000
+let them.
+
+948
+00:37:32,000 --> 00:37:33,000
+If you and your government
+
+949
+00:37:33,000 --> 00:37:34,000
+are implicated,
+
+950
+00:37:34,000 --> 00:37:35,000
+why do you care?
+
+951
+00:37:35,000 --> 00:37:37,000
+This is Kinsley.
+
+952
+00:37:37,000 --> 00:37:40,000
+But this is not the position
+
+953
+00:37:40,000 --> 00:37:42,000
+that the Supreme Judicial Court
+
+954
+00:37:42,000 --> 00:37:44,000
+of Massachusetts wanted.
+
+955
+00:37:44,000 --> 00:37:46,000
+They didn't call for the abolition
+
+956
+00:37:46,000 --> 00:37:49,000
+or for the disestablishment of marriage.
+
+957
+00:37:49,000 --> 00:37:51,000
+The court did not question
+
+958
+00:37:51,000 --> 00:37:53,000
+government's role in conferring
+
+959
+00:37:53,000 --> 00:37:54,000
+social recognition
+
+960
+00:37:54,000 --> 00:37:56,000
+on some intimate associations
+
+961
+00:37:56,000 --> 00:37:57,000
+rather than others.
+
+962
+00:37:57,000 --> 00:37:59,000
+To the contrary,
+
+963
+00:37:59,000 --> 00:38:01,000
+the court waxes eloquent
+
+964
+00:38:01,000 --> 00:38:04,000
+about marriage as, quote,
+
+965
+00:38:04,000 --> 00:38:06,000
+one of our community's most rewarding
+
+966
+00:38:06,000 --> 00:38:08,000
+and cherished institutions.
+
+967
+00:38:08,000 --> 00:38:09,000
+And then it goes on
+
+968
+00:38:09,000 --> 00:38:11,000
+to expand the definition of marriage
+
+969
+00:38:11,000 --> 00:38:14,000
+to include partners of the same sex.
+
+970
+00:38:14,000 --> 00:38:16,000
+And in doing so,
+
+971
+00:38:16,000 --> 00:38:19,000
+it acknowledges that marriage
+
+972
+00:38:19,000 --> 00:38:22,000
+is more than a matter
+
+973
+00:38:22,000 --> 00:38:23,000
+of tolerating choices
+
+974
+00:38:23,000 --> 00:38:25,000
+that individuals make.
+
+975
+00:38:25,000 --> 00:38:27,000
+It's also a matter
+
+976
+00:38:27,000 --> 00:38:31,000
+of social recognition and honor.
+
+977
+00:38:31,000 --> 00:38:33,000
+As Justice Marshall wrote,
+
+978
+00:38:33,000 --> 00:38:34,000
+in a real sense,
+
+979
+00:38:34,000 --> 00:38:35,000
+there are three partners
+
+980
+00:38:35,000 --> 00:38:37,000
+to every civil marriage,
+
+981
+00:38:37,000 --> 00:38:39,000
+two willing spouses,
+
+982
+00:38:39,000 --> 00:38:42,000
+and an approving state.
+
+983
+00:38:42,000 --> 00:38:43,000
+Marriage is at once
+
+984
+00:38:43,000 --> 00:38:45,000
+a deeply personal commitment,
+
+985
+00:38:45,000 --> 00:38:47,000
+but also a highly public celebration
+
+986
+00:38:47,000 --> 00:38:49,000
+of the ideals of mutuality,
+
+987
+00:38:49,000 --> 00:38:53,000
+companionship, intimacy, fidelity, and family.
+
+988
+00:38:53,000 --> 00:38:55,000
+This is the court.
+
+989
+00:38:55,000 --> 00:38:57,000
+Now, this is reaching well beyond
+
+990
+00:38:57,000 --> 00:38:59,000
+liberal neutrality.
+
+991
+00:38:59,000 --> 00:39:01,000
+This is celebrating and affirming
+
+992
+00:39:01,000 --> 00:39:03,000
+marriage as an honorific,
+
+993
+00:39:03,000 --> 00:39:07,000
+as a form of public recognition.
+
+994
+00:39:07,000 --> 00:39:08,000
+And therefore, the court found
+
+995
+00:39:08,000 --> 00:39:11,000
+that it couldn't avoid the debate
+
+996
+00:39:11,000 --> 00:39:14,000
+about the telos of marriage.
+
+997
+00:39:14,000 --> 00:39:16,000
+Justice Marshall's opinion
+
+998
+00:39:16,000 --> 00:39:19,000
+considers and rejects the notion
+
+999
+00:39:19,000 --> 00:39:21,000
+that the primary purpose of marriage
+
+1000
+00:39:21,000 --> 00:39:23,000
+is procreation.
+
+1001
+00:39:23,000 --> 00:39:25,000
+She points out that there's no requirement
+
+1002
+00:39:25,000 --> 00:39:27,000
+that applicants for a marriage license
+
+1003
+00:39:27,000 --> 00:39:30,000
+who are heterosexuals attest to their ability
+
+1004
+00:39:30,000 --> 00:39:32,000
+or their intention to conceive children.
+
+1005
+00:39:32,000 --> 00:39:35,000
+Fertility is not a condition of marriage.
+
+1006
+00:39:35,000 --> 00:39:37,000
+People who cannot stir from their deathbed,
+
+1007
+00:39:37,000 --> 00:39:39,000
+may marry.
+
+1008
+00:39:39,000 --> 00:39:41,000
+So she advances all kinds of arguments
+
+1009
+00:39:41,000 --> 00:39:45,000
+along the lines that we began last time
+
+1010
+00:39:45,000 --> 00:39:48,000
+about what the proper and the essential nature
+
+1011
+00:39:48,000 --> 00:39:50,000
+of the telos of marriage is.
+
+1012
+00:39:50,000 --> 00:39:51,000
+And she concludes,
+
+1013
+00:39:51,000 --> 00:39:53,000
+not procreation,
+
+1014
+00:39:53,000 --> 00:39:55,000
+but the exclusive and permanent commitment
+
+1015
+00:39:55,000 --> 00:39:58,000
+of the partners to one another
+
+1016
+00:39:58,000 --> 00:40:04,000
+is the essential point and purpose of marriage.
+
+1017
+00:40:04,000 --> 00:40:06,000
+Now, nothing I've said
+
+1018
+00:40:06,000 --> 00:40:11,000
+about this court opinion
+
+1019
+00:40:11,000 --> 00:40:15,000
+is an argument for or against same-sex marriage,
+
+1020
+00:40:15,000 --> 00:40:18,000
+but it is an argument against the claim
+
+1021
+00:40:18,000 --> 00:40:22,000
+that you can favor or oppose same-sex marriage
+
+1022
+00:40:22,000 --> 00:40:24,000
+while remaining neutral
+
+1023
+00:40:24,000 --> 00:40:28,000
+on the underlying moral and religious questions.
+
+1024
+00:40:28,000 --> 00:40:31,000
+So all of this is to suggest
+
+1025
+00:40:31,000 --> 00:40:34,000
+that at least in some
+
+1026
+00:40:34,000 --> 00:40:36,000
+of the hotly contested
+
+1027
+00:40:36,000 --> 00:40:38,000
+debates about justice and rights
+
+1028
+00:40:38,000 --> 00:40:41,000
+that we have in our society,
+
+1029
+00:40:41,000 --> 00:40:43,000
+the attempt to be neutral,
+
+1030
+00:40:43,000 --> 00:40:45,000
+the attempt to say
+
+1031
+00:40:45,000 --> 00:40:47,000
+it's just a matter of consent
+
+1032
+00:40:47,000 --> 00:40:49,000
+and choice and autonomy,
+
+1033
+00:40:49,000 --> 00:40:51,000
+we take no stand,
+
+1034
+00:40:51,000 --> 00:40:53,000
+that doesn't succeed.
+
+1035
+00:40:53,000 --> 00:40:54,000
+Even the court,
+
+1036
+00:40:54,000 --> 00:40:56,000
+which wants to be neutral
+
+1037
+00:40:56,000 --> 00:40:58,000
+on these moral and religious disputes,
+
+1038
+00:40:58,000 --> 00:41:01,000
+finds that it can't.
+
+1039
+00:41:01,000 --> 00:41:05,000
+What then about our second question?
+
+1040
+00:41:05,000 --> 00:41:08,000
+If reasoning about the good
+
+1041
+00:41:08,000 --> 00:41:11,000
+is unavoidable
+
+1042
+00:41:11,000 --> 00:41:15,000
+in debates about justice and rights,
+
+1043
+00:41:15,000 --> 00:41:18,000
+is it possible?
+
+1044
+00:41:18,000 --> 00:41:21,000
+If reasoning about the good
+
+1045
+00:41:21,000 --> 00:41:23,000
+means that you must have
+
+1046
+00:41:23,000 --> 00:41:25,000
+a single principle or rule
+
+1047
+00:41:25,000 --> 00:41:27,000
+or maxim
+
+1048
+00:41:27,000 --> 00:41:29,000
+or criterion
+
+1049
+00:41:29,000 --> 00:41:32,000
+for the good life,
+
+1050
+00:41:32,000 --> 00:41:33,000
+that you simply plug in
+
+1051
+00:41:33,000 --> 00:41:34,000
+every time you have
+
+1052
+00:41:34,000 --> 00:41:36,000
+a disagreement about morality,
+
+1053
+00:41:36,000 --> 00:41:40,000
+then the answer is no.
+
+1054
+00:41:40,000 --> 00:41:44,000
+But having a single principle or rule
+
+1055
+00:41:44,000 --> 00:41:46,000
+is not the only way,
+
+1056
+00:41:46,000 --> 00:41:48,000
+not the best way
+
+1057
+00:41:48,000 --> 00:41:50,000
+of reasoning
+
+1058
+00:41:50,000 --> 00:41:52,000
+either about the good life
+
+1059
+00:41:52,000 --> 00:41:54,000
+or about justice.
+
+1060
+00:41:54,000 --> 00:41:56,000
+Think back,
+
+1061
+00:41:56,000 --> 00:41:58,000
+think back to the arguments
+
+1062
+00:41:58,000 --> 00:42:00,000
+that we've been having here
+
+1063
+00:42:00,000 --> 00:42:03,000
+about justice and about rights
+
+1064
+00:42:03,000 --> 00:42:06,000
+and sometimes about the good life.
+
+1065
+00:42:06,000 --> 00:42:09,000
+How have those arguments proceeded?
+
+1066
+00:42:09,000 --> 00:42:11,000
+They've proceeded
+
+1067
+00:42:11,000 --> 00:42:15,000
+very much in the way
+
+1068
+00:42:15,000 --> 00:42:18,000
+that Aristotle suggests,
+
+1069
+00:42:18,000 --> 00:42:20,000
+moving back and forth
+
+1070
+00:42:20,000 --> 00:42:23,000
+between our judgments about particulars,
+
+1071
+00:42:23,000 --> 00:42:27,000
+particular cases, events, stories, questions,
+
+1072
+00:42:27,000 --> 00:42:29,000
+back and forth between our judgments
+
+1073
+00:42:29,000 --> 00:42:31,000
+about particular cases
+
+1074
+00:42:31,000 --> 00:42:33,000
+and more general principles
+
+1075
+00:42:33,000 --> 00:42:35,000
+that make sense of our reasons
+
+1076
+00:42:35,000 --> 00:42:36,000
+for the positions we take
+
+1077
+00:42:36,000 --> 00:42:38,000
+on the particular cases.
+
+1078
+00:42:38,000 --> 00:42:42,000
+This dialectical way
+
+1079
+00:42:42,000 --> 00:42:44,000
+of doing moral reasoning
+
+1080
+00:42:44,000 --> 00:42:46,000
+goes back to the ancients,
+
+1081
+00:42:46,000 --> 00:42:48,000
+to Plato and Aristotle,
+
+1082
+00:42:48,000 --> 00:42:51,000
+but it doesn't stop with them
+
+1083
+00:42:51,000 --> 00:42:53,000
+because there is a version
+
+1084
+00:42:53,000 --> 00:42:56,000
+of Socratic or dialectical moral reasoning
+
+1085
+00:42:56,000 --> 00:42:58,000
+that is defended
+
+1086
+00:42:58,000 --> 00:43:01,000
+with great clarity and force
+
+1087
+00:43:01,000 --> 00:43:02,000
+by John Rawls.
+
+1088
+00:43:03,000 --> 00:43:05,000
+In giving an account
+
+1089
+00:43:05,000 --> 00:43:08,000
+of his method of justifying
+
+1090
+00:43:08,000 --> 00:43:10,000
+a theory of justice.
+
+1091
+00:43:10,000 --> 00:43:11,000
+You remember,
+
+1092
+00:43:11,000 --> 00:43:13,000
+it's not only the veil of ignorance
+
+1093
+00:43:13,000 --> 00:43:14,000
+and the principles
+
+1094
+00:43:14,000 --> 00:43:16,000
+that Rawls argues for.
+
+1095
+00:43:16,000 --> 00:43:20,000
+It's also a method of moral reasoning,
+
+1096
+00:43:20,000 --> 00:43:22,000
+reasoning about justice,
+
+1097
+00:43:22,000 --> 00:43:25,000
+that he calls reflective equilibrium.
+
+1098
+00:43:25,000 --> 00:43:26,000
+What is the method
+
+1099
+00:43:26,000 --> 00:43:28,000
+of reflective equilibrium?
+
+1100
+00:43:28,000 --> 00:43:31,000
+It's moving back and forth
+
+1101
+00:43:31,000 --> 00:43:33,000
+between our consistent
+
+1102
+00:43:33,000 --> 00:43:35,000
+and consistent judgments
+
+1103
+00:43:35,000 --> 00:43:37,000
+and our consistent judgments.
+
+1104
+00:43:37,000 --> 00:43:39,000
+So, in the case of the law of law,
+
+1105
+00:43:39,000 --> 00:43:40,000
+we consider judgments
+
+1106
+00:43:40,000 --> 00:43:42,000
+about particular cases
+
+1107
+00:43:42,000 --> 00:43:44,000
+and the general principles
+
+1108
+00:43:44,000 --> 00:43:46,000
+we would articulate
+
+1109
+00:43:46,000 --> 00:43:48,000
+to make sense of those judgments.
+
+1110
+00:43:48,000 --> 00:43:50,000
+And not just stopping there,
+
+1111
+00:43:50,000 --> 00:43:51,000
+because we might be wrong
+
+1112
+00:43:51,000 --> 00:43:53,000
+in our initial intuitions.
+
+1113
+00:43:53,000 --> 00:43:54,000
+Not stopping there,
+
+1114
+00:43:54,000 --> 00:43:56,000
+but then sometimes revising
+
+1115
+00:43:56,000 --> 00:43:58,000
+our particular judgments
+
+1116
+00:43:58,000 --> 00:44:00,000
+in the light of the principles
+
+1117
+00:44:00,000 --> 00:44:02,000
+once we work them out.
+
+1118
+00:44:02,000 --> 00:44:04,000
+And in particular cases.
+
+1119
+00:44:04,000 --> 00:44:06,000
+The general point is this,
+
+1120
+00:44:06,000 --> 00:44:08,000
+and here I quote Rawls,
+
+1121
+00:44:08,000 --> 00:44:10,000
+a conception of justice
+
+1122
+00:44:10,000 --> 00:44:11,000
+can't be deduced
+
+1123
+00:44:11,000 --> 00:44:14,000
+from self-evident premises.
+
+1124
+00:44:14,000 --> 00:44:15,000
+It's justification
+
+1125
+00:44:15,000 --> 00:44:17,000
+is a matter of the mutual support
+
+1126
+00:44:17,000 --> 00:44:19,000
+of many considerations,
+
+1127
+00:44:19,000 --> 00:44:21,000
+of everything fitting together
+
+1128
+00:44:21,000 --> 00:44:25,000
+into one coherent view.
+
+1129
+00:44:25,000 --> 00:44:26,000
+And later in a theory of justice,
+
+1130
+00:44:26,000 --> 00:44:27,000
+he writes,
+
+1131
+00:44:27,000 --> 00:44:30,000
+moral philosophy is Socratic.
+
+1132
+00:44:30,000 --> 00:44:31,000
+We may want to change
+
+1133
+00:44:31,000 --> 00:44:33,000
+our present considered judgments
+
+1134
+00:44:33,000 --> 00:44:36,000
+once their regulative principles
+
+1135
+00:44:36,000 --> 00:44:38,000
+are brought to light.
+
+1136
+00:44:38,000 --> 00:44:42,000
+Well, if Rawls accepts that idea
+
+1137
+00:44:42,000 --> 00:44:45,000
+and advances that notion
+
+1138
+00:44:45,000 --> 00:44:46,000
+of reflective equilibrium,
+
+1139
+00:44:46,000 --> 00:44:49,000
+the question we're left with is,
+
+1140
+00:44:49,000 --> 00:44:51,000
+he applies that
+
+1141
+00:44:51,000 --> 00:44:53,000
+to questions of justice.
+
+1142
+00:44:53,000 --> 00:44:57,000
+Not to questions of morality
+
+1143
+00:44:57,000 --> 00:44:59,000
+and the good life.
+
+1144
+00:44:59,000 --> 00:45:01,000
+But, and that's why
+
+1145
+00:45:01,000 --> 00:45:03,000
+he remains committed
+
+1146
+00:45:03,000 --> 00:45:04,000
+to the priority
+
+1147
+00:45:04,000 --> 00:45:06,000
+of the right over the good.
+
+1148
+00:45:06,000 --> 00:45:07,000
+He thinks the method
+
+1149
+00:45:07,000 --> 00:45:09,000
+of reflective equilibrium
+
+1150
+00:45:09,000 --> 00:45:12,000
+can generate shared judgments
+
+1151
+00:45:12,000 --> 00:45:14,000
+about justice and the right,
+
+1152
+00:45:14,000 --> 00:45:16,000
+but he doesn't think
+
+1153
+00:45:16,000 --> 00:45:18,000
+they can generate shared judgments
+
+1154
+00:45:18,000 --> 00:45:20,000
+about the good life,
+
+1155
+00:45:20,000 --> 00:45:22,000
+about what he calls comprehensive
+
+1156
+00:45:22,000 --> 00:45:25,000
+moral and religious questions.
+
+1157
+00:45:25,000 --> 00:45:27,000
+And the reason he thinks that
+
+1158
+00:45:27,000 --> 00:45:28,000
+is that he says that
+
+1159
+00:45:28,000 --> 00:45:30,000
+in modern societies
+
+1160
+00:45:30,000 --> 00:45:32,000
+there is a fact of reasonable
+
+1161
+00:45:32,000 --> 00:45:35,000
+pluralism about the good.
+
+1162
+00:45:35,000 --> 00:45:37,000
+Even conscientious people
+
+1163
+00:45:37,000 --> 00:45:39,000
+who reason well
+
+1164
+00:45:39,000 --> 00:45:41,000
+will find that they disagree
+
+1165
+00:45:41,000 --> 00:45:44,000
+about questions of the good life,
+
+1166
+00:45:44,000 --> 00:45:47,000
+about morality and religion.
+
+1167
+00:45:47,000 --> 00:45:50,000
+And Rawls is likely
+
+1168
+00:45:50,000 --> 00:45:51,000
+right about that.
+
+1169
+00:45:51,000 --> 00:45:52,000
+He's not talking about
+
+1170
+00:45:52,000 --> 00:45:54,000
+the fact of disagreement
+
+1171
+00:45:54,000 --> 00:45:56,000
+in pluralist societies.
+
+1172
+00:45:56,000 --> 00:45:58,000
+He's also suggesting
+
+1173
+00:45:58,000 --> 00:45:59,000
+that there may be persisting,
+
+1174
+00:45:59,000 --> 00:46:01,000
+disagreeing,
+
+1175
+00:46:01,000 --> 00:46:02,000
+disagreements
+
+1176
+00:46:02,000 --> 00:46:04,000
+about the good life
+
+1177
+00:46:04,000 --> 00:46:05,000
+and about moral
+
+1178
+00:46:05,000 --> 00:46:08,000
+and religious questions.
+
+1179
+00:46:08,000 --> 00:46:11,000
+But if that's true,
+
+1180
+00:46:11,000 --> 00:46:14,000
+then is he warranted
+
+1181
+00:46:14,000 --> 00:46:17,000
+in his further claim
+
+1182
+00:46:17,000 --> 00:46:19,000
+that the same can't be said
+
+1183
+00:46:19,000 --> 00:46:21,000
+about justice?
+
+1184
+00:46:21,000 --> 00:46:23,000
+Isn't it also true
+
+1185
+00:46:23,000 --> 00:46:24,000
+not only that we,
+
+1186
+00:46:24,000 --> 00:46:25,000
+as a matter of fact,
+
+1187
+00:46:25,000 --> 00:46:27,000
+disagree about justice
+
+1188
+00:46:27,000 --> 00:46:29,000
+in pluralist societies,
+
+1189
+00:46:29,000 --> 00:46:30,000
+but that at least
+
+1190
+00:46:30,000 --> 00:46:31,000
+some of those disagreements
+
+1191
+00:46:31,000 --> 00:46:35,000
+are reasonable disagreements
+
+1192
+00:46:35,000 --> 00:46:37,000
+in the same way?
+
+1193
+00:46:37,000 --> 00:46:39,000
+Some people favor
+
+1194
+00:46:39,000 --> 00:46:42,000
+a libertarian theory of justice.
+
+1195
+00:46:42,000 --> 00:46:43,000
+Others,
+
+1196
+00:46:43,000 --> 00:46:45,000
+a more egalitarian theory of justice.
+
+1197
+00:46:45,000 --> 00:46:47,000
+And they argue.
+
+1198
+00:46:47,000 --> 00:46:49,000
+And there is pluralism
+
+1199
+00:46:49,000 --> 00:46:50,000
+in our society
+
+1200
+00:46:50,000 --> 00:46:51,000
+as between free market,
+
+1201
+00:46:51,000 --> 00:46:52,000
+laissez-faire,
+
+1202
+00:46:52,000 --> 00:46:54,000
+libertarian theories of justice
+
+1203
+00:46:54,000 --> 00:46:57,000
+and more egalitarian ones.
+
+1204
+00:46:57,000 --> 00:46:59,000
+Is there any reason,
+
+1205
+00:46:59,000 --> 00:47:00,000
+is there any difference
+
+1206
+00:47:00,000 --> 00:47:01,000
+in principle
+
+1207
+00:47:01,000 --> 00:47:02,000
+between the kind
+
+1208
+00:47:02,000 --> 00:47:03,000
+of moral reasoning
+
+1209
+00:47:03,000 --> 00:47:05,000
+and the kind of disagreements
+
+1210
+00:47:05,000 --> 00:47:06,000
+that arise when we debate
+
+1211
+00:47:06,000 --> 00:47:08,000
+about justice
+
+1212
+00:47:08,000 --> 00:47:10,000
+and the meaning of free speech
+
+1213
+00:47:10,000 --> 00:47:11,000
+and the nature
+
+1214
+00:47:11,000 --> 00:47:13,000
+of religious liberty?
+
+1215
+00:47:13,000 --> 00:47:16,000
+Look at the debates we have
+
+1216
+00:47:16,000 --> 00:47:18,000
+over appointees
+
+1217
+00:47:18,000 --> 00:47:19,000
+to the Supreme Court.
+
+1218
+00:47:19,000 --> 00:47:21,000
+These are all disagreements
+
+1219
+00:47:21,000 --> 00:47:24,000
+about justice and rights.
+
+1220
+00:47:24,000 --> 00:47:26,000
+Is there any difference
+
+1221
+00:47:26,000 --> 00:47:27,000
+between the fact
+
+1222
+00:47:27,000 --> 00:47:29,000
+of reasonable pluralism
+
+1223
+00:47:29,000 --> 00:47:32,000
+in the case of justice and rights
+
+1224
+00:47:32,000 --> 00:47:36,000
+and in the case of morality and religion?
+
+1225
+00:47:36,000 --> 00:47:37,000
+In principle,
+
+1226
+00:47:37,000 --> 00:47:39,000
+I don't think that there is.
+
+1227
+00:47:39,000 --> 00:47:41,000
+In both cases,
+
+1228
+00:47:41,000 --> 00:47:43,000
+what we do when we disagree
+
+1229
+00:47:43,000 --> 00:47:46,000
+is we engage with our interlocutor,
+
+1230
+00:47:46,000 --> 00:47:48,000
+as we've been doing here
+
+1231
+00:47:48,000 --> 00:47:49,000
+for an entire semester.
+
+1232
+00:47:49,000 --> 00:47:51,000
+We consider the arguments
+
+1233
+00:47:51,000 --> 00:47:54,000
+that are provoked by particular cases.
+
+1234
+00:47:54,000 --> 00:47:56,000
+We try to develop the reasons
+
+1235
+00:47:56,000 --> 00:47:57,000
+that lead us to go one way
+
+1236
+00:47:57,000 --> 00:47:58,000
+rather than another.
+
+1237
+00:47:58,000 --> 00:47:59,000
+And then we listen
+
+1238
+00:47:59,000 --> 00:48:01,000
+to the reasons of other people.
+
+1239
+00:48:01,000 --> 00:48:03,000
+And sometimes we're persuaded
+
+1240
+00:48:03,000 --> 00:48:05,000
+to revise our view.
+
+1241
+00:48:05,000 --> 00:48:06,000
+Other times we're challenged
+
+1242
+00:48:06,000 --> 00:48:08,000
+at least to shore up
+
+1243
+00:48:08,000 --> 00:48:13,000
+and strengthen our view.
+
+1244
+00:48:13,000 --> 00:48:17,000
+But this is how moral argument proceeds,
+
+1245
+00:48:17,000 --> 00:48:18,000
+with justice,
+
+1246
+00:48:18,000 --> 00:48:21,000
+and so it seems to me also,
+
+1247
+00:48:21,000 --> 00:48:25,000
+with questions of the good life.
+
+1248
+00:48:25,000 --> 00:48:28,000
+Now, there remains a question
+
+1249
+00:48:28,000 --> 00:48:31,000
+of what is the moral argument?
+
+1250
+00:48:31,000 --> 00:48:34,000
+And it's a further worry,
+
+1251
+00:48:34,000 --> 00:48:37,000
+and it's a liberal worry.
+
+1252
+00:48:37,000 --> 00:48:40,000
+What about if we're going to think
+
+1253
+00:48:40,000 --> 00:48:41,000
+of our disagreements
+
+1254
+00:48:41,000 --> 00:48:44,000
+about morality and religion
+
+1255
+00:48:44,000 --> 00:48:46,000
+as bound up with our disagreements
+
+1256
+00:48:46,000 --> 00:48:47,000
+about justice?
+
+1257
+00:48:47,000 --> 00:48:49,000
+How are we ever going to find
+
+1258
+00:48:49,000 --> 00:48:52,000
+our way to a society
+
+1259
+00:48:52,000 --> 00:48:56,000
+that accords respect
+
+1260
+00:48:56,000 --> 00:48:57,000
+to fellow citizens
+
+1261
+00:48:57,000 --> 00:49:00,000
+and to the people we love?
+
+1262
+00:49:00,000 --> 00:49:02,000
+It depends, I think,
+
+1263
+00:49:02,000 --> 00:49:04,000
+on which conception
+
+1264
+00:49:04,000 --> 00:49:08,000
+of respect one accepts.
+
+1265
+00:49:08,000 --> 00:49:10,000
+On the liberal conception,
+
+1266
+00:49:10,000 --> 00:49:12,000
+to respect our fellow citizens'
+
+1267
+00:49:12,000 --> 00:49:15,000
+moral and religious convictions
+
+1268
+00:49:15,000 --> 00:49:16,000
+is, so to speak,
+
+1269
+00:49:16,000 --> 00:49:17,000
+to ignore them
+
+1270
+00:49:17,000 --> 00:49:19,000
+for political purposes,
+
+1271
+00:49:19,000 --> 00:49:21,000
+to rise above or abstract from
+
+1272
+00:49:21,000 --> 00:49:23,000
+or to set aside
+
+1273
+00:49:23,000 --> 00:49:25,000
+those moral and religious convictions,
+
+1274
+00:49:25,000 --> 00:49:27,000
+to leave them undisturbed,
+
+1275
+00:49:27,000 --> 00:49:29,000
+or to carry on our political debate
+
+1276
+00:49:29,000 --> 00:49:31,000
+without reference to them.
+
+1277
+00:49:31,000 --> 00:49:34,000
+But that isn't the only way,
+
+1278
+00:49:34,000 --> 00:49:38,000
+or perhaps even the most plausible way
+
+1279
+00:49:38,000 --> 00:49:42,000
+of understanding the mutual respect
+
+1280
+00:49:42,000 --> 00:49:46,000
+on which democratic life depends.
+
+1281
+00:49:46,000 --> 00:49:48,000
+There is a different conception
+
+1282
+00:49:48,000 --> 00:49:49,000
+of respect,
+
+1283
+00:49:49,000 --> 00:49:51,000
+according to which we respect
+
+1284
+00:49:51,000 --> 00:49:53,000
+our fellow citizens' moral
+
+1285
+00:49:53,000 --> 00:49:55,000
+and religious convictions,
+
+1286
+00:49:55,000 --> 00:49:56,000
+not by ignoring,
+
+1287
+00:49:56,000 --> 00:49:58,000
+but by engaging them,
+
+1288
+00:49:58,000 --> 00:50:00,000
+by attending to them,
+
+1289
+00:50:00,000 --> 00:50:02,000
+sometimes by challenging
+
+1290
+00:50:02,000 --> 00:50:04,000
+and contesting them,
+
+1291
+00:50:04,000 --> 00:50:07,000
+sometimes by listening
+
+1292
+00:50:07,000 --> 00:50:09,000
+and learning from them.
+
+1293
+00:50:09,000 --> 00:50:11,000
+Now, there is no guarantee
+
+1294
+00:50:11,000 --> 00:50:13,000
+that a politics of moral
+
+1295
+00:50:13,000 --> 00:50:15,000
+and religious attention
+
+1296
+00:50:15,000 --> 00:50:17,000
+and engagement
+
+1297
+00:50:17,000 --> 00:50:19,000
+will lead in any given case
+
+1298
+00:50:19,000 --> 00:50:21,000
+to agreement.
+
+1299
+00:50:21,000 --> 00:50:22,000
+There is no guarantee
+
+1300
+00:50:22,000 --> 00:50:24,000
+it will lead even to appreciation
+
+1301
+00:50:24,000 --> 00:50:26,000
+for the moral and religious convictions
+
+1302
+00:50:26,000 --> 00:50:27,000
+of others.
+
+1303
+00:50:27,000 --> 00:50:28,000
+It's always possible,
+
+1304
+00:50:28,000 --> 00:50:29,000
+after all,
+
+1305
+00:50:29,000 --> 00:50:31,000
+that learning more about a religious
+
+1306
+00:50:31,000 --> 00:50:32,000
+or a moral doctrine
+
+1307
+00:50:32,000 --> 00:50:36,000
+will lead us to like it less.
+
+1308
+00:50:36,000 --> 00:50:39,000
+But the respect of deliberation
+
+1309
+00:50:39,000 --> 00:50:41,000
+and engagement
+
+1310
+00:50:41,000 --> 00:50:43,000
+seems to me a more adequate,
+
+1311
+00:50:43,000 --> 00:50:44,000
+more suitable ideal
+
+1312
+00:50:44,000 --> 00:50:46,000
+for a pluralist society,
+
+1313
+00:50:46,000 --> 00:50:48,000
+and to the extent
+
+1314
+00:50:48,000 --> 00:50:50,000
+that our moral and religious disagreements
+
+1315
+00:50:50,000 --> 00:50:53,000
+reflect some ultimate plurality
+
+1316
+00:50:53,000 --> 00:50:55,000
+of human goods,
+
+1317
+00:50:55,000 --> 00:50:58,000
+a politics of moral engagement
+
+1318
+00:50:58,000 --> 00:51:00,000
+will better enable us,
+
+1319
+00:51:00,000 --> 00:51:01,000
+so it seems to me,
+
+1320
+00:51:01,000 --> 00:51:03,000
+to appreciate
+
+1321
+00:51:03,000 --> 00:51:05,000
+the distinctive goods
+
+1322
+00:51:05,000 --> 00:51:09,000
+our different lives express.
+
+1323
+00:51:09,000 --> 00:51:11,000
+When we first came together
+
+1324
+00:51:11,000 --> 00:51:14,000
+some 13 weeks ago,
+
+1325
+00:51:14,000 --> 00:51:15,000
+I spoke of the exhilaration
+
+1326
+00:51:15,000 --> 00:51:17,000
+of political philosophy
+
+1327
+00:51:17,000 --> 00:51:20,000
+and also of its dangers,
+
+1328
+00:51:20,000 --> 00:51:23,000
+about how philosophy works
+
+1329
+00:51:23,000 --> 00:51:25,000
+and has always worked
+
+1330
+00:51:25,000 --> 00:51:28,000
+by estranging us
+
+1331
+00:51:28,000 --> 00:51:30,000
+from the familiar,
+
+1332
+00:51:30,000 --> 00:51:32,000
+by unsettling
+
+1333
+00:51:32,000 --> 00:51:35,000
+our settled assumptions.
+
+1334
+00:51:35,000 --> 00:51:37,000
+And I tried to warn you
+
+1335
+00:51:37,000 --> 00:51:41,000
+that once the familiar turns strange,
+
+1336
+00:51:41,000 --> 00:51:42,000
+once we begin to reflect
+
+1337
+00:51:42,000 --> 00:51:45,000
+on our circumstance,
+
+1338
+00:51:45,000 --> 00:51:49,000
+it's never quite the same again.
+
+1339
+00:51:49,000 --> 00:51:51,000
+I hope you have by now experienced
+
+1340
+00:51:51,000 --> 00:51:54,000
+at least a little of this unease,
+
+1341
+00:51:54,000 --> 00:51:56,000
+because this is the tension
+
+1342
+00:51:56,000 --> 00:51:58,000
+that animates critical reflection
+
+1343
+00:51:58,000 --> 00:52:00,000
+and political improvement,
+
+1344
+00:52:00,000 --> 00:52:04,000
+and maybe even the moral life as well.
+
+1345
+00:52:04,000 --> 00:52:05,500
+And so our argument comes
+
+1346
+00:52:05,500 --> 00:52:07,000
+to an end in a sense,
+
+1347
+00:52:07,000 --> 00:52:10,000
+but in another sense goes on.
+
+1348
+00:52:10,000 --> 00:52:13,000
+Why, we asked at the outset,
+
+1349
+00:52:13,000 --> 00:52:16,000
+why do these arguments keep going
+
+1350
+00:52:16,000 --> 00:52:18,000
+even if they raise questions
+
+1351
+00:52:18,000 --> 00:52:22,000
+that are impossible ever finally to resolve?
+
+1352
+00:52:22,000 --> 00:52:24,000
+The reason,
+
+1353
+00:52:24,000 --> 00:52:26,000
+is that we live some answer
+
+1354
+00:52:26,000 --> 00:52:29,000
+to these questions all the time.
+
+1355
+00:52:29,000 --> 00:52:31,000
+In our public life
+
+1356
+00:52:31,000 --> 00:52:33,000
+and in our personal lives,
+
+1357
+00:52:33,000 --> 00:52:36,000
+philosophy is inescapable
+
+1358
+00:52:36,000 --> 00:52:41,000
+even if it sometimes seems impossible.
+
+1359
+00:52:41,000 --> 00:52:44,000
+We began with the thought of Kant
+
+1360
+00:52:44,000 --> 00:52:46,000
+that skepticism is a resting place
+
+1361
+00:52:46,000 --> 00:52:48,000
+for human reason,
+
+1362
+00:52:48,000 --> 00:52:49,000
+where it can reflect upon
+
+1363
+00:52:49,000 --> 00:52:52,000
+its dogmatic wanderings,
+
+1364
+00:52:52,000 --> 00:52:54,000
+but it is no dwelling place
+
+1365
+00:52:54,000 --> 00:52:57,000
+for permanent settlement.
+
+1366
+00:52:57,000 --> 00:52:59,000
+To allow ourselves simply to acquiesce
+
+1367
+00:52:59,000 --> 00:53:01,000
+in skepticism or in complacence,
+
+1368
+00:53:01,000 --> 00:53:03,000
+Kant wrote,
+
+1369
+00:53:03,000 --> 00:53:05,000
+can never suffice
+
+1370
+00:53:05,000 --> 00:53:08,000
+to overcome the restlessness of reason.
+
+1371
+00:53:08,000 --> 00:53:10,000
+The aim of this course
+
+1372
+00:53:10,000 --> 00:53:12,000
+has been to awaken
+
+1373
+00:53:12,000 --> 00:53:14,000
+the restlessness of reason
+
+1374
+00:53:14,000 --> 00:53:16,000
+and to see where it might lead.
+
+1375
+00:53:16,000 --> 00:53:19,000
+And if we have done at least that,
+
+1376
+00:53:19,000 --> 00:53:21,000
+and if the restlessness
+
+1377
+00:53:21,000 --> 00:53:23,000
+continues to afflict you
+
+1378
+00:53:23,000 --> 00:53:26,000
+in the days and years to come,
+
+1379
+00:53:26,000 --> 00:53:28,000
+then we together have achieved
+
+1380
+00:53:28,000 --> 00:53:30,000
+no small thing.
+
+1381
+00:53:30,000 --> 00:53:31,000
+Thank you.
+
+1382
+00:53:53,000 --> 00:53:54,000
+Thank you.
+
+1383
+00:54:24,000 --> 00:54:25,000
+Thank you.
+
+1384
+00:54:51,000 --> 00:54:52,000
+Funding for this program
+
+1385
+00:54:52,000 --> 00:54:55,000
+Additional funding provided by...
+

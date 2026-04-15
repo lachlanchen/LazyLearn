@@ -1,0 +1,1230 @@
+# Transcript
+
+Source: 009 - Justice： What's The Right Thing To Do？ Episode 09： ＂ARGUING AFFIRMATIVE ACTION＂ [AUhReMT5uqA].webm
+
+- [00:00:00,000 - 00:00:07,000] Funding for this program is provided by...
+- [00:00:07,000 - 00:00:10,000] Additional funding provided by...
+- [00:00:10,000 - 00:00:14,000] Junction Investment Series
+- [00:00:18,000 - 00:00:19,000] Don Deную
+- [00:00:19,000 - 00:00:20,000] Daniel Lares
+- [00:00:20,000 - 00:00:21,000] Ron Seabrook
+- [00:00:21,000 - 00:00:22,000] Quiaka
+- [00:00:27,000 - 00:00:28,000] John Carter
+- [00:00:28,000 - 00:00:33,000] Claire P ситуVELO
+- [00:00:33,000 - 00:00:34,000] Lut perfect
+- [00:00:34,000 - 00:00:39,000] Paul Priok
+- [00:00:39,000 - 00:00:40,000] Henderson
+- [00:00:40,000 - 00:00:43,260] claims of moral desert on the one hand,
+- [00:00:45,160 - 00:00:49,080] and of entitlements to legitimate expectations on the other.
+- [00:00:52,200 - 00:00:58,540] Rawls argued that it's a mistake to think
+- [00:00:58,540 - 00:01:04,400] that distributive justice is a matter of moral desert,
+- [00:01:04,400 - 00:01:10,540] a matter of rewarding people according to their virtue.
+- [00:01:12,220 - 00:01:16,840] Today we're going to explore that question of moral desert
+- [00:01:16,840 - 00:01:18,960] and its relation to distributive justice,
+- [00:01:19,320 - 00:01:21,340] not in connection with income and wealth,
+- [00:01:22,160 - 00:01:24,560] but in its connection with opportunities,
+- [00:01:25,580 - 00:01:28,160] with hiring decisions and admission standards.
+- [00:01:29,820 - 00:01:33,100] And so we turn to the case of affirmative action.
+- [00:01:34,400 - 00:01:37,860] You read about the case of Cheryl Hopwood.
+- [00:01:39,820 - 00:01:42,090] She applied for admission to
+- [00:01:42,090 - 00:01:44,360] the University of Texas Law School.
+- [00:01:47,460 - 00:01:49,440] Cheryl Hopwood had worked her way through high school.
+- [00:01:49,720 - 00:01:51,200] She didn't come from an affluent family.
+- [00:01:51,840 - 00:01:53,580] She put herself through community college
+- [00:01:53,580 - 00:01:56,780] and California State University at Sacramento.
+- [00:01:57,940 - 00:02:01,660] She achieved a 3.8 grade point average there,
+- [00:02:02,220 - 00:02:04,380] later moved to Texas, became a resident,
+- [00:02:04,400 - 00:02:08,320] took the law school admissions test,
+- [00:02:08,380 - 00:02:09,560] did pretty well on that,
+- [00:02:09,900 - 00:02:12,700] and she applied to the University of Texas Law School.
+- [00:02:14,440 - 00:02:15,920] She was turned down.
+- [00:02:17,100 - 00:02:18,620] She was turned down at a
+- [00:02:18,620 - 00:02:20,140] time when the University of Texas
+- [00:02:20,140 - 00:02:23,700] was using an affirmative action admissions policy,
+- [00:02:24,180 - 00:02:33,360] a policy that took into account race and ethnic background.
+- [00:02:33,360 - 00:02:35,360] The University of Texas said,
+- [00:02:35,360 - 00:02:39,860] 40% of the population of Texas is
+- [00:02:39,860 - 00:02:44,360] made up of African Americans and Mexican Americans.
+- [00:02:44,360 - 00:02:48,360] It's important that we, as a law school,
+- [00:02:48,360 - 00:02:52,360] have a diverse student body.
+- [00:02:52,360 - 00:02:55,360] And so we are going to take
+- [00:02:55,360 - 00:02:58,360] into account not only grades and test scores,
+- [00:02:58,360 - 00:03:02,360] but also the demographic makeup of our class,
+- [00:03:02,360 - 00:03:03,360] including our students.
+- [00:03:03,360 - 00:03:06,360] We're going to take into account race and ethnic profile.
+- [00:03:06,360 - 00:03:10,360] The result, and this is what Hopwood complained about,
+- [00:03:10,360 - 00:03:14,360] the result of that policy is that some applicants
+- [00:03:14,360 - 00:03:16,860] to the University of Texas Law
+- [00:03:16,860 - 00:03:19,360] School with a lower academic index,
+- [00:03:19,360 - 00:03:22,360] which includes grades and test scores,
+- [00:03:22,360 - 00:03:26,360] than hers were admitted, and she was turned down.
+- [00:03:28,360 - 00:03:30,360] She said, she argued, I'm just
+- [00:03:30,360 - 00:03:32,360] being turned down because I'm white.
+- [00:03:33,360 - 00:03:34,360] If I weren't, if I were
+- [00:03:34,360 - 00:03:35,360] a member of a minority group,
+- [00:03:35,360 - 00:03:36,860] with my grades and test
+- [00:03:36,860 - 00:03:38,360] scores, I would have been admitted.
+- [00:03:41,360 - 00:03:43,860] And the statistics, the admissions statistics
+- [00:03:43,860 - 00:03:46,360] that came out in the trial,
+- [00:03:46,360 - 00:03:49,360] confirmed that African American and
+- [00:03:49,360 - 00:03:52,360] Mexican American applicants that year
+- [00:03:54,360 - 00:03:59,360] who had her grades and test scores were admitted.
+- [00:04:00,360 - 00:04:02,360] It went to federal court.
+- [00:04:03,360 - 00:04:06,360] Now, put aside the law, let's consider
+- [00:04:06,360 - 00:04:09,360] it from the standpoint of justice and morality.
+- [00:04:09,360 - 00:04:12,360] Is it fair or is it unfair?
+- [00:04:12,360 - 00:04:17,360] Does Cheryl Hopwood have a case, a legitimate complaint?
+- [00:04:17,360 - 00:04:20,860] Were her rights violated by the
+- [00:04:20,860 - 00:04:24,360] admissions policy of the law school?
+- [00:04:24,360 - 00:04:26,360] How many say, how many
+- [00:04:26,360 - 00:04:28,360] would rule for the law school
+- [00:04:28,360 - 00:04:30,360] and say that it was
+- [00:04:30,360 - 00:04:32,360] just to consider race and ethnicity
+- [00:04:32,360 - 00:04:34,360] as a factor in admissions?
+- [00:04:37,360 - 00:04:39,860] How many would rule for Cheryl
+- [00:04:39,860 - 00:04:42,360] Hopwood and say her rights were violated?
+- [00:04:45,360 - 00:04:48,360] So here we have a pretty even split.
+- [00:04:48,360 - 00:04:50,360] All right, now I want to
+- [00:04:50,360 - 00:04:52,360] hear from a defender of Cheryl Hopwood.
+- [00:04:54,360 - 00:04:55,360] Yes.
+- [00:04:55,360 - 00:04:58,360] You're basing something on that's an arbitrary factor.
+- [00:04:58,360 - 00:04:59,360] You know, Cheryl couldn't control
+- [00:04:59,360 - 00:05:00,360] the fact that she was white
+- [00:05:00,360 - 00:05:02,360] or not in a minority group.
+- [00:05:02,360 - 00:05:03,360] She was a minority.
+- [00:05:03,360 - 00:05:04,860] And therefore, you know, it's not as
+- [00:05:04,860 - 00:05:06,360] if it was like a test score
+- [00:05:06,360 - 00:05:07,860] that she worked hard to try
+- [00:05:07,860 - 00:05:09,360] and show that she could, you know,
+- [00:05:09,360 - 00:05:10,860] put that out there, you know, that
+- [00:05:10,860 - 00:05:12,360] she had no control over her race.
+- [00:05:12,360 - 00:05:13,360] Good.
+- [00:05:13,360 - 00:05:14,360] And what's your name?
+- [00:05:14,360 - 00:05:15,360] Bree.
+- [00:05:15,360 - 00:05:16,360] Okay, Bree.
+- [00:05:16,360 - 00:05:17,360] Stay right there.
+- [00:05:17,360 - 00:05:21,360] Now let's find someone who has an answer for Bree.
+- [00:05:22,360 - 00:05:23,360] Yes.
+- [00:05:23,360 - 00:05:26,360] There are discrepancies in the educational system.
+- [00:05:26,360 - 00:05:27,860] And majority of the time, I
+- [00:05:27,860 - 00:05:29,360] know this in New York City,
+- [00:05:29,360 - 00:05:30,360] the schools that minorities go
+- [00:05:30,360 - 00:05:31,360] to are not as well funded.
+- [00:05:31,360 - 00:05:35,360] Are not as well supplied as white schools.
+- [00:05:35,360 - 00:05:38,360] And so there is going to be a discrepancy naturally
+- [00:05:38,360 - 00:05:40,360] between minorities and between whites
+- [00:05:40,360 - 00:05:42,360] if they go to better schools.
+- [00:05:42,360 - 00:05:43,860] And they will not do as well on
+- [00:05:43,860 - 00:05:45,360] exams because they haven't had as much help
+- [00:05:45,360 - 00:05:48,360] because of a worse school system.
+- [00:05:48,360 - 00:05:49,360] All right.
+- [00:05:49,360 - 00:05:50,360] Let me just interrupt you.
+- [00:05:50,360 - 00:05:51,360] Tell me your name.
+- [00:05:51,360 - 00:05:52,360] Anisha.
+- [00:05:52,360 - 00:05:53,360] Anisha.
+- [00:05:53,360 - 00:05:55,860] Anisha, you're pointing out that
+- [00:05:55,860 - 00:05:58,360] minority kids may have gone,
+- [00:05:58,360 - 00:06:00,360] in some cases, to a minority school.
+- [00:06:00,360 - 00:06:01,860] And that's because they didn't
+- [00:06:01,860 - 00:06:03,360] get the same educational opportunities
+- [00:06:03,360 - 00:06:04,860] to schools that didn't give
+- [00:06:04,860 - 00:06:06,360] them the same educational opportunity
+- [00:06:06,360 - 00:06:08,360] as kids from affluent families.
+- [00:06:08,360 - 00:06:09,360] Yes.
+- [00:06:09,360 - 00:06:13,360] And so the test scores they got
+- [00:06:13,360 - 00:06:17,360] may actually not represent their true potential.
+- [00:06:17,360 - 00:06:19,360] Because they didn't receive the same kind
+- [00:06:19,360 - 00:06:21,360] of help that they might have received
+- [00:06:21,360 - 00:06:23,360] had they gone to a school with better funding.
+- [00:06:23,360 - 00:06:24,360] Good.
+- [00:06:24,360 - 00:06:25,360] All right.
+- [00:06:25,360 - 00:06:26,860] Anisha has raised the point
+- [00:06:26,860 - 00:06:28,360] that colleges still should choose,
+- [00:06:28,360 - 00:06:30,360] for the greatest academic scholarly promise,
+- [00:06:30,360 - 00:06:31,860] to take into account the different
+- [00:06:31,860 - 00:06:33,360] meaning of the test scores and grades
+- [00:06:33,360 - 00:06:36,360] in the light of educational disadvantage in the background.
+- [00:06:36,360 - 00:06:38,360] But in reading the test scores and grades,
+- [00:06:38,360 - 00:06:41,360] they should take into account the different meaning
+- [00:06:41,360 - 00:06:43,360] those tests and grades have
+- [00:06:43,360 - 00:06:47,360] in the light of educational disadvantage in the background.
+- [00:06:47,360 - 00:06:50,360] So that's one argument
+- [00:06:50,360 - 00:06:51,360] in defense of affirmative action.
+- [00:06:51,360 - 00:06:52,360] Anisha's argument.
+- [00:06:52,360 - 00:06:56,360] Correcting for the effects
+- [00:06:56,360 - 00:06:58,360] of unequal preparation.
+- [00:06:58,360 - 00:07:00,360] Educational disadvantage.
+- [00:07:00,360 - 00:07:03,360] There are other arguments.
+- [00:07:03,360 - 00:07:07,360] Suppose, just to identify whether
+- [00:07:07,360 - 00:07:11,360] there is a competing principle here,
+- [00:07:11,360 - 00:07:16,360] suppose there are two candidates
+- [00:07:16,360 - 00:07:20,360] who did equally well
+- [00:07:20,360 - 00:07:22,360] on the tests and grades,
+- [00:07:22,360 - 00:07:26,360] both of whom went to first-rate schools.
+- [00:07:26,360 - 00:07:29,360] Two candidates.
+- [00:07:29,360 - 00:07:32,360] Among those candidates,
+- [00:07:32,360 - 00:07:35,360] would it be unfair
+- [00:07:35,360 - 00:07:37,360] for the college or university,
+- [00:07:37,360 - 00:07:38,360] for Harvard,
+- [00:07:38,360 - 00:07:39,360] to say,
+- [00:07:39,360 - 00:07:41,360] we still want diversity
+- [00:07:41,360 - 00:07:44,360] along racial and ethnic dimensions,
+- [00:07:44,360 - 00:07:47,360] even where we are not correcting
+- [00:07:47,360 - 00:07:49,360] for the effects
+- [00:07:49,360 - 00:07:52,360] on test scores of educational disadvantage?
+- [00:07:52,360 - 00:07:55,360] What about in that case,
+- [00:07:55,360 - 00:07:56,360] Bree?
+- [00:07:56,360 - 00:07:58,360] If it's that one thing that puts
+- [00:07:58,360 - 00:08:00,360] someone over the edge,
+- [00:08:00,360 - 00:08:03,360] then I guess that would be justifiable.
+- [00:08:03,360 - 00:08:05,360] If everything else about the individual first,
+- [00:08:05,360 - 00:08:08,360] everything they consider about that person's talents
+- [00:08:08,360 - 00:08:09,360] and where they come from
+- [00:08:09,360 - 00:08:12,360] and who they are without these arbitrary factors
+- [00:08:12,360 - 00:08:13,360] is the same.
+- [00:08:13,360 - 00:08:16,360] Without these arbitrary factors, you call it.
+- [00:08:16,360 - 00:08:18,360] But before you were suggesting, Bree,
+- [00:08:18,360 - 00:08:20,360] that race and ethnicity
+- [00:08:20,360 - 00:08:23,360] are arbitrary factors outside the control of the applicants.
+- [00:08:23,360 - 00:08:25,360] True, I would agree with that.
+- [00:08:25,360 - 00:08:27,360] And your general principle is that admissions
+- [00:08:27,360 - 00:08:30,360] shouldn't reward arbitrary factors
+- [00:08:30,360 - 00:08:32,360] over which people have no control.
+- [00:08:32,360 - 00:08:33,360] Right.
+- [00:08:33,360 - 00:08:34,360] All right.
+- [00:08:34,360 - 00:08:35,360] Who else?
+- [00:08:35,360 - 00:08:36,360] Who else would like to?
+- [00:08:36,360 - 00:08:37,360] Thank you both.
+- [00:08:37,360 - 00:08:39,360] Who else would like to get into this?
+- [00:08:39,360 - 00:08:40,360] What do you say?
+- [00:08:40,360 - 00:08:41,360] Well, first of all,
+- [00:08:41,360 - 00:08:44,360] I'm for affirmative action temporarily,
+- [00:08:44,360 - 00:08:46,360] but for two reasons.
+- [00:08:46,360 - 00:08:47,360] First of all,
+- [00:08:47,360 - 00:08:48,360] you have to look at the university's purpose.
+- [00:08:48,360 - 00:08:50,360] It is to educate their students.
+- [00:08:50,360 - 00:08:53,360] And I feel that different races,
+- [00:08:53,360 - 00:08:55,360] people coming from different races
+- [00:08:55,360 - 00:08:56,360] have different backgrounds
+- [00:08:56,360 - 00:08:57,360] and they contribute
+- [00:08:57,360 - 00:09:00,360] differently to the education.
+- [00:09:00,360 - 00:09:01,360] And second of all,
+- [00:09:01,360 - 00:09:04,360] when you say they have equal backgrounds,
+- [00:09:04,360 - 00:09:06,360] that's not true when you look at the broader picture
+- [00:09:06,360 - 00:09:08,360] and you look at slavery.
+- [00:09:08,360 - 00:09:09,360] This is kind of a reparation.
+- [00:09:09,360 - 00:09:13,360] I think affirmative action is a temporary solution
+- [00:09:13,360 - 00:09:15,360] to alleviate history
+- [00:09:15,360 - 00:09:19,360] and the wrongs done to African Americans in particular.
+- [00:09:19,360 - 00:09:20,360] And what's your name?
+- [00:09:20,360 - 00:09:21,360] David.
+- [00:09:21,360 - 00:09:22,360] David.
+- [00:09:22,360 - 00:09:23,360] You say that affirmative action is justified,
+- [00:09:23,360 - 00:09:24,360] at least for now,
+- [00:09:24,360 - 00:09:26,360] as a way of compensating
+- [00:09:26,360 - 00:09:28,360] for past injustice,
+- [00:09:28,360 - 00:09:30,360] the legacy of slavery and segregation.
+- [00:09:30,360 - 00:09:31,360] Right.
+- [00:09:31,360 - 00:09:33,360] Who wants to take on that argument?
+- [00:09:33,360 - 00:09:36,360] We need now a critic of affirmative action.
+- [00:09:36,360 - 00:09:38,360] Yes, go ahead.
+- [00:09:38,360 - 00:09:41,360] I think that what happened in the past
+- [00:09:41,360 - 00:09:43,360] has no bearing on what happens today,
+- [00:09:43,360 - 00:09:45,360] and I think that discriminating based on race
+- [00:09:45,360 - 00:09:47,360] should always be wrong,
+- [00:09:47,360 - 00:09:48,360] whether you're discriminating against
+- [00:09:48,360 - 00:09:50,360] one group or another.
+- [00:09:50,360 - 00:09:52,360] Just because our ancestors did something
+- [00:09:52,360 - 00:09:55,360] doesn't mean that that should have any effect
+- [00:09:55,360 - 00:09:58,360] on what happens with us today.
+- [00:09:58,360 - 00:09:59,360] All right.
+- [00:09:59,360 - 00:10:00,360] Good.
+- [00:10:00,360 - 00:10:01,360] I'm sorry, your name is?
+- [00:10:01,360 - 00:10:02,360] Kate.
+- [00:10:02,360 - 00:10:03,360] Kate.
+- [00:10:03,360 - 00:10:04,360] All right.
+- [00:10:04,360 - 00:10:05,360] Who has an answer for Kate?
+- [00:10:08,360 - 00:10:09,360] Yes.
+- [00:10:09,360 - 00:10:12,360] I just wanted to comment and say that...
+- [00:10:12,360 - 00:10:13,360] Tell us your name.
+- [00:10:13,360 - 00:10:14,360] My name is Mansour.
+- [00:10:14,360 - 00:10:17,360] Because of slavery, because of past injustices,
+- [00:10:17,360 - 00:10:20,360] today we have a higher proportion of African Americans
+- [00:10:20,360 - 00:10:22,360] who are in poverty,
+- [00:10:22,360 - 00:10:24,360] who face less,
+- [00:10:24,360 - 00:10:25,360] less,
+- [00:10:25,360 - 00:10:27,360] less opportunities than white people.
+- [00:10:27,360 - 00:10:29,360] And so because of slavery 200 years ago,
+- [00:10:29,360 - 00:10:30,360] and because of Jim Crow,
+- [00:10:30,360 - 00:10:32,360] and because of segregation,
+- [00:10:32,360 - 00:10:35,360] today we have injustice based on race.
+- [00:10:35,360 - 00:10:37,360] Kate?
+- [00:10:37,360 - 00:10:40,360] I think that there are differences, obviously,
+- [00:10:40,360 - 00:10:42,360] but the way to fix those differences
+- [00:10:42,360 - 00:10:45,360] is not by some artificial fixing of the result.
+- [00:10:45,360 - 00:10:46,360] You need to fix the problem.
+- [00:10:46,360 - 00:10:49,360] So we need to address differences in education
+- [00:10:49,360 - 00:10:53,360] and differences in upbringing
+- [00:10:53,360 - 00:10:54,360] with programs like Head Start
+- [00:10:54,360 - 00:10:57,360] and giving more funding to lower income schools
+- [00:10:57,360 - 00:10:59,360] rather than trying to just fix the result
+- [00:10:59,360 - 00:11:00,860] so it makes it look like
+- [00:11:00,860 - 00:11:02,360] it's equal when really it isn't.
+- [00:11:02,360 - 00:11:03,360] Yes.
+- [00:11:03,360 - 00:11:06,360] Well, with regard to affirmative action based on race,
+- [00:11:06,360 - 00:11:08,360] I just want to say that white people
+- [00:11:08,360 - 00:11:10,360] have had their own affirmative action in this country
+- [00:11:10,360 - 00:11:11,360] for more than 400 years.
+- [00:11:11,360 - 00:11:13,360] It's called nepotism and quid pro quo.
+- [00:11:13,360 - 00:11:16,360] So there's nothing wrong with correcting the injustice
+- [00:11:16,360 - 00:11:18,360] and discrimination that's been done to black people
+- [00:11:18,360 - 00:11:19,360] for 400 years.
+- [00:11:19,360 - 00:11:20,360] Good.
+- [00:11:20,360 - 00:11:21,360] Tell us...
+- [00:11:21,360 - 00:11:22,360] Wait.
+- [00:11:22,360 - 00:11:23,360] I'm sorry.
+- [00:11:23,360 - 00:11:24,360] Tell us...
+- [00:11:24,360 - 00:11:25,360] Wait.
+- [00:11:25,360 - 00:11:26,360] Tell us your name.
+- [00:11:26,360 - 00:11:27,360] Hannah.
+- [00:11:27,360 - 00:11:28,360] Hannah.
+- [00:11:28,360 - 00:11:29,360] All right.
+- [00:11:29,360 - 00:11:30,360] Who has an answer for Hannah?
+- [00:11:30,360 - 00:11:31,360] And just to add to Hannah's point,
+- [00:11:31,360 - 00:11:34,360] because we need now someone to respond,
+- [00:11:34,360 - 00:11:39,360] Hannah, you could have also mentioned legacy admissions.
+- [00:11:39,360 - 00:11:40,360] Exactly.
+- [00:11:40,360 - 00:11:41,360] I was going to say,
+- [00:11:41,360 - 00:11:42,360] if you disagree with affirmative action,
+- [00:11:42,360 - 00:11:43,360] you should disagree with legacy admission
+- [00:11:43,360 - 00:11:45,360] because it's obvious from looking around here
+- [00:11:45,360 - 00:11:47,360] that there are more white legacies than black legacies
+- [00:11:47,360 - 00:11:49,360] in the history of Harvard University.
+- [00:11:49,360 - 00:11:51,360] And explain what legacy admissions are.
+- [00:11:51,360 - 00:11:53,360] Well, legacy admissions is given to black people.
+- [00:11:53,360 - 00:11:54,360] And so,
+- [00:11:54,360 - 00:11:56,360] if you disagree with the history of Harvard University,
+- [00:11:56,360 - 00:11:57,360] you're giving an advantage to someone
+- [00:11:57,360 - 00:11:59,360] who has an arbitrary privilege of their parent
+- [00:11:59,360 - 00:12:02,360] having attended the university to which they're applying.
+- [00:12:02,360 - 00:12:03,360] All right.
+- [00:12:03,360 - 00:12:07,360] So, a reply for Hannah.
+- [00:12:07,360 - 00:12:08,360] Yes.
+- [00:12:08,360 - 00:12:09,360] In the balcony.
+- [00:12:09,360 - 00:12:10,360] Go ahead.
+- [00:12:10,360 - 00:12:11,360] First of all,
+- [00:12:11,360 - 00:12:15,360] if affirmative action is making up for past injustice,
+- [00:12:15,360 - 00:12:17,360] how do you explain minorities
+- [00:12:17,360 - 00:12:20,360] that were not historically discriminated against
+- [00:12:20,360 - 00:12:23,360] in the United States who get these advantages?
+- [00:12:23,360 - 00:12:24,360] Well,
+- [00:12:24,360 - 00:12:25,360] I think that the first thing is that
+- [00:12:25,360 - 00:12:26,360] we have to be able to argue that affirmative action
+- [00:12:26,360 - 00:12:27,360] perpetuates divisions between the races
+- [00:12:27,360 - 00:12:28,360] rather than achieve the ultimate goal of race
+- [00:12:28,360 - 00:12:29,360] being an irrelevant factor in our society.
+- [00:12:29,360 - 00:12:30,360] And tell us your name.
+- [00:12:30,360 - 00:12:31,360] Danielle.
+- [00:12:31,360 - 00:12:32,360] Hannah.
+- [00:12:32,360 - 00:12:33,360] I disagree with that
+- [00:12:33,360 - 00:12:34,360] because I think that by promoting diversity
+- [00:12:34,360 - 00:12:35,360] in an institution like this,
+- [00:12:35,360 - 00:12:36,360] you further educate all of the students,
+- [00:12:36,360 - 00:12:37,360] especially the white students
+- [00:12:37,360 - 00:12:38,360] who grew up in predominantly white areas.
+- [00:12:38,360 - 00:12:39,360] It's certainly a form of education
+- [00:12:39,360 - 00:12:40,360] to be exposed to people from different backgrounds.
+- [00:12:40,360 - 00:12:41,360] And you put white students at an inherent disadvantage
+- [00:12:41,360 - 00:12:42,360] when you surround them only with the white students.
+- [00:12:42,360 - 00:12:43,360] So,
+- [00:12:43,360 - 00:12:44,360] I think that the first thing
+- [00:12:44,360 - 00:12:45,360] that we have to do is to make sure
+- [00:12:45,360 - 00:12:46,360] that we're not just the white students
+- [00:12:46,360 - 00:12:47,360] who are discriminated against
+- [00:12:47,360 - 00:12:48,360] by the white students.
+- [00:12:48,360 - 00:12:49,360] And I think that's the first thing
+- [00:12:49,360 - 00:12:50,360] that we have to do is to make sure
+- [00:12:50,360 - 00:12:51,360] that we're not just the white students
+- [00:12:51,360 - 00:12:52,360] who are discriminated against
+- [00:12:52,360 - 00:12:53,360] by the white students.
+- [00:12:53,360 - 00:12:54,360] And you put white students
+- [00:12:54,360 - 00:12:55,360] at an inherent disadvantage
+- [00:12:55,360 - 00:12:56,360] when you surround them only with their own kind.
+- [00:12:56,360 - 00:12:57,360] Why should race necessarily
+- [00:12:57,360 - 00:12:58,360] be equated with diversity?
+- [00:12:58,360 - 00:12:59,360] There's so many other forms.
+- [00:12:59,360 - 00:13:00,360] Why should we assume
+- [00:13:00,360 - 00:13:01,360] that race makes people different?
+- [00:13:01,360 - 00:13:02,360] Again,
+- [00:13:02,360 - 00:13:03,360] that's perpetuating the idea
+- [00:13:03,360 - 00:13:04,360] of racial division
+- [00:13:04,360 - 00:13:05,360] within our universities
+- [00:13:05,360 - 00:13:06,360] and our society.
+- [00:13:06,360 - 00:13:07,360] Hannah.
+- [00:13:07,360 - 00:13:10,360] With regard to African American people
+- [00:13:10,360 - 00:13:12,360] being given a special advantage,
+- [00:13:12,360 - 00:13:15,360] it's obvious that they bring something special
+- [00:13:15,360 - 00:13:16,360] to the table
+- [00:13:16,360 - 00:13:17,360] because they have a unique perspective
+- [00:13:17,360 - 00:13:19,360] just as someone from a different religion
+- [00:13:19,360 - 00:13:21,360] or socioeconomic background would as well.
+- [00:13:21,360 - 00:13:22,360] As you say,
+- [00:13:22,360 - 00:13:24,360] there are many different types of diversity.
+- [00:13:24,360 - 00:13:26,360] There's no reason that racial diversity
+- [00:13:26,360 - 00:13:28,360] should be eliminated from that criteria.
+- [00:13:28,360 - 00:13:31,360] Yes, go ahead.
+- [00:13:31,360 - 00:13:34,360] Racial discrimination is illegal in this country,
+- [00:13:34,360 - 00:13:37,360] and I believe that it was African American leaders
+- [00:13:37,360 - 00:13:39,360] themselves when Martin Luther King said
+- [00:13:39,360 - 00:13:40,360] he wanted to be judged
+- [00:13:40,360 - 00:13:41,360] not on the color of his skin
+- [00:13:41,360 - 00:13:43,360] but by the content of his character,
+- [00:13:43,360 - 00:13:44,360] his merit, his achievements.
+- [00:13:44,360 - 00:13:47,360] And I just think that to decide
+- [00:13:47,360 - 00:13:49,360] solely based on someone's race
+- [00:13:49,360 - 00:13:51,360] is just inherently unfair.
+- [00:13:51,360 - 00:13:53,360] I mean, if you want to correct
+- [00:13:53,360 - 00:13:55,360] based on disadvantaged backgrounds,
+- [00:13:55,360 - 00:13:56,360] that's fine,
+- [00:13:56,360 - 00:13:58,360] but there are also disadvantaged white people as well.
+- [00:13:58,360 - 00:14:00,360] It shouldn't matter if you're white or white.
+- [00:14:00,360 - 00:14:01,360] Tell us your name.
+- [00:14:01,360 - 00:14:02,360] Ted.
+- [00:14:02,360 - 00:14:03,360] Ted?
+- [00:14:03,360 - 00:14:04,360] Yes.
+- [00:14:04,360 - 00:14:05,360] Think of Hopwood.
+- [00:14:05,360 - 00:14:07,360] It's unfair to count race
+- [00:14:07,360 - 00:14:12,360] or I assume you would also say ethnicity or religion?
+- [00:14:12,360 - 00:14:13,360] Yes.
+- [00:14:13,360 - 00:14:16,360] Do you think she has a right to be considered
+- [00:14:16,360 - 00:14:19,360] according to her grades and test scores?
+- [00:14:19,360 - 00:14:22,360] No, there is more to it than that.
+- [00:14:22,360 - 00:14:23,360] You need to...
+- [00:14:23,360 - 00:14:26,360] Universities need to promote diversity.
+- [00:14:26,360 - 00:14:29,360] So you agree with the goal of promoting diversity?
+- [00:14:29,360 - 00:14:31,360] There's ways to promote diversity
+- [00:14:31,360 - 00:14:33,360] besides discriminating against people
+- [00:14:33,360 - 00:14:36,360] solely based on a factor that they cannot control.
+- [00:14:36,360 - 00:14:38,360] All right, so what makes it wrong
+- [00:14:38,360 - 00:14:42,360] is that she can't control her race.
+- [00:14:42,360 - 00:14:45,360] She can't control the fact that she's white.
+- [00:14:45,360 - 00:14:48,360] That's the heart of the unfairness to her.
+- [00:14:48,360 - 00:14:50,360] Bree made a similar point,
+- [00:14:50,360 - 00:14:54,360] that basing admissions on factors that people can't control
+- [00:14:54,360 - 00:14:56,360] is fundamentally unfair.
+- [00:14:56,360 - 00:14:57,360] What do you say?
+- [00:14:57,360 - 00:14:59,360] There's a lot of things you can't control,
+- [00:14:59,360 - 00:15:00,360] and if you're going to
+- [00:15:00,360 - 00:15:01,360] go through it based on merit,
+- [00:15:01,360 - 00:15:03,360] like just based on your test scores,
+- [00:15:03,360 - 00:15:05,360] a lot of what you can achieve
+- [00:15:05,360 - 00:15:07,360] has to do with the family background that you raised.
+- [00:15:07,360 - 00:15:09,360] If both your parents were scholarly,
+- [00:15:09,360 - 00:15:11,360] then you have more of a chance
+- [00:15:11,360 - 00:15:13,360] of actually being more scholarly yourself
+- [00:15:13,360 - 00:15:14,360] and getting those grades.
+- [00:15:14,360 - 00:15:15,360] And you can't control what
+- [00:15:15,360 - 00:15:16,360] kind of family background you have.
+- [00:15:16,360 - 00:15:17,360] You can't control your grades.
+- [00:15:17,360 - 00:15:18,360] You can't control what kind
+- [00:15:18,360 - 00:15:19,360] of family you were born into.
+- [00:15:19,360 - 00:15:20,360] All right, good.
+- [00:15:20,360 - 00:15:21,360] That's a great rejoinder.
+- [00:15:21,360 - 00:15:22,360] What's your name?
+- [00:15:22,978 - 00:15:23,938] 答
+- [00:15:23,938 - 00:15:25,978] Da.
+- [00:15:25,978 - 00:15:30,058] Ted, are you against advantages that
+- [00:15:30,058 - 00:15:31,838] come from the family you were born into?
+- [00:15:31,838 - 00:15:33,718] What about legacy admissions?
+- [00:15:33,718 - 00:15:35,738] I mean, I do believe that
+- [00:15:35,738 - 00:15:37,758] in terms of a legacy admission,
+- [00:15:37,758 - 00:15:40,078] you shouldn't have a special preference.
+- [00:15:40,078 - 00:15:43,118] I mean, there is a legacy admission you could argue
+- [00:15:43,118 - 00:15:44,318] is another part of diversity.
+- [00:15:44,318 - 00:15:45,818] You could say it's important to have
+- [00:15:45,818 - 00:15:47,418] a small percentage of people that
+- [00:15:47,418 - 00:15:52,198] have a several generation family attendance
+- [00:15:52,198 - 00:15:53,598] at a place like Harvard.
+- [00:15:53,598 - 00:15:57,498] However, that should not be an advantaged factor like race.
+- [00:15:57,498 - 00:16:00,478] That should just be another part of promoting diversity.
+- [00:16:00,478 - 00:16:02,158] Should it count at all?
+- [00:16:02,158 - 00:16:04,478] I think that alumni status,
+- [00:16:04,478 - 00:16:06,798] should it count at all, Ted?
+- [00:16:06,798 - 00:16:09,838] Yes, it should count.
+- [00:16:09,838 - 00:16:12,178] All right, I want to step back for a moment
+- [00:16:12,178 - 00:16:13,018] from these arguments.
+- [00:16:13,018 - 00:16:15,258] Thank you all for these contributions.
+- [00:16:15,258 - 00:16:17,498] We're going to come back to you.
+- [00:16:17,498 - 00:16:19,878] If you've listened carefully, I think
+- [00:16:19,878 - 00:16:23,598] you will have noticed three different arguments
+- [00:16:23,598 - 00:16:27,158] emerged from this discussion in defense
+- [00:16:27,158 - 00:16:33,998] of considering race and ethnicity as a factor in admissions.
+- [00:16:37,318 - 00:16:40,098] One argument has to do with correcting
+- [00:16:40,098 - 00:16:44,238] for the effects of educational disadvantage.
+- [00:16:47,778 - 00:16:50,038] That was Anisha's argument.
+- [00:16:50,038 - 00:16:52,697] This is what we might call the corrective argument.
+- [00:16:53,598 - 00:16:57,318] Correcting for differences in educational background,
+- [00:16:57,318 - 00:16:59,018] the kind of school people
+- [00:16:59,018 - 00:17:00,718] went to, the opportunities they had,
+- [00:17:00,718 - 00:17:01,837] and so on.
+- [00:17:01,837 - 00:17:03,417] That's one argument.
+- [00:17:03,417 - 00:17:05,837] What's worth noticing, though, is that that argument
+- [00:17:05,837 - 00:17:10,718] is consistent in principle with the idea
+- [00:17:10,718 - 00:17:14,258] that only academic promise and scholarly potential
+- [00:17:14,258 - 00:17:17,397] should count in admissions.
+- [00:17:17,397 - 00:17:19,308] We just need to go
+- [00:17:19,308 - 00:17:21,218] beyond test scores and grades alone
+- [00:17:21,218 - 00:17:22,818] to get a true estimate of academic success.
+- [00:17:22,818 - 00:17:23,318] Thank you.
+- [00:17:23,318 - 00:17:24,818] And that's the first argument.
+- [00:17:24,818 - 00:17:29,818] Then we heard a second argument that said affirmative action
+- [00:17:34,718 - 00:17:38,078] is justified even where there may not
+- [00:17:38,078 - 00:17:44,158] be the need to correct for educational disadvantage
+- [00:17:44,158 - 00:17:46,938] in a particular applicant's case.
+- [00:17:46,938 - 00:17:51,118] It's justified as a way of compensating for past wrongs,
+- [00:17:51,118 - 00:17:52,538] for historic injustices.
+- [00:17:52,538 - 00:17:56,038] So that's a compensatory
+- [00:17:56,038 - 00:17:59,538] argument, compensating for past wrongs.
+- [00:17:59,538 - 00:18:04,038] Then we heard a third,
+- [00:18:04,038 - 00:18:08,538] a different argument for affirmative action
+- [00:18:08,538 - 00:18:12,538] from Hannah and others that
+- [00:18:12,538 - 00:18:16,538] argued in the name of diversity.
+- [00:18:16,538 - 00:18:19,238] Now, the diversity argument is
+- [00:18:19,238 - 00:18:21,938] different from the compensatory argument
+- [00:18:21,938 - 00:18:28,938] because it makes a certain appeal to the social purpose
+- [00:18:28,938 - 00:18:34,938] or the social mission of the college or university.
+- [00:18:34,938 - 00:18:37,938] There are really two aspects to the diversity argument.
+- [00:18:37,938 - 00:18:41,938] One says it's important to have a diverse student body
+- [00:18:41,938 - 00:18:44,938] for the sake of the educational experience for everyone.
+- [00:18:44,938 - 00:18:47,938] Hannah made that point.
+- [00:18:47,938 - 00:18:49,938] And the other talks about the wider society.
+- [00:18:49,938 - 00:18:50,938] This was the argument made by the university.
+- [00:18:50,938 - 00:18:51,338] Thank you.
+- [00:18:51,338 - 00:18:53,338] This was the argument made by the
+- [00:18:53,338 - 00:18:55,338] University of Texas in the Hopwood case.
+- [00:18:55,338 - 00:18:58,338] We need to train lawyers
+- [00:18:58,338 - 00:19:01,338] and judges and leaders, public officials,
+- [00:19:01,338 - 00:19:07,338] who will contribute to the strength, the civic strength,
+- [00:19:07,338 - 00:19:08,838] of the state of Texas
+- [00:19:08,838 - 00:19:10,338] and the country as a whole.
+- [00:19:10,338 - 00:19:11,838] So there are two different
+- [00:19:11,838 - 00:19:13,338] aspects to the diversity argument.
+- [00:19:13,338 - 00:19:15,838] But both are arguments in
+- [00:19:15,838 - 00:19:18,338] the name of the social purpose
+- [00:19:18,338 - 00:19:20,338] or the social mission or the common good.
+- [00:19:20,338 - 00:19:23,338] Served by the institution.
+- [00:19:23,338 - 00:19:26,338] Well, what about the force of these arguments?
+- [00:19:26,338 - 00:19:30,338] We've also heard objections to these arguments.
+- [00:19:30,338 - 00:19:36,338] The most powerful objection to the compensatory argument is,
+- [00:19:36,338 - 00:19:39,837] is it fair to ask Cheryl
+- [00:19:39,837 - 00:19:43,337] Hopwood today to make the sacrifice,
+- [00:19:43,337 - 00:19:45,837] to pay the compensation for
+- [00:19:45,837 - 00:19:48,338] an injustice that was admittedly committed
+- [00:19:48,338 - 00:19:49,338] and was egregious in the past,
+- [00:19:49,338 - 00:19:52,338] but in which she was not implicated?
+- [00:19:52,338 - 00:19:54,338] Is that fair?
+- [00:19:54,338 - 00:19:56,838] So that's an important
+- [00:19:56,838 - 00:19:59,338] objection to the compensatory argument.
+- [00:19:59,338 - 00:20:02,338] And in order to meet that objection,
+- [00:20:02,338 - 00:20:04,338] we would have to investigate
+- [00:20:04,338 - 00:20:06,338] whether there is such a thing
+- [00:20:06,338 - 00:20:09,338] as group rights or collective
+- [00:20:09,338 - 00:20:12,338] responsibility that reaches over time.
+- [00:20:12,338 - 00:20:14,338] So having identified that issue,
+- [00:20:14,338 - 00:20:18,338] let's set it aside to turn to the diversity argument.
+- [00:20:18,338 - 00:20:22,338] The diversity argument doesn't have
+- [00:20:22,338 - 00:20:26,338] to worry about that question,
+- [00:20:26,338 - 00:20:29,338] about collective responsibility for past wrongs.
+- [00:20:29,338 - 00:20:34,338] Because it says, for reasons Hannah and others pointed out,
+- [00:20:34,338 - 00:20:40,338] that the common good is served, is advanced,
+- [00:20:40,338 - 00:20:47,338] if there is a racially and ethnically diverse student body.
+- [00:20:47,338 - 00:20:50,338] Everyone benefits.
+- [00:20:50,338 - 00:20:54,338] And this indeed was the argument that Harvard made
+- [00:20:54,338 - 00:20:56,338] when it filed a friend of
+- [00:20:56,338 - 00:20:58,338] the court brief to the Supreme Court
+- [00:20:58,338 - 00:21:04,338] in the 1978 case, affirmative action case, the Bakke case.
+- [00:21:04,338 - 00:21:07,338] And the Harvard brief, the Harvard rationale,
+- [00:21:07,338 - 00:21:10,338] was cited by Justice Powell,
+- [00:21:10,338 - 00:21:12,338] who was the swing vote
+- [00:21:12,338 - 00:21:14,338] in the case, upholding affirmative action.
+- [00:21:14,338 - 00:21:17,338] He cited that as providing the rationale that he thought,
+- [00:21:17,338 - 00:21:20,338] was constitutionally acceptable.
+- [00:21:20,338 - 00:21:26,338] Harvard's argument in its brief was this.
+- [00:21:26,338 - 00:21:30,338] We care about diversity.
+- [00:21:30,338 - 00:21:33,338] Scholarly excellence alone has never
+- [00:21:33,338 - 00:21:36,338] been the criterion of admission,
+- [00:21:36,338 - 00:21:39,338] the sole criterion of admission to Harvard College.
+- [00:21:39,338 - 00:21:44,338] Fifteen years ago, diversity meant students from California,
+- [00:21:44,338 - 00:21:46,338] and New York, and Massachusetts.
+- [00:21:46,338 - 00:21:48,838] City dwellers and farm boys,
+- [00:21:48,838 - 00:21:51,338] violinists, painters, and football players,
+- [00:21:51,338 - 00:21:54,338] biologists, historians, and classicists.
+- [00:21:54,338 - 00:21:57,338] The only difference now, Harvard argued,
+- [00:21:57,338 - 00:22:00,338] is that we're adding racial and ethnic status
+- [00:22:00,338 - 00:22:04,338] to this long list of diversity considerations.
+- [00:22:04,338 - 00:22:06,338] When reviewing the large number of candidates
+- [00:22:06,338 - 00:22:10,338] able to do well in our classes, Harvard wrote,
+- [00:22:10,338 - 00:22:12,838] race may count as a plus,
+- [00:22:12,838 - 00:22:15,338] just as coming from Iowa may count,
+- [00:22:15,338 - 00:22:18,338] being a good middle linebacker, or pianist.
+- [00:22:18,338 - 00:22:20,338] A farm boy from Idaho
+- [00:22:20,338 - 00:22:22,338] can bring something to Harvard College
+- [00:22:22,338 - 00:22:25,338] that a Bostonian cannot offer.
+- [00:22:25,338 - 00:22:28,338] Similarly, a black student can usually bring something
+- [00:22:28,338 - 00:22:30,338] a white student cannot offer.
+- [00:22:30,338 - 00:22:34,338] The quality of the educational experience of all students
+- [00:22:34,338 - 00:22:37,338] depends in part on these differences
+- [00:22:37,338 - 00:22:41,338] in the background and outlook that students bring with them.
+- [00:22:41,338 - 00:22:44,338] That was Harvard's argument.
+- [00:22:44,338 - 00:22:46,338] Now what about the diversity argument?
+- [00:22:46,338 - 00:22:49,338] Is it persuasive?
+- [00:22:49,338 - 00:22:51,838] If it's to be persuasive, it
+- [00:22:51,838 - 00:22:54,338] has to meet one very powerful objection
+- [00:22:54,338 - 00:22:57,338] that we've heard voiced here,
+- [00:22:57,338 - 00:23:03,338] by Ted, by Bree.
+- [00:23:03,338 - 00:23:05,338] Unless you're a utilitarian,
+- [00:23:05,338 - 00:23:12,338] you believe that individual rights can't be violated.
+- [00:23:12,338 - 00:23:14,338] And so the question is,
+- [00:23:14,338 - 00:23:18,338] is there an individual right that is violated?
+- [00:23:18,338 - 00:23:21,338] Is Cheryl Hopwood's right violated
+- [00:23:21,338 - 00:23:24,338] if she is used, so to speak,
+- [00:23:24,338 - 00:23:27,338] denied admission,
+- [00:23:27,338 - 00:23:28,838] for the sake of the
+- [00:23:28,838 - 00:23:30,338] common good and the social mission
+- [00:23:30,338 - 00:23:32,338] that the University of Texas
+- [00:23:32,338 - 00:23:34,338] Law School has defined for itself?
+- [00:23:34,338 - 00:23:37,338] Does she have a right?
+- [00:23:37,338 - 00:23:40,338] Don't we deserve to be considered,
+- [00:23:40,338 - 00:23:43,338] according to our excellences, our achievements,
+- [00:23:43,338 - 00:23:45,338] our hard work?
+- [00:23:45,338 - 00:23:49,338] Isn't that the right at stake?
+- [00:23:49,338 - 00:23:53,338] Now we've already heard an answer to that argument.
+- [00:23:53,338 - 00:23:56,338] No, she doesn't have a right.
+- [00:23:56,338 - 00:23:58,338] Nobody deserves to be admitted.
+- [00:23:58,338 - 00:24:00,838] Notice how this gets us back
+- [00:24:00,838 - 00:24:03,338] to the issue of desert versus entitlement.
+- [00:24:03,338 - 00:24:05,838] They're arguing there is no
+- [00:24:05,838 - 00:24:08,338] individual right that Hopwood has.
+- [00:24:08,338 - 00:24:10,338] She doesn't deserve to be admitted
+- [00:24:10,338 - 00:24:12,338] according to any particular set of criteria
+- [00:24:12,338 - 00:24:15,338] that she believes to be important,
+- [00:24:15,338 - 00:24:18,338] including criteria that have only to do
+- [00:24:18,338 - 00:24:20,338] with her efforts and achievements.
+- [00:24:20,338 - 00:24:22,338] Why not?
+- [00:24:22,338 - 00:24:27,338] I think implicit in this argument
+- [00:24:27,338 - 00:24:31,338] is something like Rawls's rejection of moral desert
+- [00:24:31,338 - 00:24:35,338] as the basis of distributive justice.
+- [00:24:35,338 - 00:24:40,338] Yes, once Harvard defines its mission
+- [00:24:40,338 - 00:24:42,338] and designs its admission
+- [00:24:42,338 - 00:24:45,338] policy in the light of its mission,
+- [00:24:45,338 - 00:24:48,338] people are entitled, who fit those criteria,
+- [00:24:48,338 - 00:24:52,338] they are entitled to be admitted.
+- [00:24:52,338 - 00:24:54,338] But according to this argument,
+- [00:24:54,338 - 00:24:57,338] no one deserves that Harvard College
+- [00:24:57,338 - 00:25:01,338] define its mission and design its admission criteria
+- [00:25:01,338 - 00:25:03,338] in the first place in
+- [00:25:03,338 - 00:25:05,338] a way that prizes the qualities
+- [00:25:05,338 - 00:25:07,338] they happen to have in abundance.
+- [00:25:07,338 - 00:25:10,338] Whether those qualities are test scores or grades
+- [00:25:10,338 - 00:25:12,338] or the ability to play the piano
+- [00:25:12,338 - 00:25:15,338] or to be a good middle linebacker
+- [00:25:15,338 - 00:25:17,338] or to come from Iowa
+- [00:25:17,338 - 00:25:20,338] or to come from a certain minority group.
+- [00:25:20,338 - 00:25:26,338] So you see how this debate about affirmative action,
+- [00:25:26,338 - 00:25:28,338] especially the diversity argument,
+- [00:25:28,338 - 00:25:31,338] takes us back to the question of rights,
+- [00:25:31,338 - 00:25:33,338] which in turn takes us back to the question
+- [00:25:33,338 - 00:25:39,338] of whether moral desert is or is not
+- [00:25:39,338 - 00:25:42,338] the basis for distributive justice.
+- [00:25:42,338 - 00:25:44,338] Think about that over the weekend
+- [00:25:44,338 - 00:25:46,338] and we'll continue this discussion next time.
+- [00:25:52,338 - 00:25:56,338] Suppose we're distributing flutes.
+- [00:25:56,338 - 00:25:59,338] Who should get the best ones?
+- [00:25:59,338 - 00:26:01,338] What's Aristotle's answer?
+- [00:26:01,338 - 00:26:03,338] Anyone.
+- [00:26:04,338 - 00:26:06,338] His answer is the best flutes
+- [00:26:06,338 - 00:26:08,338] should go to the best flute players
+- [00:26:08,338 - 00:26:11,338] because that's what flutes are.
+- [00:26:12,338 - 00:26:14,338] And that's what we're for.
+- [00:26:20,338 - 00:26:22,338] When we ended last time,
+- [00:26:22,338 - 00:26:24,838] we were considering arguments
+- [00:26:24,838 - 00:26:27,338] for and against affirmative action,
+- [00:26:27,338 - 00:26:31,338] counting race as a factor in admissions.
+- [00:26:31,338 - 00:26:35,338] And in the course of the discussion,
+- [00:26:35,338 - 00:26:37,338] three arguments emerged,
+- [00:26:37,338 - 00:26:40,338] three arguments for affirmative action.
+- [00:26:40,338 - 00:26:44,338] One of them was the idea
+- [00:26:44,338 - 00:26:47,338] that race and ethnic background should count
+- [00:26:47,338 - 00:26:52,338] as a way of correcting for
+- [00:26:52,338 - 00:26:56,338] the true meaning of test scores and grades.
+- [00:26:56,338 - 00:26:59,338] Getting a more accurate measure
+- [00:26:59,338 - 00:27:02,338] of the academic potential those scores,
+- [00:27:02,338 - 00:27:04,338] those numbers represent.
+- [00:27:04,338 - 00:27:08,338] Second was what we called the compensatory argument.
+- [00:27:08,338 - 00:27:10,338] The argument was that,
+- [00:27:10,338 - 00:27:13,338] the idea of righting past wrongs,
+- [00:27:15,338 - 00:27:17,338] past injustice.
+- [00:27:17,338 - 00:27:20,338] And the third was the diversity argument.
+- [00:27:21,338 - 00:27:23,338] And when Cheryl Hopwood,
+- [00:27:23,338 - 00:27:25,338] in the 1990s,
+- [00:27:25,338 - 00:27:28,338] challenged the University of Texas Law School's
+- [00:27:28,338 - 00:27:30,338] affirmative action program
+- [00:27:30,338 - 00:27:32,338] in the federal courts,
+- [00:27:32,338 - 00:27:34,338] the University of Texas made another version
+- [00:27:34,338 - 00:27:36,338] of the diversity argument,
+- [00:27:36,338 - 00:27:39,338] saying that the broader social purpose,
+- [00:27:39,338 - 00:27:43,338] the social mission of the University of Texas Law School,
+- [00:27:43,338 - 00:27:46,338] is to produce leaders
+- [00:27:46,338 - 00:27:48,338] in the legal community,
+- [00:27:48,338 - 00:27:50,338] in the political community,
+- [00:27:50,338 - 00:27:51,338] among judges,
+- [00:27:51,338 - 00:27:52,338] lawyers,
+- [00:27:52,338 - 00:27:54,338] legislators,
+- [00:27:54,338 - 00:28:00,338] and therefore it's important that we produce leaders
+- [00:28:00,338 - 00:28:05,338] who reflect the background and the experience
+- [00:28:05,338 - 00:28:07,338] and the ethnic and the racial composition
+- [00:28:07,338 - 00:28:08,338] of the state of Texas.
+- [00:28:09,338 - 00:28:14,338] It's important for serving our wider social mission.
+- [00:28:14,338 - 00:28:18,338] That was the University of Texas Law School's argument.
+- [00:28:18,338 - 00:28:23,338] And then we considered an objection
+- [00:28:23,338 - 00:28:25,338] to the diversity argument,
+- [00:28:25,338 - 00:28:28,338] which after all is an argument in the name of
+- [00:28:28,338 - 00:28:30,338] the social mission,
+- [00:28:30,338 - 00:28:33,338] the common good.
+- [00:28:33,338 - 00:28:38,338] We saw that Rawls does not simply believe
+- [00:28:38,338 - 00:28:40,338] that arguments of the common good
+- [00:28:40,338 - 00:28:42,338] or the general welfare should prevail
+- [00:28:42,338 - 00:28:45,338] if individual rights must be violated
+- [00:28:45,338 - 00:28:48,338] in the course of promoting the common good.
+- [00:28:48,338 - 00:28:50,338] You remember that was the question,
+- [00:28:50,338 - 00:28:52,338] the challenge,
+- [00:28:52,338 - 00:28:55,338] to the diversity rationale that we were considering
+- [00:28:55,338 - 00:28:58,338] when we finished last time.
+- [00:29:00,338 - 00:29:02,338] And we began to discuss the question,
+- [00:29:02,338 - 00:29:05,338] well, what right might be at stake?
+- [00:29:05,338 - 00:29:07,338] Maybe the right to be considered,
+- [00:29:08,338 - 00:29:15,338] according to factors within one's control.
+- [00:29:15,338 - 00:29:18,338] Maybe this is the argument that Cheryl Hopwood
+- [00:29:18,338 - 00:29:21,338] implicitly was making.
+- [00:29:21,338 - 00:29:25,338] She can't help the fact that she's white.
+- [00:29:25,338 - 00:29:29,338] Why should her chance at getting into law school
+- [00:29:29,338 - 00:29:32,338] depend on a factor she can't control?
+- [00:29:34,338 - 00:29:36,338] And then Hannah,
+- [00:29:36,338 - 00:29:38,338] who was advancing an argument,
+- [00:29:38,338 - 00:29:40,338] last time,
+- [00:29:40,338 - 00:29:41,338] said,
+- [00:29:41,338 - 00:29:43,338] Harvard has the right
+- [00:29:43,338 - 00:29:45,338] to define its mission
+- [00:29:45,338 - 00:29:46,338] any way it wants to.
+- [00:29:46,338 - 00:29:49,338] It's a private institution.
+- [00:29:49,338 - 00:29:54,338] And it's only once Harvard defines its mission
+- [00:29:54,338 - 00:29:58,338] that we can identify
+- [00:29:58,338 - 00:30:01,338] the qualities that count.
+- [00:30:01,338 - 00:30:04,338] So no rights are being violated.
+- [00:30:04,338 - 00:30:06,338] Now,
+- [00:30:06,338 - 00:30:08,338] what about that argument?
+- [00:30:08,338 - 00:30:11,338] What I would like to do is to hear objections
+- [00:30:11,338 - 00:30:13,338] to that reply,
+- [00:30:13,338 - 00:30:16,338] and then see whether others have an answer.
+- [00:30:16,338 - 00:30:18,338] Yes.
+- [00:30:18,338 - 00:30:20,338] And tell us your name.
+- [00:30:20,338 - 00:30:21,338] Da.
+- [00:30:21,338 - 00:30:22,338] Da.
+- [00:30:22,338 - 00:30:23,338] Right.
+- [00:30:23,338 - 00:30:24,338] You spoke up last time.
+- [00:30:24,338 - 00:30:25,338] All right.
+- [00:30:25,338 - 00:30:26,338] How do you answer that argument?
+- [00:30:26,338 - 00:30:28,338] Well, I think there was two things in there.
+- [00:30:28,338 - 00:30:30,338] One of them was that a private institution
+- [00:30:30,338 - 00:30:32,338] could define its mission however it wants.
+- [00:30:32,338 - 00:30:35,338] But then that doesn't make however it defines it right.
+- [00:30:35,338 - 00:30:37,338] Like, I could define my personal mission as,
+- [00:30:37,338 - 00:30:39,338] I want to collect all the money in the world.
+- [00:30:39,338 - 00:30:41,338] But does that make it even a good mission?
+- [00:30:41,338 - 00:30:42,338] So you can't, like,
+- [00:30:42,338 - 00:30:43,338] you can't say that just because
+- [00:30:43,338 - 00:30:45,338] a college is a private institution,
+- [00:30:45,338 - 00:30:47,338] it could just define it whatever it wants.
+- [00:30:47,338 - 00:30:48,338] We still have to think about
+- [00:30:48,338 - 00:30:50,338] what are the ways defining it is right.
+- [00:30:50,338 - 00:30:53,338] And in the case of affirmative action,
+- [00:30:53,338 - 00:30:54,338] a lot of people have said that
+- [00:30:54,338 - 00:30:57,338] since there's a lot of other factors involved,
+- [00:30:57,338 - 00:30:58,338] we could, why not race?
+- [00:30:58,338 - 00:31:00,338] Like, if we already know that the system is imperfect.
+- [00:31:00,338 - 00:31:01,338] All right.
+- [00:31:01,338 - 00:31:03,338] I want to stick with your first point, Da.
+- [00:31:03,338 - 00:31:05,338] Here's Da's objection.
+- [00:31:05,338 - 00:31:07,338] Can a college,
+- [00:31:07,338 - 00:31:08,338] or university,
+- [00:31:08,338 - 00:31:11,338] define its social purpose any way it wants to,
+- [00:31:11,338 - 00:31:19,338] and then define admissions criteria accordingly?
+- [00:31:19,338 - 00:31:21,338] What about the University of Texas Law School,
+- [00:31:21,338 - 00:31:23,338] not today,
+- [00:31:23,338 - 00:31:27,338] but in the 1950s?
+- [00:31:27,338 - 00:31:31,338] Then there was another Supreme Court case
+- [00:31:31,338 - 00:31:33,338] against the admissions policy
+- [00:31:33,338 - 00:31:36,338] of the University of Texas Law School,
+- [00:31:36,338 - 00:31:37,338] because it was segmented
+- [00:31:37,338 - 00:31:39,338] and segregated.
+- [00:31:39,338 - 00:31:42,338] It only admitted whites.
+- [00:31:42,338 - 00:31:44,338] And when the case went
+- [00:31:44,338 - 00:31:46,338] to court back in the 50s,
+- [00:31:46,338 - 00:31:48,338] the University of Texas Law School
+- [00:31:48,338 - 00:31:51,338] also invoked its mission.
+- [00:31:51,338 - 00:31:54,338] Our mission as a law school
+- [00:31:54,338 - 00:31:57,338] is to educate lawyers
+- [00:31:57,338 - 00:31:58,338] for the Texas bar,
+- [00:31:58,338 - 00:32:00,338] for Texas law firms.
+- [00:32:00,338 - 00:32:03,338] And no Texas law firm
+- [00:32:03,338 - 00:32:06,338] hires African Americans.
+- [00:32:06,338 - 00:32:08,338] So to fulfill our mission,
+- [00:32:08,338 - 00:32:10,338] we only admit whites.
+- [00:32:13,338 - 00:32:15,338] Or consider Harvard
+- [00:32:15,338 - 00:32:17,338] in the 1930s,
+- [00:32:18,338 - 00:32:20,338] when it had
+- [00:32:20,338 - 00:32:23,338] anti-Jewish quotas.
+- [00:32:23,338 - 00:32:25,338] President Lowell,
+- [00:32:25,338 - 00:32:28,338] president of Harvard in the 1930s, said
+- [00:32:30,338 - 00:32:34,338] that he had nothing personally against Jews,
+- [00:32:34,338 - 00:32:36,338] but he invoked the mission,
+- [00:32:36,338 - 00:32:38,338] the social purpose of Harvard,
+- [00:32:38,338 - 00:32:39,338] he said,
+- [00:32:39,338 - 00:32:43,338] which is not only to train intellectuals.
+- [00:32:43,338 - 00:32:45,338] Part of the mission of Harvard,
+- [00:32:45,338 - 00:32:46,338] he said,
+- [00:32:46,338 - 00:32:48,338] is to train stockbrokers for Wall Street,
+- [00:32:48,338 - 00:32:50,338] presidents and senators.
+- [00:32:50,338 - 00:32:52,338] And there are very few Jews
+- [00:32:52,338 - 00:32:55,338] who go into those professions.
+- [00:32:55,338 - 00:32:59,338] Now, here's the challenge.
+- [00:32:59,338 - 00:33:02,338] Is there a principle distinction
+- [00:33:02,338 - 00:33:05,338] between the invocation
+- [00:33:05,338 - 00:33:07,338] of the social purpose
+- [00:33:07,338 - 00:33:10,338] of the college or university today
+- [00:33:10,338 - 00:33:13,338] in the diversity rationale
+- [00:33:13,338 - 00:33:15,338] and the invocation of the social purpose
+- [00:33:15,338 - 00:33:17,338] or mission of the university
+- [00:33:17,338 - 00:33:20,338] by Texas in the 1950s
+- [00:33:20,338 - 00:33:22,338] or Harvard in the 1930s?
+- [00:33:22,338 - 00:33:25,338] Is there a difference in principle?
+- [00:33:25,338 - 00:33:27,338] What's the reply?
+- [00:33:29,338 - 00:33:30,338] Hannah?
+- [00:33:30,338 - 00:33:31,338] Well, I think that the principle is,
+- [00:33:31,338 - 00:33:32,338] basically,
+- [00:33:32,338 - 00:33:34,338] the distinction between inclusion versus exclusion.
+- [00:33:34,338 - 00:33:37,338] I think that it's morally wrong of the university
+- [00:33:37,338 - 00:33:38,338] to say,
+- [00:33:38,338 - 00:33:40,338] we're going to exclude you
+- [00:33:40,338 - 00:33:42,338] on the basis of your religion or your race.
+- [00:33:42,338 - 00:33:44,338] That's denial on the basis of arbitrary factors.
+- [00:33:44,338 - 00:33:46,338] What Harvard is trying to do today
+- [00:33:46,338 - 00:33:48,338] with its diversity initiatives
+- [00:33:48,338 - 00:33:51,338] is to include groups that were excluded in the past.
+- [00:33:51,338 - 00:33:52,338] Good.
+- [00:33:52,338 - 00:33:53,338] Let's see if,
+- [00:33:53,338 - 00:33:54,338] stay there.
+- [00:33:54,338 - 00:33:57,338] Let's see if someone would like to reply.
+- [00:33:57,338 - 00:33:58,338] So,
+- [00:33:58,338 - 00:34:00,338] I think that the principle
+- [00:34:00,338 - 00:34:27,618] of the
+- [00:34:27,618 - 00:34:28,338] Good.
+- [00:34:28,338 - 00:34:30,338] So, the element of malice
+- [00:34:30,338 - 00:34:34,338] is that in the historic segregationist,
+- [00:34:34,338 - 00:34:39,338] racist, anti-Semitic quotas or prohibitions,
+- [00:34:39,338 - 00:34:41,338] there was built into them
+- [00:34:41,338 - 00:34:43,338] a certain kind of malice,
+- [00:34:43,338 - 00:34:45,338] a certain kind of judgment
+- [00:34:45,338 - 00:34:49,338] that African Americans or Jews
+- [00:34:49,338 - 00:34:53,338] were somehow less worthy than everybody else.
+- [00:34:53,338 - 00:34:57,338] Whereas present day affirmative action programs
+- [00:34:57,338 - 00:34:57,618] don't involve or imply any such,
+- [00:34:57,618 - 00:35:01,618] judgment.
+- [00:35:01,618 - 00:35:03,618] What it amounts to saying is,
+- [00:35:03,618 - 00:35:08,618] so long as a policy
+- [00:35:08,618 - 00:35:12,618] just uses people in a way
+- [00:35:12,618 - 00:35:16,618] as valuable to the social purpose
+- [00:35:16,618 - 00:35:18,618] of the institution,
+- [00:35:18,618 - 00:35:19,618] it's okay,
+- [00:35:19,618 - 00:35:21,618] provided it doesn't judge them
+- [00:35:21,618 - 00:35:24,618] maliciously as Stevie might add,
+- [00:35:24,618 - 00:35:26,618] as intrinsically less worthy.
+- [00:35:27,618 - 00:35:30,618] I'd like to raise a question.
+- [00:35:30,618 - 00:35:33,618] Doesn't that concede
+- [00:35:33,618 - 00:35:35,618] that all of us,
+- [00:35:35,618 - 00:35:38,618] when we compete for positions,
+- [00:35:38,618 - 00:35:41,618] or for seats in colleges and universities,
+- [00:35:41,618 - 00:35:43,618] in a way,
+- [00:35:43,618 - 00:35:45,618] are being used,
+- [00:35:45,618 - 00:35:47,618] not judged,
+- [00:35:47,618 - 00:35:49,618] but used
+- [00:35:49,618 - 00:35:52,618] in a way that has nothing to do
+- [00:35:52,618 - 00:35:54,618] with the moral,
+- [00:35:54,618 - 00:35:55,618] moral,
+- [00:35:55,618 - 00:35:56,618] moral,
+- [00:35:56,618 - 00:35:59,618] moral virtue
+- [00:35:59,618 - 00:36:00,618] with moral
+- [00:36:00,618 - 00:36:03,618] because we need that to be
+- [00:36:03,618 - 00:36:15,618] a moral virtue?
+- [00:36:15,618 - 00:36:17,618] Yes.
+- [00:36:17,618 - 00:36:19,618] Honest.
+- [00:36:19,618 - 00:36:25,618] Isso dá sentido
+- [00:36:25,618 - 00:36:27,838] whether it's positions or places in
+- [00:36:27,838 - 00:36:30,058] the class or income and wealth,
+- [00:36:31,458 - 00:36:34,098] is a matter of moral desert.
+- [00:36:36,238 - 00:36:38,318] Suppose that were the moral
+- [00:36:38,318 - 00:36:40,398] basis of Harvard's admissions policy.
+- [00:36:43,398 - 00:36:45,678] What letters would they have to write
+- [00:36:45,678 - 00:36:50,138] to people they rejected or accepted for that matter?
+- [00:36:50,918 - 00:36:52,638] Wouldn't they have to write something like this?
+- [00:36:52,638 - 00:36:54,478] Dear unsuccessful applicant,
+- [00:36:55,618 - 00:36:57,758] we regret to inform you that
+- [00:36:57,758 - 00:36:59,898] your application for admission has been rejected.
+- [00:37:00,698 - 00:37:02,758] It's not your fault that when you came along,
+- [00:37:02,978 - 00:37:04,608] society happened not to need
+- [00:37:04,608 - 00:37:06,238] the qualities you had to offer.
+- [00:37:07,998 - 00:37:10,218] Those admitted instead of you are
+- [00:37:10,218 - 00:37:12,438] not themselves deserving of a place,
+- [00:37:13,278 - 00:37:14,768] nor worthy of praise for the
+- [00:37:14,768 - 00:37:16,258] factors that led to their admission.
+- [00:37:17,098 - 00:37:19,838] We are in any case only using them and you
+- [00:37:19,838 - 00:37:21,978] as instruments of a wider social purpose.
+- [00:37:23,598 - 00:37:25,098] Better luck next time.
+- [00:37:25,618 - 00:37:28,148] What was the letter you
+- [00:37:28,148 - 00:37:30,678] actually got when you were admitted?
+- [00:37:32,258 - 00:37:34,278] Perhaps it should have read something like this.
+- [00:37:35,618 - 00:37:37,418] Dear successful applicant,
+- [00:37:38,418 - 00:37:40,358] we are pleased to inform you that
+- [00:37:40,358 - 00:37:42,298] your application for admission has been accepted.
+- [00:37:43,278 - 00:37:45,758] It turns out, lucky for you,
+- [00:37:46,918 - 00:37:48,338] that you have the traits
+- [00:37:48,338 - 00:37:49,758] that society needs at the moment,
+- [00:37:50,278 - 00:37:52,178] so we propose to exploit
+- [00:37:52,178 - 00:37:54,078] your assets for society's advantage.
+- [00:37:54,078 - 00:37:55,038] You've done it.
+- [00:37:55,038 - 00:37:55,598] It's the truth.
+- [00:37:55,618 - 00:37:57,968] are to be congratulated. Not in the sense
+- [00:37:57,968 - 00:38:00,318] that you deserve credit for having the qualities
+- [00:38:00,318 - 00:38:02,778] that led to your admission, but only in the
+- [00:38:02,778 - 00:38:05,238] sense that the winner of the lottery is to
+- [00:38:05,238 - 00:38:08,238] be congratulated. And if you choose to
+- [00:38:08,238 - 00:38:11,238] accept our offer, you will ultimately be entitled
+- [00:38:11,238 - 00:38:13,858] to the benefits that attach to being used
+- [00:38:13,858 - 00:38:16,478] in this way. We look forward to seeing you
+- [00:38:16,478 - 00:38:19,978] in the fall. Now, there is something a
+- [00:38:19,978 - 00:38:23,478] little odd, morally odd. If it's true that you're
+- [00:38:25,618 - 00:38:29,118] not going to be able to get a ticket
+- [00:38:29,118 - 00:38:32,618] to the Olympics, it's true that those letters do
+- [00:38:32,618 - 00:38:36,118] reflect the theory, the philosophy underlying the
+- [00:38:36,118 - 00:38:39,618] policy. So here's the question they pose.
+- [00:38:42,618 - 00:38:46,118] And it's a question that takes us back
+- [00:38:46,118 - 00:38:49,618] to a big issue in political philosophy. Is it
+- [00:38:49,618 - 00:38:52,118] possible and is it desirable to detach
+- [00:38:52,118 - 00:38:54,618] questions of desire from the political philosophy? And
+- [00:38:55,618 - 00:38:59,618] what have you learned from all of these conversations?
+- [00:39:00,618 - 00:39:02,118] Well, we'll first tell Mr.
+- [00:39:02,118 - 00:39:03,618] Regidor of what he knows best.
+- [00:39:09,118 - 00:39:11,618] If you had only a不会.
+- [00:39:14,618 - 00:39:17,618] Well, I'm happy to do that, but I forgot to
+- [00:39:17,618 - 00:39:20,618] turn to Mr. lugar on the topic of fair play here,
+- [00:39:20,618 - 00:39:22,618] since I knew that we all
+- [00:39:22,618 - 00:39:24,618] had protests going on out there.
+- [00:39:25,618 - 00:39:29,048] that the incentive, the reason he
+- [00:39:29,048 - 00:39:32,478] had for detaching distributive justice from moral
+- [00:39:32,478 - 00:39:35,978] desert was an egalitarian one. That if we
+- [00:39:35,978 - 00:39:39,478] set desert to one side, there's greater scope
+- [00:39:40,438 - 00:39:43,788] for the exercise of egalitarian considerations.
+- [00:39:43,788 - 00:39:47,138] The veil of ignorance, the two principles,
+- [00:39:47,138 - 00:39:50,298] the difference principle, helping the least
+- [00:39:50,298 - 00:39:53,458] well off, redistribution and all that. But
+- [00:39:53,458 - 00:39:56,958] what's interesting is if you look at
+- [00:39:56,958 - 00:40:00,458] a range of thinkers we've been considering, there
+- [00:40:02,778 - 00:40:05,708] does seem to be a reason they want
+- [00:40:05,708 - 00:40:08,638] to detach justice from desert that goes well beyond
+- [00:40:08,638 - 00:40:12,138] any concern for equality. Libertarian rights
+- [00:40:12,138 - 00:40:15,638] oriented theorists of the kind we've been
+- [00:40:16,838 - 00:40:19,838] studying, as well as egalitarian rights
+- [00:40:19,838 - 00:40:22,838] oriented theorists, including Rawls, and others, are
+- [00:40:23,458 - 00:40:26,958] all agree, despite their disagreements over
+- [00:40:26,958 - 00:40:30,458] distributive justice and the welfare state
+- [00:40:33,298 - 00:40:36,798] and all of that, they all agree that justice
+- [00:40:36,798 - 00:40:40,298] is not a matter of rewarding or honoring virtue
+- [00:40:44,838 - 00:40:48,338] or moral desert. Now why do they all
+- [00:40:48,338 - 00:40:51,838] think that? It can't just be for egalitarian reasons,
+- [00:40:51,898 - 00:40:52,858] not all of them.
+- [00:40:52,858 - 00:40:53,098] Okay.
+- [00:40:53,098 - 00:40:53,118] Okay.
+- [00:40:53,118 - 00:40:53,358] Okay.
+- [00:40:53,358 - 00:40:53,418] Okay.
+- [00:40:53,418 - 00:40:53,438] Okay.
+- [00:40:53,458 - 00:40:53,838] Okay.
+- [00:40:53,838 - 00:40:54,098] Okay.
+- [00:40:54,098 - 00:40:54,158] Okay.
+- [00:40:54,158 - 00:40:54,178] Okay.
+- [00:40:54,178 - 00:40:54,298] Okay.
+- [00:40:54,298 - 00:40:54,338] Okay.
+- [00:40:54,338 - 00:40:54,438] Okay.
+- [00:40:54,438 - 00:40:55,478] Okay.
+- [00:40:55,558 - 00:40:55,698] Okay.
+- [00:40:55,698 - 00:40:55,817] Okay.
+- [00:40:55,817 - 00:40:56,098] Okay.
+- [00:40:56,098 - 00:40:56,198] Okay.
+- [00:40:56,198 - 00:40:56,258] Okay.
+- [00:40:57,778 - 00:40:57,978] Okay.
+- [00:40:58,398 - 00:40:58,698] Okay.
+- [00:40:58,918 - 00:40:59,058] Okay.
+- [00:40:59,077 - 00:40:59,218] Okay.
+- [00:41:01,918 - 00:41:02,238] Okay.
+- [00:41:02,358 - 00:41:02,678] Okay.
+- [00:41:02,678 - 00:41:03,478] Okay.
+- [00:41:03,478 - 00:41:03,598] Okay.
+- [00:41:03,598 - 00:41:03,678] Okay.
+- [00:41:03,678 - 00:41:03,698] Okay.
+- [00:41:03,698 - 00:41:04,458] Okay.
+- [00:41:06,098 - 00:41:06,178] Okay.
+- [00:41:06,178 - 00:41:06,218] Okay.
+- [00:41:06,278 - 00:41:06,418] Okay.
+- [00:41:06,518 - 00:41:06,858] Okay.
+- [00:41:15,718 - 00:41:17,048] Well, so the problem here is I
+- [00:41:17,048 - 00:41:18,378] see a lack of on each side.
+- [00:41:18,378 - 00:41:18,778] Um,
+- [00:41:18,778 - 00:41:19,158] Portugal
+- [00:41:19,317 - 00:41:19,658] Actually seeing this,
+- [00:41:19,658 - 00:41:20,158] ope u
+- [00:41:20,158 - 00:41:20,178] U
+- [00:41:20,178 - 00:41:20,798] e
+- [00:41:20,798 - 00:41:22,718] o
+- [00:41:22,718 - 00:41:23,418] to
+- [00:41:23,418 - 00:41:26,918] their shared assumption, we need to turn
+- [00:41:26,918 - 00:41:30,418] to a thinker, to a philosopher who disagrees
+- [00:41:30,498 - 00:41:33,998] with them, who explicitly ties justice to
+- [00:41:33,998 - 00:41:37,498] honor, honoring virtue, and merit, and moral
+- [00:41:42,998 - 00:41:46,498] desert. And that thinker is Aristotle. Now,
+- [00:41:46,498 - 00:41:49,998] in many ways, Aristotle's idea of justice
+- [00:41:53,418 - 00:41:56,918] is intuitively very powerful. In some ways, it's
+- [00:41:56,918 - 00:42:00,418] strange. I want to bring out both its
+- [00:42:00,978 - 00:42:03,898] power, its plausibility, and its strangeness so that
+- [00:42:03,898 - 00:42:06,818] we can see what's at stake in this
+- [00:42:06,818 - 00:42:10,318] whole debate about justice and whether it's tied
+- [00:42:10,318 - 00:42:13,818] to desert and virtue. So, what is Aristotle's
+- [00:42:19,098 - 00:42:21,248] answer to the question about justice? For
+- [00:42:21,248 - 00:42:23,398] Aristotle, justice is a matter of honor, honor,
+- [00:42:23,398 - 00:42:26,178] honor, of giving people what they deserve,
+- [00:42:26,178 - 00:42:28,958] giving people their due. It's a matter of
+- [00:42:28,958 - 00:42:32,458] figuring out the proper fit between persons
+- [00:42:32,458 - 00:42:35,958] with their virtues and their appropriate social
+- [00:42:36,818 - 00:42:40,318] roles. Well, what does this picture of justice
+- [00:42:40,318 - 00:42:43,818] look like, and how does it differ from the
+- [00:42:45,298 - 00:42:48,798] conception that seems to be shared
+- [00:42:48,798 - 00:42:52,298] among libertarian and egalitarian rights-oriented theorists
+- [00:42:52,298 - 00:42:55,798] alike? Justice means giving each person his
+- [00:42:55,798 - 00:42:59,298] or her due, giving people what they deserve.
+- [00:43:02,538 - 00:43:05,758] But what is a person's due? What are
+- [00:43:05,758 - 00:43:08,978] the relevant grounds of merit or desert? Aristotle says
+- [00:43:08,978 - 00:43:12,478] that depends on the sort of things
+- [00:43:12,478 - 00:43:15,978] being distributed. Justice involves two factors-things and the
+- [00:43:17,897 - 00:43:18,847] persons to whom the things are assigned. In
+- [00:43:18,847 - 00:43:19,798] general, we say that a person gives away speech,
+- [00:43:19,798 - 00:43:19,807] which can be used for religious purposes. And
+- [00:43:19,807 - 00:43:19,817] that's a piece of evidence. So that also maintains
+- [00:43:19,817 - 00:43:20,107] that coke taxes were wrong, that it's really
+- [00:43:20,107 - 00:43:20,397] the creating of common roots in justice that
+- [00:43:20,397 - 00:43:20,417] really made things worse. And even though you
+- [00:43:20,417 - 00:43:20,438] could look at our time and say, Massacre, you're
+- [00:43:20,438 - 00:43:20,677] looking at some brilliant,ashi , you know,
+- [00:43:20,677 - 00:43:20,917] everyone's saying this, and even more greater minimizing
+- [00:43:20,917 - 00:43:20,967] them, and禁ed them. There's so much in it that
+- [00:43:20,967 - 00:43:21,018] we hate and don'tlaş we mean to deny of that.
+- [00:43:21,018 - 00:43:24,788] In general, we say, Aristotle writes, that persons who
+- [00:43:24,788 - 00:43:28,558] are equal should have equal things assigned to them.
+- [00:43:29,998 - 00:43:32,658] But here there arises a hard question.
+- [00:43:33,438 - 00:43:35,558] Equals in what respects?
+- [00:43:37,398 - 00:43:39,038] Aristotle says, that depends on
+- [00:43:39,038 - 00:43:40,678] the sort of thing we're distributing.
+- [00:43:41,918 - 00:43:44,857] Suppose we're distributing flutes.
+- [00:43:44,858 - 00:43:48,428] What is the relevant merit
+- [00:43:48,428 - 00:43:51,998] or basis of dessert for flutes?
+- [00:43:52,578 - 00:43:53,858] Who should get the best ones?
+- [00:43:55,218 - 00:43:56,418] What's Aristotle's answer?
+- [00:43:56,938 - 00:43:57,198] Anyone?
+- [00:44:00,038 - 00:44:02,438] The best flute players, right.
+- [00:44:04,978 - 00:44:06,678] Those who are best in the
+- [00:44:06,678 - 00:44:08,378] relevant sense, the best flute players.
+- [00:44:09,278 - 00:44:12,498] Is it just to discriminate in allocating flutes?
+- [00:44:12,498 - 00:44:12,618] Yes.
+- [00:44:13,918 - 00:44:14,498] All justice involved.
+- [00:44:14,858 - 00:44:16,898] All is discrimination, Aristotle says.
+- [00:44:18,638 - 00:44:21,438] What matters is that the discrimination
+- [00:44:21,438 - 00:44:24,238] be according to the relevant excellence.
+- [00:44:24,638 - 00:44:30,338] According to the virtue appropriate to having flutes.
+- [00:44:32,938 - 00:44:34,718] He says it would be unjust
+- [00:44:34,718 - 00:44:36,498] to discriminate on some other basis.
+- [00:44:37,778 - 00:44:39,358] In giving out the flutes.
+- [00:44:40,198 - 00:44:40,878] Say, wealth.
+- [00:44:42,238 - 00:44:44,798] Just giving the best flutes to the people who can,
+- [00:44:44,858 - 00:44:46,138] pay the highest price.
+- [00:44:46,138 - 00:44:48,138] Or nobility of birth.
+- [00:44:48,138 - 00:44:50,138] Just giving flutes to aristocrats.
+- [00:44:50,138 - 00:44:52,138] Or physical beauty.
+- [00:44:52,138 - 00:44:54,138] Giving the best flutes to the most handsome.
+- [00:44:54,138 - 00:44:56,138] Or chance, having a lottery.
+- [00:44:56,138 - 00:45:01,138] Aristotle says, birth and beauty may be greater
+- [00:45:01,138 - 00:45:06,138] goods than the ability to play the flute.
+- [00:45:06,138 - 00:45:10,138] And those who possess them may surpass the flute player more
+- [00:45:10,138 - 00:45:14,138] in these qualities than he surpasses them in his flute playing.
+- [00:45:14,858 - 00:45:17,608] But the fact remains that he is the
+- [00:45:17,608 - 00:45:20,358] person who ought to get the best flute.
+- [00:45:20,358 - 00:45:24,138] It's a strange idea, this comparison by the way.
+- [00:45:24,138 - 00:45:28,638] That, I mean, could you say, am I
+- [00:45:28,638 - 00:45:33,138] more handsome than she is a good lacrosse player?
+- [00:45:33,138 - 00:45:35,138] It's a strange kind of comparison.
+- [00:45:35,138 - 00:45:39,138] But putting that aside, Aristotle says, we're not
+- [00:45:39,138 - 00:45:43,138] looking for the best overall, whatever that might mean.
+- [00:45:43,138 - 00:45:44,138] We're looking for the best.
+- [00:45:44,858 - 00:45:45,858] The best musician.
+- [00:45:45,858 - 00:45:49,358] Now why, this is important to see, why should
+- [00:45:49,358 - 00:45:52,858] the best flutes go to the best flute players?
+- [00:45:56,858 - 00:45:58,858] Well, why do you think?
+- [00:46:00,858 - 00:46:01,858] Anybody?
+- [00:46:05,858 - 00:46:06,858] What?
+- [00:46:06,858 - 00:46:09,858] They'll produce the best music, well,
+- [00:46:09,858 - 00:46:12,858] and everybody will enjoy it more.
+- [00:46:12,858 - 00:46:14,858] That's not Aristotle's answer.
+- [00:46:14,858 - 00:46:18,858] Aristotle is not a utilitarian.
+- [00:46:18,858 - 00:46:21,858] He's not just saying, that way there will be better
+- [00:46:21,858 - 00:46:24,858] music and everyone will enjoy it, everyone will be better off.
+- [00:46:24,858 - 00:46:29,358] His answer is, the best flutes should go to
+- [00:46:29,358 - 00:46:33,858] the best flute players because that's what flutes are for.
+- [00:46:35,858 - 00:46:37,858] To be played well.
+- [00:46:38,858 - 00:46:41,358] The purpose of flute playing, the
+- [00:46:41,358 - 00:46:43,858] purpose is to produce excellent music.
+- [00:46:43,858 - 00:46:47,858] And those who can best perfect that
+- [00:46:47,858 - 00:46:51,858] purpose, ought properly to have the best ones.
+- [00:46:51,858 - 00:46:55,358] Now it may also be true, as a welcome
+- [00:46:55,358 - 00:46:58,858] side effect, that everyone will enjoy listening to that music.
+- [00:46:58,858 - 00:47:00,858] So, that answer is true
+- [00:47:00,858 - 00:47:02,858] enough as far as it goes.
+- [00:47:02,858 - 00:47:04,858] But it's important to see that
+- [00:47:04,858 - 00:47:06,858] Aristotle's reason is not a utilitarian reason.
+- [00:47:06,858 - 00:47:09,358] It's a reason that looks, here's where
+- [00:47:09,358 - 00:47:11,858] you might think it's a little bit strange.
+- [00:47:11,858 - 00:47:14,858] It looks to the purpose, the
+- [00:47:14,858 - 00:47:17,858] point, the goal of flute playing.
+- [00:47:17,858 - 00:47:21,858] Another way of describing this, looking to
+- [00:47:21,858 - 00:47:25,858] the goal to determine the just allocation.
+- [00:47:25,858 - 00:47:30,858] The Greek for goal or end was telos.
+- [00:47:30,858 - 00:47:35,858] So Aristotle says, you have to consider the point, the end, the
+- [00:47:35,858 - 00:47:40,858] goal, the telos of the thing, in this case of flute playing.
+- [00:47:41,858 - 00:47:45,358] And that's how you define
+- [00:47:45,358 - 00:47:48,858] a just allocation, a just discrimination.
+- [00:47:48,858 - 00:47:53,358] So this idea of reasoning from the
+- [00:47:53,358 - 00:47:57,858] goal, from the telos, is called teleological reasoning.
+- [00:47:57,858 - 00:48:00,858] Teleological moral reasoning.
+- [00:48:00,858 - 00:48:02,858] And that's Aristotle's way.
+- [00:48:02,858 - 00:48:05,858] Reasoning from the goal, from the end.
+- [00:48:05,858 - 00:48:10,858] Now this may seem, as I said, a strange idea.
+- [00:48:11,858 - 00:48:16,858] That we're supposed to reason from the purpose.
+- [00:48:16,858 - 00:48:20,858] But it is, does have a certain intuitive plausibility.
+- [00:48:20,858 - 00:48:24,858] Consider the allocation, let's say at Harvard,
+- [00:48:24,858 - 00:48:28,858] of the best tennis courts or squash courts.
+- [00:48:28,858 - 00:48:30,858] How should they be allocated?
+- [00:48:30,858 - 00:48:34,858] Who should have priority in playing on the best courts?
+- [00:48:34,858 - 00:48:37,358] Well, you might say, those
+- [00:48:37,358 - 00:48:39,858] who can play the best tennis.
+- [00:48:39,858 - 00:48:42,858] Those who can best afford them.
+- [00:48:42,858 - 00:48:44,858] Set up a fee system.
+- [00:48:44,858 - 00:48:45,858] Charge money for them.
+- [00:48:45,858 - 00:48:47,858] Aristotle would say no.
+- [00:48:47,858 - 00:48:51,858] You might say, well, Harvard big
+- [00:48:51,858 - 00:48:55,858] shots, the most influential people at Harvard.
+- [00:48:55,858 - 00:48:57,858] Who would they be?
+- [00:48:57,858 - 00:49:02,858] The senior faculty should have priority.
+- [00:49:02,858 - 00:49:04,858] In playing on the best tennis courts.
+- [00:49:04,858 - 00:49:07,858] No, Aristotle would reject that.
+- [00:49:09,858 - 00:49:13,358] Some scientist may be a greater scientist than
+- [00:49:13,358 - 00:49:16,858] some varsity tennis player is a tennis player.
+- [00:49:16,858 - 00:49:21,358] But still the tennis player is the one who should
+- [00:49:21,358 - 00:49:25,858] have priority for the best, playing on the best tennis court.
+- [00:49:25,858 - 00:49:29,858] There is a certain intuitive plausibility to this idea.
+- [00:49:29,858 - 00:49:34,358] Now, one of the things that makes it strange is that
+- [00:49:34,358 - 00:49:38,858] in Aristotle's world, in the ancient world, it wasn't only social practices.
+- [00:49:38,858 - 00:49:43,858] That were governed, in Aristotle's view,
+- [00:49:43,858 - 00:49:48,858] by teleological reasoning and teleological explanation.
+- [00:49:48,858 - 00:49:55,858] All of nature was understood to be a meaningful order.
+- [00:49:55,858 - 00:50:01,858] And what it meant to understand nature, to grasp nature, to find our place within
+- [00:50:01,858 - 00:50:07,858] nature, was to inquire into and read out the purposes or the telos of nature.
+- [00:50:07,858 - 00:50:10,858] And with the advent of modern science, it's
+- [00:50:10,858 - 00:50:13,858] been difficult to think of the world that way.
+- [00:50:13,858 - 00:50:16,858] And so it makes it harder, perhaps,
+- [00:50:16,858 - 00:50:19,858] to think of justice in a teleological way.
+- [00:50:19,858 - 00:50:23,358] But there is a certain naturalness to thinking
+- [00:50:23,358 - 00:50:26,858] about even the natural world as teleologically ordered.
+- [00:50:26,858 - 00:50:29,858] As a purpose of whole.
+- [00:50:29,858 - 00:50:32,358] In fact, children have to be educated out
+- [00:50:32,358 - 00:50:34,858] of this way of looking at the world.
+- [00:50:34,858 - 00:50:36,858] I realized this when I was a young boy.
+- [00:50:36,858 - 00:50:37,858] I was a teenager.
+- [00:50:37,858 - 00:50:40,358] I realized this when my kids were very
+- [00:50:40,358 - 00:50:42,858] young and I was reading them a book.
+- [00:50:42,858 - 00:50:45,858] Winnie the Pooh.
+- [00:50:45,858 - 00:50:53,358] And Winnie the Pooh gives you a great idea of how there is
+- [00:50:53,358 - 00:51:00,858] a certain natural childlike way of looking at the world in a teleological way.
+- [00:51:00,858 - 00:51:03,858] You may remember a story of Winnie
+- [00:51:03,858 - 00:51:06,858] the Pooh walking in the forest one day.
+- [00:51:06,858 - 00:51:09,858] And from the top of a
+- [00:51:09,858 - 00:51:12,858] tree there came a loud buzzing noise.
+- [00:51:12,858 - 00:51:15,358] Winnie the Pooh sat at the foot of the tree,
+- [00:51:15,358 - 00:51:17,858] put his head between his paws and began to think.
+- [00:51:17,858 - 00:51:19,858] Here's what he said to himself.
+- [00:51:19,858 - 00:51:23,858] That buzzing noise means something.
+- [00:51:23,858 - 00:51:26,858] You don't get a buzzing noise like that,
+- [00:51:26,858 - 00:51:29,858] just buzzing and buzzing, without its meaning something.
+- [00:51:29,858 - 00:51:31,858] If there's a buzzing noise,
+- [00:51:31,858 - 00:51:33,858] somebody's making a buzzing noise.
+- [00:51:33,858 - 00:51:34,358] And the only reason for making a buzzing noise that
+- [00:51:34,358 - 00:51:34,858] I know of, is because somebody's making a buzzing noise.
+- [00:51:34,858 - 00:51:35,358] And the only reason for making a buzzing noise that
+- [00:51:35,358 - 00:51:35,858] I know of, is because somebody's making a buzzing noise.
+- [00:51:35,858 - 00:51:37,358] If you know a buzzing noise that
+- [00:51:37,358 - 00:51:38,858] I know of, is because you're a bee.
+- [00:51:38,858 - 00:51:39,358] If you know a buzzing noise that
+- [00:51:39,358 - 00:51:39,858] I know of, is because you're a bee.
+- [00:51:41,858 - 00:51:44,758] Then he thought for another long time and said...
+- [00:51:44,758 - 00:51:48,308] And the only reason for being a
+- [00:51:48,308 - 00:51:51,858] bee that I know of, is making honey.
+- [00:51:53,858 - 00:51:57,858] And then he got up and he said...
+- [00:51:57,858 - 00:52:01,358] And the only reason for making
+- [00:52:01,358 - 00:52:04,858] honey is so I can eat it.
+- [00:52:04,858 - 00:52:09,858] This is an example of teleological reasoning.
+- [00:52:13,858 - 00:52:18,858] It isn't so implausible after all.
+- [00:52:19,858 - 00:52:22,358] Now, we grow up and
+- [00:52:22,358 - 00:52:24,858] we're talked out of this way,
+- [00:52:24,858 - 00:52:26,858] of thinking about the world.
+- [00:52:26,858 - 00:52:28,858] But here's the question.
+- [00:52:28,858 - 00:52:33,858] Even if teleological explanations are not so important,
+- [00:52:33,858 - 00:52:36,358] even if teleological explanations
+- [00:52:36,358 - 00:52:38,858] don't fit with modern science,
+- [00:52:38,858 - 00:52:42,858] even if we've outgrown them in understanding nature,
+- [00:52:42,858 - 00:52:45,858] isn't there something still
+- [00:52:45,858 - 00:52:48,858] intuitively and morally plausible,
+- [00:52:48,858 - 00:52:52,358] even powerful, about Aristotle's idea that
+- [00:52:52,358 - 00:52:55,858] the only way to think about justice
+- [00:52:55,858 - 00:52:59,358] is to reason from the purpose, the
+- [00:52:59,358 - 00:53:02,858] goal, the telos of the social practice,
+- [00:53:02,858 - 00:53:03,858] and isn't that precisely what we're talking about?
+- [00:53:03,858 - 00:53:05,858] That's not what we were doing
+- [00:53:05,858 - 00:53:07,858] when we were disagreeing about affirmative action.
+- [00:53:07,858 - 00:53:11,858] You could almost recast that disagreement
+- [00:53:11,858 - 00:53:18,858] as one about what the proper, appropriate purpose or end
+- [00:53:18,858 - 00:53:23,858] of a university education consists in.
+- [00:53:23,858 - 00:53:26,858] Reasoning from the purpose or from
+- [00:53:26,858 - 00:53:29,858] the telos or from the end,
+- [00:53:29,858 - 00:53:31,858] Aristotle says that's indispensable
+- [00:53:31,858 - 00:53:33,858] to thinking about justice.
+- [00:53:33,858 - 00:53:35,858] Is he right?
+- [00:53:35,858 - 00:53:37,858] Think about that question as
+- [00:53:37,858 - 00:53:39,858] you turn to Aristotle's politics.
+- [00:54:03,858 - 00:54:26,858] Teach Aristotle to discuss counsel within your own
+- [00:54:26,858 - 00:54:32,858] so it becomes clear that there are others and, somehow,
+- [00:54:32,858 - 00:54:43,858] Funding for this program is provided by...
+- [00:54:43,858 - 00:54:45,858] Additional funding provided by...

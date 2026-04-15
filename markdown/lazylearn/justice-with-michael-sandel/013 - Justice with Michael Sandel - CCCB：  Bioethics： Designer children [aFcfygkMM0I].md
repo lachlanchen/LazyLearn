@@ -1,0 +1,138 @@
+# Transcript
+
+Source: 013 - Justice with Michael Sandel - CCCB：  Bioethics： Designer children [aFcfygkMM0I].mkv
+
+- [00:00:00,000 - 00:00:02,500] It's a story of a couple
+- [00:00:02,500 - 00:00:05,000] who wanted to have a child.
+- [00:00:05,000 - 00:00:09,000] They wanted their child to be born deaf.
+- [00:00:09,000 - 00:00:12,500] The reason is that both
+- [00:00:12,500 - 00:00:16,000] of the partners were themselves deaf,
+- [00:00:16,000 - 00:00:21,000] and they wanted a child like themselves.
+- [00:00:21,000 - 00:00:24,000] So they sought out a sperm donor.
+- [00:00:24,000 - 00:00:28,000] They needed a sperm donor in any case,
+- [00:00:28,000 - 00:00:31,000] because this was a lesbian couple.
+- [00:00:31,000 - 00:00:36,000] They sought out a sperm donor who was himself deaf
+- [00:00:36,000 - 00:00:41,000] and who had five generations of deafness in his family.
+- [00:00:41,000 - 00:00:48,000] They conceived a child, and they succeeded.
+- [00:00:48,000 - 00:00:52,000] Their child was born deaf.
+- [00:00:58,000 - 00:01:01,000] They were born deaf.
+- [00:01:01,000 - 00:01:05,000] They had no other children.
+- [00:01:05,000 - 00:01:08,000] They had no other child.
+- [00:01:08,000 - 00:01:11,000] They had no other mother.
+- [00:01:11,000 - 00:01:14,000] They had no other child.
+- [00:01:14,000 - 00:01:18,500] The case of a deaf couple
+- [00:01:18,500 - 00:01:23,000] who wanted to have a deaf child
+- [00:01:23,000 - 00:01:26,000] raises one of the hard questions of the boundaries.
+- [00:01:26,000 - 00:01:27,000] They argued that deafness,
+- [00:01:27,000 - 00:01:32,000] is not a disability, but it's a distinctive identity.
+- [00:01:32,000 - 00:01:35,000] Now, is deafness a disability?
+- [00:01:35,000 - 00:01:37,000] Were they impairing the child?
+- [00:01:37,000 - 00:01:39,000] Or were they creating a
+- [00:01:39,000 - 00:01:41,000] child with an identity like theirs?
+- [00:01:41,000 - 00:01:44,000] That was a big debate.
+- [00:01:44,000 - 00:01:46,000] It was a controversial case.
+- [00:01:46,000 - 00:01:50,000] So we do, I think, have to
+- [00:01:50,000 - 00:01:54,000] recognize that there will be borderline cases.
+- [00:01:54,000 - 00:01:55,000] And we will have to
+- [00:01:55,000 - 00:01:56,000] argue as a society and debate.
+- [00:01:56,000 - 00:01:59,000] How to regard deafness.
+- [00:01:59,000 - 00:02:01,000] Or a tendency to obesity.
+- [00:02:01,000 - 00:02:03,000] Or baldness.
+- [00:02:03,000 - 00:02:08,000] Or what about teeth, straightening of teeth in orthodontia.
+- [00:02:08,000 - 00:02:10,000] Are these medically necessary?
+- [00:02:10,000 - 00:02:13,000] Or are they purely preferential?
+- [00:02:13,000 - 00:02:16,000] But what this means is that
+- [00:02:16,000 - 00:02:19,000] the new era of genetic technology
+- [00:02:19,000 - 00:02:23,000] requires that we have a public debate
+- [00:02:23,000 - 00:02:25,000] about the meaning of health,
+- [00:02:25,000 - 00:02:31,000] and I would say also the limits of genetic technology.
+- [00:02:41,000 - 00:02:45,500] I think some of the
+- [00:02:45,500 - 00:02:50,000] most penetrating, interesting criticisms and worries
+- [00:02:50,000 - 00:02:54,000] about biotechnology and genetic engineering
+- [00:02:54,000 - 00:02:57,000] have come to us in popular culture,
+- [00:02:57,000 - 00:03:00,000] including novels and film.
+- [00:03:00,000 - 00:03:02,000] Like most parents of their time,
+- [00:03:02,000 - 00:03:04,000] they were determined that their next child
+- [00:03:04,000 - 00:03:06,000] would come into the world in what had become
+- [00:03:06,000 - 00:03:08,000] the natural way.
+- [00:03:09,000 - 00:03:11,000] Their extracted ovules,
+- [00:03:11,000 - 00:03:13,000] the marie,
+- [00:03:13,000 - 00:03:17,000] have been fertilized with Antonio's sperm.
+- [00:03:18,000 - 00:03:21,000] After the exploration, we have two healthy boys
+- [00:03:21,000 - 00:03:23,000] and two very healthy girls.
+- [00:03:24,000 - 00:03:26,000] Naturally, without any predisposition
+- [00:03:26,000 - 00:03:28,000] to any hereditary disease.
+- [00:03:28,000 - 00:03:31,000] All that remains is to select the most compatible candidate.
+- [00:03:32,000 - 00:03:34,000] First, we can decide the sex.
+- [00:03:34,000 - 00:03:36,000] Have you thought about it?
+- [00:03:36,000 - 00:03:38,000] You see, we would like Vincent to
+- [00:03:38,000 - 00:03:40,000] have a brother to play with him.
+- [00:03:40,000 - 00:03:42,000] Of course. Hello, Vincent.
+- [00:03:42,000 - 00:03:44,000] Hello.
+- [00:03:44,000 - 00:03:47,000] I think there is a tendency today
+- [00:03:47,000 - 00:03:52,000] to embrace genetic technology and bioengineering,
+- [00:03:52,000 - 00:03:54,000] not only for health,
+- [00:03:54,000 - 00:03:57,000] where I think it's entirely appropriate,
+- [00:03:57,000 - 00:04:01,000] but also to give parents more choice
+- [00:04:01,000 - 00:04:06,000] about the genetic characteristics of their children.
+- [00:04:07,000 - 00:04:11,000] One of the most successful sperm banks in the world
+- [00:04:11,000 - 00:04:15,000] is called California Cryobank.
+- [00:04:15,000 - 00:04:18,000] It's a for-profit company. They sell sperm.
+- [00:04:18,000 - 00:04:22,000] And they sell sperm which is carefully calculated,
+- [00:04:22,000 - 00:04:24,500] cataloged according to the
+- [00:04:24,500 - 00:04:27,000] genetic characteristics of the donors.
+- [00:04:29,000 - 00:04:32,000] And very few donors are accepted.
+- [00:04:33,000 - 00:04:35,000] How do they choose the sperm donors?
+- [00:04:35,000 - 00:04:37,000] This company.
+- [00:04:37,000 - 00:04:40,000] They advertise for donors in college newspapers.
+- [00:04:41,000 - 00:04:45,000] The compensation, what do you suppose the compensation is?
+- [00:04:45,000 - 00:04:48,000] It's up to $900 per month.
+- [00:04:49,000 - 00:04:51,000] Ivy League sperm, they advertise.
+- [00:04:52,000 - 00:04:56,000] Not only that, they provide detailed information
+- [00:04:56,000 - 00:04:59,000] about the physical characteristics of each donor,
+- [00:04:59,000 - 00:05:02,000] ethnic origin, college major.
+- [00:05:02,000 - 00:05:06,000] Now, the company has no eugenic purpose.
+- [00:05:06,000 - 00:05:08,000] They just want to make money.
+- [00:05:08,000 - 00:05:10,000] It's a commercial company.
+- [00:05:14,000 - 00:05:16,000] And I think that represents a danger.
+- [00:05:16,000 - 00:05:23,000] And because what it does really is to turn children
+- [00:05:23,000 - 00:05:27,000] and childbearing into an extension of the consumer society,
+- [00:05:27,000 - 00:05:29,000] to turn children into commodities.
+- [00:05:29,000 - 00:05:35,000] But in principle, what those technologies will make possible
+- [00:05:35,000 - 00:05:38,000] will be an explosion of responsibility
+- [00:05:38,000 - 00:05:43,000] of parents for the genetic design of their children.
+- [00:05:43,000 - 00:05:45,000] Yeah, now get ready for the age of designer babies.
+- [00:05:45,000 - 00:05:48,000] An L.A. fertility clinic says it will soon allow parents
+- [00:05:48,000 - 00:05:51,500] to choose traits like gender, hair
+- [00:05:51,500 - 00:05:55,000] color, eye color, and skin color.
+- [00:05:55,000 - 00:05:57,000] Doctors there are using technology,
+- [00:05:57,000 - 00:05:59,000] usually use the screen for diseases,
+- [00:05:59,000 - 00:06:01,000] and there is not a single law on
+- [00:06:01,000 - 00:06:03,000] the books in this country to stop them.
+- [00:06:07,000 - 00:06:09,500] So, this is the first self-replicating
+- [00:06:09,500 - 00:06:12,000] species that we've had on the planet
+- [00:06:12,000 - 00:06:14,000] whose parent is a computer.
+- [00:06:15,000 - 00:06:19,000] It also is the first species to have
+- [00:06:19,000 - 00:06:23,000] its own website encoded in its genetic code.
+- [00:06:23,000 - 00:06:26,000] So, in that case, it's possible that
+- [00:06:26,000 - 00:06:29,000] children will come to hold their parents responsible
+- [00:06:29,000 - 00:06:31,500] for their genetic characteristics, for
+- [00:06:31,500 - 00:06:34,000] their height, for their physical appearance,
+- [00:06:34,000 - 00:06:37,000] maybe even for their academic performance.
+- [00:06:37,000 - 00:06:39,500] I think that would damage
+- [00:06:39,500 - 00:06:42,000] the relation between parents and children,
+- [00:06:42,000 - 00:06:43,500] and it would really be
+- [00:06:43,500 - 00:06:45,000] also the commodification of the relationship
+- [00:06:45,000 - 00:06:47,000] between parents and children.
+- [00:06:47,000 - 00:06:51,000] And I think those consumer uses of genetic engineering
+- [00:06:51,000 - 00:06:55,000] are morally impermissible.
+- [00:06:55,000 - 00:06:57,500] But basically, there are two
+- [00:06:57,500 - 00:07:00,000] agencies who can ultimately decide.
+- [00:07:00,000 - 00:07:03,000] There is the market, which essentially
+- [00:07:03,000 - 00:07:06,000] is what will make these decisions
+- [00:07:06,000 - 00:07:10,000] if there is no public collective decision,
+- [00:07:10,000 - 00:07:13,000] or there are democratic institutions.
+- [00:07:13,000 - 00:07:16,000] And I hope that democratically
+- [00:07:16,000 - 00:07:19,000] we will have a public debate
+- [00:07:19,000 - 00:07:22,000] and a public decision taking about
+- [00:07:22,000 - 00:07:25,000] the ethical limits of new biotechnology.

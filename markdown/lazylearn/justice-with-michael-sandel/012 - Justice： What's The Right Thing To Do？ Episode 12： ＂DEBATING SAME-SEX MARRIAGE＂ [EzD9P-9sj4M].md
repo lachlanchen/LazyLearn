@@ -1,0 +1,1389 @@
+# Transcript
+
+Source: 012 - Justice： What's The Right Thing To Do？ Episode 12： ＂DEBATING SAME-SEX MARRIAGE＂ [EzD9P-9sj4M].webm
+
+- [00:00:00,000 - 00:00:05,000] Funding for this program is provided by
+- [00:00:05,000 - 00:00:09,000] Additional funding provided by
+- [00:00:09,000 - 00:00:30,000] The U.S. Department of Education
+- [00:00:30,000 - 00:00:32,500] We ended last time talking about
+- [00:00:32,500 - 00:00:35,000] the narrative conception of the self.
+- [00:00:35,000 - 00:00:39,000] We were testing the narrative conception
+- [00:00:39,000 - 00:00:42,500] of the self and the idea
+- [00:00:42,500 - 00:00:46,000] of obligations of solidarity or membership
+- [00:00:46,000 - 00:00:50,000] that did not flow from consent
+- [00:00:50,000 - 00:00:53,000] that claimed us for reasons unrelated
+- [00:00:53,000 - 00:00:56,000] to a contract or an agreement
+- [00:00:56,000 - 00:00:59,000] or a choice we may have made.
+- [00:00:59,000 - 00:01:02,000] And we were debating among ourselves whether
+- [00:01:02,000 - 00:01:05,000] there are any obligations of this kind
+- [00:01:05,000 - 00:01:07,000] or whether all apparent
+- [00:01:07,000 - 00:01:09,000] obligations of solidarity and membership
+- [00:01:09,000 - 00:01:14,000] can be translated into consent or reciprocity
+- [00:01:14,000 - 00:01:19,000] or a universal duty that we owe persons qua persons.
+- [00:01:19,000 - 00:01:23,000] And then there were those who defended
+- [00:01:23,000 - 00:01:27,000] the idea of loyalty and of patriotism.
+- [00:01:27,000 - 00:01:30,500] So the idea of loyalty
+- [00:01:30,500 - 00:01:34,000] and of solidarity and of membership
+- [00:01:34,000 - 00:01:36,000] gathered a certain kind of
+- [00:01:36,000 - 00:01:38,000] intuitive moral force in our discussion.
+- [00:01:39,000 - 00:01:42,000] And then, as we concluded,
+- [00:01:42,000 - 00:01:45,000] we considered what seems to be
+- [00:01:45,000 - 00:01:48,000] a pretty powerful counter-example to that idea.
+- [00:01:48,000 - 00:01:52,000] Namely, the film of those
+- [00:01:52,000 - 00:01:56,000] southern segregationists in the 1950s.
+- [00:01:56,000 - 00:02:02,000] And they talked all about their traditions, their history,
+- [00:02:02,000 - 00:02:04,000] the way in which their identities
+- [00:02:04,000 - 00:02:06,000] were bound up with their life history.
+- [00:02:06,000 - 00:02:08,000] Do you remember that?
+- [00:02:08,000 - 00:02:11,000] And what flowed from that history,
+- [00:02:11,000 - 00:02:13,500] from that narrative sense of
+- [00:02:13,500 - 00:02:16,000] identity for those southern segregationists?
+- [00:02:16,000 - 00:02:19,000] They said we have to defend our way of life.
+- [00:02:19,000 - 00:02:21,500] Is this a fatal or
+- [00:02:21,500 - 00:02:24,000] a decisive objection to the idea
+- [00:02:24,000 - 00:02:26,000] of the narrative conception of the self?
+- [00:02:26,000 - 00:02:29,000] That's the question we were left with.
+- [00:02:29,000 - 00:02:32,000] What I would like to do today
+- [00:02:32,000 - 00:02:33,500] is to advance an argument and
+- [00:02:33,500 - 00:02:35,000] see what you make of it.
+- [00:02:35,000 - 00:02:37,000] And let me tell you what that argument is.
+- [00:02:38,000 - 00:02:43,000] I would like to defend
+- [00:02:43,000 - 00:02:47,000] the narrative conception of the person
+- [00:02:47,000 - 00:02:51,000] as against the voluntrous conception.
+- [00:02:51,000 - 00:02:55,000] I would like to defend
+- [00:02:55,000 - 00:02:57,500] the idea that there are
+- [00:02:57,500 - 00:03:00,000] obligations of solidarity or membership.
+- [00:03:00,000 - 00:03:04,000] Then, I want to suggest
+- [00:03:04,000 - 00:03:07,000] that there being such obligations,
+- [00:03:08,000 - 00:03:11,000] lends force to the idea,
+- [00:03:11,000 - 00:03:13,000] when we turn to justice,
+- [00:03:13,000 - 00:03:15,000] that arguments about justice
+- [00:03:15,000 - 00:03:19,000] can't be detached, cannot be detached after all,
+- [00:03:19,000 - 00:03:22,000] from questions of the good.
+- [00:03:22,000 - 00:03:26,000] But I wanted to distinguish two different ways
+- [00:03:26,000 - 00:03:30,000] in which justice might be tied to the good
+- [00:03:30,000 - 00:03:33,000] and argue for one of them.
+- [00:03:33,000 - 00:03:35,000] Now, the voluntrous conception of
+- [00:03:35,000 - 00:03:37,000] the person of Kant and Rawls,
+- [00:03:37,000 - 00:03:40,000] we saw was powerful and liberating.
+- [00:03:40,000 - 00:03:44,000] A further appeal is its universal aspiration.
+- [00:03:46,000 - 00:03:49,000] The idea of treating persons as persons,
+- [00:03:49,000 - 00:03:53,000] without prejudice, without discrimination.
+- [00:03:55,000 - 00:03:59,000] And I think that's what led some among us
+- [00:03:59,000 - 00:04:01,000] to argue that, okay, maybe
+- [00:04:01,000 - 00:04:03,000] there are obligations of membership,
+- [00:04:03,000 - 00:04:05,000] but they are always subordinate,
+- [00:04:05,000 - 00:04:07,000] they must always be subordinate.
+- [00:04:07,000 - 00:04:09,000] To the duties that we
+- [00:04:09,000 - 00:04:11,000] have to human beings as such,
+- [00:04:11,000 - 00:04:13,000] the universal duties.
+- [00:04:13,000 - 00:04:16,000] But is that right?
+- [00:04:16,000 - 00:04:23,000] If our encompassing loyalties should always take precedence
+- [00:04:23,000 - 00:04:26,000] over more particular ones,
+- [00:04:26,000 - 00:04:30,000] then the distinction between friends and strangers
+- [00:04:30,000 - 00:04:32,000] should ideally be overcome.
+- [00:04:32,000 - 00:04:35,000] Our special concern for the welfare of friends
+- [00:04:35,000 - 00:04:36,000] would be a kind of prejudice.
+- [00:04:36,000 - 00:04:41,000] A measure of our distance from universal human concern.
+- [00:04:41,000 - 00:04:46,000] But if you look closely at that idea,
+- [00:04:46,000 - 00:04:49,000] what kind of a moral universe,
+- [00:04:49,000 - 00:04:53,000] what kind of moral imagination would that lead you to?
+- [00:04:56,000 - 00:04:59,000] The enlightenment philosopher Montesquieu
+- [00:04:59,000 - 00:05:02,000] gives perhaps the most powerful,
+- [00:05:02,000 - 00:05:05,000] and I think ultimately the most honest account
+- [00:05:05,000 - 00:05:09,000] of where this relentless,
+- [00:05:09,000 - 00:05:12,000] universalizing tendency
+- [00:05:12,000 - 00:05:15,000] leads the moral imagination.
+- [00:05:15,000 - 00:05:17,000] Here's how Montesquieu put it.
+- [00:05:17,000 - 00:05:18,000] He said,
+- [00:05:18,000 - 00:05:20,000] a truly virtuous man
+- [00:05:20,000 - 00:05:22,000] would come to the aid of the most distant stranger
+- [00:05:22,000 - 00:05:25,000] as quickly as to his own friend.
+- [00:05:25,000 - 00:05:26,000] And then he adds,
+- [00:05:26,000 - 00:05:28,000] listen to this,
+- [00:05:28,000 - 00:05:31,000] if men were perfectly virtuous,
+- [00:05:31,000 - 00:05:33,000] they wouldn't have friends.
+- [00:05:35,000 - 00:05:38,000] But it's difficult to imagine a world
+- [00:05:38,000 - 00:05:40,000] in which persons were so virtuous
+- [00:05:40,000 - 00:05:42,000] that they had no friends,
+- [00:05:42,000 - 00:05:45,000] only a universal disposition to friendliness.
+- [00:05:45,000 - 00:05:49,000] The problem isn't simply
+- [00:05:49,000 - 00:05:52,000] that such a world would be difficult to bring about,
+- [00:05:52,000 - 00:05:55,000] that it's unrealistic.
+- [00:05:55,000 - 00:05:58,000] The deeper problem is that
+- [00:05:58,000 - 00:06:00,000] such a world would be difficult to recognize
+- [00:06:00,000 - 00:06:03,000] as a human world.
+- [00:06:03,000 - 00:06:05,000] The love of humanity is a noble secret,
+- [00:06:05,000 - 00:06:08,000] and it's not just a sentimental sentiment.
+- [00:06:08,000 - 00:06:10,000] But most of the time,
+- [00:06:10,000 - 00:06:13,000] we live our lives by smaller solidarities.
+- [00:06:14,000 - 00:06:16,000] This may reflect certain limits
+- [00:06:16,000 - 00:06:19,000] to the bounds of moral sympathy,
+- [00:06:19,000 - 00:06:20,000] but more important,
+- [00:06:20,000 - 00:06:22,000] it reflects the fact
+- [00:06:22,000 - 00:06:24,000] that we learn to love humanity,
+- [00:06:24,000 - 00:06:26,000] not in general,
+- [00:06:26,000 - 00:06:29,000] but through its particular expressions.
+- [00:06:30,000 - 00:06:33,000] So, these are some considerations.
+- [00:06:33,000 - 00:06:35,000] They're not knock-down arguments.
+- [00:06:35,000 - 00:06:37,000] But moral philosophy
+- [00:06:37,000 - 00:06:39,000] can't offer knock-down arguments,
+- [00:06:39,000 - 00:06:41,000] but considerations
+- [00:06:41,000 - 00:06:44,000] of the kinds that we've been discussing
+- [00:06:44,000 - 00:06:47,000] and arguing about all along.
+- [00:06:47,000 - 00:06:50,000] Well, suppose that's right.
+- [00:06:50,000 - 00:06:52,000] One way of assessing whether this picture
+- [00:06:52,000 - 00:06:54,000] of the person and of obligation is right
+- [00:06:54,000 - 00:06:59,000] is to see what are its consequences for justice.
+- [00:07:00,000 - 00:07:03,000] And here's where it confronts a serious problem.
+- [00:07:03,000 - 00:07:04,000] And here we go back to our Southern segment,
+- [00:07:04,000 - 00:07:07,000] back to our Southern segregationists.
+- [00:07:07,000 - 00:07:09,000] They felt the weight of history.
+- [00:07:09,000 - 00:07:12,000] Do we admire their character,
+- [00:07:12,000 - 00:07:13,000] these segregationists,
+- [00:07:13,000 - 00:07:16,000] who wanted to preserve their way of life?
+- [00:07:16,000 - 00:07:19,000] Are we committed to saying,
+- [00:07:19,000 - 00:07:22,000] if we accept the idea of solidarity and membership,
+- [00:07:22,000 - 00:07:25,000] are we committed to saying
+- [00:07:25,000 - 00:07:28,000] that justice is tied to the good
+- [00:07:28,000 - 00:07:31,000] in the sense that justice means
+- [00:07:31,000 - 00:07:33,000] whatever a particular community or tradition
+- [00:07:33,000 - 00:07:35,000] says it means,
+- [00:07:35,000 - 00:07:38,000] including those Southern segregationists?
+- [00:07:41,000 - 00:07:43,000] Here it's important to distinguish
+- [00:07:43,000 - 00:07:46,000] two different ways
+- [00:07:46,000 - 00:07:50,000] in which justice can be tied to the good.
+- [00:07:50,000 - 00:07:52,000] One is a relativist way.
+- [00:07:52,000 - 00:07:55,000] That's the way that says
+- [00:07:55,000 - 00:07:56,000] to think about rights,
+- [00:07:56,000 - 00:07:58,000] to think about justice,
+- [00:07:58,000 - 00:08:01,000] look to the values that happen to prevail
+- [00:08:01,000 - 00:08:02,000] in any given community
+- [00:08:02,000 - 00:08:05,000] at any given time.
+- [00:08:05,000 - 00:08:10,000] Don't judge them by some outside standard,
+- [00:08:10,000 - 00:08:12,000] but instead conceive justice
+- [00:08:12,000 - 00:08:13,000] as a matter of being faithful
+- [00:08:13,000 - 00:08:15,000] to the shared understandings
+- [00:08:15,000 - 00:08:18,000] of a particular tradition.
+- [00:08:18,000 - 00:08:20,000] But there's a problem with this way
+- [00:08:20,000 - 00:08:23,000] of tying justice to the good.
+- [00:08:23,000 - 00:08:26,000] The problem is that it makes justice
+- [00:08:26,000 - 00:08:29,000] wholly conventional,
+- [00:08:29,000 - 00:08:31,000] a product of circumstance.
+- [00:08:31,000 - 00:08:33,000] And this deprives justice
+- [00:08:33,000 - 00:08:36,000] of its critical character.
+- [00:08:36,000 - 00:08:38,000] But there is a second way
+- [00:08:38,000 - 00:08:41,000] in which justice can be tied with
+- [00:08:41,000 - 00:08:43,000] or bound up with the good.
+- [00:08:43,000 - 00:08:46,000] On this second non-relativist way
+- [00:08:46,000 - 00:08:49,000] of linking justice with conceptions of the good,
+- [00:08:49,000 - 00:08:51,000] principles of justice depend
+- [00:08:51,000 - 00:08:52,000] for their justification
+- [00:08:52,000 - 00:08:54,000] not on the values that happen to prevail
+- [00:08:54,000 - 00:08:57,000] at any given moment in a certain place,
+- [00:08:57,000 - 00:08:59,000] but instead on the moral worth
+- [00:08:59,000 - 00:09:00,000] or the intrinsic value
+- [00:09:00,000 - 00:09:03,000] of the ends rights serve.
+- [00:09:03,000 - 00:09:05,000] On this non-relativist view,
+- [00:09:05,000 - 00:09:07,000] the case for recognizing a right
+- [00:09:07,000 - 00:09:09,000] depends on showing that it honors
+- [00:09:09,000 - 00:09:12,000] or advances some important human good.
+- [00:09:12,000 - 00:09:15,000] This second way of tying justice
+- [00:09:15,000 - 00:09:17,000] to the good is not,
+- [00:09:17,000 - 00:09:18,000] strictly speaking,
+- [00:09:18,000 - 00:09:20,000] communitarian,
+- [00:09:20,000 - 00:09:22,000] if by communitarian you mean
+- [00:09:22,000 - 00:09:24,000] just giving over to a particular
+- [00:09:24,000 - 00:09:26,000] individual or a particular group
+- [00:09:26,000 - 00:09:27,000] of people.
+- [00:09:27,000 - 00:09:28,000] It's a way of tying justice
+- [00:09:28,000 - 00:09:29,000] to the good,
+- [00:09:29,000 - 00:09:32,000] or to a particular community,
+- [00:09:32,000 - 00:09:34,000] the definition of justice.
+- [00:09:36,000 - 00:09:38,000] Now what I would like to suggest
+- [00:09:38,000 - 00:09:39,000] that of these two different ways
+- [00:09:39,000 - 00:09:42,000] of linking justice to the good,
+- [00:09:42,000 - 00:09:45,000] the first is insufficient.
+- [00:09:45,000 - 00:09:47,000] Because the first leaves justice
+- [00:09:47,000 - 00:09:50,000] the creature of convention.
+- [00:09:50,000 - 00:09:53,000] It doesn't give us enough moral resources
+- [00:09:53,000 - 00:09:55,000] to respond to those southern segregationists
+- [00:09:55,000 - 00:09:57,000] who invoke their way of life,
+- [00:09:57,000 - 00:09:58,000] their traditions,
+- [00:09:58,000 - 00:10:01,000] their way of doing things.
+- [00:10:05,000 - 00:10:07,000] But if justice is bound up
+- [00:10:07,000 - 00:10:09,000] with the good in a non-relativist way,
+- [00:10:09,000 - 00:10:11,000] there's a big challenge,
+- [00:10:11,000 - 00:10:14,000] a big question to answer.
+- [00:10:14,000 - 00:10:17,000] How can we reason about the good?
+- [00:10:19,000 - 00:10:21,000] What about the fact that people
+- [00:10:21,000 - 00:10:24,000] hold different conceptions of the good,
+- [00:10:24,000 - 00:10:26,000] different ideas about the purposes
+- [00:10:26,000 - 00:10:28,000] of key social institutions?
+- [00:10:28,000 - 00:10:31,000] Different ideas about what social goods
+- [00:10:31,000 - 00:10:33,000] and human goods are worthy of honor
+- [00:10:33,000 - 00:10:35,000] and recognition?
+- [00:10:35,000 - 00:10:38,000] We live in a pluralist society.
+- [00:10:38,000 - 00:10:40,000] People disagree about the good.
+- [00:10:40,000 - 00:10:41,000] That's one of the incentives
+- [00:10:41,000 - 00:10:43,000] to try to find principles of justice
+- [00:10:43,000 - 00:10:45,000] and rights that don't depend
+- [00:10:45,000 - 00:10:48,000] on any particular ends or purposes
+- [00:10:48,000 - 00:10:50,000] or goods.
+- [00:10:50,000 - 00:10:53,000] So is there a way to reason about the good?
+- [00:10:53,000 - 00:10:57,000] Before addressing that question,
+- [00:10:57,000 - 00:11:00,000] I want to address a slightly easier question.
+- [00:11:00,000 - 00:11:03,000] Is it necessary, is it unavoidable
+- [00:11:03,000 - 00:11:05,000] when arguing about justice
+- [00:11:05,000 - 00:11:07,000] to argue about the good?
+- [00:11:07,000 - 00:11:10,000] And my answer to that question is yes.
+- [00:11:10,000 - 00:11:11,000] It's unavoidable.
+- [00:11:11,000 - 00:11:13,000] It's necessary.
+- [00:11:13,000 - 00:11:15,000] So for the remainder of today,
+- [00:11:15,000 - 00:11:16,000] I want to take up,
+- [00:11:16,000 - 00:11:20,000] I want to try to advance that claim.
+- [00:11:20,000 - 00:11:22,000] That reasoning about the good,
+- [00:11:22,000 - 00:11:24,000] about purposes and ends
+- [00:11:24,000 - 00:11:26,000] is inevitable.
+- [00:11:26,000 - 00:11:28,000] And that reasoning about the good
+- [00:11:28,000 - 00:11:30,000] and ends is an unavoidable feature
+- [00:11:30,000 - 00:11:32,000] of arguing about justice.
+- [00:11:32,000 - 00:11:34,000] It's necessary.
+- [00:11:34,000 - 00:11:36,000] Let me see if I can establish that.
+- [00:11:36,000 - 00:11:38,000] And for that, I'd like for us
+- [00:11:38,000 - 00:11:42,000] to begin a discussion of same-sex marriage.
+- [00:11:42,000 - 00:11:46,000] Now, same-sex marriage draws on,
+- [00:11:46,000 - 00:11:50,000] implicates deeply contested
+- [00:11:50,000 - 00:11:54,000] and controversial ideas
+- [00:11:54,000 - 00:11:57,000] religiously.
+- [00:11:57,000 - 00:12:00,000] And so there's a powerful incentive
+- [00:12:00,000 - 00:12:03,000] to embrace a conception of justice
+- [00:12:03,000 - 00:12:04,000] or of rights
+- [00:12:04,000 - 00:12:06,000] that doesn't require the society as a whole
+- [00:12:06,000 - 00:12:09,000] to pass judgment, one way or another,
+- [00:12:09,000 - 00:12:13,000] on those hotly contested
+- [00:12:13,000 - 00:12:15,000] moral and religious questions
+- [00:12:15,000 - 00:12:18,000] about the moral permissibility of homosexuality,
+- [00:12:18,000 - 00:12:21,000] about the proper ends of marriage
+- [00:12:21,000 - 00:12:23,000] as a social institution.
+- [00:12:23,000 - 00:12:25,000] So clearly, if there's an incentive
+- [00:12:25,000 - 00:12:27,000] to resolve this question,
+- [00:12:27,000 - 00:12:28,000] to define people's rights
+- [00:12:28,000 - 00:12:30,000] in a way that doesn't require
+- [00:12:30,000 - 00:12:31,000] the society as a whole
+- [00:12:31,000 - 00:12:34,000] to sort out those moral and religious disputes,
+- [00:12:34,000 - 00:12:37,000] that would be very attractive.
+- [00:12:37,000 - 00:12:39,000] So what I would like to do now
+- [00:12:39,000 - 00:12:42,000] is to see, using the same-sex marriage case,
+- [00:12:42,000 - 00:12:44,000] whether it's possible
+- [00:12:44,000 - 00:12:47,000] to detach one's views
+- [00:12:47,000 - 00:12:50,000] about the moral permissibility of homosexuality
+- [00:12:50,000 - 00:12:52,000] and about the purpose,
+- [00:12:52,000 - 00:12:54,000] the end of marriage,
+- [00:12:54,000 - 00:12:57,000] to detach those questions
+- [00:12:57,000 - 00:12:59,000] from the question of whether the state
+- [00:12:59,000 - 00:13:02,000] should recognize same-sex marriage or not.
+- [00:13:02,000 - 00:13:05,000] So let's begin.
+- [00:13:05,000 - 00:13:07,000] I would like to begin
+- [00:13:07,000 - 00:13:09,000] by hearing the arguments of those
+- [00:13:09,000 - 00:13:11,000] who believe that there should be
+- [00:13:11,000 - 00:13:13,000] no same-sex marriage,
+- [00:13:13,000 - 00:13:15,000] but that the state should only recognize
+- [00:13:15,000 - 00:13:18,000] marriage between a man and a woman.
+- [00:13:18,000 - 00:13:19,000] Do I have volunteers?
+- [00:13:19,000 - 00:13:20,000] I had two.
+- [00:13:20,000 - 00:13:22,000] There were two people I had
+- [00:13:22,000 - 00:13:25,000] and I asked people who had voiced their views already
+- [00:13:25,000 - 00:13:27,000] on the Justice blog,
+- [00:13:27,000 - 00:13:29,000] Mark Luff and Ryan McCaffrey.
+- [00:13:29,000 - 00:13:31,000] Where are you?
+- [00:13:31,000 - 00:13:32,000] Okay.
+- [00:13:32,000 - 00:13:33,000] Mark?
+- [00:13:33,000 - 00:13:34,000] And where's Ryan?
+- [00:13:34,000 - 00:13:35,000] All right.
+- [00:13:35,000 - 00:13:38,000] Let's go first to Mark.
+- [00:13:38,000 - 00:13:40,000] I have sort of a teleological understanding
+- [00:13:40,000 - 00:13:43,000] of the purpose of sex
+- [00:13:43,000 - 00:13:45,000] and the purpose of marriage.
+- [00:13:45,000 - 00:13:48,000] And I think that for people like myself
+- [00:13:48,000 - 00:13:50,000] who are a Christian
+- [00:13:50,000 - 00:13:52,000] and also a Catholic,
+- [00:13:52,000 - 00:13:55,000] the purpose of sex is,
+- [00:13:55,000 - 00:13:59,000] one, for its procreative uses
+- [00:13:59,000 - 00:14:02,000] and two, for a unifying purpose
+- [00:14:02,000 - 00:14:04,000] between a man and a woman
+- [00:14:04,000 - 00:14:07,000] within the institution of marriage.
+- [00:14:07,000 - 00:14:09,000] You have a certain conception
+- [00:14:09,000 - 00:14:11,000] of the purpose or the telos
+- [00:14:11,000 - 00:14:13,000] of human sexuality,
+- [00:14:13,000 - 00:14:16,000] which is bound up with procreation
+- [00:14:16,000 - 00:14:18,000] as well as union.
+- [00:14:18,000 - 00:14:20,000] And the essence of marriage,
+- [00:14:20,000 - 00:14:22,000] the purpose of marriage,
+- [00:14:22,000 - 00:14:24,000] as a social institution,
+- [00:14:24,000 - 00:14:28,000] is to give expression to that telos
+- [00:14:28,000 - 00:14:30,000] and to honor that purpose,
+- [00:14:30,000 - 00:14:33,000] namely the procreative purpose of marriage.
+- [00:14:33,000 - 00:14:36,000] Is that a fair summary of your view?
+- [00:14:36,000 - 00:14:37,000] Yeah.
+- [00:14:37,000 - 00:14:38,000] Where is Ryan?
+- [00:14:38,000 - 00:14:39,000] Go ahead.
+- [00:14:39,000 - 00:14:42,000] Do you agree more or less with Mark's reasons?
+- [00:14:42,000 - 00:14:45,000] Yes, I agree.
+- [00:14:45,000 - 00:14:49,000] I think that the ideal of marriage
+- [00:14:49,000 - 00:14:51,000] involves procreation.
+- [00:14:51,000 - 00:14:53,000] And it's fine that, you know,
+- [00:14:53,000 - 00:14:55,000] homosexuals would go off
+- [00:14:55,000 - 00:14:58,000] and cohabitate with each other,
+- [00:14:58,000 - 00:15:00,000] but the government doesn't have a responsibility
+- [00:15:00,000 - 00:15:01,000] to encourage that.
+- [00:15:01,000 - 00:15:02,000] All right.
+- [00:15:02,000 - 00:15:05,000] So the government should not encourage
+- [00:15:05,000 - 00:15:06,000] homosexual behavior
+- [00:15:06,000 - 00:15:10,000] by conferring the recognition of marriage.
+- [00:15:10,000 - 00:15:11,000] Yeah.
+- [00:15:11,000 - 00:15:13,000] It would be wrong to outlaw it,
+- [00:15:13,000 - 00:15:15,000] but encouraging it is not necessary.
+- [00:15:15,000 - 00:15:17,000] Who has a reply?
+- [00:15:21,000 - 00:15:23,000] Yes.
+- [00:15:25,000 - 00:15:26,000] Hannah.
+- [00:15:26,000 - 00:15:28,000] I'd just like to ask a question to Mark.
+- [00:15:28,000 - 00:15:30,000] Let's say you got married to a woman,
+- [00:15:30,000 - 00:15:32,000] you did not have sex with her before marriage,
+- [00:15:32,000 - 00:15:34,000] and then when you became married,
+- [00:15:34,000 - 00:15:37,000] it became evident that you were an infertile couple.
+- [00:15:37,000 - 00:15:38,000] Do you think that it should be illegal
+- [00:15:38,000 - 00:15:40,000] for you to engage in sex
+- [00:15:40,000 - 00:15:43,000] if children will not result from that act?
+- [00:15:43,000 - 00:15:45,000] Yeah, I think that it is moral,
+- [00:15:45,000 - 00:15:48,000] and that's why I gave the twofold purpose.
+- [00:15:48,000 - 00:15:50,000] So, like, a woman, say,
+- [00:15:50,000 - 00:15:52,000] I think older couples can get married,
+- [00:15:52,000 - 00:15:55,000] a woman who's beyond...
+- [00:15:55,000 - 00:15:57,000] who's already had menopause
+- [00:15:57,000 - 00:15:58,000] and who can't have a child,
+- [00:15:58,000 - 00:16:02,000] because I think that sex has these...
+- [00:16:02,000 - 00:16:04,000] it has purposes beyond procreation.
+- [00:16:04,000 - 00:16:05,000] I hate to be uncouth,
+- [00:16:05,000 - 00:16:08,000] but have you ever engaged in masturbation?
+- [00:16:08,000 - 00:16:09,000] No.
+- [00:16:09,000 - 00:16:10,000] Yeah.
+- [00:16:10,000 - 00:16:11,000] You don't...
+- [00:16:11,000 - 00:16:13,000] You don't have to answer that.
+- [00:16:13,000 - 00:16:14,000] You can...
+- [00:16:14,000 - 00:16:15,000] Well, yeah, I think...
+- [00:16:15,000 - 00:16:16,000] All right.
+- [00:16:16,000 - 00:16:17,000] Just a minute.
+- [00:16:17,000 - 00:16:18,000] No.
+- [00:16:18,000 - 00:16:19,000] Make your...
+- [00:16:19,000 - 00:16:20,000] Make your...
+- [00:16:20,000 - 00:16:21,000] Make your argument.
+- [00:16:21,000 - 00:16:22,000] No, I'd like to respond to that.
+- [00:16:22,000 - 00:16:23,000] No, I think...
+- [00:16:23,000 - 00:16:24,000] Wait.
+- [00:16:24,000 - 00:16:25,000] Look, we've...
+- [00:16:25,000 - 00:16:26,000] We've done pretty well
+- [00:16:26,000 - 00:16:27,000] over a whole semester,
+- [00:16:27,000 - 00:16:28,000] and we're doing pretty well now,
+- [00:16:28,000 - 00:16:29,000] dealing with questions
+- [00:16:29,000 - 00:16:30,000] that most people think
+- [00:16:30,000 - 00:16:31,000] can't even be discussed
+- [00:16:31,000 - 00:16:32,000] in a university setting.
+- [00:16:32,000 - 00:16:33,000] And, Hannah, you've got...
+- [00:16:33,000 - 00:16:34,000] You have a powerful point.
+- [00:16:34,000 - 00:16:35,000] Make that point
+- [00:16:35,000 - 00:16:36,000] as a general argument
+- [00:16:36,000 - 00:16:37,000] rather than...
+- [00:16:38,000 - 00:16:39,000] Rather than...
+- [00:16:39,000 - 00:16:40,000] Okay.
+- [00:16:40,000 - 00:16:41,000] ...as a general argument
+- [00:16:41,000 - 00:16:42,000] rather than...
+- [00:16:42,000 - 00:16:43,000] Okay.
+- [00:16:43,000 - 00:16:44,000] ...as a general argument
+- [00:16:44,000 - 00:16:45,000] rather than...
+- [00:16:45,000 - 00:16:46,000] Okay.
+- [00:16:46,000 - 00:16:47,000] ...rather than...
+- [00:16:47,000 - 00:16:48,000] Okay.
+- [00:16:48,000 - 00:16:49,000] ...rather than...
+- [00:16:49,000 - 00:16:50,000] Okay.
+- [00:16:50,000 - 00:16:51,000] ...rather than as an interrogative.
+- [00:16:51,000 - 00:16:52,000] Okay.
+- [00:16:52,000 - 00:16:53,000] But make the point.
+- [00:16:53,000 - 00:16:54,000] What's the...
+- [00:16:54,000 - 00:16:55,000] What's the principle
+- [00:16:55,000 - 00:16:56,000] that you're appealing?
+- [00:16:56,000 - 00:16:57,000] Okay.
+- [00:16:57,000 - 00:16:58,000] What's the argument
+- [00:16:58,000 - 00:16:59,000] you have in mind?
+- [00:16:59,000 - 00:17:00,000] All right.
+- [00:17:00,000 - 00:17:01,000] Well, biblically...
+- [00:17:01,000 - 00:17:02,000] Put it in the third person...
+- [00:17:02,000 - 00:17:03,000] Yeah.
+- [00:17:03,000 - 00:17:04,000] Okay.
+- [00:17:04,000 - 00:17:05,000] ...rather than...
+- [00:17:05,000 - 00:17:06,000] Okay.
+- [00:17:06,000 - 00:17:07,000] ...rather than...
+- [00:17:07,000 - 00:17:08,000] Okay.
+- [00:17:08,000 - 00:17:09,000] ...rather than in the second person.
+- [00:17:09,000 - 00:17:10,000] Okay.
+- [00:17:10,000 - 00:17:11,000] Sure.
+- [00:17:11,000 - 00:17:12,000] Make...
+- [00:17:12,000 - 00:17:13,000] Make the argument.
+- [00:17:13,000 - 00:17:14,000] Go ahead.
+- [00:17:14,000 - 00:17:15,000] Okay.
+- [00:17:15,000 - 00:17:16,000] Okay.
+- [00:17:16,000 - 00:17:17,000] Biblically, masturbation
+- [00:17:17,000 - 00:17:18,000] or onanism
+- [00:17:18,000 - 00:17:19,000] is not permissible
+- [00:17:19,000 - 00:17:20,000] because it's, you know,
+- [00:17:20,000 - 00:17:21,000] there's something wrong with sex
+- [00:17:21,000 - 00:17:22,000] if it doesn't produce children
+- [00:17:22,000 - 00:17:23,000] or reinforce the marriage bond.
+- [00:17:23,000 - 00:17:24,000] Right.
+- [00:17:24,000 - 00:17:25,000] But then how can you say
+- [00:17:25,000 - 00:17:26,000] that there's something wrong
+- [00:17:26,000 - 00:17:27,000] that, you know,
+- [00:17:27,000 - 00:17:28,000] masturbation is permissible
+- [00:17:28,000 - 00:17:29,000] if masturbation obviously
+- [00:17:29,000 - 00:17:30,000] is not going to, you know,
+- [00:17:30,000 - 00:17:31,000] create a child?
+- [00:17:31,000 - 00:17:32,000] Yeah.
+- [00:17:32,000 - 00:17:33,000] I think marriage
+- [00:17:33,000 - 00:17:34,000] is society's way
+- [00:17:34,000 - 00:17:35,000] to create this separate institution
+- [00:17:35,000 - 00:17:36,000] where they say,
+- [00:17:36,000 - 00:17:37,000] this is what we hold as a virtue.
+- [00:17:37,000 - 00:17:38,000] Yes, every day we fall short
+- [00:17:38,000 - 00:17:39,000] and people fall short
+- [00:17:39,000 - 00:17:40,000] in so many different other ways.
+- [00:17:40,000 - 00:17:41,000] But I think
+- [00:17:41,000 - 00:17:42,000] that's the way
+- [00:17:42,000 - 00:17:43,000] that we're supposed to be.
+- [00:17:43,000 - 00:17:44,000] And I think
+- [00:17:44,000 - 00:17:45,000] that's the way
+- [00:17:45,000 - 00:17:46,000] that we're supposed to be.
+- [00:17:46,000 - 00:17:47,000] And I think
+- [00:17:47,000 - 00:17:48,000] that's the way
+- [00:17:48,000 - 00:17:49,000] that we're supposed to be.
+- [00:17:49,000 - 00:17:50,000] But I think
+- [00:17:50,000 - 00:17:52,000] that if you personally fall short
+- [00:17:52,000 - 00:17:55,000] in some moral sphere as we all do,
+- [00:17:55,000 - 00:17:57,000] that doesn't take the right
+- [00:17:57,000 - 00:17:59,000] of you to argue.
+- [00:17:59,000 - 00:18:00,000] Alright.
+- [00:18:00,000 - 00:18:01,000] I want you,
+- [00:18:01,000 - 00:18:02,000] you to stay there.
+- [00:18:02,000 - 00:18:03,000] I want to bring in
+- [00:18:03,000 - 00:18:04,000] some other voices
+- [00:18:04,000 - 00:18:05,000] and we'll continue.
+- [00:18:05,000 - 00:18:06,000] Stay there if you would.
+- [00:18:06,000 - 00:18:07,000] Okay.
+- [00:18:07,000 - 00:18:08,000] Go ahead.
+- [00:18:08,000 - 00:18:09,000] I think
+- [00:18:09,000 - 00:18:10,000] that the response
+- [00:18:10,000 - 00:18:11,000] to the masturbate...
+- [00:18:11,000 - 00:18:12,000] Tell us your...
+- [00:18:12,000 - 00:18:13,000] My name's Steve.
+- [00:18:13,000 - 00:18:14,000] Steve.
+- [00:18:14,000 - 00:18:15,000] The response
+- [00:18:15,000 - 00:18:16,000] to the masturbation is,
+- [00:18:16,000 - 00:18:17,000] it's not something
+- [00:18:17,000 - 00:18:18,000] that's permissible.
+- [00:18:18,000 - 00:18:19,000] I don't think anyone
+- [00:18:19,000 - 00:18:22,000] that homosexual sex is impermissible.
+- [00:18:22,000 - 00:18:23,500] It's just that society has no
+- [00:18:23,500 - 00:18:25,000] place in letting you marry yourself
+- [00:18:25,000 - 00:18:28,000] if masturbation is something that you do.
+- [00:18:28,000 - 00:18:31,000] Well, alright, Hannah.
+- [00:18:33,000 - 00:18:35,000] Alright, Steve has drawn...
+- [00:18:35,000 - 00:18:38,000] Alright, that's a good argument.
+- [00:18:38,000 - 00:18:40,000] Steve has drawn our attention to the
+- [00:18:40,000 - 00:18:42,000] fact that there are two issues here.
+- [00:18:42,000 - 00:18:44,000] One of them is the
+- [00:18:44,000 - 00:18:46,000] moral permissibility of various practices.
+- [00:18:46,000 - 00:18:49,000] The other is the fit between certain practices,
+- [00:18:49,000 - 00:18:52,000] whatever their moral permissibility,
+- [00:18:52,000 - 00:18:55,000] with the honor or recognition that
+- [00:18:55,000 - 00:18:58,000] the state should accord in allowing marriage.
+- [00:18:58,000 - 00:19:01,000] So Steve has a pretty good counterargument.
+- [00:19:01,000 - 00:19:04,000] What do you say to Steve?
+- [00:19:04,000 - 00:19:06,500] Well, I think that it's clear
+- [00:19:06,500 - 00:19:09,000] that human sexuality is something that is,
+- [00:19:09,000 - 00:19:12,000] you know, inherent in, I believe, most people.
+- [00:19:12,000 - 00:19:14,000] And it's not something you can avoid.
+- [00:19:14,000 - 00:19:16,000] And masturbation, I mean, yeah, you can,
+- [00:19:16,000 - 00:19:18,000] you can't marry yourself,
+- [00:19:18,000 - 00:19:19,000] but I don't think that
+- [00:19:19,000 - 00:19:20,000] takes away from the fact that,
+- [00:19:20,000 - 00:19:23,000] you know, homosexuals are people too.
+- [00:19:23,000 - 00:19:25,000] And I just, I can't understand why
+- [00:19:25,000 - 00:19:27,000] they wouldn't be able to marry each other.
+- [00:19:27,000 - 00:19:29,000] If you want to marry yourself,
+- [00:19:29,000 - 00:19:30,500] I mean, I don't know
+- [00:19:30,500 - 00:19:32,000] if you can legally do that.
+- [00:19:34,000 - 00:19:36,000] That's fine, but I don't think that...
+- [00:19:36,000 - 00:19:38,000] Wait, wait, wait, wait, wait.
+- [00:19:38,000 - 00:19:40,000] Now here we're deciding,
+- [00:19:40,000 - 00:19:42,000] here we're deliberating as if
+- [00:19:42,000 - 00:19:44,000] legislators what the law should be.
+- [00:19:44,000 - 00:19:46,000] So you said, Steve, that's fine.
+- [00:19:46,000 - 00:19:48,500] Does that mean as a legislator you
+- [00:19:48,500 - 00:19:51,000] would vote for a law of marriage
+- [00:19:51,000 - 00:19:54,500] that would be so broad that
+- [00:19:54,500 - 00:19:58,000] it would let people marry themselves?
+- [00:19:58,000 - 00:20:02,000] Well, I mean, that's really beyond the pale of, like,
+- [00:20:02,000 - 00:20:05,000] anything that would really happen, but I don't think that...
+- [00:20:05,000 - 00:20:06,000] But in principle.
+- [00:20:06,000 - 00:20:07,000] Yeah, in principle.
+- [00:20:07,000 - 00:20:08,000] Yes?
+- [00:20:08,000 - 00:20:09,000] Yeah, sure, I mean, if Steve wants to marry himself,
+- [00:20:09,000 - 00:20:11,000] I'm not going to stop him.
+- [00:20:11,000 - 00:20:12,000] I think that there's...
+- [00:20:12,000 - 00:20:13,500] And you would confer state
+- [00:20:13,500 - 00:20:15,000] recognition on that solo marriage?
+- [00:20:15,000 - 00:20:16,000] Sure.
+- [00:20:16,000 - 00:20:17,500] And while we're at it,
+- [00:20:17,500 - 00:20:19,000] what about consensual polygamous marriages?
+- [00:20:19,000 - 00:20:20,500] I actually think that if
+- [00:20:20,500 - 00:20:22,000] the male and the female are...
+- [00:20:22,000 - 00:20:24,000] If the wives and the man and
+- [00:20:24,000 - 00:20:26,000] the husband or the husbands and the wife
+- [00:20:26,000 - 00:20:28,000] are consenting, it should be permissible.
+- [00:20:28,000 - 00:20:29,000] Who else?
+- [00:20:29,000 - 00:20:31,000] I know there are a lot of people who...
+- [00:20:31,000 - 00:20:32,000] Yes, okay, down here.
+- [00:20:32,000 - 00:20:33,000] Stand up and tell us your name.
+- [00:20:33,000 - 00:20:34,000] Victoria.
+- [00:20:34,000 - 00:20:35,000] Victoria.
+- [00:20:35,000 - 00:20:37,000] So we're talking about the
+- [00:20:37,000 - 00:20:39,000] theological reasoning here for marriage,
+- [00:20:39,000 - 00:20:41,000] and I think that's a really good question.
+- [00:20:41,000 - 00:20:43,000] I think that's a really good question.
+- [00:20:43,000 - 00:20:44,000] I think that's a really good question.
+- [00:20:44,000 - 00:20:45,000] I think that's a really good question.
+- [00:20:45,000 - 00:20:46,000] I think that's a really good question.
+- [00:20:46,000 - 00:20:47,000] I think that's a really good question.
+- [00:20:47,000 - 00:20:48,000] I think that's a really good question.
+- [00:20:48,000 - 00:20:49,250] But I think the problem is that
+- [00:20:49,250 - 00:20:50,500] we're talking about it within the Catholic viewpoint,
+- [00:20:50,500 - 00:20:53,000] whereas the theological and the point to
+- [00:20:53,000 - 00:20:55,500] marriage for another religion or someone who's
+- [00:20:55,500 - 00:20:57,470] an atheist could be completely different, and
+- [00:20:57,470 - 00:20:59,440] the government doesn't have a right to
+- [00:20:59,440 - 00:21:03,110] impose the theological reasoning for Catholicism on
+- [00:21:03,110 - 00:21:06,780] everyone in the state, which is what my
+- [00:21:06,780 - 00:21:09,780] problem is with not allowing same-sex marriage.
+- [00:21:09,780 - 00:21:11,390] Because I mean, your beliefs
+- [00:21:11,390 - 00:21:13,000] are your beliefs, and that's fine.
+- [00:21:13,000 - 00:21:18,000] but civil union is not marriage within the Catholic Church.
+- [00:21:18,000 - 00:21:20,500] And the state has a right to
+- [00:21:20,500 - 00:21:23,000] recognize a civil union between whoever it wants,
+- [00:21:23,000 - 00:21:26,000] but does not have a right to impose the beliefs
+- [00:21:26,000 - 00:21:29,000] of a certain minority or majority or whoever it is,
+- [00:21:29,000 - 00:21:33,000] based on a religion within our state.
+- [00:21:33,000 - 00:21:35,000] All right, Victoria, good. A question.
+- [00:21:35,000 - 00:21:39,500] Do you think the state should recognize same-sex marriage
+- [00:21:39,500 - 00:21:44,000] or just same-sex civil unions as something short of marriage?
+- [00:21:44,000 - 00:21:48,000] Well, I think that the state doesn't have a
+- [00:21:48,000 - 00:21:52,000] right to recognize it as marriage within a church,
+- [00:21:52,000 - 00:21:54,000] because that is not their place.
+- [00:21:54,000 - 00:21:57,000] But whereas civil union, I see civil union as
+- [00:21:57,000 - 00:22:00,000] essentially the same thing, except not under a religion.
+- [00:22:00,000 - 00:22:01,500] And the state has a
+- [00:22:01,500 - 00:22:03,000] right to recognize a civil union.
+- [00:22:03,000 - 00:22:04,000] All right.
+- [00:22:04,000 - 00:22:04,500] So Victoria's argument is that the state should
+- [00:22:04,500 - 00:22:05,000] recognize a civil union as something short of marriage,
+- [00:22:05,000 - 00:22:08,000] but the state's argument is that the state should not try
+- [00:22:08,000 - 00:22:11,000] to decide the question of what the telos of marriage is.
+- [00:22:11,000 - 00:22:15,000] That's only something that religious communities can decide.
+- [00:22:17,000 - 00:22:19,000] Who else?
+- [00:22:21,000 - 00:22:24,500] My point is I don't see why we
+- [00:22:24,500 - 00:22:28,000] feel like state should recognize marriages at all.
+- [00:22:28,000 - 00:22:31,000] So I'm like one of these 70 people
+- [00:22:31,000 - 00:22:34,000] who voted state should not recognize any marriages,
+- [00:22:34,000 - 00:22:37,500] because I believe it is a union between a
+- [00:22:37,500 - 00:22:41,000] male and a female or two males or two females.
+- [00:22:41,000 - 00:22:43,500] But there is no reason to ask state
+- [00:22:43,500 - 00:22:46,000] to give permission to me to unite myself.
+- [00:22:46,000 - 00:22:49,500] And some might say that if state
+- [00:22:49,500 - 00:22:53,000] recognizes these marriages, it will help children.
+- [00:22:53,000 - 00:22:56,000] It will have a binding effect.
+- [00:22:56,000 - 00:22:57,500] But in reality, I don't think
+- [00:22:57,500 - 00:22:59,000] it actually has a binding effect.
+- [00:22:59,000 - 00:23:00,000] All right. Tell us your name.
+- [00:23:00,000 - 00:23:01,000] Cezanne.
+- [00:23:01,000 - 00:23:01,500] So Victoria and Cezanne's comment is that, you know,
+- [00:23:01,500 - 00:23:02,000] we have a lot of problems with our marriage.
+- [00:23:02,000 - 00:23:03,000] We have a lot of problems with our marriage.
+- [00:23:03,000 - 00:23:06,000] Victoria and Cezanne's comments differ
+- [00:23:06,000 - 00:23:09,000] from earlier parts of the conversation.
+- [00:23:09,000 - 00:23:15,500] They say the state shouldn't be in the business of honoring or recognizing
+- [00:23:15,500 - 00:23:22,000] or affirming any particular telos or purpose of marriage or of human sexuality.
+- [00:23:22,000 - 00:23:25,500] And Cezanne is among those who says, therefore, maybe the state
+- [00:23:25,500 - 00:23:29,000] should get out of the business of recognizing marriage at all.
+- [00:23:29,000 - 00:23:31,000] Here's the question.
+- [00:23:31,000 - 00:23:41,500] Unless you adopt Cezanne's position, no state recognition of any kind of marriage, is it possible to choose between, to decide
+- [00:23:41,500 - 00:23:52,000] the question of same-sex marriage without taking a stand on the moral and religious controversy over the proper telos of marriage?
+- [00:23:52,000 - 00:23:53,000] Thank you very much to
+- [00:23:53,000 - 00:23:54,000] all of you who have participated.
+- [00:23:54,000 - 00:23:56,000] We'll pick this up next time.
+- [00:23:56,000 - 00:23:57,000] You did a great job.
+- [00:24:01,000 - 00:24:03,000] Thank you.
+- [00:24:03,000 - 00:24:12,500] When we first came together some 13 weeks ago, I tried to warn you that once the
+- [00:24:12,500 - 00:24:22,000] familiar turns strange, once we begin to reflect on our circumstance, it's never quite the same again.
+- [00:24:22,000 - 00:24:24,500] I hope you have by now experienced
+- [00:24:24,500 - 00:24:27,000] at least a little of this unease.
+- [00:24:27,000 - 00:24:29,000] Because this is the
+- [00:24:29,000 - 00:24:31,000] tension that animates critical reflection.
+- [00:24:31,000 - 00:24:33,000] And political improvement.
+- [00:24:33,000 - 00:24:36,000] And maybe even the moral life as well.
+- [00:24:40,000 - 00:24:43,000] We have two remaining questions to answer.
+- [00:24:43,000 - 00:24:48,500] First, is it necessary, is it unavoidable to take
+- [00:24:48,500 - 00:24:54,000] up questions of the good life and thinking about justice?
+- [00:24:54,000 - 00:24:55,000] Yes.
+- [00:24:55,000 - 00:25:00,000] And is it possible to reason about justice?
+- [00:25:00,000 - 00:25:02,000] Yes, I think so.
+- [00:25:02,000 - 00:25:06,500] Let me try to develop
+- [00:25:06,500 - 00:25:11,000] those answers to those two questions.
+- [00:25:11,000 - 00:25:15,500] Now, as a way of addressing those questions, we
+- [00:25:15,500 - 00:25:20,000] began last time to discuss the question of same-sex marriage.
+- [00:25:20,000 - 00:25:23,000] And we heard from those
+- [00:25:23,000 - 00:25:26,000] who argued against same-sex marriage.
+- [00:25:26,000 - 00:25:26,500] On the grounds that the purpose or telos of marriage, the
+- [00:25:26,500 - 00:25:27,000] purpose of same-sex marriage, is to be a form of self-denial.
+- [00:25:27,000 - 00:25:27,500] And we heard from those
+- [00:25:27,500 - 00:25:28,000] who argued against same-sex marriage.
+- [00:25:28,000 - 00:25:33,500] On the grounds that the purpose or telos
+- [00:25:33,500 - 00:25:39,000] of marriage, is at least in part, procreation.
+- [00:25:39,000 - 00:25:43,000] The bearing and raising of children.
+- [00:25:43,000 - 00:25:49,000] And then there were those who defended same-sex marriage.
+- [00:25:49,000 - 00:25:52,000] And they contested that account of
+- [00:25:52,000 - 00:25:55,000] the purpose or telos of marriage.
+- [00:25:55,000 - 00:25:57,000] Arguing.
+- [00:25:57,000 - 00:26:02,500] We don't require, as a condition of heterosexual
+- [00:26:02,500 - 00:26:08,000] marriage, that couples be able or willing to procreate.
+- [00:26:08,000 - 00:26:14,000] We allow infertile couples to marry.
+- [00:26:14,000 - 00:26:18,000] This is Hannah's point in the exchange with Mark.
+- [00:26:18,000 - 00:26:22,000] But then there was another position.
+- [00:26:22,000 - 00:26:26,000] Expressed at the end of our discussion by Victoria.
+- [00:26:27,000 - 00:26:32,000] Who argued, we shouldn't try to decide this question.
+- [00:26:32,000 - 00:26:35,000] We shouldn't, at least at the level
+- [00:26:35,000 - 00:26:38,000] of the state, at the level of law,
+- [00:26:38,000 - 00:26:41,500] try to come to any agreement
+- [00:26:41,500 - 00:26:45,000] on those questions about the good.
+- [00:26:45,000 - 00:26:48,500] Because we live in a pluralist society
+- [00:26:48,500 - 00:26:52,000] where people have different moral and religious convictions.
+- [00:26:52,000 - 00:26:56,000] And so we should try to make law,
+- [00:26:56,000 - 00:26:58,000] and the framework of rights,
+- [00:26:58,000 - 00:27:02,000] neutral with respect to these
+- [00:27:02,000 - 00:27:06,000] competing moral and religious views.
+- [00:27:06,000 - 00:27:08,000] Now it's interesting that others,
+- [00:27:08,000 - 00:27:10,000] some others,
+- [00:27:10,000 - 00:27:14,000] who favor the idea of neutrality,
+- [00:27:14,000 - 00:27:17,000] argued not in favor of restricting
+- [00:27:17,000 - 00:27:20,000] marriage to a man and a woman.
+- [00:27:20,000 - 00:27:23,000] Nor in favor of permitting same-sex marriage.
+- [00:27:23,000 - 00:27:25,000] They argued,
+- [00:27:25,000 - 00:27:27,000] in the name of neutrality,
+- [00:27:27,000 - 00:27:30,000] for a third possibility.
+- [00:27:30,000 - 00:27:32,000] Which is that government
+- [00:27:32,000 - 00:27:34,000] get out of the business
+- [00:27:34,000 - 00:27:36,000] of recognizing any kind of marriage.
+- [00:27:36,000 - 00:27:38,000] That was the third possibility.
+- [00:27:38,000 - 00:27:41,000] Now,
+- [00:27:41,000 - 00:27:44,000] Andrea Mayrose
+- [00:27:44,000 - 00:27:47,000] had an interesting contribution to this debate.
+- [00:27:47,000 - 00:27:49,000] She had a rejoinder
+- [00:27:49,000 - 00:27:51,000] to people who argue for neutrality.
+- [00:27:51,000 - 00:27:53,000] Where is Andrea?
+- [00:27:53,000 - 00:27:54,000] All right.
+- [00:27:54,000 - 00:27:56,000] Andrea, would you be willing,
+- [00:27:56,000 - 00:27:58,000] share with us the view,
+- [00:27:58,000 - 00:28:00,000] if we can get you a microphone.
+- [00:28:00,000 - 00:28:04,000] Share with us your view.
+- [00:28:04,000 - 00:28:07,000] Why do you think that
+- [00:28:07,000 - 00:28:09,000] it's a mistake
+- [00:28:09,000 - 00:28:12,000] for the state to try to be neutral
+- [00:28:12,000 - 00:28:14,000] on moral and even
+- [00:28:14,000 - 00:28:16,000] religious questions like same-sex marriage?
+- [00:28:16,000 - 00:28:20,000] I don't know that it is possible because people's lives
+- [00:28:20,000 - 00:28:23,000] are completely embedded in how they view the world.
+- [00:28:23,000 - 00:28:26,000] And maybe I just agree with Aristotle
+- [00:28:26,000 - 00:28:28,000] that the role of the government
+- [00:28:28,000 - 00:28:31,000] is helping people live in a sort of,
+- [00:28:31,000 - 00:28:33,000] like having a collective understanding
+- [00:28:33,000 - 00:28:36,000] of what is wrong and what is right.
+- [00:28:36,000 - 00:28:37,000] Is it possible,
+- [00:28:37,000 - 00:28:39,000] and one could ask the same question of abortion
+- [00:28:39,000 - 00:28:42,000] that we've been asking of same-sex marriage.
+- [00:28:42,000 - 00:28:44,000] Do you think it's possible
+- [00:28:44,000 - 00:28:47,000] to decide whether abortion should be
+- [00:28:47,000 - 00:28:50,000] permitted or prohibited
+- [00:28:50,000 - 00:28:52,000] without taking into account
+- [00:28:52,000 - 00:28:54,000] or without taking a stand
+- [00:28:54,000 - 00:28:56,000] or making a judgment
+- [00:28:56,000 - 00:28:59,000] about the moral permissibility of abortion?
+- [00:28:59,000 - 00:29:00,000] No, I don't think it is.
+- [00:29:00,000 - 00:29:01,000] And I think that's why it's such a controversy
+- [00:29:01,000 - 00:29:04,000] because people are so deeply committed to
+- [00:29:04,000 - 00:29:06,000] like their fundamental beliefs about
+- [00:29:06,000 - 00:29:09,000] whether a fetus is a life or if it isn't.
+- [00:29:09,000 - 00:29:12,000] So, if I believe that like a fetus
+- [00:29:12,000 - 00:29:13,000] is a living being
+- [00:29:13,000 - 00:29:15,000] and has rights
+- [00:29:15,000 - 00:29:17,000] and has like fundamentally the right to live,
+- [00:29:17,000 - 00:29:19,000] then it's very hard for me to say,
+- [00:29:19,000 - 00:29:20,000] but I can put that aside
+- [00:29:20,000 - 00:29:21,000] and let you do what you want.
+- [00:29:21,000 - 00:29:23,000] Because that's like me saying,
+- [00:29:23,000 - 00:29:24,000] well, despite my beliefs,
+- [00:29:24,000 - 00:29:25,000] I'm going to let you commit
+- [00:29:25,000 - 00:29:27,000] what to me is murder.
+- [00:29:27,000 - 00:29:29,000] So, I mean, that's just,
+- [00:29:29,000 - 00:29:30,000] that's just one.
+- [00:29:30,000 - 00:29:31,000] All right, and the analogy
+- [00:29:31,000 - 00:29:33,000] in the same-sex marriage case is
+- [00:29:33,000 - 00:29:37,000] you said you're a defender of same-sex marriage.
+- [00:29:37,000 - 00:29:38,000] Yes.
+- [00:29:38,000 - 00:29:40,000] But you only came to that view
+- [00:29:40,000 - 00:29:44,000] once you were persuaded
+- [00:29:44,000 - 00:29:46,000] on the underlying moral question.
+- [00:29:46,000 - 00:29:48,000] Right. Well, I think particularly in the US,
+- [00:29:48,000 - 00:29:50,000] so many people's beliefs are driven
+- [00:29:50,000 - 00:29:52,000] by their religious beliefs.
+- [00:29:52,000 - 00:29:53,000] And like Mark the other day,
+- [00:29:53,000 - 00:29:55,000] I'm Christian, I'm Catholic,
+- [00:29:55,000 - 00:29:57,000] and I had to decide for myself
+- [00:29:57,000 - 00:29:58,000] like on a lot of thought,
+- [00:29:58,000 - 00:29:59,000] a lot of prayer,
+- [00:29:59,000 - 00:30:01,000] a lot of conversations with other people
+- [00:30:01,000 - 00:30:03,000] that I disagreed with the Catholic standpoint
+- [00:30:03,000 - 00:30:05,000] that homosexuality itself isn't a sin.
+- [00:30:05,000 - 00:30:08,000] And once I came to that sort of conclusion
+- [00:30:08,000 - 00:30:10,000] in my personal relationship with God,
+- [00:30:10,000 - 00:30:12,000] like, I mean, that sounds hokey, right?
+- [00:30:12,000 - 00:30:13,000] That's like, oh, religious.
+- [00:30:13,000 - 00:30:14,000] But a lot of people are religious
+- [00:30:14,000 - 00:30:15,000] and that's where they draw their beliefs
+- [00:30:15,000 - 00:30:17,000] and their views from.
+- [00:30:17,000 - 00:30:18,000] That's when I could say,
+- [00:30:18,000 - 00:30:20,000] yeah, I'm down with the state saying,
+- [00:30:20,000 - 00:30:23,000] go same-sex marriage because I'm okay with that.
+- [00:30:23,000 - 00:30:25,000] And I think that's morally okay.
+- [00:30:25,000 - 00:30:27,000] Good. Thank you.
+- [00:30:27,000 - 00:30:30,000] Now, who would like to reply,
+- [00:30:30,000 - 00:30:34,000] if you can perhaps hang on there for a moment,
+- [00:30:34,000 - 00:30:39,000] who would like to reply to Andrea's idea
+- [00:30:39,000 - 00:30:41,000] that in order to decide the question
+- [00:30:41,000 - 00:30:43,000] of same-sex marriage,
+- [00:30:43,000 - 00:30:46,000] it's necessary to sort out the question
+- [00:30:46,000 - 00:30:50,000] about the moral status of homosexuality
+- [00:30:50,000 - 00:30:54,000] and figuring out the purpose, the telos,
+- [00:30:54,000 - 00:30:56,000] the proper end of marriage.
+- [00:30:56,000 - 00:31:03,000] Who disagrees with Andrea on that point?
+- [00:31:03,000 - 00:31:04,000] Yes.
+- [00:31:04,000 - 00:31:06,000] Well, I think you absolutely can separate
+- [00:31:06,000 - 00:31:08,000] your moral opinion
+- [00:31:08,000 - 00:31:10,000] and what you think the law should be.
+- [00:31:10,000 - 00:31:13,000] For example, I think abortion
+- [00:31:13,000 - 00:31:17,000] is unequivocally morally wrong,
+- [00:31:17,000 - 00:31:19,000] but I do not believe that illegalizing abortion
+- [00:31:19,000 - 00:31:21,000] makes it go away.
+- [00:31:21,000 - 00:31:23,000] I don't believe illegalizing abortion stops it,
+- [00:31:23,000 - 00:31:25,000] and therefore I am pro-choice,
+- [00:31:25,000 - 00:31:27,000] and I do believe the woman should have the choice
+- [00:31:27,000 - 00:31:29,000] as it gives them more safety,
+- [00:31:29,000 - 00:31:32,000] just as maybe morally,
+- [00:31:32,000 - 00:31:34,000] I don't want to get married to a man,
+- [00:31:34,000 - 00:31:37,000] but I'm not going to try to, you know,
+- [00:31:37,000 - 00:31:39,000] impede someone else's freedom
+- [00:31:39,000 - 00:31:41,000] to do what they wish to do
+- [00:31:41,000 - 00:31:43,000] in terms of the law.
+- [00:31:43,000 - 00:31:45,000] Andrea?
+- [00:31:45,000 - 00:31:48,000] Whether the law makes something legal or illegal,
+- [00:31:48,000 - 00:31:52,000] it's implicitly approving or disapproving something.
+- [00:31:52,000 - 00:31:55,000] So if you say, like, by making abortion legal,
+- [00:31:55,000 - 00:31:57,000] we're saying it's okay.
+- [00:31:57,000 - 00:31:59,000] As a society, collectively, we're saying
+- [00:31:59,000 - 00:32:02,000] it's okay with us in our society
+- [00:32:02,000 - 00:32:04,000] to abort a fetus.
+- [00:32:04,000 - 00:32:07,000] If we make it legal, if we make it illegal,
+- [00:32:07,000 - 00:32:09,000] then we're saying collectively as a society,
+- [00:32:09,000 - 00:32:10,000] it's not okay.
+- [00:32:10,000 - 00:32:12,000] And that's why societies have different beliefs.
+- [00:32:12,000 - 00:32:13,000] Tell us your name.
+- [00:32:13,000 - 00:32:14,000] My name is Daniel.
+- [00:32:14,000 - 00:32:15,000] Daniel, what do you say?
+- [00:32:15,000 - 00:32:17,000] Are we saying collectively that it's okay?
+- [00:32:17,000 - 00:32:19,000] Are we saying that collectively we don't want women
+- [00:32:19,000 - 00:32:21,000] who are going to have an abortion anyway
+- [00:32:21,000 - 00:32:22,000] to go to clinics in the side alleys
+- [00:32:22,000 - 00:32:25,000] and have, you know, unsafe conditions?
+- [00:32:25,000 - 00:32:28,000] All right, bring it to the same-sex marriage case.
+- [00:32:28,000 - 00:32:30,000] Why don't you have to decide that which position
+- [00:32:30,000 - 00:32:33,000] you're in favor of same-sex marriage, Daniel,
+- [00:32:33,000 - 00:32:34,000] being legally permitted?
+- [00:32:34,000 - 00:32:36,000] I think it absolutely should be legally permitted
+- [00:32:36,000 - 00:32:37,000] because it's not something telling
+- [00:32:37,000 - 00:32:38,000] me that I need to have,
+- [00:32:38,000 - 00:32:40,000] I need to marry a man.
+- [00:32:40,000 - 00:32:41,000] I absolutely don't, I don't see,
+- [00:32:41,000 - 00:32:42,500] if two men are consenting
+- [00:32:42,500 - 00:32:44,000] adults and want to get married,
+- [00:32:44,000 - 00:32:46,000] I don't see how I could even object to that.
+- [00:32:46,000 - 00:32:47,000] All right.
+- [00:32:47,000 - 00:32:48,000] There's no harm.
+- [00:32:48,000 - 00:32:50,000] There's no harm done either way,
+- [00:32:50,000 - 00:32:53,000] even if it is morally wrong according to me.
+- [00:32:53,000 - 00:32:54,000] All right.
+- [00:32:54,000 - 00:32:58,000] Let me turn to the way the Massachusetts court
+- [00:32:58,000 - 00:33:01,000] who made this landmark ruling in the same-sex marriage case
+- [00:33:01,000 - 00:33:04,000] grappled with the very issue that Andrea and Dan
+- [00:33:04,000 - 00:33:07,000] have been discussing here.
+- [00:33:07,000 - 00:33:09,000] Thanks to both of you very much.
+- [00:33:09,000 - 00:33:10,000] What did the courts say?
+- [00:33:10,000 - 00:33:12,000] This was in the Goodridge case
+- [00:33:12,000 - 00:33:16,000] which required the state of Massachusetts
+- [00:33:16,000 - 00:33:21,000] to extend marriage to same-sex couples.
+- [00:33:21,000 - 00:33:26,000] The court started out, well, the court was conflicted.
+- [00:33:26,000 - 00:33:28,000] If you read that opinion carefully,
+- [00:33:28,000 - 00:33:32,000] the court was conflicted as between the two positions
+- [00:33:32,000 - 00:33:36,000] we've just been hearing,
+- [00:33:36,000 - 00:33:39,000] defended by Andrea and by Dan.
+- [00:33:39,000 - 00:33:40,000] The court begins,
+- [00:33:40,000 - 00:33:44,000] and this is Chief Justice Margaret Marshall's opinion,
+- [00:33:44,000 - 00:33:46,000] it begins with an attempt
+- [00:33:46,000 - 00:33:48,000] at liberal neutrality.
+- [00:33:48,000 - 00:33:50,000] Many people hold deep-seated religious,
+- [00:33:50,000 - 00:33:52,000] moral, and ethical convictions
+- [00:33:52,000 - 00:33:54,000] that marriage should be limited to the union
+- [00:33:54,000 - 00:33:56,000] of one man and one woman
+- [00:33:56,000 - 00:33:59,000] and that homosexual conduct is immoral.
+- [00:33:59,000 - 00:34:01,000] Many hold equally strong religious, moral,
+- [00:34:01,000 - 00:34:02,000] and ethical convictions
+- [00:34:02,000 - 00:34:05,000] that same-sex couples are entitled to be married,
+- [00:34:05,000 - 00:34:08,000] that homosexual persons should be treated no differently
+- [00:34:08,000 - 00:34:10,000] than their heterosexual neighbors.
+- [00:34:10,000 - 00:34:11,000] This is the court.
+- [00:34:11,000 - 00:34:15,000] Neither view answers the question before us.
+- [00:34:15,000 - 00:34:17,000] What is at stake is, quote,
+- [00:34:17,000 - 00:34:20,000] respect for individual autonomy
+- [00:34:20,000 - 00:34:22,000] and equality under law.
+- [00:34:22,000 - 00:34:26,000] At stake is an individual freely choosing
+- [00:34:26,000 - 00:34:29,000] the person with whom to share an exclusive commitment.
+- [00:34:29,000 - 00:34:32,000] In other words, at issue is not
+- [00:34:32,000 - 00:34:34,000] the moral worth of the choice
+- [00:34:34,000 - 00:34:37,000] but the right of the individual to make it.
+- [00:34:39,000 - 00:34:42,000] So this is the liberal neutral strand
+- [00:34:42,000 - 00:34:44,000] in the court opinion,
+- [00:34:44,000 - 00:34:45,000] the voluntrous strand,
+- [00:34:45,000 - 00:34:49,000] the one that emphasizes autonomy, choice, consent.
+- [00:34:52,000 - 00:34:54,000] But the court seemed to realize
+- [00:34:54,000 - 00:34:57,000] that the liberal case, the neutral case,
+- [00:34:57,000 - 00:34:59,000] for recognizing same-sex marriage
+- [00:34:59,000 - 00:35:01,000] doesn't succeed,
+- [00:35:01,000 - 00:35:03,000] doesn't get you all the way to that position
+- [00:35:03,000 - 00:35:05,000] because if it were only a matter
+- [00:35:05,000 - 00:35:08,000] of respect for individual autonomy,
+- [00:35:08,000 - 00:35:11,000] if government were truly neutral
+- [00:35:11,000 - 00:35:13,000] on the moral worth
+- [00:35:13,000 - 00:35:16,000] of voluntary intimate relationships,
+- [00:35:16,000 - 00:35:21,000] then it should adopt a different policy,
+- [00:35:21,000 - 00:35:24,000] which is to remove government
+- [00:35:24,000 - 00:35:27,000] and the state altogether
+- [00:35:27,000 - 00:35:30,000] from according recognition
+- [00:35:30,000 - 00:35:32,000] to certain associations,
+- [00:35:32,000 - 00:35:34,000] certain kinds of unions,
+- [00:35:34,000 - 00:35:36,000] rather than others.
+- [00:35:36,000 - 00:35:39,000] If government really must be neutral,
+- [00:35:39,000 - 00:35:43,000] then the consistent position,
+- [00:35:43,000 - 00:35:45,000] is what we here have been describing
+- [00:35:45,000 - 00:35:47,000] as the third position,
+- [00:35:47,000 - 00:35:49,000] the one defended in the article
+- [00:35:49,000 - 00:35:50,000] by Michael Kinsley,
+- [00:35:50,000 - 00:35:54,000] who argues for the abolition of marriage
+- [00:35:54,000 - 00:35:56,000] at least as a state function.
+- [00:35:56,000 - 00:35:58,000] Perhaps a better term for this
+- [00:35:58,000 - 00:36:01,000] is the disestablishment of religion.
+- [00:36:01,000 - 00:36:04,000] This is Kinsley's proposal.
+- [00:36:04,000 - 00:36:07,000] He points out that the reason
+- [00:36:07,000 - 00:36:11,000] for the opposition to same-sex marriage
+- [00:36:11,000 - 00:36:13,000] is that it would go beyond
+- [00:36:13,000 - 00:36:15,000] neutral toleration
+- [00:36:15,000 - 00:36:17,000] and give same-sex marriage
+- [00:36:17,000 - 00:36:19,000] a government stamp of approval.
+- [00:36:19,000 - 00:36:21,000] That's at the heart of the dispute.
+- [00:36:21,000 - 00:36:24,000] In Aristotle's terms,
+- [00:36:24,000 - 00:36:26,000] at issue here is the proper distribution
+- [00:36:26,000 - 00:36:28,000] of offices and honors,
+- [00:36:28,000 - 00:36:31,000] a matter of social recognition.
+- [00:36:31,000 - 00:36:35,000] Same-sex marriage can't be justified
+- [00:36:35,000 - 00:36:37,000] on the basis of liberal neutrality
+- [00:36:37,000 - 00:36:38,000] or nondiscrimination
+- [00:36:38,000 - 00:36:40,000] or autonomy rights alone,
+- [00:36:40,000 - 00:36:42,000] because the question at stake
+- [00:36:42,000 - 00:36:44,000] in the public debate
+- [00:36:44,000 - 00:36:45,000] is whether same-sex unions
+- [00:36:45,000 - 00:36:46,000] have moral worth,
+- [00:36:46,000 - 00:36:48,000] whether they're worthy of honor
+- [00:36:48,000 - 00:36:49,000] and recognition,
+- [00:36:49,000 - 00:36:51,000] and whether they fit the purpose
+- [00:36:51,000 - 00:36:55,000] of the social institution of marriage.
+- [00:36:55,000 - 00:36:57,000] So, Kinsley says,
+- [00:36:57,000 - 00:36:59,000] you want to be neutral?
+- [00:36:59,000 - 00:37:01,000] Then let churches
+- [00:37:01,000 - 00:37:03,000] and other religious institutions
+- [00:37:03,000 - 00:37:05,000] offer marriage ceremonies.
+- [00:37:05,000 - 00:37:08,000] Let department stores and casinos
+- [00:37:08,000 - 00:37:10,000] get into the act if they want to.
+- [00:37:10,000 - 00:37:11,000] This is Kinsley.
+- [00:37:11,000 - 00:37:13,000] Let couples celebrate their union
+- [00:37:13,000 - 00:37:15,000] in any way they choose
+- [00:37:15,000 - 00:37:17,000] and consider themselves married
+- [00:37:17,000 - 00:37:19,000] whenever they want.
+- [00:37:19,000 - 00:37:21,000] And if three people want to get married,
+- [00:37:21,000 - 00:37:24,000] or if one person wants to marry
+- [00:37:24,000 - 00:37:27,000] himself or herself,
+- [00:37:27,000 - 00:37:28,000] and someone else wants to conduct
+- [00:37:28,000 - 00:37:29,000] a ceremony for them
+- [00:37:29,000 - 00:37:31,000] and declare them married,
+- [00:37:31,000 - 00:37:32,000] let them.
+- [00:37:32,000 - 00:37:33,000] If you and your government
+- [00:37:33,000 - 00:37:34,000] are implicated,
+- [00:37:34,000 - 00:37:35,000] why do you care?
+- [00:37:35,000 - 00:37:37,000] This is Kinsley.
+- [00:37:37,000 - 00:37:40,000] But this is not the position
+- [00:37:40,000 - 00:37:42,000] that the Supreme Judicial Court
+- [00:37:42,000 - 00:37:44,000] of Massachusetts wanted.
+- [00:37:44,000 - 00:37:46,000] They didn't call for the abolition
+- [00:37:46,000 - 00:37:49,000] or for the disestablishment of marriage.
+- [00:37:49,000 - 00:37:51,000] The court did not question
+- [00:37:51,000 - 00:37:53,000] government's role in conferring
+- [00:37:53,000 - 00:37:54,000] social recognition
+- [00:37:54,000 - 00:37:56,000] on some intimate associations
+- [00:37:56,000 - 00:37:57,000] rather than others.
+- [00:37:57,000 - 00:37:59,000] To the contrary,
+- [00:37:59,000 - 00:38:01,000] the court waxes eloquent
+- [00:38:01,000 - 00:38:04,000] about marriage as, quote,
+- [00:38:04,000 - 00:38:06,000] one of our community's most rewarding
+- [00:38:06,000 - 00:38:08,000] and cherished institutions.
+- [00:38:08,000 - 00:38:09,000] And then it goes on
+- [00:38:09,000 - 00:38:11,000] to expand the definition of marriage
+- [00:38:11,000 - 00:38:14,000] to include partners of the same sex.
+- [00:38:14,000 - 00:38:16,000] And in doing so,
+- [00:38:16,000 - 00:38:19,000] it acknowledges that marriage
+- [00:38:19,000 - 00:38:22,000] is more than a matter
+- [00:38:22,000 - 00:38:23,000] of tolerating choices
+- [00:38:23,000 - 00:38:25,000] that individuals make.
+- [00:38:25,000 - 00:38:27,000] It's also a matter
+- [00:38:27,000 - 00:38:31,000] of social recognition and honor.
+- [00:38:31,000 - 00:38:33,000] As Justice Marshall wrote,
+- [00:38:33,000 - 00:38:34,000] in a real sense,
+- [00:38:34,000 - 00:38:35,000] there are three partners
+- [00:38:35,000 - 00:38:37,000] to every civil marriage,
+- [00:38:37,000 - 00:38:39,000] two willing spouses,
+- [00:38:39,000 - 00:38:42,000] and an approving state.
+- [00:38:42,000 - 00:38:43,000] Marriage is at once
+- [00:38:43,000 - 00:38:45,000] a deeply personal commitment,
+- [00:38:45,000 - 00:38:47,000] but also a highly public celebration
+- [00:38:47,000 - 00:38:49,000] of the ideals of mutuality,
+- [00:38:49,000 - 00:38:53,000] companionship, intimacy, fidelity, and family.
+- [00:38:53,000 - 00:38:55,000] This is the court.
+- [00:38:55,000 - 00:38:57,000] Now, this is reaching well beyond
+- [00:38:57,000 - 00:38:59,000] liberal neutrality.
+- [00:38:59,000 - 00:39:01,000] This is celebrating and affirming
+- [00:39:01,000 - 00:39:03,000] marriage as an honorific,
+- [00:39:03,000 - 00:39:07,000] as a form of public recognition.
+- [00:39:07,000 - 00:39:08,000] And therefore, the court found
+- [00:39:08,000 - 00:39:11,000] that it couldn't avoid the debate
+- [00:39:11,000 - 00:39:14,000] about the telos of marriage.
+- [00:39:14,000 - 00:39:16,000] Justice Marshall's opinion
+- [00:39:16,000 - 00:39:19,000] considers and rejects the notion
+- [00:39:19,000 - 00:39:21,000] that the primary purpose of marriage
+- [00:39:21,000 - 00:39:23,000] is procreation.
+- [00:39:23,000 - 00:39:25,000] She points out that there's no requirement
+- [00:39:25,000 - 00:39:27,000] that applicants for a marriage license
+- [00:39:27,000 - 00:39:30,000] who are heterosexuals attest to their ability
+- [00:39:30,000 - 00:39:32,000] or their intention to conceive children.
+- [00:39:32,000 - 00:39:35,000] Fertility is not a condition of marriage.
+- [00:39:35,000 - 00:39:37,000] People who cannot stir from their deathbed,
+- [00:39:37,000 - 00:39:39,000] may marry.
+- [00:39:39,000 - 00:39:41,000] So she advances all kinds of arguments
+- [00:39:41,000 - 00:39:45,000] along the lines that we began last time
+- [00:39:45,000 - 00:39:48,000] about what the proper and the essential nature
+- [00:39:48,000 - 00:39:50,000] of the telos of marriage is.
+- [00:39:50,000 - 00:39:51,000] And she concludes,
+- [00:39:51,000 - 00:39:53,000] not procreation,
+- [00:39:53,000 - 00:39:55,000] but the exclusive and permanent commitment
+- [00:39:55,000 - 00:39:58,000] of the partners to one another
+- [00:39:58,000 - 00:40:04,000] is the essential point and purpose of marriage.
+- [00:40:04,000 - 00:40:06,000] Now, nothing I've said
+- [00:40:06,000 - 00:40:11,000] about this court opinion
+- [00:40:11,000 - 00:40:15,000] is an argument for or against same-sex marriage,
+- [00:40:15,000 - 00:40:18,000] but it is an argument against the claim
+- [00:40:18,000 - 00:40:22,000] that you can favor or oppose same-sex marriage
+- [00:40:22,000 - 00:40:24,000] while remaining neutral
+- [00:40:24,000 - 00:40:28,000] on the underlying moral and religious questions.
+- [00:40:28,000 - 00:40:31,000] So all of this is to suggest
+- [00:40:31,000 - 00:40:34,000] that at least in some
+- [00:40:34,000 - 00:40:36,000] of the hotly contested
+- [00:40:36,000 - 00:40:38,000] debates about justice and rights
+- [00:40:38,000 - 00:40:41,000] that we have in our society,
+- [00:40:41,000 - 00:40:43,000] the attempt to be neutral,
+- [00:40:43,000 - 00:40:45,000] the attempt to say
+- [00:40:45,000 - 00:40:47,000] it's just a matter of consent
+- [00:40:47,000 - 00:40:49,000] and choice and autonomy,
+- [00:40:49,000 - 00:40:51,000] we take no stand,
+- [00:40:51,000 - 00:40:53,000] that doesn't succeed.
+- [00:40:53,000 - 00:40:54,000] Even the court,
+- [00:40:54,000 - 00:40:56,000] which wants to be neutral
+- [00:40:56,000 - 00:40:58,000] on these moral and religious disputes,
+- [00:40:58,000 - 00:41:01,000] finds that it can't.
+- [00:41:01,000 - 00:41:05,000] What then about our second question?
+- [00:41:05,000 - 00:41:08,000] If reasoning about the good
+- [00:41:08,000 - 00:41:11,000] is unavoidable
+- [00:41:11,000 - 00:41:15,000] in debates about justice and rights,
+- [00:41:15,000 - 00:41:18,000] is it possible?
+- [00:41:18,000 - 00:41:21,000] If reasoning about the good
+- [00:41:21,000 - 00:41:23,000] means that you must have
+- [00:41:23,000 - 00:41:25,000] a single principle or rule
+- [00:41:25,000 - 00:41:27,000] or maxim
+- [00:41:27,000 - 00:41:29,000] or criterion
+- [00:41:29,000 - 00:41:32,000] for the good life,
+- [00:41:32,000 - 00:41:33,000] that you simply plug in
+- [00:41:33,000 - 00:41:34,000] every time you have
+- [00:41:34,000 - 00:41:36,000] a disagreement about morality,
+- [00:41:36,000 - 00:41:40,000] then the answer is no.
+- [00:41:40,000 - 00:41:44,000] But having a single principle or rule
+- [00:41:44,000 - 00:41:46,000] is not the only way,
+- [00:41:46,000 - 00:41:48,000] not the best way
+- [00:41:48,000 - 00:41:50,000] of reasoning
+- [00:41:50,000 - 00:41:52,000] either about the good life
+- [00:41:52,000 - 00:41:54,000] or about justice.
+- [00:41:54,000 - 00:41:56,000] Think back,
+- [00:41:56,000 - 00:41:58,000] think back to the arguments
+- [00:41:58,000 - 00:42:00,000] that we've been having here
+- [00:42:00,000 - 00:42:03,000] about justice and about rights
+- [00:42:03,000 - 00:42:06,000] and sometimes about the good life.
+- [00:42:06,000 - 00:42:09,000] How have those arguments proceeded?
+- [00:42:09,000 - 00:42:11,000] They've proceeded
+- [00:42:11,000 - 00:42:15,000] very much in the way
+- [00:42:15,000 - 00:42:18,000] that Aristotle suggests,
+- [00:42:18,000 - 00:42:20,000] moving back and forth
+- [00:42:20,000 - 00:42:23,000] between our judgments about particulars,
+- [00:42:23,000 - 00:42:27,000] particular cases, events, stories, questions,
+- [00:42:27,000 - 00:42:29,000] back and forth between our judgments
+- [00:42:29,000 - 00:42:31,000] about particular cases
+- [00:42:31,000 - 00:42:33,000] and more general principles
+- [00:42:33,000 - 00:42:35,000] that make sense of our reasons
+- [00:42:35,000 - 00:42:36,000] for the positions we take
+- [00:42:36,000 - 00:42:38,000] on the particular cases.
+- [00:42:38,000 - 00:42:42,000] This dialectical way
+- [00:42:42,000 - 00:42:44,000] of doing moral reasoning
+- [00:42:44,000 - 00:42:46,000] goes back to the ancients,
+- [00:42:46,000 - 00:42:48,000] to Plato and Aristotle,
+- [00:42:48,000 - 00:42:51,000] but it doesn't stop with them
+- [00:42:51,000 - 00:42:53,000] because there is a version
+- [00:42:53,000 - 00:42:56,000] of Socratic or dialectical moral reasoning
+- [00:42:56,000 - 00:42:58,000] that is defended
+- [00:42:58,000 - 00:43:01,000] with great clarity and force
+- [00:43:01,000 - 00:43:02,000] by John Rawls.
+- [00:43:03,000 - 00:43:05,000] In giving an account
+- [00:43:05,000 - 00:43:08,000] of his method of justifying
+- [00:43:08,000 - 00:43:10,000] a theory of justice.
+- [00:43:10,000 - 00:43:11,000] You remember,
+- [00:43:11,000 - 00:43:13,000] it's not only the veil of ignorance
+- [00:43:13,000 - 00:43:14,000] and the principles
+- [00:43:14,000 - 00:43:16,000] that Rawls argues for.
+- [00:43:16,000 - 00:43:20,000] It's also a method of moral reasoning,
+- [00:43:20,000 - 00:43:22,000] reasoning about justice,
+- [00:43:22,000 - 00:43:25,000] that he calls reflective equilibrium.
+- [00:43:25,000 - 00:43:26,000] What is the method
+- [00:43:26,000 - 00:43:28,000] of reflective equilibrium?
+- [00:43:28,000 - 00:43:31,000] It's moving back and forth
+- [00:43:31,000 - 00:43:33,000] between our consistent
+- [00:43:33,000 - 00:43:35,000] and consistent judgments
+- [00:43:35,000 - 00:43:37,000] and our consistent judgments.
+- [00:43:37,000 - 00:43:39,000] So, in the case of the law of law,
+- [00:43:39,000 - 00:43:40,000] we consider judgments
+- [00:43:40,000 - 00:43:42,000] about particular cases
+- [00:43:42,000 - 00:43:44,000] and the general principles
+- [00:43:44,000 - 00:43:46,000] we would articulate
+- [00:43:46,000 - 00:43:48,000] to make sense of those judgments.
+- [00:43:48,000 - 00:43:50,000] And not just stopping there,
+- [00:43:50,000 - 00:43:51,000] because we might be wrong
+- [00:43:51,000 - 00:43:53,000] in our initial intuitions.
+- [00:43:53,000 - 00:43:54,000] Not stopping there,
+- [00:43:54,000 - 00:43:56,000] but then sometimes revising
+- [00:43:56,000 - 00:43:58,000] our particular judgments
+- [00:43:58,000 - 00:44:00,000] in the light of the principles
+- [00:44:00,000 - 00:44:02,000] once we work them out.
+- [00:44:02,000 - 00:44:04,000] And in particular cases.
+- [00:44:04,000 - 00:44:06,000] The general point is this,
+- [00:44:06,000 - 00:44:08,000] and here I quote Rawls,
+- [00:44:08,000 - 00:44:10,000] a conception of justice
+- [00:44:10,000 - 00:44:11,000] can't be deduced
+- [00:44:11,000 - 00:44:14,000] from self-evident premises.
+- [00:44:14,000 - 00:44:15,000] It's justification
+- [00:44:15,000 - 00:44:17,000] is a matter of the mutual support
+- [00:44:17,000 - 00:44:19,000] of many considerations,
+- [00:44:19,000 - 00:44:21,000] of everything fitting together
+- [00:44:21,000 - 00:44:25,000] into one coherent view.
+- [00:44:25,000 - 00:44:26,000] And later in a theory of justice,
+- [00:44:26,000 - 00:44:27,000] he writes,
+- [00:44:27,000 - 00:44:30,000] moral philosophy is Socratic.
+- [00:44:30,000 - 00:44:31,000] We may want to change
+- [00:44:31,000 - 00:44:33,000] our present considered judgments
+- [00:44:33,000 - 00:44:36,000] once their regulative principles
+- [00:44:36,000 - 00:44:38,000] are brought to light.
+- [00:44:38,000 - 00:44:42,000] Well, if Rawls accepts that idea
+- [00:44:42,000 - 00:44:45,000] and advances that notion
+- [00:44:45,000 - 00:44:46,000] of reflective equilibrium,
+- [00:44:46,000 - 00:44:49,000] the question we're left with is,
+- [00:44:49,000 - 00:44:51,000] he applies that
+- [00:44:51,000 - 00:44:53,000] to questions of justice.
+- [00:44:53,000 - 00:44:57,000] Not to questions of morality
+- [00:44:57,000 - 00:44:59,000] and the good life.
+- [00:44:59,000 - 00:45:01,000] But, and that's why
+- [00:45:01,000 - 00:45:03,000] he remains committed
+- [00:45:03,000 - 00:45:04,000] to the priority
+- [00:45:04,000 - 00:45:06,000] of the right over the good.
+- [00:45:06,000 - 00:45:07,000] He thinks the method
+- [00:45:07,000 - 00:45:09,000] of reflective equilibrium
+- [00:45:09,000 - 00:45:12,000] can generate shared judgments
+- [00:45:12,000 - 00:45:14,000] about justice and the right,
+- [00:45:14,000 - 00:45:16,000] but he doesn't think
+- [00:45:16,000 - 00:45:18,000] they can generate shared judgments
+- [00:45:18,000 - 00:45:20,000] about the good life,
+- [00:45:20,000 - 00:45:22,000] about what he calls comprehensive
+- [00:45:22,000 - 00:45:25,000] moral and religious questions.
+- [00:45:25,000 - 00:45:27,000] And the reason he thinks that
+- [00:45:27,000 - 00:45:28,000] is that he says that
+- [00:45:28,000 - 00:45:30,000] in modern societies
+- [00:45:30,000 - 00:45:32,000] there is a fact of reasonable
+- [00:45:32,000 - 00:45:35,000] pluralism about the good.
+- [00:45:35,000 - 00:45:37,000] Even conscientious people
+- [00:45:37,000 - 00:45:39,000] who reason well
+- [00:45:39,000 - 00:45:41,000] will find that they disagree
+- [00:45:41,000 - 00:45:44,000] about questions of the good life,
+- [00:45:44,000 - 00:45:47,000] about morality and religion.
+- [00:45:47,000 - 00:45:50,000] And Rawls is likely
+- [00:45:50,000 - 00:45:51,000] right about that.
+- [00:45:51,000 - 00:45:52,000] He's not talking about
+- [00:45:52,000 - 00:45:54,000] the fact of disagreement
+- [00:45:54,000 - 00:45:56,000] in pluralist societies.
+- [00:45:56,000 - 00:45:58,000] He's also suggesting
+- [00:45:58,000 - 00:45:59,000] that there may be persisting,
+- [00:45:59,000 - 00:46:01,000] disagreeing,
+- [00:46:01,000 - 00:46:02,000] disagreements
+- [00:46:02,000 - 00:46:04,000] about the good life
+- [00:46:04,000 - 00:46:05,000] and about moral
+- [00:46:05,000 - 00:46:08,000] and religious questions.
+- [00:46:08,000 - 00:46:11,000] But if that's true,
+- [00:46:11,000 - 00:46:14,000] then is he warranted
+- [00:46:14,000 - 00:46:17,000] in his further claim
+- [00:46:17,000 - 00:46:19,000] that the same can't be said
+- [00:46:19,000 - 00:46:21,000] about justice?
+- [00:46:21,000 - 00:46:23,000] Isn't it also true
+- [00:46:23,000 - 00:46:24,000] not only that we,
+- [00:46:24,000 - 00:46:25,000] as a matter of fact,
+- [00:46:25,000 - 00:46:27,000] disagree about justice
+- [00:46:27,000 - 00:46:29,000] in pluralist societies,
+- [00:46:29,000 - 00:46:30,000] but that at least
+- [00:46:30,000 - 00:46:31,000] some of those disagreements
+- [00:46:31,000 - 00:46:35,000] are reasonable disagreements
+- [00:46:35,000 - 00:46:37,000] in the same way?
+- [00:46:37,000 - 00:46:39,000] Some people favor
+- [00:46:39,000 - 00:46:42,000] a libertarian theory of justice.
+- [00:46:42,000 - 00:46:43,000] Others,
+- [00:46:43,000 - 00:46:45,000] a more egalitarian theory of justice.
+- [00:46:45,000 - 00:46:47,000] And they argue.
+- [00:46:47,000 - 00:46:49,000] And there is pluralism
+- [00:46:49,000 - 00:46:50,000] in our society
+- [00:46:50,000 - 00:46:51,000] as between free market,
+- [00:46:51,000 - 00:46:52,000] laissez-faire,
+- [00:46:52,000 - 00:46:54,000] libertarian theories of justice
+- [00:46:54,000 - 00:46:57,000] and more egalitarian ones.
+- [00:46:57,000 - 00:46:59,000] Is there any reason,
+- [00:46:59,000 - 00:47:00,000] is there any difference
+- [00:47:00,000 - 00:47:01,000] in principle
+- [00:47:01,000 - 00:47:02,000] between the kind
+- [00:47:02,000 - 00:47:03,000] of moral reasoning
+- [00:47:03,000 - 00:47:05,000] and the kind of disagreements
+- [00:47:05,000 - 00:47:06,000] that arise when we debate
+- [00:47:06,000 - 00:47:08,000] about justice
+- [00:47:08,000 - 00:47:10,000] and the meaning of free speech
+- [00:47:10,000 - 00:47:11,000] and the nature
+- [00:47:11,000 - 00:47:13,000] of religious liberty?
+- [00:47:13,000 - 00:47:16,000] Look at the debates we have
+- [00:47:16,000 - 00:47:18,000] over appointees
+- [00:47:18,000 - 00:47:19,000] to the Supreme Court.
+- [00:47:19,000 - 00:47:21,000] These are all disagreements
+- [00:47:21,000 - 00:47:24,000] about justice and rights.
+- [00:47:24,000 - 00:47:26,000] Is there any difference
+- [00:47:26,000 - 00:47:27,000] between the fact
+- [00:47:27,000 - 00:47:29,000] of reasonable pluralism
+- [00:47:29,000 - 00:47:32,000] in the case of justice and rights
+- [00:47:32,000 - 00:47:36,000] and in the case of morality and religion?
+- [00:47:36,000 - 00:47:37,000] In principle,
+- [00:47:37,000 - 00:47:39,000] I don't think that there is.
+- [00:47:39,000 - 00:47:41,000] In both cases,
+- [00:47:41,000 - 00:47:43,000] what we do when we disagree
+- [00:47:43,000 - 00:47:46,000] is we engage with our interlocutor,
+- [00:47:46,000 - 00:47:48,000] as we've been doing here
+- [00:47:48,000 - 00:47:49,000] for an entire semester.
+- [00:47:49,000 - 00:47:51,000] We consider the arguments
+- [00:47:51,000 - 00:47:54,000] that are provoked by particular cases.
+- [00:47:54,000 - 00:47:56,000] We try to develop the reasons
+- [00:47:56,000 - 00:47:57,000] that lead us to go one way
+- [00:47:57,000 - 00:47:58,000] rather than another.
+- [00:47:58,000 - 00:47:59,000] And then we listen
+- [00:47:59,000 - 00:48:01,000] to the reasons of other people.
+- [00:48:01,000 - 00:48:03,000] And sometimes we're persuaded
+- [00:48:03,000 - 00:48:05,000] to revise our view.
+- [00:48:05,000 - 00:48:06,000] Other times we're challenged
+- [00:48:06,000 - 00:48:08,000] at least to shore up
+- [00:48:08,000 - 00:48:13,000] and strengthen our view.
+- [00:48:13,000 - 00:48:17,000] But this is how moral argument proceeds,
+- [00:48:17,000 - 00:48:18,000] with justice,
+- [00:48:18,000 - 00:48:21,000] and so it seems to me also,
+- [00:48:21,000 - 00:48:25,000] with questions of the good life.
+- [00:48:25,000 - 00:48:28,000] Now, there remains a question
+- [00:48:28,000 - 00:48:31,000] of what is the moral argument?
+- [00:48:31,000 - 00:48:34,000] And it's a further worry,
+- [00:48:34,000 - 00:48:37,000] and it's a liberal worry.
+- [00:48:37,000 - 00:48:40,000] What about if we're going to think
+- [00:48:40,000 - 00:48:41,000] of our disagreements
+- [00:48:41,000 - 00:48:44,000] about morality and religion
+- [00:48:44,000 - 00:48:46,000] as bound up with our disagreements
+- [00:48:46,000 - 00:48:47,000] about justice?
+- [00:48:47,000 - 00:48:49,000] How are we ever going to find
+- [00:48:49,000 - 00:48:52,000] our way to a society
+- [00:48:52,000 - 00:48:56,000] that accords respect
+- [00:48:56,000 - 00:48:57,000] to fellow citizens
+- [00:48:57,000 - 00:49:00,000] and to the people we love?
+- [00:49:00,000 - 00:49:02,000] It depends, I think,
+- [00:49:02,000 - 00:49:04,000] on which conception
+- [00:49:04,000 - 00:49:08,000] of respect one accepts.
+- [00:49:08,000 - 00:49:10,000] On the liberal conception,
+- [00:49:10,000 - 00:49:12,000] to respect our fellow citizens'
+- [00:49:12,000 - 00:49:15,000] moral and religious convictions
+- [00:49:15,000 - 00:49:16,000] is, so to speak,
+- [00:49:16,000 - 00:49:17,000] to ignore them
+- [00:49:17,000 - 00:49:19,000] for political purposes,
+- [00:49:19,000 - 00:49:21,000] to rise above or abstract from
+- [00:49:21,000 - 00:49:23,000] or to set aside
+- [00:49:23,000 - 00:49:25,000] those moral and religious convictions,
+- [00:49:25,000 - 00:49:27,000] to leave them undisturbed,
+- [00:49:27,000 - 00:49:29,000] or to carry on our political debate
+- [00:49:29,000 - 00:49:31,000] without reference to them.
+- [00:49:31,000 - 00:49:34,000] But that isn't the only way,
+- [00:49:34,000 - 00:49:38,000] or perhaps even the most plausible way
+- [00:49:38,000 - 00:49:42,000] of understanding the mutual respect
+- [00:49:42,000 - 00:49:46,000] on which democratic life depends.
+- [00:49:46,000 - 00:49:48,000] There is a different conception
+- [00:49:48,000 - 00:49:49,000] of respect,
+- [00:49:49,000 - 00:49:51,000] according to which we respect
+- [00:49:51,000 - 00:49:53,000] our fellow citizens' moral
+- [00:49:53,000 - 00:49:55,000] and religious convictions,
+- [00:49:55,000 - 00:49:56,000] not by ignoring,
+- [00:49:56,000 - 00:49:58,000] but by engaging them,
+- [00:49:58,000 - 00:50:00,000] by attending to them,
+- [00:50:00,000 - 00:50:02,000] sometimes by challenging
+- [00:50:02,000 - 00:50:04,000] and contesting them,
+- [00:50:04,000 - 00:50:07,000] sometimes by listening
+- [00:50:07,000 - 00:50:09,000] and learning from them.
+- [00:50:09,000 - 00:50:11,000] Now, there is no guarantee
+- [00:50:11,000 - 00:50:13,000] that a politics of moral
+- [00:50:13,000 - 00:50:15,000] and religious attention
+- [00:50:15,000 - 00:50:17,000] and engagement
+- [00:50:17,000 - 00:50:19,000] will lead in any given case
+- [00:50:19,000 - 00:50:21,000] to agreement.
+- [00:50:21,000 - 00:50:22,000] There is no guarantee
+- [00:50:22,000 - 00:50:24,000] it will lead even to appreciation
+- [00:50:24,000 - 00:50:26,000] for the moral and religious convictions
+- [00:50:26,000 - 00:50:27,000] of others.
+- [00:50:27,000 - 00:50:28,000] It's always possible,
+- [00:50:28,000 - 00:50:29,000] after all,
+- [00:50:29,000 - 00:50:31,000] that learning more about a religious
+- [00:50:31,000 - 00:50:32,000] or a moral doctrine
+- [00:50:32,000 - 00:50:36,000] will lead us to like it less.
+- [00:50:36,000 - 00:50:39,000] But the respect of deliberation
+- [00:50:39,000 - 00:50:41,000] and engagement
+- [00:50:41,000 - 00:50:43,000] seems to me a more adequate,
+- [00:50:43,000 - 00:50:44,000] more suitable ideal
+- [00:50:44,000 - 00:50:46,000] for a pluralist society,
+- [00:50:46,000 - 00:50:48,000] and to the extent
+- [00:50:48,000 - 00:50:50,000] that our moral and religious disagreements
+- [00:50:50,000 - 00:50:53,000] reflect some ultimate plurality
+- [00:50:53,000 - 00:50:55,000] of human goods,
+- [00:50:55,000 - 00:50:58,000] a politics of moral engagement
+- [00:50:58,000 - 00:51:00,000] will better enable us,
+- [00:51:00,000 - 00:51:01,000] so it seems to me,
+- [00:51:01,000 - 00:51:03,000] to appreciate
+- [00:51:03,000 - 00:51:05,000] the distinctive goods
+- [00:51:05,000 - 00:51:09,000] our different lives express.
+- [00:51:09,000 - 00:51:11,000] When we first came together
+- [00:51:11,000 - 00:51:14,000] some 13 weeks ago,
+- [00:51:14,000 - 00:51:15,000] I spoke of the exhilaration
+- [00:51:15,000 - 00:51:17,000] of political philosophy
+- [00:51:17,000 - 00:51:20,000] and also of its dangers,
+- [00:51:20,000 - 00:51:23,000] about how philosophy works
+- [00:51:23,000 - 00:51:25,000] and has always worked
+- [00:51:25,000 - 00:51:28,000] by estranging us
+- [00:51:28,000 - 00:51:30,000] from the familiar,
+- [00:51:30,000 - 00:51:32,000] by unsettling
+- [00:51:32,000 - 00:51:35,000] our settled assumptions.
+- [00:51:35,000 - 00:51:37,000] And I tried to warn you
+- [00:51:37,000 - 00:51:41,000] that once the familiar turns strange,
+- [00:51:41,000 - 00:51:42,000] once we begin to reflect
+- [00:51:42,000 - 00:51:45,000] on our circumstance,
+- [00:51:45,000 - 00:51:49,000] it's never quite the same again.
+- [00:51:49,000 - 00:51:51,000] I hope you have by now experienced
+- [00:51:51,000 - 00:51:54,000] at least a little of this unease,
+- [00:51:54,000 - 00:51:56,000] because this is the tension
+- [00:51:56,000 - 00:51:58,000] that animates critical reflection
+- [00:51:58,000 - 00:52:00,000] and political improvement,
+- [00:52:00,000 - 00:52:04,000] and maybe even the moral life as well.
+- [00:52:04,000 - 00:52:05,500] And so our argument comes
+- [00:52:05,500 - 00:52:07,000] to an end in a sense,
+- [00:52:07,000 - 00:52:10,000] but in another sense goes on.
+- [00:52:10,000 - 00:52:13,000] Why, we asked at the outset,
+- [00:52:13,000 - 00:52:16,000] why do these arguments keep going
+- [00:52:16,000 - 00:52:18,000] even if they raise questions
+- [00:52:18,000 - 00:52:22,000] that are impossible ever finally to resolve?
+- [00:52:22,000 - 00:52:24,000] The reason,
+- [00:52:24,000 - 00:52:26,000] is that we live some answer
+- [00:52:26,000 - 00:52:29,000] to these questions all the time.
+- [00:52:29,000 - 00:52:31,000] In our public life
+- [00:52:31,000 - 00:52:33,000] and in our personal lives,
+- [00:52:33,000 - 00:52:36,000] philosophy is inescapable
+- [00:52:36,000 - 00:52:41,000] even if it sometimes seems impossible.
+- [00:52:41,000 - 00:52:44,000] We began with the thought of Kant
+- [00:52:44,000 - 00:52:46,000] that skepticism is a resting place
+- [00:52:46,000 - 00:52:48,000] for human reason,
+- [00:52:48,000 - 00:52:49,000] where it can reflect upon
+- [00:52:49,000 - 00:52:52,000] its dogmatic wanderings,
+- [00:52:52,000 - 00:52:54,000] but it is no dwelling place
+- [00:52:54,000 - 00:52:57,000] for permanent settlement.
+- [00:52:57,000 - 00:52:59,000] To allow ourselves simply to acquiesce
+- [00:52:59,000 - 00:53:01,000] in skepticism or in complacence,
+- [00:53:01,000 - 00:53:03,000] Kant wrote,
+- [00:53:03,000 - 00:53:05,000] can never suffice
+- [00:53:05,000 - 00:53:08,000] to overcome the restlessness of reason.
+- [00:53:08,000 - 00:53:10,000] The aim of this course
+- [00:53:10,000 - 00:53:12,000] has been to awaken
+- [00:53:12,000 - 00:53:14,000] the restlessness of reason
+- [00:53:14,000 - 00:53:16,000] and to see where it might lead.
+- [00:53:16,000 - 00:53:19,000] And if we have done at least that,
+- [00:53:19,000 - 00:53:21,000] and if the restlessness
+- [00:53:21,000 - 00:53:23,000] continues to afflict you
+- [00:53:23,000 - 00:53:26,000] in the days and years to come,
+- [00:53:26,000 - 00:53:28,000] then we together have achieved
+- [00:53:28,000 - 00:53:30,000] no small thing.
+- [00:53:30,000 - 00:53:31,000] Thank you.
+- [00:53:53,000 - 00:53:54,000] Thank you.
+- [00:54:24,000 - 00:54:25,000] Thank you.
+- [00:54:51,000 - 00:54:52,000] Funding for this program
+- [00:54:52,000 - 00:54:55,000] Additional funding provided by...

@@ -1,0 +1,1188 @@
+# Transcript
+
+Source: 005 - Justice： What's The Right Thing To Do？ Episode 05： ＂HIRED GUNS＂ [8yT4RZy1t3s].webm
+
+- [00:00:00,000 - 00:00:05,000] Funding for this program is provided by
+- [00:00:05,000 - 00:00:09,000] Additional funding provided by
+- [00:00:30,000 - 00:00:34,000] When we ended last time, we were
+- [00:00:34,000 - 00:00:38,000] discussing Locke's idea of government by consent.
+- [00:00:38,000 - 00:00:43,500] And the question arose, what are the limits on
+- [00:00:43,500 - 00:00:49,000] government that even the agreement of the majority can't override?
+- [00:00:49,000 - 00:00:55,000] That was the question we ended with.
+- [00:00:55,000 - 00:00:59,000] We saw in the case of property rights,
+- [00:00:59,000 - 00:01:03,000] that on Locke's view,
+- [00:01:03,000 - 00:01:06,000] a democratically elected government has
+- [00:01:06,000 - 00:01:09,000] the right to tax people.
+- [00:01:09,000 - 00:01:14,000] It has to be taxation with consent, because it does
+- [00:01:14,000 - 00:01:19,000] involve the taking of people's property for the common good.
+- [00:01:19,000 - 00:01:23,500] But it doesn't require the consent of each individual
+- [00:01:23,500 - 00:01:28,000] at the time the tax is enacted or collected.
+- [00:01:28,000 - 00:01:29,000] So, we're going to look at the tax.
+- [00:01:29,000 - 00:01:35,000] What it does require
+- [00:01:35,000 - 00:01:40,000] is a prior act of consent to join the society,
+- [00:01:40,000 - 00:01:44,000] to take on the political obligation.
+- [00:01:44,000 - 00:01:47,000] But once you take on that obligation,
+- [00:01:47,000 - 00:01:50,000] you agree to be bound by the majority.
+- [00:01:50,000 - 00:01:53,000] So much for taxation.
+- [00:01:53,000 - 00:01:58,000] But what you may ask about the right to life,
+- [00:01:58,000 - 00:02:00,500] can the government conscript people
+- [00:02:00,500 - 00:02:03,000] and send them into battle?
+- [00:02:03,000 - 00:02:07,000] What about the idea that we own ourselves?
+- [00:02:07,000 - 00:02:10,000] Isn't the idea of self-possession violated?
+- [00:02:10,000 - 00:02:13,000] If the government can, through
+- [00:02:13,000 - 00:02:16,000] coercive legislation and enforcement powers,
+- [00:02:16,000 - 00:02:19,000] say, you must go risk
+- [00:02:19,000 - 00:02:22,000] your life to fight in Iraq,
+- [00:02:22,000 - 00:02:24,000] what would Locke say? Does the
+- [00:02:24,000 - 00:02:26,000] government have the right to do that?
+- [00:02:26,000 - 00:02:27,000] Yes.
+- [00:02:28,000 - 00:02:33,000] In fact, he says in 139,
+- [00:02:33,000 - 00:02:35,000] he says,
+- [00:02:35,000 - 00:02:40,000] what matters is that the political authority,
+- [00:02:40,000 - 00:02:43,000] or the military authority,
+- [00:02:43,000 - 00:02:47,000] not be arbitrary. That's what matters.
+- [00:02:47,000 - 00:02:49,000] And he gives a wonderful example. He says,
+- [00:02:49,000 - 00:02:52,000] a sergeant, even a sergeant,
+- [00:02:52,000 - 00:02:57,000] let alone a general, a sergeant can command a soldier
+- [00:02:57,000 - 00:03:03,000] to go right up to the face of the cannon,
+- [00:03:03,000 - 00:03:07,000] where he is almost sure to die.
+- [00:03:07,000 - 00:03:13,000] That the sergeant can do.
+- [00:03:13,000 - 00:03:15,000] The general can condemn the soldier
+- [00:03:15,000 - 00:03:17,000] to death for deserting his post,
+- [00:03:17,000 - 00:03:22,000] or for not obeying even a desperate order.
+- [00:03:22,000 - 00:03:25,000] But with all their power over life and death,
+- [00:03:25,000 - 00:03:28,000] what these officers can't do
+- [00:03:28,000 - 00:03:35,000] is take a penny of that soldier's money.
+- [00:03:35,000 - 00:03:39,000] Because that has nothing to do with the rightful authority.
+- [00:03:39,000 - 00:03:41,000] That would be arbitrary.
+- [00:03:41,000 - 00:03:43,000] And it would be corrupt.
+- [00:03:43,000 - 00:03:46,000] So, consent winds up being very powerful in Locke.
+- [00:03:46,000 - 00:03:48,500] Not consent of the individual to
+- [00:03:48,500 - 00:03:51,000] the particular tax or military order,
+- [00:03:51,000 - 00:03:53,000] but consent to join the government
+- [00:03:53,000 - 00:03:54,500] and to be bound by
+- [00:03:54,500 - 00:03:56,000] the majority in the first place.
+- [00:03:56,000 - 00:03:59,000] That's the consent that matters.
+- [00:03:59,000 - 00:04:03,000] And it matters so powerfully
+- [00:04:03,000 - 00:04:05,500] that even the limited government created
+- [00:04:05,500 - 00:04:08,000] by the fact that we have
+- [00:04:08,000 - 00:04:11,000] an unalienable right to life, liberty, and property,
+- [00:04:11,000 - 00:04:15,000] even that limited government is only limited in the sense
+- [00:04:15,000 - 00:04:18,000] that it has to govern by generally applicable laws,
+- [00:04:18,000 - 00:04:21,000] the rule of law, it can't be arbitrary.
+- [00:04:21,000 - 00:04:22,000] That's Locke.
+- [00:04:23,000 - 00:04:28,000] Well, this raises a question about consent.
+- [00:04:28,000 - 00:04:33,000] Why is consent such a powerful moral instrument
+- [00:04:33,000 - 00:04:37,000] in creating political authority and the obligation to obey?
+- [00:04:42,000 - 00:04:46,000] Today we begin to investigate the question of consent
+- [00:04:46,000 - 00:04:49,000] by looking at a concrete case,
+- [00:04:49,000 - 00:04:52,000] the case of military conscription.
+- [00:04:52,000 - 00:04:54,000] Now, some people say,
+- [00:04:54,000 - 00:04:57,000] if we have a fundamental right
+- [00:04:57,000 - 00:05:03,000] that arises from the idea that we own ourselves,
+- [00:05:03,000 - 00:05:06,000] it's a violation of that right
+- [00:05:06,000 - 00:05:11,000] for government to conscript citizens to go fight in wars.
+- [00:05:14,000 - 00:05:16,000] Others disagree.
+- [00:05:16,000 - 00:05:20,000] Others say that's a legitimate power of government,
+- [00:05:20,000 - 00:05:22,000] of democratically elected governments.
+- [00:05:22,000 - 00:05:24,000] But that's not the case, anyhow,
+- [00:05:24,000 - 00:05:28,000] and that we have an obligation to obey.
+- [00:05:28,000 - 00:05:32,000] Let's take the case of the
+- [00:05:32,000 - 00:05:36,000] United States fighting a war in Iraq.
+- [00:05:36,000 - 00:05:41,000] News accounts tell us that the military
+- [00:05:41,000 - 00:05:46,000] is having great difficulty meeting its recruitment targets.
+- [00:05:46,000 - 00:05:50,000] Consider three policies that the U.S. government,
+- [00:05:50,000 - 00:05:53,000] U.S. government might undertake
+- [00:05:53,000 - 00:05:56,500] to deal with the fact that
+- [00:05:56,500 - 00:06:00,000] it's not achieving its recruiting targets.
+- [00:06:00,000 - 00:06:02,000] Solution number one,
+- [00:06:02,000 - 00:06:05,000] increase the pay and benefits
+- [00:06:05,000 - 00:06:10,000] to attract a sufficient number of soldiers.
+- [00:06:10,000 - 00:06:13,000] Option number two,
+- [00:06:13,000 - 00:06:18,000] shift to a system of military conscription.
+- [00:06:18,000 - 00:06:20,000] Have a lottery,
+- [00:06:20,000 - 00:06:25,000] and whosoever numbers are drawn,
+- [00:06:25,000 - 00:06:30,000] go to fight in Iraq.
+- [00:06:30,000 - 00:06:33,000] System number three,
+- [00:06:33,000 - 00:06:35,000] outsource.
+- [00:06:35,000 - 00:06:41,000] Hire what traditionally have been called mercenaries,
+- [00:06:41,000 - 00:06:44,000] people around the world who are qualified,
+- [00:06:44,000 - 00:06:45,000] able to do the work,
+- [00:06:45,000 - 00:06:46,000] able to fight well,
+- [00:06:46,000 - 00:06:48,000] and who are willing to do it
+- [00:06:48,000 - 00:06:51,000] for the existing wage.
+- [00:06:51,000 - 00:06:54,000] So let's take a quick poll here.
+- [00:06:54,000 - 00:07:01,000] How many favor increasing the pay?
+- [00:07:01,000 - 00:07:03,000] Huge majority.
+- [00:07:03,000 - 00:07:07,000] How many favor going to conscription?
+- [00:07:07,000 - 00:07:09,000] One, two.
+- [00:07:09,000 - 00:07:12,000] All right, maybe a dozen people in the room
+- [00:07:12,000 - 00:07:14,000] favor conscription.
+- [00:07:14,000 - 00:07:17,000] What about the outsourcing solution?
+- [00:07:18,000 - 00:07:23,000] Okay, so there may be,
+- [00:07:23,000 - 00:07:28,000] what, two, three dozen.
+- [00:07:28,000 - 00:07:32,000] During the Civil War,
+- [00:07:32,000 - 00:07:38,000] the Union used a combination
+- [00:07:38,000 - 00:07:42,000] of conscription and the market system
+- [00:07:42,000 - 00:07:45,000] to fill the ranks of the military
+- [00:07:45,000 - 00:07:47,000] to fight in the Civil War.
+- [00:07:47,000 - 00:07:51,000] It was a system that began with conscription,
+- [00:07:51,000 - 00:07:56,000] but if you were drafted
+- [00:07:56,000 - 00:07:58,000] and didn't want to serve,
+- [00:07:58,000 - 00:08:01,000] you could hire a substitute to take your place.
+- [00:08:01,000 - 00:08:06,000] And many people did.
+- [00:08:06,000 - 00:08:11,000] You could pay whatever the market required
+- [00:08:11,000 - 00:08:14,000] in order to find a substitute.
+- [00:08:14,000 - 00:08:16,000] People ran ads in newspapers.
+- [00:08:16,000 - 00:08:19,000] In the classified ads.
+- [00:08:19,000 - 00:08:22,000] Offering $500,
+- [00:08:22,000 - 00:08:26,000] sometimes $1,000,
+- [00:08:26,000 - 00:08:29,000] for a substitute who would go fight the Civil War
+- [00:08:29,000 - 00:08:32,000] in their place.
+- [00:08:32,000 - 00:08:35,000] In fact, it's reported that Andrew Carnegie
+- [00:08:35,000 - 00:08:37,000] was drafted
+- [00:08:37,000 - 00:08:40,000] and hired a substitute to take his place
+- [00:08:40,000 - 00:08:43,000] for an amount
+- [00:08:43,000 - 00:08:45,000] that was a little less
+- [00:08:45,000 - 00:08:47,000] than the amount he spent in a year
+- [00:08:47,000 - 00:08:49,000] on fancy cigars.
+- [00:08:49,000 - 00:08:54,000] Now, I want to get your views
+- [00:08:54,000 - 00:08:56,000] about the Civil War system.
+- [00:08:56,000 - 00:08:58,000] Call it the hybrid system.
+- [00:08:58,000 - 00:09:01,000] Conscription, but with a buyout provision.
+- [00:09:01,000 - 00:09:04,000] How many think it was a just system?
+- [00:09:04,000 - 00:09:07,000] How many would defend the Civil War system?
+- [00:09:07,000 - 00:09:11,000] Anybody?
+- [00:09:11,000 - 00:09:13,000] One? Anybody else?
+- [00:09:13,000 - 00:09:14,000] Two? Three?
+- [00:09:14,000 - 00:09:16,000] Four? Five?
+- [00:09:16,000 - 00:09:20,000] How many think it was unjust?
+- [00:09:20,000 - 00:09:22,000] Most of you don't like the Civil War system.
+- [00:09:22,000 - 00:09:24,000] You think it's unjust.
+- [00:09:24,000 - 00:09:27,000] Let's hear an objection.
+- [00:09:27,000 - 00:09:28,000] Why don't you like it?
+- [00:09:28,000 - 00:09:34,000] What's wrong with it?
+- [00:09:34,000 - 00:09:36,000] Yes?
+- [00:09:36,000 - 00:09:40,000] Well, by paying $300 for,
+- [00:09:40,000 - 00:09:42,000] to be exempt one time around,
+- [00:09:42,000 - 00:09:44,000] you're really putting a price on the,
+- [00:09:44,000 - 00:09:46,000] on valuing human life.
+- [00:09:46,000 - 00:09:47,000] And we established earlier
+- [00:09:47,000 - 00:09:49,000] that's really hard to do.
+- [00:09:49,000 - 00:09:51,000] So, they're trying to accomplish something
+- [00:09:51,000 - 00:09:53,000] that really isn't feasible.
+- [00:09:53,000 - 00:09:54,000] Good.
+- [00:09:54,000 - 00:09:59,000] So, paying someone $300 or $500 or $1,000.
+- [00:09:59,000 - 00:10:00,000] You're basically saying
+- [00:10:00,000 - 00:10:02,000] that's what their life is worth to you.
+- [00:10:02,000 - 00:10:03,000] That's what their life is worth.
+- [00:10:03,000 - 00:10:05,000] It's putting a dollar value on life.
+- [00:10:05,000 - 00:10:06,000] That's good.
+- [00:10:06,000 - 00:10:07,000] And what's your name?
+- [00:10:07,000 - 00:10:08,000] Liz.
+- [00:10:08,000 - 00:10:10,000] Liz.
+- [00:10:10,000 - 00:10:13,000] Well, who has an answer for Liz?
+- [00:10:13,000 - 00:10:15,000] You defended the Civil War system.
+- [00:10:15,000 - 00:10:16,000] What do you say?
+- [00:10:16,000 - 00:10:18,000] If you don't like the price,
+- [00:10:18,000 - 00:10:20,000] then you have the freedom
+- [00:10:20,000 - 00:10:23,000] to not be sold or hire.
+- [00:10:23,000 - 00:10:25,000] So, it's completely up to you.
+- [00:10:25,000 - 00:10:27,000] And I don't think it's necessarily putting
+- [00:10:27,000 - 00:10:29,000] a specific price on you.
+- [00:10:29,000 - 00:10:32,000] And if it's done by himself,
+- [00:10:32,000 - 00:10:34,000] I don't think there's anything necessarily
+- [00:10:34,000 - 00:10:35,000] morally wrong with that.
+- [00:10:35,000 - 00:10:41,000] So, the person who takes the $500, let's say,
+- [00:10:41,000 - 00:10:42,000] he's putting
+- [00:10:42,000 - 00:10:45,000] his own price on his life
+- [00:10:45,000 - 00:10:48,000] or on the risk of his life.
+- [00:10:48,000 - 00:10:50,000] And he should have the freedom
+- [00:10:50,000 - 00:10:51,000] to choose to do that.
+- [00:10:51,000 - 00:10:52,000] Exactly.
+- [00:10:52,000 - 00:10:53,000] What's your name?
+- [00:10:53,000 - 00:10:54,000] Jason.
+- [00:10:54,000 - 00:10:56,000] Jason. Thank you.
+- [00:10:56,000 - 00:10:58,000] Now, we need to hear from another critic
+- [00:10:58,000 - 00:11:00,000] of the Civil War system.
+- [00:11:00,000 - 00:11:01,000] Yes.
+- [00:11:01,000 - 00:11:03,000] It's a kind of coercion almost
+- [00:11:03,000 - 00:11:05,000] to people who have lower incomes.
+- [00:11:05,000 - 00:11:08,000] For Carnegie, he can totally ignore the draft.
+- [00:11:08,000 - 00:11:12,000] $300 is irrelevant in terms of the cost.
+- [00:11:12,000 - 00:11:13,000] It's not something that's
+- [00:11:13,000 - 00:11:14,000] in the hands of his income.
+- [00:11:14,000 - 00:11:15,000] For someone of a lower income,
+- [00:11:15,000 - 00:11:18,000] they're essentially being coerced to draft,
+- [00:11:18,000 - 00:11:19,000] to be drafted.
+- [00:11:19,000 - 00:11:22,000] Or, I mean, it's probably they're not able
+- [00:11:22,000 - 00:11:23,000] to find a replacement.
+- [00:11:23,000 - 00:11:24,000] Tell me your name.
+- [00:11:24,000 - 00:11:25,000] Sam.
+- [00:11:25,000 - 00:11:26,000] Sam.
+- [00:11:26,000 - 00:11:27,000] All right.
+- [00:11:27,000 - 00:11:28,000] So, you say, Sam,
+- [00:11:28,000 - 00:11:33,000] that when a poor laborer buys his,
+- [00:11:33,000 - 00:11:37,000] accepts $300 to fight in the Civil War,
+- [00:11:37,000 - 00:11:42,000] he is in effect being coerced by that money,
+- [00:11:42,000 - 00:11:44,000] his economic circumstances.
+- [00:11:44,000 - 00:11:46,000] Whereas Carnegie can go off,
+- [00:11:46,000 - 00:11:47,000] pay the money,
+- [00:11:47,000 - 00:11:50,000] and not serve.
+- [00:11:50,000 - 00:11:51,000] All right.
+- [00:11:51,000 - 00:11:53,000] I want to hear if someone has a reply
+- [00:11:53,000 - 00:11:56,000] to Sam's argument
+- [00:11:56,000 - 00:11:59,000] that what looks like a free exchange
+- [00:11:59,000 - 00:12:04,000] is actually coercive.
+- [00:12:04,000 - 00:12:07,000] Who has an answer to Sam?
+- [00:12:07,000 - 00:12:08,000] Go ahead.
+- [00:12:08,000 - 00:12:11,000] I'd actually agree with him in saying that.
+- [00:12:11,000 - 00:12:12,000] You agree with Sam?
+- [00:12:12,000 - 00:12:15,000] I agree with him in saying that it is coercion
+- [00:12:15,000 - 00:12:18,000] in the sense that it robs the individual
+- [00:12:18,000 - 00:12:20,000] of his ability to reason.
+- [00:12:20,000 - 00:12:21,000] Okay.
+- [00:12:21,000 - 00:12:22,000] And what's your name?
+- [00:12:22,000 - 00:12:23,000] Raul.
+- [00:12:23,000 - 00:12:24,000] All right.
+- [00:12:24,000 - 00:12:26,000] So, Raul and Sam agree
+- [00:12:26,000 - 00:12:28,000] that what looks like a free exchange,
+- [00:12:28,000 - 00:12:30,000] free choice, voluntary act,
+- [00:12:30,000 - 00:12:34,000] is actually, it involves coercion.
+- [00:12:34,000 - 00:12:36,000] It's profound coercion of the worst kind
+- [00:12:36,000 - 00:12:38,000] because it falls so disproportionately
+- [00:12:38,000 - 00:12:41,000] upon one segment of the society.
+- [00:12:41,000 - 00:12:42,000] Good.
+- [00:12:42,000 - 00:12:45,000] So, Raul and Sam have made a powerful point.
+- [00:12:45,000 - 00:12:48,000] Who would like to reply?
+- [00:12:48,000 - 00:12:51,000] Who has an answer for Sam and Raul?
+- [00:12:51,000 - 00:12:53,000] Go ahead.
+- [00:12:53,000 - 00:12:55,000] I just, I don't think that these drafting systems
+- [00:12:55,000 - 00:12:57,000] are really terribly different from,
+- [00:12:57,000 - 00:13:01,000] you know, all volunteer army sort of recruiting strategies.
+- [00:13:01,000 - 00:13:04,000] The whole idea of, you know, having benefits
+- [00:13:04,000 - 00:13:06,000] and pay for joining the army is, you know,
+- [00:13:06,000 - 00:13:10,000] sort of a coercive strategy to get people to join.
+- [00:13:10,000 - 00:13:11,000] It is true that, you know,
+- [00:13:11,000 - 00:13:12,500] it is true that
+- [00:13:12,500 - 00:13:14,000] military volunteers come from disproportionately,
+- [00:13:14,000 - 00:13:18,000] you know, lower economic status and also, you know,
+- [00:13:18,000 - 00:13:20,000] from certain regions of the country where you can use,
+- [00:13:20,000 - 00:13:23,000] like, the patriotism to try and coerce people
+- [00:13:23,000 - 00:13:24,000] to feel like it's the right thing to do,
+- [00:13:24,000 - 00:13:26,000] to volunteer and go over to Iraq.
+- [00:13:26,000 - 00:13:27,000] And tell me your name.
+- [00:13:27,000 - 00:13:28,000] Emily.
+- [00:13:28,000 - 00:13:29,000] All right.
+- [00:13:29,000 - 00:13:33,000] Emily says, and Raul,
+- [00:13:33,000 - 00:13:34,500] you're going to have to
+- [00:13:34,500 - 00:13:36,000] reply to this, so get ready.
+- [00:13:36,000 - 00:13:40,000] Emily says, fair enough.
+- [00:13:40,000 - 00:13:43,000] There is a coercive element to the Civil War system
+- [00:13:43,000 - 00:13:46,000] when the laborer takes the
+- [00:13:46,000 - 00:13:49,000] place of Andrew Carnegie for $500.
+- [00:13:49,000 - 00:13:51,000] Emily concedes that.
+- [00:13:51,000 - 00:13:53,500] But she says, if that troubles
+- [00:13:53,500 - 00:13:56,000] you about the Civil War system,
+- [00:13:56,000 - 00:13:59,500] shouldn't that also trouble you
+- [00:13:59,500 - 00:14:03,000] about the volunteer army today?
+- [00:14:03,000 - 00:14:06,000] And let me, and before you answer,
+- [00:14:06,000 - 00:14:08,000] how did you vote on the first poll?
+- [00:14:08,000 - 00:14:09,000] Did you defend the volunteer army?
+- [00:14:09,000 - 00:14:11,000] I didn't vote.
+- [00:14:11,000 - 00:14:12,000] You didn't vote.
+- [00:14:12,000 - 00:14:13,000] No.
+- [00:14:13,000 - 00:14:15,000] By the way, you didn't vote.
+- [00:14:15,000 - 00:14:16,500] Did you sell your vote to
+- [00:14:16,500 - 00:14:18,000] the person sitting next to you?
+- [00:14:18,000 - 00:14:19,000] No.
+- [00:14:19,000 - 00:14:21,000] All right.
+- [00:14:21,000 - 00:14:24,000] So what would you say to that argument?
+- [00:14:24,000 - 00:14:26,000] I think that the circumstances are different
+- [00:14:26,000 - 00:14:32,000] in that there was conscription in the Civil War.
+- [00:14:32,000 - 00:14:34,000] There is no draft today.
+- [00:14:34,000 - 00:14:37,000] And I think that the volunteers,
+- [00:14:37,000 - 00:14:41,000] and I think that the volunteers for the army today
+- [00:14:41,000 - 00:14:43,000] have a more profound sense of patriotism
+- [00:14:43,000 - 00:14:45,000] that is of an individual choice
+- [00:14:45,000 - 00:14:47,500] than those who were forced into
+- [00:14:47,500 - 00:14:50,000] the military in the Civil War.
+- [00:14:50,000 - 00:14:52,000] Somehow less coerced.
+- [00:14:52,000 - 00:14:53,000] Less coerced.
+- [00:14:53,000 - 00:14:56,000] Even though there is still inequality in American society.
+- [00:14:56,000 - 00:14:59,000] Even though, as Emily points out,
+- [00:14:59,000 - 00:15:02,000] the makeup of the American military is
+- [00:15:02,000 - 00:15:05,000] not reflective of the population as a whole.
+- [00:15:05,000 - 00:15:07,000] Let's just do an experiment here.
+- [00:15:07,000 - 00:15:12,000] How many here have either served in the military
+- [00:15:12,000 - 00:15:13,500] or have a family member
+- [00:15:13,500 - 00:15:15,000] who has served in the military?
+- [00:15:15,000 - 00:15:18,000] In this generation, not parents.
+- [00:15:18,000 - 00:15:19,000] Family members.
+- [00:15:19,000 - 00:15:21,000] In this generation.
+- [00:15:21,000 - 00:15:24,000] And how many have neither served
+- [00:15:24,000 - 00:15:31,000] nor have any brothers or sisters who have served?
+- [00:15:31,000 - 00:15:34,000] Does that bear out your point, Emily?
+- [00:15:34,000 - 00:15:35,000] Yes.
+- [00:15:35,000 - 00:15:36,000] All right.
+- [00:15:36,000 - 00:15:39,000] Now we need to hear from...
+- [00:15:39,000 - 00:15:47,000] Most of you defended the idea of the all-volunteer military.
+- [00:15:47,000 - 00:15:50,000] Overwhelmingly.
+- [00:15:50,000 - 00:15:53,500] And yet, overwhelmingly, people considered
+- [00:15:53,500 - 00:15:57,000] the Civil War system unjust.
+- [00:15:57,000 - 00:16:00,500] Sam and Raoul articulated reasons for
+- [00:16:00,500 - 00:16:04,000] objecting to the Civil War system.
+- [00:16:04,000 - 00:16:07,000] It took place against a background of inequality,
+- [00:16:07,000 - 00:16:09,500] and therefore the choices people made
+- [00:16:09,500 - 00:16:12,000] to buy their way into military service
+- [00:16:12,000 - 00:16:16,000] were not truly free, but at least partly coerced.
+- [00:16:16,000 - 00:16:19,000] Then, Emily extends that argument
+- [00:16:19,000 - 00:16:22,000] in the form of a challenge.
+- [00:16:22,000 - 00:16:23,000] All right.
+- [00:16:23,000 - 00:16:28,000] Everyone here who voted in favor of the all-volunteer army
+- [00:16:28,000 - 00:16:31,000] should be able...
+- [00:16:31,000 - 00:16:33,000] should have to explain, well,
+- [00:16:33,000 - 00:16:35,000] what's the difference in principle?
+- [00:16:35,000 - 00:16:38,000] Doesn't the all-volunteer army
+- [00:16:38,000 - 00:16:41,000] simply universalize the feature
+- [00:16:41,000 - 00:16:43,500] that almost everyone found objectionable
+- [00:16:43,500 - 00:16:46,000] in the Civil War buyout provision?
+- [00:16:46,000 - 00:16:49,000] Did I state the challenge fairly, Emily?
+- [00:16:49,000 - 00:16:50,000] Yes.
+- [00:16:50,000 - 00:16:51,000] Okay.
+- [00:16:51,000 - 00:16:53,000] So we need to hear from
+- [00:16:53,000 - 00:16:55,000] a defender of the all-volunteer military
+- [00:16:55,000 - 00:16:58,000] who can address Emily's challenge.
+- [00:16:58,000 - 00:17:01,000] Who can do that?
+- [00:17:01,000 - 00:17:02,000] Go ahead.
+- [00:17:02,000 - 00:17:04,000] The difference between the Civil War system
+- [00:17:04,000 - 00:17:05,500] and the all-volunteer army system
+- [00:17:05,500 - 00:17:07,000] is that in the Civil War,
+- [00:17:07,000 - 00:17:09,000] you're being hired not by
+- [00:17:09,000 - 00:17:11,000] the government but by an individual.
+- [00:17:11,000 - 00:17:12,500] And as a result, different people
+- [00:17:12,500 - 00:17:14,000] who get hired by different individuals
+- [00:17:14,000 - 00:17:16,000] get paid different amounts.
+- [00:17:16,000 - 00:17:18,000] In the case of the all-volunteer army,
+- [00:17:18,000 - 00:17:20,000] everyone who gets hired is hired by the government
+- [00:17:20,000 - 00:17:22,000] and gets paid the same amount.
+- [00:17:22,000 - 00:17:24,500] It's precisely the universalization
+- [00:17:24,500 - 00:17:27,000] of essentially paying your service,
+- [00:17:27,000 - 00:17:29,000] of paying your way into the
+- [00:17:29,000 - 00:17:31,000] army that makes the all-volunteer army just...
+- [00:17:32,000 - 00:17:34,000] Emily?
+- [00:17:34,000 - 00:17:36,500] I guess I'd frame
+- [00:17:36,500 - 00:17:39,000] the principle difference slightly differently.
+- [00:17:39,000 - 00:17:41,500] On the all-volunteer army, it's possible
+- [00:17:41,500 - 00:17:44,000] for somebody to just step aside
+- [00:17:44,000 - 00:17:46,000] and not really think about the war at all.
+- [00:17:46,000 - 00:17:49,000] It's possible to say, well, I don't need the money.
+- [00:17:49,000 - 00:17:51,000] I don't need to have an opinion about this.
+- [00:17:51,000 - 00:17:53,000] I don't need to feel obligated to
+- [00:17:53,000 - 00:17:55,000] take my part and defend my country.
+- [00:17:55,000 - 00:18:01,000] With an explicit draft, then there's the threat at least
+- [00:18:01,000 - 00:18:02,500] that every individual will have
+- [00:18:02,500 - 00:18:04,000] to make some sort of decision
+- [00:18:04,000 - 00:18:06,000] regarding military conscription.
+- [00:18:06,000 - 00:18:09,000] And perhaps in that way, it's more equitable.
+- [00:18:09,000 - 00:18:11,000] It's true that Andrew Carnegie
+- [00:18:11,000 - 00:18:13,000] might not serve in any case,
+- [00:18:13,000 - 00:18:16,000] but in one, he can completely step aside from it.
+- [00:18:16,000 - 00:18:19,000] In the other, there's some level of responsibility.
+- [00:18:19,000 - 00:18:22,000] While you're there, Emily, so what system do you favor?
+- [00:18:22,000 - 00:18:24,000] Conscription?
+- [00:18:24,000 - 00:18:27,000] I would be hard-pressed to say, but I think so,
+- [00:18:27,000 - 00:18:28,500] because it makes the whole
+- [00:18:28,500 - 00:18:30,000] country feel a sense of responsibility
+- [00:18:30,000 - 00:18:32,000] for the conflict instead of having
+- [00:18:32,000 - 00:18:34,000] a war that's maybe ideologically supported
+- [00:18:34,000 - 00:18:38,000] by a few, but only if there's no real responsibility.
+- [00:18:38,000 - 00:18:42,000] Good. Who wants to reply? Go ahead.
+- [00:18:42,000 - 00:18:45,000] So I was going to say that the fundamental difference
+- [00:18:45,000 - 00:18:47,000] between the all-volunteer army and then
+- [00:18:47,000 - 00:18:49,000] the army in the Civil War
+- [00:18:49,000 - 00:18:51,000] is that in the all-volunteer
+- [00:18:51,000 - 00:18:53,000] army, if you want to volunteer,
+- [00:18:53,000 - 00:18:57,000] that comes first, and then the pay comes after,
+- [00:18:57,000 - 00:18:59,000] whereas in the Civil War system,
+- [00:18:59,000 - 00:19:00,000] it's the same.
+- [00:19:00,000 - 00:19:02,000] The people who are accepting
+- [00:19:02,000 - 00:19:04,000] the pay aren't necessarily doing it
+- [00:19:04,000 - 00:19:06,000] because they want to.
+- [00:19:06,000 - 00:19:08,000] They're just doing it for the money first.
+- [00:19:08,000 - 00:19:12,000] What motivation beyond the pay do you think is operating
+- [00:19:12,000 - 00:19:15,000] in the case of the all-volunteer army?
+- [00:19:15,000 - 00:19:17,000] Like patriotism for the country?
+- [00:19:17,000 - 00:19:20,000] Patriotism. Well, what about...
+- [00:19:20,000 - 00:19:23,000] And a desire to defend the country.
+- [00:19:23,000 - 00:19:25,000] I mean, there is some motivation in pay,
+- [00:19:25,000 - 00:19:29,000] but the fact that it's first and foremost
+- [00:19:29,000 - 00:19:31,000] an all-volunteer army will
+- [00:19:31,000 - 00:19:33,000] motivate them, I think, personally.
+- [00:19:33,000 - 00:19:35,000] Do you think it's better... And tell me your name.
+- [00:19:35,000 - 00:19:36,000] Jackie.
+- [00:19:36,000 - 00:19:37,500] Jackie, do you think it's better
+- [00:19:37,500 - 00:19:39,000] if people serve in the military
+- [00:19:39,000 - 00:19:40,500] out of a sense of
+- [00:19:40,500 - 00:19:42,000] patriotism than just for the money?
+- [00:19:42,000 - 00:19:45,000] Yes, definitely, because the people who...
+- [00:19:45,000 - 00:19:46,000] That was one of the main
+- [00:19:46,000 - 00:19:47,000] problems in the Civil War army
+- [00:19:47,000 - 00:19:48,500] is that the people that
+- [00:19:48,500 - 00:19:50,000] you're getting to go in it,
+- [00:19:50,000 - 00:19:51,500] or to go to war, aren't
+- [00:19:51,500 - 00:19:53,000] necessarily people who want to fight,
+- [00:19:53,000 - 00:19:54,000] and so they won't be as
+- [00:19:54,000 - 00:19:55,000] good soldiers as they will be
+- [00:19:55,000 - 00:19:58,000] had they been there because they wanted to be.
+- [00:19:59,000 - 00:20:01,000] All right, what about Jackie's...
+- [00:20:01,000 - 00:20:04,000] Having raised the question of patriotism,
+- [00:20:04,000 - 00:20:06,000] that patriotism is a better
+- [00:20:06,000 - 00:20:08,000] or a higher motivation than money
+- [00:20:08,000 - 00:20:10,000] for military service.
+- [00:20:10,000 - 00:20:14,000] Who would like to address that question?
+- [00:20:14,000 - 00:20:17,000] Go ahead.
+- [00:20:17,000 - 00:20:19,000] Patriotism absolutely is not necessary
+- [00:20:19,000 - 00:20:21,000] in order to be a good soldier,
+- [00:20:21,000 - 00:20:24,000] because mercenaries can do just as good of a job
+- [00:20:24,000 - 00:20:26,000] of the job as anyone
+- [00:20:26,000 - 00:20:28,000] who waves the American flag around
+- [00:20:28,000 - 00:20:31,000] and wants to defend what the
+- [00:20:31,000 - 00:20:34,000] government believes that we should do.
+- [00:20:34,000 - 00:20:37,000] Did you favor the outsourcing solution?
+- [00:20:37,000 - 00:20:39,000] Yes, sir.
+- [00:20:41,000 - 00:20:45,000] And, all right, so let Jackie respond.
+- [00:20:45,000 - 00:20:46,000] What's your name?
+- [00:20:46,000 - 00:20:47,000] Philip.
+- [00:20:47,000 - 00:20:49,000] What about that, Jackie?
+- [00:20:49,000 - 00:20:51,000] So much for patriotism.
+- [00:20:51,000 - 00:20:53,000] If you've got someone whose heart
+- [00:20:53,000 - 00:20:55,000] is in it more than another person's,
+- [00:20:55,000 - 00:20:57,000] they're going to do a better job.
+- [00:20:57,000 - 00:20:59,000] When it comes down to the wire and there's, like,
+- [00:20:59,000 - 00:21:01,500] a situation in which someone has
+- [00:21:01,500 - 00:21:04,000] to put their life on the line,
+- [00:21:04,000 - 00:21:07,000] someone who's doing it because they love this country
+- [00:21:07,000 - 00:21:10,000] will be more willing to go into danger
+- [00:21:10,000 - 00:21:12,000] than someone who's just getting paid.
+- [00:21:12,000 - 00:21:13,000] They don't care.
+- [00:21:13,000 - 00:21:14,000] They've got the technical skills,
+- [00:21:14,000 - 00:21:16,000] but they don't care what happens
+- [00:21:16,000 - 00:21:17,000] because they really have...
+- [00:21:17,000 - 00:21:20,000] They have nothing, like, nothing invested in this country.
+- [00:21:20,000 - 00:21:22,000] There's another aspect, though.
+- [00:21:22,000 - 00:21:26,000] Once we get onto the issue of patriotism,
+- [00:21:26,000 - 00:21:29,000] if you believe patriotism, as Jackie does,
+- [00:21:29,000 - 00:21:33,000] should be the foremost consideration and not money,
+- [00:21:33,000 - 00:21:35,500] does that argue for or against
+- [00:21:35,500 - 00:21:38,000] the paid army we have now?
+- [00:21:38,000 - 00:21:40,000] We call it the volunteer army,
+- [00:21:40,000 - 00:21:42,000] though if you think about
+- [00:21:42,000 - 00:21:44,000] it, that's a kind of misnomer.
+- [00:21:44,000 - 00:21:46,000] A volunteer army, as we use
+- [00:21:46,000 - 00:21:48,000] the term, is a paid army.
+- [00:21:48,000 - 00:21:52,000] So what about the suggestion that patriotism
+- [00:21:52,000 - 00:21:56,000] should be the primary motivation for military service,
+- [00:21:56,000 - 00:21:58,000] not money?
+- [00:21:58,000 - 00:22:00,500] Does that argue in favor of
+- [00:22:00,500 - 00:22:03,000] the paid military that we have,
+- [00:22:03,000 - 00:22:07,000] or does it argue for conscription?
+- [00:22:07,000 - 00:22:09,000] And just to sharpen that point,
+- [00:22:09,000 - 00:22:13,000] building on Phil's case for outsourcing,
+- [00:22:13,000 - 00:22:18,000] if you think that the all-volunteer army,
+- [00:22:18,000 - 00:22:21,000] the paid army, is best
+- [00:22:21,000 - 00:22:25,000] because it lets the market allocate positions
+- [00:22:25,000 - 00:22:26,000] according to people's needs,
+- [00:22:26,000 - 00:22:29,000] people's preferences and willingness to serve
+- [00:22:29,000 - 00:22:31,000] for a certain wage,
+- [00:22:31,000 - 00:22:35,000] doesn't the logic that takes you
+- [00:22:35,000 - 00:22:37,000] from a system of conscription
+- [00:22:37,000 - 00:22:40,000] to the hybrid civil war system,
+- [00:22:40,000 - 00:22:42,000] to the all-volunteer army,
+- [00:22:42,000 - 00:22:47,000] doesn't the idea of expanding freedom of choice
+- [00:22:47,000 - 00:22:49,000] in the market,
+- [00:22:49,000 - 00:22:51,000] doesn't that lead you all the way,
+- [00:22:51,000 - 00:22:55,000] if you follow that principle consistently,
+- [00:22:55,000 - 00:22:58,000] to a more personalized army?
+- [00:22:58,000 - 00:23:01,000] And then if you say no,
+- [00:23:01,000 - 00:23:02,000] Jackie says no,
+- [00:23:02,000 - 00:23:09,000] patriotism should count for something,
+- [00:23:09,000 - 00:23:13,000] doesn't that argue for going back to conscription?
+- [00:23:13,000 - 00:23:19,000] If by patriotism you mean a sense of civic obligation.
+- [00:23:19,000 - 00:23:22,000] Let's see if we can step back
+- [00:23:22,000 - 00:23:24,000] from the discussion that we've had
+- [00:23:24,000 - 00:23:27,000] and see what we've learned
+- [00:23:27,000 - 00:23:31,000] about consent
+- [00:23:31,000 - 00:23:35,000] as it applies to market exchange.
+- [00:23:38,000 - 00:23:42,000] We've really heard two arguments,
+- [00:23:42,000 - 00:23:45,000] two arguments against
+- [00:23:45,000 - 00:23:50,000] the use of markets and exchange
+- [00:23:50,000 - 00:23:53,000] in the allocation of military service.
+- [00:23:53,000 - 00:23:59,000] One was the argument raised
+- [00:23:59,000 - 00:24:02,000] by Sam and Raul,
+- [00:24:02,000 - 00:24:06,000] the argument about coercion.
+- [00:24:06,000 - 00:24:10,000] The objection that
+- [00:24:10,000 - 00:24:14,000] letting the market allocate military service
+- [00:24:14,000 - 00:24:16,000] may be unfair
+- [00:24:16,000 - 00:24:18,000] and may not even be free
+- [00:24:18,000 - 00:24:22,000] if there's severe inequality in the society,
+- [00:24:22,000 - 00:24:28,000] so that people who buy their way into military service
+- [00:24:28,000 - 00:24:35,000] are doing so not because they really want to,
+- [00:24:35,000 - 00:24:38,000] but because they have so few economic opportunities
+- [00:24:38,000 - 00:24:43,000] that that's their best choice.
+- [00:24:43,000 - 00:24:45,500] And Sam and Raul say there's
+- [00:24:45,500 - 00:24:48,000] an element of coercion in that.
+- [00:24:48,000 - 00:24:50,000] That's one argument.
+- [00:24:50,000 - 00:24:53,000] Then there is a second objection
+- [00:24:53,000 - 00:24:58,000] to using the market to allocate military service.
+- [00:24:58,000 - 00:25:00,000] That's the idea
+- [00:25:00,000 - 00:25:03,000] that military service shouldn't be treated
+- [00:25:03,000 - 00:25:05,000] as just another job for pay
+- [00:25:05,000 - 00:25:08,000] because it's bound up with patriotism
+- [00:25:08,000 - 00:25:10,000] and civic obligation.
+- [00:25:10,000 - 00:25:12,000] This is a different argument
+- [00:25:12,000 - 00:25:14,000] from the argument about unfairness
+- [00:25:14,000 - 00:25:18,000] and inequality and coercion.
+- [00:25:18,000 - 00:25:20,000] It's an argument that suggests
+- [00:25:20,000 - 00:25:27,000] that maybe where civic obligations are concerned,
+- [00:25:27,000 - 00:25:31,000] we shouldn't allocate duties and rights
+- [00:25:31,000 - 00:25:35,000] by the market.
+- [00:25:35,000 - 00:25:40,000] Now, we've identified two broad objections.
+- [00:25:40,000 - 00:25:44,000] What do we need to know to assess those objections?
+- [00:25:44,000 - 00:25:46,000] To assess the first, the argument
+- [00:25:46,000 - 00:25:48,000] from coercion, inequality,
+- [00:25:48,000 - 00:25:51,000] and unfairness, Sam.
+- [00:25:51,000 - 00:25:54,000] We need to ask,
+- [00:25:54,000 - 00:25:58,000] what inequalities in the background conditions of society
+- [00:25:58,000 - 00:26:03,000] undermine the freedom of choices people make
+- [00:26:03,000 - 00:26:07,000] to buy and sell their labor?
+- [00:26:07,000 - 00:26:09,000] Question number one.
+- [00:26:09,000 - 00:26:10,000] Question number two,
+- [00:26:10,000 - 00:26:15,000] to assess the civic obligation patriotism argument,
+- [00:26:15,000 - 00:26:17,000] we have to ask,
+- [00:26:17,000 - 00:26:20,000] what are the obligations of citizenship?
+- [00:26:20,000 - 00:26:24,000] Is military service one of them or not?
+- [00:26:24,000 - 00:26:27,000] What obligates us as citizens?
+- [00:26:27,000 - 00:26:30,000] What is the source of political obligation?
+- [00:26:30,000 - 00:26:33,000] Is it consent?
+- [00:26:33,000 - 00:26:38,000] Or are there some civic obligations we have,
+- [00:26:38,000 - 00:26:41,000] even without consent,
+- [00:26:41,000 - 00:26:46,000] for living and sharing in a certain kind of society?
+- [00:26:46,000 - 00:26:49,000] We haven't answered either of those questions,
+- [00:26:49,000 - 00:26:52,000] but our debate today about the Civil War system
+- [00:26:52,000 - 00:26:55,000] and the all-volunteer army has at least raised them,
+- [00:26:55,000 - 00:26:57,000] and those are questions we're going to return to
+- [00:26:57,000 - 00:26:59,000] in the coming weeks.
+- [00:27:08,000 - 00:27:09,500] Do you think you should be
+- [00:27:09,500 - 00:27:11,000] able to bid for a baby
+- [00:27:11,000 - 00:27:13,000] that's up for adoption?
+- [00:27:13,000 - 00:27:15,000] That's Andrew's challenge.
+- [00:27:15,000 - 00:27:16,500] Do I think I should be
+- [00:27:16,500 - 00:27:18,000] able to bid for a baby?
+- [00:27:18,000 - 00:27:20,000] I'm not sure.
+- [00:27:23,000 - 00:27:24,000] It's a market.
+- [00:27:24,000 - 00:27:25,000] I mean, I...
+- [00:27:27,000 - 00:27:31,000] Today I'd like to turn our attention
+- [00:27:31,000 - 00:27:33,000] and get your views
+- [00:27:33,000 - 00:27:37,000] about
+- [00:27:37,000 - 00:27:40,000] an argument over the role of markets
+- [00:27:40,000 - 00:27:44,000] in the realm of human reproduction and procreation.
+- [00:27:45,000 - 00:27:51,000] Now, with infertility clinics,
+- [00:27:51,000 - 00:27:55,000] people advertise for egg donors.
+- [00:27:55,000 - 00:27:59,000] And from time to time in the Harvard Crimson,
+- [00:27:59,000 - 00:28:01,000] ads appear for egg donors.
+- [00:28:01,000 - 00:28:04,000] Have you seen them?
+- [00:28:04,000 - 00:28:08,000] There was one that ran a few years ago
+- [00:28:08,000 - 00:28:13,000] that wasn't looking for just any egg donor.
+- [00:28:13,000 - 00:28:18,000] It was an ad that offered a large financial incentive
+- [00:28:18,000 - 00:28:21,000] for an egg donor from a woman
+- [00:28:21,000 - 00:28:24,000] who was intelligent, athletic,
+- [00:28:24,000 - 00:28:27,000] at least 5'10",
+- [00:28:27,000 - 00:28:35,000] and with at least 1,400 or above on her SATs.
+- [00:28:35,000 - 00:28:38,000] How much do you think
+- [00:28:38,000 - 00:28:41,000] the person looking for this egg donor
+- [00:28:41,000 - 00:28:43,000] was willing to pay?
+- [00:28:43,000 - 00:28:45,000] What would you guess?
+- [00:28:51,000 - 00:28:53,000] I'll show you the ad.
+- [00:28:57,000 - 00:29:02,000] $50,000 for an egg.
+- [00:29:02,000 - 00:29:06,000] But only $100,000.
+- [00:29:06,000 - 00:29:08,000] That's a lot of money.
+- [00:29:08,000 - 00:29:10,000] That's a lot of money.
+- [00:29:10,000 - 00:29:12,000] That's a lot of money.
+- [00:29:12,000 - 00:29:16,000] But only a premium egg.
+- [00:29:16,000 - 00:29:20,000] What do you think about that?
+- [00:29:20,000 - 00:29:23,000] Well, there are also sometimes ads
+- [00:29:23,000 - 00:29:27,000] in the Harvard Crimson and other college newspapers
+- [00:29:27,000 - 00:29:31,000] for sperm donors.
+- [00:29:31,000 - 00:29:39,000] So the market in reproductive capacities
+- [00:29:39,000 - 00:29:44,000] is an equal opportunity market.
+- [00:29:44,000 - 00:29:46,000] Well, not exactly equal opportunity.
+- [00:29:46,000 - 00:29:52,000] They're not offering $50,000 for sperm.
+- [00:29:52,000 - 00:29:55,000] But there is a company,
+- [00:29:55,000 - 00:29:57,000] a large commercial sperm bank,
+- [00:29:57,000 - 00:30:01,000] that markets sperm.
+- [00:30:01,000 - 00:30:04,000] It's called California Cryobank.
+- [00:30:04,000 - 00:30:07,000] It's a for-profit company.
+- [00:30:07,000 - 00:30:12,000] It imposes exacting standards
+- [00:30:12,000 - 00:30:15,000] on the sperm it recruits.
+- [00:30:15,000 - 00:30:19,000] And it has offices
+- [00:30:19,000 - 00:30:23,000] in Cambridge between Harvard and MIT
+- [00:30:23,000 - 00:30:26,000] and in Palo Alto near Stanford.
+- [00:30:29,000 - 00:30:33,000] Cryobank's marketing materials
+- [00:30:33,000 - 00:30:37,000] play up the prestigious source of its sperm.
+- [00:30:37,000 - 00:30:44,000] Here is from the website of Cryobank
+- [00:30:44,000 - 00:30:47,000] the information.
+- [00:30:51,000 - 00:30:54,000] Here they talk about the compensation.
+- [00:30:54,000 - 00:30:57,000] Although compensation should not be
+- [00:30:57,000 - 00:31:00,000] the only reason for becoming a sperm donor,
+- [00:31:00,000 - 00:31:03,000] we are aware of the considerable time
+- [00:31:03,000 - 00:31:05,000] and expense involved in being a donor.
+- [00:31:07,000 - 00:31:14,000] So, do you know what they offer?
+- [00:31:14,000 - 00:31:21,000] Donors will be reimbursed $75 per specimen,
+- [00:31:21,000 - 00:31:24,000] up to $900 a month
+- [00:31:24,000 - 00:31:27,000] if you donate three times a week.
+- [00:31:27,000 - 00:31:28,000] And then they add,
+- [00:31:28,000 - 00:31:32,000] we periodically offer incentives such as...
+- [00:31:32,000 - 00:31:35,000] Oh.
+- [00:31:35,000 - 00:31:36,000] Oh.
+- [00:31:37,000 - 00:31:39,000] Such as movie tickets.
+- [00:31:42,000 - 00:31:45,000] Or gift certificates for the extra time and effort
+- [00:31:45,000 - 00:31:50,000] expended by participating donors.
+- [00:31:50,000 - 00:31:53,000] It's not easy to be a sperm donor.
+- [00:31:53,000 - 00:31:59,000] They accept fewer than 5% of the donors who apply.
+- [00:31:59,000 - 00:32:03,000] Their admission criteria are more demanding than Harvard's.
+- [00:32:03,000 - 00:32:09,000] The head of the sperm bank said
+- [00:32:09,000 - 00:32:12,000] the ideal sperm donor is six feet tall,
+- [00:32:12,000 - 00:32:15,000] with a college degree, brown eyes,
+- [00:32:15,000 - 00:32:18,000] blonde hair, and dimples.
+- [00:32:21,000 - 00:32:23,000] For the simple reason that these are the traits
+- [00:32:23,000 - 00:32:27,000] that the market has shown the customers want.
+- [00:32:27,000 - 00:32:30,000] Quote, quoting the head of the sperm bank,
+- [00:32:30,000 - 00:32:32,000] if our customers wanted high school dropouts,
+- [00:32:32,000 - 00:32:34,000] we would give them high school dropouts.
+- [00:32:37,000 - 00:32:42,000] So, here are two instances,
+- [00:32:42,000 - 00:32:44,000] the market in eggs for donation
+- [00:32:44,000 - 00:32:48,000] and the market in sperm,
+- [00:32:48,000 - 00:32:50,000] that raise a question.
+- [00:32:50,000 - 00:32:55,000] A question about whether eggs and sperm
+- [00:32:55,000 - 00:32:59,000] should or should not be bought and sold for money.
+- [00:32:59,000 - 00:33:01,000] As you progress,
+- [00:33:01,000 - 00:33:03,000] as you ponder that,
+- [00:33:03,000 - 00:33:07,000] I want you to consider another case
+- [00:33:07,000 - 00:33:11,000] involving a market
+- [00:33:11,000 - 00:33:14,000] and in fact a contract
+- [00:33:14,000 - 00:33:17,000] in human reproductive,
+- [00:33:17,000 - 00:33:19,000] in the human reproductive capacity.
+- [00:33:19,000 - 00:33:21,000] And this is the case
+- [00:33:21,000 - 00:33:24,000] of commercial surrogate motherhood.
+- [00:33:24,000 - 00:33:27,000] And it's a case that wound up in court.
+- [00:33:27,000 - 00:33:29,000] Some years ago.
+- [00:33:29,000 - 00:33:30,000] It's the story of Baby M.
+- [00:33:30,000 - 00:33:35,000] It began with William and Elizabeth Stern,
+- [00:33:35,000 - 00:33:38,000] a professional couple wanting a baby,
+- [00:33:38,000 - 00:33:40,000] but they couldn't have one on their own,
+- [00:33:40,000 - 00:33:44,000] at least not without medical risk to Mrs. Stern.
+- [00:33:44,000 - 00:33:47,000] They went to an infertility clinic
+- [00:33:47,000 - 00:33:50,000] where they met Mary Beth Whitehead,
+- [00:33:50,000 - 00:33:52,000] a 29-year-old mother of two,
+- [00:33:52,000 - 00:33:55,000] the wife of a sanitation worker.
+- [00:33:55,000 - 00:33:57,000] She had replied to an ad
+- [00:33:57,000 - 00:33:59,000] that the center had placed,
+- [00:33:59,000 - 00:34:05,000] seeking the service of a surrogate mother.
+- [00:34:05,000 - 00:34:07,000] They made a deal.
+- [00:34:07,000 - 00:34:09,000] They signed a contract
+- [00:34:09,000 - 00:34:12,000] in which William Stern agreed
+- [00:34:12,000 - 00:34:15,000] to pay Mary Beth Whitehead
+- [00:34:15,000 - 00:34:17,000] a $10,000 fee
+- [00:34:17,000 - 00:34:20,000] plus all expenses
+- [00:34:20,000 - 00:34:22,000] in exchange for which
+- [00:34:22,000 - 00:34:24,000] Mary Beth Whitehead agreed
+- [00:34:24,000 - 00:34:26,000] to be artificially inseminated
+- [00:34:26,000 - 00:34:28,000] with William Stern's sperm
+- [00:34:28,000 - 00:34:30,000] to bear the child
+- [00:34:30,000 - 00:34:33,000] and then to give the baby
+- [00:34:33,000 - 00:34:35,000] to the Sterns.
+- [00:34:35,000 - 00:34:37,000] Well, you probably know
+- [00:34:37,000 - 00:34:39,000] how the story unfolded.
+- [00:34:39,000 - 00:34:41,000] Mary Beth gave birth
+- [00:34:41,000 - 00:34:43,000] and changed her mind.
+- [00:34:43,000 - 00:34:46,000] She decided she wanted to keep the baby.
+- [00:34:46,000 - 00:34:49,000] The case wound up in court
+- [00:34:49,000 - 00:34:51,000] in New Jersey.
+- [00:34:51,000 - 00:34:53,000] So let's take,
+- [00:34:53,000 - 00:34:56,000] put aside any legal questions
+- [00:34:56,000 - 00:34:58,000] and focus on this issue
+- [00:34:58,000 - 00:35:01,000] as a moral question.
+- [00:35:01,000 - 00:35:04,000] How many believe
+- [00:35:04,000 - 00:35:06,000] that the right thing to do
+- [00:35:06,000 - 00:35:09,000] in the Baby M case
+- [00:35:09,000 - 00:35:11,000] would have been to uphold
+- [00:35:11,000 - 00:35:12,000] the contract,
+- [00:35:12,000 - 00:35:15,000] to enforce the contract?
+- [00:35:15,000 - 00:35:17,000] And how many think
+- [00:35:17,000 - 00:35:18,000] the right thing to do
+- [00:35:18,000 - 00:35:20,000] would have been
+- [00:35:20,000 - 00:35:24,000] not to enforce that contract?
+- [00:35:24,000 - 00:35:26,000] So it's about,
+- [00:35:26,000 - 00:35:28,000] the majority say enforce.
+- [00:35:28,000 - 00:35:31,000] So let's now hear the reasons
+- [00:35:31,000 - 00:35:32,000] that people had
+- [00:35:32,000 - 00:35:33,000] either for enforcing
+- [00:35:33,000 - 00:35:36,000] or refusing to enforce this contract.
+- [00:35:36,000 - 00:35:37,000] First from those,
+- [00:35:37,000 - 00:35:38,000] I want to hear from someone
+- [00:35:38,000 - 00:35:39,000] in the majority.
+- [00:35:39,000 - 00:35:41,000] Why do you uphold the contract?
+- [00:35:41,000 - 00:35:43,000] Why do you enforce it?
+- [00:35:43,000 - 00:35:45,000] Who can offer a reason?
+- [00:35:49,000 - 00:35:51,000] Yes.
+- [00:35:51,000 - 00:35:53,000] Stand up.
+- [00:35:54,000 - 00:35:59,000] It's a binding contract.
+- [00:35:59,000 - 00:36:01,000] All the parties involved
+- [00:36:01,000 - 00:36:04,000] knew the terms of the contract
+- [00:36:04,000 - 00:36:06,000] before any action was taken.
+- [00:36:06,000 - 00:36:09,000] It's a voluntary agreement.
+- [00:36:09,000 - 00:36:11,000] The mother knew what she was getting into.
+- [00:36:11,000 - 00:36:13,000] The, all four,
+- [00:36:13,000 - 00:36:14,000] intelligent adults,
+- [00:36:14,000 - 00:36:16,000] regardless of formal education,
+- [00:36:16,000 - 00:36:17,000] whatever.
+- [00:36:17,000 - 00:36:19,000] So it makes sense
+- [00:36:19,000 - 00:36:21,000] that if you know what you're getting into beforehand
+- [00:36:21,000 - 00:36:23,000] and you make a promise,
+- [00:36:23,000 - 00:36:25,000] you should uphold that promise in the end.
+- [00:36:25,000 - 00:36:26,000] Okay.
+- [00:36:26,000 - 00:36:27,000] A deal is a deal in other words.
+- [00:36:27,000 - 00:36:28,000] Exactly.
+- [00:36:28,000 - 00:36:29,000] And what's your name?
+- [00:36:29,000 - 00:36:30,000] Patrick.
+- [00:36:30,000 - 00:36:31,000] Is Patrick's reason
+- [00:36:31,000 - 00:36:33,000] the reason that most of you
+- [00:36:33,000 - 00:36:34,000] in the majority
+- [00:36:34,000 - 00:36:36,000] favored upholding the contract?
+- [00:36:36,000 - 00:36:37,000] Yes?
+- [00:36:37,000 - 00:36:38,000] All right.
+- [00:36:38,000 - 00:36:40,000] Let's hear now someone
+- [00:36:40,000 - 00:36:43,000] who would not enforce the contract.
+- [00:36:43,000 - 00:36:48,000] What do you say to Patrick?
+- [00:36:48,000 - 00:36:50,000] Why not?
+- [00:36:50,000 - 00:36:51,000] Yes.
+- [00:36:51,000 - 00:36:52,000] Well, I mean,
+- [00:36:52,000 - 00:36:53,000] I agree.
+- [00:36:53,000 - 00:36:55,000] I think the contract should be upheld
+- [00:36:55,000 - 00:36:57,000] when all the parties know all the information.
+- [00:36:57,000 - 00:36:58,000] But in this case,
+- [00:36:58,000 - 00:37:01,000] I don't think there's a way a mother
+- [00:37:01,000 - 00:37:03,000] before the child exists
+- [00:37:03,000 - 00:37:05,000] could actually know
+- [00:37:05,000 - 00:37:07,000] how she's going to feel about that child.
+- [00:37:07,000 - 00:37:09,000] So I don't think the mother
+- [00:37:09,000 - 00:37:11,000] actually had all the information.
+- [00:37:11,000 - 00:37:12,000] She didn't know the person
+- [00:37:12,000 - 00:37:13,000] that was going to be born
+- [00:37:13,000 - 00:37:15,000] and didn't know how much she would love that person.
+- [00:37:15,000 - 00:37:17,000] So that's my argument.
+- [00:37:17,000 - 00:37:18,000] So you would not,
+- [00:37:18,000 - 00:37:19,000] and what's your name?
+- [00:37:19,000 - 00:37:20,000] Evan Wilson.
+- [00:37:20,000 - 00:37:22,000] Evan says he would not uphold the contract
+- [00:37:22,000 - 00:37:26,000] because when it was entered into,
+- [00:37:26,000 - 00:37:30,000] the surrogate mother couldn't
+- [00:37:30,000 - 00:37:32,000] be expected to know in advance
+- [00:37:32,000 - 00:37:33,000] how she would feel.
+- [00:37:33,000 - 00:37:36,000] So she didn't really have
+- [00:37:36,000 - 00:37:38,000] the relevant information
+- [00:37:38,000 - 00:37:41,000] when she made that contract.
+- [00:37:41,000 - 00:37:42,000] Who else?
+- [00:37:42,000 - 00:37:48,000] Who else would not uphold the contract?
+- [00:37:48,000 - 00:37:52,000] Yes?
+- [00:37:52,000 - 00:37:53,000] I think,
+- [00:37:53,000 - 00:37:54,000] I also think that a contract
+- [00:37:54,000 - 00:37:55,000] should generally be uphold,
+- [00:37:55,000 - 00:37:57,000] but I think that the child
+- [00:37:57,000 - 00:37:59,000] has an inalienable right
+- [00:37:59,000 - 00:38:03,000] to its actual mother.
+- [00:38:03,000 - 00:38:06,000] And I think that if that mother wants it,
+- [00:38:06,000 - 00:38:07,000] then that child should have
+- [00:38:07,000 - 00:38:09,000] the right to that mother.
+- [00:38:09,000 - 00:38:11,000] You mean the biological mother,
+- [00:38:11,000 - 00:38:12,000] not the adoptive mother?
+- [00:38:12,000 - 00:38:13,000] Right.
+- [00:38:13,000 - 00:38:14,000] And why is that?
+- [00:38:14,000 - 00:38:15,000] First of all, tell me your name.
+- [00:38:15,000 - 00:38:16,000] Anna.
+- [00:38:16,000 - 00:38:18,000] Anna. Why is that Anna?
+- [00:38:18,000 - 00:38:20,000] Because I think that
+- [00:38:20,000 - 00:38:22,000] that bond that is created
+- [00:38:22,000 - 00:38:24,000] by nature is stronger than any bond
+- [00:38:24,000 - 00:38:28,000] that is created by, you know, a contract.
+- [00:38:28,000 - 00:38:30,000] Good. Thank you.
+- [00:38:30,000 - 00:38:31,000] Who else?
+- [00:38:31,000 - 00:38:32,000] Yes?
+- [00:38:32,000 - 00:38:34,000] I disagree.
+- [00:38:34,000 - 00:38:35,000] I don't think that a child has
+- [00:38:35,000 - 00:38:36,000] an inalienable right
+- [00:38:36,000 - 00:38:38,000] to her biological mother.
+- [00:38:38,000 - 00:38:40,000] I think that adoption and surrogacy
+- [00:38:40,000 - 00:38:42,000] are both legitimate trade-offs.
+- [00:38:42,000 - 00:38:45,000] And I agree with the point made
+- [00:38:45,000 - 00:38:48,000] that it's a voluntary agreement.
+- [00:38:48,000 - 00:38:49,000] An individual made it.
+- [00:38:49,000 - 00:38:50,000] It's a voluntary agreement.
+- [00:38:50,000 - 00:38:51,000] And you can't,
+- [00:38:51,000 - 00:38:52,000] okay,
+- [00:38:52,000 - 00:38:54,000] apply coercion to this argument.
+- [00:38:54,000 - 00:38:56,000] You can't apply the objection
+- [00:38:56,000 - 00:38:58,000] from coercion to this argument.
+- [00:38:58,000 - 00:38:59,000] Correct.
+- [00:38:59,000 - 00:39:00,000] What's your name?
+- [00:39:00,000 - 00:39:01,000] Kathleen.
+- [00:39:01,000 - 00:39:03,000] Kathleen, what do you say to Evan
+- [00:39:03,000 - 00:39:05,000] that though there may not have been,
+- [00:39:05,000 - 00:39:07,000] Evan claimed that the consent was tainted,
+- [00:39:07,000 - 00:39:08,000] not by coercion,
+- [00:39:08,000 - 00:39:11,000] but by lack of adequate information.
+- [00:39:11,000 - 00:39:13,000] She couldn't have known
+- [00:39:13,000 - 00:39:14,000] the relevant information,
+- [00:39:14,000 - 00:39:17,000] namely how she would feel about the child.
+- [00:39:17,000 - 00:39:18,000] What do you say to that?
+- [00:39:18,000 - 00:39:19,000] I don't think the emotional content
+- [00:39:19,000 - 00:39:21,000] of her feelings plays into this.
+- [00:39:21,000 - 00:39:23,000] I think in a case of law,
+- [00:39:23,000 - 00:39:25,000] in the justice of this scenario,
+- [00:39:25,000 - 00:39:28,000] her change of feelings are not relevant.
+- [00:39:28,000 - 00:39:30,000] If I give up my child for adoption
+- [00:39:30,000 - 00:39:32,000] and then I decide later on
+- [00:39:32,000 - 00:39:34,000] that I really want that child back,
+- [00:39:34,000 - 00:39:35,000] too bad.
+- [00:39:35,000 - 00:39:36,000] It's a trade-off.
+- [00:39:36,000 - 00:39:38,000] It's a trade-off that the mother has made.
+- [00:39:38,000 - 00:39:40,000] So a deal is a deal.
+- [00:39:40,000 - 00:39:41,000] You agree with Patrick.
+- [00:39:41,000 - 00:39:42,000] I agree with Patrick.
+- [00:39:42,000 - 00:39:43,000] A deal is a deal.
+- [00:39:43,000 - 00:39:44,000] A deal is a deal.
+- [00:39:44,000 - 00:39:45,000] Yes.
+- [00:39:45,000 - 00:39:46,000] Good.
+- [00:39:46,000 - 00:39:47,000] Yes.
+- [00:39:47,000 - 00:39:50,000] I would say that though I'm not really sure
+- [00:39:50,000 - 00:39:52,000] if I agree with the idea
+- [00:39:52,000 - 00:39:54,000] that the child has a right to their mother,
+- [00:39:54,000 - 00:39:56,000] I think the mother definitely
+- [00:39:56,000 - 00:39:58,000] has a right to her child.
+- [00:39:58,000 - 00:39:59,000] And I also think that there are some areas
+- [00:39:59,000 - 00:40:03,000] where market forces shouldn't necessarily penetrate.
+- [00:40:03,000 - 00:40:06,000] I think that the whole surrogate mother area
+- [00:40:06,000 - 00:40:10,000] smacks a little bit of dealing in human beings.
+- [00:40:10,000 - 00:40:12,000] It seems dehumanizing.
+- [00:40:12,000 - 00:40:14,000] And it doesn't really seem right.
+- [00:40:14,000 - 00:40:16,000] So that's my main reason.
+- [00:40:16,000 - 00:40:18,000] And what is, could, tell us your name.
+- [00:40:18,000 - 00:40:19,000] I'm Andrew.
+- [00:40:19,000 - 00:40:20,000] Andrew.
+- [00:40:20,000 - 00:40:26,000] What is dehumanizing about buying and selling
+- [00:40:26,000 - 00:40:28,000] the right to a child for money?
+- [00:40:28,000 - 00:40:30,000] What is dehumanizing about it?
+- [00:40:30,000 - 00:40:36,000] Well, because you're buying someone's biological right.
+- [00:40:36,000 - 00:40:38,000] I mean, you can't,
+- [00:40:38,000 - 00:40:40,000] in the law as it said,
+- [00:40:40,000 - 00:40:42,000] you can't sell your own child.
+- [00:40:42,000 - 00:40:44,000] Like were you to have a child,
+- [00:40:44,000 - 00:40:46,000] I believe that the law prohibits you
+- [00:40:46,000 - 00:40:48,000] selling it to another person or selling it…
+- [00:40:48,000 - 00:40:49,000] So this is like baby selling.
+- [00:40:49,000 - 00:40:50,000] Right.
+- [00:40:50,000 - 00:40:51,880] To a certain extent.
+- [00:40:51,880 - 00:40:54,490] I mean, though there is a contract
+- [00:40:54,490 - 00:40:57,100] with another person, you've made agreements and whatnot,
+- [00:40:57,100 - 00:40:59,230] there is an undeniable emotional bond that
+- [00:40:59,230 - 00:41:01,360] takes place between a mother and a child.
+- [00:41:01,360 - 00:41:03,520] And it's wrong to simply ignore
+- [00:41:03,520 - 00:41:05,680] this because you've written out something contractually.
+- [00:41:05,680 - 00:41:06,880] All right.
+- [00:41:06,880 - 00:41:08,240] You want to reply to Andrew?
+- [00:41:08,240 - 00:41:09,240] Stay there.
+- [00:41:09,240 - 00:41:13,160] You point out there's an undeniable emotional bond.
+- [00:41:13,160 - 00:41:16,570] I feel like in this situation, we're not
+- [00:41:16,570 - 00:41:19,980] necessarily arguing against adoption or surrogacy in itself.
+- [00:41:19,980 - 00:41:23,220] We're just sort of pointing out the emotional differences.
+- [00:41:23,220 - 00:41:24,220] But wait.
+- [00:41:24,220 - 00:41:26,400] I mean, it's easy to break everything down
+- [00:41:26,400 - 00:41:28,580] to numbers and say, oh, we have contracts
+- [00:41:28,580 - 00:41:30,580] like you're buying and selling a car.
+- [00:41:30,580 - 00:41:31,800] But there are underlying emotions.
+- [00:41:31,800 - 00:41:33,220] I mean, you're dealing with people.
+- [00:41:33,220 - 00:41:34,580] I mean, these are not
+- [00:41:34,580 - 00:41:35,940] objects to be bought and sold.
+- [00:41:35,940 - 00:41:36,940] All right.
+- [00:41:36,940 - 00:41:39,120] What about Andrew's claim that this is like baby selling?
+- [00:41:39,120 - 00:41:41,600] I believe that adoption and surrogacy should be permitted.
+- [00:41:41,600 - 00:41:43,370] Whether or not I actually will
+- [00:41:43,370 - 00:41:45,140] partake in it is not really relevant.
+- [00:41:45,140 - 00:41:47,550] But I think that the government
+- [00:41:47,550 - 00:41:49,960] should give its citizens the rights to...
+- [00:41:49,960 - 00:41:52,460] To allow for adoption and surrogacy.
+- [00:41:52,460 - 00:41:53,780] But adoption.
+- [00:41:53,780 - 00:41:54,780] Adoption is not...
+- [00:41:54,780 - 00:41:55,780] According to the law...
+- [00:41:55,780 - 00:41:57,780] Is adoption baby selling?
+- [00:41:57,780 - 00:42:01,450] Well, do you think you should be able
+- [00:42:01,450 - 00:42:05,120] to bid for a baby that's up for adoption?
+- [00:42:05,120 - 00:42:06,800] That's Andrew's challenge.
+- [00:42:06,800 - 00:42:08,020] Do I think I should be
+- [00:42:08,020 - 00:42:09,240] able to bid for a baby?
+- [00:42:09,240 - 00:42:14,580] I'm not sure.
+- [00:42:14,580 - 00:42:15,580] It's a market.
+- [00:42:15,580 - 00:42:17,430] I mean, I feel like the
+- [00:42:17,430 - 00:42:19,280] extent to which it's been applied...
+- [00:42:19,280 - 00:42:19,960] I'm not sure if...
+- [00:42:19,960 - 00:42:21,130] I'm not sure if the government
+- [00:42:21,130 - 00:42:22,300] should be able to permit it.
+- [00:42:22,300 - 00:42:23,860] And I have to think about it more, but...
+- [00:42:23,860 - 00:42:24,860] All right.
+- [00:42:24,860 - 00:42:25,860] Fair enough.
+- [00:42:25,860 - 00:42:26,860] Are you satisfied, Andrew?
+- [00:42:26,860 - 00:42:27,860] Well, yeah.
+- [00:42:27,860 - 00:42:28,860] I mean, I just...
+- [00:42:28,860 - 00:42:30,700] I think surrogacy should be permitted.
+- [00:42:30,700 - 00:42:33,640] I think that people can do it.
+- [00:42:33,640 - 00:42:35,890] But I don't think that it should be
+- [00:42:35,890 - 00:42:38,140] forced upon people that once the contract is signed,
+- [00:42:38,140 - 00:42:40,920] it's absolutely like the end all.
+- [00:42:40,920 - 00:42:43,060] I think that it's unenforceable.
+- [00:42:43,060 - 00:42:45,410] So people should be free, Andrew, to enter
+- [00:42:45,410 - 00:42:47,760] into these contracts, but it should not be
+- [00:42:47,760 - 00:42:49,580] enforceable in a court?
+- [00:42:49,580 - 00:42:50,580] In a court, no.
+- [00:42:50,580 - 00:42:52,080] Who would like to join
+- [00:42:52,080 - 00:42:53,580] on one side or the other?
+- [00:42:53,580 - 00:42:54,580] Yes.
+- [00:42:54,580 - 00:42:57,630] I think I have an interesting perspective
+- [00:42:57,630 - 00:43:00,680] on this because my brother was actually one
+- [00:43:00,680 - 00:43:03,200] of the people who donated to a sperm bank
+- [00:43:03,200 - 00:43:05,720] and he was paid a very large amount of money.
+- [00:43:05,720 - 00:43:08,259] He was six feet tall, but not blonde.
+- [00:43:08,259 - 00:43:09,880] He had dimples, though.
+- [00:43:09,880 - 00:43:10,880] So he actually has...
+- [00:43:10,880 - 00:43:11,880] He what?
+- [00:43:11,880 - 00:43:14,980] I'm an aunt now and he has a daughter.
+- [00:43:14,980 - 00:43:18,460] He donated his sperm to a lesbian couple in Oklahoma.
+- [00:43:18,460 - 00:43:19,460] And he has...
+- [00:43:19,460 - 00:43:21,810] He has been contacted by them and he
+- [00:43:21,810 - 00:43:24,160] has seen pictures of his daughter, but he still
+- [00:43:24,160 - 00:43:27,420] does not feel an emotional bond to his daughter.
+- [00:43:27,420 - 00:43:29,820] He just has a sense of curiosity about what
+- [00:43:29,820 - 00:43:32,220] she looks like and what she's doing and how
+- [00:43:32,220 - 00:43:33,340] she is.
+- [00:43:33,340 - 00:43:36,740] He doesn't feel love for his child.
+- [00:43:36,740 - 00:43:40,750] So from this experience, I think the bond
+- [00:43:40,750 - 00:43:44,760] between a mother and a child cannot be compared
+- [00:43:44,760 - 00:43:47,020] to the bond between the father and the child.
+- [00:43:47,020 - 00:43:48,300] That's really interesting.
+- [00:43:48,300 - 00:43:49,460] What's your name?
+- [00:43:49,460 - 00:43:50,460] Vivian.
+- [00:43:50,460 - 00:43:51,460] Vivian.
+- [00:43:51,460 - 00:43:55,640] So we've got the case of surrogacy, commercial surrogacy.
+- [00:43:55,640 - 00:43:58,660] And it's been compared to baby selling
+- [00:43:58,660 - 00:44:01,680] and we've been exploring whether that analogy
+- [00:44:01,680 - 00:44:04,100] is apt.
+- [00:44:04,100 - 00:44:07,300] And it can also be compared,
+- [00:44:07,300 - 00:44:10,500] as you point out, to sperm selling.
+- [00:44:10,500 - 00:44:14,920] But you're saying that sperm selling and
+- [00:44:14,920 - 00:44:19,340] baby selling or even surrogacy are very different.
+- [00:44:19,340 - 00:44:20,340] Yes.
+- [00:44:20,340 - 00:44:21,340] They're unequal services.
+- [00:44:21,340 - 00:44:23,660] They're unequal services.
+- [00:44:23,660 - 00:44:25,880] And that's because, Vivian, you
+- [00:44:25,880 - 00:44:28,100] say that the tie, the bond...
+- [00:44:28,100 - 00:44:29,100] Yes.
+- [00:44:29,100 - 00:44:32,260] And also the time investment that's given
+- [00:44:32,260 - 00:44:35,420] by a mother, nine months, cannot be compared
+- [00:44:35,420 - 00:44:38,900] to a man going into a sperm
+- [00:44:38,900 - 00:44:42,380] bank, looking at pornography, depositing into a cup.
+- [00:44:42,380 - 00:44:44,340] I don't think those are equal.
+- [00:44:44,340 - 00:44:45,340] Good.
+- [00:44:45,340 - 00:44:46,340] All right.
+- [00:44:46,340 - 00:44:47,340] So we...
+- [00:44:47,340 - 00:44:48,340] Because that's what I'm saying.
+- [00:44:48,340 - 00:44:49,340] I'm sorry.
+- [00:44:49,340 - 00:44:50,340] I'm sorry.
+- [00:44:50,340 - 00:44:51,340] That's what happens in a sperm bank.
+- [00:44:52,340 - 00:44:55,100] All right.
+- [00:44:55,100 - 00:44:57,900] So this is really interesting.
+- [00:44:57,900 - 00:44:59,300] We have...
+- [00:44:59,300 - 00:45:00,880] All right.
+- [00:45:00,880 - 00:45:03,760] Notice the arguments that have come out so far.
+- [00:45:03,760 - 00:45:07,800] The objections to surrogacy, the objections to
+- [00:45:07,800 - 00:45:11,840] enforcing that contract are of at least
+- [00:45:11,840 - 00:45:13,420] two kinds.
+- [00:45:13,420 - 00:45:17,140] There was the objection about tainted consent.
+- [00:45:17,140 - 00:45:19,100] This time, not because of...
+- [00:45:19,100 - 00:45:23,620] Coercion or implicit coercion, but
+- [00:45:23,620 - 00:45:28,140] because of imperfect or flawed information.
+- [00:45:28,140 - 00:45:33,030] So tainted or flawed consent can arise either
+- [00:45:33,030 - 00:45:37,920] because of coercion or because of a lack of
+- [00:45:37,920 - 00:45:40,180] relevant information, at least according
+- [00:45:40,180 - 00:45:42,440] to one argument that we've heard.
+- [00:45:42,440 - 00:45:44,750] And then a second objection
+- [00:45:44,750 - 00:45:47,060] to enforcing the surrogacy contract.
+- [00:45:47,060 - 00:45:48,060] Okay.
+- [00:45:48,060 - 00:45:49,060] Okay.
+- [00:45:49,060 - 00:45:50,060] So the argument is, it's not through the law.
+- [00:45:50,060 - 00:45:51,060] This is through the law, by the way.
+- [00:45:51,060 - 00:45:52,060] Okay.
+- [00:45:52,060 - 00:45:52,560] The argument is, it's not through
+- [00:45:52,560 - 00:45:53,060] the law, but by the way.
+- [00:45:53,060 - 00:45:54,060] And what is it, by the way?
+- [00:45:54,060 - 00:45:55,060] I think it's a very long argument.
+- [00:45:55,060 - 00:45:56,060] Well, let's look at the argument on the other side.
+- [00:45:56,060 - 00:45:57,060] Okay.
+- [00:45:57,060 - 00:45:58,060] So the argument on the other side.
+- [00:45:58,060 - 00:45:58,560] What happened in the second part, the argument
+- [00:45:58,560 - 00:45:59,060] on the other side of the equation, it's a
+- [00:45:59,060 - 00:46:00,060] little bit of a puzzle.
+- [00:46:00,060 - 00:46:01,060] It's a little bit of a puzzle.
+- [00:46:01,060 - 00:46:01,560] When this case was decided by the
+- [00:46:01,560 - 00:46:02,060] courts, what did they say about these arguments?
+- [00:46:02,060 - 00:46:03,060] The law court ruled that the contract was enforceable.
+- [00:46:03,060 - 00:46:07,480] Neither party had a superior bargaining position.
+- [00:46:07,480 - 00:46:09,440] A price for the service was
+- [00:46:09,440 - 00:46:11,400] struck and a bargain was reached.
+- [00:46:11,400 - 00:46:13,440] One side didn't force the other.
+- [00:46:13,440 - 00:46:16,060] Neither had disproportionate bargaining power.
+- [00:46:16,060 - 00:46:20,400] Then it went to the New Jersey Supreme Court.
+- [00:46:20,400 - 00:46:24,740] And what did they do? They said this contract
+- [00:46:24,740 - 00:46:29,930] is not enforceable. They did grant custody to
+- [00:46:29,930 - 00:46:35,120] Mr. Stern as the father because they thought
+- [00:46:35,120 - 00:46:38,000] that would be in the best interest of
+- [00:46:38,000 - 00:46:40,880] the child, but they restored the rights of Mary
+- [00:46:40,880 - 00:46:44,040] Beth Whitehead and left it to lower
+- [00:46:44,040 - 00:46:47,200] courts to decide exactly what the visitation rights
+- [00:46:47,200 - 00:46:50,800] should be. They invoked two different kinds
+- [00:46:50,800 - 00:46:54,400] of reasons along the lines that Andrew proposed.
+- [00:46:54,400 - 00:46:57,900] First, there was not sufficiently informed
+- [00:46:57,900 - 00:47:01,400] consent, the court argued. Under the contract,
+- [00:47:01,860 - 00:47:04,230] the natural mother is irrevocably committed before
+- [00:47:04,230 - 00:47:06,600] she knows the strength of her bond
+- [00:47:06,600 - 00:47:10,540] with her child. She never makes a truly voluntary informed
+- [00:47:10,540 - 00:47:10,880] decision.
+- [00:47:10,880 - 00:47:14,380] For any decision prior to the baby's
+- [00:47:14,380 - 00:47:17,880] birth is, in the most important sense, uninformed.
+- [00:47:17,880 - 00:47:21,380] That was the court. Then, the court also
+- [00:47:21,380 - 00:47:24,880] made a version of the second argument against commodification
+- [00:47:28,160 - 00:47:31,470] in this kind of case. This is the sale of
+- [00:47:31,470 - 00:47:34,780] a child, the court said, or at the very least,
+- [00:47:34,780 - 00:47:37,780] the sale of a mother's right to
+- [00:47:37,780 - 00:47:40,780] her child. Whatever idealism may motivate the participation
+- [00:47:40,880 - 00:47:44,380] of knowledges, there does not matter
+- [00:47:44,380 - 00:47:47,880] what you draw from anonymous information. Barайте
+- [00:47:51,380 - 00:47:55,380] can somehow enter a parallel with his family because
+- [00:47:55,380 - 00:47:59,380] he has access to the right to an asset
+- [00:48:05,260 - 00:48:10,260] they have been carrying for you.
+- [00:48:10,880 - 00:48:14,880] procreation and to reproduction.
+- [00:48:17,880 - 00:48:19,880] How persuasive are they?
+- [00:48:20,880 - 00:48:23,380] There was, it's true, a
+- [00:48:23,380 - 00:48:25,880] voluntary agreement, a contract struck,
+- [00:48:25,880 - 00:48:28,880] between William Stern and Mary Beth Whitehead.
+- [00:48:29,880 - 00:48:32,880] But there are at least two ways
+- [00:48:32,880 - 00:48:35,880] that consent can be other than truly free.
+- [00:48:35,880 - 00:48:38,380] First, if people are pressured
+- [00:48:38,380 - 00:48:40,880] or coerced to give their agreement,
+- [00:48:41,880 - 00:48:48,880] and second, if their consent is not truly informed.
+- [00:48:49,880 - 00:48:52,880] And in the case of surrogacy, the court said,
+- [00:48:53,880 - 00:48:56,380] a mother can't know, even one
+- [00:48:56,380 - 00:48:58,880] who already has kids of her own,
+- [00:48:58,880 - 00:49:00,880] what it would be like to bear
+- [00:49:00,880 - 00:49:02,880] a child and give it up for pay.
+- [00:49:05,880 - 00:49:09,880] So in order to assess criticism, objection number one,
+- [00:49:09,880 - 00:49:13,380] we have to figure out just how
+- [00:49:13,380 - 00:49:16,880] free does a voluntary exchange have to be
+- [00:49:16,880 - 00:49:22,880] with respect to the bargaining power and equal information.
+- [00:49:22,880 - 00:49:24,880] Question number one.
+- [00:49:24,880 - 00:49:27,880] How do we assess the second objection?
+- [00:49:28,880 - 00:49:32,880] The second objection is more elusive, it's more difficult.
+- [00:49:33,880 - 00:49:34,880] Andrew acknowledged this, right?
+- [00:49:35,880 - 00:49:39,880] What does it mean to say there is something dehumanizing
+- [00:49:39,880 - 00:49:45,880] to make childbearing a market transaction?
+- [00:49:46,880 - 00:49:50,880] Well, one of the philosophers we read on this subject,
+- [00:49:50,880 - 00:49:54,880] Elizabeth Anderson, tries to give some,
+- [00:49:54,880 - 00:49:57,880] bring some philosophical clarity to
+- [00:49:57,880 - 00:50:00,880] the unease that Andrew articulated.
+- [00:50:01,880 - 00:50:05,880] She said, by requiring the surrogate mother to require
+- [00:50:05,880 - 00:50:09,880] to repress whatever parental love she feels for the child,
+- [00:50:09,880 - 00:50:12,880] surrogacy contracts convert women's labor
+- [00:50:12,880 - 00:50:15,880] into a form of alienated labor.
+- [00:50:16,880 - 00:50:19,380] The surrogate's labor is alienated because
+- [00:50:19,380 - 00:50:21,880] she must divert it from the end,
+- [00:50:21,880 - 00:50:24,880] from the end which the
+- [00:50:24,880 - 00:50:27,880] social practices of pregnancy rightly promote,
+- [00:50:27,880 - 00:50:31,880] namely an emotional bond with her child.
+- [00:50:32,880 - 00:50:35,880] So what Anderson is suggesting is,
+- [00:50:35,880 - 00:50:40,880] that certain goods should not be treated
+- [00:50:40,880 - 00:50:45,880] as open to use or to profit.
+- [00:50:45,880 - 00:50:50,880] Certain goods are properly valued in ways other than use.
+- [00:50:50,880 - 00:50:55,380] What are other ways of valuing and treating
+- [00:50:55,380 - 00:50:59,880] goods that should not be open to use?
+- [00:50:59,880 - 00:51:02,880] Anderson says there are many.
+- [00:51:02,880 - 00:51:03,880] Respect.
+- [00:51:03,880 - 00:51:04,880] Appreciation.
+- [00:51:05,880 - 00:51:06,880] Love.
+- [00:51:06,880 - 00:51:07,880] Honor.
+- [00:51:07,880 - 00:51:08,880] Awe.
+- [00:51:08,880 - 00:51:09,880] Sanctity.
+- [00:51:09,880 - 00:51:14,880] There are many modes of valuation beyond use,
+- [00:51:14,880 - 00:51:19,880] and certain goods are not properly valued
+- [00:51:19,880 - 00:51:23,880] if they're treated simply as objects of use.
+- [00:51:24,880 - 00:51:27,880] How do we go about evaluating that argument of Anderson?
+- [00:51:27,880 - 00:51:30,380] In a way it takes us back
+- [00:51:30,380 - 00:51:32,880] to the debate we had with utilitarianism.
+- [00:51:33,880 - 00:51:34,880] Is use the only way to use?
+- [00:51:35,880 - 00:51:38,880] Is utility, is use the
+- [00:51:38,880 - 00:51:41,880] only proper way of treating goods,
+- [00:51:41,880 - 00:51:48,880] including life, military service, procreation, childbearing?
+- [00:51:48,880 - 00:51:53,880] And if not, how do we figure out,
+- [00:51:53,880 - 00:51:58,380] how can we determine what modes of
+- [00:51:58,380 - 00:52:02,880] valuation are fitting or appropriate to those goods?
+- [00:52:02,880 - 00:52:04,880] Several years ago there was a scandal surrounding a doctor,
+- [00:52:04,880 - 00:52:11,880] an infertility specialist in Virginia named Cecil Jacobson.
+- [00:52:11,880 - 00:52:14,380] He didn't have a donor
+- [00:52:14,380 - 00:52:16,880] catalog because unknown to his patients,
+- [00:52:16,880 - 00:52:19,880] all of the sperm he used to
+- [00:52:19,880 - 00:52:22,880] inseminate his patients came from one donor,
+- [00:52:22,880 - 00:52:25,880] Dr. Jacobson himself.
+- [00:52:25,880 - 00:52:29,380] At least one woman who testified in court
+- [00:52:29,380 - 00:52:32,880] was unnerved at how much her newborn daughter
+- [00:52:32,880 - 00:52:33,880] looked just like him.
+- [00:52:33,880 - 00:52:39,380] Now it's possible to condemn Dr. Jacobson
+- [00:52:39,380 - 00:52:44,880] for failing to inform the women in advance.
+- [00:52:44,880 - 00:52:47,880] That would be the argument about consent.
+- [00:52:47,880 - 00:52:50,380] The columnist Ellen Goodman described
+- [00:52:50,380 - 00:52:52,880] the bizarre scenario as follows.
+- [00:52:52,880 - 00:52:55,880] Dr. Jacobson, she wrote, gave
+- [00:52:55,880 - 00:52:58,880] his infertility business the personal touch.
+- [00:52:58,880 - 00:53:01,880] But now the rest of us, she wrote,
+- [00:53:01,880 - 00:53:05,380] are in for a round
+- [00:53:05,380 - 00:53:08,880] of second thoughts about sperm donation.
+- [00:53:08,880 - 00:53:11,380] Goodman concluded that fatherhood
+- [00:53:11,380 - 00:53:13,880] should be something you do,
+- [00:53:13,880 - 00:53:15,880] not something you donate.
+- [00:53:15,880 - 00:53:17,880] And I think what she was doing,
+- [00:53:17,880 - 00:53:21,880] and what the philosopher Elizabeth Anderson is doing,
+- [00:53:21,880 - 00:53:24,380] and what Andrew was suggesting
+- [00:53:24,380 - 00:53:26,880] with his argument about dehumanization,
+- [00:53:26,880 - 00:53:30,880] is pondering whether there are certain goods,
+- [00:53:30,880 - 00:53:32,880] that money shouldn't buy,
+- [00:53:32,880 - 00:53:34,880] not just because of tainted consent,
+- [00:53:34,880 - 00:53:39,380] but also perhaps because certain goods are properly
+- [00:53:39,380 - 00:53:43,880] valued in a way higher than mere use.
+- [00:53:43,880 - 00:53:45,380] Those at least are the
+- [00:53:45,380 - 00:53:46,880] questions we are going to pursue
+- [00:53:46,880 - 00:53:48,880] with the help of some
+- [00:53:48,880 - 00:53:50,880] philosophers in the weeks to come.
+- [00:54:00,880 - 00:54:01,880] Join the conversation.
+- [00:54:01,880 - 00:54:02,880] Take a pop quiz.
+- [00:54:02,880 - 00:54:04,880] Watch lectures you've missed and learn a lot more.
+- [00:54:04,880 - 00:54:06,880] Visit justiceharvard.org.
+- [00:54:06,880 - 00:54:08,880] It's the right thing to do.
+- [00:54:30,880 - 00:54:40,880] It's the right thing to do.
+- [00:55:00,880 - 00:55:09,880] It's the right thing to do.

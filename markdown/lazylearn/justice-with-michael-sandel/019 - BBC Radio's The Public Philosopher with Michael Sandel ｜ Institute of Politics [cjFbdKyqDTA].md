@@ -1,0 +1,1856 @@
+# Transcript
+
+Source: 019 - BBC Radio's The Public Philosopher with Michael Sandel ｜ Institute of Politics [cjFbdKyqDTA].mkv
+
+- [00:00:00,000 - 00:00:07,000] Robert Tucker Reviewer Reviewer's Name
+- [00:00:13,300 - 00:00:15,960] Hello and welcome to Harvard University.
+- [00:00:15,960 - 00:00:17,840] My name is Michael Sandel.
+- [00:00:17,840 - 00:00:21,320] Very soon, Americans will choose a president.
+- [00:00:21,320 - 00:00:24,240] Barack Obama and his challenger Mitt Romney
+- [00:00:24,240 - 00:00:26,800] seem to agree on one thing at least.
+- [00:00:26,800 - 00:00:29,620] This election offers a fundamental choice
+- [00:00:29,620 - 00:00:33,080] between two different visions of the role of government
+- [00:00:33,080 - 00:00:35,260] and of America's future.
+- [00:00:35,260 - 00:00:37,800] I'd like to invite those of you gathered here,
+- [00:00:37,800 - 00:00:40,340] students and members of the general public,
+- [00:00:40,340 - 00:00:43,140] and our radio audience and the BBC
+- [00:00:43,140 - 00:00:46,200] to listen to two contrasting statements
+- [00:00:46,200 - 00:00:49,220] about the meaning of individual success
+- [00:00:49,220 - 00:00:52,220] and about who owes what to whom.
+- [00:00:57,620 - 00:00:59,300] If you've been successful,
+- [00:00:59,300 - 00:01:02,860] you didn't get there on your own.
+- [00:01:02,860 - 00:01:04,620] You didn't get there on your own.
+- [00:01:04,620 - 00:01:06,979] I'm always struck by people who think,
+- [00:01:06,979 - 00:01:09,580] well, it must be because I was just so smart.
+- [00:01:09,580 - 00:01:12,479] There are a lot of smart people out there.
+- [00:01:12,479 - 00:01:14,780] It must be because I worked harder than everybody else.
+- [00:01:14,780 - 00:01:15,780] Let me tell you something.
+- [00:01:15,780 - 00:01:17,780] There are a whole bunch of hard-working people out there.
+- [00:01:23,300 - 00:01:27,420] If you were successful, somebody along the line
+- [00:01:27,420 - 00:01:29,140] gave you some help.
+- [00:01:29,300 - 00:01:31,300] There was a great teacher somewhere in your life.
+- [00:01:31,300 - 00:01:37,979] Somebody helped to create this unbelievable American system
+- [00:01:37,979 - 00:01:39,979] that we had that allowed you to thrive.
+- [00:01:39,979 - 00:01:42,380] Somebody invested in roads and bridges.
+- [00:01:42,380 - 00:01:45,179] If you've got a business, you didn't build that.
+- [00:01:45,179 - 00:01:47,780] Somebody else made that happen.
+- [00:01:47,780 - 00:01:50,780] I know that there are some people who believe,
+- [00:01:50,780 - 00:01:53,780] and I'm not saying that they're wrong,
+- [00:01:53,780 - 00:01:56,300] but I'm saying that there are some people who believe,
+- [00:01:56,300 - 00:01:57,300] and I'm not saying that they're wrong,
+- [00:01:57,300 - 00:01:58,300] but I'm saying that there are some people who believe,
+- [00:01:58,300 - 00:01:59,300] and I'm not saying that they're wrong,
+- [00:01:59,300 - 00:02:00,300] but I'm saying that there are some people who believe,
+- [00:02:00,300 - 00:02:01,800] that if you simply take
+- [00:02:01,800 - 00:02:03,300] from some and give to others,
+- [00:02:03,300 - 00:02:04,300] that we'll all be better off.
+- [00:02:04,300 - 00:02:06,300] It's known as redistribution.
+- [00:02:06,300 - 00:02:08,300] It's never been a characteristic of America.
+- [00:02:08,300 - 00:02:11,300] Just a tape came out a couple of days ago
+- [00:02:11,300 - 00:02:12,300] with the president saying,
+- [00:02:12,300 - 00:02:14,300] yes, he believes in redistribution.
+- [00:02:14,300 - 00:02:16,300] I don't.
+- [00:02:16,300 - 00:02:18,300] I believe the way to lift people
+- [00:02:18,300 - 00:02:20,300] and to help people have higher incomes
+- [00:02:20,300 - 00:02:22,300] is not to take from some and give to others,
+- [00:02:22,300 - 00:02:24,300] but to create wealth for all of us,
+- [00:02:24,300 - 00:02:26,300] to create an economy so strong it lifts everybody.
+- [00:02:26,300 - 00:02:31,300] This idea of redistribution follows from the idea
+- [00:02:31,300 - 00:02:34,300] that if you have a business, you didn't build it.
+- [00:02:34,300 - 00:02:35,300] Someone else did that.
+- [00:02:35,300 - 00:02:37,300] It's the same concept.
+- [00:02:37,300 - 00:02:38,800] See, government is responsible for
+- [00:02:38,800 - 00:02:40,300] everything that's going on here,
+- [00:02:40,300 - 00:02:44,300] and therefore government can take and give as it chooses.
+- [00:02:44,300 - 00:02:47,300] It's an entirely foreign concept that will not work,
+- [00:02:47,300 - 00:02:49,300] that has not worked,
+- [00:02:49,300 - 00:02:51,300] that has never worked anywhere in the world.
+- [00:02:51,300 - 00:02:55,300] Now, the first statement by President Obama
+- [00:02:55,300 - 00:02:59,300] was widely viewed as a gaffe.
+- [00:02:59,300 - 00:03:01,300] Republicans have mocked the notion
+- [00:03:01,300 - 00:03:05,300] that the successful owe their success to somebody else
+- [00:03:05,300 - 00:03:07,300] or to the government.
+- [00:03:07,300 - 00:03:10,300] The second statement by Mitt Romney
+- [00:03:10,300 - 00:03:13,300] came on the heels of a gaffe of its own,
+- [00:03:13,300 - 00:03:23,300] a secretly recorded video showing him telling wealthy donors
+- [00:03:23,300 - 00:03:25,300] that 47% of the world's population
+- [00:03:25,300 - 00:03:27,300] of Americans pay no income tax,
+- [00:03:27,300 - 00:03:29,300] are dependent on the government,
+- [00:03:29,300 - 00:03:31,300] believe that they are victims,
+- [00:03:31,300 - 00:03:33,300] and believe that they are entitled to health care,
+- [00:03:33,300 - 00:03:36,300] to food, to housing, to you name it.
+- [00:03:36,300 - 00:03:42,300] An astute observer once defined a gaffe
+- [00:03:42,300 - 00:03:45,300] as when a politician inadvertently says
+- [00:03:45,300 - 00:03:48,300] what he actually believes.
+- [00:03:48,300 - 00:03:50,300] I'd go further.
+- [00:03:50,300 - 00:03:54,300] These two so-called gaffes actually represent
+- [00:03:54,300 - 00:03:57,300] a rare moment in this campaign
+- [00:03:57,300 - 00:04:01,300] when the two candidates were caught expressing thoughts
+- [00:04:01,300 - 00:04:06,300] that verge on political philosophy.
+- [00:04:06,300 - 00:04:09,300] Much of the debate in this campaign
+- [00:04:09,300 - 00:04:13,300] revolves around taxes and health care.
+- [00:04:13,300 - 00:04:17,300] President Obama favors higher taxes on the wealthy.
+- [00:04:17,300 - 00:04:20,300] Governor Romney favors tax cuts for everyone,
+- [00:04:20,300 - 00:04:22,300] including the most affluent.
+- [00:04:22,300 - 00:04:24,300] And then there is the recent
+- [00:04:24,300 - 00:04:27,300] recently enacted health care reform,
+- [00:04:27,300 - 00:04:29,300] commonly called Obamacare.
+- [00:04:29,300 - 00:04:31,300] Romney wants to repeal it,
+- [00:04:31,300 - 00:04:34,300] Obama wants to keep it.
+- [00:04:34,300 - 00:04:38,300] But lying just beneath the surface of these debates
+- [00:04:38,300 - 00:04:42,300] are big questions of political philosophy.
+- [00:04:42,300 - 00:04:44,300] What is a fair society?
+- [00:04:44,300 - 00:04:47,300] Who is entitled to what?
+- [00:04:47,300 - 00:04:49,300] And what is the moral significance
+- [00:04:49,300 - 00:04:53,300] of individual success in a market economy?
+- [00:04:54,300 - 00:04:56,300] Let's begin with health care.
+- [00:04:56,300 - 00:04:58,300] Let's put aside the complex details
+- [00:04:58,300 - 00:05:00,300] of the recent health care reform
+- [00:05:00,300 - 00:05:02,300] and focus on a question of principle,
+- [00:05:02,300 - 00:05:05,300] a question about entitlement.
+- [00:05:05,300 - 00:05:10,300] Consider the following statement.
+- [00:05:10,300 - 00:05:14,300] Every American is entitled to decent health care
+- [00:05:14,300 - 00:05:19,300] regardless of his or her ability to pay.
+- [00:05:19,300 - 00:05:23,300] Let's see what people here think about that statement.
+- [00:05:23,300 - 00:05:26,300] Do you agree or do you disagree?
+- [00:05:26,300 - 00:05:28,300] Let's see by a show of hands
+- [00:05:28,300 - 00:05:30,300] how many agree with the statement,
+- [00:05:30,300 - 00:05:33,300] every American is entitled to decent health care
+- [00:05:33,300 - 00:05:36,300] regardless of his or her ability to pay.
+- [00:05:36,300 - 00:05:39,300] Raise your hand if you agree with that statement.
+- [00:05:39,300 - 00:05:42,300] And how many disagree with that statement?
+- [00:05:42,300 - 00:05:48,300] All right, here at Harvard's Kennedy School of Government,
+- [00:05:48,300 - 00:05:50,300] the majority agree with that statement.
+- [00:05:50,300 - 00:05:52,300] A minority disagree.
+- [00:05:52,300 - 00:05:57,300] Let's begin with those who disagree
+- [00:05:57,300 - 00:06:01,300] about everyone being entitled to health care
+- [00:06:01,300 - 00:06:03,300] regardless of their ability to pay.
+- [00:06:03,300 - 00:06:04,300] Why do you disagree?
+- [00:06:04,300 - 00:06:13,300] Who will get our discussion going?
+- [00:06:13,300 - 00:06:15,300] Who else?
+- [00:06:15,300 - 00:06:17,300] Yes.
+- [00:06:17,300 - 00:06:19,300] In the back.
+- [00:06:19,300 - 00:06:20,300] Hey there.
+- [00:06:20,300 - 00:06:22,300] My name is Aaron.
+- [00:06:22,300 - 00:06:25,300] I disagree with this because it implies
+- [00:06:25,300 - 00:06:30,300] if they're entitled to a service or a product
+- [00:06:30,300 - 00:06:31,800] that someone else is going
+- [00:06:31,800 - 00:06:33,300] to be providing that for them.
+- [00:06:33,300 - 00:06:36,300] And I am one of the someone else's.
+- [00:06:36,300 - 00:06:37,800] And I don't feel that I
+- [00:06:37,800 - 00:06:39,300] or anyone else should be forced
+- [00:06:39,300 - 00:06:42,300] to have to pay for anyone else's services and products.
+- [00:06:42,300 - 00:06:44,300] You're one of...
+- [00:06:49,300 - 00:06:51,300] Aaron, you're one of the someone else's.
+- [00:06:51,300 - 00:06:58,300] And you don't want to be forced, coerced,
+- [00:06:58,300 - 00:07:00,300] to pay for somebody else's health care.
+- [00:07:00,300 - 00:07:02,300] Yes.
+- [00:07:02,300 - 00:07:04,300] Do you agree?
+- [00:07:04,300 - 00:07:06,300] Well, my name's Andrea.
+- [00:07:06,300 - 00:07:07,800] And the point I want
+- [00:07:07,800 - 00:07:09,300] to make is, first of all,
+- [00:07:09,300 - 00:07:12,300] I don't understand what decent health care means.
+- [00:07:12,300 - 00:07:14,300] That to me is...
+- [00:07:14,300 - 00:07:16,300] I don't know what you're saying,
+- [00:07:16,300 - 00:07:18,300] but I know I come from a family of doctors,
+- [00:07:18,300 - 00:07:20,300] and my sister, her friend,
+- [00:07:20,300 - 00:07:22,300] some of her college friends were very bright,
+- [00:07:22,300 - 00:07:24,300] and they actually worked at Bain Capital with Romney,
+- [00:07:24,300 - 00:07:27,300] and went and made tons of money.
+- [00:07:27,300 - 00:07:29,300] She worked very hard and went to medical school
+- [00:07:29,300 - 00:07:30,800] and slept on a bed
+- [00:07:30,800 - 00:07:32,300] that was wrapped up with cords
+- [00:07:32,300 - 00:07:34,300] because she didn't have any money.
+- [00:07:34,300 - 00:07:35,800] And she's now in her 50s
+- [00:07:35,800 - 00:07:37,300] and is finally making some money.
+- [00:07:37,300 - 00:07:39,300] And she's a doctor.
+- [00:07:39,300 - 00:07:41,300] And she's very bright.
+- [00:07:41,300 - 00:07:42,300] She's one of the best and the brightest ones
+- [00:07:42,300 - 00:07:43,300] of the best schools.
+- [00:07:43,300 - 00:07:45,300] Not Harvard, but the other medical school
+- [00:07:45,300 - 00:07:48,300] that is often considered the best in the country.
+- [00:07:48,300 - 00:07:49,300] And she doesn't feel like she's the best.
+- [00:07:49,300 - 00:07:52,300] She doesn't feel like she should be punished right now.
+- [00:07:52,300 - 00:07:53,300] And she gives 20...
+- [00:07:53,300 - 00:07:55,300] I think it's more than 20%.
+- [00:07:55,300 - 00:07:58,300] I think she gives 30% of her time for free
+- [00:07:58,300 - 00:07:59,800] as part of the services
+- [00:07:59,800 - 00:08:01,300] that she offers as a doctor.
+- [00:08:01,300 - 00:08:04,300] And she doesn't feel like she should be penalized anymore.
+- [00:08:04,300 - 00:08:06,300] And she's willing to help people,
+- [00:08:06,300 - 00:08:08,300] but why should doctors be punished?
+- [00:08:08,300 - 00:08:10,300] And if you want decent health care,
+- [00:08:10,300 - 00:08:12,300] you have to have decent people.
+- [00:08:12,300 - 00:08:14,300] You know, you want the best and the brightest
+- [00:08:14,300 - 00:08:15,300] to be your brain surgeon
+- [00:08:15,300 - 00:08:16,300] or to be your heart surgeon
+- [00:08:16,300 - 00:08:17,300] or to care for you.
+- [00:08:17,300 - 00:08:19,300] And if you're punishing those people,
+- [00:08:19,300 - 00:08:21,300] you're not going to get those kind of services.
+- [00:08:21,300 - 00:08:22,300] And now why do you think, Andrea...
+- [00:08:22,300 - 00:08:23,300] Decent health care, what does that mean?
+- [00:08:23,300 - 00:08:25,300] Why do you think that it necessarily would involve
+- [00:08:25,300 - 00:08:27,300] punishing doctors?
+- [00:08:27,300 - 00:08:33,299] Suppose the government taxed the taxpayers generally
+- [00:08:33,299 - 00:08:36,299] at a sufficient level to
+- [00:08:36,299 - 00:08:39,299] be able to pay all doctors
+- [00:08:39,299 - 00:08:41,299] a handsome, generous amount.
+- [00:08:41,299 - 00:08:43,299] That wouldn't be punishing doctors.
+- [00:08:43,299 - 00:08:44,300] Would you be for that?
+- [00:08:44,300 - 00:08:45,300] That's not what Obama said.
+- [00:08:45,300 - 00:08:48,300] He said doctors made too much money, didn't he?
+- [00:08:48,300 - 00:08:49,300] He did.
+- [00:08:49,300 - 00:08:51,300] The question is, would you be in favor of that?
+- [00:08:51,300 - 00:08:55,300] If doctors were very well paid by the government,
+- [00:08:55,300 - 00:08:57,300] by the taxpayer to look after everyone's health,
+- [00:08:57,300 - 00:08:59,300] would you be against that in principle?
+- [00:08:59,300 - 00:09:01,300] I'm not against that in principle,
+- [00:09:01,300 - 00:09:02,300] but I don't really think...
+- [00:09:02,300 - 00:09:04,300] Doctors are not trained in nutrition,
+- [00:09:04,300 - 00:09:06,300] and I've had personal experiences in that.
+- [00:09:06,300 - 00:09:08,300] They're good when you're really sick.
+- [00:09:08,300 - 00:09:10,300] They're not good as preventative.
+- [00:09:10,300 - 00:09:12,300] Okay, thank you for that.
+- [00:09:12,300 - 00:09:15,300] Who else disagrees with the idea
+- [00:09:15,300 - 00:09:18,300] that every American is entitled
+- [00:09:18,300 - 00:09:22,300] to decent health care
+- [00:09:22,300 - 00:09:25,300] and that the government should tax people
+- [00:09:25,300 - 00:09:27,300] if necessary to provide it?
+- [00:09:27,300 - 00:09:29,300] Who else disagrees with that idea?
+- [00:09:32,300 - 00:09:34,300] Yes.
+- [00:09:36,300 - 00:09:39,300] When we talk about entitlements,
+- [00:09:39,300 - 00:09:42,300] we talk about rights.
+- [00:09:42,300 - 00:09:46,300] And a right to health care
+- [00:09:46,300 - 00:09:48,300] being created
+- [00:09:48,300 - 00:09:50,300] by force
+- [00:09:50,300 - 00:09:52,300] is never a right.
+- [00:09:52,300 - 00:09:56,300] A right cannot be extorted
+- [00:09:56,300 - 00:09:58,300] from somebody else
+- [00:09:58,300 - 00:10:00,300] at the point of a knife
+- [00:10:00,300 - 00:10:02,300] at the...
+- [00:10:02,300 - 00:10:05,300] at the payer's throat.
+- [00:10:05,300 - 00:10:06,300] A knife?
+- [00:10:06,300 - 00:10:08,300] You're not referring to what surgeons do.
+- [00:10:08,300 - 00:10:09,300] Well...
+- [00:10:09,300 - 00:10:11,300] You're talking about the state.
+- [00:10:11,300 - 00:10:13,300] There is a certain point,
+- [00:10:13,300 - 00:10:16,300] but this leads away from the principle.
+- [00:10:16,300 - 00:10:19,300] It leads away from the principle of rights.
+- [00:10:19,300 - 00:10:20,300] All right.
+- [00:10:20,300 - 00:10:21,300] So you would say...
+- [00:10:21,300 - 00:10:22,300] And what's your name?
+- [00:10:22,300 - 00:10:23,300] Klaus.
+- [00:10:23,300 - 00:10:24,300] Klaus.
+- [00:10:24,300 - 00:10:25,800] You would say that there
+- [00:10:25,800 - 00:10:27,300] is no right to health care.
+- [00:10:27,300 - 00:10:30,300] Well, we have to define what is a right.
+- [00:10:30,300 - 00:10:31,300] Well, is there...
+- [00:10:31,300 - 00:10:32,300] Because, you know...
+- [00:10:32,300 - 00:10:34,300] On your definition of a right,
+- [00:10:34,300 - 00:10:36,300] is there a right to health care?
+- [00:10:36,300 - 00:10:37,300] No.
+- [00:10:37,300 - 00:10:40,300] Because a right
+- [00:10:40,300 - 00:10:43,300] is only a right to action.
+- [00:10:43,300 - 00:10:46,300] Read the Declaration of Independence.
+- [00:10:46,300 - 00:10:49,300] There are a few enumerated rights
+- [00:10:49,300 - 00:10:52,300] in the Declaration of Independence.
+- [00:10:52,300 - 00:10:53,300] I remember them.
+- [00:10:53,300 - 00:10:54,300] Which says...
+- [00:10:54,300 - 00:10:55,300] Which says...
+- [00:10:55,300 - 00:10:56,300] Life, liberty, and the pursuit of happiness.
+- [00:10:56,300 - 00:10:57,300] Yes.
+- [00:10:57,300 - 00:10:58,300] Yes.
+- [00:10:58,300 - 00:11:01,300] And these are principles of action.
+- [00:11:01,300 - 00:11:03,300] Life is action
+- [00:11:03,300 - 00:11:06,300] because you pursue the values
+- [00:11:06,300 - 00:11:08,300] that sustain your life.
+- [00:11:08,300 - 00:11:09,300] Okay.
+- [00:11:09,300 - 00:11:11,300] Who else takes a similar view?
+- [00:11:11,300 - 00:11:13,300] Go ahead.
+- [00:11:13,300 - 00:11:14,300] All right.
+- [00:11:14,300 - 00:11:16,300] And then we'll come down here.
+- [00:11:16,300 - 00:11:17,300] My name is Jay.
+- [00:11:17,300 - 00:11:18,300] I think my opinion kind
+- [00:11:18,300 - 00:11:19,300] of comes to a similar degree
+- [00:11:19,300 - 00:11:22,300] as the woman who spoke earlier about that coercing someone
+- [00:11:22,300 - 00:11:25,300] to offer service to someone else isn't necessarily fair.
+- [00:11:25,300 - 00:11:29,300] But given your premise that everyone is being paid,
+- [00:11:29,300 - 00:11:32,300] the other concern would be at
+- [00:11:32,300 - 00:11:35,300] what level does decent health care become...
+- [00:11:35,300 - 00:11:37,300] Does everyone have a right to live forever?
+- [00:11:37,300 - 00:11:39,300] Does the government have a right,
+- [00:11:39,300 - 00:11:42,300] like have an obligation to pay for everything forever?
+- [00:11:42,300 - 00:11:44,300] Is that a system that can possibly work
+- [00:11:44,300 - 00:11:45,300] or possibly be sustainable?
+- [00:11:45,300 - 00:11:48,300] What about services normally provided in hospitals
+- [00:11:48,300 - 00:11:51,300] which don't include infinite longevity?
+- [00:11:51,300 - 00:11:53,300] Is everyone entitled to those?
+- [00:11:53,300 - 00:11:54,300] Jay.
+- [00:11:54,300 - 00:11:56,300] Again, it becomes very complicated
+- [00:11:56,300 - 00:11:59,300] because you can have like heart transplants and all...
+- [00:11:59,300 - 00:12:01,300] There are any number of things
+- [00:12:01,300 - 00:12:03,300] that are possible with modern medicine
+- [00:12:03,300 - 00:12:04,300] that just become...
+- [00:12:04,300 - 00:12:06,300] It becomes extravagant at some point.
+- [00:12:06,300 - 00:12:07,300] It's not...
+- [00:12:07,300 - 00:12:09,300] It doesn't seem right,
+- [00:12:09,300 - 00:12:11,300] but you have to make a decision about it.
+- [00:12:11,300 - 00:12:13,300] And I think that's the problem.
+- [00:12:13,300 - 00:12:14,300] And I think that's the problem.
+- [00:12:14,300 - 00:12:17,300] You have to make a decision about distribution.
+- [00:12:17,300 - 00:12:19,300] Hi, my name is Corinne.
+- [00:12:19,300 - 00:12:21,300] Not only is it coercive to the people
+- [00:12:21,300 - 00:12:23,300] who are being forced to pay for this
+- [00:12:23,300 - 00:12:25,300] and being forced to provide these services,
+- [00:12:25,300 - 00:12:26,800] but it's also coercive on the
+- [00:12:26,800 - 00:12:28,300] people who are receiving these services.
+- [00:12:28,300 - 00:12:31,300] In a lot of places where you have universal medicine,
+- [00:12:31,300 - 00:12:32,800] there's often not a lot of
+- [00:12:32,800 - 00:12:34,300] options about what you're able to choose
+- [00:12:34,300 - 00:12:37,300] and what you're able to choose is right for yourself.
+- [00:12:37,300 - 00:12:40,300] Let's stick with the idea of coercion.
+- [00:12:40,300 - 00:12:41,300] Your name is...
+- [00:12:41,300 - 00:12:42,300] Corinne.
+- [00:12:42,300 - 00:12:43,300] Kerwin?
+- [00:12:43,300 - 00:12:44,300] Corinne.
+- [00:12:44,300 - 00:12:45,300] Corinne.
+- [00:12:45,300 - 00:12:48,300] It's coercive to whom?
+- [00:12:48,300 - 00:12:51,300] To tax people for healthcare.
+- [00:12:51,300 - 00:12:52,300] To the taxpayer.
+- [00:12:52,300 - 00:12:53,300] Right. Everyone.
+- [00:12:53,300 - 00:12:54,300] And...
+- [00:12:54,300 - 00:12:55,300] All right.
+- [00:12:55,300 - 00:12:58,300] Let's take that question of coercion.
+- [00:12:58,300 - 00:13:00,300] It's come up a couple of times.
+- [00:13:00,300 - 00:13:02,800] And let's hear if there is
+- [00:13:02,800 - 00:13:05,300] someone who has a reply to it.
+- [00:13:05,300 - 00:13:06,800] Someone who believes that
+- [00:13:06,800 - 00:13:08,300] everyone is entitled to healthcare.
+- [00:13:08,300 - 00:13:12,300] Keep the microphone there.
+- [00:13:12,300 - 00:13:13,300] And let's hear who has a reply.
+- [00:13:13,300 - 00:13:14,300] Yes.
+- [00:13:14,300 - 00:13:15,300] Hi.
+- [00:13:15,300 - 00:13:16,300] My name is Duval.
+- [00:13:16,300 - 00:13:19,300] Regarding coercion I think if you take this idea,
+- [00:13:19,300 - 00:13:24,300] if you extrapolate this idea of
+- [00:13:24,300 - 00:13:29,300] coercion and you apply it to taxes
+- [00:13:29,300 - 00:13:34,300] and you're against coercion when it comes to taxes,
+- [00:13:34,300 - 00:13:36,300] it also means that you're being
+- [00:13:36,300 - 00:13:38,300] used for a more practical use.
+- [00:13:38,300 - 00:13:40,300] You're not giving up on your money.
+- [00:13:40,300 - 00:13:41,300] You're not giving up on your life.
+- [00:13:41,300 - 00:13:42,300] You're giving up on your money.
+- [00:13:42,300 - 00:13:44,480] It also means that you're against any
+- [00:13:44,480 - 00:13:46,660] kind of taxes to begin with, right?
+- [00:13:46,680 - 00:13:48,999] So then you're asking for a government
+- [00:13:48,999 - 00:13:51,319] that has no revenue from taxpayers at all.
+- [00:13:51,660 - 00:13:54,880] So that actually goes beyond health care, right?
+- [00:13:55,160 - 00:13:56,079] Is that what you believe in?
+- [00:13:56,920 - 00:13:57,520] To an extent.
+- [00:13:57,859 - 00:13:59,099] I am often not in favor
+- [00:13:59,099 - 00:14:00,339] of a lot of coercive taxes.
+- [00:14:00,479 - 00:14:01,779] There's a lot of ways to
+- [00:14:01,779 - 00:14:03,079] generate revenue that don't involve taxes.
+- [00:14:03,680 - 00:14:06,530] So you think governments should not have any revenue
+- [00:14:06,530 - 00:14:09,380] whatsoever from any kinds of taxpayers because that's coercive?
+- [00:14:09,380 - 00:14:11,710] There's a lot of ways you can get taxes that
+- [00:14:11,710 - 00:14:14,040] don't involve a tax on the income tax, for example.
+- [00:14:14,100 - 00:14:16,070] I don't want to support an income tax
+- [00:14:16,070 - 00:14:18,040] because that generates taxes from someone else's productivity.
+- [00:14:18,720 - 00:14:20,950] Generating taxes from, say, consumption, I think I
+- [00:14:20,950 - 00:14:23,180] would be more in favor of a consumption tax.
+- [00:14:23,700 - 00:14:27,580] But for health care, yeah, it's coercive to take people's money and
+- [00:14:27,580 - 00:14:31,460] then tell them how to receive health, the health that they want.
+- [00:14:31,820 - 00:14:34,880] But aren't you electing government to make the
+- [00:14:34,880 - 00:14:37,940] decision on where to apply whatever taxes they generate?
+- [00:14:38,560 - 00:14:39,340] So you're saying...
+- [00:14:39,380 - 00:14:41,650] There might be some kinds of taxes that would
+- [00:14:41,650 - 00:14:43,920] be okay to get, but then you're kind of saying,
+- [00:14:44,020 - 00:14:48,060] but it's not okay for the government who's getting that tax from whatever kind
+- [00:14:48,060 - 00:14:52,100] of income it's coming from to decide what it should be doing with it.
+- [00:14:52,540 - 00:14:54,960] Well, there's taxes that go to protecting people's rights.
+- [00:14:55,020 - 00:14:56,920] I support taxes that go to protecting people's rights.
+- [00:14:57,000 - 00:14:59,370] So protecting people's right to property, for
+- [00:14:59,370 - 00:15:01,740] example, as defined in the Declaration of Independence.
+- [00:15:01,880 - 00:15:03,530] So you support a police that
+- [00:15:03,530 - 00:15:05,180] protects people's right to own their property.
+- [00:15:05,280 - 00:15:06,900] It protects the protection of people.
+- [00:15:07,520 - 00:15:09,360] Those kinds of taxes I'm in favor of.
+- [00:15:09,480 - 00:15:13,140] But saying you're taking taxes to apply them to people
+- [00:15:13,140 - 00:15:16,800] for health care that they're necessarily not in favor of,
+- [00:15:17,160 - 00:15:19,980] and telling people how to have health care, telling people what
+- [00:15:19,980 - 00:15:22,800] kinds of health care they're allowed to have, is not right.
+- [00:15:22,800 - 00:15:27,050] So here we have a position, in
+- [00:15:27,050 - 00:15:31,300] the U.S., what is a familiar libertarian position,
+- [00:15:31,920 - 00:15:34,520] and Ron Paul, the libertarian candidate
+- [00:15:34,520 - 00:15:37,120] for the Republican nomination, articulated it.
+- [00:15:37,900 - 00:15:39,220] The libertarian position...
+- [00:15:39,380 - 00:15:43,840] The libertarian position is a position that taxation in order
+- [00:15:43,840 - 00:15:48,300] to protect property rights, to protect people from force and coercion,
+- [00:15:48,600 - 00:15:51,290] to provide for national defense, perhaps,
+- [00:15:51,290 - 00:15:53,980] and the courts, is one thing.
+- [00:15:54,760 - 00:16:00,860] But taxation for the sake of redistribution, or for the sake of
+- [00:16:00,860 - 00:16:06,960] providing health care to everyone, to provide for welfare, is a different matter.
+- [00:16:06,960 - 00:16:08,960] And it's wrong because it's coercive.
+- [00:16:09,380 - 00:16:10,380] Do I have it right?
+- [00:16:10,380 - 00:16:11,380] Yes.
+- [00:16:11,380 - 00:16:12,380] All right.
+- [00:16:12,380 - 00:16:14,380] Now, who would like to reply?
+- [00:16:14,380 - 00:16:18,380] Who disagrees with that view of taxation for health care,
+- [00:16:18,380 - 00:16:22,380] and can explain what you see is wrong with it?
+- [00:16:24,380 - 00:16:26,380] My name is Ruba.
+- [00:16:26,380 - 00:16:28,380] I'd like to go back to
+- [00:16:28,380 - 00:16:30,380] what someone said previously about the right.
+- [00:16:31,380 - 00:16:34,380] Health care is not a service or a product.
+- [00:16:34,380 - 00:16:37,380] It's a basic dignity, human right for everyone.
+- [00:16:37,380 - 00:16:38,380] And along with those rights,
+- [00:16:38,380 - 00:16:39,380] And along with those rights,
+- [00:16:39,380 - 00:16:41,380] And along with those rights,
+- [00:16:41,380 - 00:16:44,380] Along with those rights come responsibilities.
+- [00:16:44,380 - 00:16:46,880] I, for one, don't want to live in a
+- [00:16:46,880 - 00:16:49,380] society that doesn't base the human dignity of life,
+- [00:16:49,380 - 00:16:53,380] and to be a decent standard of living for everyone.
+- [00:16:53,380 - 00:16:55,880] I like to live in a society
+- [00:16:55,880 - 00:16:58,380] where we have that responsibility for one another.
+- [00:16:58,380 - 00:17:01,380] I wouldn't want to live in a society where we throw
+- [00:17:01,380 - 00:17:04,380] our poor, sick people into the street because they can't afford it.
+- [00:17:04,380 - 00:17:06,380] And that's the type of society
+- [00:17:06,380 - 00:17:08,380] I expect my government to give me.
+- [00:17:08,380 - 00:17:09,880] So along with that right
+- [00:17:09,880 - 00:17:11,380] that I want to give everyone,
+- [00:17:11,380 - 00:17:13,880] to have decent basic, maybe, let's call it
+- [00:17:13,880 - 00:17:16,380] basic, if not decent, a basic health care,
+- [00:17:16,380 - 00:17:19,380] I take on that responsibility of
+- [00:17:19,380 - 00:17:22,380] giving whatever contribution I have to give,
+- [00:17:22,380 - 00:17:25,380] so that I can have my children raised in
+- [00:17:25,380 - 00:17:28,380] a society that is decent to all human beings.
+- [00:17:28,380 - 00:17:30,380] All right, Ruba, and let me ask you,
+- [00:17:30,380 - 00:17:32,380] how do you answer the libertarian
+- [00:17:32,380 - 00:17:34,380] objection to what you've just said,
+- [00:17:34,380 - 00:17:37,380] that it might be a wonderful idea,
+- [00:17:37,380 - 00:17:41,380] a wonderful idea to provide health care to everyone,
+- [00:17:41,380 - 00:17:44,880] but doesn't it involve coercing people by
+- [00:17:44,880 - 00:17:48,380] taking their money, their resources, against their will?
+- [00:17:48,380 - 00:17:50,380] How do you answer the coercion argument?
+- [00:17:50,380 - 00:17:52,380] You pay for what you get for.
+- [00:17:52,380 - 00:17:54,880] If I'm not paying anything, then I
+- [00:17:54,880 - 00:17:57,380] don't expect to live in a decent society.
+- [00:17:57,380 - 00:17:59,380] A decent society is one that's judged
+- [00:17:59,380 - 00:18:01,380] on how they treat their most vulnerable.
+- [00:18:01,380 - 00:18:03,380] I will pay to live there, so I
+- [00:18:03,380 - 00:18:05,380] don't feel coerced if I'm getting good value.
+- [00:18:05,380 - 00:18:07,380] I'm getting good value in that I'm innocent.
+- [00:18:07,380 - 00:18:10,380] I'm living in a stable, safe society where
+- [00:18:10,380 - 00:18:13,380] I can raise my kids as decent human beings.
+- [00:18:13,380 - 00:18:14,880] That for me is not coercion.
+- [00:18:14,880 - 00:18:16,380] I would gladly pay for that.
+- [00:18:16,380 - 00:18:18,380] Who disagrees with Ruba?
+- [00:18:18,380 - 00:18:24,380] On the issue of coercion, who disagrees with Ruba?
+- [00:18:24,380 - 00:18:27,380] Yes.
+- [00:18:27,380 - 00:18:29,380] Hi, my name's Sean.
+- [00:18:29,380 - 00:18:30,380] I agree with a lot
+- [00:18:30,380 - 00:18:31,380] of what was just said, actually.
+- [00:18:31,380 - 00:18:33,380] I think it would be a terrible thing to live
+- [00:18:33,380 - 00:18:35,380] in a society that let people be destitute on the street,
+- [00:18:35,380 - 00:18:37,380] let the sick go.
+- [00:18:37,380 - 00:18:39,380] Let the poor go unhelped.
+- [00:18:39,380 - 00:18:40,380] And I think that's, most people
+- [00:18:40,380 - 00:18:41,380] in this room agree with that.
+- [00:18:41,380 - 00:18:42,880] And I think that's exactly why you
+- [00:18:42,880 - 00:18:44,380] don't need a government to do it.
+- [00:18:44,380 - 00:18:45,880] Everybody agrees that it would
+- [00:18:45,880 - 00:18:47,380] be horrible to do these things.
+- [00:18:47,380 - 00:18:48,880] Charitable organizations are designed to
+- [00:18:48,880 - 00:18:50,380] deal with these types of things.
+- [00:18:50,380 - 00:18:52,380] Religious institutions are designed to.
+- [00:18:52,380 - 00:18:53,880] Historically, fraternal societies have been
+- [00:18:53,880 - 00:18:55,380] able to do these things.
+- [00:18:55,380 - 00:18:57,380] There's no problem with helping people.
+- [00:18:57,380 - 00:18:59,380] There's no problem with providing aid to the poor.
+- [00:18:59,380 - 00:19:01,380] The problem is with the coercive mechanism used,
+- [00:19:01,380 - 00:19:04,380] where you take from people involuntarily through taxation,
+- [00:19:04,380 - 00:19:06,380] through government, to provide benefits to other people.
+- [00:19:06,380 - 00:19:08,880] As long as it's done voluntarily,
+- [00:19:08,880 - 00:19:11,380] these are very worthwhile, great goals.
+- [00:19:11,380 - 00:19:15,380] And Sean, why is it a bad thing,
+- [00:19:15,380 - 00:19:20,380] if it's a worthwhile goal, for private charities,
+- [00:19:20,380 - 00:19:22,880] why is it not also a
+- [00:19:22,880 - 00:19:25,380] worthwhile goal for collective state action,
+- [00:19:25,380 - 00:19:28,380] for people of a democracy to
+- [00:19:28,380 - 00:19:31,380] tax themselves to advance those worthy goals?
+- [00:19:31,380 - 00:19:32,880] There's nothing wrong with
+- [00:19:32,880 - 00:19:34,380] people donating to the government.
+- [00:19:34,380 - 00:19:35,380] The very fact that we have
+- [00:19:35,380 - 00:19:36,380] taxation is proof it's not a donation,
+- [00:19:36,380 - 00:19:38,380] because it's forced.
+- [00:19:38,380 - 00:19:41,380] The government is willing to accept charitable donations,
+- [00:19:41,380 - 00:19:42,380] but you don't give it there.
+- [00:19:42,380 - 00:19:43,380] In fact, it's not a
+- [00:19:43,380 - 00:19:44,380] very effective way to do it.
+- [00:19:44,380 - 00:19:46,380] You'd be better off giving it to American Red Cross,
+- [00:19:46,380 - 00:19:49,380] to giving it to Catholic hospitals,
+- [00:19:49,380 - 00:19:50,880] to giving it to other institutions that
+- [00:19:50,880 - 00:19:52,380] could do it more effectively and more efficiently.
+- [00:19:52,380 - 00:19:54,380] This is why people don't donate to the federal government.
+- [00:19:54,380 - 00:19:56,380] They donate it to actual institutions that
+- [00:19:56,380 - 00:19:58,380] are much better able to handle the poor.
+- [00:19:58,380 - 00:20:00,380] All right, so it would be
+- [00:20:00,380 - 00:20:02,380] a good thing for private charity
+- [00:20:02,380 - 00:20:04,380] to help people with their healthcare needs.
+- [00:20:04,380 - 00:20:08,380] But the government should not coerce people,
+- [00:20:08,380 - 00:20:11,380] should not coerce taxpayers to provide for this end.
+- [00:20:11,380 - 00:20:12,380] What do you say?
+- [00:20:12,380 - 00:20:13,880] I would go back to
+- [00:20:13,880 - 00:20:15,380] the notion of the social contract.
+- [00:20:15,380 - 00:20:18,380] If we pay taxes and we go to war,
+- [00:20:18,380 - 00:20:20,380] to go to war you need to be alive.
+- [00:20:20,380 - 00:20:22,380] So the first basic argument is
+- [00:20:22,380 - 00:20:24,380] to be alive and to be healthy
+- [00:20:24,380 - 00:20:26,380] in order to leave the basic
+- [00:20:26,380 - 00:20:28,380] notion of a life, but decent life.
+- [00:20:28,380 - 00:20:31,380] So if you're paying taxes for going to war,
+- [00:20:31,380 - 00:20:33,380] that would be coercive much more than paying taxes
+- [00:20:33,380 - 00:20:34,380] to have a life.
+- [00:20:34,380 - 00:20:36,380] So if you're paying taxes for going to war,
+- [00:20:36,380 - 00:20:38,380] you need to have a decent healthcare.
+- [00:20:38,380 - 00:20:40,380] And tell us about the social contract.
+- [00:20:40,380 - 00:20:41,380] Tell me your name again.
+- [00:20:41,380 - 00:20:42,380] Yael.
+- [00:20:42,380 - 00:20:43,380] Yael.
+- [00:20:43,380 - 00:20:45,380] The social contract you point to, Yael.
+- [00:20:45,380 - 00:20:48,380] Now some people have referred here,
+- [00:20:48,380 - 00:20:51,380] defenders of libertarianism here have referred
+- [00:20:51,380 - 00:20:54,380] to the U.S. Declaration of Independence,
+- [00:20:54,380 - 00:20:56,880] which says that there is a right
+- [00:20:56,880 - 00:20:59,380] to life, liberty, and the pursuit of happiness.
+- [00:20:59,380 - 00:21:03,380] Now you, Yael, have referred to the social contract.
+- [00:21:03,380 - 00:21:06,380] What is the social contract exactly and
+- [00:21:06,380 - 00:21:09,380] when did we sign up for it?
+- [00:21:09,380 - 00:21:11,380] Well, it comes from the French first.
+- [00:21:11,380 - 00:21:13,380] But it comes from the French people.
+- [00:21:13,380 - 00:21:15,380] I think the origins we can trace them back,
+- [00:21:15,380 - 00:21:17,380] track them back to the French people.
+- [00:21:17,380 - 00:21:19,380] But once you have the Declaration of Independence
+- [00:21:19,380 - 00:21:21,380] and you have these three things,
+- [00:21:21,380 - 00:21:23,380] I mean the pursuit of happiness and being alive,
+- [00:21:23,380 - 00:21:24,380] they're there.
+- [00:21:24,380 - 00:21:26,380] So being happy also...
+- [00:21:26,380 - 00:21:27,380] But wait, wait, wait.
+- [00:21:27,380 - 00:21:29,380] I still want to know about the social contract.
+- [00:21:29,380 - 00:21:30,380] What is it exactly?
+- [00:21:30,380 - 00:21:31,380] Well, you give away.
+- [00:21:31,380 - 00:21:32,380] You give away some of your rights.
+- [00:21:32,380 - 00:21:34,380] You give it to the state.
+- [00:21:34,380 - 00:21:35,380] You give away that.
+- [00:21:35,380 - 00:21:37,380] And the state respects those rights.
+- [00:21:37,380 - 00:21:39,380] And not only respects those rights,
+- [00:21:39,380 - 00:21:42,380] but provides for security, provides for health,
+- [00:21:42,380 - 00:21:44,380] provides for other basics that the
+- [00:21:44,380 - 00:21:46,380] human to live a decent life.
+- [00:21:46,380 - 00:21:49,380] And is there one social contract for the whole world?
+- [00:21:49,380 - 00:21:53,380] Does each nation have its own social contract?
+- [00:21:53,380 - 00:21:56,380] Did people actually sign up for it?
+- [00:21:56,380 - 00:21:58,380] Or is it something that we just imagine?
+- [00:21:58,380 - 00:21:59,880] Well, as we're multiple human
+- [00:21:59,880 - 00:22:01,380] beings with different basic beliefs,
+- [00:22:01,380 - 00:22:02,380] it varies.
+- [00:22:02,380 - 00:22:03,880] And everyone, every country, every
+- [00:22:03,880 - 00:22:05,380] state has a different notion
+- [00:22:05,380 - 00:22:07,380] and interpretation of the social contract.
+- [00:22:07,380 - 00:22:10,380] I can tell that some countries have adopted those notions
+- [00:22:10,380 - 00:22:12,380] into the Declaration of Independence,
+- [00:22:12,380 - 00:22:15,380] such as France and the US.
+- [00:22:15,380 - 00:22:16,380] Yes.
+- [00:22:20,380 - 00:22:21,380] My name is Sheru.
+- [00:22:21,380 - 00:22:23,380] And back to the idea of coercion.
+- [00:22:23,380 - 00:22:25,380] I would say that a society
+- [00:22:25,380 - 00:22:27,380] that allows the majority of the poor
+- [00:22:27,380 - 00:22:30,380] to go without basic necessities would in fact be coercive.
+- [00:22:30,380 - 00:22:33,380] Because it would be inducing poverty.
+- [00:22:35,380 - 00:22:38,380] So there is coercion in allowing poverty
+- [00:22:38,380 - 00:22:42,380] and desperate economic necessity to persist.
+- [00:22:42,380 - 00:22:44,380] There's coercion in that.
+- [00:22:44,380 - 00:22:45,380] Yes.
+- [00:22:45,380 - 00:22:48,380] If people live lives that are
+- [00:22:48,380 - 00:22:51,380] under the shadow, under the burden.
+- [00:22:51,380 - 00:22:53,380] Yes. And this stems from a lack of...
+- [00:22:53,380 - 00:22:55,380] Then they're coerced.
+- [00:22:55,380 - 00:22:56,380] In what sense are they coerced?
+- [00:22:56,380 - 00:22:57,880] I would say that this stems
+- [00:22:57,880 - 00:22:59,380] from a lack of equal opportunity.
+- [00:22:59,380 - 00:23:01,380] Because I believe that when
+- [00:23:01,380 - 00:23:03,380] we talk about the life, liberty,
+- [00:23:03,380 - 00:23:05,380] and the pursuit of happiness,
+- [00:23:05,380 - 00:23:06,380] that doesn't really...
+- [00:23:06,380 - 00:23:08,380] That is only in an equal society.
+- [00:23:08,380 - 00:23:10,380] And if we aren't all born
+- [00:23:10,380 - 00:23:12,380] into equal means and equal opportunity,
+- [00:23:12,380 - 00:23:15,380] then there will be no pursuit of happiness for some.
+- [00:23:15,380 - 00:23:17,380] Yes. What do you say?
+- [00:23:18,380 - 00:23:19,380] Hi.
+- [00:23:21,380 - 00:23:22,380] I personally kind of agree.
+- [00:23:22,380 - 00:23:24,380] My name is John.
+- [00:23:24,380 - 00:23:26,380] I believe that a society that does not
+- [00:23:26,380 - 00:23:28,380] provide for the poorest part of the population,
+- [00:23:28,380 - 00:23:29,380] is essentially...
+- [00:23:29,380 - 00:23:30,880] I mean, there's a lot of coercion going
+- [00:23:30,880 - 00:23:32,380] on in the society that we don't think about.
+- [00:23:32,380 - 00:23:34,380] There's the property rights.
+- [00:23:34,380 - 00:23:36,380] If I go into your garden
+- [00:23:36,380 - 00:23:38,380] and you call the police on me,
+- [00:23:38,380 - 00:23:40,880] they will coerce me out of the garden
+- [00:23:40,880 - 00:23:43,380] because you have the right to that house.
+- [00:23:43,380 - 00:23:47,380] The society is a massive entity that
+- [00:23:47,380 - 00:23:51,380] has stuff you give and stuff you take,
+- [00:23:51,380 - 00:23:53,380] back to the social contract.
+- [00:23:53,380 - 00:23:54,880] And I just feel people just
+- [00:23:54,880 - 00:23:56,380] too easily bind to this argument that,
+- [00:23:56,380 - 00:23:57,380] you know,
+- [00:23:57,380 - 00:24:00,380] people who get entitlements are the people who don't work.
+- [00:24:00,380 - 00:24:02,880] I mean, you have so many
+- [00:24:02,880 - 00:24:05,380] injustices that have accumulated over the years.
+- [00:24:05,380 - 00:24:07,380] Redistribution makes sense on...
+- [00:24:07,380 - 00:24:09,380] Sorry, I'm just rambling.
+- [00:24:11,380 - 00:24:12,380] You're passionate, it sounds.
+- [00:24:12,380 - 00:24:13,880] I do think there is a
+- [00:24:13,880 - 00:24:15,380] lot of coercion in the society,
+- [00:24:15,380 - 00:24:17,380] even just basically with property rights.
+- [00:24:17,380 - 00:24:19,380] If we are enforcing that,
+- [00:24:19,380 - 00:24:22,380] we should give back to people.
+- [00:24:22,380 - 00:24:24,380] It's not just about the people.
+- [00:24:24,380 - 00:24:25,380] It's about the people.
+- [00:24:25,380 - 00:24:26,380] It's about the people.
+- [00:24:26,380 - 00:24:29,380] It's a give or take.
+- [00:24:29,380 - 00:24:34,380] So you say, you agree with the suggestion earlier
+- [00:24:34,380 - 00:24:38,380] that there is coercion built into society
+- [00:24:38,380 - 00:24:40,380] and people who are sick and can't get healthcare
+- [00:24:40,380 - 00:24:42,380] are effectively coerced.
+- [00:24:42,380 - 00:24:44,880] The people who are poor and can't
+- [00:24:44,880 - 00:24:47,380] send their children to get an education
+- [00:24:47,380 - 00:24:48,380] are coerced.
+- [00:24:48,380 - 00:24:49,380] They're not living free lives.
+- [00:24:49,380 - 00:24:51,380] Is that what you're suggesting, John?
+- [00:24:51,380 - 00:24:53,380] If they are trapped in poverty,
+- [00:24:53,380 - 00:24:55,380] if they cannot find a way out,
+- [00:24:55,380 - 00:24:56,880] if you're not giving them
+- [00:24:56,880 - 00:24:58,380] the opportunity to educate themselves,
+- [00:24:58,380 - 00:25:00,380] if you're not giving them the chance...
+- [00:25:00,380 - 00:25:02,380] Because sickness is random.
+- [00:25:02,380 - 00:25:03,380] It can happen to anyone.
+- [00:25:03,380 - 00:25:05,380] You can do dumb things, you can increase the risks,
+- [00:25:05,380 - 00:25:07,380] but sickness is random.
+- [00:25:07,380 - 00:25:09,380] And if it can happen to anyone,
+- [00:25:09,380 - 00:25:10,380] when it happens to the poor,
+- [00:25:10,380 - 00:25:12,380] and when you don't give them
+- [00:25:12,380 - 00:25:14,380] the chance to get decent medical treatment,
+- [00:25:14,380 - 00:25:16,380] you essentially give them a disadvantage.
+- [00:25:16,380 - 00:25:19,380] And so you coerce them into staying down,
+- [00:25:19,380 - 00:25:20,380] just keeping them down.
+- [00:25:20,380 - 00:25:21,380] Keeping them down,
+- [00:25:21,380 - 00:25:24,380] and therefore people who are ill and can't get healthcare
+- [00:25:24,380 - 00:25:26,380] lack the opportunity to rise.
+- [00:25:26,380 - 00:25:28,380] People who don't have enough to eat
+- [00:25:28,380 - 00:25:29,380] and aren't provided for
+- [00:25:29,380 - 00:25:31,380] lack genuine equality of opportunity.
+- [00:25:31,380 - 00:25:34,380] And likewise with education and welfare, you would say.
+- [00:25:34,380 - 00:25:36,380] And what's interesting here
+- [00:25:36,380 - 00:25:40,380] is that on both sides of this argument
+- [00:25:40,380 - 00:25:42,380] about healthcare,
+- [00:25:42,380 - 00:25:45,380] and for that matter, about the welfare state,
+- [00:25:45,380 - 00:25:49,380] the value being appealed to, as I hear the discussion,
+- [00:25:49,380 - 00:25:51,380] is the same value.
+- [00:25:51,380 - 00:25:53,380] There are different versions of it.
+- [00:25:53,380 - 00:25:56,380] But the value at stake seems to be
+- [00:25:56,380 - 00:25:59,380] freedom as against coercion.
+- [00:25:59,380 - 00:26:03,380] There's a disagreement about what counts as coercion.
+- [00:26:03,380 - 00:26:06,380] The libertarian voices that argue
+- [00:26:06,380 - 00:26:09,380] against an entitlement to healthcare say
+- [00:26:09,634 - 00:26:11,134] で
+- [00:26:11,138 - 00:26:13,158] taxing people to pay for other
+- [00:26:13,158 - 00:26:15,178] people's health care is coercing them.
+- [00:26:15,898 - 00:26:19,458] The defenders of a right to health care also invoke
+- [00:26:20,078 - 00:26:22,078] the freedom coercion idea.
+- [00:26:22,658 - 00:26:26,308] And they say people who lack the basic necessities
+- [00:26:26,308 - 00:26:29,958] of life including health care are not truly free,
+- [00:26:30,178 - 00:26:32,318] but are in effect
+- [00:26:33,338 - 00:26:36,168] coerced. I want to see if there
+- [00:26:36,168 - 00:26:38,998] are any other arguments in favor of
+- [00:26:38,998 - 00:26:42,728] a right to health care in favor of the
+- [00:26:42,728 - 00:26:46,458] idea that the members of a society owe one another
+- [00:26:48,218 - 00:26:51,458] good health care and welfare that
+- [00:26:51,458 - 00:26:54,698] does not rely on the idea of
+- [00:26:55,458 - 00:26:58,557] freedom or its opposite coercion. Is there anyone
+- [00:26:58,557 - 00:27:01,657] who has an argument in favor of health care
+- [00:27:02,678 - 00:27:05,998] that draws on other other values? Yes.
+- [00:27:05,998 - 00:27:08,968] Good night. My name is
+- [00:27:08,968 - 00:27:11,938] Juan Pablo. I'm from Colombia and
+- [00:27:13,157 - 00:27:16,167] I'm sorry if I will be emotional, but
+- [00:27:16,167 - 00:27:19,177] this is a topic that involves a lot of
+- [00:27:19,698 - 00:27:23,438] feelings and more if I'm coming from a
+- [00:27:24,218 - 00:27:28,358] very poor country we deal with what you
+- [00:27:28,358 - 00:27:32,498] are talking about and I'm really surprised that
+- [00:27:33,218 - 00:27:35,677] actually there are some people that could
+- [00:27:35,998 - 00:27:39,038] question that statement that you firstly
+- [00:27:39,838 - 00:27:42,938] appointed. You're surprised that some people are against a
+- [00:27:42,938 - 00:27:46,038] right to health care. Yeah, exactly. I'm like very
+- [00:27:46,498 - 00:27:49,268] very surprised. And why do you think it should go
+- [00:27:49,268 - 00:27:52,038] without saying that there is a right to health care?
+- [00:27:52,038 - 00:27:54,038] What would be your reason?
+- [00:27:54,938 - 00:27:56,938] Well, and I
+- [00:27:57,798 - 00:28:01,278] don't believe that any people in any person should be
+- [00:28:01,998 - 00:28:05,598] not able to access to health care. I will
+- [00:28:05,998 - 00:28:11,118] it seems like the people who are in favor of
+- [00:28:11,758 - 00:28:13,758] not having a health care,
+- [00:28:13,918 - 00:28:17,347] they don't see what is going on around. I will
+- [00:28:17,347 - 00:28:20,777] invite them to go to Colombia and see these people.
+- [00:28:20,878 - 00:28:22,878] They don't have anything.
+- [00:28:23,618 - 00:28:26,078] But I think that you can go
+- [00:28:27,238 - 00:28:29,928] like some corners and you
+- [00:28:29,928 - 00:28:32,618] will see homeless people that need
+- [00:28:33,058 - 00:28:35,798] some help and it could be just a thing
+- [00:28:35,998 - 00:28:37,998] of human rights.
+- [00:28:37,998 - 00:28:39,498] You see it as a fundamental
+- [00:28:39,498 - 00:28:40,998] human right. It's a fundamental human right.
+- [00:28:40,998 - 00:28:43,818] Let's see what others have to say. Yes.
+- [00:28:45,758 - 00:28:47,458] My name is Ben.
+- [00:28:47,458 - 00:28:50,038] In the United States, many of us believe that
+- [00:28:50,878 - 00:28:54,078] public education, especially for children, is a very
+- [00:28:54,078 - 00:28:57,278] important foundation for a thriving democracy. That one cannot
+- [00:28:57,758 - 00:29:01,228] effectively participate in democracy without an adequate education.
+- [00:29:01,228 - 00:29:04,698] I would extend that and say without an adequate
+- [00:29:05,998 - 00:29:08,718] health care system, our democracy cannot thrive.
+- [00:29:08,718 - 00:29:11,568] I think that there's also a national security
+- [00:29:11,568 - 00:29:14,418] basis for that. In an age of being
+- [00:29:14,878 - 00:29:18,908] interconnected in a global world, in an age of
+- [00:29:18,908 - 00:29:22,938] pandemics and other mass diseases that affect public health,
+- [00:29:23,398 - 00:29:27,168] we cannot allow people to go untreated. If one person
+- [00:29:27,168 - 00:29:30,938] is suffering, not only is that an injustice for that individual,
+- [00:29:31,158 - 00:29:34,838] but it also endangers the general health of a society.
+- [00:29:34,838 - 00:29:35,338] All right, 11.
+- [00:29:35,338 - 00:29:35,838] The global health crisis.
+- [00:29:35,998 - 00:29:38,258] Well, let me ask you about your
+- [00:29:38,258 - 00:29:40,518] argument from democracy. Why does democracy require
+- [00:29:41,218 - 00:29:42,858] that everyone in the society
+- [00:29:42,858 - 00:29:44,498] be provided health care and education?
+- [00:29:45,098 - 00:29:49,068] So, democracy, one of the assumptions that I think the founding fathers in
+- [00:29:49,068 - 00:29:53,038] the United States discussed, Thomas Jefferson and so forth, argued that we need
+- [00:29:53,438 - 00:29:56,458] informed, knowledgeable people. If we have people that are
+- [00:29:57,078 - 00:30:00,908] misinformed or uninformed, they're participating in a deliberative
+- [00:30:00,908 - 00:30:04,738] decision-making process, the deliberations will not be informative.
+- [00:30:04,978 - 00:30:05,978] So, we have to have a
+- [00:30:06,118 - 00:30:11,618] basis of common standards. People have to understand the 2 plus 2 equals 4, etc. And
+- [00:30:11,618 - 00:30:17,118] I would argue that if you're not adequately healthy, you cannot engage in that deliberative process.
+- [00:30:17,118 - 00:30:19,598] If you're too sick to participate
+- [00:30:19,598 - 00:30:22,078] in a political process, democracy suffers.
+- [00:30:22,078 - 00:30:23,338] What do you say?
+- [00:30:23,338 - 00:30:29,338] I'm Joyce, and I can understand that people think, look at
+- [00:30:29,338 - 00:30:35,338] the person who's sick and want to go to the hospital.
+- [00:30:35,338 - 00:30:38,838] I'm not a person who's sick and wants the person to get well. And I'm
+- [00:30:38,838 - 00:30:42,338] not, I don't have a lot of information about health care, but I have about housing.
+- [00:30:44,398 - 00:30:48,898] And the government involvement in housing in my business ended my business. I bought
+- [00:30:48,898 - 00:30:53,398] a piece of property. I live there. I was so completely harassed by HUD.
+- [00:30:58,318 - 00:31:01,818] People I could no longer, in a year and a half I had to sell the
+- [00:31:01,818 - 00:31:05,318] property. People paid twice the price for a year and a half to pay for the property.
+- [00:31:05,338 - 00:31:09,888] But I did not make it to
+- [00:31:09,888 - 00:31:14,438] your son's or my sister's importante. ..
+- [00:31:14,438 - 00:31:15,538] The absorbs corporations.
+- [00:31:15,538 - 00:31:17,578] I mean obviously you're old, press on the 거기.
+- [00:31:17,578 - 00:31:19,157] Actually, the politics slide is old
+- [00:31:19,157 - 00:31:20,737] folks always tell the politicians about insurance.
+- [00:31:20,737 - 00:31:26,427] And even though my wife is a sideline- portion of who my family is, that amount of money either it is money
+- [00:31:26,427 - 00:31:32,118] for your family or your kids money for having kids in youric and my with your children with the grandchildren or your
+- [00:31:32,118 - 00:31:34,297] children Почему do the Gr Count mice instead of?
+- [00:31:34,297 - 00:31:34,398] Absolutely.
+- [00:31:34,398 - 00:31:34,918] Several problems that we don't?
+- [00:31:34,918 - 00:31:35,057] I think they're
+- [00:31:35,057 - 00:31:35,258] interesting.
+- [00:31:35,258 - 00:31:35,338] They give them a lot of money, for sure.
+- [00:31:35,338 - 00:31:38,838] government do it, it really doesn't work.
+- [00:31:38,838 - 00:31:39,838] Let me ask you this Joyce.
+- [00:31:39,838 - 00:31:40,838] And the amount of money we spend.
+- [00:31:40,838 - 00:31:41,838] Let me ask you this Joyce.
+- [00:31:41,838 - 00:31:45,037] The Medicare, Medicare is a program
+- [00:31:45,037 - 00:31:48,237] in the United States providing government funded
+- [00:31:48,237 - 00:31:54,418] healthcare for people who have retired, people 65 and older.
+- [00:31:54,418 - 00:31:57,038] And this has been in place since the 1960s.
+- [00:31:57,038 - 00:32:00,098] Do you think government should get out of Medicare?
+- [00:32:00,098 - 00:32:03,398] Should the US drop the Medicare program?
+- [00:32:03,398 - 00:32:06,797] The Medicare program I honestly just don't know about.
+- [00:32:06,797 - 00:32:09,777] But to start having all the healthcare
+- [00:32:09,777 - 00:32:12,758] in the country and having people dependent more
+- [00:32:12,758 - 00:32:14,938] and more on the government,
+- [00:32:14,938 - 00:32:17,118] which really, really doesn't work.
+- [00:32:17,118 - 00:32:19,508] I think the intention might be good,
+- [00:32:19,508 - 00:32:21,898] but I think the results will be awful.
+- [00:32:21,898 - 00:32:22,898] Thank you.
+- [00:32:22,898 - 00:32:23,898] Yes.
+- [00:32:23,898 - 00:32:25,898] Say it again.
+- [00:32:25,898 - 00:32:26,898] Alex.
+- [00:32:26,898 - 00:32:30,148] I'd like to start with the
+- [00:32:30,148 - 00:32:33,398] issue of coercion that was going around.
+- [00:32:33,398 - 00:32:35,398] And I think I can end at a different note.
+- [00:32:35,398 - 00:32:37,597] I think most people are talking about
+- [00:32:37,597 - 00:32:39,797] with regards to coercion, the notion of forcing
+- [00:32:39,797 - 00:32:42,847] unwilling taxpayers against their will to provide
+- [00:32:42,847 - 00:32:45,898] healthcare for people who are in need.
+- [00:32:45,898 - 00:32:47,198] And I think it's been mentioned a
+- [00:32:47,198 - 00:32:48,498] couple times in this room so far.
+- [00:32:48,498 - 00:32:50,308] And I think it kind of gets to the root
+- [00:32:50,308 - 00:32:52,118] of the logic behind that way of looking at it
+- [00:32:52,118 - 00:32:55,128] is people describe it as people taking
+- [00:32:55,128 - 00:32:58,138] my money and giving it to somebody else.
+- [00:32:58,138 - 00:33:00,378] That idea of some other citizen.
+- [00:33:00,378 - 00:33:01,587] You got to repeat that, but
+- [00:33:01,587 - 00:33:02,797] start again with the microphone closed.
+- [00:33:02,798 - 00:33:04,798] I'll put the microphone closer to your mouth.
+- [00:33:04,798 - 00:33:05,798] Okay.
+- [00:33:05,798 - 00:33:07,618] Just the last two sentences.
+- [00:33:07,618 - 00:33:10,428] I think people have mentioned the notion of
+- [00:33:10,428 - 00:33:13,238] being coerced into giving their money to somebody
+- [00:33:13,238 - 00:33:14,398] else.
+- [00:33:14,398 - 00:33:16,928] And I think that notion kind of goes against
+- [00:33:16,928 - 00:33:19,458] a very kind of core value in the American
+- [00:33:19,458 - 00:33:21,318] culture of citizenship.
+- [00:33:21,318 - 00:33:23,598] It's not somebody else who's receiving your money.
+- [00:33:23,598 - 00:33:27,378] It's a fellow citizen of America who's receiving your money.
+- [00:33:27,378 - 00:33:30,078] And I think by looking at other citizens
+- [00:33:30,078 - 00:33:32,778] as some other entity who's not receiving your
+- [00:33:32,798 - 00:33:34,478] money.
+- [00:33:34,478 - 00:33:37,338] This is a struggle that we see more often.
+- [00:33:37,338 - 00:33:58,058] And I think we're quite 시간ally making thened
+- [00:33:58,058 - 00:34:00,398] out of anypektuz as all of us.
+- [00:34:00,398 - 00:34:01,558] At least thus far.
+- [00:34:01,558 - 00:34:02,598] Very funny.
+- [00:34:02,598 - 00:34:03,818] I want to ask you a
+- [00:34:03,818 - 00:34:05,038] question, and tell me your name.
+- [00:34:05,038 - 00:34:05,877] Alex.
+- [00:34:05,877 - 00:34:06,698] Alex.
+- [00:34:07,598 - 00:34:11,098] You say that the case, Alex, for healthcare,
+- [00:34:12,898 - 00:34:16,357] government supported healthcare or welfare,
+- [00:34:16,357 - 00:34:20,098] is not really a matter of asking taxpayers
+- [00:34:20,098 - 00:34:23,458] to pay for somebody else's needs,
+- [00:34:23,458 - 00:34:25,737] health or welfare or housing.
+- [00:34:25,737 - 00:34:26,918] Correct.
+- [00:34:26,918 - 00:34:31,078] It's asking people to support their fellow citizens.
+- [00:34:32,598 - 00:34:33,437] Correct.
+- [00:34:33,437 - 00:34:35,638] So it's not really someone else.
+- [00:34:35,638 - 00:34:36,478] Correct.
+- [00:34:36,478 - 00:34:37,838] Now can you explain,
+- [00:34:37,838 - 00:34:40,578] because you've heard there are critics here of this idea.
+- [00:34:40,578 - 00:34:41,937] So I've heard, yeah.
+- [00:34:41,937 - 00:34:44,777] Who do consider that taxing some
+- [00:34:46,737 - 00:34:49,538] to provide healthcare for others
+- [00:34:50,717 - 00:34:52,797] is a violation of the
+- [00:34:52,797 - 00:34:54,878] rights of those who are taxed.
+- [00:34:56,297 - 00:34:57,378] Why should we,
+- [00:34:58,538 - 00:35:00,568] and by we I assume you
+- [00:35:00,568 - 00:35:02,598] mean the citizens of a country,
+- [00:35:02,598 - 00:35:06,218] why should we not regard our fellow citizens
+- [00:35:06,218 - 00:35:08,238] as somebody else,
+- [00:35:08,238 - 00:35:12,398] but instead as people for whom we're responsible?
+- [00:35:14,498 - 00:35:15,858] Well I think it goes
+- [00:35:15,858 - 00:35:17,218] back to the Declaration of Independence
+- [00:35:17,218 - 00:35:21,378] and that notion of forming a more perfect union
+- [00:35:21,378 - 00:35:24,998] which is capable of ensuring the life, liberty,
+- [00:35:24,998 - 00:35:26,998] and the pursuit of happiness of all of those
+- [00:35:26,998 - 00:35:27,838] who are a member of the union.
+- [00:35:27,838 - 00:35:31,238] Well let's put aside the Declaration of Independence,
+- [00:35:31,238 - 00:35:32,478] the language of forming a more perfect union,
+- [00:35:32,478 - 00:35:36,638] actually is from the preamble to the US Constitution.
+- [00:35:36,638 - 00:35:39,638] So Alex, you've introduced the idea
+- [00:35:39,638 - 00:35:42,138] of forming a more perfect union
+- [00:35:44,138 - 00:35:48,298] where we don't regard our fellow citizens as somebody else,
+- [00:35:48,298 - 00:35:51,298] but as part of us, is that the idea?
+- [00:35:52,438 - 00:35:55,098] Correct, and I think people might underestimate
+- [00:35:55,098 - 00:35:57,718] how dependent we're all on each other
+- [00:35:57,718 - 00:36:01,098] with regards to maintaining our own personal rights,
+- [00:36:01,098 - 00:36:02,458] and I think,
+- [00:36:02,478 - 00:36:06,978] by assuming that one is capable of maintaining those rights
+- [00:36:06,978 - 00:36:09,578] solely on their own as an individual
+- [00:36:09,578 - 00:36:12,078] without the help of that greater union,
+- [00:36:13,938 - 00:36:14,898] it's questionable.
+- [00:36:14,898 - 00:36:18,778] It sounds almost like the idea,
+- [00:36:18,778 - 00:36:20,258] your idea of citizenship
+- [00:36:20,258 - 00:36:22,598] almost sounds like the idea of a family.
+- [00:36:24,798 - 00:36:28,998] If I provide healthcare for my son or daughter
+- [00:36:29,838 - 00:36:31,258] or a family member,
+- [00:36:32,478 - 00:36:34,238] it doesn't feel like paying
+- [00:36:34,238 - 00:36:37,078] for somebody else's healthcare.
+- [00:36:37,078 - 00:36:37,918] Correct.
+- [00:36:37,918 - 00:36:41,058] Do you think that citizenship is kind of like
+- [00:36:41,058 - 00:36:43,098] being a member of a family?
+- [00:36:43,098 - 00:36:44,618] Is that what you're suggesting?
+- [00:36:44,618 - 00:36:46,638] I think it can be considered like that,
+- [00:36:46,638 - 00:36:48,338] and it can be considered otherwise,
+- [00:36:48,338 - 00:36:49,418] and in that respect,
+- [00:36:49,418 - 00:36:52,238] there's truly no right or wrong answer.
+- [00:36:52,238 - 00:36:54,018] And what do you do, Alex,
+- [00:36:54,018 - 00:36:55,718] if people say,
+- [00:36:56,758 - 00:36:58,808] I don't feel as though
+- [00:36:58,808 - 00:37:00,858] I'm connected in some deep way
+- [00:37:00,858 - 00:37:04,018] to people who live
+- [00:37:05,198 - 00:37:06,598] 2,000 miles away from me,
+- [00:37:06,598 - 00:37:07,798] whom I've never met,
+- [00:37:07,798 - 00:37:09,778] even though they are fellow Americans.
+- [00:37:09,778 - 00:37:11,198] What would you say to them?
+- [00:37:11,198 - 00:37:14,258] I would say they underestimate their dependency
+- [00:37:14,258 - 00:37:16,128] on the welfare of each
+- [00:37:16,128 - 00:37:17,998] and every citizen in this country
+- [00:37:17,998 - 00:37:20,798] in order to sustain their own personal rights.
+- [00:37:20,798 - 00:37:22,558] I think there's more mutual
+- [00:37:22,558 - 00:37:24,318] dependency than they might think.
+- [00:37:25,198 - 00:37:27,038] So shared identity has something to do
+- [00:37:27,038 - 00:37:28,678] with mutual dependency.
+- [00:37:28,678 - 00:37:29,958] Correct.
+- [00:37:29,958 - 00:37:30,798] And that,
+- [00:37:30,858 - 00:37:33,798] provides an idea of commonality
+- [00:37:33,798 - 00:37:35,798] that you think argues for
+- [00:37:36,798 - 00:37:40,098] the obligation to provide everyone with healthcare
+- [00:37:40,098 - 00:37:43,098] and welfare and maybe education.
+- [00:37:43,098 - 00:37:43,938] Correct.
+- [00:37:43,938 - 00:37:45,238] What do you say?
+- [00:37:47,078 - 00:37:48,518] My name is Skyler,
+- [00:37:48,518 - 00:37:51,098] and I would like to argue that
+- [00:37:51,098 - 00:37:54,238] the utility associated for all of us
+- [00:37:54,238 - 00:37:57,618] with providing universal healthcare is significant.
+- [00:37:57,618 - 00:37:59,238] I think that the quality of my life depends on,
+- [00:37:59,238 - 00:38:00,198] I think,
+- [00:38:00,198 - 00:38:02,038] the quality of my life depends on the quality
+- [00:38:02,038 - 00:38:03,698] of everyone else's.
+- [00:38:03,698 - 00:38:07,018] So if we provide preventative care now,
+- [00:38:07,018 - 00:38:10,257] then the cost of expensive treatments down the line
+- [00:38:10,257 - 00:38:11,418] will be lower.
+- [00:38:11,418 - 00:38:13,877] And if we provide care to everyone,
+- [00:38:13,877 - 00:38:17,577] I won't be exposed to contagious diseases as much.
+- [00:38:17,577 - 00:38:21,837] So I think that universal healthcare is a matter
+- [00:38:21,837 - 00:38:26,837] of increasing the common good of the entire society.
+- [00:38:27,138 - 00:38:28,318] And you say, Skyler,
+- [00:38:28,318 - 00:38:30,138] it's a matter of increasing the common good,
+- [00:38:30,138 - 00:38:32,998] because it will promote public health,
+- [00:38:32,998 - 00:38:35,678] it'll prevent epidemics, that sort of thing?
+- [00:38:35,678 - 00:38:36,518] Exactly.
+- [00:38:36,518 - 00:38:39,578] And what do you think about Alex's suggestion
+- [00:38:39,578 - 00:38:43,098] that the common good requires that members
+- [00:38:43,098 - 00:38:47,558] of a political community see themselves
+- [00:38:47,558 - 00:38:49,518] as being responsible for one another?
+- [00:38:49,518 - 00:38:52,378] Do you agree or disagree with that idea?
+- [00:38:52,378 - 00:38:55,198] I think you can even be more selfish about it
+- [00:38:55,198 - 00:38:56,198] if you need to be.
+- [00:38:56,198 - 00:38:59,078] It's not about feeling some sort of kinship
+- [00:38:59,078 - 00:39:00,078] with the people around you.
+- [00:39:00,078 - 00:39:03,618] Very simply, by providing this care,
+- [00:39:03,618 - 00:39:06,678] it will increase your own utility
+- [00:39:06,678 - 00:39:10,598] and help you to live a healthier existence.
+- [00:39:10,598 - 00:39:11,938] Are you happy with that, Alex?
+- [00:39:11,938 - 00:39:14,458] Well, I think sometimes when you justify it,
+- [00:39:14,458 - 00:39:15,838] even on that selfish level,
+- [00:39:15,838 - 00:39:19,758] you get bogged down in the numbers and the details.
+- [00:39:19,758 - 00:39:21,498] And I think the most solid argument
+- [00:39:21,498 - 00:39:23,618] that you could make for it is just truly
+- [00:39:23,618 - 00:39:27,398] in that ideological context of the common good.
+- [00:39:27,398 - 00:39:29,998] I think when you start estimating how much, you know,
+- [00:39:29,998 - 00:39:30,008] how much you can do for
+- [00:39:30,008 - 00:39:30,018] the community, you can do a lot.
+- [00:39:30,018 - 00:39:31,458] You can make money for the community,
+- [00:39:31,458 - 00:39:32,658] but you can also make money for yourself.
+- [00:39:32,658 - 00:39:33,938] You can produce wealth that makes you happy.
+- [00:39:33,938 - 00:39:34,698] I think if you just
+- [00:39:34,698 - 00:39:35,458] don't make enough to pay off
+- [00:39:35,458 - 00:39:36,658] how much your own livelihood will be benefited
+- [00:39:36,658 - 00:39:38,238] by your specific, you know, dollar donations
+- [00:39:38,238 - 00:39:41,658] to the common good, I think you'll be very hard-pressed
+- [00:39:41,658 - 00:39:44,038] to come up with, you know,
+- [00:39:44,038 - 00:39:46,418] a solid piece of palpable gain,
+- [00:39:46,418 - 00:39:47,758] at least in this lifetime.
+- [00:39:47,758 - 00:39:49,198] But I think it just comes down to
+- [00:39:49,198 - 00:39:51,958] that ideological difference of that.
+- [00:39:51,958 - 00:39:52,318] All right.
+- [00:39:52,318 - 00:39:59,938] So, we've actually heard three different arguments in favor
+- [00:39:59,938 - 00:40:04,938] of taxpayer-supported healthcare of one kind or another.
+- [00:40:05,538 - 00:40:07,307] I should mention that Obamacare
+- [00:40:07,307 - 00:40:09,077] is not a single-payer system.
+- [00:40:09,077 - 00:40:13,577] It doesn't create national health services in the UK.
+- [00:40:13,577 - 00:40:16,037] What it does is it leaves
+- [00:40:16,037 - 00:40:18,497] the private insurance companies in place.
+- [00:40:18,497 - 00:40:21,297] It requires those companies to accept
+- [00:40:21,297 - 00:40:24,097] everyone who wants to apply for healthcare,
+- [00:40:24,097 - 00:40:27,038] regardless of pre-existing conditions.
+- [00:40:27,038 - 00:40:32,938] And in return, it tells the health insurance companies,
+- [00:40:32,938 - 00:40:34,898] you'll get a lot more customers
+- [00:40:34,898 - 00:40:36,858] because we are also going to require
+- [00:40:36,858 - 00:40:41,538] that everyone must carry health insurance,
+- [00:40:41,538 - 00:40:45,178] must buy health insurance of one kind or another.
+- [00:40:45,178 - 00:40:48,138] But I've heard here three different arguments
+- [00:40:48,138 - 00:40:53,898] in favor of government-supported healthcare.
+- [00:40:53,898 - 00:40:56,717] One argument is a practical argument.
+- [00:40:56,717 - 00:40:56,918] It's a practical argument.
+- [00:40:56,918 - 00:40:56,998] It's a practical argument. It's a practical argument.
+- [00:40:56,998 - 00:40:57,018] It's a practical argument. It's a practical argument.
+- [00:40:57,018 - 00:41:01,718] It's a public health argument that costs will be lower
+- [00:41:01,718 - 00:41:03,998] and the public health will
+- [00:41:03,998 - 00:41:06,278] be higher if everybody is covered.
+- [00:41:06,278 - 00:41:08,998] That's an argument which doesn't
+- [00:41:08,998 - 00:41:11,718] require any strong moral claims
+- [00:41:11,718 - 00:41:14,638] about the common good or anything of the kind.
+- [00:41:14,638 - 00:41:16,718] It's a practical argument.
+- [00:41:16,718 - 00:41:19,908] The second argument is in the
+- [00:41:19,908 - 00:41:23,098] name of individual freedom and individual opportunity.
+- [00:41:23,098 - 00:41:26,898] It's the idea that if people are
+- [00:41:26,898 - 00:41:30,018] burdened with illness or the risk of
+- [00:41:30,018 - 00:41:33,138] falling ill without the ability to pay,
+- [00:41:33,138 - 00:41:34,878] then they're not really free.
+- [00:41:34,878 - 00:41:37,318] They're not really free to choose
+- [00:41:37,318 - 00:41:39,758] their own way of life for themselves.
+- [00:41:39,758 - 00:41:44,038] This, you might call it, is the freedom argument,
+- [00:41:44,038 - 00:41:47,838] is a reply to the libertarian argument about coercion.
+- [00:41:47,838 - 00:41:50,028] So we have a disagreement
+- [00:41:50,028 - 00:41:52,218] about what respecting freedom consists in.
+- [00:41:52,218 - 00:41:56,518] The libertarians say the taxpayer is coerced.
+- [00:41:56,518 - 00:41:56,778] It's that.
+- [00:41:56,778 - 00:41:59,018] They have to pay for health care for everyone.
+- [00:41:59,018 - 00:42:02,047] The defender of health care
+- [00:42:02,047 - 00:42:05,077] who makes the freedom argument says,
+- [00:42:05,077 - 00:42:10,238] no, but people who live under the shadow of illness
+- [00:42:10,238 - 00:42:14,018] where they can't get health care, they're not truly free.
+- [00:42:14,018 - 00:42:15,668] And then there's a third
+- [00:42:15,668 - 00:42:17,318] argument beyond the practical argument.
+- [00:42:17,318 - 00:42:19,408] In the freedom argument, there's an argument
+- [00:42:19,408 - 00:42:21,498] in the name of the common good.
+- [00:42:21,498 - 00:42:26,398] It's the argument suggested by Alex that says,
+- [00:42:26,398 - 00:42:29,518] taxing some to provide health care for other
+- [00:42:29,518 - 00:42:32,638] people is the wrong way of putting it.
+- [00:42:32,638 - 00:42:36,638] What really is involved is we're in this together.
+- [00:42:36,638 - 00:42:39,598] We share a common life
+- [00:42:39,598 - 00:42:42,558] and mutual responsibilities for one another.
+- [00:42:42,558 - 00:42:45,948] So it's not really a matter
+- [00:42:45,948 - 00:42:49,338] of paying for somebody else's health care.
+- [00:42:49,338 - 00:42:52,508] It's a matter of recognizing a mutual obligation
+- [00:42:52,508 - 00:42:55,678] of citizens to look after one another for
+- [00:42:55,678 - 00:42:55,698] the sake of the common good.
+- [00:42:55,698 - 00:42:55,758] So next slide, please.
+- [00:42:55,758 - 00:42:55,878] Okay, so this is the first argument that we have.
+- [00:42:55,878 - 00:42:55,948] So I want to draw some attention to the
+- [00:42:55,948 - 00:42:56,018] fact that this argument is actually a key argument.
+- [00:42:56,018 - 00:42:56,038] The second argument is that we have an
+- [00:42:56,038 - 00:42:56,058] obligation to pay for the care of others.
+- [00:42:56,058 - 00:42:56,188] The third argument is that we have a
+- [00:42:56,188 - 00:42:56,318] great responsibility to pay for the care of others.
+- [00:42:56,318 - 00:42:56,338] It's not really a matter of
+- [00:42:56,338 - 00:42:56,358] paying for somebody else's health care.
+- [00:42:56,398 - 00:43:01,677] good. Now one of the arguments that
+- [00:43:01,677 - 00:43:06,957] is still unresolved is an argument that has
+- [00:43:06,957 - 00:43:10,087] to do with the idea of
+- [00:43:10,087 - 00:43:13,218] redistribution. We've heard the idea of redistribution
+- [00:43:13,218 - 00:43:17,107] debated between President Obama and Governor Romney
+- [00:43:17,107 - 00:43:20,997] and so I'd like to put a
+- [00:43:20,997 - 00:43:24,397] question, another question to this
+- [00:43:24,397 - 00:43:27,797] audience. Is taxation for redistribution
+- [00:43:27,797 - 00:43:32,197] morally legitimate? Those who succeed in
+- [00:43:32,197 - 00:43:36,597] a market economy, some say, are entitled
+- [00:43:36,597 - 00:43:38,677] to their earnings and so it's wrong
+- [00:43:38,677 - 00:43:40,758] to redistribute a portion of their earnings
+- [00:43:40,758 - 00:43:44,287] to the less successful. We've discussed
+- [00:43:44,287 - 00:43:47,817] this to some extent in our healthcare
+- [00:43:47,817 - 00:43:50,978] debate just now but let's look more generally
+- [00:43:50,978 - 00:43:54,458] at the idea of taxation for the
+- [00:43:54,458 - 00:43:57,938] sake of redistribution and let's see what
+- [00:43:57,938 - 00:44:01,367] people here think. Let's imagine some
+- [00:44:01,367 - 00:44:04,797] people who are very successful indeed,
+- [00:44:04,797 - 00:44:07,897] who've made a lot of money, who
+- [00:44:07,897 - 00:44:10,998] would come to mind? Bill Gates, Warren Buffett,
+- [00:44:10,998 - 00:44:15,907] Mark Zuckerberg, who founded Facebook. Or
+- [00:44:15,907 - 00:44:20,817] maybe a famous sports star like Wayne
+- [00:44:20,817 - 00:44:20,918] Rubin.
+- [00:44:20,918 - 00:44:23,158] Wayne Rooney.
+- [00:44:23,158 - 00:44:25,838] You haven't heard of Wayne Rooney?
+- [00:44:25,838 - 00:44:29,078] How many here?
+- [00:44:29,078 - 00:44:31,557] So that the BBC Radio 4 audience can hear
+- [00:44:31,557 - 00:44:34,037] how many people at Harvard have heard of Wayne
+- [00:44:34,037 - 00:44:39,777] Rooney, applaud if you have.
+- [00:44:39,777 - 00:44:42,798] And those who haven't, you applaud now.
+- [00:44:42,798 - 00:44:45,958] All right.
+- [00:44:45,958 - 00:44:47,158] So it sounds to me like
+- [00:44:47,158 - 00:44:48,358] the majority haven't heard of him.
+- [00:44:48,358 - 00:44:52,058] Well he's a famous, well we would say
+- [00:44:52,058 - 00:44:55,758] here, soccer player, football player in the UK.
+- [00:44:55,758 - 00:44:57,718] Makes huge amounts of money, but you can
+- [00:44:57,718 - 00:44:59,678] think instead if you like of Michael Jordan.
+- [00:44:59,678 - 00:45:01,258] All right.
+- [00:45:01,258 - 00:45:04,428] Bill Gates, Warren Buffet, Mark
+- [00:45:04,428 - 00:45:07,598] Zuckerberg, Michael Jordan, they're very successful.
+- [00:45:07,598 - 00:45:10,158] They make a lot of money.
+- [00:45:10,158 - 00:45:12,158] Now let's see what people think
+- [00:45:12,158 - 00:45:14,158] about the moral status of those earnings.
+- [00:45:14,158 - 00:45:16,698] How many would agree with the following statement?
+- [00:45:16,698 - 00:45:18,358] Those who succeed in a market economy.
+- [00:45:18,358 - 00:45:20,358] Are entitled to their earnings.
+- [00:45:20,358 - 00:45:23,358] And so it's wrong to redistribute a portion
+- [00:45:23,358 - 00:45:26,358] of their earnings to those who are less successful.
+- [00:45:26,358 - 00:45:28,358] How many agree with that?
+- [00:45:28,358 - 00:45:32,358] Raise your hands.
+- [00:45:32,358 - 00:45:38,358] And how many disagree?
+- [00:45:38,358 - 00:45:39,358] All right.
+- [00:45:39,358 - 00:45:42,358] Let's first hear from those who disagree.
+- [00:45:42,358 - 00:45:44,358] Why do you disagree?
+- [00:45:44,358 - 00:45:46,058] Why is it morally legitimate for the state to
+- [00:45:46,058 - 00:45:47,758] redistribute their earnings to those who are less successful?
+- [00:45:48,358 - 00:45:51,358] Distribute some of the earnings of those who
+- [00:45:51,358 - 00:45:54,358] are successful to those who are less successful.
+- [00:45:54,358 - 00:45:58,358] Yes.
+- [00:45:58,358 - 00:46:00,358] My name is Alexander.
+- [00:46:00,358 - 00:46:03,358] So I have three arguments to bring up.
+- [00:46:03,358 - 00:46:04,358] Three arguments?
+- [00:46:04,358 - 00:46:05,358] Yes.
+- [00:46:05,358 - 00:46:07,358] You're well armed here.
+- [00:46:07,358 - 00:46:10,358] So first I would go back to John Locke and
+- [00:46:10,358 - 00:46:13,358] his concept of government and say that when he defined government,
+- [00:46:13,358 - 00:46:14,858] he said that when people join a
+- [00:46:14,858 - 00:46:16,358] certain government and they stay within its jurisdiction,
+- [00:46:16,358 - 00:46:20,358] they voluntarily relinquish some of their right to property.
+- [00:46:20,358 - 00:46:22,858] And they allowed his government to do
+- [00:46:22,858 - 00:46:25,358] whatever he deems necessary with that part.
+- [00:46:25,358 - 00:46:26,358] All right.
+- [00:46:26,358 - 00:46:29,358] Well, let me stop you on that one, Alexander.
+- [00:46:29,358 - 00:46:31,858] You're bringing up the idea, John
+- [00:46:31,858 - 00:46:34,358] Locke's idea, of the social contract.
+- [00:46:34,358 - 00:46:37,358] Earlier we had some discussion of the social contract.
+- [00:46:37,358 - 00:46:40,858] And your idea is that since we all
+- [00:46:40,858 - 00:46:44,358] entered into a social contract somehow or other,
+- [00:46:44,358 - 00:46:46,358] part of that contract,
+- [00:46:46,358 - 00:46:49,358] was to let the government tax some,
+- [00:46:49,358 - 00:46:52,358] the successful, to help the less successful.
+- [00:46:52,358 - 00:46:53,358] Is that the idea?
+- [00:46:53,358 - 00:46:54,358] Yes.
+- [00:46:54,358 - 00:46:57,858] And, Alexander, when did we
+- [00:46:57,858 - 00:47:01,358] enter into this social contract exactly?
+- [00:47:01,358 - 00:47:03,858] Well, some people might bring the counterargument
+- [00:47:03,858 - 00:47:06,358] that we were essentially forced by birth.
+- [00:47:06,358 - 00:47:08,358] But wait, wait, wait, wait.
+- [00:47:08,358 - 00:47:12,358] Back, before we get to counterarguments, when did we enter?
+- [00:47:12,358 - 00:47:14,358] When did you enter into the social contract?
+- [00:47:14,358 - 00:47:15,358] Did you ever sign it?
+- [00:47:15,358 - 00:47:17,358] Well, I didn't sign it, but
+- [00:47:17,358 - 00:47:19,358] I was born under a certain jurisdiction.
+- [00:47:19,358 - 00:47:20,858] And if I stay there, I
+- [00:47:20,858 - 00:47:22,358] tacitly agree with what it does,
+- [00:47:22,358 - 00:47:25,358] so with the government that operates that jurisdiction.
+- [00:47:25,358 - 00:47:28,358] Whatever they do, you tacitly agree with?
+- [00:47:28,358 - 00:47:30,358] Well, so long as I don't do
+- [00:47:30,358 - 00:47:32,358] anything against that government, I agree with it.
+- [00:47:32,358 - 00:47:34,858] Does that mean you agree with
+- [00:47:34,858 - 00:47:37,358] all of the policies of the government?
+- [00:47:37,358 - 00:47:38,858] Well, not necessarily with each
+- [00:47:38,858 - 00:47:40,358] and every single one of them,
+- [00:47:40,358 - 00:47:42,358] but if I agree with the majority of the policies,
+- [00:47:42,358 - 00:47:44,358] then I agree with the basic idea of the government.
+- [00:47:44,358 - 00:47:46,358] So, Alexander, you would say, though
+- [00:47:46,358 - 00:47:48,358] you didn't actually sign a social contract,
+- [00:47:48,358 - 00:47:50,858] the fact that you haven't picked
+- [00:47:50,858 - 00:47:53,358] up and left gives tacit agreement
+- [00:47:53,358 - 00:47:55,858] to the basic system of law that
+- [00:47:55,858 - 00:47:58,358] prevails in the country where you live?
+- [00:47:58,358 - 00:47:59,358] Yes.
+- [00:47:59,358 - 00:48:00,358] All right.
+- [00:48:00,358 - 00:48:04,358] And that that is enough to justify
+- [00:48:04,358 - 00:48:08,358] taxing the successful to help the less advantaged?
+- [00:48:08,358 - 00:48:09,358] Well, I would say so.
+- [00:48:09,358 - 00:48:10,358] All right.
+- [00:48:10,358 - 00:48:12,358] And you had another argument. What's that?
+- [00:48:12,358 - 00:48:13,358] I was going to refer back to the 18th century.
+- [00:48:13,358 - 00:48:14,858] I was going to refer back
+- [00:48:14,858 - 00:48:16,358] to the idea of economic equitability
+- [00:48:16,358 - 00:48:18,358] and that as long as
+- [00:48:18,358 - 00:48:20,358] some people make a certain sacrifice
+- [00:48:20,358 - 00:48:22,858] and as long as they work as hard as
+- [00:48:22,858 - 00:48:25,358] they can, they deserve to get something in return.
+- [00:48:25,358 - 00:48:28,358] And if this involves taxation, then it is all right
+- [00:48:28,358 - 00:48:30,358] because in addition to efficiency,
+- [00:48:30,358 - 00:48:32,358] we also have to ensure equitability,
+- [00:48:32,358 - 00:48:34,358] and taxation is one of
+- [00:48:34,358 - 00:48:36,358] these ways which government can use.
+- [00:48:36,358 - 00:48:37,358] All right.
+- [00:48:37,358 - 00:48:40,358] But we're trying to get at
+- [00:48:40,358 - 00:48:43,358] the question whether government should promote equality
+- [00:48:43,358 - 00:48:49,358] at all, equality of income or wealth or condition.
+- [00:48:49,358 - 00:48:52,358] You think the government should. Why?
+- [00:48:52,358 - 00:48:54,358] Well, yes, I believe that the government should
+- [00:48:54,358 - 00:48:57,358] because a big portion of how
+- [00:48:57,358 - 00:49:00,358] we take advantage of our opportunities
+- [00:49:00,358 - 00:49:02,858] and equal opportunities is luck,
+- [00:49:02,858 - 00:49:05,358] and luck doesn't favor everyone.
+- [00:49:05,358 - 00:49:07,858] And if two people work as hard, it doesn't
+- [00:49:07,858 - 00:49:10,358] necessarily mean that they will reach the same point
+- [00:49:10,358 - 00:49:12,358] because of the luck factor.
+- [00:49:12,358 - 00:49:13,858] So the fact that two people
+- [00:49:13,858 - 00:49:15,358] have worked as hard as they can
+- [00:49:15,358 - 00:49:16,858] and one had the benefit of the
+- [00:49:16,858 - 00:49:18,358] luck doesn't mean that the other person
+- [00:49:18,358 - 00:49:20,358] should not get at least as much as
+- [00:49:20,358 - 00:49:22,358] he deserves for the hard work he put in.
+- [00:49:22,358 - 00:49:25,358] All right. So you're invoking luck, Alexander.
+- [00:49:25,358 - 00:49:28,858] So when we look at successful people like
+- [00:49:28,858 - 00:49:32,358] Bill Gates or Wayne Rooney or Michael Jordan,
+- [00:49:32,358 - 00:49:35,358] you're saying that part of their
+- [00:49:35,358 - 00:49:38,358] great success is due to luck
+- [00:49:38,358 - 00:49:41,358] and therefore they don't deserve to keep it all?
+- [00:49:41,358 - 00:49:42,358] Not necessarily.
+- [00:49:42,358 - 00:49:48,358] What's the luck involved? What's the luck?
+- [00:49:48,358 - 00:49:51,358] They had the benefit of luck.
+- [00:49:51,358 - 00:49:53,858] The way everything happened in their
+- [00:49:53,858 - 00:49:56,358] case could have happened the same way
+- [00:49:56,358 - 00:49:58,358] in someone else's case if luck
+- [00:49:58,358 - 00:50:00,358] was on his side, but it didn't.
+- [00:50:00,358 - 00:50:03,858] So I do believe that essentially they all,
+- [00:50:03,858 - 00:50:07,358] some part of their, like, people face tradeoffs.
+- [00:50:07,358 - 00:50:09,358] And one tradeoff for getting that much luck is
+- [00:50:09,358 - 00:50:11,358] probably giving a little bit of your income to society.
+- [00:50:11,358 - 00:50:12,358] All right. Thanks.
+- [00:50:12,358 - 00:50:13,358] So the idea of luck, yes.
+- [00:50:13,358 - 00:50:14,358] What do you think?
+- [00:50:14,358 - 00:50:18,858] Hi. My name's Alana, and I just want
+- [00:50:18,858 - 00:50:23,358] to say that terming it redistribution for taxation purposes,
+- [00:50:23,358 - 00:50:26,358] it's a red herring term and frankly irrelevant.
+- [00:50:26,358 - 00:50:28,358] Warren Buffett, he drives on roads
+- [00:50:28,358 - 00:50:30,358] that are funded by the government.
+- [00:50:30,358 - 00:50:31,858] He pumps his car with gas
+- [00:50:31,858 - 00:50:33,358] that is funded by the government indirectly
+- [00:50:33,358 - 00:50:35,358] through government support for the oil industry.
+- [00:50:35,358 - 00:50:37,858] Warren Buffett, everywhere he turns, is benefiting
+- [00:50:37,858 - 00:50:40,358] from giving his tax money to society.
+- [00:50:40,358 - 00:50:42,358] He's not giving his tax money to the government.
+- [00:50:42,358 - 00:50:43,858] So it's a simple matter of he's
+- [00:50:43,858 - 00:50:45,358] not entitled to hold onto his earnings
+- [00:50:45,358 - 00:50:47,858] because he's benefiting from what the government
+- [00:50:47,858 - 00:50:50,358] is doing with everyone's taxed earnings, period.
+- [00:50:50,358 - 00:50:54,358] Who has a reply?
+- [00:50:54,358 - 00:50:57,358] My name is Bettina.
+- [00:50:57,358 - 00:51:01,358] I have here in my hand an iPhone, and
+- [00:51:01,358 - 00:51:05,358] I have a pen that says Google on it.
+- [00:51:05,358 - 00:51:09,358] Both these companies have benefited our lives
+- [00:51:09,358 - 00:51:12,358] immeasurably.
+- [00:51:12,358 - 00:51:16,358] How many of us have made a Google search today?
+- [00:51:16,358 - 00:51:20,358] How many of us used our
+- [00:51:20,358 - 00:51:24,358] iPhone or our smartphone to get here?
+- [00:51:24,358 - 00:51:28,358] That is worth so much more
+- [00:51:28,358 - 00:51:32,358] than the money that Steve Jobs
+- [00:51:32,358 - 00:51:36,358] or whomever Bill Gates has made in their lives.
+- [00:51:39,358 - 00:51:41,358] Sorry, it's Alana again.
+- [00:51:41,358 - 00:51:42,858] I want to say that proves
+- [00:51:42,858 - 00:51:44,358] my point because the companies she noted
+- [00:51:44,358 - 00:51:46,858] have benefited immeasurably from
+- [00:51:46,858 - 00:51:49,358] government support indirectly, but yes.
+- [00:51:49,358 - 00:51:50,358] How so?
+- [00:51:50,358 - 00:51:53,358] Who forced me to buy an iPhone?
+- [00:51:53,358 - 00:51:54,858] Research and development money for
+- [00:51:54,858 - 00:51:56,358] Apple. Google gets tax breaks.
+- [00:51:56,358 - 00:51:59,358] Who forced me to buy an iPhone?
+- [00:51:59,358 - 00:52:03,358] Hi, my name is Anne, and I would argue
+- [00:52:03,358 - 00:52:07,358] that each of us are given so many opportunities.
+- [00:52:07,358 - 00:52:11,358] I myself am getting here to where I am studying.
+- [00:52:11,358 - 00:52:14,858] So many people were involved in my education, ensuring
+- [00:52:14,858 - 00:52:18,358] that my health and welfare were taken care of,
+- [00:52:18,358 - 00:52:20,858] in making sure that the roads were paved so
+- [00:52:20,858 - 00:52:23,358] that the school bus could take me to school
+- [00:52:23,358 - 00:52:26,358] from South Central Los Angeles.
+- [00:52:26,358 - 00:52:29,358] To ensure, from even scholarships
+- [00:52:29,358 - 00:52:32,358] from Bill Gates and Warren Christopher,
+- [00:52:32,358 - 00:52:36,358] to ensure that I could learn more about energy
+- [00:52:36,358 - 00:52:39,358] and whatever else happened to be of interest
+- [00:52:39,358 - 00:52:42,358] to me to pursue a bigger public good.
+- [00:52:42,358 - 00:52:45,858] And beyond that, there's so many
+- [00:52:45,858 - 00:52:49,358] other public goods that happen to benefit.
+- [00:52:49,358 - 00:52:51,358] It takes a village, right,
+- [00:52:51,358 - 00:52:53,358] they say, to raise a child.
+- [00:52:53,358 - 00:52:56,358] Well, it also takes a village to maintain
+- [00:52:56,358 - 00:52:59,358] that child in wherever he or she may be.
+- [00:52:59,358 - 00:53:02,358] Even Bill Gates, the roads that he
+- [00:53:02,358 - 00:53:05,358] drives on, like people were saying earlier,
+- [00:53:05,358 - 00:53:07,358] are maintained by us.
+- [00:53:07,358 - 00:53:09,358] But roads, let's take the example of
+- [00:53:09,358 - 00:53:11,358] roads, which come up again and again.
+- [00:53:11,358 - 00:53:13,858] In fact, it was one of the
+- [00:53:13,858 - 00:53:16,358] examples that President Obama used when he said,
+- [00:53:16,358 - 00:53:18,358] you didn't build it.
+- [00:53:18,358 - 00:53:21,358] I imagine that a libertarian would
+- [00:53:21,358 - 00:53:24,358] say, alright, we can pay for roads.
+- [00:53:24,358 - 00:53:25,858] There is such a thing,
+- [00:53:25,858 - 00:53:27,358] after all, as a toll road.
+- [00:53:27,358 - 00:53:30,358] We can support it through user fees.
+- [00:53:30,358 - 00:53:32,358] So everyone who uses a road
+- [00:53:32,358 - 00:53:34,358] pays for it by paying a toll.
+- [00:53:34,358 - 00:53:38,358] Put roads aside.
+- [00:53:38,358 - 00:53:42,858] Why are Bill Gates and Warren
+- [00:53:42,858 - 00:53:47,358] Buffet and Michael Jordan and successful people,
+- [00:53:47,358 - 00:53:52,358] for that matter, why are we, Ann,
+- [00:53:52,358 - 00:53:57,358] indebted to other people or our fellow citizens
+- [00:53:57,358 - 00:53:59,858] who may have had nothing to do
+- [00:53:59,858 - 00:54:02,358] themselves with the roads we ride on?
+- [00:54:02,358 - 00:54:04,358] Why are we indebted to them?
+- [00:54:04,358 - 00:54:07,358] Such that the successful should
+- [00:54:07,358 - 00:54:10,358] have some of their resources transferred
+- [00:54:10,358 - 00:54:12,358] to help the less successful?
+- [00:54:12,358 - 00:54:13,858] Because their wealth shouldn't be
+- [00:54:13,858 - 00:54:15,358] a measure of their potential.
+- [00:54:15,358 - 00:54:17,358] Everybody's health, each and every
+- [00:54:17,358 - 00:54:19,358] person who has touched their lives
+- [00:54:19,358 - 00:54:22,358] has helped them get to where they are.
+- [00:54:22,358 - 00:54:24,858] But that shouldn't mean that those people who
+- [00:54:24,858 - 00:54:27,358] have been of support in some sort of way
+- [00:54:27,358 - 00:54:29,858] should not also reap in some sort
+- [00:54:29,858 - 00:54:32,358] of way the benefits, whether they be financial
+- [00:54:32,358 - 00:54:33,358] or otherwise.
+- [00:54:33,358 - 00:54:36,358] or otherwise from their success.
+- [00:54:36,358 - 00:54:38,518] All right, so we have two arguments so far
+- [00:54:38,518 - 00:54:40,158] that I've heard for redistribution.
+- [00:54:40,158 - 00:54:43,978] Anne is emphasizing a kind of general indebtedness
+- [00:54:43,978 - 00:54:46,358] to society at large.
+- [00:54:46,358 - 00:54:49,178] Roads are sometimes the symbol of that.
+- [00:54:49,178 - 00:54:51,738] Important teachers along the way,
+- [00:54:51,738 - 00:54:54,898] another symbol which President Obama referred to
+- [00:54:54,898 - 00:54:57,258] and he said you didn't build that.
+- [00:54:57,258 - 00:55:00,298] So there's the indebtedness argument
+- [00:55:00,298 - 00:55:04,098] and there's the luck argument we heard earlier
+- [00:55:04,098 - 00:55:06,638] that those who are successful
+- [00:55:06,638 - 00:55:10,778] aren't wholly responsible for their success
+- [00:55:10,778 - 00:55:12,798] but they enjoyed a lot of luck along the way.
+- [00:55:12,798 - 00:55:15,378] So we have the argument from indebtedness,
+- [00:55:15,378 - 00:55:17,358] the argument from luck.
+- [00:55:17,358 - 00:55:19,738] Are there any other arguments
+- [00:55:19,738 - 00:55:22,758] and then we'll let the libertarians in the room reply.
+- [00:55:22,758 - 00:55:26,218] Any other arguments in favor of redistribution?
+- [00:55:26,218 - 00:55:27,058] Yes.
+- [00:55:27,058 - 00:55:30,598] My name is Peter.
+- [00:55:30,598 - 00:55:32,938] I would look back to the economic coercion argument
+- [00:55:32,938 - 00:55:34,818] that we were looking at before and say that
+- [00:55:34,818 - 00:55:36,458] when the government is redistributing wealth,
+- [00:55:36,458 - 00:55:38,078] it's not just saying that group
+- [00:55:38,078 - 00:55:39,698] A is paying for the welfare
+- [00:55:39,698 - 00:55:41,798] and welfare permanently of group C.
+- [00:55:41,798 - 00:55:43,758] It's saying the government is providing a guarantee
+- [00:55:43,758 - 00:55:44,858] of everyone that you're gonna have
+- [00:55:44,858 - 00:55:45,998] a minimum standard of living.
+- [00:55:45,998 - 00:55:47,678] So if you lose your job,
+- [00:55:47,678 - 00:55:49,358] you're not going to starve to death.
+- [00:55:49,358 - 00:55:51,578] So it's not saying that Michael Jordan will always pay
+- [00:55:51,578 - 00:55:54,278] for people in the lower income to not be poor.
+- [00:55:54,278 - 00:55:56,958] It's saying that if Michael Jordan were poor,
+- [00:55:56,958 - 00:55:58,817] he would also be provided with that standard.
+- [00:55:58,817 - 00:56:01,618] Now obviously it's very unlikely that Michael Jordan
+- [00:56:01,618 - 00:56:02,988] is really gonna be in danger
+- [00:56:02,988 - 00:56:04,358] of starvation in the near future
+- [00:56:04,358 - 00:56:05,608] but we also don't say
+- [00:56:05,608 - 00:56:06,858] that people who live in areas
+- [00:56:06,858 - 00:56:08,098] that have low crime rates don't
+- [00:56:08,098 - 00:56:09,338] have to pay for the police
+- [00:56:09,338 - 00:56:10,817] because they're not using that service.
+- [00:56:10,817 - 00:56:13,478] We're saying that there's a benefit that's provided
+- [00:56:13,478 - 00:56:15,098] to everyone in the society,
+- [00:56:15,098 - 00:56:16,197] not just a given group
+- [00:56:16,197 - 00:56:17,297] in the society by the government
+- [00:56:17,297 - 00:56:18,758] and therefore everyone should pay for that
+- [00:56:18,758 - 00:56:21,218] because they are potential beneficiaries of it.
+- [00:56:21,218 - 00:56:23,718] Because I might need those
+- [00:56:23,718 - 00:56:26,218] services if I fall on home.
+- [00:56:26,958 - 00:56:28,317] Are you saying that we're in hard times?
+- [00:56:28,317 - 00:56:29,158] Yes.
+- [00:56:29,158 - 00:56:33,317] But why can't I take out a private insurance policy?
+- [00:56:33,317 - 00:56:36,198] Well that's the same idea that people have a right
+- [00:56:36,198 - 00:56:38,577] to those services, just as you could hire someone
+- [00:56:38,577 - 00:56:40,978] to protect you from crime rather than having to pay
+- [00:56:40,978 - 00:56:42,618] for everyone to have the police.
+- [00:56:42,618 - 00:56:43,508] But we say that everybody
+- [00:56:43,508 - 00:56:44,398] has a right to not have
+- [00:56:44,398 - 00:56:46,118] certain harms inflicted upon them.
+- [00:56:46,118 - 00:56:46,958] Yes.
+- [00:56:52,618 - 00:56:54,077] My name is Dave.
+- [00:56:54,077 - 00:56:55,918] I'm not a libertarian.
+- [00:56:55,918 - 00:56:56,958] I am
+- [00:56:56,958 - 00:56:59,498] not happy at being painted with the brush
+- [00:56:59,498 - 00:57:01,557] that painted Ron Paul.
+- [00:57:01,557 - 00:57:04,238] I'm an originalist for the Constitution
+- [00:57:04,238 - 00:57:06,777] and I believe in individual initiative
+- [00:57:06,777 - 00:57:07,987] and I think that it
+- [00:57:07,987 - 00:57:09,198] was wrong to take the argument
+- [00:57:09,198 - 00:57:13,057] away from my sister here and counter it
+- [00:57:13,057 - 00:57:17,258] with specious arguments on behalf of redistribution.
+- [00:57:18,118 - 00:57:20,918] The sovereignty of the individual is at the foundation
+- [00:57:20,918 - 00:57:23,918] of the Constitution and I believe the argument
+- [00:57:23,918 - 00:57:26,817] that people who are taking initiative in the society
+- [00:57:26,958 - 00:57:30,898] are providing a benefit way beyond the measure
+- [00:57:30,898 - 00:57:35,258] of their private results from that enterprise
+- [00:57:35,258 - 00:57:37,068] is an argument fully compatible
+- [00:57:37,068 - 00:57:38,878] with what this young man said
+- [00:57:38,878 - 00:57:42,777] and we need not pose specious, contrary arguments
+- [00:57:42,777 - 00:57:45,178] against the Constitution.
+- [00:57:45,178 - 00:57:46,017] Yes.
+- [00:57:46,017 - 00:57:47,378] What would you say?
+- [00:57:48,277 - 00:57:49,118] Yes.
+- [00:57:49,118 - 00:57:50,478] In addition, I would also like to argue.
+- [00:57:50,478 - 00:57:51,638] Tell us your name.
+- [00:57:51,638 - 00:57:52,478] Oh, I apologize.
+- [00:57:52,478 - 00:57:54,077] My name's Nicole.
+- [00:57:54,077 - 00:57:56,797] I'm coming from a purely libertarian standpoint.
+- [00:57:56,798 - 00:57:58,498] I would like to argue against this idea
+- [00:57:58,498 - 00:58:02,498] that we have an entitlement to help out those
+- [00:58:03,758 - 00:58:06,438] who generally help out society,
+- [00:58:06,438 - 00:58:09,198] to those who have benefited society,
+- [00:58:09,198 - 00:58:11,938] as I would argue that their efforts have already
+- [00:58:11,938 - 00:58:14,678] been benefited through their income or through,
+- [00:58:14,678 - 00:58:15,898] you know, if they did build
+- [00:58:15,898 - 00:58:17,118] roads, they were paid for that.
+- [00:58:17,118 - 00:58:18,528] They didn't do it out
+- [00:58:18,528 - 00:58:19,938] of the goodness of their heart.
+- [00:58:19,938 - 00:58:24,138] If they were teachers, they received pretty good benefits
+- [00:58:24,138 - 00:58:26,798] from the government, of course not a good enough salary,
+- [00:58:26,798 - 00:58:29,198] but nonetheless, they were paid back
+- [00:58:29,198 - 00:58:31,478] as we as a society deem necessary.
+- [00:58:31,478 - 00:58:34,358] If we think that those people should deserve more money
+- [00:58:34,358 - 00:58:37,618] than say Michael Jordan or the other famous individuals,
+- [00:58:37,618 - 00:58:41,578] then we should, as a society, also focus on gifting
+- [00:58:41,578 - 00:58:43,958] or redistributing our money that way,
+- [00:58:43,958 - 00:58:47,578] like by paying them more rather than by taxing me
+- [00:58:47,578 - 00:58:48,858] and giving them away the money.
+- [00:58:48,858 - 00:58:49,698] All right.
+- [00:58:49,698 - 00:58:52,198] So Nicole, you're really offering a reply
+- [00:58:52,198 - 00:58:54,798] to the indebtedness argument.
+- [00:58:54,798 - 00:58:56,198] You're saying it's true.
+- [00:58:56,198 - 00:58:59,218] Everyone uses the roads, but the people
+- [00:58:59,218 - 00:59:01,498] who built the roads were paid.
+- [00:59:01,498 - 00:59:05,138] It's true that people rise thanks
+- [00:59:05,138 - 00:59:08,158] to the wonderful teachers they had,
+- [00:59:08,158 - 00:59:10,998] but those teachers were paid.
+- [00:59:10,998 - 00:59:13,178] They weren't working for free.
+- [00:59:13,178 - 00:59:16,198] So those debts, if I hear you right,
+- [00:59:16,198 - 00:59:20,758] those debts you're saying have been paid through the price
+- [00:59:20,758 - 00:59:24,258] system, through the market, through the compensation
+- [00:59:24,258 - 00:59:25,638] that these helpers have all been paid for.
+- [00:59:25,638 - 00:59:26,138] Thank you.
+- [00:59:26,138 - 00:59:27,858] And they've already received.
+- [00:59:27,858 - 00:59:30,198] So what else is there
+- [00:59:30,198 - 00:59:32,538] to the idea of a continuing,
+- [00:59:32,538 - 00:59:34,898] a persisting debt to society?
+- [00:59:34,898 - 00:59:37,858] Do I hear you right, Nicole?
+- [00:59:37,858 - 00:59:38,358] Yes.
+- [00:59:38,358 - 00:59:40,238] I think that this idea that there's
+- [00:59:40,238 - 00:59:40,738] Say it.
+- [00:59:40,738 - 00:59:41,238] I'm sorry.
+- [00:59:41,238 - 00:59:42,698] So do I hear you right?
+- [00:59:42,698 - 00:59:43,238] Yes.
+- [00:59:43,238 - 00:59:44,738] I do totally believe that.
+- [00:59:44,738 - 00:59:46,658] I think the only other argument that you
+- [00:59:46,658 - 00:59:49,118] could say to the indebtedness is that there's
+- [00:59:49,118 - 00:59:50,978] this concept of luck.
+- [00:59:50,978 - 00:59:53,738] But I don't think that just because Michael Jordan was
+- [00:59:53,738 - 00:59:56,138] lucky enough to be born tall means that he's,
+- [00:59:56,138 - 00:59:59,258] suddenly, indebted to every other individual who
+- [00:59:59,258 - 01:00:03,278] gives their money with consent to pay for their tickets.
+- [01:00:03,278 - 01:00:05,268] I don't think that because
+- [01:00:05,268 - 01:00:07,258] he's lucky to have that ability
+- [01:00:07,258 - 01:00:09,058] requires that he give away his money.
+- [01:00:09,058 - 01:00:09,638] Oh, all right.
+- [01:00:09,638 - 01:00:12,238] Now you're addressing the luck argument.
+- [01:00:12,238 - 01:00:13,468] And let me see if I
+- [01:00:13,468 - 01:00:14,698] understand your reply to the luck
+- [01:00:14,698 - 01:00:15,198] argument.
+- [01:00:15,198 - 01:00:17,918] You're saying, yes, Michael Jordan
+- [01:00:17,918 - 01:00:21,738] is lucky to be a gifted basketball player.
+- [01:00:21,738 - 01:00:23,718] Sure, he worked hard, but
+- [01:00:23,718 - 01:00:25,698] I could work equally hard and
+- [01:00:25,698 - 01:00:27,857] never be as good a basketball player.
+- [01:00:27,857 - 01:00:30,317] So yes, there is some luck.
+- [01:00:30,317 - 01:00:33,877] But that fact you're suggesting does not
+- [01:00:33,877 - 01:00:38,817] give society as a whole a claim on his earnings.
+- [01:00:38,817 - 01:00:40,638] Yes, because if we allowed, I think
+- [01:00:40,638 - 01:00:43,198] that if we allow a claim on his earnings,
+- [01:00:43,198 - 01:00:46,518] then that leads to a very slippery slope in which,
+- [01:00:46,518 - 01:00:47,888] if we say that we have a
+- [01:00:47,888 - 01:00:49,258] claim to the fruits of his labors,
+- [01:00:49,258 - 01:00:51,297] which we would be if we're taxing
+- [01:00:51,297 - 01:00:54,198] his earnings from his income, then we're also
+- [01:00:54,198 - 01:00:54,678] saying that we have a claim over.
+- [01:00:54,678 - 01:00:54,698] OK.
+- [01:00:54,698 - 01:00:55,218] That's a good question.
+- [01:00:55,218 - 01:00:55,698] That's a good question.
+- [01:00:55,698 - 01:00:57,937] And it's also a very small claim
+- [01:00:57,937 - 01:01:01,397] over his body and his work, which I don't necessarily
+- [01:01:01,397 - 01:01:02,747] think that a lot of people
+- [01:01:02,747 - 01:01:04,098] would be able to make that claim.
+- [01:01:04,098 - 01:01:05,538] And I'd be interested in hearing .
+- [01:01:05,538 - 01:01:06,038] All right.
+- [01:01:06,038 - 01:01:07,558] Let me ask you this, Nicole.
+- [01:01:07,558 - 01:01:09,078] It's a powerful argument.
+- [01:01:09,078 - 01:01:12,778] Would you say, though, that the luck argument, which
+- [01:01:12,778 - 01:01:17,078] you concede about Michael Jordan's talents, let's say,
+- [01:01:17,078 - 01:01:20,397] doesn't that undermine the idea that he morally
+- [01:01:20,397 - 01:01:22,998] deserves to keep all of the money he makes playing
+- [01:01:22,998 - 01:01:24,558] basketball very, very well?
+- [01:01:24,558 - 01:01:25,218] I don't think it undermines it.
+- [01:01:25,218 - 01:01:28,057] almost a corollary. Yes, he was lucky, but I
+- [01:01:28,057 - 01:01:30,897] don't think that that means that he's suddenly morally
+- [01:01:30,897 - 01:01:33,597] obligated to give this up. Okay, thank
+- [01:01:33,597 - 01:01:36,298] you for that. Yes, what do you say?
+- [01:01:38,198 - 01:01:40,778] Hi, my name is Guido. I was wondering
+- [01:01:40,778 - 01:01:43,358] if you could also see healthcare as an investment.
+- [01:01:43,978 - 01:01:46,568] Just imagine a taxi driver in New York. He's
+- [01:01:46,568 - 01:01:49,158] just a new citizen. He's trying to make his money,
+- [01:01:49,318 - 01:01:52,117] and he breaks his arm. Would it be a
+- [01:01:52,117 - 01:01:54,917] better investment to give him some healthcare so he can
+- [01:01:54,918 - 01:01:58,928] fix his arm, drive his car again, and contribute
+- [01:01:58,928 - 01:02:02,938] to society? Or would you rather have no healthcare,
+- [01:02:02,938 - 01:02:05,538] and maybe you go down, be somebody annoying
+- [01:02:05,538 - 01:02:08,138] on the street, asking for money all the time?
+- [01:02:08,618 - 01:02:10,028] What would you rather have? So I'd
+- [01:02:10,028 - 01:02:11,438] rather see it as an investment, healthcare.
+- [01:02:13,258 - 01:02:17,938] And that's an argument for universal healthcare.
+- [01:02:18,338 - 01:02:21,438] It is an argument definitely for basic universal healthcare.
+- [01:02:21,798 - 01:02:22,638] Yes, what do you say?
+- [01:02:22,918 - 01:02:24,738] My name is Kevin, and I'd like to...
+- [01:02:24,918 - 01:02:27,168] I'd like to pose a question to those
+- [01:02:27,168 - 01:02:29,418] who believe that there should be no redistribution.
+- [01:02:29,998 - 01:02:32,018] And the question is, given that we
+- [01:02:32,018 - 01:02:34,038] live in a society that is highly unequal,
+- [01:02:34,358 - 01:02:37,628] and one in which if you're born poor, you're
+- [01:02:37,628 - 01:02:40,898] very, very likely to live your entire life poor,
+- [01:02:41,238 - 01:02:44,518] what's the moral justification for a society in which
+- [01:02:44,518 - 01:02:47,798] so many are so poor, and so persistently poor?
+- [01:02:47,798 - 01:02:51,028] All right, stay there. How would
+- [01:02:51,028 - 01:02:54,258] you like to reply? It's Aaron?
+- [01:02:54,918 - 01:02:56,918] Yeah, this is Aaron. How are you all doing?
+- [01:02:57,278 - 01:03:01,298] All right. Speak directly to... Is it Peter?
+- [01:03:01,618 - 01:03:01,898] Kevin.
+- [01:03:02,078 - 01:03:03,438] Speak directly to Kevin.
+- [01:03:03,438 - 01:03:03,518] Kevin.
+- [01:03:09,758 - 01:03:13,568] It's pretty simple. I do not want to
+- [01:03:13,568 - 01:03:17,378] be forced to give money that I've earned.
+- [01:03:17,978 - 01:03:20,358] And I want to address a really important point.
+- [01:03:21,238 - 01:03:24,438] Okay, this is fundamental to the principle that...
+- [01:03:24,918 - 01:03:26,918] The country is founded on.
+- [01:03:27,598 - 01:03:31,978] Freedom and protection of specific rights, mainly
+- [01:03:31,978 - 01:03:36,358] the right to property, is critical for people...
+- [01:03:36,738 - 01:03:39,088] It's important for people in order to
+- [01:03:39,088 - 01:03:41,438] pursue happiness and to maximize their happiness.
+- [01:03:41,698 - 01:03:45,268] If I work for money, which I go out to buy food, if
+- [01:03:45,268 - 01:03:48,838] you take the money from me, then I have less money for food.
+- [01:03:49,358 - 01:03:51,238] Therefore, it's harder for me to survive.
+- [01:03:51,238 - 01:03:52,938] I might have to work twice as
+- [01:03:52,938 - 01:03:54,638] hard or get three jobs, you know,
+- [01:03:54,638 - 01:03:55,638] to make up for that.
+- [01:03:55,638 - 01:03:58,878] So, forget the basic rights.
+- [01:03:58,878 - 01:04:00,598] You could always debate about
+- [01:04:00,598 - 01:04:02,318] what's basic, what's basic for survival.
+- [01:04:02,318 - 01:04:03,318] It's a gray area.
+- [01:04:03,318 - 01:04:05,788] People should be able to keep
+- [01:04:05,788 - 01:04:08,258] everything they earn to maximize their happiness.
+- [01:04:08,258 - 01:04:12,748] If I want to buy 50 flying saucers, you know, flying cars,
+- [01:04:12,748 - 01:04:17,238] if I want to buy trips to space on these new spaceships,
+- [01:04:17,238 - 01:04:18,298] I should be able to
+- [01:04:18,298 - 01:04:19,358] do that to maximize my happiness.
+- [01:04:19,358 - 01:04:20,658] And no one should be able
+- [01:04:20,658 - 01:04:21,958] to take any of that from me.
+- [01:04:21,958 - 01:04:22,358] All right.
+- [01:04:22,358 - 01:04:24,038] Does that address your point, Kevin?
+- [01:04:24,038 - 01:04:24,358] No.
+- [01:04:24,358 - 01:04:28,557] No, in fact, it doesn't address my point.
+- [01:04:28,557 - 01:04:30,597] My question was, what is the...
+- [01:04:30,597 - 01:04:32,858] So, we have a system...
+- [01:04:37,037 - 01:04:40,357] So, we have a system which is enforced by
+- [01:04:40,357 - 01:04:43,678] our state, which allows for a great deal of inequality.
+- [01:04:44,017 - 01:04:46,747] And so, the burden of justification
+- [01:04:46,747 - 01:04:49,477] in this conversation has fallen upon redistribution.
+- [01:04:49,858 - 01:04:52,108] But if we turn that question around
+- [01:04:52,108 - 01:04:54,358] and ask, what is the moral justification?
+- [01:04:54,358 - 01:04:56,608] What is the moral justification for
+- [01:04:56,608 - 01:04:58,858] a system that allows for such inequality?
+- [01:04:58,858 - 01:05:00,057] I don't understand that question.
+- [01:05:00,057 - 01:05:02,158] Can you rephrase that?
+- [01:05:02,158 - 01:05:02,957] Well, let me...
+- [01:05:02,957 - 01:05:04,158] Does anybody else want to speak on that?
+- [01:05:04,158 - 01:05:04,397] All right.
+- [01:05:04,397 - 01:05:06,477] Well, I'll give it a try.
+- [01:05:06,477 - 01:05:06,878] Sure.
+- [01:05:06,878 - 01:05:07,378] Yeah, please.
+- [01:05:09,378 - 01:05:11,707] Aaron, do you think that there's anything
+- [01:05:11,707 - 01:05:14,037] wrong with the inequality that worries Kevin?
+- [01:05:14,037 - 01:05:15,477] Anything wrong with what inequality?
+- [01:05:15,477 - 01:05:18,397] The inequality of income and wealth that's quite
+- [01:05:18,397 - 01:05:21,318] pronounced in many societies, and especially this one.
+- [01:05:21,318 - 01:05:22,858] Is there anything wrong with that?
+- [01:05:22,858 - 01:05:23,077] Okay.
+- [01:05:23,077 - 01:05:23,517] So, is there anything wrong with the fact that...
+- [01:05:23,517 - 01:05:23,678] Okay.
+- [01:05:23,678 - 01:05:23,718] So, is there anything wrong with the fact that...
+- [01:05:23,718 - 01:05:24,358] Okay.
+- [01:05:24,358 - 01:05:25,677] So, is there anything wrong with the fact
+- [01:05:25,677 - 01:05:26,997] that I have less money than you probably do?
+- [01:05:26,997 - 01:05:27,658] Is that what you're saying?
+- [01:05:27,658 - 01:05:32,097] Is there anything wrong with the fact that the
+- [01:05:32,097 - 01:05:36,537] top 1% in the United States own more wealth
+- [01:05:36,537 - 01:05:38,138] than the bottom 90% put together?
+- [01:05:38,138 - 01:05:40,037] I don't see anything wrong with that, no.
+- [01:05:40,037 - 01:05:43,818] But Kevin, you do?
+- [01:05:43,818 - 01:05:44,437] Yes.
+- [01:05:44,437 - 01:05:45,638] Why?
+- [01:05:45,638 - 01:05:49,228] I think it returns to the
+- [01:05:49,228 - 01:05:52,818] issue of what constitutes a free society.
+- [01:05:52,818 - 01:05:54,358] A free society.
+- [01:05:54,358 - 01:05:55,457] Absolutely.
+- [01:05:55,457 - 01:05:59,827] And why does it make the society less
+- [01:05:59,827 - 01:06:04,198] free if there are inequalities of income and wealth?
+- [01:06:04,198 - 01:06:11,307] Because I think that it's absolutely clear that without some basic equality, the rights that you have legally cannot be exercised and enjoyed
+- [01:06:11,307 - 01:06:18,417] in a way that are consistent with the values which I think in this room we all share, which are a participatory democracy.
+- [01:06:18,417 - 01:06:19,057] Okay.
+- [01:06:19,057 - 01:06:19,718] Thank you.
+- [01:06:19,718 - 01:06:20,517] Thank you.
+- [01:06:20,517 - 01:06:21,258] Thank you.
+- [01:06:21,258 - 01:06:22,318] Thank you.
+- [01:06:22,318 - 01:06:23,258] Thank you.
+- [01:06:23,258 - 01:06:24,358] Thank you.
+- [01:06:24,358 - 01:06:24,858] Thank you.
+- [01:06:24,858 - 01:06:25,358] Yes.
+- [01:06:25,358 - 01:06:26,358] Hi, my name is David.
+- [01:06:26,358 - 01:06:28,858] I think what we're wrestling with to some degree are some basic
+- [01:06:28,858 - 01:06:31,358] fundamental questions about how we want to live in a society, right?
+- [01:06:31,358 - 01:06:41,358] And some of the basic ideas that I've certainly grown up feeling as being a member
+- [01:06:41,358 - 01:06:51,358] of this country and society is there should be at a bare minimum some kind of equality.
+- [01:06:51,358 - 01:06:52,457] I think that's a very important question.
+- [01:06:52,457 - 01:06:53,457] I think that's a very important question.
+- [01:06:53,458 - 01:06:57,798] I think that we all always want to
+- [01:06:57,798 - 01:07:02,138] have some kind of equality around opportunity, right?
+- [01:07:02,138 - 01:07:03,088] So that feels very real
+- [01:07:03,088 - 01:07:04,038] to me of equality of opportunity.
+- [01:07:04,038 - 01:07:06,458] We don't all need to have the same amount of
+- [01:07:06,458 - 01:07:08,878] money but there should be some basic equality of opportunity.
+- [01:07:08,878 - 01:07:10,658] And to achieve that, you
+- [01:07:10,658 - 01:07:12,438] will need to pay for it.
+- [01:07:12,438 - 01:07:15,858] So we're not talking about whether someone takes
+- [01:07:15,858 - 01:07:19,278] money away or not, you're hard-earned money away.
+- [01:07:19,278 - 01:07:21,478] We're talking about how much.
+- [01:07:21,478 - 01:07:22,468] And the second piece of that is there's a
+- [01:07:22,468 - 01:07:23,458] lot of big decisions that are going to take place.
+- [01:07:23,458 - 01:07:27,528] There's a basic principle here that those who
+- [01:07:27,528 - 01:07:31,598] have more have a greater ability to give more.
+- [01:07:31,598 - 01:07:33,818] So we're not saying, you know, you
+- [01:07:33,818 - 01:07:36,038] made it, it's mine, I'm taking it away.
+- [01:07:36,038 - 01:07:37,908] We're saying we all need
+- [01:07:37,908 - 01:07:39,778] to pay in to some degree.
+- [01:07:39,778 - 01:07:43,908] There should be equality of opportunity and that
+- [01:07:43,908 - 01:07:48,038] those who have more are able to give more.
+- [01:07:48,038 - 01:07:49,508] And some would go much further, such as
+- [01:07:49,508 - 01:07:50,978] Warren Buffett and others, who are saying they have
+- [01:07:50,978 - 01:07:54,618] a right and a moral duty to give more.
+- [01:07:54,618 - 01:07:59,498] All right.
+- [01:07:59,498 - 01:08:01,858] I can see there are a lot of hands up.
+- [01:08:01,858 - 01:08:04,588] People are eager to get into this discussion,
+- [01:08:04,588 - 01:08:07,318] but I want to step back from the discussions
+- [01:08:07,318 - 01:08:10,518] that we've had on healthcare and on
+- [01:08:10,518 - 01:08:13,718] taxation for redistribution and notice a couple of
+- [01:08:13,718 - 01:08:17,178] things about the arguments that we've had.
+- [01:08:17,178 - 01:08:19,078] What we've really been having is not
+- [01:08:19,078 - 01:08:20,978] only a debate about who built it.
+- [01:08:20,978 - 01:08:25,448] But also a debate about the
+- [01:08:25,448 - 01:08:29,917] moral legitimacy of the welfare state.
+- [01:08:29,917 - 01:08:33,868] Now the shape of that debate, the
+- [01:08:33,868 - 01:08:37,818] underlying philosophical ideas animating it, are different
+- [01:08:37,818 - 01:08:41,778] in the US than they are in many European countries.
+- [01:08:41,778 - 01:08:44,558] And they're different in ways that I
+- [01:08:44,558 - 01:08:47,337] think have been brought out in this discussion.
+- [01:08:47,337 - 01:08:50,417] Notice how much of the debate we've just had.
+- [01:08:50,417 - 01:08:50,917] Okay.
+- [01:08:50,978 - 01:08:53,627] So the first one is that the
+- [01:08:53,627 - 01:08:56,278] government has focused on competing conceptions of freedom
+- [01:08:56,278 - 01:08:58,798] and coercion.
+- [01:08:58,798 - 01:09:02,167] Those who oppose universal healthcare paid by
+- [01:09:02,167 - 01:09:05,537] the government and those who oppose taxation
+- [01:09:05,537 - 01:09:10,508] for redistribution argue not only that it
+- [01:09:10,508 - 01:09:15,478] will disrupt incentives, they make a moral
+- [01:09:15,478 - 01:09:17,888] argument that that kind of
+- [01:09:17,888 - 01:09:20,298] redistribution is at odds with freedom.
+- [01:09:20,298 - 01:09:20,417] It's a form of coercion.
+- [01:09:20,417 - 01:09:24,638] It's forcibly taking from some their hard
+- [01:09:24,638 - 01:09:28,858] won earnings and giving those earnings to
+- [01:09:28,858 - 01:09:30,638] someone else.
+- [01:09:30,638 - 01:09:33,658] And that's coercion.
+- [01:09:33,658 - 01:09:37,098] Those who defend a right to
+- [01:09:37,098 - 01:09:40,537] healthcare, who support redistribution, disagree in large
+- [01:09:40,537 - 01:09:45,618] part by disagreeing with that idea of freedom and coercion.
+- [01:09:45,618 - 01:09:49,417] They invoke a rival notion of freedom.
+- [01:09:49,417 - 01:09:50,218] They say we're.
+- [01:09:50,218 - 01:09:54,557] We're only free as persons and as citizens
+- [01:09:54,557 - 01:09:58,897] if we're not burdened by illness when we can't
+- [01:09:58,897 - 01:10:04,397] get healthcare or poverty or lack of education.
+- [01:10:04,397 - 01:10:07,897] We're not really free if we lack equality
+- [01:10:07,897 - 01:10:11,397] of opportunity to learn and prepare and train
+- [01:10:11,397 - 01:10:16,198] to compete effectively in the marketplace.
+- [01:10:16,198 - 01:10:20,098] And so much of this debate has been about competing.
+- [01:10:20,098 - 01:10:20,218] Okay.
+- [01:10:20,218 - 01:10:21,218] I'm going to give you a few examples.
+- [01:10:21,218 - 01:10:22,218] I'm going to give you a few examples.
+- [01:10:22,218 - 01:10:22,718] I'm going to give you a few
+- [01:10:22,718 - 01:10:23,218] examples of ideas of freedom and coercion.
+- [01:10:23,218 - 01:10:27,837] This is a different debate from the one that
+- [01:10:27,837 - 01:10:32,457] goes on in much of the world about taxation
+- [01:10:32,457 - 01:10:36,518] and redistribution in the welfare state.
+- [01:10:36,518 - 01:10:39,058] There was a second kind of consideration that
+- [01:10:39,058 - 01:10:41,598] came up around the edges having to do with
+- [01:10:41,598 - 01:10:42,738] the common good.
+- [01:10:42,738 - 01:10:45,438] One of the arguments we heard for the
+- [01:10:45,438 - 01:10:48,138] welfare state, for a right to healthcare, is that
+- [01:10:48,138 - 01:10:50,218] it's not really paying for somebody else's.
+- [01:10:50,218 - 01:10:53,718] It's not really paying for somebody
+- [01:10:53,718 - 01:10:57,218] else's healthcare or support or welfare.
+- [01:10:57,218 - 01:11:01,718] It's really a way of recognizing the
+- [01:11:01,718 - 01:11:06,218] mutual obligations we have to our fellow citizens.
+- [01:11:06,218 - 01:11:09,218] It's an expression of what we share.
+- [01:11:09,218 - 01:11:14,218] It's required in the name of the common good.
+- [01:11:14,218 - 01:11:15,718] The freedom argument and the argument
+- [01:11:15,718 - 01:11:17,218] in the name of the common good.
+- [01:11:17,218 - 01:11:19,218] If you look at the history.
+- [01:11:19,218 - 01:11:21,018] The history of American liberalism.
+- [01:11:21,018 - 01:11:23,977] One of the striking things is that for
+- [01:11:23,977 - 01:11:26,937] the most part, the advances in the American welfare
+- [01:11:26,937 - 01:11:29,538] state have been made by liberals.
+- [01:11:29,538 - 01:11:32,487] This goes all the way back to Franklin Roosevelt
+- [01:11:32,487 - 01:11:35,437] in the 1930s and the New Deal in the name
+- [01:11:35,437 - 01:11:38,987] of the freedom argument because this
+- [01:11:38,987 - 01:11:42,538] idea of individual freedom and equal opportunity
+- [01:11:42,538 - 01:11:45,818] and the right to pursue our own destiny and
+- [01:11:45,818 - 01:11:49,098] vision of the good life, this runs very deep.
+- [01:11:49,098 - 01:11:50,778] In American public life.
+- [01:11:50,778 - 01:11:54,558] So much so that the first and
+- [01:11:54,558 - 01:11:58,338] the sturdiest instrument of the American welfare state,
+- [01:11:58,338 - 01:12:02,488] the social security system was
+- [01:12:02,488 - 01:12:06,638] enacted by Franklin Roosevelt in 1935.
+- [01:12:06,638 - 01:12:08,238] Not in the name of the common good.
+- [01:12:08,238 - 01:12:10,768] Not in the name of the
+- [01:12:10,768 - 01:12:13,298] mutual responsibilities of citizens for one another.
+- [01:12:13,298 - 01:12:18,458] But it was designed to resemble a private insurance scheme.
+- [01:12:18,458 - 01:12:21,038] And would be required to have a certain
+- [01:12:21,038 - 01:12:23,618] amount of their paycheck withheld to support it
+- [01:12:23,618 - 01:12:28,638] was said their retirement in dignity.
+- [01:12:28,638 - 01:12:31,408] Now in practice, the US social security
+- [01:12:31,408 - 01:12:34,178] system does have an element of redistribution built
+- [01:12:34,178 - 01:12:35,838] into it.
+- [01:12:35,838 - 01:12:40,078] But FDR said at the time, we made
+- [01:12:40,078 - 01:12:44,318] it based on payroll contributions, not the income tax.
+- [01:12:44,318 - 01:12:46,228] So as to give the contributors
+- [01:12:46,228 - 01:12:48,138] a legal, moral and political right.
+- [01:12:48,138 - 01:12:52,258] To collect their pensions and their unemployment benefits.
+- [01:12:52,258 - 01:12:55,238] With those taxes in there, FDR said, no
+- [01:12:55,238 - 01:12:58,218] damn politician can ever scrap my social security
+- [01:12:58,218 - 01:12:59,758] program.
+- [01:12:59,758 - 01:13:04,658] Now his program has persisted.
+- [01:13:04,658 - 01:13:06,438] It's one of the most fixed
+- [01:13:06,438 - 01:13:08,218] features of the American welfare state.
+- [01:13:08,218 - 01:13:12,838] And it's interesting to remember that
+- [01:13:12,838 - 01:13:17,458] its moral basis was an individualistic one.
+- [01:13:17,458 - 01:13:20,878] It wasn't about taking responsibility
+- [01:13:20,878 - 01:13:24,298] for everybody's old age and retirement.
+- [01:13:24,298 - 01:13:26,688] And we saw something similar with the
+- [01:13:26,688 - 01:13:29,078] next phase of the American welfare state.
+- [01:13:29,078 - 01:13:35,458] In the 1960s, Lyndon Johnson's Great Society program.
+- [01:13:35,458 - 01:13:38,548] When Medicare, the health insurance
+- [01:13:38,548 - 01:13:41,638] program, government sponsored health insurance for
+- [01:13:41,638 - 01:13:44,778] retirees was enacted.
+- [01:13:44,778 - 01:13:46,078] His war on poverty.
+- [01:13:46,078 - 01:13:50,318] But here's how Lyndon Johnson defended it.
+- [01:13:50,318 - 01:13:52,998] He said, we have diligently worked from social
+- [01:13:52,998 - 01:13:55,678] security to the war on poverty to enlarge
+- [01:13:55,678 - 01:13:57,698] the freedom of man.
+- [01:13:57,698 - 01:14:01,038] This was in 1964 in his great
+- [01:14:01,038 - 01:14:04,378] campaign debate with Barry Goldwater, a libertarian.
+- [01:14:04,378 - 01:14:06,748] And as a result, Lyndon Johnson said, Americans
+- [01:14:06,748 - 01:14:09,118] tonight are freer to live as they want to
+- [01:14:09,118 - 01:14:11,978] live, to pursue their ambitions, to meet their desires
+- [01:14:11,978 - 01:14:14,838] than at any time in all of our glorious
+- [01:14:14,838 - 01:14:15,658] history.
+- [01:14:15,658 - 01:14:19,168] And so in many ways, American liberalism
+- [01:14:19,168 - 01:14:22,678] and the liberal case for the welfare state
+- [01:14:22,678 - 01:14:28,258] has taken its shape in the encounter
+- [01:14:28,258 - 01:14:33,838] with libertarian ideas and has based itself largely
+- [01:14:33,838 - 01:14:37,367] on the individualist idea of freedom that
+- [01:14:37,367 - 01:14:40,897] says, as FDR once said, necessitous men are
+- [01:14:40,897 - 01:14:42,658] not free men.
+- [01:14:42,658 - 01:14:43,938] Now, this may seem strange.
+- [01:14:43,938 - 01:14:44,938] But it's not.
+- [01:14:44,938 - 01:14:45,538] It's not.
+- [01:14:45,538 - 01:14:47,368] These two great history lessons will now
+- [01:14:47,368 - 01:14:49,198] help to phase forward the藤 of liberal democracy
+- [01:14:49,198 - 01:14:50,458] and modern� edition of American intellectual justice policy.
+- [01:14:50,458 - 01:14:51,248] Learn about Marty Michael and his
+- [01:14:51,248 - 01:14:52,038] ways toandi uses of liberalун跳 through qualquer
+- [01:14:52,038 - 01:14:52,278] manpower.
+- [01:14:52,278 - 01:15:05,598] tobird tooroos.com
+- [01:15:05,598 - 01:15:07,898] And so, I've summed everything I've gotten
+- [01:15:07,898 - 01:15:10,198] into aogy Japanese and Russian slowed developers
+- [01:15:10,198 - 01:15:10,418] over.
+- [01:15:10,418 - 01:15:11,658] Asndue first in natürlichT designer
+- [01:15:11,658 - 01:15:12,268] scaling to ordinary people who
+- [01:15:12,268 - 01:15:12,878] received the correct鈢difl soloist cattude trieni
+- [01:15:12,878 - 01:15:15,158] d изzájns
+- [01:15:15,158 - 01:15:15,438] e
+- [01:15:15,538 - 01:15:20,258] You didn't build it, said President Obama.
+- [01:15:21,918 - 01:15:24,378] And what he seemed to be
+- [01:15:24,378 - 01:15:26,838] invoking was the idea of indebtedness.
+- [01:15:28,098 - 01:15:30,738] And maybe also luck.
+- [01:15:31,738 - 01:15:35,158] You relied for your success on all sorts of
+- [01:15:35,158 - 01:15:38,578] help that may not be visible, but that matter morally.
+- [01:15:39,578 - 01:15:42,248] And then Governor Romney says,
+- [01:15:42,248 - 01:15:44,918] redistribution is not the American way.
+- [01:15:44,918 - 01:15:46,558] We don't take from the
+- [01:15:46,558 - 01:15:48,198] successful and give to the unsuccessful.
+- [01:15:49,298 - 01:15:51,288] That's not the way we do
+- [01:15:51,288 - 01:15:53,278] it, Governor Romney says, in America.
+- [01:15:54,938 - 01:15:59,008] Now, in many ways, what you didn't
+- [01:15:59,008 - 01:16:03,078] build it really means, I think, is this.
+- [01:16:03,118 - 01:16:07,768] If you're successful, recognize your luck, recognize your
+- [01:16:07,768 - 01:16:12,418] indebtedness, and don't inhale too deeply of your success.
+- [01:16:12,418 - 01:16:16,148] It's not only your own doing in
+- [01:16:16,148 - 01:16:19,878] the thoroughgoing way that you might think.
+- [01:16:19,958 - 01:16:23,418] I think that's the message of you didn't build it.
+- [01:16:24,438 - 01:16:27,558] Many people here have suggested that there
+- [01:16:27,558 - 01:16:30,678] is considerable moral force in that argument.
+- [01:16:31,758 - 01:16:33,998] And yet, it's worth asking a
+- [01:16:33,998 - 01:16:36,238] question if we step back from this.
+- [01:16:37,438 - 01:16:39,518] It's worth asking a question if
+- [01:16:39,518 - 01:16:41,598] we step back from this debate.
+- [01:16:42,418 - 01:16:46,098] And ask, is that a persuasive argument?
+- [01:16:46,758 - 01:16:48,458] Is that an adequate argument?
+- [01:16:48,458 - 01:16:53,838] Is that an adequate argument for the welfare state?
+- [01:16:55,098 - 01:16:57,988] To say that individual freedom
+- [01:16:57,988 - 01:17:00,878] and equality of opportunity require it.
+- [01:17:02,178 - 01:17:06,708] And does American liberalism pay a price by
+- [01:17:06,708 - 01:17:11,238] not articulating and embracing more fully than it does
+- [01:17:12,418 - 01:17:16,418] other moral ideas drawn from traditions
+- [01:17:16,418 - 01:17:20,418] of social solidarity and the common good?
+- [01:17:22,418 - 01:17:24,918] Other arguments drawn from social
+- [01:17:24,918 - 01:17:27,418] solidarity and the common good?
+- [01:17:29,418 - 01:17:31,418] I want to thank the audience here
+- [01:17:31,418 - 01:17:33,418] at Harvard University's Kennedy School of Government.
+- [01:17:34,418 - 01:17:35,918] And I also want to thank
+- [01:17:35,918 - 01:17:37,418] the audience on BBC Radio 4.
+- [01:17:38,418 - 01:17:40,418] Please join me next week in Dallas, Texas,
+- [01:17:40,798 - 01:17:41,758] where we'll be debating the question,
+- [01:17:41,758 - 01:17:43,758] and we'll be debating the vexed issue of immigration.
+- [01:17:44,758 - 01:17:47,258] And asking, how far should an
+- [01:17:47,258 - 01:17:49,758] open society go in accepting outsiders?
+- [01:17:51,758 - 01:17:53,758] And shall I do the second?
+- [01:17:53,758 - 01:17:55,758] And I also have to
+- [01:17:55,758 - 01:17:57,758] give you thanks in another way.
+- [01:17:59,758 - 01:18:01,758] Thanks to the audience here at
+- [01:18:01,758 - 01:18:03,758] Harvard University's Kennedy School of Government.
+- [01:18:04,758 - 01:18:07,758] And thanks to our audience on BBC Radio
+- [01:18:07,758 - 01:18:10,758] 4 for listening to this second and final debate
+- [01:18:10,758 - 01:18:12,758] in the American edition of
+- [01:18:12,758 - 01:18:14,758] our series, The Public Philosopher.
+- [01:18:15,758 - 01:18:16,758] Thank you all very much.
+- [01:18:17,758 - 01:18:20,758] applause
+- [01:18:21,758 - 01:18:25,758] applause
+- [01:18:25,758 - 01:18:30,758] applause
+- [01:18:30,758 - 01:18:37,758] applause
+- [01:18:37,758 - 01:18:38,758] applause
+- [01:18:38,758 - 01:18:40,957] sort of
+- [01:18:41,758 - 01:18:42,758] applause
+- [01:18:42,758 - 01:18:43,758] applause
+- [01:18:43,758 - 01:19:07,758] Stop uh
+- [01:19:07,758 - 01:19:08,977] It was really, really good.
+- [01:19:09,738 - 01:19:10,338] So very good.

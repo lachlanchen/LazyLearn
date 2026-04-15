@@ -1,0 +1,1325 @@
+# Transcript
+
+Source: 003 - Justice： What's The Right Thing To Do？ Episode 03： ＂FREE TO CHOOSE＂ [Qw4l1w0rkjs].webm
+
+- [00:00:00,000 - 00:00:05,000] Funding for this program is provided by
+- [00:00:05,000 - 00:00:09,000] Additional funding provided by
+- [00:00:09,000 - 00:00:13,000] The National Center for the Arts and Sciences
+- [00:00:13,000 - 00:00:17,000] and the National Center for the Arts and Sciences.
+- [00:00:17,000 - 00:00:21,000] The National Center for the Arts and Sciences
+- [00:00:21,000 - 00:00:25,000] is a non-profit, non-profit organization
+- [00:00:25,000 - 00:00:29,000] based in the United States.
+- [00:00:29,000 - 00:00:33,000] When we finished last time,
+- [00:00:33,000 - 00:00:37,000] we were looking at Jon Stewart Mills' attempt
+- [00:00:37,000 - 00:00:39,000] to create a program
+- [00:00:39,000 - 00:00:44,000] to reply to the critics
+- [00:00:44,000 - 00:00:47,000] of Bentham's utilitarianism.
+- [00:00:47,000 - 00:00:50,000] In his book Utilitarianism,
+- [00:00:50,000 - 00:00:55,000] Mills tries to show that critics to the contrary,
+- [00:00:55,000 - 00:01:00,000] it is possible within the utilitarian framework
+- [00:01:00,000 - 00:01:03,000] to distinguish between higher and lower pleasures.
+- [00:01:03,000 - 00:01:07,000] It is possible to make qualitative distinctions of worth,
+- [00:01:07,000 - 00:01:09,000] and we tested that idea.
+- [00:01:09,000 - 00:01:14,000] With the Simpsons and the Shakespeare excerpts.
+- [00:01:14,000 - 00:01:18,000] And the results of our experiment
+- [00:01:18,000 - 00:01:21,000] seem to call into question
+- [00:01:21,000 - 00:01:25,000] Mills' distinction.
+- [00:01:25,000 - 00:01:28,000] Because a great many of you
+- [00:01:28,000 - 00:01:33,000] reported that you prefer the Simpsons,
+- [00:01:33,000 - 00:01:36,000] but that you still consider Shakespeare
+- [00:01:36,000 - 00:01:38,000] to be the higher or the worthier.
+- [00:01:39,000 - 00:01:42,000] Pleasure.
+- [00:01:42,000 - 00:01:44,000] That's the dilemma
+- [00:01:44,000 - 00:01:48,000] with which our experiment confronts Mill.
+- [00:01:48,000 - 00:01:51,000] What about Mills' attempt to account
+- [00:01:51,000 - 00:01:54,000] for the specially weighty character
+- [00:01:54,000 - 00:01:56,000] of individual rights and justice
+- [00:01:56,000 - 00:01:59,000] in chapter five of Utilitarianism?
+- [00:01:59,000 - 00:02:03,000] He wants to say that individual rights
+- [00:02:03,000 - 00:02:07,000] are worthy of special respect.
+- [00:02:07,000 - 00:02:09,000] In fact, he goes so far as to say
+- [00:02:09,000 - 00:02:12,000] that justice is the most sacred part
+- [00:02:12,000 - 00:02:16,000] and the most incomparably binding part of morality.
+- [00:02:16,000 - 00:02:19,000] But the same challenge
+- [00:02:19,000 - 00:02:24,000] could be put to this part of Mills' defense.
+- [00:02:24,000 - 00:02:30,000] Why is justice the chief part
+- [00:02:30,000 - 00:02:32,000] and the most binding part of all morality?
+- [00:02:32,000 - 00:02:35,000] Well, he says because in the long run,
+- [00:02:35,000 - 00:02:38,000] if we do justice and if we respect rights,
+- [00:02:38,000 - 00:02:40,500] society as a whole will be
+- [00:02:40,500 - 00:02:43,000] better off in the long run.
+- [00:02:43,000 - 00:02:49,000] Well, what about that?
+- [00:02:49,000 - 00:02:51,000] What if we have a case where making an exception
+- [00:02:51,000 - 00:02:53,000] and violating individual rights
+- [00:02:53,000 - 00:02:56,000] actually will make people better off in the long run?
+- [00:02:56,000 - 00:03:00,000] Is it all right then to use people?
+- [00:03:00,000 - 00:03:02,000] And there's a further objection
+- [00:03:02,000 - 00:03:04,000] that could be raised against
+- [00:03:04,000 - 00:03:06,000] Mills' case for justice and rights.
+- [00:03:06,000 - 00:03:07,000] Suppose the Utilitarianism
+- [00:03:07,000 - 00:03:09,000] and the Utilitarianism of the United States
+- [00:03:09,000 - 00:03:11,000] is to be respected.
+- [00:03:11,000 - 00:03:13,000] Suppose the Utilitarian Calculus in the long run
+- [00:03:13,000 - 00:03:15,000] works out as he says it will,
+- [00:03:15,000 - 00:03:18,000] such that respecting people's rights
+- [00:03:18,000 - 00:03:21,000] is a way of making everybody better off
+- [00:03:21,000 - 00:03:23,000] in the long run.
+- [00:03:23,000 - 00:03:25,000] Is that the right reason?
+- [00:03:25,000 - 00:03:30,000] Is that the only reason to respect people?
+- [00:03:30,000 - 00:03:33,000] If the doctor goes in and yanks the organs
+- [00:03:33,000 - 00:03:36,000] from the healthy patient who came in for a checkup
+- [00:03:36,000 - 00:03:37,000] and then he says,
+- [00:03:37,000 - 00:03:39,000] well, I'm going to use him in this way,
+- [00:03:39,000 - 00:03:40,000] in the long run,
+- [00:03:40,000 - 00:03:42,000] more lives will be lost.
+- [00:03:42,000 - 00:03:45,000] There would be adverse effects in the long run.
+- [00:03:45,000 - 00:03:48,000] Eventually, people would learn about this
+- [00:03:48,000 - 00:03:51,000] and would stop going in for checkups.
+- [00:03:51,000 - 00:03:54,000] Is it the right reason?
+- [00:03:54,000 - 00:03:57,000] Is the only reason that you as the doctor
+- [00:03:57,000 - 00:04:00,000] won't yank the organs out of the healthy patient
+- [00:04:00,000 - 00:04:01,000] that you think,
+- [00:04:01,000 - 00:04:05,000] well, if I use him in this way,
+- [00:04:05,000 - 00:04:07,000] he'll be out?
+- [00:04:07,000 - 00:04:08,000] Or is there another reason,
+- [00:04:08,000 - 00:04:10,000] having to do with intrinsic respect
+- [00:04:10,000 - 00:04:13,000] for the person as an individual?
+- [00:04:13,000 - 00:04:16,000] And if that reason matters,
+- [00:04:16,000 - 00:04:18,000] then it's not so clear
+- [00:04:18,000 - 00:04:21,000] that even Mill's utilitarianism
+- [00:04:21,000 - 00:04:24,000] can take account of it.
+- [00:04:24,000 - 00:04:30,000] Fully to examine these two worries or objections
+- [00:04:30,000 - 00:04:33,000] to Mill's defense,
+- [00:04:33,000 - 00:04:34,000] we need to do,
+- [00:04:34,000 - 00:04:36,000] and push further,
+- [00:04:36,000 - 00:04:38,000] and we need to ask,
+- [00:04:38,000 - 00:04:42,000] in the case of higher or worthier pleasures,
+- [00:04:42,000 - 00:04:46,000] are there theories of the good life
+- [00:04:46,000 - 00:04:51,000] that can provide independent moral standards
+- [00:04:51,000 - 00:04:54,000] for the worth of pleasures?
+- [00:04:54,000 - 00:04:56,000] If so, what do they look like?
+- [00:04:56,000 - 00:04:59,000] That's one question.
+- [00:04:59,000 - 00:05:02,000] In the case of justice and rights,
+- [00:05:02,000 - 00:05:04,000] if we suspect that Mill
+- [00:05:04,000 - 00:05:07,000] is implicitly leaning on notions of human dignity
+- [00:05:07,000 - 00:05:08,000] or respect for a person
+- [00:05:08,000 - 00:05:13,000] that are not, strictly speaking, utilitarian,
+- [00:05:13,000 - 00:05:14,000] we need to look to see
+- [00:05:14,000 - 00:05:17,000] whether there are some stronger theories of rights
+- [00:05:17,000 - 00:05:21,000] that can explain the intuition,
+- [00:05:21,000 - 00:05:23,000] which even Mill shares,
+- [00:05:23,000 - 00:05:25,000] the intuition that the reason
+- [00:05:25,000 - 00:05:31,000] for respecting individuals and not using them
+- [00:05:31,000 - 00:05:33,000] goes beyond even utility
+- [00:05:33,000 - 00:05:36,000] in the long run.
+- [00:05:36,000 - 00:05:39,500] Today we turn to one
+- [00:05:39,500 - 00:05:43,000] of those strong theories of rights.
+- [00:05:43,000 - 00:05:46,000] Strong theories of rights say
+- [00:05:46,000 - 00:05:48,000] individuals matter
+- [00:05:48,000 - 00:05:51,000] not just as instruments to be used
+- [00:05:51,000 - 00:05:54,000] for a larger social purpose
+- [00:05:54,000 - 00:05:58,000] or for the sake of maximizing utility.
+- [00:05:58,000 - 00:06:01,000] Individuals are separate beings
+- [00:06:01,000 - 00:06:03,000] with separate lives,
+- [00:06:03,000 - 00:06:06,000] worthy of respect.
+- [00:06:06,000 - 00:06:08,000] And so it's a mistake,
+- [00:06:08,000 - 00:06:10,000] according to strong theories of rights,
+- [00:06:10,000 - 00:06:12,000] it's a mistake
+- [00:06:12,000 - 00:06:17,000] to think about justice or law
+- [00:06:17,000 - 00:06:21,000] by just adding up preferences and values.
+- [00:06:21,000 - 00:06:24,000] The strong rights theory we turn to today
+- [00:06:24,000 - 00:06:27,000] is libertarianism.
+- [00:06:27,000 - 00:06:32,000] Libertarianism takes individual rights seriously.
+- [00:06:33,000 - 00:06:35,000] It's called libertarianism because it says
+- [00:06:35,000 - 00:06:38,000] the fundamental individual right
+- [00:06:38,000 - 00:06:41,000] is the right to liberty.
+- [00:06:41,000 - 00:06:47,000] Precisely because we are separate individual beings,
+- [00:06:47,000 - 00:06:50,000] we're not available
+- [00:06:50,000 - 00:06:52,000] to any use
+- [00:06:52,000 - 00:06:55,000] that the society might desire or devise.
+- [00:06:55,000 - 00:06:57,000] Precisely because we are individual,
+- [00:06:57,000 - 00:07:00,000] separate human beings,
+- [00:07:00,000 - 00:07:02,000] we have a fundamental right to liberty.
+- [00:07:03,000 - 00:07:06,000] And that means
+- [00:07:06,000 - 00:07:09,000] a right to choose freely,
+- [00:07:09,000 - 00:07:12,000] to live our lives as we please,
+- [00:07:12,000 - 00:07:15,000] provided we respect other people's rights
+- [00:07:15,000 - 00:07:17,000] to do the same.
+- [00:07:17,000 - 00:07:19,000] That's the fundamental idea.
+- [00:07:19,000 - 00:07:21,000] Robert Nozick,
+- [00:07:21,000 - 00:07:25,000] one of the libertarian philosophers we read
+- [00:07:25,000 - 00:07:28,000] for this course, puts it this way.
+- [00:07:28,000 - 00:07:30,000] Individuals have rights
+- [00:07:30,000 - 00:07:32,000] so strong and far-reaching
+- [00:07:32,000 - 00:07:34,000] are these rights
+- [00:07:34,000 - 00:07:36,000] that they raise the question of what,
+- [00:07:36,000 - 00:07:37,000] if anything,
+- [00:07:37,000 - 00:07:43,000] the state may do.
+- [00:07:43,000 - 00:07:46,000] So what does libertarianism say
+- [00:07:46,000 - 00:07:49,000] about the role of government
+- [00:07:49,000 - 00:07:51,000] or of the state?
+- [00:07:51,000 - 00:07:53,000] Well, there are three things
+- [00:07:53,000 - 00:07:57,000] that most modern states do
+- [00:07:57,000 - 00:08:01,000] that, on the libertarian theory of rights,
+- [00:08:01,000 - 00:08:03,000] are illegitimate,
+- [00:08:03,000 - 00:08:05,000] are unjust.
+- [00:08:05,000 - 00:08:09,000] One of them is paternalist legislation.
+- [00:08:09,000 - 00:08:10,000] That's passing laws
+- [00:08:10,000 - 00:08:13,000] that protect people from themselves.
+- [00:08:13,000 - 00:08:15,000] Seatbelt laws, for example,
+- [00:08:15,000 - 00:08:18,000] or motorcycle helmet laws.
+- [00:08:18,000 - 00:08:20,000] The libertarian says,
+- [00:08:20,000 - 00:08:21,000] it may be a good thing
+- [00:08:21,000 - 00:08:23,000] if people wear seatbelts,
+- [00:08:23,000 - 00:08:26,000] but that should be up to them.
+- [00:08:26,000 - 00:08:29,000] And the state, the government,
+- [00:08:29,000 - 00:08:32,000] has no business coercing them,
+- [00:08:32,000 - 00:08:38,000] us, to wear seatbelts by law.
+- [00:08:38,000 - 00:08:40,000] It's coercion.
+- [00:08:40,000 - 00:08:43,000] So no paternalist legislation,
+- [00:08:43,000 - 00:08:44,000] number one.
+- [00:08:44,000 - 00:08:48,000] Number two, no morals legislation.
+- [00:08:48,000 - 00:08:52,000] Many laws try to promote
+- [00:08:52,000 - 00:08:54,000] the virtue of citizens
+- [00:08:54,000 - 00:08:56,000] or try to give expression
+- [00:08:56,000 - 00:08:59,000] to the moral values
+- [00:08:59,000 - 00:09:02,000] of the society as a whole.
+- [00:09:02,000 - 00:09:04,000] Libertarians say,
+- [00:09:04,000 - 00:09:06,000] that's also a violation
+- [00:09:06,000 - 00:09:09,000] of the right to liberty.
+- [00:09:09,000 - 00:09:11,000] Take the example of,
+- [00:09:11,000 - 00:09:13,000] well, a classic example
+- [00:09:13,000 - 00:09:14,000] of legislation offered
+- [00:09:14,000 - 00:09:16,000] in the name of promoting morality.
+- [00:09:16,000 - 00:09:18,000] Traditionally,
+- [00:09:18,000 - 00:09:20,000] have been laws that prevent
+- [00:09:20,000 - 00:09:22,000] sexual intimacy
+- [00:09:22,000 - 00:09:26,000] between gays and lesbians.
+- [00:09:26,000 - 00:09:28,000] The libertarian says,
+- [00:09:28,000 - 00:09:30,000] nobody else is harmed,
+- [00:09:30,000 - 00:09:32,000] nobody else's rights are violated,
+- [00:09:32,000 - 00:09:35,000] so the state should get out
+- [00:09:35,000 - 00:09:37,000] of the business entirely
+- [00:09:37,000 - 00:09:39,000] of trying to promote virtue
+- [00:09:39,000 - 00:09:44,000] or to enact morals legislation.
+- [00:09:44,000 - 00:09:47,000] And the third kind of law
+- [00:09:47,000 - 00:09:51,000] or policy that is ruled out
+- [00:09:51,000 - 00:09:53,000] on the libertarian philosophy
+- [00:09:53,000 - 00:09:56,000] is any taxation
+- [00:09:56,000 - 00:09:58,000] or other policy
+- [00:09:58,000 - 00:10:00,000] that serves the purpose
+- [00:10:00,000 - 00:10:04,000] of redistributing income or wealth
+- [00:10:04,000 - 00:10:07,000] from the rich to the poor.
+- [00:10:07,000 - 00:10:09,000] Redistribution is a kind,
+- [00:10:09,000 - 00:10:10,000] if you think about it,
+- [00:10:10,000 - 00:10:11,000] says the libertarian,
+- [00:10:11,000 - 00:10:15,000] is a kind of coercion.
+- [00:10:15,000 - 00:10:17,000] What it amounts to
+- [00:10:17,000 - 00:10:19,000] is theft
+- [00:10:19,000 - 00:10:20,000] by the state
+- [00:10:20,000 - 00:10:22,000] or by the majority,
+- [00:10:22,000 - 00:10:25,000] if we're talking about a democracy,
+- [00:10:25,000 - 00:10:27,000] from people who happen to do
+- [00:10:27,000 - 00:10:31,000] very well and earn a lot of money.
+- [00:10:31,000 - 00:10:33,000] Now,
+- [00:10:33,000 - 00:10:35,000] Nozick and other libertarians
+- [00:10:35,000 - 00:10:38,000] allow that there can be a minimal state
+- [00:10:38,000 - 00:10:41,000] that taxes people for the sake of
+- [00:10:41,000 - 00:10:43,000] what everybody needs,
+- [00:10:43,000 - 00:10:45,000] the national defense,
+- [00:10:45,000 - 00:10:46,000] police force,
+- [00:10:46,000 - 00:10:47,000] judicial system
+- [00:10:47,000 - 00:10:48,000] to enforce contracts
+- [00:10:48,000 - 00:10:50,000] and property rights,
+- [00:10:50,000 - 00:10:52,000] but that's it.
+- [00:10:52,000 - 00:10:54,000] Now,
+- [00:10:54,000 - 00:10:56,000] I want to get your reactions
+- [00:10:56,000 - 00:11:00,000] to this third feature
+- [00:11:00,000 - 00:11:02,000] of the libertarian view.
+- [00:11:02,000 - 00:11:04,000] I want to see
+- [00:11:04,000 - 00:11:06,000] who among you
+- [00:11:06,000 - 00:11:07,000] agree with that idea
+- [00:11:07,000 - 00:11:10,000] and who disagree and why.
+- [00:11:10,000 - 00:11:12,000] But just to make it concrete
+- [00:11:12,000 - 00:11:14,000] and to see what's at stake,
+- [00:11:14,000 - 00:11:17,000] consider the distribution of wealth
+- [00:11:17,000 - 00:11:19,000] in the United States.
+- [00:11:19,000 - 00:11:22,000] The United States is among the most
+- [00:11:22,000 - 00:11:23,000] inegalitarian societies
+- [00:11:23,000 - 00:11:26,000] as far as the distribution of wealth,
+- [00:11:26,000 - 00:11:29,000] of all the advanced democracies.
+- [00:11:29,000 - 00:11:30,000] Now,
+- [00:11:30,000 - 00:11:31,000] is this just
+- [00:11:31,000 - 00:11:33,000] or unjust?
+- [00:11:33,000 - 00:11:36,000] Well, what does the libertarian say?
+- [00:11:36,000 - 00:11:39,000] The libertarian says,
+- [00:11:39,000 - 00:11:41,000] you can't know just from the facts
+- [00:11:41,000 - 00:11:43,000] I've just given you,
+- [00:11:43,000 - 00:11:45,000] you can't know whether that distribution
+- [00:11:45,000 - 00:11:48,000] is just or unjust.
+- [00:11:48,000 - 00:11:50,000] You can't know just by looking at a pattern
+- [00:11:50,000 - 00:11:53,000] or a distribution or a result
+- [00:11:53,000 - 00:11:56,000] whether it's just or unjust.
+- [00:11:56,000 - 00:11:59,000] You have to know how it came to be.
+- [00:11:59,000 - 00:12:03,000] You can't just look at the end state
+- [00:12:03,000 - 00:12:05,000] or the result.
+- [00:12:05,000 - 00:12:08,000] You have to look at two principles.
+- [00:12:08,000 - 00:12:12,000] The first he calls justice in acquisition
+- [00:12:12,000 - 00:12:14,000] or in initial holdings.
+- [00:12:14,000 - 00:12:16,000] And what that means simply is,
+- [00:12:16,000 - 00:12:19,000] did people get the things they used
+- [00:12:19,000 - 00:12:22,000] to make their money
+- [00:12:22,000 - 00:12:24,000] fairly?
+- [00:12:24,000 - 00:12:26,000] So we need to know
+- [00:12:26,000 - 00:12:29,000] was there justice in the initial holdings?
+- [00:12:29,000 - 00:12:31,000] Did they steal the land or the factory
+- [00:12:31,000 - 00:12:33,000] or the goods that enabled them to make
+- [00:12:33,000 - 00:12:34,000] all that money?
+- [00:12:34,000 - 00:12:35,000] If not,
+- [00:12:35,000 - 00:12:37,000] if they were entitled to whatever it was
+- [00:12:37,000 - 00:12:40,000] that enabled them to
+- [00:12:40,000 - 00:12:42,000] gather the wealth,
+- [00:12:42,000 - 00:12:44,000] the first principle is met.
+- [00:12:44,000 - 00:12:46,000] The second principle is,
+- [00:12:46,000 - 00:12:48,000] did the distribution arise
+- [00:12:48,000 - 00:12:51,000] from the operation of free consent?
+- [00:12:51,000 - 00:12:54,000] People buying and trading on the market.
+- [00:12:54,000 - 00:12:55,000] As you can see,
+- [00:12:55,000 - 00:12:57,000] the libertarian idea of justice
+- [00:12:57,000 - 00:13:00,000] corresponds to a free market
+- [00:13:00,000 - 00:13:02,000] conception of justice.
+- [00:13:02,000 - 00:13:06,000] Provided people got what they used
+- [00:13:06,000 - 00:13:09,000] fairly, didn't steal it,
+- [00:13:09,000 - 00:13:12,000] and provided the distribution results
+- [00:13:12,000 - 00:13:14,000] from the free choice of individuals
+- [00:13:14,000 - 00:13:17,000] buying and selling things,
+- [00:13:17,000 - 00:13:19,000] the distribution is just.
+- [00:13:19,000 - 00:13:22,000] And if not, it's unjust.
+- [00:13:25,000 - 00:13:28,000] So let's, in order to fix ideas
+- [00:13:28,000 - 00:13:30,000] for this discussion,
+- [00:13:30,000 - 00:13:38,000] take an actual example.
+- [00:13:38,000 - 00:13:40,000] Who's the wealthiest person
+- [00:13:40,000 - 00:13:41,000] in the United States?
+- [00:13:41,000 - 00:13:45,000] Wealthiest person in the world?
+- [00:13:45,000 - 00:13:46,000] Bill Gates.
+- [00:13:46,000 - 00:13:47,000] It is.
+- [00:13:47,000 - 00:13:49,000] That's right.
+- [00:13:49,000 - 00:13:53,000] Here he is.
+- [00:13:53,000 - 00:13:55,000] You'd be happy too.
+- [00:13:55,000 - 00:13:58,000] Now, what's his net worth?
+- [00:13:58,000 - 00:14:01,000] Anybody have any idea?
+- [00:14:01,000 - 00:14:04,000] That's a big number.
+- [00:14:04,000 - 00:14:05,000] During the Clinton years,
+- [00:14:05,000 - 00:14:06,000] remember there was a controversy,
+- [00:14:06,000 - 00:14:09,000] donors, big campaign contributors
+- [00:14:09,000 - 00:14:11,000] were invited to stay overnight
+- [00:14:11,000 - 00:14:12,000] in the Lincoln bedroom
+- [00:14:12,000 - 00:14:14,000] at the White House.
+- [00:14:14,000 - 00:14:18,000] I think if you contributed $25,000 or above,
+- [00:14:18,000 - 00:14:19,000] someone figured out
+- [00:14:19,000 - 00:14:21,000] that the median contribution
+- [00:14:21,000 - 00:14:23,000] that got you invited to stay
+- [00:14:23,000 - 00:14:26,000] a night in the Lincoln bedroom,
+- [00:14:26,000 - 00:14:28,000] Bill Gates could afford
+- [00:14:28,000 - 00:14:29,000] to stay in the Lincoln bedroom
+- [00:14:29,000 - 00:14:33,000] every night for the next 66,000 years.
+- [00:14:38,000 - 00:14:40,000] Somebody else figured out
+- [00:14:40,000 - 00:14:42,000] how much does he get paid
+- [00:14:42,000 - 00:14:44,000] on an hourly basis?
+- [00:14:44,000 - 00:14:46,000] And so they figured out
+- [00:14:46,000 - 00:14:49,000] since he began Microsoft,
+- [00:14:49,000 - 00:14:51,000] suppose he worked, what,
+- [00:14:51,000 - 00:14:53,000] 14 hours per day.
+- [00:14:53,000 - 00:14:55,000] Reasonable guess.
+- [00:14:55,000 - 00:14:58,000] And you calculate this net wealth.
+- [00:14:58,000 - 00:15:03,000] It turns out that his rate of pay
+- [00:15:03,000 - 00:15:08,000] is over $150,
+- [00:15:08,000 - 00:15:10,000] not per hour,
+- [00:15:10,000 - 00:15:12,000] not per minute.
+- [00:15:12,000 - 00:15:16,000] $150, more than $150 per second.
+- [00:15:18,000 - 00:15:20,000] Which means,
+- [00:15:20,000 - 00:15:22,000] which means that if on a daily basis,
+- [00:15:22,000 - 00:15:25,000] that if on his way to the office,
+- [00:15:25,000 - 00:15:30,000] Gates noticed a $100 bill on the street,
+- [00:15:30,000 - 00:15:31,000] it wouldn't be worth his time
+- [00:15:31,000 - 00:15:33,000] to stop and pick it up.
+- [00:15:37,000 - 00:15:40,000] Now, most of you will say,
+- [00:15:40,000 - 00:15:42,000] someone that wealthy,
+- [00:15:42,000 - 00:15:44,000] surely we can tax them
+- [00:15:44,000 - 00:15:49,000] to meet the pressing needs
+- [00:15:49,000 - 00:15:51,000] of people who lack an education
+- [00:15:51,000 - 00:15:53,000] or lack enough to eat
+- [00:15:53,000 - 00:15:56,000] or lack decent housing.
+- [00:15:56,000 - 00:16:00,000] They need it more than he does.
+- [00:16:00,000 - 00:16:03,000] And if you were a utilitarian,
+- [00:16:03,000 - 00:16:04,000] what would you do?
+- [00:16:04,000 - 00:16:07,000] What tax policy would you have?
+- [00:16:07,000 - 00:16:09,000] You'd redistribute in a flash,
+- [00:16:09,000 - 00:16:11,000] wouldn't you?
+- [00:16:11,000 - 00:16:13,000] Because you would know,
+- [00:16:13,000 - 00:16:16,000] being a good utilitarian,
+- [00:16:16,000 - 00:16:18,000] that taking some,
+- [00:16:18,000 - 00:16:20,000] a small amount,
+- [00:16:20,000 - 00:16:22,000] he's scarcely going to notice it.
+- [00:16:22,000 - 00:16:24,000] But it will make a huge improvement
+- [00:16:24,000 - 00:16:25,000] in the lives and in the welfare
+- [00:16:25,000 - 00:16:27,000] of those at the bottom.
+- [00:16:27,000 - 00:16:29,000] But remember,
+- [00:16:32,000 - 00:16:35,000] the libertarian theory says,
+- [00:16:35,000 - 00:16:37,000] we can't just add up
+- [00:16:37,000 - 00:16:39,000] and aggregate preferences
+- [00:16:39,000 - 00:16:41,000] and satisfactions that way.
+- [00:16:41,000 - 00:16:44,000] We have to respect persons,
+- [00:16:44,000 - 00:16:46,000] and if he earned that money fairly,
+- [00:16:46,000 - 00:16:49,000] without violating anybody else's rights,
+- [00:16:49,000 - 00:16:51,000] in accordance with the two principles
+- [00:16:51,000 - 00:16:52,000] of justice in acquisition
+- [00:16:52,000 - 00:16:54,000] and justice in transfer,
+- [00:16:54,000 - 00:16:57,000] then it would be wrong,
+- [00:16:57,000 - 00:16:59,000] it would be a form of coercion
+- [00:16:59,000 - 00:17:01,000] to take it away.
+- [00:17:01,000 - 00:17:03,000] Michael Jordan is not as wealthy
+- [00:17:03,000 - 00:17:05,000] as Bill Gates,
+- [00:17:05,000 - 00:17:08,000] but he did pretty well for himself.
+- [00:17:08,000 - 00:17:10,000] You want to see Michael Jordan?
+- [00:17:10,000 - 00:17:13,000] There he is.
+- [00:17:13,000 - 00:17:16,000] His income alone in one year
+- [00:17:16,000 - 00:17:18,000] was 31 million dollars,
+- [00:17:18,000 - 00:17:21,000] and then he made another 47 million dollars
+- [00:17:21,000 - 00:17:23,000] in endorsements for Nike
+- [00:17:23,000 - 00:17:25,000] and other companies.
+- [00:17:25,000 - 00:17:27,000] So his income was,
+- [00:17:27,000 - 00:17:30,000] in one year, 78 million.
+- [00:17:30,000 - 00:17:32,000] To require him to pay,
+- [00:17:32,000 - 00:17:34,000] let's say, a third of his earnings
+- [00:17:34,000 - 00:17:36,000] to the government
+- [00:17:36,000 - 00:17:39,000] to support good causes,
+- [00:17:39,000 - 00:17:41,000] like food and healthcare
+- [00:17:41,000 - 00:17:43,000] and housing and education for the poor,
+- [00:17:43,000 - 00:17:45,000] that's coercion.
+- [00:17:45,000 - 00:17:47,000] That's unjust.
+- [00:17:47,000 - 00:17:50,000] That violates his rights.
+- [00:17:50,000 - 00:17:56,000] And that's why redistribution is wrong.
+- [00:17:56,000 - 00:17:59,000] Now, how many agree with that argument?
+- [00:17:59,000 - 00:18:01,000] Agree with the libertarian argument
+- [00:18:01,000 - 00:18:04,000] that redistribution for the sake of
+- [00:18:04,000 - 00:18:08,000] trying to help the poor is wrong?
+- [00:18:08,000 - 00:18:12,000] And how many disagree with that argument?
+- [00:18:12,000 - 00:18:16,000] All right, let's begin with those who disagree.
+- [00:18:17,000 - 00:18:20,000] What's wrong with the libertarian case
+- [00:18:20,000 - 00:18:26,000] against redistribution?
+- [00:18:26,000 - 00:18:29,000] Yes.
+- [00:18:29,000 - 00:18:31,000] I think these people like Michael Jordan
+- [00:18:31,000 - 00:18:32,000] have received,
+- [00:18:32,000 - 00:18:34,000] we're talking about working within a society,
+- [00:18:34,000 - 00:18:37,000] and they received a larger gift from the society,
+- [00:18:37,000 - 00:18:39,000] and they have a larger obligation in return
+- [00:18:39,000 - 00:18:42,000] to give that through redistribution.
+- [00:18:42,000 - 00:18:44,000] You know, you can say that Michael Jordan
+- [00:18:44,000 - 00:18:46,000] may work just as hard as someone who works
+- [00:18:46,000 - 00:18:50,000] doing laundry 12 hours, 14 hours a day,
+- [00:18:50,000 - 00:18:52,000] but he's receiving more.
+- [00:18:52,000 - 00:18:55,000] I don't think it's fair to say that, you know,
+- [00:18:55,000 - 00:18:59,000] it's all on his, you know, inherent hard work.
+- [00:18:59,000 - 00:19:00,000] All right.
+- [00:19:00,000 - 00:19:04,000] Let's hear from defenders of libertarianism.
+- [00:19:04,000 - 00:19:07,000] Why would it be wrong in principle
+- [00:19:07,000 - 00:19:09,000] to tax the rich to help the poor?
+- [00:19:09,000 - 00:19:11,000] Go ahead.
+- [00:19:11,000 - 00:19:13,000] My name's Joe, and I collect skateboards.
+- [00:19:13,000 - 00:19:15,000] I've since bought 100 skateboards.
+- [00:19:15,000 - 00:19:17,000] I live in a society of 100 people.
+- [00:19:17,000 - 00:19:19,000] I'm the only one with skateboards.
+- [00:19:19,000 - 00:19:21,000] Suddenly everyone decides they want a skateboard.
+- [00:19:21,000 - 00:19:23,000] They come into my house, they take my,
+- [00:19:23,000 - 00:19:25,000] they take 99 of my skateboards.
+- [00:19:25,000 - 00:19:27,000] I think that is unjust.
+- [00:19:27,000 - 00:19:29,000] Now, I think in certain circumstances,
+- [00:19:29,000 - 00:19:32,000] it becomes necessary to overlook that injustice,
+- [00:19:32,000 - 00:19:34,000] perhaps condone that injustice,
+- [00:19:34,000 - 00:19:35,500] as in the case of the
+- [00:19:35,500 - 00:19:37,000] cabin boy being killed for food.
+- [00:19:37,000 - 00:19:39,000] If people are on the verge of dying,
+- [00:19:39,000 - 00:19:42,000] perhaps it is necessary to overlook that injustice.
+- [00:19:42,000 - 00:19:44,000] But I think it's important to keep in mind
+- [00:19:44,000 - 00:19:46,000] that we're still committing injustice
+- [00:19:46,000 - 00:19:48,000] by taking people's belongings or assets.
+- [00:19:48,000 - 00:19:50,000] Are you saying that taxing Michael Jordan,
+- [00:19:50,000 - 00:19:54,000] say, at a 33% tax rate,
+- [00:19:54,000 - 00:19:56,000] for good causes,
+- [00:19:56,000 - 00:19:58,000] to feed the hungry,
+- [00:19:58,000 - 00:20:01,000] is theft?
+- [00:20:01,000 - 00:20:02,000] I think it's unjust.
+- [00:20:02,000 - 00:20:03,000] Yes, I do believe it's theft,
+- [00:20:03,000 - 00:20:07,000] but perhaps it is necessary to condone that theft.
+- [00:20:07,000 - 00:20:08,000] But it's theft.
+- [00:20:08,000 - 00:20:10,000] Yes.
+- [00:20:14,000 - 00:20:19,000] Why is it theft, Joe?
+- [00:20:19,000 - 00:20:20,000] Because...
+- [00:20:20,000 - 00:20:23,000] Why is it like your collection of skateboards?
+- [00:20:23,000 - 00:20:27,000] It's theft because, at least in my opinion,
+- [00:20:27,000 - 00:20:29,000] and by the libertarian opinion,
+- [00:20:29,000 - 00:20:31,000] he earned that money fairly,
+- [00:20:31,000 - 00:20:33,000] and it belongs to him.
+- [00:20:33,000 - 00:20:36,000] So to take it from him is, by definition, theft.
+- [00:20:39,000 - 00:20:42,000] All right, let's see if there's...
+- [00:20:42,000 - 00:20:44,000] Who wants to reply to Joe?
+- [00:20:44,000 - 00:20:46,000] Yes, go ahead.
+- [00:20:46,000 - 00:20:48,000] I don't think this is necessarily a case
+- [00:20:48,000 - 00:20:50,000] in which you have 99 skateboards
+- [00:20:50,000 - 00:20:51,000] and the government...
+- [00:20:51,000 - 00:20:52,000] Or you have 100 skateboards
+- [00:20:52,000 - 00:20:54,000] and the government's taking 99 of them.
+- [00:20:54,000 - 00:20:56,000] It's like you have more skateboards
+- [00:20:56,000 - 00:20:58,000] than there are days in a year.
+- [00:20:58,000 - 00:20:59,000] You have more skateboards
+- [00:20:59,000 - 00:21:00,000] than you're going to be able to use
+- [00:21:00,000 - 00:21:02,000] in your entire lifetime,
+- [00:21:02,000 - 00:21:04,000] and the government is taking part of those.
+- [00:21:04,000 - 00:21:07,000] And I think that if you're operating in a society
+- [00:21:07,000 - 00:21:09,000] in which the government's...
+- [00:21:09,000 - 00:21:11,000] In which the government does not have the money
+- [00:21:11,000 - 00:21:12,000] to pay for the skateboards,
+- [00:21:12,000 - 00:21:14,000] then you're not taking part of those.
+- [00:21:14,000 - 00:21:16,000] And if the government doesn't redistribute wealth,
+- [00:21:16,000 - 00:21:19,000] then that allows for people to amass so much wealth
+- [00:21:19,000 - 00:21:21,000] that people who haven't started
+- [00:21:21,000 - 00:21:23,000] from this very...
+- [00:21:23,000 - 00:21:26,000] The equal footing in our hypothetical situation
+- [00:21:26,000 - 00:21:28,000] that doesn't exist in our real society
+- [00:21:28,000 - 00:21:31,000] get undercut for the rest of their lives.
+- [00:21:31,000 - 00:21:33,000] So you're worried that if there isn't
+- [00:21:33,000 - 00:21:35,000] some degree of redistribution,
+- [00:21:35,000 - 00:21:37,000] if some are left at the bottom,
+- [00:21:37,000 - 00:21:41,000] there will be no genuine equality of opportunity.
+- [00:21:41,000 - 00:21:43,000] All right.
+- [00:21:43,000 - 00:21:47,000] The idea that taxation is theft.
+- [00:21:47,000 - 00:21:50,000] Nozick takes that point one step further.
+- [00:21:50,000 - 00:21:53,000] He agrees that it's theft.
+- [00:21:53,000 - 00:21:55,000] He's more demanding than Joe.
+- [00:21:55,000 - 00:21:57,000] Joe says it is theft.
+- [00:21:57,000 - 00:22:01,000] Maybe in an extreme case it's justified.
+- [00:22:01,000 - 00:22:04,000] Maybe a parent is justified
+- [00:22:04,000 - 00:22:06,000] in stealing a loaf of bread
+- [00:22:06,000 - 00:22:09,000] to feed his or her hungry family.
+- [00:22:09,000 - 00:22:11,000] So Joe is a...
+- [00:22:11,000 - 00:22:12,000] What would you call yourself?
+- [00:22:12,000 - 00:22:14,000] A compassionate quasi-libertarian?
+- [00:22:17,000 - 00:22:20,000] Nozick says, if you think about it,
+- [00:22:20,000 - 00:22:26,000] taxation amounts to the taking of earnings.
+- [00:22:28,000 - 00:22:30,000] In other words, it means
+- [00:22:30,000 - 00:22:38,000] taking the fruits of my labor.
+- [00:22:38,000 - 00:22:41,000] But if the state has the right
+- [00:22:41,000 - 00:22:45,000] to take my earnings or the fruits of my labor,
+- [00:22:45,000 - 00:22:48,000] isn't that morally the same
+- [00:22:48,000 - 00:22:52,000] as according to the state
+- [00:22:52,000 - 00:22:57,000] the right to claim a portion of my labor?
+- [00:22:57,000 - 00:23:04,000] So taxation actually
+- [00:23:04,000 - 00:23:08,000] is morally equivalent
+- [00:23:08,000 - 00:23:10,000] to forced labor.
+- [00:23:10,000 - 00:23:12,000] Because forced labor
+- [00:23:12,000 - 00:23:16,000] involves the taking of my leisure,
+- [00:23:16,000 - 00:23:19,000] my time, my efforts,
+- [00:23:19,000 - 00:23:23,000] just as taxation takes the earnings
+- [00:23:23,000 - 00:23:27,000] that I make with my labor.
+- [00:23:30,000 - 00:23:32,000] And so for Nozick
+- [00:23:32,000 - 00:23:35,000] and for the libertarians,
+- [00:23:35,000 - 00:23:38,000] taxation for redistribution is theft,
+- [00:23:38,000 - 00:23:39,000] as Joe says.
+- [00:23:40,000 - 00:23:43,000] But not only theft,
+- [00:23:43,000 - 00:23:45,000] it's morally equivalent
+- [00:23:45,000 - 00:23:49,000] to laying claim to certain hours
+- [00:23:49,000 - 00:23:53,000] of a person's life and labor.
+- [00:23:53,000 - 00:23:54,000] So it's morally equivalent
+- [00:23:54,000 - 00:23:56,000] to forced labor.
+- [00:23:56,000 - 00:23:57,000] If the state has a right
+- [00:23:57,000 - 00:23:59,000] to claim the fruits of my labor,
+- [00:23:59,000 - 00:24:02,000] that implies that it really
+- [00:24:02,000 - 00:24:04,000] has an entitlement
+- [00:24:04,000 - 00:24:06,000] to my labor itself.
+- [00:24:06,000 - 00:24:08,000] And what is forced labor?
+- [00:24:08,000 - 00:24:11,000] Forced labor,
+- [00:24:11,000 - 00:24:13,000] Nozick points out,
+- [00:24:13,000 - 00:24:14,000] is what?
+- [00:24:14,000 - 00:24:16,000] Is slavery.
+- [00:24:18,000 - 00:24:21,000] Because if I don't have the right,
+- [00:24:21,000 - 00:24:22,000] the sole right,
+- [00:24:22,000 - 00:24:24,000] to my own labor,
+- [00:24:24,000 - 00:24:28,000] then that's really to say
+- [00:24:28,000 - 00:24:30,000] that the government
+- [00:24:30,000 - 00:24:32,000] or the political community
+- [00:24:32,000 - 00:24:34,000] is a part owner in me.
+- [00:24:34,000 - 00:24:36,000] And what does it mean
+- [00:24:36,000 - 00:24:39,000] for the state to be a part owner in me?
+- [00:24:39,000 - 00:24:41,000] If you think about it,
+- [00:24:41,000 - 00:24:44,000] it means that I'm a slave,
+- [00:24:44,000 - 00:24:47,000] that I don't own myself.
+- [00:24:47,000 - 00:24:51,000] So what this line of reasoning brings us to
+- [00:24:51,000 - 00:24:55,000] is the fundamental principle
+- [00:24:55,000 - 00:24:59,000] that underlies the libertarian case for rights.
+- [00:24:59,000 - 00:25:01,000] What is that principle?
+- [00:25:01,000 - 00:25:05,000] It's the idea that I own myself.
+- [00:25:05,000 - 00:25:08,000] It's the idea of self-possession.
+- [00:25:08,000 - 00:25:11,000] If you want to take rights seriously,
+- [00:25:11,000 - 00:25:13,000] if you don't want to just regard people
+- [00:25:13,000 - 00:25:16,000] as collections of preferences,
+- [00:25:16,000 - 00:25:19,000] the fundamental moral idea
+- [00:25:19,000 - 00:25:22,000] to which you will be led
+- [00:25:22,000 - 00:25:25,000] is the idea that we are the owners
+- [00:25:25,000 - 00:25:29,000] or the proprietors of our own person.
+- [00:25:29,000 - 00:25:31,000] And that's why
+- [00:25:31,000 - 00:25:33,000] utilitarianism is so important.
+- [00:25:33,000 - 00:25:34,000] And that's why
+- [00:25:34,000 - 00:25:38,000] utilitarianism goes wrong.
+- [00:25:38,000 - 00:25:39,000] And that's why it's wrong
+- [00:25:39,000 - 00:25:42,000] to yank the organs from that healthy patient.
+- [00:25:42,000 - 00:25:44,000] You're acting as if
+- [00:25:44,000 - 00:25:45,000] that patient belongs to you
+- [00:25:45,000 - 00:25:47,000] or to the community.
+- [00:25:47,000 - 00:25:50,000] But we belong to ourselves.
+- [00:25:50,000 - 00:25:53,000] And that's the same reason
+- [00:25:53,000 - 00:25:55,000] that it's wrong to make laws
+- [00:25:55,000 - 00:25:57,000] to protect us from ourselves
+- [00:25:57,000 - 00:25:59,000] or to tell us how to live,
+- [00:25:59,000 - 00:26:01,000] to tell us what virtues
+- [00:26:01,000 - 00:26:03,000] we should be governed by,
+- [00:26:03,000 - 00:26:05,000] and that's also why it's wrong
+- [00:26:05,000 - 00:26:07,000] to tax the rich,
+- [00:26:07,000 - 00:26:08,000] to help the poor,
+- [00:26:08,000 - 00:26:10,000] even for good causes,
+- [00:26:10,000 - 00:26:12,000] even to help those who are displaced
+- [00:26:12,000 - 00:26:14,000] by the Hurricane Katrina.
+- [00:26:14,000 - 00:26:17,000] Ask them to give charity.
+- [00:26:17,000 - 00:26:19,000] But if you tax them,
+- [00:26:19,000 - 00:26:21,000] it's like forcing them to labor.
+- [00:26:21,000 - 00:26:23,000] Could you tell Michael Jordan
+- [00:26:23,000 - 00:26:25,000] he has to skip the next week's games
+- [00:26:25,000 - 00:26:28,000] and go down to help the people
+- [00:26:28,000 - 00:26:30,000] displaced by Hurricane Katrina?
+- [00:26:30,000 - 00:26:32,000] Morally, it's the same.
+- [00:26:33,000 - 00:26:37,000] So the stakes are very high.
+- [00:26:37,000 - 00:26:42,000] So far we've heard some objections
+- [00:26:42,000 - 00:26:44,000] to the libertarian argument,
+- [00:26:44,000 - 00:26:46,000] but if you want to reject it,
+- [00:26:46,000 - 00:26:49,000] you have to break into this chain of reasoning,
+- [00:26:49,000 - 00:26:51,000] which goes,
+- [00:26:51,000 - 00:26:55,000] taking my earnings is like taking my labor,
+- [00:26:55,000 - 00:26:59,000] but taking my labor is making me a slave.
+- [00:26:59,000 - 00:27:02,000] And if you disagree with that,
+- [00:27:02,000 - 00:27:06,000] you must believe in the principle of self-possession.
+- [00:27:06,000 - 00:27:09,000] Those who disagree,
+- [00:27:09,000 - 00:27:11,000] gather your objections,
+- [00:27:11,000 - 00:27:13,000] and we'll begin with them next time.
+- [00:27:22,000 - 00:27:24,000] Anyone like to take up that point?
+- [00:27:24,000 - 00:27:25,000] Yes.
+- [00:27:25,000 - 00:27:28,000] I feel like when you live in a society,
+- [00:27:28,000 - 00:27:29,000] you give up that right.
+- [00:27:29,000 - 00:27:30,000] I mean, technically,
+- [00:27:30,000 - 00:27:32,000] if I want to personally give up that right,
+- [00:27:32,000 - 00:27:33,000] I can't go out and kill someone
+- [00:27:33,000 - 00:27:34,000] because they offend me.
+- [00:27:34,000 - 00:27:35,000] That is self-possession.
+- [00:27:35,000 - 00:27:36,000] Because I live in a society,
+- [00:27:36,000 - 00:27:37,000] I cannot do that.
+- [00:27:37,000 - 00:27:40,000] Victoria, are you questioning
+- [00:27:40,000 - 00:27:43,000] the fundamental premise of self-possession?
+- [00:27:43,000 - 00:27:44,000] Yes.
+- [00:27:44,000 - 00:27:46,000] I think that you don't really have self-possession
+- [00:27:46,000 - 00:27:48,000] if you choose to live in a society
+- [00:27:48,000 - 00:27:50,000] because you cannot just discount
+- [00:27:50,000 - 00:27:52,000] the people around you.
+- [00:27:52,000 - 00:27:55,000] We were talking last time about libertarianism.
+- [00:27:57,000 - 00:27:59,000] I want to go back to the arguments
+- [00:27:59,000 - 00:28:01,000] for and against the redistribution
+- [00:28:01,000 - 00:28:04,000] of income.
+- [00:28:04,000 - 00:28:06,000] But before we do that,
+- [00:28:06,000 - 00:28:10,000] just one word about the minimal state.
+- [00:28:10,000 - 00:28:12,000] Milton Friedman,
+- [00:28:12,000 - 00:28:14,000] the libertarian economist,
+- [00:28:14,000 - 00:28:18,000] he points out that many of the functions
+- [00:28:18,000 - 00:28:20,000] that we take for granted
+- [00:28:20,000 - 00:28:23,000] as properly belonging to government
+- [00:28:23,000 - 00:28:25,000] don't.
+- [00:28:25,000 - 00:28:26,000] They are paternalist.
+- [00:28:26,000 - 00:28:29,000] One example he gives is social security.
+- [00:28:29,000 - 00:28:30,000] He says it's a good thing
+- [00:28:30,000 - 00:28:32,000] to have a social security system.
+- [00:28:32,000 - 00:28:34,000] He says it's a good idea
+- [00:28:34,000 - 00:28:37,000] for people to save for their retirement
+- [00:28:37,000 - 00:28:39,000] during their earning years.
+- [00:28:39,000 - 00:28:41,000] But it's wrong.
+- [00:28:41,000 - 00:28:44,000] It's a violation of people's liberty
+- [00:28:44,000 - 00:28:48,000] for the government to force everyone,
+- [00:28:48,000 - 00:28:51,000] whether they want to or not,
+- [00:28:51,000 - 00:28:55,000] to put aside some earnings today
+- [00:28:55,000 - 00:28:57,000] for the sake of their retirement.
+- [00:28:57,000 - 00:28:59,000] If people want to take the chance,
+- [00:28:59,000 - 00:29:01,000] or if people want to live big today
+- [00:29:01,000 - 00:29:05,000] and live a poor retirement,
+- [00:29:05,000 - 00:29:07,000] that should be their choice.
+- [00:29:07,000 - 00:29:10,000] They should be free to make those judgments
+- [00:29:10,000 - 00:29:12,000] and take those risks.
+- [00:29:12,000 - 00:29:14,000] So even social security
+- [00:29:14,000 - 00:29:17,000] would still be at odds with the minimal state
+- [00:29:17,000 - 00:29:20,000] that Milton Friedman argued for.
+- [00:29:20,000 - 00:29:22,000] It's sometimes thought that
+- [00:29:22,000 - 00:29:24,000] collective goods like police protection
+- [00:29:24,000 - 00:29:27,000] and fire protection
+- [00:29:27,000 - 00:29:30,000] will inevitably create the problem
+- [00:29:30,000 - 00:29:31,000] of free riders,
+- [00:29:31,000 - 00:29:36,000] unless they're publicly provided.
+- [00:29:36,000 - 00:29:39,000] But there are ways
+- [00:29:39,000 - 00:29:42,000] to prevent free riders.
+- [00:29:42,000 - 00:29:44,000] There are ways to restrict
+- [00:29:44,000 - 00:29:46,000] even seemingly collective goods
+- [00:29:46,000 - 00:29:49,000] like fire protection.
+- [00:29:49,000 - 00:29:51,000] I read an article a while back
+- [00:29:51,000 - 00:29:53,000] about a private fire company,
+- [00:29:53,000 - 00:29:57,000] the Salem Fire Corporation in Arkansas.
+- [00:29:57,000 - 00:30:00,000] You can sign up with the Salem Fire Corporation,
+- [00:30:00,000 - 00:30:02,000] pay a yearly subscription fee,
+- [00:30:02,000 - 00:30:04,000] and if your house catches on fire,
+- [00:30:04,000 - 00:30:07,000] they will come and put out the fire.
+- [00:30:07,000 - 00:30:11,000] But they won't put out everybody's fire.
+- [00:30:11,000 - 00:30:13,000] They will only put it out
+- [00:30:13,000 - 00:30:18,000] if it's a fire in the home of a subscriber,
+- [00:30:18,000 - 00:30:20,000] or if it starts to spread
+- [00:30:20,000 - 00:30:23,000] and to threaten the home of a subscriber.
+- [00:30:23,000 - 00:30:26,000] The newspaper article told the story
+- [00:30:26,000 - 00:30:29,000] of a homeowner who had subscribed
+- [00:30:29,000 - 00:30:32,000] to this company in the past,
+- [00:30:32,000 - 00:30:34,000] but failed to renew his subscription.
+- [00:30:34,000 - 00:30:36,000] His house caught on fire.
+- [00:30:36,000 - 00:30:39,000] The Salem Fire Corporation showed up with its trucks
+- [00:30:39,000 - 00:30:41,000] and watched the house burn,
+- [00:30:41,000 - 00:30:45,000] just making sure that it didn't spread.
+- [00:30:45,000 - 00:30:47,000] The fire chief was asked,
+- [00:30:47,000 - 00:30:49,000] well, he wasn't exactly the fire chief,
+- [00:30:49,000 - 00:30:52,000] I guess he was the CEO.
+- [00:30:52,000 - 00:30:53,000] He was asked,
+- [00:30:53,000 - 00:30:55,000] how can you stand by with fire equipment
+- [00:30:55,000 - 00:30:58,000] and allow a person's home to burn?
+- [00:30:58,000 - 00:30:59,000] He replied,
+- [00:30:59,000 - 00:31:01,000] once we verified there was no danger
+- [00:31:01,000 - 00:31:03,000] to a member's property,
+- [00:31:03,000 - 00:31:05,000] we had no choice but to back off
+- [00:31:05,000 - 00:31:07,000] according to our rules.
+- [00:31:07,000 - 00:31:09,000] If we responded to all fires, he said,
+- [00:31:09,000 - 00:31:12,000] there would be no incentive to subscribe.
+- [00:31:12,000 - 00:31:14,000] The homeowner, in this case,
+- [00:31:14,000 - 00:31:16,000] tried to renew his subscription
+- [00:31:16,000 - 00:31:19,000] at the scene of the fire,
+- [00:31:19,000 - 00:31:21,000] but the head of the company refused.
+- [00:31:21,000 - 00:31:23,000] You can't wreck your car, he said,
+- [00:31:23,000 - 00:31:25,000] and then buy insurance for it.
+- [00:31:25,000 - 00:31:26,000] He said,
+- [00:31:26,000 - 00:31:28,000] I'll buy it later.
+- [00:31:28,000 - 00:31:31,000] So even public goods that we take for granted
+- [00:31:31,000 - 00:31:34,000] as being within the proper province of government
+- [00:31:34,000 - 00:31:36,000] can, many of them, in principle,
+- [00:31:36,000 - 00:31:41,000] be isolated, made exclusive to those who pay.
+- [00:31:41,000 - 00:31:45,000] That's all to do with the question of collective goods
+- [00:31:45,000 - 00:31:50,000] and the libertarian's injunction against paternalism.
+- [00:31:50,000 - 00:31:52,000] But let's go back now
+- [00:31:52,000 - 00:31:55,000] to the arguments about redistribution.
+- [00:31:55,000 - 00:32:00,000] Now, underlying the libertarian's case
+- [00:32:00,000 - 00:32:04,000] for the minimal state
+- [00:32:04,000 - 00:32:06,000] is a worry about coercion.
+- [00:32:06,000 - 00:32:09,000] But what's wrong with coercion?
+- [00:32:09,000 - 00:32:14,000] The libertarian offers this answer.
+- [00:32:14,000 - 00:32:17,000] To coerce someone,
+- [00:32:17,000 - 00:32:19,000] to use some person
+- [00:32:19,000 - 00:32:23,000] for the sake of the general welfare,
+- [00:32:23,000 - 00:32:24,000] is wrong
+- [00:32:24,000 - 00:32:27,000] because it calls into question
+- [00:32:27,000 - 00:32:29,000] the fundamental fact
+- [00:32:29,000 - 00:32:32,000] that we own ourselves,
+- [00:32:32,000 - 00:32:34,000] the fundamental moral fact
+- [00:32:34,000 - 00:32:38,000] of self-possession or self-ownership.
+- [00:32:38,000 - 00:32:44,000] The libertarian's argument against redistribution
+- [00:32:44,000 - 00:32:46,000] begins with this fundamental idea
+- [00:32:46,000 - 00:32:49,000] that we own ourselves.
+- [00:32:49,000 - 00:32:51,000] Nozick says
+- [00:32:51,000 - 00:32:53,000] that if
+- [00:32:53,000 - 00:32:55,000] the society as a whole
+- [00:32:55,000 - 00:32:57,000] can go to Bill Gates
+- [00:32:57,000 - 00:32:59,000] or go to Michael Jordan
+- [00:32:59,000 - 00:33:03,000] and tax away a portion of their wealth,
+- [00:33:03,000 - 00:33:07,000] what the society is really asserting
+- [00:33:07,000 - 00:33:10,000] is a collective property right
+- [00:33:10,000 - 00:33:13,000] in Bill Gates
+- [00:33:13,000 - 00:33:15,000] or in Michael Jordan.
+- [00:33:15,000 - 00:33:18,000] But that violates
+- [00:33:18,000 - 00:33:20,000] the fundamental principle
+- [00:33:20,000 - 00:33:22,000] that we belong to ourselves.
+- [00:33:23,000 - 00:33:25,000] Now, we've already heard
+- [00:33:25,000 - 00:33:27,000] a number of objections
+- [00:33:27,000 - 00:33:30,000] to the libertarian argument.
+- [00:33:30,000 - 00:33:32,000] What I would like to do today
+- [00:33:32,000 - 00:33:36,000] is to give
+- [00:33:36,000 - 00:33:38,000] the libertarians among us
+- [00:33:38,000 - 00:33:41,000] a chance to answer the objections
+- [00:33:41,000 - 00:33:43,000] that have been raised.
+- [00:33:43,000 - 00:33:44,000] And some have been,
+- [00:33:44,000 - 00:33:47,000] some have already identified themselves
+- [00:33:47,000 - 00:33:51,000] and have agreed to come and make the case
+- [00:33:51,000 - 00:33:52,000] for libertarianism,
+- [00:33:52,000 - 00:33:54,000] to reply to the objections
+- [00:33:54,000 - 00:33:56,000] that have been raised.
+- [00:33:56,000 - 00:33:57,000] So, raise your hand
+- [00:33:57,000 - 00:33:59,000] if you are among the libertarians
+- [00:33:59,000 - 00:34:01,000] who's prepared to stand up
+- [00:34:01,000 - 00:34:03,000] for the theory
+- [00:34:03,000 - 00:34:05,000] and respond to the objections.
+- [00:34:05,000 - 00:34:07,000] You are?
+- [00:34:07,000 - 00:34:08,000] Alex Harris,
+- [00:34:08,000 - 00:34:11,000] who's been a star on the web blog.
+- [00:34:11,000 - 00:34:13,000] All right, Alex, come here.
+- [00:34:13,000 - 00:34:14,000] Stand up, come.
+- [00:34:14,000 - 00:34:17,000] We'll create a libertarian corner over here.
+- [00:34:18,000 - 00:34:20,000] And who else?
+- [00:34:20,000 - 00:34:22,000] Other libertarians?
+- [00:34:22,000 - 00:34:26,000] Who will join?
+- [00:34:26,000 - 00:34:27,000] What's your name?
+- [00:34:27,000 - 00:34:28,000] John?
+- [00:34:28,000 - 00:34:29,000] John?
+- [00:34:29,000 - 00:34:30,000] John Sheffield.
+- [00:34:30,000 - 00:34:31,000] John Sheffield.
+- [00:34:31,000 - 00:34:34,000] Who else wants to join?
+- [00:34:34,000 - 00:34:35,000] Other brave libertarians
+- [00:34:35,000 - 00:34:37,000] who are prepared to take on...
+- [00:34:37,000 - 00:34:38,000] Yes.
+- [00:34:38,000 - 00:34:39,000] What's your name?
+- [00:34:39,000 - 00:34:40,000] Julia Roto.
+- [00:34:40,000 - 00:34:41,000] Julia Roto.
+- [00:34:41,000 - 00:34:44,000] Julia, come join us over there.
+- [00:34:44,000 - 00:34:46,000] Now, while the...
+- [00:34:46,000 - 00:34:48,000] While Team Libertarian...
+- [00:34:52,000 - 00:34:55,000] Julia, John, Alex.
+- [00:34:55,000 - 00:34:58,000] While Team Libertarian is gathering over there,
+- [00:34:58,000 - 00:35:01,000] let me just summarize
+- [00:35:01,000 - 00:35:03,000] the main objections that I've heard
+- [00:35:03,000 - 00:35:06,000] in class and on the website.
+- [00:35:06,000 - 00:35:08,000] Objection number one.
+- [00:35:11,000 - 00:35:13,000] And here, I'll come down to...
+- [00:35:13,000 - 00:35:15,000] I want to talk to Team Libertarian over here.
+- [00:35:15,000 - 00:35:18,000] So, objection number one
+- [00:35:18,000 - 00:35:19,000] is that
+- [00:35:19,000 - 00:35:21,000] the poor need the money more.
+- [00:35:22,000 - 00:35:24,000] That's an obvious objection.
+- [00:35:24,000 - 00:35:26,000] A lot more than...
+- [00:35:26,000 - 00:35:27,000] Thanks.
+- [00:35:27,000 - 00:35:31,000] Than do Bill Gates and Michael Jordan.
+- [00:35:32,000 - 00:35:34,000] Objection number two.
+- [00:35:35,000 - 00:35:37,000] It's not really slavery to tax.
+- [00:35:39,000 - 00:35:40,000] Because,
+- [00:35:40,000 - 00:35:43,000] at least in a democratic society,
+- [00:35:43,000 - 00:35:45,000] it's not a slave holder.
+- [00:35:46,000 - 00:35:47,000] It's...
+- [00:35:47,000 - 00:35:48,000] It's Congress.
+- [00:35:48,000 - 00:35:49,000] It's a democratic...
+- [00:35:49,000 - 00:35:51,000] You're smiling, Alex, already.
+- [00:35:51,000 - 00:35:53,000] You're confident you can reply to all of these?
+- [00:35:55,000 - 00:35:58,000] So, taxation by consent of the governed
+- [00:35:58,000 - 00:35:59,000] is not coerced.
+- [00:35:59,000 - 00:36:02,000] Third, some people have said,
+- [00:36:02,000 - 00:36:05,000] don't the successful, like Gates,
+- [00:36:05,000 - 00:36:08,000] owe a debt to society for their success
+- [00:36:08,000 - 00:36:10,000] that they repay by paying taxes?
+- [00:36:10,000 - 00:36:12,000] Who wants to respond to the first one?
+- [00:36:12,000 - 00:36:14,000] The poor need the money more.
+- [00:36:14,000 - 00:36:15,000] All right.
+- [00:36:15,000 - 00:36:16,000] And you're?
+- [00:36:16,000 - 00:36:17,000] John.
+- [00:36:17,000 - 00:36:18,000] John. All right, John.
+- [00:36:18,000 - 00:36:19,000] Let's see. Here, I'll hold it.
+- [00:36:19,000 - 00:36:20,000] All right.
+- [00:36:20,000 - 00:36:21,000] The poor need the money more.
+- [00:36:21,000 - 00:36:22,000] That's quite obvious.
+- [00:36:22,000 - 00:36:23,000] I could use the money.
+- [00:36:23,000 - 00:36:24,000] You know, I certainly wouldn't mind
+- [00:36:24,000 - 00:36:25,000] if Bill Gates gave me a million dollars.
+- [00:36:25,000 - 00:36:26,000] I mean, I'd take a thousand.
+- [00:36:26,000 - 00:36:27,000] But at some point,
+- [00:36:27,000 - 00:36:28,000] you have to understand
+- [00:36:28,000 - 00:36:29,000] that the benefits of redistribution of wealth
+- [00:36:29,000 - 00:36:30,000] don't justify the initial violation
+- [00:36:30,000 - 00:36:31,000] of the property right.
+- [00:36:31,000 - 00:36:32,000] If you look at the argument,
+- [00:36:32,000 - 00:36:33,000] the poor need the money more,
+- [00:36:33,000 - 00:36:34,000] at no point in that argument
+- [00:36:34,000 - 00:36:35,000] do you contradict the fact
+- [00:36:35,000 - 00:36:36,000] that we've extrapolated from agreed upon principles
+- [00:36:36,000 - 00:36:37,000] to the fact that the poor need the money more.
+- [00:36:37,000 - 00:36:38,000] And that's not the case.
+- [00:36:38,000 - 00:36:39,000] I think that the argument
+- [00:36:39,000 - 00:36:40,000] is that the poor need the money more.
+- [00:36:40,000 - 00:36:41,000] And that's not the case.
+- [00:36:41,000 - 00:36:42,000] I think that the argument
+- [00:36:42,000 - 00:36:43,000] is that the poor need the money more.
+- [00:36:43,000 - 00:36:44,000] And that's not the case.
+- [00:36:44,000 - 00:36:45,000] I think that the argument
+- [00:36:45,000 - 00:36:46,000] is that the poor need the money more.
+- [00:36:46,000 - 00:36:47,000] And that's not the case.
+- [00:36:47,000 - 00:36:48,000] I think that the argument
+- [00:36:48,000 - 00:36:49,000] is that the poor need the money more.
+- [00:36:49,000 - 00:36:50,000] And that's not the case.
+- [00:36:50,000 - 00:36:51,000] As an independent media,
+- [00:36:51,000 - 00:36:52,000] I don't see it as Yoursence.
+- [00:36:52,000 - 00:36:53,000] I think that the argument
+- [00:36:53,000 - 00:36:54,000] is that the poor need the money more.
+- [00:36:54,000 - 00:36:55,000] I think that the argument
+- [00:36:55,000 - 00:36:56,000] exists because it is Fake.
+- [00:36:56,000 - 00:36:57,000] Itishing is consistent.
+- [00:36:57,000 - 00:36:58,000] It's not a personal choice
+- [00:36:58,000 - 00:36:59,000] that you would think
+- [00:36:59,000 - 00:37:00,000] if you wanted to serve
+- [00:37:00,000 - 00:37:01,000] the entire population in a property to use.
+- [00:37:02,000 - 00:37:03,000] So now I have a idea
+- [00:37:03,000 - 00:37:04,000] that a small device
+- [00:37:04,000 - 00:37:05,180] from which you
+- [00:37:05,180 - 00:37:06,000] can take and enjoy
+- [00:37:06,000 - 00:37:13,860] the cocoa
+- [00:37:13,860 - 00:37:14,860] better than your friends,
+- [00:37:14,860 - 00:37:17,460] Bill Gates can give to charity if he wants to.
+- [00:37:17,460 - 00:37:18,460] Right.
+- [00:37:18,460 - 00:37:22,260] But it would still be wrong to coerce him.
+- [00:37:22,260 - 00:37:23,260] Exactly.
+- [00:37:23,260 - 00:37:25,260] To meet the needs of the poor.
+- [00:37:25,260 - 00:37:26,260] Exactly.
+- [00:37:26,260 - 00:37:30,060] Are the two of you happy with that reply?
+- [00:37:30,060 - 00:37:31,060] Anything to add?
+- [00:37:31,060 - 00:37:32,060] All right.
+- [00:37:32,060 - 00:37:33,060] Go ahead, Julie.
+- [00:37:33,060 - 00:37:34,060] I think, Julia, yes.
+- [00:37:34,060 - 00:37:36,960] I think I could also add, I guess
+- [00:37:36,960 - 00:37:39,860] I could add that there's a difference between needing
+- [00:37:39,860 - 00:37:41,560] something and deserving something.
+- [00:37:41,560 - 00:37:43,409] I mean, in a ideal society, everyone's needs
+- [00:37:43,409 - 00:37:45,259] will be met, but here we're arguing what do
+- [00:37:45,259 - 00:37:48,180] we deserve as a society.
+- [00:37:48,180 - 00:37:51,770] And the poor don't deserve the benefits that
+- [00:37:51,770 - 00:37:55,360] would flow from taxing Michael Jordan to help
+- [00:37:55,360 - 00:37:57,660] them.
+- [00:37:57,660 - 00:37:59,910] Based on what we've come up with here,
+- [00:37:59,910 - 00:38:02,160] I don't think you deserve something like that.
+- [00:38:02,160 - 00:38:05,240] Let me push you a little bit on that, Julia.
+- [00:38:05,240 - 00:38:08,400] The victims of Hurricane Katrina
+- [00:38:08,400 - 00:38:11,560] are in desperate need of help.
+- [00:38:11,560 - 00:38:15,669] Would you say that they don't deserve
+- [00:38:15,669 - 00:38:19,779] help that would come from the federal government
+- [00:38:19,779 - 00:38:20,779] through taxation?
+- [00:38:20,779 - 00:38:21,779] Okay.
+- [00:38:21,779 - 00:38:24,700] That's a difficult question.
+- [00:38:24,700 - 00:38:26,680] I think this is a case
+- [00:38:26,680 - 00:38:28,660] where they need help, not deserve it.
+- [00:38:28,660 - 00:38:31,190] But I think, again, if you hit a
+- [00:38:31,190 - 00:38:33,720] certain level of requirements to reach sustenance, you're
+- [00:38:33,720 - 00:38:34,720] going to need help.
+- [00:38:34,720 - 00:38:36,230] Like if you don't have food or a
+- [00:38:36,230 - 00:38:37,740] place to live, that's a case of need.
+- [00:38:37,740 - 00:38:40,820] So need is one thing and desert is another.
+- [00:38:40,820 - 00:38:41,540] Exactly.
+- [00:38:41,560 - 00:38:44,320] All right.
+- [00:38:44,320 - 00:38:50,779] Who would like to reply?
+- [00:38:50,779 - 00:38:52,880] Yes.
+- [00:38:52,880 - 00:38:55,310] Going back to the first point that he
+- [00:38:55,310 - 00:38:57,740] made about the property rights of the individual,
+- [00:38:57,740 - 00:39:00,999] the property rights are established and enforced
+- [00:39:00,999 - 00:39:04,259] by the government, which is a democratic government,
+- [00:39:04,259 - 00:39:07,580] and we have representatives who enforce those rights.
+- [00:39:07,580 - 00:39:09,250] If you live in a
+- [00:39:09,250 - 00:39:10,920] society that operates under those rules,
+- [00:39:10,920 - 00:39:11,230] then it should be a
+- [00:39:11,230 - 00:39:11,540] society that is a democratic society.
+- [00:39:11,540 - 00:39:15,730] It should be up to the government to
+- [00:39:15,730 - 00:39:19,920] decide how those resources that come out through
+- [00:39:19,920 - 00:39:21,610] taxation are distributed because it is
+- [00:39:21,610 - 00:39:23,300] through the consent of the government.
+- [00:39:23,300 - 00:39:25,080] If you disagree with it, you don't have
+- [00:39:25,080 - 00:39:26,860] to live in that society where that operates.
+- [00:39:26,860 - 00:39:27,860] All right.
+- [00:39:27,860 - 00:39:28,860] Good.
+- [00:39:28,860 - 00:39:29,860] And tell me your name.
+- [00:39:29,860 - 00:39:30,860] Raul.
+- [00:39:30,860 - 00:39:34,010] Raul is pointing out, actually Raul is invoking
+- [00:39:34,010 - 00:39:37,160] point number two, if the taxation is by the
+- [00:39:37,160 - 00:39:40,300] consent of the governed, it's not coerced.
+- [00:39:40,300 - 00:39:41,340] It's not a government.
+- [00:39:41,340 - 00:39:43,940] It's legitimate.
+- [00:39:43,940 - 00:39:45,720] Bill Gates and Michael Jordan
+- [00:39:45,720 - 00:39:47,500] are citizens of the United States.
+- [00:39:47,500 - 00:39:49,200] They get to vote for Congress.
+- [00:39:49,200 - 00:39:52,420] They get to vote their
+- [00:39:52,420 - 00:39:55,640] policy convictions, just like everybody else.
+- [00:39:55,640 - 00:39:57,660] Who would like to take that one on?
+- [00:39:57,660 - 00:39:58,660] John.
+- [00:39:58,660 - 00:39:59,660] All right.
+- [00:39:59,660 - 00:40:02,360] Basically, what the libertarians are objecting to in
+- [00:40:02,360 - 00:40:05,060] this case is the middle 80 percent deciding
+- [00:40:05,060 - 00:40:06,080] what the top 10 percent are
+- [00:40:06,080 - 00:40:07,100] doing for the bottom 10 percent.
+- [00:40:07,100 - 00:40:08,100] That's the only thing.
+- [00:40:08,100 - 00:40:09,100] Wait, wait, wait, wait, wait, John.
+- [00:40:09,100 - 00:40:10,100] I was excited.
+- [00:40:10,100 - 00:40:11,860] I was excited.
+- [00:40:11,860 - 00:40:12,860] Don't you believe in democracy?
+- [00:40:12,860 - 00:40:13,860] Well, right, but at some point...
+- [00:40:13,860 - 00:40:14,860] Don't you believe in the...
+- [00:40:14,860 - 00:40:17,279] I mean, you say 80 percent, 10 percent majority.
+- [00:40:17,279 - 00:40:18,279] Majority rule is what?
+- [00:40:18,279 - 00:40:19,279] The majority.
+- [00:40:19,279 - 00:40:20,279] Exactly.
+- [00:40:20,279 - 00:40:21,279] Exactly, but...
+- [00:40:21,279 - 00:40:22,279] In a democracy.
+- [00:40:22,279 - 00:40:23,279] Aren't you for democracy?
+- [00:40:23,279 - 00:40:24,279] Yes, I'm for democracy, but...
+- [00:40:24,279 - 00:40:26,600] Hang on, hang on, hang on.
+- [00:40:26,600 - 00:40:28,319] Democracy and mob rule aren't the same thing.
+- [00:40:28,319 - 00:40:29,319] Mob rule?
+- [00:40:29,319 - 00:40:30,319] Mob rule.
+- [00:40:30,319 - 00:40:31,319] Exactly.
+- [00:40:31,319 - 00:40:33,519] But in an open society, you have
+- [00:40:33,519 - 00:40:35,720] a recourse to address that through your representatives.
+- [00:40:35,720 - 00:40:36,410] And if the majority of the consent of
+- [00:40:36,410 - 00:40:37,100] those who are governed doesn't agree with you, then...
+- [00:40:37,100 - 00:40:38,100] I'm sorry.
+- [00:40:38,100 - 00:40:39,100] I'm sorry.
+- [00:40:39,100 - 00:40:40,100] I'm sorry.
+- [00:40:40,100 - 00:40:41,100] I'm sorry.
+- [00:40:41,100 - 00:40:42,100] I'm sorry.
+- [00:40:42,100 - 00:40:43,100] I'm sorry.
+- [00:40:43,100 - 00:40:44,100] I'm sorry.
+- [00:40:44,100 - 00:40:44,600] If the majority of the consent of those
+- [00:40:44,600 - 00:40:45,100] who are governed doesn't agree with you, then
+- [00:40:45,100 - 00:40:46,480] you know you're choosing to live in this society,
+- [00:40:46,480 - 00:40:47,860] and you have to operate under what the majority
+- [00:40:47,860 - 00:40:48,860] of society concludes.
+- [00:40:48,860 - 00:40:50,860] All right, Alex, on democracy.
+- [00:40:50,860 - 00:40:52,720] Democracy, what about that?
+- [00:40:52,720 - 00:40:55,960] The fact that I have won 500,000th of
+- [00:40:55,960 - 00:40:59,200] a vote for one representative in Congress is not
+- [00:40:59,200 - 00:41:02,269] the same thing as my having the ability to
+- [00:41:02,269 - 00:41:05,339] decide for myself how to use my property rights.
+- [00:41:05,339 - 00:41:08,900] I'm a drop in the bucket.
+- [00:41:08,900 - 00:41:09,900] And well...
+- [00:41:09,900 - 00:41:10,900] You might lose the vote.
+- [00:41:10,900 - 00:41:11,900] Exactly.
+- [00:41:11,900 - 00:41:12,900] And they might take...
+- [00:41:12,900 - 00:41:13,900] And I will.
+- [00:41:13,900 - 00:41:15,360] I mean, I don't have the decision right
+- [00:41:15,360 - 00:41:16,820] now of whether or not to pay taxes.
+- [00:41:16,820 - 00:41:19,160] If I don't, I get locked in jail.
+- [00:41:19,160 - 00:41:21,140] Or they tell me to get out of the country.
+- [00:41:21,140 - 00:41:25,710] But Alex, Alex, let me make a small
+- [00:41:25,710 - 00:41:30,280] case for democracy and see what you would say.
+- [00:41:30,280 - 00:41:31,480] Why can't you...
+- [00:41:31,480 - 00:41:34,780] We live in a democratic society with freedom of speech.
+- [00:41:34,780 - 00:41:36,660] Why can't you take to the hustings?
+- [00:41:36,660 - 00:41:37,900] Persuade your fellow citizens.
+- [00:41:37,900 - 00:41:38,900] Persuade your fellow citizens.
+- [00:41:38,900 - 00:41:41,400] Persuade your fellow citizens that taxation is
+- [00:41:41,400 - 00:41:43,900] unjust and try to get a majority.
+- [00:41:43,900 - 00:41:45,900] I don't think that people should be...
+- [00:41:45,900 - 00:41:48,590] Should have to convince 280 million others
+- [00:41:48,590 - 00:41:51,280] simply in order to exercise their own rights,
+- [00:41:51,280 - 00:41:53,980] in order to not have their self-ownership violated.
+- [00:41:53,980 - 00:41:55,940] I think people should be able to do
+- [00:41:55,940 - 00:41:57,900] that without having to convince 280 million people.
+- [00:41:57,900 - 00:42:00,400] Does that mean you're against democracy as a whole?
+- [00:42:00,400 - 00:42:01,400] I...
+- [00:42:01,400 - 00:42:02,400] No.
+- [00:42:02,400 - 00:42:04,030] I just believe in a very limited form
+- [00:42:04,030 - 00:42:05,660] of democracy whereby we have a constitution that severely
+- [00:42:05,660 - 00:42:07,900] limits the scope of what decisions can be made.
+- [00:42:07,900 - 00:42:08,900] What are the options?
+- [00:42:08,900 - 00:42:09,900] What are the unicorns?
+- [00:42:09,900 - 00:42:10,900] What can we do?
+- [00:42:10,900 - 00:42:11,400] What are the social
+- [00:42:11,400 - 00:42:11,900] systems that make decisions democratically?
+- [00:42:11,900 - 00:42:12,900] I don't know.
+- [00:42:12,900 - 00:42:13,900] I haven't seen any of these.
+- [00:42:13,900 - 00:42:14,400] I don't know if there were any other questions that
+- [00:42:14,400 - 00:42:14,900] I had for you that I would add or try
+- [00:42:14,900 - 00:42:15,900] to get to.
+- [00:42:15,900 - 00:42:16,900] Yeah, and I just...
+- [00:42:16,900 - 00:42:17,900] I don't know if there were any other questions.
+- [00:42:17,900 - 00:42:18,400] I don't know if there's anything else I
+- [00:42:18,400 - 00:42:18,900] would add, but I don't think these positions can
+- [00:42:18,900 - 00:42:19,900] be made democratically.
+- [00:42:19,900 - 00:42:20,900] All right.
+- [00:42:20,900 - 00:42:21,400] So, you're saying that the democracy
+- [00:42:21,400 - 00:42:21,900] is fine, except where fundamental rights are
+- [00:42:21,900 - 00:42:22,900] involved.
+- [00:42:22,900 - 00:42:23,400] And I think you could win
+- [00:42:23,400 - 00:42:23,900] if you're going on the hustings.
+- [00:42:23,900 - 00:42:24,400] Let me add one element
+- [00:42:24,400 - 00:42:24,900] to the argument you might make.
+- [00:42:24,900 - 00:42:26,400] Maybe you could say, put
+- [00:42:26,400 - 00:42:27,900] aside the economic debates, taxation.
+- [00:42:27,900 - 00:42:30,400] Suppose the individual right to
+- [00:42:30,400 - 00:42:32,900] religious liberty were at stake.
+- [00:42:32,900 - 00:42:36,320] liberty were at stake. Then, Alex, you could
+- [00:42:36,320 - 00:42:39,740] say on the hustings, surely you would all agree
+- [00:42:39,740 - 00:42:41,910] that we shouldn't put the right
+- [00:42:41,910 - 00:42:44,080] to individual liberty up to a vote?
+- [00:42:45,460 - 00:42:48,300] Yeah, that's exactly right. And that's why
+- [00:42:48,300 - 00:42:51,140] we have constitutional amendments and why we make
+- [00:42:51,140 - 00:42:53,600] it so hard to amend our constitution. So
+- [00:42:53,600 - 00:42:56,060] you would say that the right to private property,
+- [00:42:56,060 - 00:42:59,320] the right of Michael Jordan to keep all the
+- [00:42:59,320 - 00:43:02,580] money he makes, at least to protect it from
+- [00:43:02,580 - 00:43:06,510] redistribution, is the same kind of right with the
+- [00:43:06,510 - 00:43:10,440] same kind of weight as the right to freedom
+- [00:43:10,440 - 00:43:13,470] of speech, the right to religious liberty,
+- [00:43:13,470 - 00:43:16,500] rights that should trump what the majority wants.
+- [00:43:16,960 - 00:43:18,740] Absolutely. The reason why we have a right
+- [00:43:18,740 - 00:43:20,520] to free speech is because we have a right
+- [00:43:20,520 - 00:43:22,909] to own ourselves, to exercise our
+- [00:43:22,909 - 00:43:25,299] voice in any way that we choose.
+- [00:43:25,299 - 00:43:25,700] All right.
+- [00:43:26,060 - 00:43:28,590] Good. All right. So there we are. Who
+- [00:43:28,590 - 00:43:31,120] would like to respond to that argument about
+- [00:43:31,120 - 00:43:35,420] democracy being... Okay, up there. Stand up.
+- [00:43:37,060 - 00:43:39,790] I think comparing religion, economics, it's not the
+- [00:43:39,790 - 00:43:42,520] same thing. The reason why Bill Gates was able
+- [00:43:42,520 - 00:43:45,430] to make so much money is because we live
+- [00:43:45,430 - 00:43:48,340] in an economically and socially stable society. And if
+- [00:43:48,340 - 00:43:51,340] the government didn't provide for the poorest 10%,
+- [00:43:51,340 - 00:43:54,340] as you say, through taxation, then we would need
+- [00:43:54,340 - 00:43:56,040] more money for police to...
+- [00:43:56,060 - 00:43:57,060] Right.
+- [00:43:57,060 - 00:43:59,000] ...prevent crime. And so either way, there
+- [00:43:59,000 - 00:44:00,940] would be more taxes taken away to provide
+- [00:44:00,940 - 00:44:03,290] what you guys call the
+- [00:44:03,290 - 00:44:05,640] necessary things that the government provides.
+- [00:44:05,640 - 00:44:07,060] What's your name?
+- [00:44:07,060 - 00:44:08,060] Anna.
+- [00:44:08,060 - 00:44:13,610] Anna, let me ask you this. Why is
+- [00:44:13,610 - 00:44:19,160] the fundamental right to religious liberty different from
+- [00:44:19,160 - 00:44:21,610] the right Alex asserts as a fundamental right
+- [00:44:21,610 - 00:44:24,060] to private property and to keep our free speech?
+- [00:44:24,060 - 00:44:24,560] Well, I think...
+- [00:44:24,560 - 00:44:25,360] You're going to do a good job.
+- [00:44:25,360 - 00:44:25,560] Okay.
+- [00:44:25,560 - 00:44:25,860] I'll stop.
+- [00:44:25,860 - 00:44:25,960] Okay.
+- [00:44:25,960 - 00:44:26,020] All right.
+- [00:44:26,020 - 00:44:29,150] what I earn. What's the difference between the
+- [00:44:29,150 - 00:44:32,280] two? Because you wouldn't have, you wouldn't be
+- [00:44:32,280 - 00:44:34,890] able to make money. You wouldn't be able to
+- [00:44:34,890 - 00:44:37,500] own property if there wasn't a socially, like if
+- [00:44:37,500 - 00:44:39,890] society wasn't stable. And that's completely
+- [00:44:39,890 - 00:44:42,280] different from religion. That's like something
+- [00:44:42,280 - 00:44:44,769] personal, something that you can practice on your
+- [00:44:44,769 - 00:44:47,259] own in your own home. Whereas like me practicing,
+- [00:44:47,540 - 00:44:49,470] my religion is not going to affect the
+- [00:44:49,470 - 00:44:51,400] next person. But if I'm poor and I'm desperate,
+- [00:44:51,400 - 00:44:54,020] um, like I might commit a crime to
+- [00:44:54,020 - 00:44:56,640] feed my family and that can affect others.
+- [00:44:56,800 - 00:45:00,190] Okay, good. Thank you. Would it be wrong
+- [00:45:00,190 - 00:45:03,580] for someone to steal a loaf of bread
+- [00:45:03,580 - 00:45:06,900] to feed his starving family? Is
+- [00:45:06,900 - 00:45:10,220] that wrong? I believe that it is.
+- [00:45:10,600 - 00:45:12,870] Let's take, let's take a quick poll of the
+- [00:45:12,870 - 00:45:15,140] three of you. You say yes, it is wrong.
+- [00:45:15,600 - 00:45:17,220] It violates property rights. It's wrong.
+- [00:45:18,040 - 00:45:20,060] Even to save a starving family.
+- [00:45:20,060 - 00:45:21,300] I mean, there, there,
+- [00:45:21,400 - 00:45:24,260] there are definitely other ways around that. And by
+- [00:45:24,260 - 00:45:27,120] justifying, no, hang on, hang on before you laugh
+- [00:45:27,120 - 00:45:32,330] at me. Um, that didn't work before, before
+- [00:45:32,330 - 00:45:37,540] justifying the, the act of stealing, you have
+- [00:45:37,540 - 00:45:40,350] to look at violating the right that we've
+- [00:45:40,350 - 00:45:43,160] already agreed exists of the right of self-possession and
+- [00:45:43,160 - 00:45:45,510] the possession of, I mean, your own things.
+- [00:45:45,510 - 00:45:47,860] We agree on property rights. We agree at stealing.
+- [00:45:47,860 - 00:45:49,620] So property rights is not the issue.
+- [00:45:49,620 - 00:45:51,380] All right. But so why is it,
+- [00:45:51,400 - 00:45:52,810] why is it wrong to steal
+- [00:45:52,810 - 00:45:54,220] even to feed your starving family?
+- [00:45:54,220 - 00:45:56,340] Sort of the original argument that I made in
+- [00:45:56,340 - 00:45:58,460] the very, in the very first question you asked,
+- [00:45:58,460 - 00:46:01,170] the benefits of an action don't
+- [00:46:01,170 - 00:46:03,880] justify, don't make the action just.
+- [00:46:04,240 - 00:46:06,940] Do you want, what would you say, Julia? Is it all
+- [00:46:06,940 - 00:46:09,640] right to steal a loaf of bread to feed a starving
+- [00:46:09,640 - 00:46:12,340] family or to steal a drug that
+- [00:46:12,340 - 00:46:15,040] your, your child needs to, to survive?
+- [00:46:16,760 - 00:46:19,000] I think I'm okay with that, honestly.
+- [00:46:19,000 - 00:46:21,240] Um, even from a libertarian standpoint, I think
+- [00:46:21,240 - 00:46:23,470] that, okay, saying that you can just take
+- [00:46:23,470 - 00:46:25,700] money arbitrarily from people who have a lot
+- [00:46:25,700 - 00:46:27,880] to, to go to this pool of people who
+- [00:46:27,880 - 00:46:30,060] need it, but you have an individual who's acting
+- [00:46:30,060 - 00:46:32,650] on their own behalf to kind of save themselves.
+- [00:46:32,650 - 00:46:35,240] I mean, I think you said they, from the idea
+- [00:46:35,240 - 00:46:37,430] of like self-possession, they're also in
+- [00:46:37,430 - 00:46:39,620] charge of protecting themselves and keeping themselves
+- [00:46:39,620 - 00:46:41,680] alive. So therefore, even from a
+- [00:46:41,680 - 00:46:43,740] libertarian standpoint, that might be okay.
+- [00:46:43,740 - 00:46:46,140] All right. That's good. That's good. All right.
+- [00:46:46,140 - 00:46:48,540] What about, what about number three up here?
+- [00:46:48,540 - 00:46:51,940] Isn't it the case that the successful, the
+- [00:46:51,940 - 00:46:55,340] wealthy owe a debt? They didn't do that all
+- [00:46:55,340 - 00:46:58,270] by themselves. They had to cooperate with other
+- [00:46:58,270 - 00:47:01,200] people that they, they owe a debt to
+- [00:47:01,200 - 00:47:03,250] society and that that's expressed in taxation.
+- [00:47:03,250 - 00:47:05,300] You want to take that on, Julie?
+- [00:47:05,300 - 00:47:07,720] Okay. This one, um, I believe that there is
+- [00:47:07,720 - 00:47:10,140] not a debt to society in the sense that how
+- [00:47:10,140 - 00:47:12,180] did these people become wealthy? They did
+- [00:47:12,180 - 00:47:14,220] something that society valued highly. I think
+- [00:47:14,220 - 00:47:16,040] that society has already been
+- [00:47:16,040 - 00:47:17,860] giving, been fighting for them.
+- [00:47:18,540 - 00:47:20,310] Uh, if anything, I think it's, it's,
+- [00:47:20,310 - 00:47:22,080] everything's canceled out. They provided a service to
+- [00:47:22,080 - 00:47:24,190] society and society responded by
+- [00:47:24,190 - 00:47:26,300] somehow they got their wealth.
+- [00:47:26,300 - 00:47:29,800] Well, so be concrete in the case of
+- [00:47:29,800 - 00:47:33,300] Michael Jordan, some, I mean, to illustrate your point,
+- [00:47:33,860 - 00:47:36,380] there were people who helped him make
+- [00:47:36,380 - 00:47:38,900] the money, the teammates, the coach, people who
+- [00:47:38,900 - 00:47:41,450] taught him how to play, but they've, you're
+- [00:47:41,450 - 00:47:44,000] saying, but they've all been paid for their
+- [00:47:44,000 - 00:47:47,460] services. Exactly. And society derived a lot of benefit
+- [00:47:47,460 - 00:47:48,460] and pleasure from watching Michael Jordan.
+- [00:47:48,460 - 00:47:48,480] Exactly. And society derived a lot of
+- [00:47:48,480 - 00:47:48,500] benefit and pleasure from watching Michael Jordan.
+- [00:47:48,500 - 00:47:48,510] Exactly. And society derived a lot of
+- [00:47:48,510 - 00:47:48,520] benefit and pleasure from watching Michael Jordan.
+- [00:47:48,520 - 00:47:48,760] Exactly. And society derived a lot of
+- [00:47:48,760 - 00:47:49,000] benefit and pleasure from watching Michael Jordan.
+- [00:47:49,000 - 00:47:50,840] Um, I think that that's how
+- [00:47:50,840 - 00:47:52,680] he paid his debt to society.
+- [00:47:52,680 - 00:47:55,290] All right. Good. Who would anyone
+- [00:47:55,290 - 00:47:57,900] like to take up that point? Yes.
+- [00:47:57,900 - 00:48:00,730] Um, I think that there's a problem here
+- [00:48:00,730 - 00:48:03,560] with, that we're assuming that a person has
+- [00:48:03,560 - 00:48:05,950] self possession when they live in a society. I
+- [00:48:05,950 - 00:48:08,340] feel like when you live in a society, you
+- [00:48:08,340 - 00:48:10,580] give up that right. I mean, technically, if
+- [00:48:10,580 - 00:48:12,820] I want to personally go out and kill someone
+- [00:48:12,820 - 00:48:14,880] because they offend me, that is self possession.
+- [00:48:14,880 - 00:48:16,940] But because I live in a society, I cannot
+- [00:48:16,940 - 00:48:17,710] do that. I think it's kind of about the
+- [00:48:17,710 - 00:48:18,480] right to take up that right. I think that's kind
+- [00:48:18,480 - 00:48:20,900] kind of equivalent to say, because I have more
+- [00:48:20,900 - 00:48:23,320] money, I have resources that can save people's lives.
+- [00:48:23,960 - 00:48:25,060] Is it not okay for the
+- [00:48:25,060 - 00:48:26,160] government to take that from me?
+- [00:48:26,500 - 00:48:28,140] It's self-possession only to a certain
+- [00:48:28,140 - 00:48:29,780] extent because I'm living in a society
+- [00:48:29,780 - 00:48:30,960] where I have to take
+- [00:48:30,960 - 00:48:32,140] account of the people around me.
+- [00:48:32,180 - 00:48:33,800] So are you questioning, what's your name?
+- [00:48:34,140 - 00:48:34,540] Victoria.
+- [00:48:34,880 - 00:48:37,500] Victoria, are you questioning
+- [00:48:37,500 - 00:48:40,120] the fundamental premise of self-possession?
+- [00:48:40,420 - 00:48:40,760] Yes.
+- [00:48:41,560 - 00:48:43,500] I think that you don't really have self-possession
+- [00:48:43,500 - 00:48:45,440] if you choose to live in a society
+- [00:48:45,440 - 00:48:48,300] because you cannot just discount the people around you.
+- [00:48:48,480 - 00:48:52,350] All right, I want to quickly get the
+- [00:48:52,350 - 00:48:56,220] response of the libertarian team to the last point.
+- [00:48:56,400 - 00:49:00,220] The last point builds on, well, maybe it
+- [00:49:00,220 - 00:49:04,040] builds on Victoria's suggestion that we don't own ourselves
+- [00:49:04,040 - 00:49:08,160] because it says that Bill Gates is
+- [00:49:08,160 - 00:49:12,280] wealthy, that Michael Jordan makes a huge income.
+- [00:49:13,280 - 00:49:16,320] Isn't wholly their own doing.
+- [00:49:16,540 - 00:49:18,460] It's the product of a lot of luck.
+- [00:49:19,080 - 00:49:21,440] And so we can't claim that they
+- [00:49:21,440 - 00:49:23,800] morally deserve all the money they make.
+- [00:49:24,040 - 00:49:25,200] Who wants to reply to that?
+- [00:49:25,500 - 00:49:25,820] Alex?
+- [00:49:26,400 - 00:49:29,540] You certainly could make the case that it is not,
+- [00:49:29,540 - 00:49:32,680] their wealth is not appropriate to the goodness in their hearts,
+- [00:49:32,920 - 00:49:35,620] but that's not really the morally relevant issue.
+- [00:49:35,740 - 00:49:38,020] The point is that they have received what
+- [00:49:38,020 - 00:49:40,300] they have through the free exchange of people
+- [00:49:40,300 - 00:49:42,910] who have given them their holdings, usually
+- [00:49:42,910 - 00:49:45,520] in exchange for providing some other service.
+- [00:49:45,700 - 00:49:46,480] Good enough.
+- [00:49:46,940 - 00:49:48,440] I want to try to sum up.
+- [00:49:48,600 - 00:49:49,680] I want to try to sum
+- [00:49:49,680 - 00:49:50,760] up what we've learned from this discussion.
+- [00:49:50,760 - 00:49:53,420] But first, let's thank John, Alex, and
+- [00:49:53,420 - 00:49:56,080] Julia for an excellent, a really wonderful job.
+- [00:49:56,080 - 00:49:57,080] Thank you.
+- [00:50:02,080 - 00:50:05,980] Toward the end of the discussion just now,
+- [00:50:05,980 - 00:50:09,880] Victoria challenged the premise of this line of reasoning,
+- [00:50:09,880 - 00:50:11,680] this libertarian logic.
+- [00:50:11,680 - 00:50:17,080] Maybe, she suggested, we don't own ourselves after all.
+- [00:50:17,080 - 00:50:18,080] Maybe.
+- [00:50:18,080 - 00:50:23,279] If you reject the libertarian case against redistribution,
+- [00:50:25,080 - 00:50:28,980] there would seem to be an incentive
+- [00:50:28,980 - 00:50:32,880] to break into the libertarian line of reasoning
+- [00:50:34,560 - 00:50:37,600] at the earliest, at the most modest level,
+- [00:50:38,360 - 00:50:41,860] which is why a lot of people disputed
+- [00:50:41,860 - 00:50:45,360] that taxation is morally equivalent to forced labor.
+- [00:50:48,080 - 00:50:52,419] But what about the big claim, the
+- [00:50:52,419 - 00:50:56,759] premise, the big idea underlying the libertarian argument?
+- [00:50:57,560 - 00:51:03,820] Is it true that we own ourselves, or can we do
+- [00:51:03,820 - 00:51:10,080] without that idea and still avoid what libertarians want to avoid,
+- [00:51:12,080 - 00:51:15,080] creating a society and an account of justice
+- [00:51:15,080 - 00:51:17,080] where some people,
+- [00:51:17,080 - 00:51:18,060] where some people,
+- [00:51:18,080 - 00:51:21,580] can be just used for
+- [00:51:21,580 - 00:51:25,080] the sake of other people's welfare,
+- [00:51:25,080 - 00:51:29,080] or even for the sake of the general good?
+- [00:51:29,080 - 00:51:36,080] Libertarians combat the utilitarian idea of using people
+- [00:51:36,080 - 00:51:40,580] as means for the collective happiness by saying the way
+- [00:51:40,580 - 00:51:45,080] to put a stop to that utilitarian logic of using persons
+- [00:51:45,080 - 00:51:47,080] is to resort to the intuitively present.
+- [00:51:47,080 - 00:51:48,080] So, what does that mean?
+- [00:51:48,080 - 00:51:49,580] It means that we are the
+- [00:51:49,580 - 00:51:51,080] proprietors of our own personal rights.
+- [00:51:51,080 - 00:51:52,580] That's the very powerful idea that we
+- [00:51:52,580 - 00:51:54,080] are the proprietors of our own person.
+- [00:51:56,080 - 00:51:59,080] That's Alex and Julia and John and Robert Nozick.
+- [00:52:03,080 - 00:52:06,080] What are the consequences for a theory
+- [00:52:06,080 - 00:52:09,080] of justice and an account of rights
+- [00:52:09,080 - 00:52:13,080] of calling into question the idea of self-possession?
+- [00:52:15,080 - 00:52:17,080] Does it mean that we're back to utilitarianism
+- [00:52:17,080 - 00:52:20,080] and using people and aggregating preferences
+- [00:52:20,080 - 00:52:23,080] and pushing the fat man off the bridge?
+- [00:52:27,080 - 00:52:31,080] Nozick doesn't himself fully
+- [00:52:31,080 - 00:52:35,080] develop the idea of self-possession.
+- [00:52:35,080 - 00:52:39,080] He borrows it from an earlier philosopher, John Locke.
+- [00:52:39,080 - 00:52:46,080] John Locke accounted for the rise of private property
+- [00:52:46,080 - 00:52:49,080] from the state of nature
+- [00:52:49,080 - 00:52:52,080] by a chain of reasoning very similar to
+- [00:52:52,080 - 00:52:55,080] the one that Nozick and the libertarians use.
+- [00:52:55,080 - 00:52:57,080] John Locke said,
+- [00:52:57,080 - 00:53:00,080] private property arises
+- [00:53:00,080 - 00:53:04,080] because when we mix our labor
+- [00:53:04,080 - 00:53:06,080] with things,
+- [00:53:06,080 - 00:53:08,080] unowned things,
+- [00:53:08,080 - 00:53:12,080] we come to acquire a property right in those things.
+- [00:53:12,080 - 00:53:14,080] And the reason?
+- [00:53:14,080 - 00:53:17,080] The reason is that we own our own labor.
+- [00:53:17,080 - 00:53:19,080] And the reason for that?
+- [00:53:19,080 - 00:53:24,080] We are the proprietors, the owners of our own person.
+- [00:53:24,080 - 00:53:27,080] And so in order to examine
+- [00:53:27,080 - 00:53:30,080] the moral force of the
+- [00:53:30,080 - 00:53:33,080] libertarian claim that we own ourselves,
+- [00:53:33,080 - 00:53:36,080] we need to turn to
+- [00:53:36,080 - 00:53:39,080] the English political philosopher John Locke
+- [00:53:39,080 - 00:53:42,080] and examine his account of private property
+- [00:53:42,080 - 00:53:43,080] and self-possession.
+- [00:53:44,080 - 00:53:47,080] And that's what we'll do next time.
+- [00:54:14,080 - 00:54:16,080] So I think we should do just that,
+- [00:54:16,080 - 00:54:21,080] or instead of slaying all the right topics
+- [00:54:21,080 - 00:54:23,080] and trying to eliminate the
+- [00:54:23,080 - 00:54:25,080] ties of origin and opposite diseases
+- [00:54:25,080 - 00:54:27,080] in that free and safe system
+- [00:54:27,080 - 00:54:29,080] for all communities,
+- [00:54:29,080 - 00:54:31,160] we need to exonerate this crisis
+- [00:54:31,160 - 00:54:34,120] and re занy travel and complete work
+- [00:54:34,120 - 00:54:36,400] to find the one driving this powerful urge
+- [00:54:36,400 - 00:54:38,080] for self-possession.
+- [00:54:38,080 - 00:54:40,080] And so now everybody prefer
+- [00:54:40,080 - 00:54:42,080] to move these politicians about
+- [00:54:42,080 - 00:54:44,080] even faster than ever in their five years.
+- [00:54:44,080 - 00:54:51,080] Funding for this program is provided by...
+- [00:54:51,080 - 00:54:54,080] Additional funding provided by...

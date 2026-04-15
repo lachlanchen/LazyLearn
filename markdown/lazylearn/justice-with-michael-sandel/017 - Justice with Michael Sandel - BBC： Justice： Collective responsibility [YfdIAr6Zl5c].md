@@ -1,0 +1,140 @@
+# Transcript
+
+Source: 017 - Justice with Michael Sandel - BBC： Justice： Collective responsibility [YfdIAr6Zl5c].mkv
+
+- [00:00:00,000 - 00:00:01,000] Welcome to the
+- [00:00:01,000 - 00:00:02,000] World of Warcraft
+- [00:00:02,000 - 00:00:03,000] Episode 1
+- [00:00:03,000 - 00:00:04,000] The Warcraft
+- [00:00:04,000 - 00:00:05,000] Warcraft
+- [00:00:05,000 - 00:00:06,000] Warcraft
+- [00:00:06,000 - 00:00:07,000] Warcraft
+- [00:00:07,000 - 00:00:08,000] Warcraft
+- [00:00:08,000 - 00:00:09,000] Warcraft
+- [00:00:09,000 - 00:00:10,000] Warcraft
+- [00:00:10,000 - 00:00:11,000] Warcraft
+- [00:00:11,000 - 00:00:12,000] Warcraft
+- [00:00:12,000 - 00:00:13,000] Warcraft
+- [00:00:13,000 - 00:00:14,000] Warcraft
+- [00:00:14,000 - 00:00:15,000] Warcraft
+- [00:00:15,000 - 00:00:16,000] Warcraft
+- [00:00:16,000 - 00:00:17,000] Warcraft
+- [00:00:17,000 - 00:00:18,000] Warcraft
+- [00:00:18,000 - 00:00:19,000] Warcraft
+- [00:00:19,000 - 00:00:20,000] Warcraft
+- [00:00:20,000 - 00:00:21,000] Warcraft
+- [00:00:21,000 - 00:00:22,000] Warcraft
+- [00:00:22,000 - 00:00:23,000] Warcraft
+- [00:00:23,000 - 00:00:24,000] Warcraft
+- [00:00:24,000 - 00:00:25,000] Warcraft
+- [00:00:25,000 - 00:00:26,000] Warcraft
+- [00:00:26,000 - 00:00:27,000] Warcraft
+- [00:00:27,000 - 00:00:28,000] Warcraft
+- [00:00:28,000 - 00:00:29,000] Warcraft
+- [00:00:29,000 - 00:00:01,730] Warcraft
+- [00:00:01,730 - 00:00:12,710] Sous-titrage ST' 501
+- [00:00:12,738 - 00:00:15,988] Germany today still bears the
+- [00:00:15,988 - 00:00:19,238] marks of its morally burdened history.
+- [00:00:19,238 - 00:00:22,438] The remnants of the Berlin Wall that
+- [00:00:22,438 - 00:00:25,638] divided the city during the Cold War.
+- [00:00:25,638 - 00:00:30,358] The stark lines of Nazi architecture.
+- [00:00:30,358 - 00:00:33,758] And now, a massive work of public art
+- [00:00:33,758 - 00:00:37,158] a few hundred meters from the German parliament.
+- [00:00:37,158 - 00:00:40,818] The memorial to the murdered Jews of Europe.
+- [00:00:40,818 - 00:00:43,877] The genocide of six million.
+- [00:00:51,878 - 00:00:55,787] For Germany's post-war generations, the insistence on human
+- [00:00:55,787 - 00:00:59,697] dignity is one way of coming to terms
+- [00:00:59,697 - 00:01:03,738] with the horror of the Holocaust.
+- [00:01:03,738 - 00:01:07,258] My generation is still
+- [00:01:07,258 - 00:01:10,778] morally responsible for the Holocaust.
+- [00:01:10,778 - 00:01:10,788] And I think that's a
+- [00:01:10,788 - 00:01:10,798] very important part of the Holocaust.
+- [00:01:10,798 - 00:01:13,798] I think it doesn't matter if I
+- [00:01:13,798 - 00:01:16,798] committed the crime or whether it was...
+- [00:01:16,798 - 00:01:20,078] It doesn't even matter whether
+- [00:01:20,078 - 00:01:23,358] my grandparents personally committed any crimes
+- [00:01:23,358 - 00:01:28,218] or are guilty of committing such crimes.
+- [00:01:28,478 - 00:01:29,218] That's irrelevant.
+- [00:01:31,858 - 00:01:35,358] These were so outrageous crimes.
+- [00:01:36,118 - 00:01:38,658] And they were not just committed by individuals.
+- [00:01:38,658 - 00:01:40,658] They really were committed by...
+- [00:01:40,798 - 00:01:42,238] By an entire society.
+- [00:01:42,238 - 00:01:45,118] It was a collective crime that was committed.
+- [00:01:45,118 - 00:01:46,958] That explains why I
+- [00:01:46,958 - 00:01:48,798] think there's a collective responsibility.
+- [00:01:48,798 - 00:01:53,008] When I was a child, we traveled,
+- [00:01:53,008 - 00:01:57,218] we made a school trip to Denmark.
+- [00:01:57,218 - 00:01:59,668] And children in Denmark would throw stones at
+- [00:01:59,668 - 00:02:02,118] us and yell at us as Nazi kids.
+- [00:02:02,118 - 00:02:05,818] You know, they were right.
+- [00:02:05,818 - 00:02:08,068] Taking responsibility for the sins of past generations,
+- [00:02:08,068 - 00:02:10,318] the Holocaust is a great way to live.
+- [00:02:10,318 - 00:02:12,318] And I think it's a great way to live.
+- [00:02:12,318 - 00:02:14,318] The Holocaust is a great way to live.
+- [00:02:14,318 - 00:02:16,318] And I think it's a great way to live.
+- [00:02:16,318 - 00:02:18,318] And I think it's a great way to live.
+- [00:02:18,318 - 00:02:19,318] But I think it's not clear that
+- [00:02:19,318 - 00:02:20,318] Kant's philosophy can make sense of it.
+- [00:02:20,318 - 00:02:22,317] For Kant, we are responsible only
+- [00:02:22,317 - 00:02:24,317] for the acts we freely choose.
+- [00:02:24,317 - 00:02:26,817] Not for our country's past or
+- [00:02:26,817 - 00:02:29,317] for the crimes of our grandparents.
+- [00:02:29,317 - 00:02:33,817] Do you think this idea that you've
+- [00:02:33,817 - 00:02:38,317] articulated so eloquently of identity being shaped by...
+- [00:02:38,317 - 00:02:39,317] Mm-hmm.
+- [00:02:39,317 - 00:02:40,278] ...by the...
+- [00:02:40,278 - 00:02:41,278] ...by the...
+- [00:02:41,278 - 00:02:44,278] ...by the nation, culture, history...
+- [00:02:44,278 - 00:02:46,278] ...by the nation, culture, history...
+- [00:02:46,278 - 00:02:47,278] ...by the nation, culture, history...
+- [00:02:47,278 - 00:02:48,278] ...by the nation, culture, history...
+- [00:02:48,278 - 00:02:52,278] ...could Kant make sense of it morally?
+- [00:02:52,278 - 00:02:54,278] Probably not.
+- [00:02:54,278 - 00:02:56,278] I think for a number of reasons.
+- [00:02:56,278 - 00:02:58,778] A, because Kant did not have, I
+- [00:02:58,778 - 00:03:01,278] think, a strong understanding of the psyche.
+- [00:03:01,278 - 00:03:02,278] I mean, he...
+- [00:03:02,278 - 00:03:03,278] ...I mean, he...
+- [00:03:03,278 - 00:03:07,278] You know, it's not a psychologically informed philosopher.
+- [00:03:07,278 - 00:03:09,278] To some extent, that's irrelevant.
+- [00:03:09,278 - 00:03:13,778] I think he would consider the idea of the
+- [00:03:13,778 - 00:03:18,278] sense of guilt, I think, or the sense of shame,
+- [00:03:18,278 - 00:03:22,278] or the sense of inheriting something
+- [00:03:22,278 - 00:03:26,278] from, you know, the generations before you.
+- [00:03:26,278 - 00:03:30,278] I don't think he would have even thought about this.
+- [00:03:30,278 - 00:03:34,278] But would he go even further and have
+- [00:03:34,278 - 00:03:38,278] a principled reason not to attribute any moral responsibility...
+- [00:03:38,278 - 00:03:40,278] Probably. It's interesting.
+- [00:03:40,278 - 00:03:41,278] I mean, it's interesting when he...
+- [00:03:41,278 - 00:03:43,278] I mean, he doesn't speak about this, so we can...
+- [00:03:43,278 - 00:03:44,278] Right.
+- [00:03:44,278 - 00:03:45,278] ...we're just speculating.
+- [00:03:45,278 - 00:03:46,278] But you're right.
+- [00:03:46,278 - 00:03:49,778] I mean, to some extent, probably he would have
+- [00:03:49,778 - 00:03:53,278] been against a generation taking responsibility from a previous one,
+- [00:03:53,278 - 00:03:54,278] because he...
+- [00:03:54,278 - 00:03:58,778] ...somehow that would also mean that generation
+- [00:03:58,778 - 00:04:03,278] is just an instrument of an earlier generation.
+- [00:04:08,278 - 00:04:10,278] Okay.
+- [00:04:10,278 - 00:04:29,158] But even if it's
+- [00:04:29,158 - 00:04:32,277] something like this...
+- [00:04:32,277 - 00:04:35,277] What's about this?
+- [00:04:35,278 - 00:04:39,278] without first figuring out the meaning of the good life,
+- [00:04:39,278 - 00:04:43,278] without first reflecting on the best way to live.
+- [00:04:52,278 - 00:04:56,278] These days, we try to avoid bringing questions of virtue
+- [00:04:56,278 - 00:04:59,278] into debates about justice and politics.
+- [00:04:59,278 - 00:05:03,278] People disagree, after all, about the best way to live.
+- [00:05:03,278 - 00:05:06,278] But can politics really be
+- [00:05:06,278 - 00:05:09,278] neutral on moral and spiritual questions?
+- [00:05:09,278 - 00:05:12,278] To explore this, we turn to
+- [00:05:12,278 - 00:05:15,278] what may seem an unlikely place.
+- [00:05:15,278 - 00:05:19,278] 2,500 years ago, in ancient Athens,
+- [00:05:19,278 - 00:05:21,778] we find a more demanding
+- [00:05:21,778 - 00:05:24,278] idea of citizenship and of politics
+- [00:05:24,278 - 00:05:26,278] than is familiar these days.
+- [00:05:26,278 - 00:05:31,278] For Aristotle, politics was not just about maximizing GDP
+- [00:05:31,278 - 00:05:33,278] or even protecting his kingdom.
+- [00:05:33,278 - 00:05:35,278] It was about the individual rights.
+- [00:05:35,278 - 00:05:37,278] It was about the good life.
+- [00:05:40,278 - 00:05:43,278] Aristotle lived and taught in
+- [00:05:43,278 - 00:05:46,278] Athens in the 4th century BC.

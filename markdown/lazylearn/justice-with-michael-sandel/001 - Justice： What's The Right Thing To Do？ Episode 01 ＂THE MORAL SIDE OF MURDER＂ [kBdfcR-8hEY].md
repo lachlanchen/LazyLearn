@@ -1,0 +1,1270 @@
+# Transcript
+
+Source: 001 - Justice： What's The Right Thing To Do？ Episode 01 ＂THE MORAL SIDE OF MURDER＂ [kBdfcR-8hEY].webm
+
+- [00:00:00,000 - 00:00:05,000] Funding for this program is provided by
+- [00:00:05,000 - 00:00:09,000] Additional funding provided by
+- [00:00:30,000 - 00:00:33,500] This is a course about justice
+- [00:00:33,500 - 00:00:37,000] and we begin with a story.
+- [00:00:37,000 - 00:00:40,500] Suppose you're the driver of a trolley car and your trolley
+- [00:00:40,500 - 00:00:44,000] car is hurtling down the track at 60 miles an hour.
+- [00:00:44,000 - 00:00:46,500] And at the end of the track
+- [00:00:46,500 - 00:00:49,000] you notice five workers working on the track.
+- [00:00:49,000 - 00:00:51,000] You try to stop but
+- [00:00:51,000 - 00:00:53,000] you can't. Your brakes don't work.
+- [00:00:53,000 - 00:00:56,000] You feel desperate because you know that
+- [00:00:56,000 - 00:00:59,000] if you crash into these five workers
+- [00:00:59,000 - 00:01:00,000] they will all die.
+- [00:01:00,000 - 00:01:03,000] Let's assume you know that for sure.
+- [00:01:03,000 - 00:01:07,500] And so you feel helpless until you notice that
+- [00:01:07,500 - 00:01:12,000] there is off to the right a side track.
+- [00:01:12,000 - 00:01:15,000] And at the end of that track
+- [00:01:15,000 - 00:01:18,000] there's one worker working on the track.
+- [00:01:18,000 - 00:01:22,500] Your steering wheel works so you can turn the
+- [00:01:22,500 - 00:01:27,000] trolley car if you want to onto the side track
+- [00:01:27,000 - 00:01:29,000] killing the one.
+- [00:01:29,000 - 00:01:30,000] And you can't.
+- [00:01:30,000 - 00:01:32,000] But sparing the five.
+- [00:01:32,000 - 00:01:34,000] Here's our first question.
+- [00:01:34,000 - 00:01:37,000] What's the right thing to do?
+- [00:01:37,000 - 00:01:39,000] What would you do?
+- [00:01:39,000 - 00:01:41,000] Let's take a poll.
+- [00:01:41,000 - 00:01:44,000] How many would turn the
+- [00:01:44,000 - 00:01:47,000] trolley car onto the side track?
+- [00:01:47,000 - 00:01:49,000] Raise your hands.
+- [00:01:49,000 - 00:01:53,000] How many wouldn't?
+- [00:01:53,000 - 00:01:55,000] How many would go straight ahead?
+- [00:01:55,000 - 00:01:58,000] Keep your hands up.
+- [00:01:58,000 - 00:01:59,000] Those of you who would go straight ahead.
+- [00:01:59,000 - 00:02:05,000] A handful of people would.
+- [00:02:05,000 - 00:02:07,000] The vast majority would turn.
+- [00:02:07,000 - 00:02:09,000] Let's hear first.
+- [00:02:09,000 - 00:02:12,000] Now we need to begin to investigate the reasons
+- [00:02:12,000 - 00:02:15,000] why you think it's the right thing to do.
+- [00:02:15,000 - 00:02:18,000] Let's begin with those in the majority.
+- [00:02:18,000 - 00:02:21,000] Who would turn to go onto the side track?
+- [00:02:21,000 - 00:02:23,000] Why would you do it?
+- [00:02:23,000 - 00:02:25,000] What would be your reason?
+- [00:02:25,000 - 00:02:28,000] Who's willing to volunteer a reason?
+- [00:02:29,000 - 00:02:30,000] Go ahead.
+- [00:02:30,000 - 00:02:31,000] Stand up.
+- [00:02:31,000 - 00:02:34,500] Because it can't be right to kill five
+- [00:02:34,500 - 00:02:38,000] people when you can only kill one person instead.
+- [00:02:38,000 - 00:02:42,500] It wouldn't be right to kill five
+- [00:02:42,500 - 00:02:47,000] if you could kill one person instead.
+- [00:02:47,000 - 00:02:48,000] That's a good reason.
+- [00:02:48,000 - 00:02:53,000] That's a good reason.
+- [00:02:53,000 - 00:02:54,000] Who else?
+- [00:02:54,000 - 00:02:57,000] Does everybody agree with that reason?
+- [00:02:57,000 - 00:03:00,000] Go ahead.
+- [00:03:00,000 - 00:03:07,500] Well, I was thinking it was the same reason on 9-11 we regard the people who flew the plane into the
+- [00:03:07,500 - 00:03:15,000] Pennsylvania field as heroes because they chose to kill the people in the plane and not kill more people in big buildings.
+- [00:03:15,000 - 00:03:19,000] So the principle there was the same on 9-11.
+- [00:03:19,000 - 00:03:21,000] It's a tragic circumstance.
+- [00:03:21,000 - 00:03:25,000] But better to kill one so that five can live?
+- [00:03:25,000 - 00:03:26,500] Is that the reason most of you
+- [00:03:26,500 - 00:03:28,000] had those of you who would turn?
+- [00:03:28,000 - 00:03:30,000] Yes?
+- [00:03:30,000 - 00:03:34,500] Let's hear now from those in
+- [00:03:34,500 - 00:03:39,000] the minority, those who wouldn't turn.
+- [00:03:39,000 - 00:03:40,000] Yes?
+- [00:03:40,000 - 00:03:42,500] Well, I think that's the same type
+- [00:03:42,500 - 00:03:45,000] of mentality that justifies genocide and totalitarianism.
+- [00:03:45,000 - 00:03:47,500] In order to save one type
+- [00:03:47,500 - 00:03:50,000] of race, you wipe out the other.
+- [00:03:50,000 - 00:03:52,000] So what would you do in this case?
+- [00:03:52,000 - 00:03:53,000] You would...
+- [00:03:53,000 - 00:03:54,000] To avoid...
+- [00:03:54,000 - 00:03:57,000] To avoid the horrors of genocide, you
+- [00:03:57,000 - 00:04:00,000] would crash into the five and kill them?
+- [00:04:03,000 - 00:04:05,000] Presumably, yes.
+- [00:04:05,000 - 00:04:06,000] You would...
+- [00:04:06,000 - 00:04:07,000] Yeah.
+- [00:04:07,000 - 00:04:09,000] Okay. Who else?
+- [00:04:09,000 - 00:04:12,000] That's a brave answer. Thank you.
+- [00:04:12,000 - 00:04:18,000] Let's consider another trolley car case.
+- [00:04:18,000 - 00:04:22,000] And see whether...
+- [00:04:22,000 - 00:04:26,000] Those of you in the majority
+- [00:04:26,000 - 00:04:30,000] want to adhere to the principle,
+- [00:04:30,000 - 00:04:33,000] better that one should die so that five should live.
+- [00:04:33,000 - 00:04:35,000] This time you're not the driver
+- [00:04:35,000 - 00:04:37,000] of the trolley car, you're an onlooker.
+- [00:04:37,000 - 00:04:42,000] You're standing on a bridge overlooking a trolley car track.
+- [00:04:42,000 - 00:04:45,000] And down the track comes a trolley car.
+- [00:04:45,000 - 00:04:49,000] At the end of the track are five workers.
+- [00:04:49,000 - 00:04:51,000] The brakes don't work.
+- [00:04:51,000 - 00:04:53,000] The trolley car is about to
+- [00:04:53,000 - 00:04:55,000] careen into the five and kill them.
+- [00:04:55,000 - 00:04:58,000] And now, you're not the driver.
+- [00:04:58,000 - 00:05:00,000] You really feel helpless.
+- [00:05:00,000 - 00:05:05,500] Until you notice, standing next to you, leaning
+- [00:05:05,500 - 00:05:11,000] over the bridge, is a very fat man.
+- [00:05:15,000 - 00:05:20,000] And you could give him a shove.
+- [00:05:21,000 - 00:05:26,000] He would fall over the bridge, onto the
+- [00:05:26,000 - 00:05:31,000] track, right in the way of the trolley car.
+- [00:05:31,000 - 00:05:35,000] He would die, but he would spare the five.
+- [00:05:35,000 - 00:05:38,500] Now, how many would push
+- [00:05:38,500 - 00:05:42,000] the fat man over the bridge?
+- [00:05:42,000 - 00:05:44,000] Raise your hand.
+- [00:05:47,000 - 00:05:49,000] How many wouldn't?
+- [00:05:49,000 - 00:05:50,000] Most of you would.
+- [00:05:50,000 - 00:05:51,000] Most of you would.
+- [00:05:51,000 - 00:05:53,000] Most people wouldn't.
+- [00:05:53,000 - 00:05:55,000] Here's the obvious question.
+- [00:05:55,000 - 00:05:59,000] What became of the principle, better to save
+- [00:05:59,000 - 00:06:03,000] five lives even if it means sacrificing one,
+- [00:06:03,000 - 00:06:06,000] what became of the principle that
+- [00:06:06,000 - 00:06:09,000] almost everyone endorsed in the first case?
+- [00:06:09,000 - 00:06:11,000] I need to hear from someone who
+- [00:06:11,000 - 00:06:13,000] was in the majority in both cases.
+- [00:06:13,000 - 00:06:16,000] How do you explain the difference between the two?
+- [00:06:16,000 - 00:06:17,000] Yes.
+- [00:06:17,000 - 00:06:18,000] The second one, I guess, involves
+- [00:06:18,000 - 00:06:19,000] an active choice of, you know,
+- [00:06:19,000 - 00:06:24,500] pushing the person down, which, I guess, that person himself
+- [00:06:24,500 - 00:06:30,000] would otherwise not have been involved in the situation at all.
+- [00:06:30,000 - 00:06:35,000] And so to choose on his behalf, I guess, to involve
+- [00:06:35,000 - 00:06:40,000] him in something that he otherwise would have escaped is, I guess,
+- [00:06:40,000 - 00:06:43,500] more than what you have in the first case, where
+- [00:06:43,500 - 00:06:47,000] the three parties, the driver and the two sets of workers,
+- [00:06:47,000 - 00:06:50,000] are already, I guess, in the situation.
+- [00:06:50,000 - 00:06:52,000] But the guy working, the one
+- [00:06:52,000 - 00:06:54,000] on the track, off to the side,
+- [00:06:54,000 - 00:06:56,500] he didn't choose to sacrifice his life any
+- [00:06:56,500 - 00:06:59,000] more than the fat man did, did he?
+- [00:07:01,000 - 00:07:04,000] That's true, but he was on the tracks.
+- [00:07:04,000 - 00:07:07,000] This guy was on the bridge.
+- [00:07:10,000 - 00:07:11,000] Go ahead.
+- [00:07:11,000 - 00:07:13,000] You can come back if you want.
+- [00:07:13,000 - 00:07:14,000] All right.
+- [00:07:14,000 - 00:07:15,000] It's a hard question.
+- [00:07:15,000 - 00:07:16,000] All right.
+- [00:07:16,000 - 00:07:17,000] You did very well.
+- [00:07:17,000 - 00:07:19,000] It's a hard question.
+- [00:07:19,000 - 00:07:24,000] Who else can find a way of reconciling
+- [00:07:24,000 - 00:07:29,000] the reaction of the majority in these two cases?
+- [00:07:29,000 - 00:07:30,000] Yes.
+- [00:07:30,000 - 00:07:32,500] Well, I guess in the first case, where
+- [00:07:32,500 - 00:07:35,000] you have the one worker and the five,
+- [00:07:35,000 - 00:07:37,000] it's choice between those two, and
+- [00:07:37,000 - 00:07:39,000] you have to make a certain choice,
+- [00:07:39,000 - 00:07:40,000] and people are going to
+- [00:07:40,000 - 00:07:41,000] die because of the trolley car,
+- [00:07:41,000 - 00:07:43,000] not necessarily because of your direct actions.
+- [00:07:43,000 - 00:07:45,000] The trolley car is a runway thing,
+- [00:07:45,000 - 00:07:47,000] and you're making a split-second choice,
+- [00:07:47,000 - 00:07:49,000] whereas pushing the fat man over is
+- [00:07:49,000 - 00:07:51,000] an actual act of murder on your part.
+- [00:07:51,000 - 00:07:53,500] You have control over that, whereas you
+- [00:07:53,500 - 00:07:56,000] may not have control over the trolley car.
+- [00:07:56,000 - 00:07:59,000] So I think it's a slightly different situation.
+- [00:07:59,000 - 00:08:00,000] All right.
+- [00:08:00,000 - 00:08:01,000] Who has a reply?
+- [00:08:01,000 - 00:08:03,000] No, that's good.
+- [00:08:03,000 - 00:08:04,000] Who has a way?
+- [00:08:04,000 - 00:08:05,000] Who wants to reply?
+- [00:08:05,000 - 00:08:07,000] Is that a way out of this?
+- [00:08:08,000 - 00:08:10,000] I don't think that's a very
+- [00:08:10,000 - 00:08:12,000] good reason, because you choose to...
+- [00:08:12,000 - 00:08:14,000] Either way, you have to choose who dies,
+- [00:08:14,000 - 00:08:16,000] because you either choose to turn and kill the person,
+- [00:08:16,000 - 00:08:19,000] which is an act of conscious thought to turn,
+- [00:08:19,000 - 00:08:21,000] or you choose to push the fat man over,
+- [00:08:21,000 - 00:08:24,000] which is also an act of conscious action.
+- [00:08:24,000 - 00:08:26,000] So either way, you're making a choice.
+- [00:08:27,000 - 00:08:29,000] Do you want to reply?
+- [00:08:29,000 - 00:08:31,000] Well, I'm not really sure that that's the case.
+- [00:08:31,000 - 00:08:32,000] It just still seems kind of different,
+- [00:08:32,000 - 00:08:34,500] the act of actually pushing someone
+- [00:08:34,500 - 00:08:37,000] over onto the tracks and killing him.
+- [00:08:37,000 - 00:08:39,000] You are actually killing him yourself.
+- [00:08:39,000 - 00:08:41,000] You're pushing him with your own hands.
+- [00:08:41,000 - 00:08:42,000] You're pushing him.
+- [00:08:42,000 - 00:08:44,000] And that's different than stealing.
+- [00:08:44,000 - 00:08:46,000] You're steering something that is
+- [00:08:46,000 - 00:08:48,000] going to cause death into another...
+- [00:08:48,000 - 00:08:51,000] You know, it doesn't really sound right saying it now.
+- [00:08:51,000 - 00:08:52,000] No, no, it's good.
+- [00:08:52,000 - 00:08:53,000] But I'm up here.
+- [00:08:53,000 - 00:08:54,000] It's good.
+- [00:08:54,000 - 00:08:55,000] What's your name?
+- [00:08:55,000 - 00:08:56,000] Andrew.
+- [00:08:56,000 - 00:08:57,000] Andrew.
+- [00:08:57,000 - 00:08:58,000] Let me ask you this question, Andrew.
+- [00:08:58,000 - 00:08:59,000] Yes.
+- [00:08:59,000 - 00:09:05,000] Suppose, standing on the bridge next to the fat man,
+- [00:09:05,000 - 00:09:06,000] I didn't have to push him.
+- [00:09:06,000 - 00:09:07,500] Suppose he were standing over a
+- [00:09:07,500 - 00:09:09,000] trap door that I could open
+- [00:09:09,000 - 00:09:11,000] by turning a steering wheel like that.
+- [00:09:14,000 - 00:09:18,000] Would you turn?
+- [00:09:18,000 - 00:09:22,000] For some reason, that still just seems more wrong.
+- [00:09:22,000 - 00:09:23,000] Right?
+- [00:09:23,000 - 00:09:24,500] I mean, maybe if you accidentally
+- [00:09:24,500 - 00:09:26,000] like leaned into the steering wheel
+- [00:09:26,000 - 00:09:28,000] or something like that.
+- [00:09:29,000 - 00:09:32,000] But, or say that the car is hurtling
+- [00:09:32,000 - 00:09:35,000] towards a switch that will drop the trap.
+- [00:09:35,000 - 00:09:38,000] Then I could agree with that.
+- [00:09:38,000 - 00:09:39,000] Fair enough.
+- [00:09:39,000 - 00:09:41,000] It still seems wrong in a way
+- [00:09:41,000 - 00:09:43,000] that it doesn't seem wrong in a way
+- [00:09:43,000 - 00:09:44,500] that it doesn't seem wrong in
+- [00:09:44,500 - 00:09:46,000] the first case to turn, you say.
+- [00:09:46,000 - 00:09:48,000] And in another way, I mean, in the first situation,
+- [00:09:48,000 - 00:09:50,000] you're involved directly with the situation.
+- [00:09:50,000 - 00:09:52,000] In the second one, you're an onlooker as well.
+- [00:09:52,000 - 00:09:53,000] All right.
+- [00:09:53,000 - 00:09:54,500] So you have the choice of becoming
+- [00:09:54,500 - 00:09:56,000] involved or not by pushing the fat man.
+- [00:09:56,000 - 00:09:59,000] Let's forget for the moment about this case.
+- [00:09:59,000 - 00:10:01,000] That's good.
+- [00:10:01,000 - 00:10:03,000] Let's imagine a different case.
+- [00:10:03,000 - 00:10:06,000] This time you're a doctor in an emergency room.
+- [00:10:06,000 - 00:10:11,000] And six patients come to you.
+- [00:10:11,000 - 00:10:13,000] They've been in a terrible trouble.
+- [00:10:13,000 - 00:10:15,000] They're in a trolley car wreck.
+- [00:10:18,000 - 00:10:20,000] Five of them sustained moderate injuries.
+- [00:10:20,000 - 00:10:22,000] One is severely injured.
+- [00:10:22,000 - 00:10:24,500] You could spend all day caring
+- [00:10:24,500 - 00:10:27,000] for the one severely injured victim.
+- [00:10:27,000 - 00:10:29,000] But in that time, the five would die.
+- [00:10:29,000 - 00:10:30,500] Or you could look after
+- [00:10:30,500 - 00:10:32,000] the five, restore them to health,
+- [00:10:32,000 - 00:10:34,000] but during that time, the
+- [00:10:34,000 - 00:10:36,000] one severely injured person would die.
+- [00:10:36,000 - 00:10:39,000] How many would save the five?
+- [00:10:39,000 - 00:10:41,000] Now is the doctor.
+- [00:10:41,000 - 00:10:43,000] How many would save the one?
+- [00:10:43,000 - 00:10:46,000] Very few people.
+- [00:10:46,000 - 00:10:48,000] Just a handful of people.
+- [00:10:48,000 - 00:10:51,000] Same reason, I assume.
+- [00:10:51,000 - 00:10:55,000] One life versus five?
+- [00:10:55,000 - 00:10:59,000] Now consider another doctor case.
+- [00:10:59,000 - 00:11:02,000] This time you're a transplant surgeon.
+- [00:11:02,000 - 00:11:06,000] And you have five patients, each in desperate need,
+- [00:11:06,000 - 00:11:09,000] of an organ transplant in order to survive.
+- [00:11:09,000 - 00:11:12,000] One needs a heart, one a lung, one a kidney.
+- [00:11:12,000 - 00:11:14,000] One a liver.
+- [00:11:14,000 - 00:11:17,000] And the fifth, a pancreas.
+- [00:11:17,000 - 00:11:22,000] And you have no organ donors.
+- [00:11:22,000 - 00:11:26,000] You are about to see them die.
+- [00:11:26,000 - 00:11:28,500] And then it occurs to
+- [00:11:28,500 - 00:11:31,000] you that in the next room,
+- [00:11:31,000 - 00:11:34,000] there's a healthy guy who came in for a checkup.
+- [00:11:39,000 - 00:11:40,000] And he's...
+- [00:11:42,000 - 00:11:44,000] You like that?
+- [00:11:44,000 - 00:11:48,000] And he's taking a nap.
+- [00:11:48,770 - 00:11:53,010] 笑い声
+- [00:11:53,026 - 00:11:55,506] You could go in very
+- [00:11:55,506 - 00:11:57,986] quietly, yank out the five organs,
+- [00:11:57,986 - 00:12:00,486] that person would die.
+- [00:12:00,486 - 00:12:03,166] But you could save the five.
+- [00:12:03,166 - 00:12:04,406] How many would do it?
+- [00:12:07,166 - 00:12:07,666] Anyone?
+- [00:12:10,266 - 00:12:10,766] How many?
+- [00:12:10,766 - 00:12:12,426] Put your hands up if you would do it.
+- [00:12:17,806 - 00:12:20,506] Anyone in the balcony?
+- [00:12:20,506 - 00:12:21,766] You would?
+- [00:12:21,766 - 00:12:22,306] Be careful.
+- [00:12:22,306 - 00:12:23,706] Don't lean over too much.
+- [00:12:26,586 - 00:12:29,266] How many wouldn't?
+- [00:12:29,266 - 00:12:30,186] All right.
+- [00:12:30,186 - 00:12:30,826] What do you say?
+- [00:12:30,826 - 00:12:32,206] Speak up in the balcony.
+- [00:12:32,206 - 00:12:34,706] You who would yank out the organs.
+- [00:12:34,706 - 00:12:35,826] Why?
+- [00:12:35,826 - 00:12:37,256] I'd actually like to
+- [00:12:37,256 - 00:12:38,686] explore a slightly alternate possibility
+- [00:12:38,686 - 00:12:40,176] of just taking the one of
+- [00:12:40,176 - 00:12:41,666] the five who needs an organ who
+- [00:12:41,666 - 00:12:45,086] dies first and using their four healthy organs
+- [00:12:45,086 - 00:12:46,086] to save the other four.
+- [00:12:49,586 - 00:12:50,746] That's a pretty good idea.
+- [00:12:52,306 - 00:12:54,106] That's a great idea.
+- [00:12:54,106 - 00:12:56,206] Except for the fact that
+- [00:12:56,206 - 00:12:58,306] you just wrecked the philosophical point.
+- [00:13:00,306 - 00:13:05,306] Well, let's step back from these stories and these arguments
+- [00:13:05,306 - 00:13:08,626] to notice a couple of things about the way
+- [00:13:08,626 - 00:13:12,066] the arguments have begun to unfold.
+- [00:13:12,066 - 00:13:17,546] Certain moral principles have already begun to emerge
+- [00:13:17,546 - 00:13:20,626] in the history of the world.
+- [00:13:20,626 - 00:13:21,186] And they are.
+- [00:13:21,186 - 00:13:21,686] They are.
+- [00:13:21,686 - 00:13:22,186] They are.
+- [00:13:22,186 - 00:13:26,886] We have learned from the discussions we've had.
+- [00:13:26,886 - 00:13:32,186] And let's consider what those moral principles look like.
+- [00:13:32,186 - 00:13:35,806] The first moral principle that emerged in the discussion
+- [00:13:35,806 - 00:13:37,746] said the right thing to
+- [00:13:37,746 - 00:13:39,686] do, the moral thing to do,
+- [00:13:39,686 - 00:13:43,106] depends on the consequences that
+- [00:13:43,106 - 00:13:46,526] will result from your action.
+- [00:13:46,526 - 00:13:48,256] At the end of the
+- [00:13:48,256 - 00:13:49,986] day, better that five should live,
+- [00:13:49,986 - 00:13:50,505] even if one must die.
+- [00:13:50,505 - 00:13:51,186] Mm-hmm.
+- [00:13:51,186 - 00:13:51,846] That's right.
+- [00:13:51,846 - 00:13:52,086] All right.
+- [00:13:52,086 - 00:13:57,086] That's an example of consequentialist moral reasoning.
+- [00:13:58,846 - 00:14:01,486] Consequentialist moral reasoning locates morality
+- [00:14:01,486 - 00:14:02,936] in the consequences of an act,
+- [00:14:02,936 - 00:14:04,386] in the state of the world
+- [00:14:04,386 - 00:14:07,306] that will result from the thing you do.
+- [00:14:08,766 - 00:14:10,146] But then we went a little further,
+- [00:14:10,146 - 00:14:12,686] we considered those other cases,
+- [00:14:12,686 - 00:14:14,966] and people weren't so sure
+- [00:14:14,966 - 00:14:18,586] about consequentialist moral reasoning.
+- [00:14:18,586 - 00:14:20,666] When people hesitated to push
+- [00:14:20,666 - 00:14:22,746] the fat man over the bridge
+- [00:14:25,886 - 00:14:29,666] or to yank out the organs of the innocent patient,
+- [00:14:29,666 - 00:14:33,246] people gestured toward reasons having to do
+- [00:14:34,906 - 00:14:38,906] with the intrinsic quality of the act itself,
+- [00:14:40,166 - 00:14:42,726] consequences be what they may.
+- [00:14:42,726 - 00:14:45,166] People were reluctant.
+- [00:14:45,166 - 00:14:48,486] People thought it was just wrong, categorically wrong.
+- [00:14:48,586 - 00:14:53,266] To kill a person, an innocent person,
+- [00:14:53,266 - 00:14:56,446] even for the sake of saving five lives.
+- [00:14:56,446 - 00:14:58,246] At least people thought that
+- [00:14:58,246 - 00:15:03,246] in the second version of each story we considered.
+- [00:15:03,866 - 00:15:08,866] So this points to a second categorical way
+- [00:15:12,546 - 00:15:15,806] of thinking about moral reasoning.
+- [00:15:15,806 - 00:15:17,706] Categorical moral reasoning locates morality,
+- [00:15:17,706 - 00:15:17,946] categorical moral reasoning locates morality,
+- [00:15:17,946 - 00:15:18,026] categorical moral reasoning locates morality,
+- [00:15:18,026 - 00:15:18,166] categorical moral reasoning locates morality,
+- [00:15:18,166 - 00:15:21,226] and certain absolute moral requirements,
+- [00:15:21,226 - 00:15:23,805] certain categorical duties and rights,
+- [00:15:23,805 - 00:15:27,246] regardless of the consequences.
+- [00:15:27,246 - 00:15:28,906] We're going to explore in
+- [00:15:28,906 - 00:15:30,566] the days and weeks to come
+- [00:15:30,566 - 00:15:33,346] the contrast between consequentialist
+- [00:15:33,346 - 00:15:36,446] and categorical moral principles.
+- [00:15:36,446 - 00:15:39,086] The most influential example
+- [00:15:39,086 - 00:15:42,746] of consequential moral reasoning is utilitarianism,
+- [00:15:42,746 - 00:15:46,605] a doctrine invented by Jeremy Bentham,
+- [00:15:46,605 - 00:15:47,526] the 18th century English political scholar,
+- [00:15:47,526 - 00:15:50,526] and the most influential English political philosopher.
+- [00:15:50,526 - 00:15:53,026] The most important philosopher
+- [00:15:53,026 - 00:15:55,526] of categorical moral reasoning
+- [00:15:56,666 - 00:16:01,666] is the 18th century German philosopher Immanuel Kant.
+- [00:16:02,426 - 00:16:05,266] So we will look at those two different modes
+- [00:16:05,266 - 00:16:10,266] of moral reasoning, assess them, and also consider others.
+- [00:16:10,626 - 00:16:11,745] If you look at the
+- [00:16:11,745 - 00:16:12,865] syllabus, you'll notice that we read
+- [00:16:12,865 - 00:16:15,846] a number of great and famous books.
+- [00:16:15,846 - 00:16:17,366] Books by Aristotle.
+- [00:16:17,526 - 00:16:22,526] John Locke, Immanuel Kant, John Stuart Mill, and others.
+- [00:16:22,526 - 00:16:24,926] You'll notice too from the syllabus
+- [00:16:24,926 - 00:16:27,326] that we don't only read these books.
+- [00:16:27,326 - 00:16:30,706] We also take up
+- [00:16:30,706 - 00:16:34,086] contemporary political and legal controversies
+- [00:16:34,086 - 00:16:36,886] that raise philosophical questions.
+- [00:16:36,886 - 00:16:41,326] We will debate equality and inequality, affirmative action,
+- [00:16:41,326 - 00:16:43,956] free speech versus hate
+- [00:16:43,956 - 00:16:46,586] speech, same-sex marriage, military conscription,
+- [00:16:46,586 - 00:16:47,056] a range of practices that are not only
+- [00:16:47,056 - 00:16:47,526] in the books, but also in the books.
+- [00:16:47,526 - 00:16:49,466] We will also look at the philosophical questions.
+- [00:16:49,466 - 00:16:50,686] Why?
+- [00:16:50,686 - 00:16:55,226] Not just to enliven these abstract and distant books,
+- [00:16:55,226 - 00:16:58,146] but to make clear, to bring out what's at stake
+- [00:16:58,146 - 00:17:01,406] in our everyday lives, including our political lives,
+- [00:17:03,226 - 00:17:04,306] for philosophy.
+- [00:17:05,366 - 00:17:07,586] And so we will read these books,
+- [00:17:07,586 - 00:17:10,026] and we will debate these issues,
+- [00:17:10,026 - 00:17:13,886] and we'll see how each informs and illuminates the other.
+- [00:17:15,326 - 00:17:17,526] This may sound appealing enough,
+- [00:17:17,526 - 00:17:22,526] but here I have to issue a warning.
+- [00:17:22,526 - 00:17:25,226] And the warning is this.
+- [00:17:25,226 - 00:17:31,566] To read these books in this way,
+- [00:17:31,566 - 00:17:34,126] as an exercise in self-knowledge,
+- [00:17:34,126 - 00:17:38,566] to read them in this way carries certain risks.
+- [00:17:38,566 - 00:17:42,146] Risks that are both personal and political.
+- [00:17:42,146 - 00:17:47,526] Risks that every student of political philosophy has known.
+- [00:17:47,526 - 00:17:50,526] These risks spring from the fact
+- [00:17:50,526 - 00:17:55,526] that philosophy teaches us and unsettles us
+- [00:17:55,526 - 00:17:59,526] by confronting us with what we already know.
+- [00:17:59,526 - 00:18:02,526] There's an irony.
+- [00:18:02,526 - 00:18:06,026] The difficulty of this course consists in the fact
+- [00:18:06,026 - 00:18:08,526] that it teaches what you already know.
+- [00:18:08,526 - 00:18:12,026] It works by taking what
+- [00:18:12,026 - 00:18:15,526] we know from familiar unquestioned settings
+- [00:18:15,526 - 00:18:17,426] and making it strange.
+- [00:18:17,526 - 00:18:22,526] That's how those examples worked.
+- [00:18:22,526 - 00:18:25,526] The hypotheticals with which we began,
+- [00:18:25,526 - 00:18:28,526] with their mix of playfulness and sobriety.
+- [00:18:28,526 - 00:18:31,526] It's also how these philosophical books work.
+- [00:18:31,526 - 00:18:36,526] Philosophy estranges us from the familiar.
+- [00:18:36,526 - 00:18:39,526] Not by supplying new information,
+- [00:18:39,526 - 00:18:44,526] but by inviting and provoking a new way of seeing.
+- [00:18:44,526 - 00:18:45,526] But,
+- [00:18:45,526 - 00:18:46,526] but,
+- [00:18:46,526 - 00:18:49,526] and here's the risk.
+- [00:18:49,526 - 00:18:53,526] Once the familiar turns strange,
+- [00:18:53,526 - 00:18:56,526] it's never quite the same again.
+- [00:18:56,526 - 00:19:02,526] Self-knowledge is like lost innocence.
+- [00:19:02,526 - 00:19:05,526] However unsettling you find it,
+- [00:19:05,526 - 00:19:12,526] it can never be unthought or unknown.
+- [00:19:12,526 - 00:19:15,526] What makes this enterprise difficult,
+- [00:19:15,526 - 00:19:18,526] but also riveting,
+- [00:19:18,526 - 00:19:23,526] is that moral and political philosophy is a story.
+- [00:19:23,526 - 00:19:26,526] And you don't know where the story will lead,
+- [00:19:26,526 - 00:19:29,526] but what you do know is
+- [00:19:29,526 - 00:19:32,526] that the story is about you.
+- [00:19:32,526 - 00:19:35,526] Those are the personal risks.
+- [00:19:35,526 - 00:19:38,526] Now what of the political risks?
+- [00:19:38,526 - 00:19:42,526] One way of introducing a course like this
+- [00:19:42,526 - 00:19:43,526] would be to promise you
+- [00:19:43,526 - 00:19:44,526] that by reading these books,
+- [00:19:44,526 - 00:19:46,526] and debating these issues,
+- [00:19:46,526 - 00:19:47,526] you will become a better,
+- [00:19:47,526 - 00:19:49,526] more responsible citizen.
+- [00:19:49,526 - 00:19:52,526] You will examine the presuppositions of public policy.
+- [00:19:52,526 - 00:19:55,526] You will hone your political judgment.
+- [00:19:55,526 - 00:19:57,526] You will become a more
+- [00:19:57,526 - 00:19:59,526] effective participant in public affairs.
+- [00:19:59,526 - 00:20:04,526] But this would be a partial and misleading promise.
+- [00:20:04,526 - 00:20:05,526] Political philosophy,
+- [00:20:05,526 - 00:20:06,526] for the most part,
+- [00:20:06,526 - 00:20:09,526] hasn't worked that way.
+- [00:20:09,526 - 00:20:12,526] You have to allow for the possibility.
+- [00:20:12,526 - 00:20:13,526] The possibility is that,
+- [00:20:13,526 - 00:20:18,526] that political philosophy may make you a worse citizen,
+- [00:20:18,526 - 00:20:21,526] rather than a better one,
+- [00:20:21,526 - 00:20:23,526] or at least a worse citizen
+- [00:20:23,526 - 00:20:27,526] before it makes you a better one.
+- [00:20:27,526 - 00:20:31,526] And that's because philosophy is a distancing,
+- [00:20:31,526 - 00:20:35,526] even debilitating activity.
+- [00:20:35,526 - 00:20:39,526] And you see this going back to Socrates.
+- [00:20:39,526 - 00:20:41,526] There's a dialogue, the Gorgias,
+- [00:20:41,526 - 00:20:43,526] in which one of Socrates' friends,
+- [00:20:43,526 - 00:20:44,526] Callicles,
+- [00:20:44,526 - 00:20:48,526] tries to talk him out of philosophizing.
+- [00:20:48,526 - 00:20:50,526] Callicles tells Socrates,
+- [00:20:50,526 - 00:20:53,526] philosophy is a pretty toy
+- [00:20:53,526 - 00:20:55,526] if one indulges in it with moderation
+- [00:20:55,526 - 00:20:57,526] at the right time of life.
+- [00:20:57,526 - 00:20:59,526] But if one pursues it further than one should,
+- [00:20:59,526 - 00:21:02,526] it is absolute ruin.
+- [00:21:02,526 - 00:21:05,526] Take my advice, Callicles says.
+- [00:21:05,526 - 00:21:07,526] Abandon argument.
+- [00:21:07,526 - 00:21:10,526] Learn the accomplishments of active life.
+- [00:21:10,526 - 00:21:12,526] Take for your models not those people
+- [00:21:12,526 - 00:21:15,526] who spend their time on these petty quibbles,
+- [00:21:15,526 - 00:21:17,526] but those who have a good livelihood
+- [00:21:17,526 - 00:21:21,526] and reputation and many other blessings.
+- [00:21:21,526 - 00:21:25,526] So Callicles is really saying to Socrates,
+- [00:21:25,526 - 00:21:29,526] quit philosophizing, get real,
+- [00:21:29,526 - 00:21:31,526] go to business school.
+- [00:21:34,526 - 00:21:37,526] And Callicles did have a point.
+- [00:21:37,526 - 00:21:41,526] He had a point because philosophy distances us
+- [00:21:41,526 - 00:21:44,526] from conventions, from established assumptions,
+- [00:21:44,526 - 00:21:46,526] and from settled beliefs.
+- [00:21:46,526 - 00:21:49,526] Those are the risks, personal and political.
+- [00:21:49,526 - 00:21:51,526] And in the face of these risks,
+- [00:21:51,526 - 00:21:53,526] there is a characteristic evasion.
+- [00:21:53,526 - 00:21:56,526] The name of the evasion is skepticism.
+- [00:21:56,526 - 00:21:58,526] It's the idea, well, it goes something like this.
+- [00:21:58,526 - 00:22:02,526] We didn't resolve once and for all
+- [00:22:02,526 - 00:22:05,526] either the cases or the principles
+- [00:22:05,526 - 00:22:09,526] we were arguing when we began.
+- [00:22:09,526 - 00:22:10,526] And if Aristotle,
+- [00:22:10,526 - 00:22:12,526] and Locke, and Kant, and Mill
+- [00:22:12,526 - 00:22:13,526] haven't solved these questions
+- [00:22:13,526 - 00:22:16,526] after all of these years,
+- [00:22:16,526 - 00:22:18,526] who are we to think
+- [00:22:18,526 - 00:22:20,526] that we here in Sanders Theatre
+- [00:22:20,526 - 00:22:22,526] over the course of a semester
+- [00:22:22,526 - 00:22:25,526] can resolve them?
+- [00:22:25,526 - 00:22:28,526] And so maybe it's just a matter of
+- [00:22:28,526 - 00:22:31,526] each person having his or her own principles
+- [00:22:31,526 - 00:22:33,526] and there's nothing more to be said about it.
+- [00:22:33,526 - 00:22:35,526] No way of reasoning.
+- [00:22:35,526 - 00:22:38,526] That's the evasion, the evasion of skepticism,
+- [00:22:38,526 - 00:22:40,526] to which I would offer the following.
+- [00:22:40,526 - 00:22:44,526] It's true, these questions have been debated
+- [00:22:44,526 - 00:22:46,526] for a very long time.
+- [00:22:46,526 - 00:22:49,526] But the very fact that they have recurred
+- [00:22:49,526 - 00:22:53,526] and persisted may suggest
+- [00:22:53,526 - 00:22:56,526] that though they're impossible in one sense,
+- [00:22:56,526 - 00:22:58,526] they're unavoidable in another.
+- [00:22:58,526 - 00:23:01,526] And the reason they're unavoidable,
+- [00:23:01,526 - 00:23:03,526] the reason they're inescapable,
+- [00:23:03,526 - 00:23:05,526] is that we live some answer
+- [00:23:05,526 - 00:23:08,526] to these questions every day.
+- [00:23:08,526 - 00:23:10,526] So skepticism is the answer
+- [00:23:10,526 - 00:23:12,526] to the question of
+- [00:23:12,526 - 00:23:15,526] what is the answer to the question of skepticism?
+- [00:23:15,526 - 00:23:17,526] And the answer to that question
+- [00:23:17,526 - 00:23:19,526] is that skepticism,
+- [00:23:19,526 - 00:23:21,526] just throwing up your hands
+- [00:23:21,526 - 00:23:24,526] and giving up on moral reflection,
+- [00:23:24,526 - 00:23:26,526] is no solution.
+- [00:23:26,526 - 00:23:28,526] Immanuel Kant described very well
+- [00:23:28,526 - 00:23:30,526] the problem with skepticism when he wrote,
+- [00:23:30,526 - 00:23:33,526] skepticism is a resting place for human reason,
+- [00:23:33,526 - 00:23:36,526] where it can reflect upon its dogmatic wanderings,
+- [00:23:36,526 - 00:23:39,526] but it is no dwelling place for permanent settlement.
+- [00:23:40,526 - 00:23:43,526] I've tried to suggest,
+- [00:23:43,526 - 00:23:45,526] through these stories and these arguments,
+- [00:23:45,526 - 00:23:49,526] some sense of the risks and temptations
+- [00:23:49,526 - 00:23:51,526] of the perils and the possibilities.
+- [00:23:51,526 - 00:23:54,526] I would simply conclude by saying
+- [00:23:54,526 - 00:23:57,526] that the aim of this course
+- [00:23:57,526 - 00:24:01,526] is to awaken the restlessness of reason
+- [00:24:01,526 - 00:24:03,526] and to see where it might lead.
+- [00:24:03,526 - 00:24:05,526] Thank you very much.
+- [00:24:10,526 - 00:24:12,526] Thank you.
+- [00:24:40,526 - 00:24:44,526] And last time,
+- [00:24:44,526 - 00:24:46,526] we started out last time
+- [00:24:46,526 - 00:24:48,526] with some stories,
+- [00:24:48,526 - 00:24:50,526] with some moral dilemmas
+- [00:24:50,526 - 00:24:52,526] about trolley cars
+- [00:24:52,526 - 00:24:54,526] and about doctors
+- [00:24:54,526 - 00:24:56,526] and healthy patients
+- [00:24:56,526 - 00:24:58,526] vulnerable to being victims
+- [00:24:58,526 - 00:25:00,526] of organ transplantation.
+- [00:25:00,526 - 00:25:03,526] We noticed two things
+- [00:25:03,526 - 00:25:06,526] about the arguments we had.
+- [00:25:06,526 - 00:25:09,526] One had to do with the way we were arguing.
+- [00:25:09,526 - 00:25:13,526] We began with our judgments in particular cases.
+- [00:25:13,526 - 00:25:15,526] We tried to articulate the reasons
+- [00:25:15,526 - 00:25:17,526] or the principles
+- [00:25:17,526 - 00:25:21,526] lying behind our judgments.
+- [00:25:21,526 - 00:25:24,526] And then, confronted with a new case,
+- [00:25:24,526 - 00:25:29,526] we found ourselves reexamining those principles,
+- [00:25:29,526 - 00:25:33,526] revising each in the light of the other.
+- [00:25:33,526 - 00:25:35,526] And we noticed the built-in pressure
+- [00:25:35,526 - 00:25:37,526] to try to bring into alignment
+- [00:25:37,526 - 00:25:39,526] our judgments about the reasons,
+- [00:25:39,526 - 00:25:41,526] about particular cases,
+- [00:25:41,526 - 00:25:43,526] and the principles we would endorse
+- [00:25:43,526 - 00:25:45,526] on reflection.
+- [00:25:45,526 - 00:25:47,526] We also noticed something
+- [00:25:47,526 - 00:25:49,526] about the substance of the arguments
+- [00:25:49,526 - 00:25:52,526] that emerged from the discussion.
+- [00:25:54,526 - 00:25:56,526] We noticed that sometimes
+- [00:25:56,526 - 00:25:58,526] we were tempted to locate the morality
+- [00:25:58,526 - 00:26:00,526] of an act and the consequences
+- [00:26:00,526 - 00:26:01,526] in the results,
+- [00:26:01,526 - 00:26:02,526] in the state of the world
+- [00:26:02,526 - 00:26:04,526] that it brought about.
+- [00:26:05,526 - 00:26:09,526] And we called this consequentialist moral reasoning.
+- [00:26:09,526 - 00:26:14,526] But we also noticed that in some cases
+- [00:26:14,526 - 00:26:19,526] we weren't swayed only by the result.
+- [00:26:19,526 - 00:26:24,526] Sometimes, many of us felt,
+- [00:26:24,526 - 00:26:26,526] that not just consequences
+- [00:26:26,526 - 00:26:28,526] but also the intrinsic quality
+- [00:26:28,526 - 00:26:30,526] or character of the act
+- [00:26:30,526 - 00:26:33,526] matters morally.
+- [00:26:33,526 - 00:26:37,526] Some people argued that there are certain things
+- [00:26:37,526 - 00:26:40,526] that are just categorically wrong
+- [00:26:40,526 - 00:26:43,526] even if they bring about a good result,
+- [00:26:43,526 - 00:26:46,526] even if they save five people
+- [00:26:46,526 - 00:26:49,526] at the cost of one life.
+- [00:26:49,526 - 00:26:53,526] So we contrasted consequentialist moral principles
+- [00:26:53,526 - 00:26:56,526] with categorical ones.
+- [00:26:57,526 - 00:27:00,526] Today, and in the next few days,
+- [00:27:00,526 - 00:27:02,526] we will begin to examine
+- [00:27:02,526 - 00:27:05,526] one of the most influential versions
+- [00:27:05,526 - 00:27:09,526] of consequentialist moral theory.
+- [00:27:10,526 - 00:27:13,526] And that's the philosophy of utilitarianism.
+- [00:27:15,526 - 00:27:18,526] Jeremy Bentham, the 18th century
+- [00:27:18,526 - 00:27:20,526] English political philosopher,
+- [00:27:20,526 - 00:27:25,526] gave first the first clear systematic expression
+- [00:27:25,526 - 00:27:29,526] to the utilitarian moral theory.
+- [00:27:31,526 - 00:27:33,526] And Bentham's idea
+- [00:27:35,526 - 00:27:37,526] his essential idea
+- [00:27:37,526 - 00:27:39,526] is a very simple one.
+- [00:27:42,526 - 00:27:47,526] With a lot of morally intuitive appeal.
+- [00:27:47,526 - 00:27:51,526] Bentham's idea is the following.
+- [00:27:51,526 - 00:27:53,526] The right thing to do,
+- [00:27:53,526 - 00:27:56,526] the just thing to do,
+- [00:27:56,526 - 00:28:01,526] is to maximize utility.
+- [00:28:01,526 - 00:28:03,526] What did he mean by utility?
+- [00:28:05,526 - 00:28:08,526] He meant by utility the balance
+- [00:28:08,526 - 00:28:12,526] of pleasure over pain,
+- [00:28:12,526 - 00:28:15,526] happiness over suffering.
+- [00:28:15,526 - 00:28:17,526] Here's how he arrived
+- [00:28:17,526 - 00:28:21,526] at the principle of maximizing utility.
+- [00:28:21,526 - 00:28:23,526] He started out by observing
+- [00:28:23,526 - 00:28:25,526] that all of us,
+- [00:28:25,526 - 00:28:27,526] all human beings,
+- [00:28:27,526 - 00:28:30,526] are governed by two sovereign masters.
+- [00:28:30,526 - 00:28:32,526] Pain and pleasure.
+- [00:28:32,526 - 00:28:34,526] We human beings,
+- [00:28:34,526 - 00:28:36,526] we human beings,
+- [00:28:36,526 - 00:28:39,526] like pleasure and dislike pain.
+- [00:28:41,526 - 00:28:44,526] And so we should base morality,
+- [00:28:45,526 - 00:28:46,526] whether we're thinking about
+- [00:28:46,526 - 00:28:48,526] what to do in our own lives,
+- [00:28:48,526 - 00:28:52,526] or whether as legislators or citizens,
+- [00:28:52,526 - 00:28:54,526] we're thinking about what the laws should be.
+- [00:28:56,526 - 00:28:58,526] The right thing to do,
+- [00:28:58,526 - 00:29:00,526] individually or collectively,
+- [00:29:01,526 - 00:29:03,526] is to maximize, act in a way,
+- [00:29:03,526 - 00:29:08,526] that maximizes the overall level of happiness.
+- [00:29:10,526 - 00:29:13,526] Bentham's utilitarianism is sometimes summed up
+- [00:29:13,526 - 00:29:14,526] with the slogan,
+- [00:29:14,526 - 00:29:17,526] the greatest good for the greatest number.
+- [00:29:17,526 - 00:29:22,526] With this basic principle of utility on hand,
+- [00:29:22,526 - 00:29:25,526] let's begin to test it and to examine it
+- [00:29:25,526 - 00:29:27,526] by turning to another case,
+- [00:29:27,526 - 00:29:29,526] another story, but this time,
+- [00:29:29,526 - 00:29:31,526] not a hypothetical story,
+- [00:29:31,526 - 00:29:32,526] a real life story,
+- [00:29:32,526 - 00:29:35,526] the case of the Queen versus Dudley and Stevens.
+- [00:29:35,526 - 00:29:38,526] This was a 19th century British law case
+- [00:29:38,526 - 00:29:42,526] that's famous and much debated in law schools.
+- [00:29:43,526 - 00:29:45,526] Here's what happened in the case.
+- [00:29:46,526 - 00:29:48,526] I'll summarize the story,
+- [00:29:48,526 - 00:29:51,526] then I want to hear how you would rule,
+- [00:29:52,526 - 00:29:54,526] imagining that you were the jury.
+- [00:29:56,526 - 00:29:59,526] The case of the Queen versus Dudley and Stevens.
+- [00:29:59,526 - 00:30:05,526] A newspaper account of the time
+- [00:30:05,526 - 00:30:07,526] described the background.
+- [00:30:07,526 - 00:30:10,526] A sadder story of disaster at sea
+- [00:30:10,526 - 00:30:13,526] was never told than that of the survivors
+- [00:30:13,526 - 00:30:15,526] of the yacht Minionet.
+- [00:30:15,526 - 00:30:17,526] The ship foundered in the South Atlantic,
+- [00:30:17,526 - 00:30:20,526] 1300 miles from the Cape.
+- [00:30:20,526 - 00:30:22,526] There were four in the crew.
+- [00:30:22,526 - 00:30:24,526] Dudley was the captain.
+- [00:30:24,526 - 00:30:27,526] Stevens was the first mate.
+- [00:30:27,526 - 00:30:29,526] Brooks was a sailor.
+- [00:30:29,526 - 00:30:31,526] All men of excellent character,
+- [00:30:31,526 - 00:30:34,526] or so the newspaper account tells us.
+- [00:30:34,526 - 00:30:37,526] The fourth crew member was the cabin boy,
+- [00:30:37,526 - 00:30:40,526] Richard Parker, 17 years old.
+- [00:30:42,526 - 00:30:44,526] He was an orphan.
+- [00:30:44,526 - 00:30:46,526] He had no family.
+- [00:30:46,526 - 00:30:49,526] And he was on his first long voyage at sea.
+- [00:30:50,526 - 00:30:52,526] He went, the news account tells us,
+- [00:30:52,526 - 00:30:55,526] rather against the advice of his friends,
+- [00:30:55,526 - 00:30:57,526] he went in the hopeful mood,
+- [00:30:57,526 - 00:30:59,526] a world of youthful ambition,
+- [00:30:59,526 - 00:31:02,526] thinking the journey would make a man of him.
+- [00:31:02,526 - 00:31:04,526] Sadly, it was not to be.
+- [00:31:04,526 - 00:31:07,526] The facts of the case were not in dispute.
+- [00:31:07,526 - 00:31:08,526] A wave hit the ship,
+- [00:31:08,526 - 00:31:10,526] and the Minionet went down.
+- [00:31:11,526 - 00:31:14,526] The four crew members escaped to a lifeboat.
+- [00:31:14,526 - 00:31:17,526] The only food they had
+- [00:31:17,526 - 00:31:21,526] were two cans of preserved turnips.
+- [00:31:21,526 - 00:31:23,526] No fresh water.
+- [00:31:23,526 - 00:31:26,526] For the first three days, they ate nothing.
+- [00:31:26,526 - 00:31:27,526] On the fourth day,
+- [00:31:27,526 - 00:31:29,526] they opened one of the
+- [00:31:29,526 - 00:31:31,526] cans of turnips and ate it.
+- [00:31:31,526 - 00:31:33,526] The next day, they caught a turtle.
+- [00:31:33,526 - 00:31:36,526] Together with the other can of turnips,
+- [00:31:36,526 - 00:31:39,526] the turtle enabled them to subsist
+- [00:31:39,526 - 00:31:40,526] for the next few days.
+- [00:31:40,526 - 00:31:42,526] And then for eight days,
+- [00:31:42,526 - 00:31:43,526] they had nothing.
+- [00:31:43,526 - 00:31:45,526] No food, no water.
+- [00:31:46,526 - 00:31:49,526] Imagine yourself in a situation like that.
+- [00:31:49,526 - 00:31:51,526] What would you do?
+- [00:31:52,526 - 00:31:54,526] Here's what they did.
+- [00:31:54,526 - 00:31:56,526] By now, the cabin boy, Parker,
+- [00:31:56,526 - 00:31:58,526] is lying at the bottom of the lifeboat,
+- [00:31:58,526 - 00:32:00,526] in the corner,
+- [00:32:00,526 - 00:32:02,526] because he had drunk sea water
+- [00:32:02,526 - 00:32:04,526] against the advice of the others,
+- [00:32:04,526 - 00:32:06,526] and he had become ill,
+- [00:32:06,526 - 00:32:09,526] and he appeared to be dying.
+- [00:32:09,526 - 00:32:11,526] So on the 19th day,
+- [00:32:11,526 - 00:32:13,526] Dudley, the captain, suggested
+- [00:32:13,526 - 00:32:16,526] that they should all have a lottery,
+- [00:32:16,526 - 00:32:18,526] that they should draw lots
+- [00:32:18,526 - 00:32:20,526] to see who would die
+- [00:32:20,526 - 00:32:22,526] to save the rest.
+- [00:32:23,526 - 00:32:25,526] Brooks refused.
+- [00:32:25,526 - 00:32:28,526] He didn't like the lottery idea.
+- [00:32:28,526 - 00:32:31,526] We don't know whether this was because
+- [00:32:31,526 - 00:32:33,526] he didn't want to take the chance
+- [00:32:33,526 - 00:32:36,526] or because he believed in categorical moral principles.
+- [00:32:36,526 - 00:32:38,526] But in any case,
+- [00:32:38,526 - 00:32:40,526] no lots were drawn.
+- [00:32:41,526 - 00:32:42,526] The next day,
+- [00:32:42,526 - 00:32:44,526] there was still no ship in sight,
+- [00:32:44,526 - 00:32:47,526] so Dudley told Brooks to avert his gaze,
+- [00:32:47,526 - 00:32:49,526] and he motioned to Stevens
+- [00:32:49,526 - 00:32:52,526] that the boy, Parker, had better be killed.
+- [00:32:53,526 - 00:32:54,526] Dudley offered a prayer,
+- [00:32:55,526 - 00:32:57,526] and he told the boy his time had come,
+- [00:32:57,526 - 00:32:59,526] and he killed him with a penknife,
+- [00:32:59,526 - 00:33:02,526] stabbing him in the jugular vein.
+- [00:33:03,526 - 00:33:06,526] Brooks emerged from his conscientious objection
+- [00:33:06,526 - 00:33:08,526] to share in the gruesome bounty.
+- [00:33:09,526 - 00:33:10,526] For four days,
+- [00:33:10,526 - 00:33:12,526] the three of them fed on the body and blood
+- [00:33:12,526 - 00:33:14,526] of the cabin boy.
+- [00:33:14,526 - 00:33:16,526] True story.
+- [00:33:16,526 - 00:33:18,526] And then they were rescued.
+- [00:33:18,526 - 00:33:21,526] Dudley describes their rescue
+- [00:33:22,526 - 00:33:23,526] in his diary,
+- [00:33:23,526 - 00:33:26,526] with staggering euphemism,
+- [00:33:26,526 - 00:33:27,526] quote,
+- [00:33:27,526 - 00:33:29,526] on the 24th day,
+- [00:33:29,526 - 00:33:31,526] as we were having our breakfast,
+- [00:33:34,526 - 00:33:37,526] a ship appeared at last.
+- [00:33:38,526 - 00:33:41,526] The three survivors were picked up by a German ship.
+- [00:33:41,526 - 00:33:43,526] They were taken back to Falmouth in England,
+- [00:33:43,526 - 00:33:46,526] where they were arrested and tried.
+- [00:33:46,526 - 00:33:49,526] Brooks turned state's witness.
+- [00:33:49,526 - 00:33:51,526] Dudley and Stevens went to trial.
+- [00:33:51,526 - 00:33:53,526] They didn't dispute the facts.
+- [00:33:53,526 - 00:33:56,526] They claimed they had acted out of necessity.
+- [00:33:56,526 - 00:33:58,526] That was their defense.
+- [00:33:58,526 - 00:34:00,526] They argued, in effect,
+- [00:34:00,526 - 00:34:02,526] better that one should die,
+- [00:34:02,526 - 00:34:05,526] so that three could survive.
+- [00:34:05,526 - 00:34:09,525] The prosecutor wasn't swayed by that argument.
+- [00:34:09,525 - 00:34:11,525] He said murder is murder,
+- [00:34:11,525 - 00:34:13,525] and so the case went to trial.
+- [00:34:13,525 - 00:34:15,525] Now imagine you are the jury.
+- [00:34:15,525 - 00:34:17,525] And just to simplify the discussion,
+- [00:34:17,525 - 00:34:20,525] put aside the question of law,
+- [00:34:20,525 - 00:34:22,525] and let's assume that you as the jury,
+- [00:34:22,525 - 00:34:25,525] are charged with deciding
+- [00:34:25,525 - 00:34:29,525] whether what they did was morally permissible or not.
+- [00:34:29,525 - 00:34:36,525] How many would vote not guilty
+- [00:34:36,525 - 00:34:42,525] that what they did was morally permissible?
+- [00:34:46,525 - 00:34:48,525] And how many would vote guilty
+- [00:34:48,525 - 00:34:50,525] what they did was morally permissible?
+- [00:34:50,525 - 00:34:52,525] How many would vote guilty
+- [00:34:52,525 - 00:34:54,525] what they did was morally wrong?
+- [00:34:54,525 - 00:34:57,526] A pretty sizable majority.
+- [00:34:57,526 - 00:35:00,526] Now let's see what people's reasons are,
+- [00:35:00,526 - 00:35:02,026] and let me begin with
+- [00:35:02,026 - 00:35:03,526] those who are in the minority.
+- [00:35:03,526 - 00:35:07,526] Let's hear first from the defense
+- [00:35:07,526 - 00:35:09,526] of Dudley and Stevens.
+- [00:35:09,526 - 00:35:13,526] Why would you morally exonerate them?
+- [00:35:13,526 - 00:35:16,526] What are your reasons?
+- [00:35:16,526 - 00:35:17,526] Yes.
+- [00:35:17,526 - 00:35:19,526] I think it is morally reprehensible,
+- [00:35:19,526 - 00:35:21,526] but I think that there is a distinction
+- [00:35:21,526 - 00:35:23,526] between what's morally reprehensible
+- [00:35:23,526 - 00:35:25,526] and what makes someone legally accountable.
+- [00:35:25,526 - 00:35:27,526] In other words, you know, as the judge said,
+- [00:35:27,526 - 00:35:30,526] what's always moral isn't necessarily against the law.
+- [00:35:30,526 - 00:35:35,526] And while I don't think that necessity justifies theft
+- [00:35:35,526 - 00:35:37,526] or murder or any illegal act,
+- [00:35:37,526 - 00:35:40,526] at some point, your degree of necessity
+- [00:35:40,526 - 00:35:43,526] does in fact exonerate you from any guilt.
+- [00:35:43,526 - 00:35:44,526] Okay, good.
+- [00:35:44,526 - 00:35:48,526] Other defenders, other voices for the defense.
+- [00:35:48,526 - 00:35:53,526] Moral justifications for what they did.
+- [00:35:53,526 - 00:35:54,526] Yes.
+- [00:35:54,526 - 00:35:56,526] All right, thank you.
+- [00:35:56,526 - 00:36:00,526] I just feel like in a situation that desperate,
+- [00:36:00,526 - 00:36:01,526] you have to do what
+- [00:36:01,526 - 00:36:02,526] you have to do to survive.
+- [00:36:02,526 - 00:36:04,526] You have to do what you have to do.
+- [00:36:04,526 - 00:36:05,526] You have to do what
+- [00:36:05,526 - 00:36:06,526] you have to do, pretty much.
+- [00:36:06,526 - 00:36:09,526] If you've been going 19 days without any food,
+- [00:36:09,526 - 00:36:11,526] you know, someone just has to take the sacrifice.
+- [00:36:11,526 - 00:36:12,526] Someone has to make the sacrifice,
+- [00:36:12,526 - 00:36:13,526] and people can survive.
+- [00:36:13,526 - 00:36:16,526] And furthermore, from that, let's say they survive,
+- [00:36:16,526 - 00:36:18,526] and then they become productive members of the family,
+- [00:36:18,526 - 00:36:20,526] of the society who go home and start like
+- [00:36:20,526 - 00:36:22,526] a million charity organizations and this and that
+- [00:36:22,526 - 00:36:23,526] and this and that.
+- [00:36:23,526 - 00:36:25,526] I mean, they benefit everybody in the end.
+- [00:36:25,526 - 00:36:26,526] I mean, I don't know what they did afterwards.
+- [00:36:26,526 - 00:36:28,526] They might have gone and like, I don't know,
+- [00:36:28,526 - 00:36:30,526] killed more people, whatever.
+- [00:36:30,526 - 00:36:31,526] What?
+- [00:36:31,526 - 00:36:33,526] What if they went home and
+- [00:36:33,526 - 00:36:35,526] they turned out to be assassins?
+- [00:36:35,526 - 00:36:36,526] What if they went home
+- [00:36:36,526 - 00:36:37,526] and turned out to be assassins?
+- [00:36:37,526 - 00:36:38,526] Mm-hmm.
+- [00:36:38,526 - 00:36:41,526] You'd want to know who they assassinated.
+- [00:36:41,526 - 00:36:42,526] That's true, too.
+- [00:36:42,526 - 00:36:43,526] That's fair.
+- [00:36:43,526 - 00:36:44,526] That's fair.
+- [00:36:44,526 - 00:36:45,526] Okay.
+- [00:36:45,526 - 00:36:46,526] I want to know who they assassinated.
+- [00:36:46,526 - 00:36:47,526] All right, that's good.
+- [00:36:47,526 - 00:36:48,526] What's your name?
+- [00:36:48,526 - 00:36:49,526] Marcus.
+- [00:36:49,526 - 00:36:50,526] Marcus.
+- [00:36:50,526 - 00:36:51,526] All right.
+- [00:36:51,526 - 00:36:52,526] We've heard a defense, a
+- [00:36:52,526 - 00:36:53,526] couple of voices for the defense.
+- [00:36:53,526 - 00:36:56,526] Now we need to hear from the prosecution.
+- [00:36:56,526 - 00:37:00,526] Most people think what they did was wrong.
+- [00:37:00,526 - 00:37:02,526] Why?
+- [00:37:02,526 - 00:37:04,526] Yes.
+- [00:37:04,526 - 00:37:06,526] One of the first things that I was thinking was,
+- [00:37:06,526 - 00:37:07,526] oh, if they haven't been
+- [00:37:07,526 - 00:37:08,526] eating for a really long time,
+- [00:37:08,526 - 00:37:14,526] maybe they're mentally affected,
+- [00:37:14,526 - 00:37:17,526] and so then that could be used as a defense,
+- [00:37:17,526 - 00:37:18,526] a possible argument.
+- [00:37:18,526 - 00:37:19,526] But if they're not,
+- [00:37:19,526 - 00:37:20,526] then that's a good argument that,
+- [00:37:20,526 - 00:37:21,526] oh, they weren't in the proper state of mind.
+- [00:37:21,526 - 00:37:22,026] They weren't making decisions
+- [00:37:22,026 - 00:37:22,526] they might otherwise be making.
+- [00:37:22,526 - 00:37:23,526] And if that's an appealing argument,
+- [00:37:23,526 - 00:37:24,026] that you have to be in an
+- [00:37:24,026 - 00:37:24,526] altered mindset to do something like that,
+- [00:37:24,526 - 00:37:25,526] it suggests that people who find that argument convincing
+- [00:37:25,526 - 00:37:26,526] do think that they were acting immorally.
+- [00:37:26,526 - 00:37:27,526] But what do you,
+- [00:37:27,526 - 00:37:28,526] I want to know what you think.
+- [00:37:28,526 - 00:37:29,526] You defend them.
+- [00:37:29,526 - 00:37:30,526] Yeah.
+- [00:37:30,526 - 00:37:31,526] No, no, no.
+- [00:37:31,526 - 00:37:32,526] I'm sorry.
+- [00:37:32,526 - 00:37:33,526] You vote to convict, right?
+- [00:37:33,526 - 00:37:34,526] Yeah.
+- [00:37:34,526 - 00:37:35,026] I don't think that they
+- [00:37:35,026 - 00:37:35,526] acted in a morally appropriate way.
+- [00:37:35,526 - 00:37:36,526] And why not?
+- [00:37:36,526 - 00:37:37,526] What do you say?
+- [00:37:37,526 - 00:37:38,526] Here's the thing.
+- [00:37:38,526 - 00:37:39,526] I'm not saying that they were acting immorally.
+- [00:37:39,526 - 00:37:40,526] I'm not saying that they were acting immorally.
+- [00:37:40,526 - 00:37:41,526] I'm sorry.
+- [00:37:41,526 - 00:37:42,526] You vote to convict, right?
+- [00:37:42,526 - 00:37:43,526] Yeah.
+- [00:37:43,526 - 00:37:45,026] I don't think that they
+- [00:37:45,026 - 00:37:46,526] acted in a morally appropriate way.
+- [00:37:46,526 - 00:37:47,526] And why not?
+- [00:37:47,526 - 00:37:48,526] What do you say?
+- [00:37:48,526 - 00:37:49,526] Here's Marcus.
+- [00:37:49,526 - 00:37:50,526] He just defended them.
+- [00:37:50,526 - 00:37:53,526] He said, you heard what he said.
+- [00:37:53,526 - 00:37:54,526] Yes.
+- [00:37:54,526 - 00:37:56,526] That you've got to do what you've
+- [00:37:56,526 - 00:37:58,526] got to do in a case like that.
+- [00:37:58,526 - 00:37:59,526] Yeah.
+- [00:37:59,526 - 00:38:00,526] What do you say to Marcus?
+- [00:38:00,526 - 00:38:09,526] That there's no situation that would allow human beings
+- [00:38:09,526 - 00:38:10,526] to take,
+- [00:38:10,526 - 00:38:14,236] the idea of fate or the other people's lives
+- [00:38:14,236 - 00:38:17,946] in their own hands, that we don't have that
+- [00:38:17,946 - 00:38:18,946] kind of power.
+- [00:38:18,946 - 00:38:19,946] Good.
+- [00:38:19,946 - 00:38:20,946] Okay.
+- [00:38:20,946 - 00:38:21,946] Thank you.
+- [00:38:21,946 - 00:38:22,946] And what's your name?
+- [00:38:22,946 - 00:38:23,946] Britt.
+- [00:38:23,946 - 00:38:24,946] Britt?
+- [00:38:24,946 - 00:38:25,946] Yes.
+- [00:38:25,946 - 00:38:26,946] Okay.
+- [00:38:26,946 - 00:38:27,946] Who else?
+- [00:38:27,946 - 00:38:28,946] What do you say?
+- [00:38:28,946 - 00:38:29,946] Stand up.
+- [00:38:29,946 - 00:38:32,736] I'm wondering if Dudley and Steven had
+- [00:38:32,736 - 00:38:35,526] asked for Richard Parker's consent in dying,
+- [00:38:35,526 - 00:38:40,526] if that would, would that exonerate them from,
+- [00:38:40,526 - 00:38:42,286] from an act of murder?
+- [00:38:42,286 - 00:38:45,426] And if so, is that still morally justifiable?
+- [00:38:45,426 - 00:38:46,426] That's interesting.
+- [00:38:46,426 - 00:38:47,426] All right.
+- [00:38:47,426 - 00:38:48,426] Consent.
+- [00:38:48,426 - 00:38:49,426] What's, wait, wait, hang on.
+- [00:38:49,426 - 00:38:50,426] What's your name?
+- [00:38:50,426 - 00:38:51,426] Kathleen.
+- [00:38:51,426 - 00:38:52,426] Kathleen.
+- [00:38:52,426 - 00:38:53,536] So suppose they had asked,
+- [00:38:53,536 - 00:38:54,646] what would that scenario look like?
+- [00:38:54,646 - 00:38:57,516] So in the story, Dudley
+- [00:38:57,516 - 00:39:00,386] is there, pen, knife in hand.
+- [00:39:00,386 - 00:39:04,666] But instead of the prayer, or before
+- [00:39:04,666 - 00:39:08,946] the prayer, he says, Parker, would you mind?
+- [00:39:08,946 - 00:39:14,346] We're desperately hungry.
+- [00:39:14,346 - 00:39:17,686] As Marcus empathizes with.
+- [00:39:17,686 - 00:39:19,766] We're desperately hungry.
+- [00:39:19,766 - 00:39:21,186] You're not going to last long anyhow.
+- [00:39:21,186 - 00:39:22,186] Yeah.
+- [00:39:22,186 - 00:39:23,186] You can be a martyr.
+- [00:39:23,186 - 00:39:25,746] Would you be a martyr?
+- [00:39:25,746 - 00:39:29,486] How about it, Parker?
+- [00:39:29,486 - 00:39:34,446] Then, then would it be, what do you think?
+- [00:39:34,446 - 00:39:36,046] Would it be morally justified then?
+- [00:39:36,046 - 00:39:37,046] I don't think it would.
+- [00:39:37,046 - 00:39:38,226] Suppose, suppose Parker.
+- [00:39:38,226 - 00:39:38,846] In his semi-summit.
+- [00:39:38,846 - 00:39:42,925] In his semi-stupor says, okay.
+- [00:39:42,925 - 00:39:44,215] I don't think it would be
+- [00:39:44,215 - 00:39:45,506] morally justifiable, but I'm wondering if.
+- [00:39:45,506 - 00:39:47,346] Even then, even then it wouldn't be.
+- [00:39:47,346 - 00:39:48,346] No.
+- [00:39:48,346 - 00:39:50,416] You don't think that even with
+- [00:39:50,416 - 00:39:52,486] consent, it would be morally justified?
+- [00:39:52,486 - 00:39:55,205] Are there people who think, who want to
+- [00:39:55,205 - 00:39:57,925] take up Kathleen's consent idea, and who think
+- [00:39:57,925 - 00:40:00,185] that that would make it morally justified?
+- [00:40:00,185 - 00:40:03,025] Raise your hand if it
+- [00:40:03,025 - 00:40:05,866] would, if you think it would.
+- [00:40:05,866 - 00:40:07,526] That's very interesting.
+- [00:40:07,526 - 00:40:08,526] Why would consent.
+- [00:40:08,846 - 00:40:14,046] Make a moral difference.
+- [00:40:14,046 - 00:40:15,046] Why would it?
+- [00:40:15,046 - 00:40:16,046] Yes.
+- [00:40:16,046 - 00:40:17,926] Well, I just think that if he was making
+- [00:40:17,926 - 00:40:19,806] his own original idea, and it was his idea to
+- [00:40:19,806 - 00:40:22,326] start with, then that would be the only
+- [00:40:22,326 - 00:40:24,846] situation in which I would see it being appropriate
+- [00:40:24,846 - 00:40:25,886] in any way.
+- [00:40:25,886 - 00:40:28,165] Because that way you couldn't make the argument
+- [00:40:28,165 - 00:40:30,445] that he was pressured, you know, it's three
+- [00:40:30,445 - 00:40:31,846] to one or whatever the ratio was.
+- [00:40:31,846 - 00:40:32,846] Right.
+- [00:40:32,846 - 00:40:34,846] And I think that if he was making a decision
+- [00:40:34,846 - 00:40:36,846] to give his life, then he took on the agency,
+- [00:40:36,846 - 00:40:37,846] to sacrifice.
+- [00:40:37,846 - 00:40:38,846] Right.
+- [00:40:38,846 - 00:40:41,196] To sacrifice himself, which some people might
+- [00:40:41,196 - 00:40:43,546] see as admirable, and other people might disagree
+- [00:40:43,546 - 00:40:45,445] with that decision.
+- [00:40:45,445 - 00:40:48,625] So if he came up with the idea, that's
+- [00:40:48,625 - 00:40:51,806] the only kind of consent we could have confidence
+- [00:40:51,806 - 00:40:55,046] in morally, then it would be okay.
+- [00:40:55,046 - 00:40:58,546] Otherwise it would be kind of
+- [00:40:58,546 - 00:41:02,046] coerced consent under the circumstances, you think.
+- [00:41:02,046 - 00:41:08,046] Is there anyone who thinks that even the consent.
+- [00:41:08,046 - 00:41:15,446] The consent of Parker would not justify their killing him?
+- [00:41:15,446 - 00:41:16,446] Who thinks that?
+- [00:41:16,446 - 00:41:17,446] Yes.
+- [00:41:17,446 - 00:41:18,446] Tell us why.
+- [00:41:18,446 - 00:41:19,446] Stand up.
+- [00:41:19,446 - 00:41:21,876] I think that Parker would be killed with
+- [00:41:21,876 - 00:41:24,306] the hope that the other crew members would be
+- [00:41:24,306 - 00:41:25,306] rescued.
+- [00:41:25,306 - 00:41:28,406] So there's no definite reason that he should
+- [00:41:28,406 - 00:41:31,506] be killed because you don't know who, when
+- [00:41:31,506 - 00:41:32,506] they're going to get rescued.
+- [00:41:32,506 - 00:41:34,006] So if you kill him, it's killing him in vain.
+- [00:41:34,006 - 00:41:35,826] Do you keep killing the crew member until
+- [00:41:35,826 - 00:41:37,646] you're rescued and then you're left with no
+- [00:41:37,646 - 00:41:38,646] reason?
+- [00:41:38,646 - 00:41:39,646] No.
+- [00:41:39,646 - 00:41:40,646] Because someone's going to die eventually.
+- [00:41:40,646 - 00:41:43,575] Well, the moral logic of the situation seems
+- [00:41:43,575 - 00:41:46,505] to be that, that they would keep on picking
+- [00:41:46,505 - 00:41:49,295] off the weakest, maybe, one
+- [00:41:49,295 - 00:41:52,086] by one, until they were rescued.
+- [00:41:52,086 - 00:41:54,885] And in this case, luckily, they were
+- [00:41:54,885 - 00:41:57,685] rescued when three at least were still alive.
+- [00:41:57,685 - 00:42:00,365] Now if Parker did give his consent, would
+- [00:42:00,365 - 00:42:03,046] it be all right, do you think, or not?
+- [00:42:03,046 - 00:42:04,046] No.
+- [00:42:04,046 - 00:42:05,046] No.
+- [00:42:05,046 - 00:42:06,046] It still wouldn't be right.
+- [00:42:06,046 - 00:42:07,546] And tell us why it wouldn't be all right.
+- [00:42:07,546 - 00:42:11,986] First of all, cannibalism, I believe, is morally incorrect.
+- [00:42:11,986 - 00:42:16,206] So you shouldn't be eating a human anyway.
+- [00:42:16,206 - 00:42:19,366] So cannibalism is morally objectionable.
+- [00:42:19,366 - 00:42:22,576] So then, even on the scenario of waiting
+- [00:42:22,576 - 00:42:25,786] until someone died, still it would be objectionable.
+- [00:42:25,786 - 00:42:26,786] Yes.
+- [00:42:26,786 - 00:42:27,866] To me personally.
+- [00:42:27,866 - 00:42:31,706] I feel like it all depends on one's personal
+- [00:42:31,706 - 00:42:35,546] morals and we can't sit here and just, this
+- [00:42:35,546 - 00:42:36,546] is just my opinion.
+- [00:42:36,546 - 00:42:38,786] And of course, other people are going to disagree.
+- [00:42:38,786 - 00:42:39,786] Well, we'll see.
+- [00:42:39,786 - 00:42:42,136] Let's see what their disagreements are and then
+- [00:42:42,136 - 00:42:44,486] we'll see if they have reasons that can
+- [00:42:44,486 - 00:42:46,226] persuade you or not.
+- [00:42:46,226 - 00:42:47,226] Let's try that.
+- [00:42:47,226 - 00:42:48,226] All right.
+- [00:42:48,226 - 00:42:53,086] Let's, now, is there someone who can explain,
+- [00:42:53,086 - 00:42:57,946] those of you who are tempted by consent, can
+- [00:42:57,946 - 00:43:03,366] you explain why consent makes such a moral difference?
+- [00:43:03,366 - 00:43:05,665] What about the lottery idea?
+- [00:43:05,665 - 00:43:06,546] Does that count as consent?
+- [00:43:06,546 - 00:43:11,306] Remember, at the beginning, Dudley proposed a lottery.
+- [00:43:11,306 - 00:43:15,786] Suppose that they had agreed to a lottery.
+- [00:43:15,786 - 00:43:22,006] Then, how many would then say it was all right?
+- [00:43:22,006 - 00:43:24,326] Suppose there were a lottery, cabin boy
+- [00:43:24,326 - 00:43:26,646] lost, and the rest of the story unfolded.
+- [00:43:26,646 - 00:43:33,206] Then how many people would say it was morally permissible?
+- [00:43:33,206 - 00:43:35,506] So the numbers are rising if we add a lottery.
+- [00:43:35,506 - 00:43:36,506] Let's hear from one of you.
+- [00:43:36,546 - 00:43:37,546] Let's hear from you.
+- [00:43:37,546 - 00:43:41,566] For whom the lottery would make a moral difference.
+- [00:43:41,566 - 00:43:43,446] Why would it?
+- [00:43:43,446 - 00:43:46,126] I think the essential element, in my mind, that
+- [00:43:46,126 - 00:43:48,806] makes it a crime is the idea that they
+- [00:43:48,806 - 00:43:51,506] decided at some point that their lives were
+- [00:43:51,506 - 00:43:54,206] more important than his and that, I mean,
+- [00:43:54,206 - 00:43:56,706] that's kind of the basis for really any crime, right.
+- [00:43:56,706 - 00:43:59,316] It's like, my needs, my desires are
+- [00:43:59,316 - 00:44:01,926] more important than yours and mine take precedent.
+- [00:44:01,926 - 00:44:04,176] And if they had done a lottery where
+- [00:44:04,176 - 00:44:06,426] everyone consented that someone should die and it's,
+- [00:44:06,426 - 00:44:06,506] right, that's a crime.
+- [00:44:06,506 - 00:44:08,256] it's sort of like they're all
+- [00:44:08,256 - 00:44:10,006] sacrificing themselves to save the rest.
+- [00:44:10,506 - 00:44:11,906] Then it would be all right.
+- [00:44:12,686 - 00:44:15,286] A little grotesque, but...
+- [00:44:15,286 - 00:44:16,786] But morally permissible?
+- [00:44:17,446 - 00:44:17,786] Yes.
+- [00:44:18,606 - 00:44:19,366] And what's your name?
+- [00:44:19,906 - 00:44:20,126] Matt.
+- [00:44:20,866 - 00:44:23,226] So, Matt, for you,
+- [00:44:23,226 - 00:44:28,146] what bothers you is not the cannibalism,
+- [00:44:28,266 - 00:44:29,646] but the lack of due process.
+- [00:44:31,006 - 00:44:32,526] I guess you could say that.
+- [00:44:33,246 - 00:44:33,466] Right?
+- [00:44:33,466 - 00:44:36,546] And can someone who agrees with Matt
+- [00:44:36,546 - 00:44:39,266] say a little bit more
+- [00:44:39,266 - 00:44:42,006] about why a lottery
+- [00:44:42,006 - 00:44:45,126] would make it, in your view,
+- [00:44:46,666 - 00:44:47,906] morally permissible?
+- [00:44:49,286 - 00:44:49,986] Go ahead.
+- [00:44:50,266 - 00:44:52,226] The way I understood it originally
+- [00:44:52,226 - 00:44:53,526] was that that was the whole issue,
+- [00:44:53,686 - 00:44:55,386] is that the cabin boy was never consulted
+- [00:44:55,386 - 00:44:57,016] about whether or not something
+- [00:44:57,016 - 00:44:58,646] was going to happen to him,
+- [00:44:58,686 - 00:45:00,206] even with the original lottery,
+- [00:45:00,846 - 00:45:02,506] whether or not he would be a part of that.
+- [00:45:02,686 - 00:45:03,446] It was just decided,
+- [00:45:03,466 - 00:45:05,706] that he was the one that was going to die.
+- [00:45:05,706 - 00:45:05,906] Right.
+- [00:45:06,006 - 00:45:07,666] That's what happened in the actual case.
+- [00:45:07,726 - 00:45:07,926] Right.
+- [00:45:08,046 - 00:45:09,126] But if there were a lottery
+- [00:45:09,126 - 00:45:10,946] and they'd all agreed to the procedure,
+- [00:45:11,186 - 00:45:12,806] you think that would be okay?
+- [00:45:13,166 - 00:45:13,506] Right.
+- [00:45:13,566 - 00:45:14,786] Because then everyone knows
+- [00:45:14,786 - 00:45:16,046] that there's going to be a death.
+- [00:45:16,266 - 00:45:17,146] Whereas, you know,
+- [00:45:17,206 - 00:45:18,286] the cabin boy didn't know
+- [00:45:18,286 - 00:45:20,346] that this discussion was even happening.
+- [00:45:20,686 - 00:45:22,686] There was no, you know, forewarning
+- [00:45:22,686 - 00:45:24,226] for him to know that,
+- [00:45:24,326 - 00:45:26,126] hey, I may be the one that's dying.
+- [00:45:26,246 - 00:45:26,566] All right.
+- [00:45:26,606 - 00:45:29,206] Now, suppose everyone agrees to the lottery,
+- [00:45:29,306 - 00:45:30,126] they have the lottery,
+- [00:45:30,126 - 00:45:31,426] the cabin boy loses,
+- [00:45:31,786 - 00:45:33,166] and he changes his mind.
+- [00:45:33,466 - 00:45:33,826] Right.
+- [00:45:34,166 - 00:45:35,386] You've already decided.
+- [00:45:35,506 - 00:45:36,746] It's like a verbal contract.
+- [00:45:37,006 - 00:45:38,286] You can't go back on that.
+- [00:45:38,386 - 00:45:40,326] You've decided the decision was made.
+- [00:45:40,906 - 00:45:42,186] You know, if you know that you're dying
+- [00:45:42,186 - 00:45:44,866] for the, you know, the reason for others to live,
+- [00:45:45,006 - 00:45:47,206] you would, if someone else had died,
+- [00:45:47,566 - 00:45:49,066] you know that you would consume them.
+- [00:45:49,446 - 00:45:51,126] So, that's what...
+- [00:45:51,126 - 00:45:51,226] Right.
+- [00:45:51,766 - 00:45:53,046] But then he could say,
+- [00:45:53,126 - 00:45:54,546] I know, but I lost.
+- [00:45:56,366 - 00:45:58,306] I just think that that's the whole moral issue
+- [00:45:58,306 - 00:46:00,806] is that there was no consulting of the cabin boy
+- [00:46:00,806 - 00:46:03,185] and that that's what makes it the most,
+- [00:46:03,466 - 00:46:05,116] horrible is that he had no
+- [00:46:05,116 - 00:46:06,766] idea what was even going on.
+- [00:46:07,006 - 00:46:08,685] That had he known what was going on,
+- [00:46:08,786 - 00:46:11,665] it would be a bit more understandable.
+- [00:46:11,746 - 00:46:12,126] All right.
+- [00:46:12,286 - 00:46:12,526] Good.
+- [00:46:12,886 - 00:46:13,986] Now, I want to hear,
+- [00:46:14,346 - 00:46:18,026] so there are some who think it's morally permissible,
+- [00:46:18,486 - 00:46:20,086] but only about 20%.
+- [00:46:20,086 - 00:46:24,586] Led by Marcus.
+- [00:46:26,106 - 00:46:27,606] Then there are some who say,
+- [00:46:27,606 - 00:46:31,326] the real problem here is the lack of consent.
+- [00:46:32,506 - 00:46:33,446] Whether the lack of consent,
+- [00:46:33,446 - 00:46:35,526] to a lottery, to a fair procedure,
+- [00:46:36,886 - 00:46:39,206] or, Kathleen's idea,
+- [00:46:39,486 - 00:46:43,306] lack of consent at the moment of death.
+- [00:46:44,646 - 00:46:46,665] And if we add consent,
+- [00:46:47,346 - 00:46:50,826] then more people are willing to consider
+- [00:46:50,826 - 00:46:53,366] the sacrifice morally justified.
+- [00:46:54,346 - 00:46:55,706] I want to hear now, finally,
+- [00:46:56,326 - 00:46:58,026] from those of you who think,
+- [00:46:58,266 - 00:46:59,286] even with consent,
+- [00:46:59,946 - 00:47:00,806] even with a lottery,
+- [00:47:01,186 - 00:47:02,946] even with a final,
+- [00:47:03,446 - 00:47:06,146] murmur of consent by Parker,
+- [00:47:06,146 - 00:47:08,726] at the very last moment,
+- [00:47:08,726 - 00:47:11,326] it would still be wrong.
+- [00:47:11,326 - 00:47:13,846] And why would it be wrong?
+- [00:47:13,846 - 00:47:15,046] That's what I want to hear.
+- [00:47:15,046 - 00:47:15,846] Yes.
+- [00:47:15,846 - 00:47:19,766] Well, the whole time I've been leaning all towards
+- [00:47:19,766 - 00:47:21,486] the categorical moral reasoning.
+- [00:47:21,486 - 00:47:26,886] And I think that there's a possibility I'd be okay
+- [00:47:26,886 - 00:47:27,946] with the idea of a lottery,
+- [00:47:27,946 - 00:47:30,386] and then the loser taking it into their own hands
+- [00:47:30,386 - 00:47:32,266] to kill themselves.
+- [00:47:32,266 - 00:47:32,726] Um.
+- [00:47:32,726 - 00:47:33,486] Um.
+- [00:47:33,486 - 00:47:35,385] So there wouldn't be, you know, an act of murder.
+- [00:47:35,385 - 00:47:37,086] But I still think that,
+- [00:47:37,086 - 00:47:38,986] even that way, it's coerced.
+- [00:47:38,986 - 00:47:41,586] And, um, also, I don't think that there's any remorse.
+- [00:47:41,586 - 00:47:43,166] Like in Dudley's diary,
+- [00:47:43,166 - 00:47:44,785] we were eating our breakfast.
+- [00:47:44,785 - 00:47:46,405] It seems as though he's just sort of like,
+- [00:47:46,405 - 00:47:48,825] um, you know, the whole idea
+- [00:47:48,825 - 00:47:51,246] of not valuing someone else's life.
+- [00:47:51,246 - 00:47:53,246] So that makes me feel like
+- [00:47:53,246 - 00:47:55,246] I have to take the categorical stand.
+- [00:47:55,246 - 00:47:57,365] You want to throw the book at him.
+- [00:47:57,365 - 00:47:59,055] When he lacks remorse or a
+- [00:47:59,055 - 00:48:00,746] sense of having done anything wrong.
+- [00:48:00,746 - 00:48:02,006] Right.
+- [00:48:02,006 - 00:48:03,646] So, all right, good.
+- [00:48:03,646 - 00:48:08,646] Other, any other defenders of a, uh,
+- [00:48:08,646 - 00:48:10,226] who say it's just categorically wrong,
+- [00:48:10,226 - 00:48:11,366] with or without consent?
+- [00:48:11,366 - 00:48:12,986] Yes, stand up.
+- [00:48:12,986 - 00:48:13,526] Why?
+- [00:48:13,526 - 00:48:15,686] I think undoubtedly to where our society is shaped,
+- [00:48:15,686 - 00:48:16,966] murder is murder.
+- [00:48:16,966 - 00:48:18,386] Murder is murder in every way.
+- [00:48:18,386 - 00:48:19,886] And our society looks at murder
+- [00:48:19,886 - 00:48:21,386] down on it in the same light.
+- [00:48:21,386 - 00:48:23,006] And I don't think it's any different in any case.
+- [00:48:23,006 - 00:48:23,206] Good.
+- [00:48:23,206 - 00:48:24,566] Let me ask you a question.
+- [00:48:24,566 - 00:48:26,246] There were three lives at stake.
+- [00:48:26,246 - 00:48:26,886] Mm-hmm.
+- [00:48:26,886 - 00:48:27,826] Versus one.
+- [00:48:27,826 - 00:48:30,306] Okay.
+- [00:48:30,306 - 00:48:31,766] The one, the cabin boy, he had to.
+- [00:48:31,766 - 00:48:32,905] He had no family.
+- [00:48:32,905 - 00:48:34,246] He had no dependents.
+- [00:48:34,246 - 00:48:37,206] These other three had families back home in England.
+- [00:48:37,206 - 00:48:38,626] They had dependents.
+- [00:48:38,626 - 00:48:41,106] They had wives and children.
+- [00:48:41,106 - 00:48:43,005] Think back to Bentham.
+- [00:48:43,005 - 00:48:46,726] Bentham says we have to consider the welfare, the utility,
+- [00:48:46,726 - 00:48:48,825] the happiness of everybody.
+- [00:48:48,825 - 00:48:51,126] We have to add it all up.
+- [00:48:51,126 - 00:48:54,425] So it's not just numbers three against one.
+- [00:48:54,425 - 00:48:58,646] It's also all of those people at home.
+- [00:48:58,646 - 00:49:00,726] In fact, the London newspaper at the time,
+- [00:49:00,726 - 00:49:01,766] and popular opinion,
+- [00:49:01,766 - 00:49:04,046] they didn't sympathize with them,
+- [00:49:04,046 - 00:49:05,445] Dudley and Stephens.
+- [00:49:05,445 - 00:49:09,586] And the paper said if they weren't motivated by affection
+- [00:49:09,586 - 00:49:11,785] and concern for their loved ones at home
+- [00:49:11,785 - 00:49:14,046] and their dependents, surely they wouldn't have done this.
+- [00:49:14,046 - 00:49:15,345] Yeah, and how is that any different
+- [00:49:15,345 - 00:49:17,626] from people on the corner trying to have
+- [00:49:17,626 - 00:49:19,086] the same desire to feed their family?
+- [00:49:19,086 - 00:49:20,026] I don't think it's any different.
+- [00:49:20,026 - 00:49:22,445] I think in any case, if I'm murdering you
+- [00:49:22,445 - 00:49:24,345] to advance my status, that's murder.
+- [00:49:24,345 - 00:49:25,545] And I think that we should look
+- [00:49:25,545 - 00:49:26,746] at that all in the same light.
+- [00:49:26,746 - 00:49:29,905] Instead of criminalizing certain activities,
+- [00:49:29,905 - 00:49:30,905] and making certain things seem like they're not, you know,
+- [00:49:30,906 - 00:49:33,646] and making certain things seem more violent and savage,
+- [00:49:33,646 - 00:49:35,706] when in the same case, it's all the same.
+- [00:49:35,706 - 00:49:36,966] It's all the same act
+- [00:49:36,966 - 00:49:38,226] and mentality that goes into murder,
+- [00:49:38,226 - 00:49:39,846] necessity to feed your family, so.
+- [00:49:39,846 - 00:49:42,866] Suppose it weren't three, suppose it were 30.
+- [00:49:44,466 - 00:49:46,166] One life to save 300.
+- [00:49:47,286 - 00:49:48,226] We're in war time.
+- [00:49:49,266 - 00:49:51,026] Suppose the stakes are even bigger.
+- [00:49:51,026 - 00:49:52,806] Suppose the stakes are even bigger.
+- [00:49:52,806 - 00:49:54,226] I think it's still the same deal.
+- [00:49:54,226 - 00:49:56,056] Do you think Bentham is wrong
+- [00:49:56,056 - 00:49:57,886] to say the right thing to do
+- [00:49:57,886 - 00:50:00,786] is to add up the collective happiness?
+- [00:50:00,906 - 00:50:02,546] Do you think he's wrong about that?
+- [00:50:02,546 - 00:50:03,386] I don't think he's wrong,
+- [00:50:03,386 - 00:50:05,266] but I think murder is murder in any case.
+- [00:50:05,266 - 00:50:06,786] Well, then Bentham has to be wrong.
+- [00:50:06,786 - 00:50:08,266] If you're right, he's wrong.
+- [00:50:08,266 - 00:50:09,186] Okay, then he's wrong.
+- [00:50:09,186 - 00:50:10,006] All right.
+- [00:50:10,006 - 00:50:10,846] I'm right.
+- [00:50:10,846 - 00:50:12,866] Thank you, well done.
+- [00:50:12,866 - 00:50:16,086] All right, let's step back from this discussion,
+- [00:50:16,086 - 00:50:19,626] and notice how many objections have we heard
+- [00:50:21,726 - 00:50:23,346] to what they did.
+- [00:50:23,346 - 00:50:26,106] We heard some defenses of what they did.
+- [00:50:26,106 - 00:50:28,966] The defenses had to do with necessity,
+- [00:50:28,966 - 00:50:30,326] their dire circumstance,
+- [00:50:30,326 - 00:50:34,486] and implicitly at least, the idea that numbers matter.
+- [00:50:34,486 - 00:50:38,646] And not only numbers matter, but the wider effects matter.
+- [00:50:40,366 - 00:50:43,326] Their families back home, their dependents.
+- [00:50:43,326 - 00:50:44,806] Parker was an orphan.
+- [00:50:44,806 - 00:50:46,666] No one would miss him.
+- [00:50:48,006 - 00:50:51,726] So if you add up, if you try to calculate
+- [00:50:51,726 - 00:50:55,046] the balance of happiness and suffering,
+- [00:50:55,046 - 00:50:57,806] you might have a case for saying
+- [00:50:57,806 - 00:50:59,846] what they did was the right thing.
+- [00:51:00,326 - 00:51:02,406] And then we heard at
+- [00:51:02,406 - 00:51:04,486] least three different types of objections.
+- [00:51:04,486 - 00:51:07,486] We heard an objection that said,
+- [00:51:07,486 - 00:51:09,886] what they did was categorically wrong.
+- [00:51:09,886 - 00:51:11,366] Mike here at the end.
+- [00:51:11,366 - 00:51:13,086] Categorically wrong.
+- [00:51:13,086 - 00:51:15,286] Murder is murder, it's always wrong,
+- [00:51:15,286 - 00:51:19,446] even if it increases the overall happiness of society.
+- [00:51:20,686 - 00:51:22,446] A categorical objection.
+- [00:51:23,646 - 00:51:25,366] But we still need to investigate
+- [00:51:25,366 - 00:51:28,366] what they did was categorically wrong.
+- [00:51:28,366 - 00:51:29,366] And that's what we're going to do.
+- [00:51:29,366 - 00:51:31,446] We're going to investigate
+- [00:51:31,446 - 00:51:33,526] why murder is categorically wrong.
+- [00:51:33,526 - 00:51:37,026] Is it because even cabin
+- [00:51:37,026 - 00:51:40,526] boys have certain fundamental rights?
+- [00:51:40,526 - 00:51:43,026] And if that's the reason,
+- [00:51:43,026 - 00:51:45,526] where do those rights come from,
+- [00:51:45,526 - 00:51:48,526] if not from some idea of the larger welfare,
+- [00:51:48,526 - 00:51:50,526] or utility, or happiness?
+- [00:51:50,526 - 00:51:52,526] Question number one.
+- [00:51:52,526 - 00:51:57,526] Others said a lottery would make a difference.
+- [00:51:57,526 - 00:51:58,566] A fair procedure.
+- [00:51:58,566 - 00:52:00,566] A fair procedure, Matt said.
+- [00:52:03,966 - 00:52:07,966] But, and some people were swayed by that.
+- [00:52:07,966 - 00:52:11,966] That's not a categorical objection exactly.
+- [00:52:11,966 - 00:52:15,966] It's saying everybody has to be counted as an equal,
+- [00:52:15,966 - 00:52:17,966] even though at the end of the day,
+- [00:52:17,966 - 00:52:21,966] one can be sacrificed for the general welfare.
+- [00:52:21,966 - 00:52:25,966] That leaves us with another question to investigate.
+- [00:52:25,966 - 00:52:27,966] Why does agreement to a certain procedure,
+- [00:52:28,566 - 00:52:33,566] even a fair procedure, justify whatever result flows
+- [00:52:33,566 - 00:52:36,566] from the operation of that procedure?
+- [00:52:36,566 - 00:52:38,566] Question number two.
+- [00:52:38,566 - 00:52:43,566] And question number three, the basic idea of consent.
+- [00:52:43,566 - 00:52:46,566] Kathleen got us onto this.
+- [00:52:46,566 - 00:52:50,566] If the cabin boy had agreed himself,
+- [00:52:50,566 - 00:52:55,566] and not under duress, as was added,
+- [00:52:55,566 - 00:52:57,966] then it would be all right to take his life.
+- [00:52:57,966 - 00:52:59,466] He would have had to take
+- [00:52:59,466 - 00:53:00,966] his life to save the rest.
+- [00:53:00,966 - 00:53:04,966] And even more people signed onto that idea.
+- [00:53:04,966 - 00:53:08,966] But that raises a third philosophical question.
+- [00:53:08,966 - 00:53:13,966] What is the moral work that consent does?
+- [00:53:13,966 - 00:53:16,466] Why does an act of
+- [00:53:16,466 - 00:53:18,966] consent make such a moral difference
+- [00:53:18,966 - 00:53:20,966] that an act that would be
+- [00:53:20,966 - 00:53:22,966] wrong, taking a life without consent,
+- [00:53:22,966 - 00:53:26,966] is morally permissible with consent?
+- [00:53:27,966 - 00:53:30,966] To investigate those three questions,
+- [00:53:30,966 - 00:53:32,966] we're going to have to read some philosophers.
+- [00:53:32,966 - 00:53:35,966] And starting next time, we're going to read
+- [00:53:35,966 - 00:53:39,966] Bentham and John Stuart Mill, utilitarian philosophers.
+- [00:53:39,966 - 00:53:44,966] Don't miss the chance to interact online
+- [00:53:44,966 - 00:53:46,966] with other viewers of Justice.
+- [00:53:46,966 - 00:53:48,966] Join the conversation. Take a pop quiz.
+- [00:53:48,966 - 00:53:51,966] Watch lectures you've missed and learn a lot more.
+- [00:53:51,966 - 00:53:54,966] Visit justiceharvard.org. It's the right thing to do.
+- [00:53:57,966 - 00:54:00,966] We'll see you next time.
+- [00:54:27,966 - 00:54:34,966] Funding for this program is provided by...
+- [00:54:34,966 - 00:54:37,966] Additional funding provided by...
