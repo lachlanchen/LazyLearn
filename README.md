@@ -1,8 +1,10 @@
 [English](README.md) · [العربية](i18n/README.ar.md) · [Español](i18n/README.es.md) · [Français](i18n/README.fr.md) · [日本語](i18n/README.ja.md) · [한국어](i18n/README.ko.md) · [Tiếng Việt](i18n/README.vi.md) · [中文 (简体)](i18n/README.zh-Hans.md) · [中文（繁體）](i18n/README.zh-Hant.md) · [Deutsch](i18n/README.de.md) · [Русский](i18n/README.ru.md)
 
-[![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
+![LazyingArt logo](https://lazying.art/logos/logo.png)
 
-# LazyPhysics and Chemistry
+# LazyLearn
+
+Knowledge + skill, unrushed.
 
 [![Site](https://img.shields.io/badge/website-learn.lazying.art-0a7ea4?style=for-the-badge&logo=githubpages&logoColor=white)](https://learn.lazying.art)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,7 +62,7 @@ Layout note:
 | Collaboration model  | Root experiments + public site publishing              |
 | Translation coverage | README mirror files in `i18n/`                         |
 
-LazyPhysics and Chemistry is the code + notebook half of **LazyLearn**: an intentionally slow, practical learning log for physics and chemistry. The living notes, wins, and TODOs are published at [learn.lazying.art](https://learn.lazying.art) (served from `docs/` in this repo), while runnable artifacts stay here so experiments always have a reproducible home.
+This repository is the code + notebook half of **LazyLearn**: an intentionally slow, practical learning log for knowledge and skill building. The living notes, wins, and TODOs are published at [learn.lazying.art](https://learn.lazying.art) (served from `docs/` in this repo), while runnable artifacts stay here so experiments always have a reproducible home.
 
 ## Overview 🧭
 
