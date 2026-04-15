@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazylearn/justice-with-michael-sandel",
+  "transcript_rel": "lazylearn/justice-with-michael-sandel/014 - Justice with Michael Sandel - CCCB\uff1a Bioethics\uff1a Testing utilitarianism [mXjBJUwO660].md",
+  "video_rel": "lazylearn/justice-with-michael-sandel/014 - Justice with Michael Sandel - CCCB\uff1a Bioethics\uff1a Testing utilitarianism [mXjBJUwO660].mkv",
+  "lecture_number": 14,
+  "lecture_slug": "lecture_14",
+  "lecture_title": "Justice with Michael Sandel - CCCB\uff1a Bioethics\uff1a Testing utilitarianism",
+  "assets": [
+    {
+      "name": "lecture_14_figure_01.png",
+      "timestamp_seconds": 10.68,
+      "timestamp_hhmmss": "00:00:10.680",
+      "source_candidate": "lecture_14_window_01_candidate_04_000010680.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "Candidate 04 is the only frame that contains a clear diagrammatic representation of the subtitle content: five patient icons arranged in a row. It is visually simple, complete, and directly useful for note writing, whereas the other candidates are audience or lecturer shots without diagram content.",
+      "subtitle_excerpt": "Now consider another doctor case. This time you're a transplant surgeon and you have five patients each in desperate need of an organ",
+      "segment_start_seconds": 0.0,
+      "segment_start_hhmmss": "00:00:00.000",
+      "segment_end_seconds": 11.28,
+      "segment_end_hhmmss": "00:00:11.280",
+      "caption_hint": "Five patients awaiting organs"
+    }
+  ]
+}
