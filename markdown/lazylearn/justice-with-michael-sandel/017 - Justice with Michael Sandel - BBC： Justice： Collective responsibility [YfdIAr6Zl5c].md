@@ -1,6 +1,6 @@
 # Transcript
 
-Source: 017 - Justice with Michael Sandel - BBC： Justice： Collective responsibility [YfdIAr6Zl5c].mkv
+Source: lazylearn/justice-with-michael-sandel/017 - Justice with Michael Sandel - BBC： Justice： Collective responsibility [YfdIAr6Zl5c].mkv
 
 - [00:00:00,000 - 00:00:01,000] Welcome to the
 - [00:00:01,000 - 00:00:02,000] World of Warcraft

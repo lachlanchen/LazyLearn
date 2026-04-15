@@ -1,6 +1,6 @@
 # Transcript
 
-Source: 014 - Justice with Michael Sandel - CCCB： Bioethics： Testing utilitarianism [mXjBJUwO660].mkv
+Source: lazylearn/justice-with-michael-sandel/014 - Justice with Michael Sandel - CCCB： Bioethics： Testing utilitarianism [mXjBJUwO660].mkv
 
 - [00:00:00,000 - 00:00:11,280] Now consider another doctor case. This time you're a transplant surgeon and you have five patients each in desperate need of an organ
 - [00:00:11,280 - 00:00:22,560] transplant in order to survive. One needs a heart, one a lung, one a kidney, one a liver, and the fifth a pancreas.

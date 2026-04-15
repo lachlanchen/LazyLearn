@@ -1,6 +1,6 @@
 # Transcript
 
-Source: 015 - Justice with Michael Sandel - BBC： Fair pay？ [xKxta8FLTVY].mkv
+Source: lazylearn/justice-with-michael-sandel/015 - Justice with Michael Sandel - BBC： Fair pay？ [xKxta8FLTVY].mkv
 
 - [00:00:00,000 - 00:00:03,690] Is it fair that Wayne Rooney
 - [00:00:03,690 - 00:00:07,380] earns more than a care worker?

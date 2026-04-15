@@ -1,6 +1,6 @@
 # Transcript
 
-Source: 002 - Justice： What's The Right Thing To Do？ Episode 02： ＂PUTTING A PRICE TAG ON LIFE＂ [0O2Rq4HJBxw].webm
+Source: lazylearn/justice-with-michael-sandel/002 - Justice： What's The Right Thing To Do？ Episode 02： ＂PUTTING A PRICE TAG ON LIFE＂ [0O2Rq4HJBxw].webm
 
 - [00:00:00,000 - 00:00:05,000] Funding for this program is provided by...
 - [00:00:05,000 - 00:00:08,000] Additional funding provided by...

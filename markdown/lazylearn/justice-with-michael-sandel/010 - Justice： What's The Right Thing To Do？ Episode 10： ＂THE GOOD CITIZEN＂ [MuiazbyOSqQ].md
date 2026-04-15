@@ -1,6 +1,6 @@
 # Transcript
 
-Source: 010 - Justice： What's The Right Thing To Do？ Episode 10： ＂THE GOOD CITIZEN＂ [MuiazbyOSqQ].webm
+Source: lazylearn/justice-with-michael-sandel/010 - Justice： What's The Right Thing To Do？ Episode 10： ＂THE GOOD CITIZEN＂ [MuiazbyOSqQ].webm
 
 - [00:00:00,000 - 00:00:05,000] Funding for this program is provided by...
 - [00:00:05,000 - 00:00:09,000] Additional funding provided by...

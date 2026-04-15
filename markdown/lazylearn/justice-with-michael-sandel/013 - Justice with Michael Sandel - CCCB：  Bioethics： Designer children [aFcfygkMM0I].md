@@ -1,6 +1,6 @@
 # Transcript
 
-Source: 013 - Justice with Michael Sandel - CCCB：  Bioethics： Designer children [aFcfygkMM0I].mkv
+Source: lazylearn/justice-with-michael-sandel/013 - Justice with Michael Sandel - CCCB：  Bioethics： Designer children [aFcfygkMM0I].mkv
 
 - [00:00:00,000 - 00:00:02,500] It's a story of a couple
 - [00:00:02,500 - 00:00:05,000] who wanted to have a child.

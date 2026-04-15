@@ -1,6 +1,6 @@
 # Transcript
 
-Source: 018 - Justice with Michael Sandel - NHK： The Ultimate Choice [iKtPI8IMuOM].mkv
+Source: lazylearn/justice-with-michael-sandel/018 - Justice with Michael Sandel - NHK： The Ultimate Choice [iKtPI8IMuOM].mkv
 
 - [00:00:00,000 - 00:00:03,440] 未来を担う世界の若者たちが一堂に会しました
 - [00:00:03,440 - 00:00:07,480] アメリカハーバード大学の学生たち

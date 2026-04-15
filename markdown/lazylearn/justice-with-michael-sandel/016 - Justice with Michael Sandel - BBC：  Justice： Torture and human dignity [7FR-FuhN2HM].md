@@ -1,6 +1,6 @@
 # Transcript
 
-Source: 016 - Justice with Michael Sandel - BBC：  Justice： Torture and human dignity [7FR-FuhN2HM].webm
+Source: lazylearn/justice-with-michael-sandel/016 - Justice with Michael Sandel - BBC：  Justice： Torture and human dignity [7FR-FuhN2HM].webm
 
 - [00:00:00,000 - 00:00:03,150] Kant's emphasis on human dignity has led him
 - [00:00:03,150 - 00:00:06,300] to be called the father of human rights,

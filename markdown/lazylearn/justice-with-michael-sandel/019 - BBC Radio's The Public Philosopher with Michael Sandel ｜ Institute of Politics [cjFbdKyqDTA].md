@@ -1,6 +1,6 @@
 # Transcript
 
-Source: 019 - BBC Radio's The Public Philosopher with Michael Sandel ｜ Institute of Politics [cjFbdKyqDTA].mkv
+Source: lazylearn/justice-with-michael-sandel/019 - BBC Radio's The Public Philosopher with Michael Sandel ｜ Institute of Politics [cjFbdKyqDTA].mkv
 
 - [00:00:00,000 - 00:00:07,000] Robert Tucker Reviewer Reviewer's Name
 - [00:00:13,300 - 00:00:15,960] Hello and welcome to Harvard University.

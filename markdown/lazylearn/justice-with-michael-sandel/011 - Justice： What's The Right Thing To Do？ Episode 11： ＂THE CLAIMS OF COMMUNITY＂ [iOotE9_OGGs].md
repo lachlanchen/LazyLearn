@@ -1,6 +1,6 @@
 # Transcript
 
-Source: 011 - Justice： What's The Right Thing To Do？ Episode 11： ＂THE CLAIMS OF COMMUNITY＂ [iOotE9_OGGs].webm
+Source: lazylearn/justice-with-michael-sandel/011 - Justice： What's The Right Thing To Do？ Episode 11： ＂THE CLAIMS OF COMMUNITY＂ [iOotE9_OGGs].webm
 
 - [00:00:00,000 - 00:00:05,000] Funding for this program is provided by
 - [00:00:05,000 - 00:00:09,000] Additional funding provided by
