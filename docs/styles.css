@@ -10,6 +10,7 @@
   --surface-strong: rgba(255, 255, 255, 0.9);
   --accent: #bcff5e;
   --accent-strong: #7b5dff;
+  --eyebrow-color: #4c1d95;
   --text: #0f172a;
   --muted: rgba(15, 23, 42, 0.68);
   --border: rgba(15, 23, 42, 0.18);
@@ -29,6 +30,7 @@
   --surface-strong: rgba(255, 255, 255, 0.16);
   --accent: #bcff5e;
   --accent-strong: #7b5dff;
+  --eyebrow-color: #bcff5e;
   --text: #f9fbff;
   --muted: rgba(249, 251, 255, 0.76);
   --border: rgba(255, 255, 255, 0.18);
@@ -109,7 +111,7 @@ footer {
   text-transform: uppercase;
   letter-spacing: 0.3rem;
   font-size: 0.9rem;
-  color: var(--accent);
+  color: var(--eyebrow-color);
   margin: 0;
 }
 
