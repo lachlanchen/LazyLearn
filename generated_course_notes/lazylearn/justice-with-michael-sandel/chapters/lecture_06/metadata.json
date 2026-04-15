@@ -1,0 +1,24 @@
+{
+  "course_rel": "lazylearn/justice-with-michael-sandel",
+  "transcript_rel": "lazylearn/justice-with-michael-sandel/006 - Justice\uff1a What's The Right Thing To Do\uff1f Episode 06\uff1a \uff02MIND YOUR MOTIVE\uff02 [8rv-4aUbZxQ].md",
+  "video_rel": "lazylearn/justice-with-michael-sandel/006 - Justice\uff1a What's The Right Thing To Do\uff1f Episode 06\uff1a \uff02MIND YOUR MOTIVE\uff02 [8rv-4aUbZxQ].webm",
+  "lecture_number": 6,
+  "lecture_slug": "lecture_06",
+  "lecture_title": "Justice\uff1a What's The Right Thing To Do\uff1f Episode 06\uff1a \uff02MIND YOUR MOTIVE\uff02",
+  "assets": [
+    {
+      "name": "lecture_06_figure_02.png",
+      "timestamp_seconds": 2359.88,
+      "timestamp_hhmmss": "00:39:19.880",
+      "source_candidate": "lecture_06_window_06_candidate_03_003919880.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "This frame cleanly preserves the full quotation and the author attribution in a stable, centered layout. It is the most useful note-writing frame because the slide explicitly states the contrast between actions good merely as means and actions good in themselves, which is the conceptual structure Sandel is explaining at this moment.",
+      "subtitle_excerpt": "If the action is represented as good in itself,",
+      "segment_start_seconds": 2357.28,
+      "segment_start_hhmmss": "00:39:17.280",
+      "segment_end_seconds": 2361.28,
+      "segment_end_hhmmss": "00:39:21.280",
+      "caption_hint": "Kant on hypothetical and categorical imperatives"
+    }
+  ]
+}
