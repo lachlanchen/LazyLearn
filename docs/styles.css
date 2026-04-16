@@ -460,8 +460,8 @@ p {
   display: block;
   width: 100%;
   max-width: 100%;
-  aspect-ratio: 2 / 3;
-  height: 100%;
+  aspect-ratio: auto;
+  height: auto;
   object-fit: contain;
   object-position: center;
   background: var(--surface-strong);
@@ -472,6 +472,7 @@ p {
 
 .published-book-card span {
   padding: 0.35rem 0.65rem 0.55rem;
+  margin-bottom: 0.35rem;
   color: var(--muted);
   line-height: 1.5;
   min-height: 0;
