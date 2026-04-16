@@ -13,6 +13,7 @@ downloads/
 .lecture-notes-work/
 .auto-readme-work/
 transcription_logs/
+pocket_books/
 *.chk
 fort.7
 water.chk
