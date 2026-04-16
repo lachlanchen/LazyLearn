@@ -437,6 +437,7 @@ p {
   display: flex;
   flex-direction: column;
   gap: 0.85rem;
+  justify-content: flex-start;
   padding: 1rem;
   border-radius: 24px;
   border: 1px solid var(--border);
@@ -467,6 +468,13 @@ p {
 .published-book-card span {
   color: var(--muted);
   line-height: 1.5;
+  min-height: 3.6rem;
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
 }
 
 .published-book-card strong {
