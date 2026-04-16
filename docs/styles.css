@@ -461,8 +461,8 @@ p {
   width: 100%;
   max-width: 100%;
   aspect-ratio: 2 / 3;
-  height: auto;
-  object-fit: cover;
+  height: 100%;
+  object-fit: contain;
   object-position: center;
   background: var(--surface-strong);
   border-radius: 24px 24px 0 0;
