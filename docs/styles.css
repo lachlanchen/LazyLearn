@@ -382,6 +382,10 @@ footer {
   margin-top: 2rem;
 }
 
+.published-book-section {
+  margin-bottom: 1.25rem;
+}
+
 .hero-actions a {
   padding: 0.95rem 2.4rem;
   border-radius: 999px;
@@ -433,8 +437,54 @@ p {
 
 .published-book-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 0.9rem;
+}
+
+.published-more {
+  margin-top: 0.85rem;
+}
+
+.published-more summary {
+  list-style: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  width: fit-content;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-weight: 600;
+  user-select: none;
+  margin-bottom: 0.85rem;
+}
+
+.published-more summary::after {
+  content: "▾";
+  display: inline-block;
+  transform: translateY(-1px);
+  transition: transform 150ms ease;
+}
+
+.published-more[open] summary::after {
+  transform: rotate(180deg) translateY(1px);
+}
+
+.published-more summary::-webkit-details-marker {
+  display: none;
+}
+
+.published-more[open] summary {
+  background: rgba(123, 93, 255, 0.12);
+  border-color: rgba(123, 93, 255, 0.33);
+}
+
+.published-more .published-book-grid {
+  margin-top: 0.5rem;
 }
 
 .published-book-card {
@@ -460,18 +510,18 @@ p {
   display: block;
   width: 100%;
   max-width: 100%;
-  aspect-ratio: auto;
+  aspect-ratio: 3 / 4;
   height: auto;
   object-fit: contain;
   object-position: center;
-  background: var(--surface-strong);
+  background: #f5f5f5;
   border-radius: 24px 24px 0 0;
   border: 0;
   box-sizing: border-box;
 }
 
 .published-book-card span {
-  padding: 0.35rem 0.65rem 0.55rem;
+  padding: 0.5rem 0.75rem 0.7rem;
   margin-bottom: 0.35rem;
   color: var(--muted);
   line-height: 1.5;
@@ -1009,6 +1059,10 @@ html[dir="rtl"] #language-picker {
 }
 
 @media (max-width: 900px) {
+  .published-book-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .featured-books-grid {
     grid-template-columns: 1fr;
   }
@@ -1041,6 +1095,10 @@ html[dir="rtl"] #language-picker {
 }
 
 @media (max-width: 640px) {
+  .published-book-grid {
+    grid-template-columns: 1fr;
+  }
+
   :root {
     font-size: 17px;
   }
