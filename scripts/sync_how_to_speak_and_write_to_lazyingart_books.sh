@@ -2,7 +2,7 @@
 set -euo pipefail
 
 repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-dest_root="${1:-/home/lachlan/Nutstore Files/Projects/LazyingArtBooks}"
+dest_root="${1:-/home/lachlan/Nutstore Files/Projects/LazyingArtBooks/lazylearn}"
 slug="how-to-speak-and-write"
 
 publish_root="$repo_root/$slug"
