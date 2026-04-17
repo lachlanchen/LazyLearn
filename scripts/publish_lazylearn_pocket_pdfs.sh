@@ -7,7 +7,7 @@ Usage: scripts/publish_lazylearn_pocket_pdfs.sh [options]
 
 Publish generated LazyLearn pocket PDFs by:
 1. hardlinking them into the root course folders
-2. syncing them into Nutstore
+2. syncing them into flattened Nutstore pocket folders
 
 Options:
   --course <slug>         Restrict to one published course slug
@@ -20,6 +20,8 @@ USAGE
 repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 nutstore_root="${NUTSTORE_ROOT:-/home/lachlan/Nutstore Files/Projects/LazyingArtBooks/lazylearn}"
 course_filter=""
+nutstore_pocket_1x_dir="$nutstore_root/pocket size 1.0"
+nutstore_pocket_1_2x_dir="$nutstore_root/pocket size 1.2"
 
 while [[ $# -gt 0 ]]; do
   case "$1" in
@@ -73,18 +75,17 @@ publish_course() {
   local base_src="$repo_root/all_notes/pocket_books/${source_slug}_pocket.pdf"
   local onepointtwo_src="$repo_root/all_notes/pocket_books_1_2x/${source_slug}_pocket_1_2x.pdf"
   local publish_dir="$repo_root/$publish_slug"
-  local nutstore_dir="$nutstore_root/$publish_slug"
   local base_dest="$publish_dir/${publish_slug}-pocket.pdf"
   local onepointtwo_dest="$publish_dir/${publish_slug}-pocket-1_2x.pdf"
 
   if [[ -f "$base_src" ]]; then
     link_file "$base_src" "$base_dest"
-    copy_file "$base_src" "$nutstore_dir/${publish_slug}-pocket.pdf"
+    copy_file "$base_src" "$nutstore_pocket_1x_dir/${publish_slug}-pocket.pdf"
   fi
 
   if [[ -f "$onepointtwo_src" ]]; then
     link_file "$onepointtwo_src" "$onepointtwo_dest"
-    copy_file "$onepointtwo_src" "$nutstore_dir/${publish_slug}-pocket-1_2x.pdf"
+    copy_file "$onepointtwo_src" "$nutstore_pocket_1_2x_dir/${publish_slug}-pocket-1_2x.pdf"
   fi
 }
 

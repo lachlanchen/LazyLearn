@@ -2,13 +2,12 @@
 set -euo pipefail
 
 repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-dest_root="${1:-/home/lachlan/Nutstore Files/Projects/LazyingArtBooks/lazylearn}"
+dest_root="${1:-/home/lachlan/Nutstore Files/Projects/LazyingArtBooks/lazylearn/full size}"
 slug="how-to-speak-and-write"
 
 publish_root="$repo_root/$slug"
-dest_dir="$dest_root/$slug"
+dest_dir="$dest_root"
 
-rm -rf "$dest_dir"
 mkdir -p "$dest_dir"
 install -m 0644 "$publish_root/$slug.pdf" "$dest_dir/$slug.pdf"
 install -m 0644 "$publish_root/${slug}-zh.pdf" "$dest_dir/${slug}-zh.pdf"

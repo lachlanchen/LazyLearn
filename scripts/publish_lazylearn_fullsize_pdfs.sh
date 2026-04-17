@@ -10,11 +10,13 @@ Rebuild and publish LazyLearn full-size English PDFs by:
 2. rebuilding the generated full-size source PDFs
 3. publishing the rebuilt PDFs into the root book folders
 4. mirroring the full-size publish set into all_notes/
+5. syncing the flattened full-size shelf into Nutstore
 
 Options:
   --course <slug>           Restrict to one published course slug
   --repo-root <path>        Repo root (default: parent of this script)
   --video2book-root <path>  Video2Book root (default: <repo-root>/Video2Book)
+  --nutstore-root <path>    Nutstore LazyingArtBooks/lazylearn root
   -h, --help                Show this help
 USAGE
 }
@@ -22,6 +24,7 @@ USAGE
 repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 video2book_root=""
 course_filter=""
+nutstore_root="${NUTSTORE_ROOT:-/home/lachlan/Nutstore Files/Projects/LazyingArtBooks/lazylearn}"
 
 while [[ $# -gt 0 ]]; do
   case "$1" in
@@ -35,6 +38,10 @@ while [[ $# -gt 0 ]]; do
       ;;
     --video2book-root)
       video2book_root="${2:-}"
+      shift 2
+      ;;
+    --nutstore-root)
+      nutstore_root="${2:-}"
       shift 2
       ;;
     -h|--help)
@@ -108,12 +115,14 @@ publish_course() {
   local source_pdf="$course_dir/course.pdf"
   local publish_pdf="$publish_dir/$publish_slug.pdf"
   local all_notes_pdf="$repo_root/all_notes/$publish_slug.pdf"
+  local nutstore_pdf="$nutstore_root/full size/$publish_slug.pdf"
 
   sync_shared_preamble "$course_dir"
   rebuild_course_pdf "$course_dir"
 
   hardlink_or_copy "$source_pdf" "$publish_pdf"
   hardlink_or_copy "$source_pdf" "$all_notes_pdf"
+  hardlink_or_copy "$source_pdf" "$nutstore_pdf"
 
   if [[ "$publish_slug" == "how-to-speak-and-write" ]]; then
     for translated in \
@@ -121,11 +130,12 @@ publish_course() {
       "$publish_dir/$publish_slug-jp.pdf"; do
       if [[ -f "$translated" ]]; then
         hardlink_or_copy "$translated" "$repo_root/all_notes/$(basename "$translated")"
+        hardlink_or_copy "$translated" "$nutstore_root/full size/$(basename "$translated")"
       fi
     done
   fi
 
-  printf 'Published full-size PDF: %s -> %s and %s\n' "$source_slug" "$publish_pdf" "$all_notes_pdf"
+  printf 'Published full-size PDF: %s -> %s, %s, and %s\n' "$source_slug" "$publish_pdf" "$all_notes_pdf" "$nutstore_pdf"
 }
 
 mkdir -p "$repo_root/all_notes"
