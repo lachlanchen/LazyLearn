@@ -44,10 +44,11 @@ The Czech smoking case is Sandel's first stress test. Philip Morris commissioned
 \begin{align}
 \text{Net}_{\text{Czech smoking}}
 &=\text{tax revenue}
-+\text{health-care savings from early death} \nonumber\\
-&\quad+\text{pension savings}
-+\text{housing savings}
--\text{smoking-related health costs} \nonumber\\
++\text{pension savings} \nonumber\\
+&\quad+\text{housing savings} \nonumber\\
+&\quad+\text{health-care savings} \nonumber\\
+&\quad\text{from early death} \nonumber\\
+&\quad-\text{smoking-related health costs} \nonumber\\
 &=\$147\,\text{million}.
 \end{align}
 At the individual level, the same reasoning yields
@@ -71,9 +72,12 @@ The transcript's arithmetic is approximate here, as Sandel reports \(\$137\) mil
 
 The benefit side of the memo included expected deaths, expected injuries, and the value of vehicles that would otherwise be destroyed. Because the injury coefficient is garbled in the transcript, it is safest to keep that term symbolic:
 \begin{equation}
+\begin{aligned}
 B_{\text{Pinto safety}}
-=
-180(\$200{,}000)+180I+2000(\$700)\approx \$49.5\,\text{million},
+&=180(\$200{,}000)+180I \\
+&\quad+2000(\$700) \\
+&\approx \$49.5\,\text{million}.
+\end{aligned}
 \end{equation}
 where \(I\) denotes the memo's injury valuation. The decision then follows from the sign of the difference:
 \begin{align}
@@ -88,11 +92,11 @@ This is one of the lecture's strongest numerical examples because the arithmetic
 
 Sandel then widens the frame. The same form appears in policy debates over cell-phone use while driving. A study is said to find roughly \(2000\) annual deaths from such use; later, in the live exchange, Sandel rounds the figure up to \(2300\). Against these deaths are placed the economic and practical gains from using travel time for business, coordination, and ordinary convenience. The resulting structure is again the same:
 \begin{equation}
+\begin{aligned}
 \text{Net}_{\text{cell phone}}
-\approx
-\text{convenience and economic benefit}
--
-N_{\text{deaths}}V_{\text{life}}.
+&\approx \text{convenience and economic benefit} \\
+&\quad - N_{\text{deaths}}V_{\text{life}}.
+\end{aligned}
 \end{equation}
 The point is not that the lecture settles the cell-phone question. The point is that once \(V_{\text{life}}\) is introduced, the issue appears to fit the same calculus as the Pinto memo.
 
@@ -118,11 +122,11 @@ The first objection concerns rights, especially the rights of minorities and ind
 
 The second objection concerns commensurability. Even if we agreed to aggregate, can all goods, losses, and human concerns be translated into a single scale? Thorndike's survey is introduced as an attempt to show that they can. Respondents assigned dollar amounts to unlike experiences: pulling a tooth, cutting off a toe, eating a worm, living the rest of one's life on a farm in Kansas, choking a stray cat. The resulting ranking is exactly the kind of thing Sandel wants us to inspect:
 \begin{equation}
-V(\text{Kansas})=\$300{,}000
->
-V(\text{eat earthworm})=\$100{,}000
->
-V(\text{pull tooth})=\$4{,}500.
+\begin{aligned}
+V(\text{Kansas}) &= \$300{,}000 \\
+&> V(\text{eat earthworm}) = \$100{,}000 \\
+&> V(\text{pull tooth}) = \$4{,}500.
+\end{aligned}
 \end{equation}
 The ranking is not interesting because it is silly. It is interesting because the silliness may reveal something true: perhaps these goods and harms are being misshapen by the very act of being forced into one scale.
 
@@ -132,6 +136,7 @@ At this point Sandel explicitly consolidates the argument. We are looking at two
 
 \begin{figure}
 \centering
+\resizebox{\linewidth}{!}{%
 \begin{tikzpicture}[>=stealth]
 \node[draw, rectangle] (u) at (0,2) {Utilitarian calculus};
 \node[draw, rectangle] (r) at (-4,0) {Rights};
@@ -142,7 +147,8 @@ At this point Sandel explicitly consolidates the argument. We are looking at two
 \draw[->] (u) -- (c);
 \draw[->] (r) -- (rr);
 \draw[->] (c) -- (cc);
-\end{tikzpicture}
+\end{tikzpicture}%
+}
 \end{figure}
 
 The diagram is only a map, but it captures an important pedagogical beat. The lecture has moved from examples to a formal branching of the problem.
@@ -173,9 +179,12 @@ Mill's competent-judge test says that of two pleasures, the higher pleasure is t
 
 A compact way to summarize the structure is
 \begin{equation}
+\begin{aligned}
 \text{Higher}(p_1,p_2)
-\iff
-\text{those acquainted with both }p_1\text{ and }p_2\text{ decidedly prefer }p_1.
+&\iff \text{those acquainted} \\
+&\quad \text{with both }p_1\text{ and }p_2 \\
+&\quad \text{decidedly prefer }p_1.
+\end{aligned}
 \end{equation}
 The significance of the definition lies in what it excludes. Mill does not permit us to step outside actual preference. He does, however, restrict the relevant preferences to those of people who know both sides of the comparison.
 
@@ -199,11 +208,13 @@ Sandel's test is the classroom experiment with Hamlet, Fear Factor, and The Simp
 
 \begin{table}
 \centering
+\resizebox{\linewidth}{!}{%
 \begin{tabular}{lll}
 Question posed & Dominant response & Philosophical use \\
 Most liked & The Simpsons & immediate preference \\
 Highest experience & Shakespeare & qualitative ranking \\
 \end{tabular}
+\par}%
 \end{table}
 
 This is the live form of Mill's claim:

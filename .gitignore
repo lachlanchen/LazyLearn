@@ -13,12 +13,15 @@ downloads/
 .lecture-notes-work/
 .auto-readme-work/
 transcription_logs/
+all_notes/
 pocket_books/
 *.chk
 fort.7
 water.chk
 generated_course_notes/**/build/
 generated_course_notes/**/course_v1.pdf
+how-to-speak-and-write/*-pocket*.pdf
+justice-with-michael-sandel/*-pocket*.pdf
 
 # Python internals
 __pycache__/
