@@ -15,7 +15,7 @@ Knowledge + skill, unrushed.
 
 ## Featured Books
 
-| [![How to Speak and Write cover](docs/how-to-speak-and-write-cover.png)](how-to-speak-and-write/how-to-speak-and-write.pdf) | [![Justice with Michael Sandel cover](docs/justice-with-michael-sandel-cover.png)](justice-with-michael-sandel/justice-with-michael-sandel.pdf) | [![Classical Mechanics Stanford partial cover](https://github.com/lachlanchen/leonardsusskind/raw/main/figs/readme-covers/classical_mechanics_stanford_partial.png)](https://github.com/lachlanchen/leonardsusskind) |
+| [![How to Speak and Write cover](docs/how-to-speak-and-write-cover.png)](how-to-speak-and-write/how-to-speak-and-write.pdf) | [![Justice with Michael Sandel cover](docs/justice-with-michael-sandel-cover.png)](justice-with-michael-sandel/justice-with-michael-sandel.pdf) | [![Quantum Mechanics Modern Physics Stanford first page](https://github.com/lachlanchen/leonardsusskind/raw/main/figs/readme-covers/quantum_mechanics_modern_physics_stanford_first_page.png)](https://github.com/lachlanchen/leonardsusskind) |
 | --- | --- | --- |
 | **How to Speak and Write** | **Justice with Michael Sandel** | **Leonard Susskind Book Repo** |
 
