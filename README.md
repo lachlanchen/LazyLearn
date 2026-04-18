@@ -13,11 +13,13 @@ Knowledge + skill, unrushed.
 ![Docs](https://img.shields.io/badge/Docs-Static%20Microsite-0ea5e9?style=for-the-badge&logo=markdown&logoColor=white)
 ![Languages](https://img.shields.io/badge/Languages-11-0f766e?style=for-the-badge&logo=googletranslate&logoColor=white)
 
-## Featured Book
+## Featured Books
+
+| [![How to Speak and Write cover](docs/how-to-speak-and-write-cover.png)](how-to-speak-and-write/how-to-speak-and-write.pdf) | [![Justice with Michael Sandel cover](docs/justice-with-michael-sandel-cover.png)](justice-with-michael-sandel/justice-with-michael-sandel.pdf) | [![Classical Mechanics Stanford partial cover](https://github.com/lachlanchen/leonardsusskind/raw/main/figs/readme-covers/classical_mechanics_stanford_partial.png)](https://github.com/lachlanchen/leonardsusskind) |
+| --- | --- | --- |
+| **How to Speak and Write** | **Justice with Michael Sandel** | **Leonard Susskind Book Repo** |
 
 **How to Speak and Write** is now the most prominent published book from this repo.
-
-![How to Speak and Write cover](docs/how-to-speak-and-write-cover.png)
 
 First-page cover preview. Available as a full-size multilingual edition and as English pocket editions in `1.0x` and `1.2x`.
 
@@ -30,8 +32,6 @@ First-page cover preview. Available as a full-size multilingual edition and as E
 
 **Justice with Michael Sandel** is also finished and published from the completed lecture pipeline.
 
-![Justice with Michael Sandel cover](docs/justice-with-michael-sandel-cover.png)
-
 First-page cover preview. Available as a full-size English edition and as English pocket editions in `1.0x` and `1.2x`.
 
 - Read the English local edition: [justice-with-michael-sandel/justice-with-michael-sandel.pdf](justice-with-michael-sandel/justice-with-michael-sandel.pdf)
@@ -42,8 +42,6 @@ First-page cover preview. Available as a full-size English edition and as Englis
 ## Dedicated Physics Book Repo
 
 There is also a separate repository dedicated to the Leonard Susskind lecture-note book collection.
-
-[![Classical Mechanics Stanford partial cover](https://github.com/lachlanchen/leonardsusskind/raw/main/figs/readme-covers/classical_mechanics_stanford_partial.png)](https://github.com/lachlanchen/leonardsusskind)
 
 - Browse the repo: [lachlanchen/leonardsusskind](https://github.com/lachlanchen/leonardsusskind)
 - Use that repo for the larger physics catalog, including classical mechanics, advanced quantum mechanics, particle physics, entanglement, and string theory
