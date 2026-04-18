@@ -19,16 +19,24 @@ Knowledge + skill, unrushed.
 
 ![How to Speak and Write cover](docs/how-to-speak-and-write-cover.png)
 
+First-page cover preview. Available as a full-size multilingual edition and as English pocket editions in `1.0x` and `1.2x`.
+
 - Read the English local edition: [how-to-speak-and-write/how-to-speak-and-write.pdf](how-to-speak-and-write/how-to-speak-and-write.pdf)
 - Read the Traditional Chinese local edition: [how-to-speak-and-write/how-to-speak-and-write-zh.pdf](how-to-speak-and-write/how-to-speak-and-write-zh.pdf)
 - Read the Japanese local edition: [how-to-speak-and-write/how-to-speak-and-write-jp.pdf](how-to-speak-and-write/how-to-speak-and-write-jp.pdf)
+- Read the pocket-size 1.0x edition: [how-to-speak-and-write/how-to-speak-and-write-pocket.pdf](how-to-speak-and-write/how-to-speak-and-write-pocket.pdf)
+- Read the pocket-size 1.2x edition: [how-to-speak-and-write/how-to-speak-and-write-pocket-1_2x.pdf](how-to-speak-and-write/how-to-speak-and-write-pocket-1_2x.pdf)
 - Read the website edition: [learn.lazying.art/how-to-speak-and-write.pdf](https://learn.lazying.art/how-to-speak-and-write.pdf)
 
 **Justice with Michael Sandel** is also finished and published from the completed lecture pipeline.
 
 ![Justice with Michael Sandel cover](docs/justice-with-michael-sandel-cover.png)
 
+First-page cover preview. Available as a full-size English edition and as English pocket editions in `1.0x` and `1.2x`.
+
 - Read the English local edition: [justice-with-michael-sandel/justice-with-michael-sandel.pdf](justice-with-michael-sandel/justice-with-michael-sandel.pdf)
+- Read the pocket-size 1.0x edition: [justice-with-michael-sandel/justice-with-michael-sandel-pocket.pdf](justice-with-michael-sandel/justice-with-michael-sandel-pocket.pdf)
+- Read the pocket-size 1.2x edition: [justice-with-michael-sandel/justice-with-michael-sandel-pocket-1_2x.pdf](justice-with-michael-sandel/justice-with-michael-sandel-pocket-1_2x.pdf)
 - Read the website edition: [learn.lazying.art/justice-with-michael-sandel.pdf](https://learn.lazying.art/justice-with-michael-sandel.pdf)
 
 ## Dedicated Physics Book Repo
