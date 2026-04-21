@@ -19,6 +19,11 @@ Knowledge + skill, unrushed.
 | --- | --- | --- |
 | **How to Speak and Write** | **Justice with Michael Sandel** | **Leonard Susskind Book Repo** |
 
+| [![Quantum Mechanics Theoretical Minimum cover](https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/figs/readme-covers/quantum_mechanics_theoretical_minimum.png)](https://github.com/lachlanchen/leonardsusskind/blob/main/core_quantum_mechanics/2012_winter_theoretical_minimum/quantum_mechanics_theoretical_minimum.pdf) | [![General Relativity Theoretical Minimum cover](https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/figs/readme-covers/general_relativity_theoretical_minimum.png)](https://github.com/lachlanchen/leonardsusskind/blob/main/core_general_relativity/2012_fall_theoretical_minimum/general_relativity_theoretical_minimum.pdf) | [![Statistical Mechanics Theoretical Minimum cover](https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/figs/readme-covers/statistical_mechanics_theoretical_minimum_first_page.png)](https://github.com/lachlanchen/leonardsusskind/blob/main/core_statistical_mechanics/2013_spring_theoretical_minimum/statistical_mechanics_theoretical_minimum.pdf) | [![Cosmology Theoretical Minimum cover](https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/figs/readme-covers/cosmology_theoretical_minimum_first_page.png)](https://github.com/lachlanchen/leonardsusskind/blob/main/core_cosmology/2013_winter_theoretical_minimum/cosmology_theoretical_minimum.pdf) |
+| --- | --- | --- | --- |
+| **Quantum Mechanics** | **General Relativity** | **Statistical Mechanics** | **Cosmology** |
+| *Theoretical Minimum* | *Theoretical Minimum* | *Theoretical Minimum* | *Theoretical Minimum* |
+
 **How to Speak and Write** is now the most prominent published book from this repo.
 
 First-page cover preview. Available as a full-size multilingual edition and as English pocket editions in `1.0x` and `1.2x`.
