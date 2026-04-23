@@ -93,6 +93,26 @@ footer {
   text-align: center;
 }
 
+.reader-site-header {
+  padding: 2.2rem 0 1rem;
+}
+
+.reader-site-header .top-bar {
+  margin-bottom: 1rem;
+}
+
+.reader-site-header .hero-title {
+  margin-bottom: 0.55rem;
+}
+
+.reader-site-header .tagline {
+  margin-bottom: 0;
+}
+
+.reader-home-link {
+  text-decoration: none;
+}
+
 .top-bar {
   display: flex;
   justify-content: space-between;

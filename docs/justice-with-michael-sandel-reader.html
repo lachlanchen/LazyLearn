@@ -11,9 +11,28 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="styles.css" />
+    <script src="reader-theme.js" defer></script>
   </head>
   <body>
     <div class="background-glow" aria-hidden="true"></div>
+    <header class="hero reader-site-header">
+      <div class="top-bar">
+        <p class="eyebrow">LazyingArt</p>
+        <div class="top-controls">
+          <a class="theme-toggle reader-home-link" href="index.html">Home</a>
+          <button class="theme-toggle" id="theme-toggle" type="button" aria-pressed="false">
+            Light
+          </button>
+        </div>
+      </div>
+      <div class="hero-title">
+        <img src="logo.png" alt="LazyingArt logo" class="hero-logo" />
+        <h1>LazyLearn</h1>
+      </div>
+      <p class="tagline">
+        Knowledge + skill, unrushed. Slow notebooks, reproducible scripts, and honest progress logs.
+      </p>
+    </header>
     <main class="pdf-reader-page">
       <section class="pdf-reader-shell">
         <div class="pdf-reader-intro">
