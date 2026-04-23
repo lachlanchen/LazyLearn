@@ -28,7 +28,7 @@ First-page cover preview. Available as a full-size multilingual edition and as E
 - Read the Japanese local edition: [how-to-speak-and-write/how-to-speak-and-write-jp.pdf](how-to-speak-and-write/how-to-speak-and-write-jp.pdf)
 - Read the pocket-size 1.0x edition: [how-to-speak-and-write/how-to-speak-and-write-pocket.pdf](how-to-speak-and-write/how-to-speak-and-write-pocket.pdf)
 - Read the pocket-size 1.2x edition: [how-to-speak-and-write/how-to-speak-and-write-pocket-1_2x.pdf](how-to-speak-and-write/how-to-speak-and-write-pocket-1_2x.pdf)
-- Read the website edition: [learn.lazying.art/how-to-speak-and-write.pdf](https://learn.lazying.art/how-to-speak-and-write.pdf)
+- Read the website edition: [learn.lazying.art/how-to-speak-and-write-reader.html](https://learn.lazying.art/how-to-speak-and-write-reader.html)
 
 **Justice with Michael Sandel** is also finished and published from the completed lecture pipeline.
 
@@ -37,7 +37,7 @@ First-page cover preview. Available as a full-size English edition and as Englis
 - Read the English local edition: [justice-with-michael-sandel/justice-with-michael-sandel.pdf](justice-with-michael-sandel/justice-with-michael-sandel.pdf)
 - Read the pocket-size 1.0x edition: [justice-with-michael-sandel/justice-with-michael-sandel-pocket.pdf](justice-with-michael-sandel/justice-with-michael-sandel-pocket.pdf)
 - Read the pocket-size 1.2x edition: [justice-with-michael-sandel/justice-with-michael-sandel-pocket-1_2x.pdf](justice-with-michael-sandel/justice-with-michael-sandel-pocket-1_2x.pdf)
-- Read the website edition: [learn.lazying.art/justice-with-michael-sandel.pdf](https://learn.lazying.art/justice-with-michael-sandel.pdf)
+- Read the website edition: [learn.lazying.art/justice-with-michael-sandel-reader.html](https://learn.lazying.art/justice-with-michael-sandel-reader.html)
 
 ## Dedicated Physics Book Repo
 
