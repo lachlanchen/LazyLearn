@@ -295,6 +295,29 @@ footer {
   flex-wrap: wrap;
 }
 
+.pdf-reader-select-label {
+  color: var(--muted);
+  font: 700 0.78rem / 1 "JetBrains Mono", monospace;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.pdf-reader-select {
+  min-width: min(360px, 76vw);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--text);
+  background: var(--surface) var(--select-arrow) no-repeat right 1rem center / 12px 8px;
+  appearance: none;
+  padding: 0.78rem 2.5rem 0.78rem 1rem;
+  font: 700 0.95rem / 1.2 "Space Grotesk", sans-serif;
+}
+
+.pdf-reader-select:focus-visible {
+  outline: 3px solid rgba(123, 93, 255, 0.35);
+  outline-offset: 2px;
+}
+
 .pdf-reader-chip,
 .pdf-reader-link {
   display: inline-flex;
