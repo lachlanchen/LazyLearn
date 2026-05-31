@@ -474,6 +474,10 @@ footer {
   margin: 0 0 2rem;
 }
 
+.pocket-comparison a {
+  display: block;
+}
+
 .pocket-comparison img {
   display: block;
   width: 100%;
