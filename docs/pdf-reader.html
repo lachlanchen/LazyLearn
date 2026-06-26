@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LazyLearn PDF Reader</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #172033;
+      --muted: #687386;
+      --paper: #f7f2e8;
+      --panel: #fffaf0;
+      --line: #dfd4c2;
+      --accent: #8a4f2f;
+      --accent-dark: #653720;
+    }
+    * { box-sizing: border-box; }
+    [hidden] { display: none !important; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 3;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 16px;
+      align-items: center;
+      padding: 14px 20px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(255, 250, 240, 0.94);
+      backdrop-filter: blur(12px);
+    }
+    h1 {
+      margin: 0;
+      overflow: hidden;
+      font-size: clamp(18px, 2vw, 26px);
+      font-weight: 760;
+      line-height: 1.2;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .meta {
+      margin-top: 3px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: flex-end;
+      align-items: center;
+    }
+    button, a.control-link {
+      min-height: 36px;
+      padding: 8px 11px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fffdf7;
+      color: var(--ink);
+      font: inherit;
+      font-size: 13px;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    button.primary {
+      border-color: var(--accent);
+      background: var(--accent);
+      color: white;
+    }
+    button:disabled {
+      cursor: not-allowed;
+      opacity: 0.42;
+    }
+    main {
+      width: min(100%, 1120px);
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .reader-shell {
+      display: grid;
+      place-items: start center;
+      min-height: calc(100vh - 120px);
+    }
+    .canvas-wrap {
+      width: 100%;
+      overflow: auto;
+      padding: 16px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: #d8cec0;
+      box-shadow: 0 20px 45px rgba(53, 36, 20, 0.16);
+    }
+    canvas {
+      display: block;
+      margin: 0 auto;
+      max-width: none;
+      background: white;
+      box-shadow: 0 8px 24px rgba(36, 24, 14, 0.24);
+    }
+    .status {
+      width: 100%;
+      padding: 28px;
+      border: 1px dashed var(--line);
+      border-radius: 12px;
+      background: var(--panel);
+      color: var(--muted);
+      text-align: center;
+    }
+    .error {
+      color: #a91f1f;
+    }
+    @media (max-width: 760px) {
+      header {
+        grid-template-columns: 1fr;
+        padding: 12px;
+      }
+      .controls {
+        justify-content: flex-start;
+      }
+      main {
+        padding: 10px;
+      }
+      .canvas-wrap {
+        padding: 8px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1 id="title">LazyLearn PDF Reader</h1>
+      <div class="meta">
+        <span id="pageStatus">Loading...</span>
+      </div>
+    </div>
+    <div class="controls" aria-label="PDF controls">
+      <button id="prevPage" type="button">Previous</button>
+      <button id="nextPage" type="button">Next</button>
+      <button id="zoomOut" type="button">Zoom out</button>
+      <button id="zoomIn" type="button">Zoom in</button>
+      <button id="fitWidth" class="primary" type="button">Fit width</button>
+      <a id="rawLink" class="control-link" href="#" target="_blank" rel="noopener">Raw PDF</a>
+    </div>
+  </header>
+
+  <main>
+    <div id="message" class="status">Loading PDF.js reader...</div>
+    <div id="reader" class="reader-shell" hidden>
+      <div id="canvasWrap" class="canvas-wrap">
+        <canvas id="pageCanvas"></canvas>
+      </div>
+    </div>
+  </main>
+
+  <script type="module">
+    import * as pdfjsLib from "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.0.227/build/pdf.mjs";
+
+    pdfjsLib.GlobalWorkerOptions.workerSrc =
+      "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.0.227/build/pdf.worker.mjs";
+
+    const params = new URLSearchParams(window.location.search);
+    const sourcePath = params.get("path") || "";
+    const explicitSourceUrl = params.get("src") || "";
+    const title = params.get("title") || "PocketPolyglot PDF";
+    const allowedPrefix = "https://raw.githubusercontent.com/lachlanchen/LingualLeaf/main/";
+
+    const titleEl = document.getElementById("title");
+    const pageStatus = document.getElementById("pageStatus");
+    const rawLink = document.getElementById("rawLink");
+    const message = document.getElementById("message");
+    const reader = document.getElementById("reader");
+    const canvasWrap = document.getElementById("canvasWrap");
+    const canvas = document.getElementById("pageCanvas");
+    const ctx = canvas.getContext("2d", { alpha: false });
+    const prevPage = document.getElementById("prevPage");
+    const nextPage = document.getElementById("nextPage");
+    const zoomOut = document.getElementById("zoomOut");
+    const zoomIn = document.getElementById("zoomIn");
+    const fitWidth = document.getElementById("fitWidth");
+
+    let pdf = null;
+    let pageNum = 1;
+    let scale = 1.25;
+    let renderTask = null;
+
+    function encodePath(path) {
+      return path
+        .split("/")
+        .map((part) => encodeURIComponent(part))
+        .join("/");
+    }
+
+    const sourceUrl = explicitSourceUrl || (sourcePath ? `${allowedPrefix}${encodePath(sourcePath)}` : "");
+
+    function setError(text) {
+      message.hidden = false;
+      message.classList.add("error");
+      message.textContent = text;
+      reader.hidden = true;
+    }
+
+    function setLoading(text) {
+      message.hidden = false;
+      message.classList.remove("error");
+      message.textContent = text;
+    }
+
+    function updateControls() {
+      const total = pdf ? pdf.numPages : 0;
+      pageStatus.textContent = total ? `Page ${pageNum} / ${total} · ${Math.round(scale * 100)}%` : "Loading...";
+      prevPage.disabled = !pdf || pageNum <= 1;
+      nextPage.disabled = !pdf || pageNum >= total;
+      zoomOut.disabled = !pdf || scale <= 0.45;
+      zoomIn.disabled = !pdf || scale >= 3.6;
+    }
+
+    async function renderPage() {
+      if (!pdf) return;
+      if (renderTask) {
+        renderTask.cancel();
+        renderTask = null;
+      }
+      setLoading("Rendering page...");
+      const page = await pdf.getPage(pageNum);
+      const viewport = page.getViewport({ scale });
+      const ratio = window.devicePixelRatio || 1;
+      canvas.width = Math.floor(viewport.width * ratio);
+      canvas.height = Math.floor(viewport.height * ratio);
+      canvas.style.width = `${Math.floor(viewport.width)}px`;
+      canvas.style.height = `${Math.floor(viewport.height)}px`;
+      ctx.setTransform(ratio, 0, 0, ratio, 0, 0);
+      ctx.fillStyle = "#fff";
+      ctx.fillRect(0, 0, viewport.width, viewport.height);
+      renderTask = page.render({ canvasContext: ctx, viewport });
+      try {
+        await renderTask.promise;
+        message.hidden = true;
+        reader.hidden = false;
+      } catch (error) {
+        if (error && error.name !== "RenderingCancelledException") {
+          setError(`Unable to render this page: ${error.message || error}`);
+        }
+      } finally {
+        renderTask = null;
+        updateControls();
+      }
+    }
+
+    async function fitToWidth() {
+      if (!pdf) return;
+      const page = await pdf.getPage(pageNum);
+      const viewport = page.getViewport({ scale: 1 });
+      const available = Math.max(280, canvasWrap.clientWidth - 34);
+      scale = Math.max(0.45, Math.min(3.6, available / viewport.width));
+      await renderPage();
+    }
+
+    async function init() {
+      titleEl.textContent = title;
+      rawLink.href = sourceUrl || "#";
+      if (!sourceUrl.startsWith(allowedPrefix)) {
+        setError("Missing or unsupported PDF URL. This reader only opens LingualLeaf GitHub raw PDFs.");
+        updateControls();
+        return;
+      }
+      try {
+        setLoading("Fetching PDF from GitHub raw...");
+        const response = await fetch(sourceUrl, { mode: "cors" });
+        if (!response.ok) {
+          throw new Error(`GitHub raw returned HTTP ${response.status}`);
+        }
+        setLoading("Preparing PDF...");
+        const data = await response.arrayBuffer();
+        pdf = await pdfjsLib.getDocument({ data }).promise;
+        reader.hidden = false;
+        await fitToWidth();
+      } catch (error) {
+        setError(`Unable to load PDF: ${error.message || error}. Use the Raw PDF button as a fallback.`);
+      }
+      updateControls();
+    }
+
+    prevPage.addEventListener("click", async () => {
+      if (pdf && pageNum > 1) {
+        pageNum -= 1;
+        await renderPage();
+      }
+    });
+
+    nextPage.addEventListener("click", async () => {
+      if (pdf && pageNum < pdf.numPages) {
+        pageNum += 1;
+        await renderPage();
+      }
+    });
+
+    zoomOut.addEventListener("click", async () => {
+      scale = Math.max(0.45, scale * 0.85);
+      await renderPage();
+    });
+
+    zoomIn.addEventListener("click", async () => {
+      scale = Math.min(3.6, scale * 1.18);
+      await renderPage();
+    });
+
+    fitWidth.addEventListener("click", fitToWidth);
+
+    window.addEventListener("keydown", async (event) => {
+      if (event.key === "ArrowLeft") prevPage.click();
+      if (event.key === "ArrowRight") nextPage.click();
+      if ((event.metaKey || event.ctrlKey) && event.key === "=") {
+        event.preventDefault();
+        zoomIn.click();
+      }
+      if ((event.metaKey || event.ctrlKey) && event.key === "-") {
+        event.preventDefault();
+        zoomOut.click();
+      }
+    });
+
+    window.addEventListener("resize", () => {
+      if (!pdf) return;
+      clearTimeout(window.__pdfResizeTimer);
+      window.__pdfResizeTimer = setTimeout(fitToWidth, 180);
+    });
+
+    updateControls();
+    init();
+  </script>
+</body>
+</html>
