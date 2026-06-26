@@ -97,6 +97,23 @@
       background: #d8cec0;
       box-shadow: 0 20px 45px rgba(53, 36, 20, 0.16);
     }
+    .native-reader {
+      width: 100%;
+      min-height: calc(100vh - 180px);
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: white;
+      box-shadow: 0 20px 45px rgba(53, 36, 20, 0.16);
+    }
+    .native-reader iframe {
+      display: block;
+      width: 100%;
+      height: calc(100vh - 180px);
+      min-height: 720px;
+      border: 0;
+      background: white;
+    }
     canvas {
       display: block;
       margin: 0 auto;
@@ -158,13 +175,16 @@
         <canvas id="pageCanvas"></canvas>
       </div>
     </div>
+    <div id="nativeReader" class="native-reader" hidden>
+      <iframe id="nativeFrame" title="Browser PDF view"></iframe>
+    </div>
   </main>
 
   <script type="module">
-    import * as pdfjsLib from "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.0.227/build/pdf.mjs";
+    import * as pdfjsLib from "./vendor/pdfjs/pdf.mjs";
 
     pdfjsLib.GlobalWorkerOptions.workerSrc =
-      "https://cdn.jsdelivr.net/npm/pdfjs-dist@6.0.227/build/pdf.worker.mjs";
+      new URL("./vendor/pdfjs/pdf.worker.mjs", window.location.href).toString();
 
     const params = new URLSearchParams(window.location.search);
     const sourcePath = params.get("path") || "";
@@ -177,6 +197,8 @@
     const rawLink = document.getElementById("rawLink");
     const message = document.getElementById("message");
     const reader = document.getElementById("reader");
+    const nativeReader = document.getElementById("nativeReader");
+    const nativeFrame = document.getElementById("nativeFrame");
     const canvasWrap = document.getElementById("canvasWrap");
     const canvas = document.getElementById("pageCanvas");
     const ctx = canvas.getContext("2d", { alpha: false });
@@ -190,6 +212,8 @@
     let pageNum = 1;
     let scale = 1.25;
     let renderTask = null;
+    let fallbackTimer = null;
+    let nativeObjectUrl = "";
 
     function encodePath(path) {
       return path
@@ -201,16 +225,30 @@
     const sourceUrl = explicitSourceUrl || (sourcePath ? `${allowedPrefix}${encodePath(sourcePath)}` : "");
 
     function setError(text) {
+      clearTimeout(fallbackTimer);
       message.hidden = false;
       message.classList.add("error");
       message.textContent = text;
       reader.hidden = true;
+      nativeReader.hidden = true;
     }
 
     function setLoading(text) {
       message.hidden = false;
       message.classList.remove("error");
       message.textContent = text;
+    }
+
+    function showNativeFallback(reason) {
+      if (!nativeObjectUrl) return;
+      clearTimeout(fallbackTimer);
+      reader.hidden = true;
+      nativeFrame.src = nativeObjectUrl;
+      nativeReader.hidden = false;
+      message.hidden = false;
+      message.classList.remove("error");
+      message.textContent = reason || "Using browser PDF renderer.";
+      pageStatus.textContent = "Browser PDF renderer";
     }
 
     function updateControls() {
@@ -242,11 +280,13 @@
       renderTask = page.render({ canvasContext: ctx, viewport });
       try {
         await renderTask.promise;
+        clearTimeout(fallbackTimer);
         message.hidden = true;
         reader.hidden = false;
+        nativeReader.hidden = true;
       } catch (error) {
         if (error && error.name !== "RenderingCancelledException") {
-          setError(`Unable to render this page: ${error.message || error}`);
+          showNativeFallback(`PDF.js could not render this page; using the browser PDF renderer instead.`);
         }
       } finally {
         renderTask = null;
@@ -277,13 +317,21 @@
         if (!response.ok) {
           throw new Error(`GitHub raw returned HTTP ${response.status}`);
         }
+        const pdfBytes = new Uint8Array(await response.arrayBuffer());
+        nativeObjectUrl = URL.createObjectURL(new Blob([pdfBytes], { type: "application/pdf" }));
+        fallbackTimer = setTimeout(() => {
+          showNativeFallback("PDF.js is still preparing this file; using the browser PDF renderer instead.");
+        }, 8000);
         setLoading("Preparing PDF...");
-        const data = await response.arrayBuffer();
-        pdf = await pdfjsLib.getDocument({ data }).promise;
+        pdf = await pdfjsLib.getDocument({ data: pdfBytes.slice() }).promise;
         reader.hidden = false;
         await fitToWidth();
       } catch (error) {
-        setError(`Unable to load PDF: ${error.message || error}. Use the Raw PDF button as a fallback.`);
+        if (nativeObjectUrl) {
+          showNativeFallback(`PDF.js could not load this file; using the browser PDF renderer instead.`);
+        } else {
+          setError(`Unable to load PDF: ${error.message || error}. Use the Raw PDF button as a fallback.`);
+        }
       }
       updateControls();
     }
