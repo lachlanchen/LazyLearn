@@ -500,6 +500,62 @@ footer {
   font-size: 0.95rem;
 }
 
+.pocketpolyglot-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 1rem;
+  margin-top: 1.8rem;
+}
+
+.pocketpolyglot-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.68);
+}
+
+.pocketpolyglot-card img {
+  width: 100%;
+  aspect-ratio: 1 / 1.42;
+  object-fit: cover;
+  object-position: top center;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.pocketpolyglot-card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  padding: 0.9rem;
+}
+
+.pocketpolyglot-card-body p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.78rem;
+  letter-spacing: 0.08rem;
+  text-transform: uppercase;
+}
+
+.pocketpolyglot-card-body h3 {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+.pocketpolyglot-card .hero-actions {
+  justify-content: flex-start;
+  gap: 0.5rem;
+}
+
+.pocketpolyglot-card .hero-actions a {
+  padding: 0.5rem 0.7rem;
+  font-size: 0.78rem;
+}
+
 .pocket-version-track {
   align-items: stretch;
   padding: 0.35rem 0.1rem 0.65rem;
@@ -777,6 +833,10 @@ p {
 }
 
 [data-theme="dark"] .pocket-edition-grid article {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+[data-theme="dark"] .pocketpolyglot-card {
   background: rgba(255, 255, 255, 0.08);
 }
 
