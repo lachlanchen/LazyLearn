@@ -190,7 +190,7 @@
     const sourcePath = params.get("path") || "";
     const explicitSourceUrl = params.get("src") || "";
     const title = params.get("title") || "PocketPolyglot PDF";
-    const allowedPrefix = "https://raw.githubusercontent.com/lachlanchen/LingualLeaf/main/";
+    const allowedPrefix = "https://raw.githubusercontent.com/lachlanchen/LinguaLeaf/main/";
 
     const titleEl = document.getElementById("title");
     const pageStatus = document.getElementById("pageStatus");
@@ -307,7 +307,7 @@
       titleEl.textContent = title;
       rawLink.href = sourceUrl || "#";
       if (!sourceUrl.startsWith(allowedPrefix)) {
-        setError("Missing or unsupported PDF URL. This reader only opens LingualLeaf GitHub raw PDFs.");
+        setError("Missing or unsupported PDF URL. This reader only opens LinguaLeaf GitHub raw PDFs.");
         updateControls();
         return;
       }
