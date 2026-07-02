@@ -187,10 +187,15 @@
       new URL("./vendor/pdfjs/pdf.worker.mjs", window.location.href).toString();
 
     const params = new URLSearchParams(window.location.search);
-    const sourcePath = params.get("path") || "";
+    let sourcePath = params.get("path") || "";
     const explicitSourceUrl = params.get("src") || "";
-    const title = params.get("title") || "PocketPolyglot PDF";
+    const requestedBook = params.get("book") || params.get("id") || "";
+    const requestedFamily = params.get("family") || "";
+    const requestedEdition = params.get("edition") || "";
+    const requestedMode = params.get("mode") || params.get("variant") || "color";
+    let title = params.get("title") || "";
     const allowedPrefix = "https://raw.githubusercontent.com/lachlanchen/LinguaLeaf/main/";
+    const catalogUrl = "pocketpolyglot/catalog.json";
 
     const titleEl = document.getElementById("title");
     const pageStatus = document.getElementById("pageStatus");
@@ -214,6 +219,7 @@
     let renderTask = null;
     let fallbackTimer = null;
     let nativeObjectUrl = "";
+    let sourceUrl = "";
 
     function encodePath(path) {
       return path
@@ -222,7 +228,42 @@
         .join("/");
     }
 
-    const sourceUrl = explicitSourceUrl || (sourcePath ? `${allowedPrefix}${encodePath(sourcePath)}` : "");
+    async function resolveShortBookLink() {
+      if (!requestedBook) return;
+      setLoading("Resolving book link...");
+      const response = await fetch(catalogUrl, { cache: "no-cache" });
+      if (!response.ok) {
+        throw new Error(`Catalog returned HTTP ${response.status}`);
+      }
+      const catalog = await response.json();
+      const mode = requestedMode || "color";
+      const matches = (catalog.rows || []).filter((entry) => {
+        return entry.book_id === requestedBook
+          && (entry.mode || "color") === mode
+          && (!requestedFamily || entry.family === requestedFamily)
+          && (!requestedEdition || entry.edition === requestedEdition);
+      });
+      if (!matches.length) {
+        throw new Error(`No catalog entry for book=${requestedBook}, mode=${mode}`);
+      }
+      const entry = matches[0];
+      sourcePath = entry.path || entry.export_pdf || entry.tracked_pdf || "";
+      if (!title) title = entry.title || requestedBook;
+    }
+
+    async function resolveSourceUrl() {
+      if (explicitSourceUrl) {
+        sourceUrl = explicitSourceUrl;
+        return;
+      }
+      if (!sourcePath && requestedBook) {
+        await resolveShortBookLink();
+      }
+      if (sourcePath) {
+        sourceUrl = `${allowedPrefix}${encodePath(sourcePath)}`;
+      }
+      if (!title) title = "PocketPolyglot PDF";
+    }
 
     function setError(text) {
       clearTimeout(fallbackTimer);
@@ -304,6 +345,13 @@
     }
 
     async function init() {
+      try {
+        await resolveSourceUrl();
+      } catch (error) {
+        setError(`Unable to resolve PDF: ${error.message || error}. Legacy path= links are still supported.`);
+        updateControls();
+        return;
+      }
       titleEl.textContent = title;
       rawLink.href = sourceUrl || "#";
       if (!sourceUrl.startsWith(allowedPrefix)) {
