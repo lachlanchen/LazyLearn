@@ -23,6 +23,26 @@
       "legacy_url": "pdf-reader.html?path=docs/pocketpolyglot/books/en-jp-zh/a-city-on-mars/en-main-jp-zh/blackwhite/A%20City%20on%20Mars%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%E3%83%BB%E9%BB%91%E7%99%BD%EF%BC%89%E3%83%BB%E6%9C%80%E5%A4%A7%E8%AA%9E%E7%A8%AE%E3%83%BB%E5%A4%A7%E5%AD%97%E7%89%88.pdf&title=A%20City%20on%20Mars%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89%20black-white"
     },
     {
+      "book_id": "a-game-of-thrones",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "color",
+      "title": "A Game of Thrones（日文・中文注）",
+      "path": "docs/pocketpolyglot/books/en-jp-zh/a-game-of-thrones/en-main-jp-zh/color/A Game of Thrones（日文・中文注）・最大語種・大字版.pdf",
+      "short_url": "pdf-reader.html?book=a-game-of-thrones",
+      "legacy_url": "pdf-reader.html?path=docs/pocketpolyglot/books/en-jp-zh/a-game-of-thrones/en-main-jp-zh/color/A%20Game%20of%20Thrones%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89%E3%83%BB%E6%9C%80%E5%A4%A7%E8%AA%9E%E7%A8%AE%E3%83%BB%E5%A4%A7%E5%AD%97%E7%89%88.pdf&title=A%20Game%20of%20Thrones%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89"
+    },
+    {
+      "book_id": "a-game-of-thrones",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "blackwhite",
+      "title": "A Game of Thrones（日文・中文注） black-white",
+      "path": "docs/pocketpolyglot/books/en-jp-zh/a-game-of-thrones/en-main-jp-zh/blackwhite/A Game of Thrones（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "short_url": "pdf-reader.html?book=a-game-of-thrones&mode=blackwhite",
+      "legacy_url": "pdf-reader.html?path=docs/pocketpolyglot/books/en-jp-zh/a-game-of-thrones/en-main-jp-zh/blackwhite/A%20Game%20of%20Thrones%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%E3%83%BB%E9%BB%91%E7%99%BD%EF%BC%89%E3%83%BB%E6%9C%80%E5%A4%A7%E8%AA%9E%E7%A8%AE%E3%83%BB%E5%A4%A7%E5%AD%97%E7%89%88.pdf&title=A%20Game%20of%20Thrones%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89%20black-white"
+    },
+    {
       "book_id": "bhagavad-gita",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
