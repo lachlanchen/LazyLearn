@@ -23,6 +23,26 @@
       "legacy_url": "pdf-reader.html?path=docs/pocketpolyglot/books/en-jp-zh/a-city-on-mars/en-main-jp-zh/blackwhite/A%20City%20on%20Mars%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%E3%83%BB%E9%BB%91%E7%99%BD%EF%BC%89%E3%83%BB%E6%9C%80%E5%A4%A7%E8%AA%9E%E7%A8%AE%E3%83%BB%E5%A4%A7%E5%AD%97%E7%89%88.pdf&title=A%20City%20on%20Mars%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89%20black-white"
     },
     {
+      "book_id": "bhagavad-gita",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "color",
+      "title": "The Bhagavad Gita（日文・中文注）",
+      "path": "docs/pocketpolyglot/books/en-jp-zh/bhagavad-gita/en-main-jp-zh/color/The Bhagavad Gita（日文・中文注）・最大語種・大字版.pdf",
+      "short_url": "pdf-reader.html?book=bhagavad-gita",
+      "legacy_url": "pdf-reader.html?path=docs/pocketpolyglot/books/en-jp-zh/bhagavad-gita/en-main-jp-zh/color/The%20Bhagavad%20Gita%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89%E3%83%BB%E6%9C%80%E5%A4%A7%E8%AA%9E%E7%A8%AE%E3%83%BB%E5%A4%A7%E5%AD%97%E7%89%88.pdf&title=The%20Bhagavad%20Gita%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89"
+    },
+    {
+      "book_id": "bhagavad-gita",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "blackwhite",
+      "title": "The Bhagavad Gita（日文・中文注） black-white",
+      "path": "docs/pocketpolyglot/books/en-jp-zh/bhagavad-gita/en-main-jp-zh/blackwhite/The Bhagavad Gita（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "short_url": "pdf-reader.html?book=bhagavad-gita&mode=blackwhite",
+      "legacy_url": "pdf-reader.html?path=docs/pocketpolyglot/books/en-jp-zh/bhagavad-gita/en-main-jp-zh/blackwhite/The%20Bhagavad%20Gita%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%E3%83%BB%E9%BB%91%E7%99%BD%EF%BC%89%E3%83%BB%E6%9C%80%E5%A4%A7%E8%AA%9E%E7%A8%AE%E3%83%BB%E5%A4%A7%E5%AD%97%E7%89%88.pdf&title=The%20Bhagavad%20Gita%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89%20black-white"
+    },
+    {
       "book_id": "bible",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
@@ -961,6 +981,26 @@
       "path": "docs/pocketpolyglot/books/wenyan-en-jp-zh/foguoji/wenyan-main-quadrilingual/blackwhite/佛國記（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
       "short_url": "pdf-reader.html?book=foguoji&mode=blackwhite",
       "legacy_url": "pdf-reader.html?path=docs/pocketpolyglot/books/wenyan-en-jp-zh/foguoji/wenyan-main-quadrilingual/blackwhite/%E4%BD%9B%E5%9C%8B%E8%A8%98%EF%BC%88%E8%8B%B1%E6%96%87%E3%83%BB%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%BB%E7%8F%BE%E4%BB%A3%E4%B8%AD%E6%96%87%E6%B3%A8%E3%83%BB%E9%BB%91%E7%99%BD%EF%BC%89%E3%83%BB%E6%9C%80%E5%A4%A7%E8%AA%9E%E7%A8%AE%E3%83%BB%E5%A4%A7%E5%AD%97%E7%89%88.pdf&title=%E4%BD%9B%E5%9C%8B%E8%A8%98%EF%BC%88%E8%8B%B1%E6%96%87%E3%83%BB%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%BB%E7%8F%BE%E4%BB%A3%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89%20black-white"
+    },
+    {
+      "book_id": "guoyu",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "title": "國語（英文・現代日本語・現代中文注）",
+      "path": "docs/pocketpolyglot/books/wenyan-en-jp-zh/guoyu/wenyan-main-quadrilingual/color/國語（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "short_url": "pdf-reader.html?book=guoyu",
+      "legacy_url": "pdf-reader.html?path=docs/pocketpolyglot/books/wenyan-en-jp-zh/guoyu/wenyan-main-quadrilingual/color/%E5%9C%8B%E8%AA%9E%EF%BC%88%E8%8B%B1%E6%96%87%E3%83%BB%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%BB%E7%8F%BE%E4%BB%A3%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89%E3%83%BB%E6%9C%80%E5%A4%A7%E8%AA%9E%E7%A8%AE%E3%83%BB%E5%A4%A7%E5%AD%97%E7%89%88.pdf&title=%E5%9C%8B%E8%AA%9E%EF%BC%88%E8%8B%B1%E6%96%87%E3%83%BB%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%BB%E7%8F%BE%E4%BB%A3%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89"
+    },
+    {
+      "book_id": "guoyu",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "title": "國語（英文・現代日本語・現代中文注） black-white",
+      "path": "docs/pocketpolyglot/books/wenyan-en-jp-zh/guoyu/wenyan-main-quadrilingual/blackwhite/國語（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "short_url": "pdf-reader.html?book=guoyu&mode=blackwhite",
+      "legacy_url": "pdf-reader.html?path=docs/pocketpolyglot/books/wenyan-en-jp-zh/guoyu/wenyan-main-quadrilingual/blackwhite/%E5%9C%8B%E8%AA%9E%EF%BC%88%E8%8B%B1%E6%96%87%E3%83%BB%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%BB%E7%8F%BE%E4%BB%A3%E4%B8%AD%E6%96%87%E6%B3%A8%E3%83%BB%E9%BB%91%E7%99%BD%EF%BC%89%E3%83%BB%E6%9C%80%E5%A4%A7%E8%AA%9E%E7%A8%AE%E3%83%BB%E5%A4%A7%E5%AD%97%E7%89%88.pdf&title=%E5%9C%8B%E8%AA%9E%EF%BC%88%E8%8B%B1%E6%96%87%E3%83%BB%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%BB%E7%8F%BE%E4%BB%A3%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89%20black-white"
     },
     {
       "book_id": "han-shu",
