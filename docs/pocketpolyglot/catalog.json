@@ -143,6 +143,26 @@
       "legacy_url": "pdf-reader.html?path=docs/pocketpolyglot/books/en-jp-zh/gone-with-the-wind/en-main-jp-zh/blackwhite/Gone%20With%20the%20Wind%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%E3%83%BB%E9%BB%91%E7%99%BD%EF%BC%89%E3%83%BB%E6%9C%80%E5%A4%A7%E8%AA%9E%E7%A8%AE%E3%83%BB%E5%A4%A7%E5%AD%97%E7%89%88.pdf&title=Gone%20With%20the%20Wind%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89%20black-white"
     },
     {
+      "book_id": "harry-potter-1",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "color",
+      "title": "Harry Potter and the Sorcerer's Stone（日文・中文注）",
+      "path": "docs/pocketpolyglot/books/en-jp-zh/harry-potter-1/en-main-jp-zh/color/Harry Potter and the Sorcerer's Stone（日文・中文注）・最大語種・大字版.pdf",
+      "short_url": "pdf-reader.html?book=harry-potter-1",
+      "legacy_url": "pdf-reader.html?path=docs/pocketpolyglot/books/en-jp-zh/harry-potter-1/en-main-jp-zh/color/Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89%E3%83%BB%E6%9C%80%E5%A4%A7%E8%AA%9E%E7%A8%AE%E3%83%BB%E5%A4%A7%E5%AD%97%E7%89%88.pdf&title=Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89"
+    },
+    {
+      "book_id": "harry-potter-1",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "blackwhite",
+      "title": "Harry Potter and the Sorcerer's Stone（日文・中文注） black-white",
+      "path": "docs/pocketpolyglot/books/en-jp-zh/harry-potter-1/en-main-jp-zh/blackwhite/Harry Potter and the Sorcerer's Stone（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "short_url": "pdf-reader.html?book=harry-potter-1&mode=blackwhite",
+      "legacy_url": "pdf-reader.html?path=docs/pocketpolyglot/books/en-jp-zh/harry-potter-1/en-main-jp-zh/blackwhite/Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%E3%83%BB%E9%BB%91%E7%99%BD%EF%BC%89%E3%83%BB%E6%9C%80%E5%A4%A7%E8%AA%9E%E7%A8%AE%E3%83%BB%E5%A4%A7%E5%AD%97%E7%89%88.pdf&title=Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone%EF%BC%88%E6%97%A5%E6%96%87%E3%83%BB%E4%B8%AD%E6%96%87%E6%B3%A8%EF%BC%89%20black-white"
+    },
+    {
       "book_id": "i-am-a-cat",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
