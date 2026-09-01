@@ -391,6 +391,44 @@ footer {
   text-align: center;
 }
 
+.reader-collection-path {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 1rem;
+  padding: 1.3rem 1.4rem;
+  border: 1px solid rgba(123, 93, 255, 0.28);
+  border-radius: 22px;
+  background:
+    linear-gradient(135deg, rgba(123, 93, 255, 0.13), rgba(188, 255, 94, 0.1)),
+    var(--surface);
+}
+
+.reader-collection-path .eyebrow {
+  margin: 0 0 0.3rem;
+}
+
+.reader-collection-path h2 {
+  margin: 0 0 0.35rem;
+  font-size: clamp(1.35rem, 3vw, 1.8rem);
+}
+
+.reader-collection-path p:last-child {
+  max-width: 760px;
+  margin: 0;
+  color: var(--muted);
+}
+
+.reader-collection-link {
+  min-width: 220px;
+  border-color: rgba(123, 93, 255, 0.38);
+  background: var(--accent-strong);
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+}
+
 .featured-copy .hero-actions {
   justify-content: flex-start;
 }
@@ -1311,6 +1349,14 @@ html[dir="rtl"] #language-picker {
 }
 
 @media (max-width: 900px) {
+  .reader-collection-path {
+    grid-template-columns: 1fr;
+  }
+
+  .reader-collection-link {
+    width: 100%;
+  }
+
   .published-book-track {
     gap: 0.8rem;
   }
