@@ -16,6 +16,15 @@
     />
     <link rel="stylesheet" href="styles.css?v=20260902-reader-path" />
     <script src="reader-theme.js" defer></script>
+    <style>
+      #book-controls[hidden], #pdf-frame[hidden] { display: none; }
+      #book-controls { min-width: 0; max-width: 100%; }
+      #book-select { width: min(360px, 100%); min-width: 0; max-width: 100%; }
+      .course-pdfs { margin-top: 1rem; padding: 1rem; border: 1px solid var(--border); border-radius: 16px; }
+      .course-pdfs summary { cursor: pointer; font-weight: 700; }
+      .course-pdfs ul { padding-left: 1.25rem; }
+      .course-pdfs li { margin: 0.75rem 0; overflow-wrap: anywhere; }
+    </style>
   </head>
   <body>
     <div class="background-glow" aria-hidden="true"></div>
@@ -43,7 +52,7 @@
           <p class="eyebrow">Leonard Susskind Reader</p>
           <h1 id="book-title">Leonard Susskind Lecture Notes</h1>
           <p class="tagline" id="book-subtitle">
-            Read the selected Susskind course book inline instead of opening a bare GitHub PDF.
+            Choose a course PDF below, or use the inline reader when available.
           </p>
           <p>
             Free community companion notes for Susskind's public lectures, independently edited
@@ -52,13 +61,13 @@
         </div>
 
         <div class="pdf-reader-toolbar">
-          <div class="pdf-reader-language-group">
+          <div class="pdf-reader-language-group" id="book-controls" hidden>
             <label class="pdf-reader-select-label" for="book-select">Book</label>
             <select class="pdf-reader-select" id="book-select" aria-label="Choose Susskind book"></select>
           </div>
           <div class="pdf-reader-actions">
-            <a class="pdf-reader-link" id="raw-pdf-link" href="#" target="_blank" rel="noopener">Open companion-notes PDF</a>
-            <a class="pdf-reader-link" id="source-link" href="#" target="_blank" rel="noopener">Open PDF on GitHub</a>
+            <a class="pdf-reader-link" id="raw-pdf-link" href="#course-pdfs" rel="noopener">Choose a course PDF</a>
+            <a class="pdf-reader-link" id="source-link" href="https://github.com/lachlanchen/leonardsusskind" target="_blank" rel="noopener">Browse PDF sources</a>
             <a
               class="pdf-reader-link"
               href="https://github.com/lachlanchen/leonardsusskind"
@@ -71,12 +80,38 @@
         </div>
 
         <div class="pdf-reader-stage">
-          <iframe id="pdf-frame" title="Leonard Susskind PDF reader" src=""></iframe>
+          <iframe id="pdf-frame" title="Leonard Susskind PDF reader" hidden></iframe>
           <p class="pdf-reader-fallback">
             If the inline reader does not load, use
-            <a id="fallback-pdf-link" href="#" target="_blank" rel="noopener">the direct PDF link</a>.
+            <a id="fallback-pdf-link" href="#course-pdfs" rel="noopener">the course PDF links below</a>.
           </p>
         </div>
+
+        <details id="course-pdfs" class="course-pdfs" open>
+          <summary>All course PDFs</summary>
+          <p>Open a companion-notes PDF directly, without the inline reader.</p>
+          <ul>
+            <li><a data-book="classical-mechanics-theoretical-minimum" data-title="Classical Mechanics" data-subtitle="The Theoretical Minimum" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/core_classical_mechanics/2011_fall_theoretical_minimum/classical_mechanics_theoretical_minimum.pdf" target="_blank" rel="noopener">Classical Mechanics — The Theoretical Minimum</a></li>
+            <li><a data-book="quantum-mechanics-theoretical-minimum" data-title="Quantum Mechanics" data-subtitle="The Theoretical Minimum" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/core_quantum_mechanics/2012_winter_theoretical_minimum/quantum_mechanics_theoretical_minimum.pdf" target="_blank" rel="noopener">Quantum Mechanics — The Theoretical Minimum</a></li>
+            <li><a data-book="special-relativity-theoretical-minimum" data-title="Special Relativity" data-subtitle="The Theoretical Minimum" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/core_special_relativity/2012_spring_theoretical_minimum/special_relativity_theoretical_minimum.pdf" target="_blank" rel="noopener">Special Relativity — The Theoretical Minimum</a></li>
+            <li><a data-book="general-relativity-theoretical-minimum" data-title="General Relativity" data-subtitle="The Theoretical Minimum" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/core_general_relativity/2012_fall_theoretical_minimum/general_relativity_theoretical_minimum.pdf" target="_blank" rel="noopener">General Relativity — The Theoretical Minimum</a></li>
+            <li><a data-book="statistical-mechanics-theoretical-minimum" data-title="Statistical Mechanics" data-subtitle="The Theoretical Minimum" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/core_statistical_mechanics/2013_spring_theoretical_minimum/statistical_mechanics_theoretical_minimum.pdf" target="_blank" rel="noopener">Statistical Mechanics — The Theoretical Minimum</a></li>
+            <li><a data-book="cosmology-theoretical-minimum" data-title="Cosmology" data-subtitle="The Theoretical Minimum" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/core_cosmology/2013_winter_theoretical_minimum/cosmology_theoretical_minimum.pdf" target="_blank" rel="noopener">Cosmology — The Theoretical Minimum</a></li>
+            <li><a data-book="classical-mechanics-stanford-partial" data-title="Classical Mechanics" data-subtitle="Stanford partial run" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/core_classical_mechanics/2011_fall_modern_physics_stanford_partial/classical_mechanics_stanford_partial.pdf" target="_blank" rel="noopener">Classical Mechanics — Stanford partial run</a></li>
+            <li><a data-book="quantum-mechanics-modern-physics-stanford" data-title="Quantum Mechanics" data-subtitle="Modern Physics Stanford" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/core_quantum_mechanics/2012_winter_modern_physics_stanford/quantum_mechanics_modern_physics_stanford.pdf" target="_blank" rel="noopener">Quantum Mechanics — Modern Physics Stanford</a></li>
+            <li><a data-book="general-relativity-einstein-2008" data-title="General Relativity" data-subtitle="Einstein's General Theory of Relativity, 2008" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/core_general_relativity/2008_fall_einsteins_general_theory_of_relativity/general_relativity_2008_fall_einsteins_general_theory_of_relativity.pdf" target="_blank" rel="noopener">General Relativity — Einstein's General Theory of Relativity, 2008</a></li>
+            <li><a data-book="cosmology-legacy" data-title="Cosmology" data-subtitle="Legacy course" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/core_cosmology/2009_winter_legacy_cosmology/cosmology_legacy.pdf" target="_blank" rel="noopener">Cosmology — Legacy course</a></li>
+            <li><a data-book="advanced-quantum-mechanics" data-title="Advanced Quantum Mechanics" data-subtitle="Supplementary course book" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/supplemental_advanced_quantum/advanced_quantum_mechanics.pdf" target="_blank" rel="noopener">Advanced Quantum Mechanics — Supplementary course book</a></li>
+            <li><a data-book="particle-physics-1-basic-concepts" data-title="Particle Physics 1" data-subtitle="Basic Concepts" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/supplemental_particle_physics_1/particle_physics_1_basic_concepts.pdf" target="_blank" rel="noopener">Particle Physics 1 — Basic Concepts</a></li>
+            <li><a data-book="particle-physics-2-standard-model" data-title="Particle Physics 2" data-subtitle="Standard Model" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/supplemental_particle_physics_2/particle_physics_2_standard_model.pdf" target="_blank" rel="noopener">Particle Physics 2 — Standard Model</a></li>
+            <li><a data-book="particle-physics-3-supersymmetry-and-grand-unification" data-title="Particle Physics 3" data-subtitle="Supersymmetry and Grand Unification" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/supplemental_particle_physics_3/particle_physics_3_supersymmetry_and_grand_unification.pdf" target="_blank" rel="noopener">Particle Physics 3 — Supersymmetry and Grand Unification</a></li>
+            <li><a data-book="quantum-entanglement-part-1" data-title="Quantum Entanglement" data-subtitle="Part 1" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/supplemental_quantum_entanglement/quantum_entanglement_part_1.pdf" target="_blank" rel="noopener">Quantum Entanglement — Part 1</a></li>
+            <li><a data-book="quantum-entanglement-part-3" data-title="Quantum Entanglement" data-subtitle="Part 3" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/supplemental_quantum_entanglement/quantum_entanglement_part_3.pdf" target="_blank" rel="noopener">Quantum Entanglement — Part 3</a></li>
+            <li><a data-book="topics-in-string-theory" data-title="Topics in String Theory" data-subtitle="Cosmology and Black Holes" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/supplemental_cosmology_and_black_holes/topics_in_string_theory.pdf" target="_blank" rel="noopener">Topics in String Theory — Cosmology and Black Holes</a></li>
+            <li><a data-book="string-theory-and-m-theory" data-title="String Theory and M-Theory" data-subtitle="Supplementary course book" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/supplemental_string_theory/string_theory_and_m_theory.pdf" target="_blank" rel="noopener">String Theory and M-Theory — Supplementary course book</a></li>
+            <li><a data-book="demystifying-the-higgs-boson" data-title="Demystifying the Higgs Boson" data-subtitle="Single-lecture book" href="https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/supplemental_higgs_boson/demystifying_the_higgs_boson.pdf" target="_blank" rel="noopener">Demystifying the Higgs Boson — Single-lecture book</a></li>
+          </ul>
+        </details>
 
         <aside class="reader-collection-path" aria-labelledby="reader-collection-title">
           <div>
@@ -99,111 +134,20 @@
     </main>
 
     <script>
-      const rawBase = "https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/";
       const blobBase = "https://github.com/lachlanchen/leonardsusskind/blob/main/";
       const pdfJsBase = "https://mozilla.github.io/pdf.js/web/viewer.html?file=";
-      const books = {
-        "classical-mechanics-theoretical-minimum": {
-          title: "Classical Mechanics",
-          subtitle: "The Theoretical Minimum",
-          pdf: "core_classical_mechanics/2011_fall_theoretical_minimum/classical_mechanics_theoretical_minimum.pdf",
-        },
-        "quantum-mechanics-theoretical-minimum": {
-          title: "Quantum Mechanics",
-          subtitle: "The Theoretical Minimum",
-          pdf: "core_quantum_mechanics/2012_winter_theoretical_minimum/quantum_mechanics_theoretical_minimum.pdf",
-        },
-        "special-relativity-theoretical-minimum": {
-          title: "Special Relativity",
-          subtitle: "The Theoretical Minimum",
-          pdf: "core_special_relativity/2012_spring_theoretical_minimum/special_relativity_theoretical_minimum.pdf",
-        },
-        "general-relativity-theoretical-minimum": {
-          title: "General Relativity",
-          subtitle: "The Theoretical Minimum",
-          pdf: "core_general_relativity/2012_fall_theoretical_minimum/general_relativity_theoretical_minimum.pdf",
-        },
-        "statistical-mechanics-theoretical-minimum": {
-          title: "Statistical Mechanics",
-          subtitle: "The Theoretical Minimum",
-          pdf: "core_statistical_mechanics/2013_spring_theoretical_minimum/statistical_mechanics_theoretical_minimum.pdf",
-        },
-        "cosmology-theoretical-minimum": {
-          title: "Cosmology",
-          subtitle: "The Theoretical Minimum",
-          pdf: "core_cosmology/2013_winter_theoretical_minimum/cosmology_theoretical_minimum.pdf",
-        },
-        "classical-mechanics-stanford-partial": {
-          title: "Classical Mechanics",
-          subtitle: "Stanford partial run",
-          pdf: "core_classical_mechanics/2011_fall_modern_physics_stanford_partial/classical_mechanics_stanford_partial.pdf",
-        },
-        "quantum-mechanics-modern-physics-stanford": {
-          title: "Quantum Mechanics",
-          subtitle: "Modern Physics Stanford",
-          pdf: "core_quantum_mechanics/2012_winter_modern_physics_stanford/quantum_mechanics_modern_physics_stanford.pdf",
-        },
-        "general-relativity-einstein-2008": {
-          title: "General Relativity",
-          subtitle: "Einstein's General Theory of Relativity, 2008",
-          pdf: "core_general_relativity/2008_fall_einsteins_general_theory_of_relativity/general_relativity_2008_fall_einsteins_general_theory_of_relativity.pdf",
-        },
-        "cosmology-legacy": {
-          title: "Cosmology",
-          subtitle: "Legacy course",
-          pdf: "core_cosmology/2009_winter_legacy_cosmology/cosmology_legacy.pdf",
-        },
-        "advanced-quantum-mechanics": {
-          title: "Advanced Quantum Mechanics",
-          subtitle: "Supplementary course book",
-          pdf: "supplemental_advanced_quantum/advanced_quantum_mechanics.pdf",
-        },
-        "particle-physics-1-basic-concepts": {
-          title: "Particle Physics 1",
-          subtitle: "Basic Concepts",
-          pdf: "supplemental_particle_physics_1/particle_physics_1_basic_concepts.pdf",
-        },
-        "particle-physics-2-standard-model": {
-          title: "Particle Physics 2",
-          subtitle: "Standard Model",
-          pdf: "supplemental_particle_physics_2/particle_physics_2_standard_model.pdf",
-        },
-        "particle-physics-3-supersymmetry-and-grand-unification": {
-          title: "Particle Physics 3",
-          subtitle: "Supersymmetry and Grand Unification",
-          pdf: "supplemental_particle_physics_3/particle_physics_3_supersymmetry_and_grand_unification.pdf",
-        },
-        "quantum-entanglement-part-1": {
-          title: "Quantum Entanglement",
-          subtitle: "Part 1",
-          pdf: "supplemental_quantum_entanglement/quantum_entanglement_part_1.pdf",
-        },
-        "quantum-entanglement-part-3": {
-          title: "Quantum Entanglement",
-          subtitle: "Part 3",
-          pdf: "supplemental_quantum_entanglement/quantum_entanglement_part_3.pdf",
-        },
-        "topics-in-string-theory": {
-          title: "Topics in String Theory",
-          subtitle: "Cosmology and Black Holes",
-          pdf: "supplemental_cosmology_and_black_holes/topics_in_string_theory.pdf",
-        },
-        "string-theory-and-m-theory": {
-          title: "String Theory and M-Theory",
-          subtitle: "Supplementary course book",
-          pdf: "supplemental_string_theory/string_theory_and_m_theory.pdf",
-        },
-        "demystifying-the-higgs-boson": {
-          title: "Demystifying the Higgs Boson",
-          subtitle: "Single-lecture book",
-          pdf: "supplemental_higgs_boson/demystifying_the_higgs_boson.pdf",
-        },
-      };
+      // The static links are the catalog: they still work if this script fails.
+      const books = new Map(
+        [...document.querySelectorAll("#course-pdfs a[data-book]")].map((link) => [
+          link.dataset.book,
+          { title: link.dataset.title, subtitle: link.dataset.subtitle, url: link.href },
+        ]),
+      );
 
       const params = new URLSearchParams(window.location.search);
       const defaultSlug = "quantum-mechanics-theoretical-minimum";
-      const slug = books[params.get("book")] ? params.get("book") : defaultSlug;
-      const book = books[slug];
+      const slug = books.has(params.get("book")) ? params.get("book") : defaultSlug;
+      const book = books.get(slug);
       const select = document.getElementById("book-select");
       const title = document.getElementById("book-title");
       const subtitle = document.getElementById("book-subtitle");
@@ -212,24 +156,33 @@
       const sourceLink = document.getElementById("source-link");
       const fallbackLink = document.getElementById("fallback-pdf-link");
 
-      Object.entries(books).forEach(([bookSlug, item]) => {
+      books.forEach((item, bookSlug) => {
         const option = document.createElement("option");
         option.value = bookSlug;
         option.textContent = `${item.title} - ${item.subtitle}`;
         select.appendChild(option);
       });
 
-      const rawPdfUrl = `${rawBase}${book.pdf}`;
-      const sourceUrl = `${blobBase}${book.pdf}`;
+      const rawPdfUrl = book.url;
+      const sourceUrl = rawPdfUrl.replace("https://raw.githubusercontent.com/lachlanchen/leonardsusskind/main/", blobBase);
       const viewerUrl = `${pdfJsBase}${encodeURIComponent(rawPdfUrl)}`;
       select.value = slug;
       title.textContent = book.title;
       subtitle.textContent = book.subtitle;
       document.title = `${book.title} Reader · Leonard Susskind`;
-      frame.src = viewerUrl;
       rawLink.href = rawPdfUrl;
       sourceLink.href = sourceUrl;
       fallbackLink.href = rawPdfUrl;
+      rawLink.textContent = "Open companion-notes PDF";
+      sourceLink.textContent = "Open PDF on GitHub";
+      fallbackLink.textContent = "the direct PDF link";
+      rawLink.target = "_blank";
+      fallbackLink.target = "_blank";
+      document.getElementById("book-controls").hidden = false;
+      document.getElementById("course-pdfs").open = false;
+      frame.title = `${book.title} PDF reader`;
+      frame.src = viewerUrl;
+      frame.hidden = false;
 
       select.addEventListener("change", (event) => {
         const nextUrl = new URL(window.location.href);
