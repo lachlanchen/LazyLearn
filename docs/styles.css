@@ -847,6 +847,34 @@ p {
   flex-wrap: wrap;
 }
 
+.bunko-reader {
+  margin: 2.5rem auto 0;
+  width: min(1100px, calc(100% - 2rem));
+  padding: clamp(1.5rem, 4vw, 3rem);
+  border: 1px solid var(--border);
+  border-radius: 28px;
+  background: var(--surface-strong);
+  box-shadow: 0 18px 50px rgba(33, 27, 84, 0.12);
+}
+
+.bunko-reader h2 {
+  margin: 0 0 0.75rem;
+  color: var(--text);
+}
+
+.bunko-reader p {
+  max-width: 72ch;
+  color: var(--muted);
+}
+
+.bunko-reader .hero-actions {
+  margin: 1.25rem 0;
+}
+
+.bunko-reader-status {
+  font-size: 0.9rem;
+}
+
 .timeline {
   margin-top: 4rem;
   padding: 3rem;

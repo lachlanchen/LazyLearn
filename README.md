@@ -13,6 +13,12 @@ Knowledge + skill, unrushed.
 ![Docs](https://img.shields.io/badge/Docs-Static%20Microsite-0ea5e9?style=for-the-badge&logo=markdown&logoColor=white)
 ![Languages](https://img.shields.io/badge/Languages-11-0f766e?style=for-the-badge&logo=googletranslate&logoColor=white)
 
+## Read these books in Bunko
+
+The [Bunko web reader](https://lachlan.lazying.art/Bunko/) includes all 19 independent Leonard Susskind lecture companion books, *How to Speak and Write*, and *Justice with Michael Sandel*. Bunko's current editions of the two LazyLearn books are English; this site's Chinese and Japanese editions of *How to Speak and Write* remain available through its own reader. [Bunko on the App Store](https://apps.apple.com/us/app/bunko-classics-with-ruby/id6815137919) is live, while the Physics and Learning shelves are currently in the app's internal test build. Google Play package `art.lazying.bunko` is awaiting public release. Read these editions on Bunko's web reader now.
+
+Open the learning books directly: [How to Speak and Write](https://lachlan.lazying.art/Bunko/?book=learning-speak-and-write) · [Justice with Michael Sandel](https://lachlan.lazying.art/Bunko/?book=learning-justice-sandel).
+
 <!-- POCKETPOLYGLOT_MAX_LANGUAGE:START -->
 ## PocketPolyglot Maximum-Language Editions
 
