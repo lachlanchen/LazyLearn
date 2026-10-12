@@ -127,14 +127,16 @@ const expected = [
   }
 ];
 
-function render(query = "") {
+function render(query = "", editions = null) {
   const nodes = new Map();
   for (const id of ["book-select", "book-title", "book-subtitle", "pdf-frame",
-    "raw-pdf-link", "source-link", "fallback-pdf-link", "book-controls", "course-pdfs"]) {
+    "raw-pdf-link", "source-link", "fallback-pdf-link", "book-controls", "course-pdfs",
+    "language-select", "language-controls"]) {
     nodes.set(id, { hidden: true, open: true, children: [], events: {},
       appendChild(child) { this.children.push(child); },
       addEventListener(name, callback) { this.events[name] = callback; } });
   }
+  if (editions) nodes.set("reading-editions", {textContent: JSON.stringify(editions)});
   const document = {
     getElementById: (id) => nodes.get(id),
     querySelectorAll: (selector) => {
@@ -163,7 +165,7 @@ test("uninitialized reader offers real links and hides empty JS controls", () =>
   assert.match(html, /<details id="course-pdfs"[^>]* open>/);
   assert.match(html, /id="book-controls" hidden/);
   assert.match(html, /<iframe id="pdf-frame"[^>]* hidden>/);
-  assert.match(html, /#book-controls\[hidden\], #pdf-frame\[hidden\] \{ display: none; \}/);
+  assert.match(html, /#book-controls\[hidden\], #language-controls\[hidden\], #pdf-frame\[hidden\] \{ display: none; \}/);
   assert.match(html, /id="raw-pdf-link" href="#course-pdfs"[^>]*>Choose a course PDF/);
   assert.match(html, /id="fallback-pdf-link" href="#course-pdfs"/);
   assert.match(html, /id="source-link" href="https:\/\/github.com\/lachlanchen\/leonardsusskind"/);
@@ -183,7 +185,7 @@ for (const book of expected) {
       assert.equal(nodes.get(id).target, "_blank");
     }
     assert.equal(nodes.get("source-link").href, "https://github.com/lachlanchen/leonardsusskind/blob/main/" + book.pdf);
-    assert.equal(nodes.get("pdf-frame").src, "https://mozilla.github.io/pdf.js/web/viewer.html?file=" + encodeURIComponent(raw));
+    assert.equal(nodes.get("pdf-frame").src, "https://mozilla.github.io/pdf.js/web/viewer.html?file=" + encodeURIComponent(raw) + "#pagemode=none&zoom=page-width");
     assert.equal(nodes.get("pdf-frame").hidden, false);
     assert.equal(nodes.get("book-controls").hidden, false);
     assert.equal(nodes.get("course-pdfs").open, false);
@@ -205,4 +207,34 @@ test("course selection keeps other query parameters", () => {
   const next = new URL(window.location.href);
   assert.equal(next.searchParams.get("book"), "advanced-quantum-mechanics");
   assert.equal(next.searchParams.get("utm_source"), "test");
+});
+
+const multilingual = {books: {"demystifying-the-higgs-boson": {
+  titles: {en: "Higgs Boson", ja: "ヒッグス粒子", zh: "希格斯玻色子"},
+  editions: {en: {pdf: rawBase + "en.pdf"}, ja: {pdf: rawBase + "ja.pdf"}, zh: {pdf: rawBase + "zh.pdf"}}
+}}};
+for (const lang of ["en", "ja", "zh"]) {
+  test(`verified ${lang} edition updates all reader links`, () => {
+    const {nodes} = render(`?book=demystifying-the-higgs-boson&lang=${lang}`, multilingual);
+    assert.equal(nodes.get("language-select").value, lang);
+    assert.equal(nodes.get("language-controls").hidden, false);
+    assert.equal(nodes.get("raw-pdf-link").href, rawBase + lang + ".pdf");
+    assert.equal(nodes.get("fallback-pdf-link").href, rawBase + lang + ".pdf");
+    assert.match(nodes.get("pdf-frame").src, /#pagemode=none&zoom=page-width$/);
+    assert.equal(nodes.get("book-title").textContent, multilingual.books["demystifying-the-higgs-boson"].titles[lang]);
+  });
+}
+test("language changes retain book identity and attribution query", () => {
+  const {nodes, window} = render("?book=demystifying-the-higgs-boson&utm_source=readme", multilingual);
+  nodes.get("language-select").events.change({target: {value: "ja"}});
+  const url = new URL(window.location.href);
+  assert.equal(url.searchParams.get("book"), "demystifying-the-higgs-boson");
+  assert.equal(url.searchParams.get("utm_source"), "readme");
+  assert.equal(url.searchParams.get("lang"), "ja");
+});
+test("unknown and inherited languages cannot select an unverified PDF", () => {
+  for (const lang of ["__proto__", "constructor", "fr"]) {
+    const {nodes} = render(`?book=demystifying-the-higgs-boson&lang=${lang}`, multilingual);
+    assert.equal(nodes.get("language-select").value, "en");
+  }
 });
